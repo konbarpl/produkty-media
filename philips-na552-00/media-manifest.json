@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-05T09:40:16.658Z",
+  "sourcePage": "https://www.philips.pl/c-p/NA552_00/ovi-dual-basket-airfryer-seria-5000",
+  "slug": "philips-na552-00",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d1128665_8296_494a_bd6853e9c99c07ac?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 37328,
+      "sha256": "726765a83a13ce6a7c04e1f3ff71843305a33cc81fbcd39d2df57fd1206400ab"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_fe462878_c45b_4a49_8ebc9bf82782e1f3?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 222660,
+      "sha256": "88e4348061059705392e13f9058ca8b6e50e3505d3290c6d395cfdc4493630af"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5bc45dbb_566f_46c1_8dc214bfd73ff475?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 76570,
+      "sha256": "22404ba8460496a391dbf745fb51b9c400c2e771185313cdb76a1124fdd710e4"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c35d4b37_5a92_455e_913ff1a2edebf34d?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 104246,
+      "sha256": "cce6a3781bf40499d7d63fbcdf8fc49da25a5f2e5a79046520d41f0a52f3f477"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ce5eb1ea_5af1_41a3_a48177d61c994e2b?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 193272,
+      "sha256": "c2912c9969ee80f67dcdf6047f53ded2ef21bf7b3326a6efbb74abe81ac43cc8"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_29e29d3d_3cd1_405e_a08deb347181d5c8?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 48226,
+      "sha256": "2a580fb3bfa37e7ff7193d2d2520bda49cc1e8767bb9b1ff52d010af99128fa9"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_68d0be5c_3433_483d_8145a7c212d7f597?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 50008,
+      "sha256": "aded72d0cd54f76a5e798689148b9200bd261ddbf4ebf0852a95951e5494b260"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_fba6deac_f8ab_415a_8494a36affc8f41b?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 103472,
+      "sha256": "dc12864346d0f4918b658a2f0eb922046ff208206ca8f80da66b4eb9bb6745ff"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d54283f2_b762_4998_a04138cd2d2c6999?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 86448,
+      "sha256": "ce6ece01991a746ed8fa480e6019958725c57f80dcfe987f9d00354ac4c2940c"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_32ff4a17_8222_4088_953d01360f16d7f9?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 31676,
+      "sha256": "7653211b767c2d3f22730c8b29161451f509c5d5b8508597a905decc2898a42b"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_01bdc302_1909_49b0_aeb0c80ec866f3dc?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 87618,
+      "sha256": "e62815a73a98e7f719a398e142f72d5ef779fb3607ba5371924bd8bb1ea0c17d"
+    }
+  ],
+  "dropped": 0
+}
