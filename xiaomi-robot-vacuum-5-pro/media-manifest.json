@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-05T08:57:47.188Z",
+  "sourcePage": "https://mi-store.pl/product-pol-3618-Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-5-Pro.html",
+  "slug": "xiaomi-robot-vacuum-5-pro",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-10.jpg",
+    "opis-11.jpg",
+    "opis-12.jpg",
+    "opis-13.jpg",
+    "opis-14.jpg",
+    "opis-15.jpg",
+    "opis-16.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/8694c1928b75312e7fab12a72572c171/pol_pl_Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-5-Pro-3618_1.webp",
+      "width": 600,
+      "bytes": 8614,
+      "sha256": "33cbd06fd018279a2331946bbb063aaac7513459ec0fb046d1053355049e7aeb"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/f7267c10848ef3675e257cf817e6196e/pol_pl_Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-5-Pro-3618_2.webp",
+      "width": 600,
+      "bytes": 12946,
+      "sha256": "eea8e2935ddd5df44161cd4cb90f91611edd8a5039c553a136bfaef2fb8ab612"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/54be4339704751daf0b4c0812e08fcf6/pol_pl_Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-5-Pro-3618_3.webp",
+      "width": 600,
+      "bytes": 9704,
+      "sha256": "4ff25eb558e4a708e84bd8375652b66d447469072cb619a3618ff1b7a29f46f0"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/47865b7b01feb94b37ac6b880ac739b7/pol_pl_Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-5-Pro-3618_4.webp",
+      "width": 600,
+      "bytes": 22260,
+      "sha256": "ad42643ac802ca052d3b8e6e9c01a5999fc782335044301f96800df6b857267d"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/hpeciai/eaa8463b4ce36771b1ac86d557daaadd/pol_pl_Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-5-Pro-3618_5.webp",
+      "width": 600,
+      "bytes": 53174,
+      "sha256": "405782bb7ad87d966897a569b070651ba220f1cfdcc1dc9b67a5dc8ef5811239"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/1.jpg",
+      "width": 1280,
+      "bytes": 405082,
+      "sha256": "e3f801bce62a82af844d18822e28113688fee55c2b91cb6b32e20002ca8d3851"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/2.jpg",
+      "width": 1280,
+      "bytes": 438814,
+      "sha256": "6945bba421108e016039f64672ed720db1a2db63f296c39c4816218bcceb528d"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/3.jpg",
+      "width": 1260,
+      "bytes": 785405,
+      "sha256": "e872d88de0ce1e9fd4629a762825d649dca7c7711ce543e52ddb1b7dd6e79670"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/4.jpg",
+      "width": 1280,
+      "bytes": 316512,
+      "sha256": "02d8a5050069ba9bdb74b95dfbc50b4555f714221bc880f1ef1607e0c2055117"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/5.jpg",
+      "width": 1280,
+      "bytes": 630030,
+      "sha256": "ca30a3ce9561764e21ee2683bd93c5f7c8c12ea5b6859e4dd7608a12dd8837bf"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/6.jpg",
+      "width": 1260,
+      "bytes": 625931,
+      "sha256": "23348804c1fefe1a208403f156fa6b33a87c97acd241d55440dfe94b30043f80"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/7.jpg",
+      "width": 1280,
+      "bytes": 283607,
+      "sha256": "ebab7db307f86258b375d1bbaa4d77d678f001d162dbec9aefa5a874fe88248f"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/8.jpg",
+      "width": 1280,
+      "bytes": 567653,
+      "sha256": "a0745e45a6b31ec3194d6bbbe8fbd95492b579e2b6b0969ee67e56ad8fa2161e"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/9.jpg",
+      "width": 1260,
+      "bytes": 438554,
+      "sha256": "13e818549a4cef7d51a7c144ee58302b80f106957789c16602a8e787d4277547"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/10.jpg",
+      "width": 1280,
+      "bytes": 551737,
+      "sha256": "c8523de668be26b88619f06eb0dc921d5de72bf6379a1dd0a61e5e8cb18ec370"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/11.jpg",
+      "width": 1280,
+      "bytes": 225438,
+      "sha256": "8aaddc824bd63046eb500f8ff3ee81546ea386075a47e539efb9bad193fe9f43"
+    },
+    {
+      "file": "opis-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/12.jpg",
+      "width": 1260,
+      "bytes": 473649,
+      "sha256": "1240c389909a246340d67250f4a41a4efa1fe6106aa31f359a22bd07394c0c28"
+    },
+    {
+      "file": "opis-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/13.jpg",
+      "width": 1280,
+      "bytes": 819546,
+      "sha256": "fb798c214d8d69002f5b36908c247486b272a622dc4f3847ed8d46c6e36992bb"
+    },
+    {
+      "file": "opis-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/14.jpg",
+      "width": 1260,
+      "bytes": 599308,
+      "sha256": "df4a7bd16fcb1b15528a7048479311a6ddd9caee3c7665f432ec3569a349b8ca"
+    },
+    {
+      "file": "opis-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/15.jpg",
+      "width": 1260,
+      "bytes": 527901,
+      "sha256": "35fcad9439d47147cf1d31748ba9314aaa94fff7e5e9abb5ddd05d0da28a3a0c"
+    },
+    {
+      "file": "opis-16.jpg",
+      "kind": "lifestyle",
+      "order": 16,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3618-Xiaomi-Robot-Vacuum-5-Pro/16.jpg",
+      "width": 1260,
+      "bytes": 613679,
+      "sha256": "3b668b2535c884e2c038c5a8b32c02f497496d6e17a387bd08563bf4ced994b9"
+    }
+  ],
+  "dropped": 0
+}
