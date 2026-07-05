@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-05T10:53:04.110Z",
+  "sourcePage": "https://www.tagred.pl/meble-warsztatowe-tagred-ta197.html",
+  "slug": "tagred-ta197",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.png",
+    "produkt-11.png",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/ta197.png",
+      "width": 2560,
+      "bytes": 4072163,
+      "sha256": "cbd43842f85e8a91b0786d4b94eaf0bd05d0d62b45c56c990a42bca6956b445f"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/ta197b.png",
+      "width": 2560,
+      "bytes": 2641407,
+      "sha256": "584246dee88030dd600509b8e9e200373553f1b05b4d6cc161b3b73f53ea55c8"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/301-2g.jpg",
+      "width": 2000,
+      "bytes": 666479,
+      "sha256": "56dffb975cfa983a8f22039c81efa64aeb196ae62dcceaae056aeb3143eef2ab"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/302-2g.jpg",
+      "width": 1900,
+      "bytes": 544019,
+      "sha256": "bf69e8d7b6d91b4f8b425806d96d162473d4f4dbfe6198eea13c43b885149ca7"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/304-2g.jpg",
+      "width": 1517,
+      "bytes": 557797,
+      "sha256": "7ed5f7bcfad823dbbbd708cf590253e7e02de6aa1ad1bafad8e00be9e11fc3cb"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/305-2g.jpg",
+      "width": 2000,
+      "bytes": 655601,
+      "sha256": "cd22156bfda098532ee431264b0e900d9e48e8a96ad84b9403dcdc44d5f8fe44"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/307-2g.jpg",
+      "width": 1600,
+      "bytes": 354309,
+      "sha256": "f456dd669312550cad58ff87f1510158a0e984ef674dc485d97e1df595bb994a"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/308-2g.jpg",
+      "width": 1809,
+      "bytes": 251822,
+      "sha256": "b3adcf5633a10826181fb76006bce13bec08b63e4235ed12f3b7127d2ce842b6"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/e408f47149ac9002b24b699f8511.jpeg",
+      "width": 2560,
+      "bytes": 1211390,
+      "sha256": "9d243c338706cb9c9e4e4206021e79cfa2ff321398803b55bf21eee566b222c2"
+    },
+    {
+      "file": "produkt-10.png",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/3.png",
+      "width": 2560,
+      "bytes": 9266371,
+      "sha256": "3176fc783f9c6588f9fc1566511c1016e7c4d7e80bdebf5a4eb6cf525ccb5702"
+    },
+    {
+      "file": "produkt-11.png",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/5.png",
+      "width": 2560,
+      "bytes": 2608650,
+      "sha256": "cb3e25f9ec8dc82efd9f5ca2c95a42ee7b603adc1bb1b87c78798a89aff761c2"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/MEBLE-GARAZOWE-PROFESJONALNY-REGAL-SZAFKA-NARZEDZIOWA-19-SZUFLAD-GRATIS-Kolor-czarny.jpeg",
+      "width": 2560,
+      "bytes": 2190406,
+      "sha256": "42980a374699fe0289b05bb9279488fba7ff280d1f5d9d35b1cbe7c6bbe1efa7"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/MEBLE-GARAZOWE-PROFESJONALNY-REGAL-SZAFKA-NARZEDZIOWA-19-SZUFLAD-GRATIS-Waga-171-kg.jpeg",
+      "width": 2560,
+      "bytes": 1108969,
+      "sha256": "6d9aa15f222e73f906354ceba9c6fe7673264c5d30c02a53da79add4bc50d700"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/MEBLE-GARAZOWE-PROFESJONALNY-REGAL-SZAFKA-NARZEDZIOWA-19-SZUFLAD-GRATIS-Glebokosc-produktu-42-cm.jpeg",
+      "width": 1969,
+      "bytes": 1274747,
+      "sha256": "a90295df309c3fe6c5788fc1b2ed5a693dba93b28387b90449c62b96305f8fc0"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/MEBLE-GARAZOWE-PROFESJONALNY-REGAL-SZAFKA-NARZEDZIOWA-19-SZUFLAD-GRATIS-Cechy-dodatkowe-dodatkowe-kolka-wspomagajace-hamulec-do-blokowania-kol-mozliwosc-zamkniecia-na-klucz-uchwyty-do-prowadzenia-wysuwane-szuflady.jpeg",
+      "width": 2560,
+      "bytes": 2322853,
+      "sha256": "a9874f102dcfdb67a5d5ac170e6bd8a61ed08f3608b2214e27d987ec54ff9c80"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/MEBLE-GARAZOWE-PROFESJONALNY-REGAL-SZAFKA-NARZEDZIOWA-19-SZUFLAD-GRATIS-Stan-opakowania-oryginalne.jpeg",
+      "width": 2560,
+      "bytes": 1938062,
+      "sha256": "04b0c684bf1045da016f56a8160a7cabba88b639ebed86ae524efe865bdea77d"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://www.tagred.pl/media/products/7862d84669f736b3bafce6970ac88b73/images/MEBLE-GARAZOWE-PROFESJONALNY-REGAL-SZAFKA-NARZEDZIOWA-19-SZUFLAD-GRATIS-Wyposazenie-w-zestawie-Nie-1-.jpeg",
+      "width": 1600,
+      "bytes": 354422,
+      "sha256": "7d4be1f9cdca729dc00e8f7daefee3c71e82ca6b762d22f6bb7e764fec6ba42f"
+    }
+  ],
+  "dropped": 0
+}
