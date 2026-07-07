@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-07T12:40:26.846Z",
+  "sourcePage": "https://www.sharkninja.pl/ninja-double-stack-xl-air-fryer-pionowy-z-dwiema-szufladami-95-l-szary-sl400eu/SL400EU.html",
+  "slug": "ninja-sl400eu",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/SharkNinja-EU/SL400EU_01.jpg",
+      "width": 2070,
+      "bytes": 564925,
+      "sha256": "ac534cc3bbacf17071cda56446dfb11550a5cd6d3044bb60cd4d325e311f94eb"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/SL400EU/SL400EU_gallery_pl-PL_02.jpg",
+      "width": 1400,
+      "bytes": 71976,
+      "sha256": "00389d248435860f9cf31b19f2c8f6b30de76d5ebd90f946e69c75cebca0b293"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/SL400EU/SL400EU_gallery_pl-PL_03.jpg",
+      "width": 1400,
+      "bytes": 84993,
+      "sha256": "e3f511a138852f4b063ff94743169be46237aa0e6a458bc117b00362d27114a8"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/SL400EU/SL400EU_gallery_pl-PL_04.jpg",
+      "width": 1400,
+      "bytes": 73694,
+      "sha256": "88be6572ddd8401771b3c6851363f761c4b982a41f82cd275cab5168d7a97b28"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/SL400EU/SL400EU_gallery_pl-PL_05.jpg",
+      "width": 1400,
+      "bytes": 141720,
+      "sha256": "7639c8304c41659f2638f730095d2cfdff4547493cb16be05c943621299cf71b"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/SL400EU/SL400EU_gallery_pl-PL_06.jpg",
+      "width": 1400,
+      "bytes": 136578,
+      "sha256": "b4d08067af4a19372e74e202fdb44d0c01a585e114a716a922498246327edb91"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/SL400EU/SL400EU_gallery_pl-PL_07.jpg",
+      "width": 1400,
+      "bytes": 114390,
+      "sha256": "77420de1398d6e572887afc49cf9ca86101be7a700740e7070691458fe1a3d69"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/SL400EU/SL400EU_gallery_pl-PL_08.jpg",
+      "width": 1400,
+      "bytes": 131145,
+      "sha256": "40298f238e05f46c793152ba06b83ce9a69338d1db36bbeb71fc7c11cb5ec500"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/SL400EU/SL400EU_gallery_pl-PL_09.jpg",
+      "width": 1400,
+      "bytes": 159726,
+      "sha256": "791cdda2e4f8f3ccccac9717d445e2ed9b9c621ebfddabbd036f0cc502ec82da"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/SL400EU/SL400EU_gallery_pl-PL_10.jpg",
+      "width": 1400,
+      "bytes": 186465,
+      "sha256": "43e48a9eaf318549539071c01b63bdab978514610e3be6c7c9498a6b4efee477"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/v1/Poland/PDP/Ninja/SL400EU/carousel/Ninja-SL400UK-InUse-Kitchen-Comp-1632159133.jpg",
+      "width": 1400,
+      "bytes": 85135,
+      "sha256": "1762a0d3728bb64a1efe9195377f28302dbeab46ffb71d1691b5552b7a019270"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/v1/Poland/PDP/Ninja/SL400EU/carousel/Ninja-SL400UK-InUse-Kitchen-OnCounteNinja-LineUp-Woman.jpg",
+      "width": 1400,
+      "bytes": 73694,
+      "sha256": "88be6572ddd8401771b3c6851363f761c4b982a41f82cd275cab5168d7a97b28"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/v1/Poland/PDP/Ninja/SL400EU/carousel/Ninja-SL400UK-InUse-Kitchen-OnCounteNinja-NinjaemovingFood-Pizza-Woman.jpg",
+      "width": 1400,
+      "bytes": 137303,
+      "sha256": "77d426a61601cb17b6ad43ef377725e38d1808a079be132dacd4b207792235d6"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/v1/Poland/PDP/Ninja/SL400EU/carousel/Ninja-SL400UK-InUse-Kitchen-OnCounteNinja-OveNinjahead-FoodPlates.jpg",
+      "width": 1400,
+      "bytes": 194308,
+      "sha256": "f7f08b092cdff5c9a03d70a518289ea1381349691cfe2ec15d5baf1ca3343f25"
+    }
+  ],
+  "dropped": 0
+}
