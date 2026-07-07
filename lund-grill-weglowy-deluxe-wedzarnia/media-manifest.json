@@ -1,0 +1,162 @@
+{
+ "version": 1,
+ "generatedAt": "2026-07-07T14:52:32.369Z",
+ "sourcePage": "https://toya24.pl/pl-PL/products/grill-weglowy-deluxe-z-wedzarnia-10023210",
+ "slug": "lund-grill-weglowy-deluxe-wedzarnia",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.png",
+  "produkt-13.png",
+  "produkt-15.png",
+  "produkt-16.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://toya24.pl/hpeciai/4d72beec902d75e2b50ff24205acef24/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_1.jpg",
+   "width": 1000,
+   "bytes": 165677,
+   "sha256": "9f77e7cd7e09b045e02817fc8575104f1bb3f6b01f6a0571fee9a8901f4cb6f0"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://toya24.pl/hpeciai/2df2542dbaee88066ba99a01a73a615d/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_2.jpg",
+   "width": 1000,
+   "bytes": 162468,
+   "sha256": "f52eac89a75bfac0c1c2ba6beab3dc3ffb476543319b27b5942f6a87c44ed62f"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://toya24.pl/hpeciai/c6501a2beaff57990b3d3fc4468fb801/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_3.jpg",
+   "width": 1000,
+   "bytes": 175003,
+   "sha256": "8a1521e8f989cf93369188d9fb97d01a14814a6948d29877ac387e119db906f1"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://toya24.pl/hpeciai/57ad3676e7c86e0fb673a9cc7303da69/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_4.jpg",
+   "width": 1000,
+   "bytes": 194606,
+   "sha256": "0ebb9b67e584f56cbe4848257f112dd2152c215d6d0fea66b9cb8173d15829e6"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://toya24.pl/hpeciai/086d2b9aa2f0be7b9e8024a2a5af220d/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_5.jpg",
+   "width": 1000,
+   "bytes": 416316,
+   "sha256": "ece3f90d5a57f4297722ac47e3db666ca46d72434440a74417c1931594bc0940"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://toya24.pl/hpeciai/f658797704667a39fa33c339b1d6c8b8/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_6.jpg",
+   "width": 1000,
+   "bytes": 278752,
+   "sha256": "a9f2b8f38e6999147a9b555ad24f15cd1170671d7d053c0f07cb3f8f0cbe9733"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://toya24.pl/hpeciai/e3cf2d3d9a10b2cdb1aa6f55eaa84dee/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_7.jpg",
+   "width": 1000,
+   "bytes": 249272,
+   "sha256": "24b9f1e482e5355caccbcad777aa8bc5d59e55fa38e16c6480ea353f66e324ab"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://toya24.pl/hpeciai/49be8dad71c6fecb8c0ae1f67f65225d/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_8.jpg",
+   "width": 1000,
+   "bytes": 204111,
+   "sha256": "1e91f9a85c9b6df4a98a8bc370e7bb9116a68e8a02dbb973cf40a0c6803bcb98"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://toya24.pl/hpeciai/189086b75f86a8ceb832785545a2cfb8/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_9.jpg",
+   "width": 1000,
+   "bytes": 276230,
+   "sha256": "968c14457e1b19a5507f25865b96f12a6313e7280804a66d5a2bf7b991aa4204"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://toya24.pl/hpeciai/523f3efe547f60c5cec835166f44c9c7/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_10.jpg",
+   "width": 1000,
+   "bytes": 296584,
+   "sha256": "50857c67c97217b73132f6b855e820e24a3fd8e9e29df5b44a2a045d2b73a734"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://toya24.pl/hpeciai/30a8d8c85ffcc685e5494f4f12f81b57/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_11.jpg",
+   "width": 1000,
+   "bytes": 348118,
+   "sha256": "e50078b1a8d5c136a142e50ba63a20810bb4b8ec18670f32b1b2606a35a20c6c"
+  },
+  {
+   "file": "produkt-12.png",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://toya24.pl/hpeciai/236226f2803fcc979aaec28d81ddbc73/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_12.png",
+   "width": 1000,
+   "bytes": 1305005,
+   "sha256": "c3047f0a31cbd134436cabf43e0697ca76804a4af7471a3ea4be1130c78d98c7"
+  },
+  {
+   "file": "produkt-13.png",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://toya24.pl/hpeciai/3fd1b376d01e1ef6719c93743bbfd3db/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_13.png",
+   "width": 1000,
+   "bytes": 2030643,
+   "sha256": "cd67a42d0c32e62f2d96a8d87979856e40420aac5e0efec2e517cffa11ef71e1"
+  },
+  {
+   "file": "produkt-15.png",
+   "kind": "product",
+   "order": 15,
+   "sourceUrl": "https://toya24.pl/hpeciai/e1e21b2db2bac492edacd66eddb562c1/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_15.png",
+   "width": 1000,
+   "bytes": 1014146,
+   "sha256": "f2e844cc6d168a077d0e865e146161505ef40f00ac8b58e17765c44f0d9530d2"
+  },
+  {
+   "file": "produkt-16.png",
+   "kind": "product",
+   "order": 16,
+   "sourceUrl": "https://toya24.pl/hpeciai/cd820e480b34f5dd44ebea87f6fa0d97/pol_pl_GRILL-WEGLOWY-DELUXE-Z-WEDZARNIA-10023210_16.png",
+   "width": 1000,
+   "bytes": 1999207,
+   "sha256": "7b4851dd6e75cce13e0948bfb9eb6f3474c17cdde8379203837f1aaef62b458c"
+  }
+ ],
+ "dropped": 1,
+ "droppedNote": "produkt-14.png usuniety z galerii: 563px (reszta 1000px) + pokazuje akcesoria spoza kompletacji (brykiet, komin rozpalkowy, szczotka)"
+}
