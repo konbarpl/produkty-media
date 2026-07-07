@@ -6,43 +6,24 @@
   "galleryOrder": [
     "produkt-01.webp",
     "produkt-02.webp",
-    "produkt-03.webp",
     "produkt-04.webp",
     "produkt-05.webp",
-    "produkt-06.webp",
     "produkt-07.webp",
-    "produkt-08.webp",
-    "produkt-09.webp",
-    "produkt-10.webp",
     "produkt-11.webp",
-    "produkt-12.webp",
-    "produkt-13.webp",
-    "produkt-14.webp",
     "produkt-15.webp",
-    "produkt-16.webp",
     "produkt-17.webp",
-    "produkt-18.webp",
     "produkt-19.webp",
     "produkt-20.webp",
-    "produkt-21.webp",
     "produkt-22.webp",
-    "produkt-23.webp",
     "produkt-24.webp",
-    "produkt-25.webp",
-    "produkt-26.webp",
     "produkt-27.webp",
-    "produkt-28.webp",
     "opis-01.jpg",
-    "opis-02.jpg",
     "opis-03.jpg",
-    "opis-04.jpg",
-    "opis-05.jpg",
     "opis-06.jpg",
     "opis-07.jpg",
     "opis-08.jpg",
     "opis-09.jpg",
     "opis-10.jpg",
-    "opis-11.jpg",
     "opis-12.jpg"
   ],
   "files": [
@@ -407,5 +388,6 @@
       "sha256": "227e4498ea07169018caa09b1dfb3aadc3223f760c3684f53f6215b076f6d3f2"
     }
   ],
-  "dropped": 0
+  "dropped": 0,
+  "galleryCuratedAt": "2026-07-07"
 }
