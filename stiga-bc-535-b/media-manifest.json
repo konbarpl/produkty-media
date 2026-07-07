@@ -4,15 +4,15 @@
   "sourcePage": "https://clinus.pl/podkaszarki-i-kosy/stiga/2093-stiga-bc-535-b-kosa-spalinowa",
   "slug": "stiga-bc-535-b",
   "galleryOrder": [
-    "produkt-01.webp",
-    "produkt-02.webp",
-    "produkt-03.webp",
-    "produkt-04.webp",
-    "produkt-05.webp",
-    "produkt-06.webp",
-    "produkt-07.webp",
     "produkt-08.webp",
     "produkt-09.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-02.webp",
+    "produkt-04.webp",
+    "produkt-07.webp",
+    "produkt-03.webp",
+    "produkt-01.webp",
     "produkt-10.webp",
     "opis-01.jpg",
     "opis-02.jpg",
@@ -207,5 +207,6 @@
       "sha256": "066bb7c38e3dbfd729acc2e846f15f6e3964e37e1249ae8a3650b0aa3b0cd4be"
     }
   ],
-  "dropped": 0
+  "dropped": 0,
+  "galleryOrderNote": "Kolejnosc kuratorowana 2026-07-07: okladka = produkt-08 (pelny widok z zestawem), potem pelne widoki, detale, lifestyle."
 }
