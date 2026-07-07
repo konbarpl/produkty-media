@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-07T14:50:47.128Z",
+  "sourcePage": "https://toya24.pl/pl-PL/products/grill-gazowy-torne-3-1-11-6kw-10014824",
+  "slug": "lund-torne-3-1-gazowy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.png",
+    "produkt-11.png",
+    "produkt-12.png",
+    "produkt-13.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://toya24.pl/hpeciai/9b64ffbbee68d3d2746b9c1513e289ac/pol_pl_GRILL-GAZOWY-TORNE-3-1-11-6KW-10014824_1.jpg",
+      "width": 1000,
+      "bytes": 175901,
+      "sha256": "86a85c2d9ef6e637cd4585613411fa5c6a944a083472873bd87da00db722d84d"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://toya24.pl/hpeciai/1338bee8da2ec440f6de88b8d40e8d72/pol_pl_GRILL-GAZOWY-TORNE-3-1-11-6KW-10014824_2.jpg",
+      "width": 1000,
+      "bytes": 165458,
+      "sha256": "7445a67946d78b683077a87d5301635e0d705e15beadc5308cb709039a4c8575"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://toya24.pl/hpeciai/55da852d881c2c87de46613ba7b00543/pol_pl_GRILL-GAZOWY-TORNE-3-1-11-6KW-10014824_3.jpg",
+      "width": 1000,
+      "bytes": 139354,
+      "sha256": "215c2c349734e1928a6d2e3201e0ee8ac17504d204e2285491081ebb8d07566d"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://toya24.pl/hpeciai/d3ee55741a12c60bde254f37d2b0bd38/pol_pl_GRILL-GAZOWY-TORNE-3-1-11-6KW-10014824_4.jpg",
+      "width": 1000,
+      "bytes": 374862,
+      "sha256": "b970ddf503524f79d7fce37013c81c27f9061cfdb6b1d4f86ec19413bdb737c5"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://toya24.pl/hpeciai/5c60f72d2dd32cd6ee40da0066cc337c/pol_pl_GRILL-GAZOWY-TORNE-3-1-11-6KW-10014824_5.jpg",
+      "width": 1000,
+      "bytes": 319947,
+      "sha256": "098c3315bec8e8b738ce3ba628ed563be255205b7c521040070def6fb95d1a5b"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://toya24.pl/hpeciai/f74ac0d2f334282cf1320aafc6ae936b/pol_pl_GRILL-GAZOWY-TORNE-3-1-11-6KW-10014824_6.jpg",
+      "width": 1000,
+      "bytes": 412356,
+      "sha256": "c675ac249d2714ef86ea1da6e007230355cabaa13da56263abd92384481a439c"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://toya24.pl/hpeciai/d2f6d5f6777595527a70511921ff3507/pol_pl_GRILL-GAZOWY-TORNE-3-1-11-6KW-10014824_7.jpg",
+      "width": 1000,
+      "bytes": 369525,
+      "sha256": "8d23828f4994178889c06a5efb69127b06418b91596f6594e8b0df4f91275b2a"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://toya24.pl/hpeciai/242345c7576ea64bb03896d8f30c271b/pol_pl_GRILL-GAZOWY-TORNE-3-1-11-6KW-10014824_8.jpg",
+      "width": 1000,
+      "bytes": 525676,
+      "sha256": "73b82721e7a950c99fd26246584e3f2e1291f49fac661fd706a2b9b9268bf412"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://toya24.pl/hpeciai/0a8f6b9c7cbf522e60a30e9df8d15d40/pol_pl_GRILL-GAZOWY-TORNE-3-1-11-6KW-10014824_9.jpg",
+      "width": 1000,
+      "bytes": 287530,
+      "sha256": "e008356d255e2265f382e458b580dd7f2014cfce2348c778062a24a971b2a437"
+    },
+    {
+      "file": "produkt-10.png",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://toya24.pl/hpeciai/1e88a2291952f4c7cd9f29599131e8f3/pol_pl_GRILL-GAZOWY-TORNE-3-1-11-6KW-10014824_10.png",
+      "width": 479,
+      "bytes": 71937,
+      "sha256": "919dbdb18389f47aa4f82fbfc0e02ba40aa309da72ac4662511aa3e9b0c384b1"
+    },
+    {
+      "file": "produkt-11.png",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://toya24.pl/hpeciai/5c191c460605e7845bd8aa54edb2c1d1/pol_pl_GRILL-GAZOWY-TORNE-3-1-11-6KW-10014824_11.png",
+      "width": 479,
+      "bytes": 239134,
+      "sha256": "062eeaf28cc1ec6212c70c6b577d35b1372a1de982c07c8382078878e3263e76"
+    },
+    {
+      "file": "produkt-12.png",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://toya24.pl/hpeciai/d43cae39489c69b9e3073731bbbbce81/pol_pl_GRILL-GAZOWY-TORNE-3-1-11-6KW-10014824_12.png",
+      "width": 479,
+      "bytes": 354768,
+      "sha256": "2f6e02d82c435bc11a08b925883261b0b78bf3f2c09b0acda53eb3d8f2c0e88a"
+    },
+    {
+      "file": "produkt-13.png",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://toya24.pl/hpeciai/d45a3193ae6aacd21ea9e06a698d6424/pol_pl_GRILL-GAZOWY-TORNE-3-1-11-6KW-10014824_13.png",
+      "width": 480,
+      "bytes": 249340,
+      "sha256": "924fa0a1ccd29cf6e5d46be8eb7b2438584d4519b599e316690b749478ee2180"
+    }
+  ],
+  "dropped": 0
+}
