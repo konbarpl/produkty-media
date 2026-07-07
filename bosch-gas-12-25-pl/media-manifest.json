@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-07T12:36:24.969Z",
+  "sourcePage": "https://www.bosch-professional.com/pl/pl/products/gas-12-25-pl-060197C100",
+  "slug": "bosch-gas-12-25-pl",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/296646-54/application-image/full/odkurzacz-do-pracy-na-sucho-i-na-mokro-pro-gas-12-25-pl-060197c100.png",
+      "width": 627,
+      "bytes": 63910,
+      "sha256": "472438d8c7d55f2028b0ded1295874e1296625888bf730fecf94c378d7860947"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/455239-54/application-image/full/odkurzacz-do-pracy-na-sucho-i-na-mokro-pro-gas-12-25-pl-060197c100.png",
+      "width": 717,
+      "bytes": 64144,
+      "sha256": "1b2e250059e4ce33949a8307d68a690dee4589f93983a03b2b9811a8aa899bfd"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/571707-117/application-image/full/odkurzacz-do-pracy-na-sucho-i-na-mokro-pro-gas-12-25-pl-060197c100.jpg",
+      "width": 418,
+      "bytes": 46827,
+      "sha256": "577ba70f4dd2a1a42f48898cf456b5dd6e0c3e3019b4d6672cacf38e5598a06f"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/571708-117/application-image/full/odkurzacz-do-pracy-na-sucho-i-na-mokro-pro-gas-12-25-pl-060197c100.jpg",
+      "width": 467,
+      "bytes": 54388,
+      "sha256": "c4c7f02be894a9acb35982b24c0e95765426a0ee3ed447a7fe42ecbf92ea7df8"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/571709-117/application-image/full/odkurzacz-do-pracy-na-sucho-i-na-mokro-pro-gas-12-25-pl-060197c100.jpg",
+      "width": 427,
+      "bytes": 57230,
+      "sha256": "a3e5a45026c38351d7b1106a146d02380224f47495baf794492a10e079176eb7"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/571713-117/application-image/full/odkurzacz-do-pracy-na-sucho-i-na-mokro-pro-gas-12-25-pl-060197c100.jpg",
+      "width": 800,
+      "bytes": 69143,
+      "sha256": "7728bd1cf39a79d9907d18136b5fb2d4ff9d62941f4d0521528744570ba9e99b"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/571712-117/application-image/full/odkurzacz-do-pracy-na-sucho-i-na-mokro-pro-gas-12-25-pl-060197c100.jpg",
+      "width": 800,
+      "bytes": 57518,
+      "sha256": "9975458decffad8d424fd4428440582c2f720c754feae18bc3cf7cb003d834ee"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/571710-117/application-image/full/odkurzacz-do-pracy-na-sucho-i-na-mokro-pro-gas-12-25-pl-060197c100.jpg",
+      "width": 746,
+      "bytes": 71005,
+      "sha256": "c50fe020dff2fb6d33e560faceb838a687609614c077686ee11791cbd74ecafb"
+    }
+  ],
+  "dropped": 0
+}
