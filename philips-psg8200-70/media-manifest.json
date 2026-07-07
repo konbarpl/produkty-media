@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-07T12:19:33.252Z",
+  "sourcePage": "https://www.philips.pl/c-p/PSG8200_70/philips-generator-pary-perfectcare-8000",
+  "slug": "philips-psg8200-70",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_517bfbd3_0aea_483a_8bb9fa3eb2f05371?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 44228,
+      "sha256": "70e35b75e49bf51cc5365e0c77c72a120748c84eacd3021377bb958643ce95e1"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_023fbfd6_2aef_4dfd_9413e50fc10970b1?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 47170,
+      "sha256": "8aa444865323c41d8411d1fc383b3617f49ade2554a4954b8803f39952deca3a"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f3c980ba_69f0_48d2_83f3f719134c1309?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 60328,
+      "sha256": "e686aa93fbe42160f8abd6399efecc64c2ef5013d617e1c32d7bc9657f3cc0b9"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3121ef15_fe19_4551_b90a0547317ea7f1?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 71296,
+      "sha256": "f1dda09f4f4dee16404e924c340eab7cdd7cf76b559a100ee1d250c472c4e41b"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2c2fc199_4d3e_41e7_a9ba2f714ff4561a?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 69664,
+      "sha256": "99a8fe5d97bbc30a7f85264fcc9326c700b102e3495402f8a91afcd27c2f0850"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e7c80649_64ec_49db_8c431592de59cf77?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 69476,
+      "sha256": "57a8e70adbd1d9d37ed104d6a774a4c17ba0c5fbe2259e798c49af0c26d82fd8"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_eb3a78e5_7e65_4548_ac9d62de91e1c03b?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 57508,
+      "sha256": "b588004f0db6b41b565f950dfaa719cdf37016f80d4f5d2921efa9ba530d41dc"
+    }
+  ],
+  "dropped": 0
+}
