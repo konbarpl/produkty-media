@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-07T12:24:30.364Z",
+  "sourcePage": "https://clinus.pl/odkurzacze-jednofunkcyjne/karcher/1418-karcher-cvh-2-mini-odkurzacz-reczny-akumulatorowy",
+  "slug": "karcher-cvh-2-mini",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "opis-01.jpg",
+    "opis-02.png",
+    "opis-03.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/24207/karcher-cvh-2-mini-odkurzacz-reczny-akumulatorowy.webp",
+      "width": 800,
+      "bytes": 15050,
+      "sha256": "52bbe6d1bee31c6f0e00efc94a1825a0a91d7586b3f74c91e04402d2607497fc"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/24206/karcher-cvh-2-mini-odkurzacz-reczny-akumulatorowy.webp",
+      "width": 800,
+      "bytes": 7236,
+      "sha256": "461071508506f39c0c37b7ff7a2bf71b6095f1df640f67139f0860c63260bbfe"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/24205/karcher-cvh-2-mini-odkurzacz-reczny-akumulatorowy.webp",
+      "width": 800,
+      "bytes": 10210,
+      "sha256": "b86e8b40bf3c1821ed1ea8b6e6d669074ac226ddc2a17a9defbb3ba68604e1ef"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/24203/karcher-cvh-2-mini-odkurzacz-reczny-akumulatorowy.webp",
+      "width": 1200,
+      "bytes": 46740,
+      "sha256": "19d2d27c0b9443c29c899bd787da49946c3ea82aefe9a96434888d88bf6d2a33"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/24204/karcher-cvh-2-mini-odkurzacz-reczny-akumulatorowy.webp",
+      "width": 1200,
+      "bytes": 64268,
+      "sha256": "6ef6a668cb9fbd99ce2e1661661eb5aa15f5d8e8c51a5b061c7a8c1770bb0b96"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/24208/karcher-cvh-2-mini-odkurzacz-reczny-akumulatorowy.webp",
+      "width": 1200,
+      "bytes": 73264,
+      "sha256": "7c533995d0e13abcaeb493c6e1af3693e45ba6be37b58c78905238261a30b6bc"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/24209/karcher-cvh-2-mini-odkurzacz-reczny-akumulatorowy.webp",
+      "width": 1200,
+      "bytes": 60006,
+      "sha256": "d17ba9bffd47c173ef2cd41bcf70d1e86c41dcaeb715eac47ad9941e0a0645b1"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-reczny/1-198-330-0/1198330_hero_01-300_dpi.jpg",
+      "width": 3508,
+      "bytes": 586490,
+      "sha256": "cc9b275387c0acd2318b5eb6032acf93a7fdd76f792cc13b2c90fb7464620a0a"
+    },
+    {
+      "file": "opis-02.png",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-reczny/1-198-330-0/1198401_det_04-300_dpi.png",
+      "width": 1754,
+      "bytes": 4639177,
+      "sha256": "3e0fe471dba3332b081c48066e7ff9699e3c55609b960e1cc4be8e285e410399"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-reczny/1-198-330-0/CVH_2_living_room_couch_app_02_CI20-300_dpi.jpg",
+      "width": 1200,
+      "bytes": 100989,
+      "sha256": "649dba2cc60de982f2eadd20103f3282c0ae927553a8f22b8ec0600b6cfc63cd"
+    }
+  ],
+  "dropped": 0,
+  "note": "Recznie usunieto opis-02/03 (duplikaty kadrow produkt-06/07 z galerii sklepu); pozostale opisowe przenumerowane."
+}
