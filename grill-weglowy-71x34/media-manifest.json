@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-07T12:55:38.281Z",
+  "sourcePage": "https://toya24.pl/product-pol-10017167-GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM.html",
+  "slug": "grill-weglowy-71x34",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.png",
+    "produkt-15.png",
+    "produkt-16.png",
+    "produkt-17.png",
+    "produkt-18.png",
+    "produkt-19.png",
+    "produkt-20.png",
+    "produkt-21.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://toya24.pl/hpeciai/52a698127dd63f5e37cc5400d96f213f/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_1.jpg",
+      "width": 1000,
+      "bytes": 263214,
+      "sha256": "af0922b926db063710b648aff358260e4b95cb1d095c4db3ac59ab3cddbc79fb"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://toya24.pl/hpeciai/c9bf00cd3e8de73f9f0c4904bc88a1ee/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_2.jpg",
+      "width": 1000,
+      "bytes": 243606,
+      "sha256": "e0c89a2ee04b1115297e11e7e47619935991c920240e536a4d0ad0393ba7d496"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://toya24.pl/hpeciai/61c1b152907e6cff679572edbaaea4d3/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_3.jpg",
+      "width": 1000,
+      "bytes": 290905,
+      "sha256": "27f2d00e1b9f414a6d5f343ea9d86a15620ae0e20b952cc998f9376e39e944cf"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://toya24.pl/hpeciai/f3328f678261be4ccd0e09cd6e93d35e/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_4.jpg",
+      "width": 1000,
+      "bytes": 286402,
+      "sha256": "7dc8c02c78cde58d25d022fb98a3e6ef8b9e8d257465d760db9c170bbc432c46"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://toya24.pl/hpeciai/129f62efce793407990fc114e74df79c/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_5.jpg",
+      "width": 1000,
+      "bytes": 310659,
+      "sha256": "dd4bfea42f2f41257579f5d4c20da9bd5739784d59c40c863c0d4f7f77bbbe28"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://toya24.pl/hpeciai/e2aa4f3753667c6536236f41c5080bb6/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_6.jpg",
+      "width": 1000,
+      "bytes": 204775,
+      "sha256": "bd861003b1d06e105452f760b2c0dda2f7e96d80fe319c2a5bbc830403f10e69"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://toya24.pl/hpeciai/cbb7d5651e49719adbdee4fd5d5528e1/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_7.jpg",
+      "width": 1000,
+      "bytes": 332109,
+      "sha256": "0cd644d996d248d490dbaf669de54f4c9088041a27b9d07f9445ee82a445a141"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://toya24.pl/hpeciai/ac040aff1908663c83fbb3675d7cb289/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_8.jpg",
+      "width": 1000,
+      "bytes": 309756,
+      "sha256": "425bc9785edf6cbd184a6731296ca0a75dc037d2380c1395befd4aea486b9815"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://toya24.pl/hpeciai/10db95b5c8481b5b62fe0c5937a48bd2/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_9.jpg",
+      "width": 1000,
+      "bytes": 166845,
+      "sha256": "74acf59a0519d2e1bcca9ec94782f9546d1c002e2b4bcf697c56995d36bedce9"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://toya24.pl/hpeciai/55ea45abd47ebc093b028c498ac08751/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_10.jpg",
+      "width": 1000,
+      "bytes": 244077,
+      "sha256": "c0df4cbff0fc021eae1f23d5d5e7f7b12469b11eb45a8519bab5d9a55e1dcd88"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://toya24.pl/hpeciai/7e57847b823d33118204726b57430434/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_11.jpg",
+      "width": 1000,
+      "bytes": 163686,
+      "sha256": "cdab673fd65ab1061081ed05ba905113c2dbcd41564f47878bf835ebde02f045"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://toya24.pl/hpeciai/be925e4ff72c683070a2cf46d7a1e749/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_12.jpg",
+      "width": 1000,
+      "bytes": 238470,
+      "sha256": "f34f53cf69114eb883cbec7717bd6278b1e91d8f0b3e43a9811ed94935bf3fdd"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://toya24.pl/hpeciai/81ede30698287d0def344de7e523d19b/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_13.jpg",
+      "width": 1000,
+      "bytes": 299659,
+      "sha256": "96a0d871fe935aeb367b4055fab8ca5976c08f3392ca49e9bbc856984b4a2513"
+    },
+    {
+      "file": "produkt-14.png",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://toya24.pl/hpeciai/535fda2d154f2fdad7100a1d0cb9f51e/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_14.png",
+      "width": 1125,
+      "bytes": 2183609,
+      "sha256": "f53b06e130edf8535ee3e2cce6b835599e3b50fc38b8eb83e59e1fc2b98c3d0d"
+    },
+    {
+      "file": "produkt-15.png",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://toya24.pl/hpeciai/dbd32960b2e3cbf138a6f65e2778574e/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_15.png",
+      "width": 750,
+      "bytes": 1067270,
+      "sha256": "c2c89a0e779bbc69ea2952a7f4c13cc585552928c22ddaf24de7dc8c78d250e8"
+    },
+    {
+      "file": "produkt-16.png",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://toya24.pl/hpeciai/129b7e3560e281292fe3a6b86a7e1a93/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_16.png",
+      "width": 425,
+      "bytes": 151229,
+      "sha256": "acec89f83b61c9b64ae4ec3acb2b7799b146878c049a39fad8d8981f5cc5bc2f"
+    },
+    {
+      "file": "produkt-17.png",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://toya24.pl/hpeciai/b6350d9d9f41cdb1306f0bf57b4b0d7f/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_17.png",
+      "width": 417,
+      "bytes": 132896,
+      "sha256": "3bdbec6c3cdfb3cf5d48453332b5722850b9b348b4dc435ced5252af7753162e"
+    },
+    {
+      "file": "produkt-18.png",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://toya24.pl/hpeciai/2eca3ba89b0e7683f239faf57b41a671/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_18.png",
+      "width": 480,
+      "bytes": 153728,
+      "sha256": "1758e19aeeb3f8c5e669ce11179333f12e8f77476bf8f858e14186a1b9df1e92"
+    },
+    {
+      "file": "produkt-19.png",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://toya24.pl/hpeciai/21b05ea3a9f323a7be451d75c9496340/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_19.png",
+      "width": 480,
+      "bytes": 248088,
+      "sha256": "aef6f646970ab4c1d225ccdb127fa07131bcec33f944dd6eb835c6e2ad2e8bc1"
+    },
+    {
+      "file": "produkt-20.png",
+      "kind": "product",
+      "order": 20,
+      "sourceUrl": "https://toya24.pl/hpeciai/8dbba8428e53daa645717794165fa2ba/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_20.png",
+      "width": 480,
+      "bytes": 173138,
+      "sha256": "9e4f81ba93f1719b7f1fbf0799fdb46750cd1e4254f6fc38ae8185dbefb64597"
+    },
+    {
+      "file": "produkt-21.png",
+      "kind": "product",
+      "order": 21,
+      "sourceUrl": "https://toya24.pl/hpeciai/48f645a3b4081db0a090a9531d66d667/pol_pl_GRILL-WEGLOWY-Z-POKRYWA-RUSZT-71X34-5CM-10017167_21.png",
+      "width": 480,
+      "bytes": 198254,
+      "sha256": "3c3ea89612996dc4d88fe5b28f14e23e0aa7228306c2b7df176dd9126321f18d"
+    }
+  ],
+  "dropped": 0
+}
