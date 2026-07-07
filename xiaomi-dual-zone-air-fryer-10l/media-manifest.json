@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-07T12:16:34.021Z",
+  "sourcePage": "https://mi-store.pl/product-pol-3506-Frytkownica-beztluszczowa-Xiaomi-Dual-Zone-Air-Fryer-10L.html",
+  "slug": "xiaomi-dual-zone-air-fryer-10l",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/18e1a7d6be210cec058e27d7d129f0f3/pol_pl_Frytkownica-beztluszczowa-Xiaomi-Dual-Zone-Air-Fryer-10L-3506_1.webp",
+      "width": 600,
+      "bytes": 11702,
+      "sha256": "4d7196f52a6479698e6fe496c586111e685407541062d688c51f41aa3f34854a"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/99883bfa4770753475e119ad42b63c12/pol_pl_Frytkownica-beztluszczowa-Xiaomi-Dual-Zone-Air-Fryer-10L-3506_2.webp",
+      "width": 599,
+      "bytes": 52522,
+      "sha256": "8b567c451ca92c3e7e1768ef4a3e871b94e4a2bc303ed1b5b21b4c08f3abe15e"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/310e55f2d9dbf1ab318bc230d6f57730/pol_pl_Frytkownica-beztluszczowa-Xiaomi-Dual-Zone-Air-Fryer-10L-3506_3.webp",
+      "width": 599,
+      "bytes": 13204,
+      "sha256": "b42d68235dde66fb523bc8b22673fd04b08c96dfc6e5495bc8934c7f0b81c23f"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/12bb46609cf5f657a008b664ba391af4/pol_pl_Frytkownica-beztluszczowa-Xiaomi-Dual-Zone-Air-Fryer-10L-3506_4.webp",
+      "width": 600,
+      "bytes": 7804,
+      "sha256": "ea6a483cba5fba6004f2f26bffb21ab84217719c5584d72d587c650b4fdec852"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/hpeciai/bcf4e34b1d9e62c78ec1c32ed61c6f43/pol_pl_Frytkownica-beztluszczowa-Xiaomi-Dual-Zone-Air-Fryer-10L-3506_5.webp",
+      "width": 600,
+      "bytes": 5956,
+      "sha256": "75ed94b2f60a5a91778845b62f68cee3762bd20faf97551457f339aa4d011114"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/hpeciai/79467c095c4d7c9ab522b5a029cb8253/pol_pl_Frytkownica-beztluszczowa-Xiaomi-Dual-Zone-Air-Fryer-10L-3506_6.webp",
+      "width": 600,
+      "bytes": 6722,
+      "sha256": "82714dc5d26e3f2fd73987e07aa6f18ff59f367225e96ac0fe2ca72ea25c110c"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/hpeciai/f243acbe349c87b749601c0102f04c58/pol_pl_Frytkownica-beztluszczowa-Xiaomi-Dual-Zone-Air-Fryer-10L-3506_7.webp",
+      "width": 600,
+      "bytes": 6700,
+      "sha256": "28a04fde58684c2e0483005379db1eece058a86153f6e93503d9d36f37681ed3"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/hpeciai/ad1001c81f238184e45604a1cb9584a5/pol_pl_Frytkownica-beztluszczowa-Xiaomi-Dual-Zone-Air-Fryer-10L-3506_8.webp",
+      "width": 599,
+      "bytes": 24926,
+      "sha256": "c317323f4ca6f84ff8b3d32c075a60cd0c6f28a4f7fa2b03705f815c640b711e"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3506-Xiaomi-Dual-Zone-Air-Fryer-10L/1.jpg",
+      "width": 1281,
+      "bytes": 620516,
+      "sha256": "b4577b84d6803cbb2ea0be2aaa3b2072d29c0ce3c959d197ac5a916e5b01045a"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3506-Xiaomi-Dual-Zone-Air-Fryer-10L/2.jpg",
+      "width": 1281,
+      "bytes": 840399,
+      "sha256": "6bb893bcf6ee2744ca84cf5d5162308b7ae4b397fb38d8990f027655f96af108"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3506-Xiaomi-Dual-Zone-Air-Fryer-10L/3.jpg",
+      "width": 1281,
+      "bytes": 416179,
+      "sha256": "6f14a49ffd99d8c3275e9a993b21c3dbf2a8fc6a963f7587ef2f7afbe572ebee"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3506-Xiaomi-Dual-Zone-Air-Fryer-10L/4.jpg",
+      "width": 1281,
+      "bytes": 619569,
+      "sha256": "952e3c2232854d93db64c2b81bbbf6eace17b3ccc4245724e8617e566cb2b722"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3506-Xiaomi-Dual-Zone-Air-Fryer-10L/5.jpg",
+      "width": 1281,
+      "bytes": 688233,
+      "sha256": "ff12b086a00fb76cf837c2ab70128ba39f6fa4c57f73c10a18a64697c6d854e9"
+    }
+  ],
+  "dropped": 0
+}
