@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-07T13:04:25.162Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-55951-Odkurzacz-pionowy-Dreame-V30-Essential.html",
+  "slug": "dreame-v30-essential",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-01.jpg",
+    "opis-02.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/150ddc5620d14cec8340b6d2602d64db/pol_pl_Odkurzacz-pionowy-Dreame-V30-Essential-55951_7.webp",
+      "width": 800,
+      "bytes": 20858,
+      "sha256": "d936cf7ef40ea014ff02db2ef20ab30544aca232d98b8ea6eca6298d9b940110"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/616bc88f8bb3294a89c4ff41160360d7/pol_pl_Odkurzacz-pionowy-Dreame-V30-Essential-55951_8.webp",
+      "width": 800,
+      "bytes": 11900,
+      "sha256": "bcdc48ad093c91ab737d18dc249b6029ef6092dc626707b836a50d2b89981915"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/e572efe3aea88647cc3745e9fe4cf7b1/pol_pl_Odkurzacz-pionowy-Dreame-V30-Essential-55951_9.webp",
+      "width": 800,
+      "bytes": 41890,
+      "sha256": "15530bd96432bf353008136edaa44353b5802e4697de1d2cc9ed69ea711b8083"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/f06de43c43d549296c0d56cbbaf10d82/pol_pl_Odkurzacz-pionowy-Dreame-V30-Essential-55951_10.webp",
+      "width": 800,
+      "bytes": 28852,
+      "sha256": "46ad9162ec03a9f1733825c2b233c456eea8a47fc54a6e5214d43246f28a771e"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/06e93c5a7e46e2c4edb51375f1de3835/pol_pl_Odkurzacz-pionowy-Dreame-V30-Essential-55951_11.webp",
+      "width": 800,
+      "bytes": 16650,
+      "sha256": "90463b8066f12460a5d5ff76d7a8af6e599fc8558c3dd49acafc460e687f09a4"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/7bbdd3a2c0ca27a74a0281a3e0ab7307/pol_pl_Odkurzacz-pionowy-Dreame-V30-Essential-55951_12.webp",
+      "width": 800,
+      "bytes": 11404,
+      "sha256": "d4917a3ce51f6df9ba55f50b6d4b25b6f4f3e6036a6bf0cb1d4a83144354390f"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/18753/25040/dwa%20Odkurzacze%20pionowe%20Dreame%20V30%20Essential%20z%20regulowan%C4%85%20sk%C5%82adan%C4%85%20rur%C4%85.jpg",
+      "width": 1171,
+      "bytes": 66221,
+      "sha256": "b0c14361211bbabe88c3a3267b1e88d33b27f174300f60c88f4160b9e9463ea4"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/18753/25040/Akumulator%20Odkurzacza%20pionowego%20Dreame%20V30%20Essential.jpg",
+      "width": 1171,
+      "bytes": 53338,
+      "sha256": "5af3300db217e155658acf447dfd51805d5718a8e5fd86bc603d04258fc22b04"
+    }
+  ],
+  "dropped": 11
+}
