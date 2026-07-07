@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-07T12:40:26.846Z",
+  "generatedAt": "2026-07-07T13:07:58.995Z",
   "sourcePage": "https://www.sharkninja.pl/ninja-double-stack-xl-air-fryer-pionowy-z-dwiema-szufladami-95-l-szary-sl400eu/SL400EU.html",
   "slug": "ninja-sl400eu",
   "galleryOrder": [
@@ -14,10 +14,7 @@
     "produkt-08.jpg",
     "produkt-09.jpg",
     "produkt-10.jpg",
-    "opis-01.jpg",
-    "opis-02.jpg",
-    "opis-03.jpg",
-    "opis-04.jpg"
+    "opis-01.jpg"
   ],
   "files": [
     {
@@ -118,33 +115,6 @@
       "width": 1400,
       "bytes": 85135,
       "sha256": "1762a0d3728bb64a1efe9195377f28302dbeab46ffb71d1691b5552b7a019270"
-    },
-    {
-      "file": "opis-02.jpg",
-      "kind": "lifestyle",
-      "order": 2,
-      "sourceUrl": "https://assets.sharkninja.com/image/upload/v1/Poland/PDP/Ninja/SL400EU/carousel/Ninja-SL400UK-InUse-Kitchen-OnCounteNinja-LineUp-Woman.jpg",
-      "width": 1400,
-      "bytes": 73694,
-      "sha256": "88be6572ddd8401771b3c6851363f761c4b982a41f82cd275cab5168d7a97b28"
-    },
-    {
-      "file": "opis-03.jpg",
-      "kind": "lifestyle",
-      "order": 3,
-      "sourceUrl": "https://assets.sharkninja.com/image/upload/v1/Poland/PDP/Ninja/SL400EU/carousel/Ninja-SL400UK-InUse-Kitchen-OnCounteNinja-NinjaemovingFood-Pizza-Woman.jpg",
-      "width": 1400,
-      "bytes": 137303,
-      "sha256": "77d426a61601cb17b6ad43ef377725e38d1808a079be132dacd4b207792235d6"
-    },
-    {
-      "file": "opis-04.jpg",
-      "kind": "lifestyle",
-      "order": 4,
-      "sourceUrl": "https://assets.sharkninja.com/image/upload/v1/Poland/PDP/Ninja/SL400EU/carousel/Ninja-SL400UK-InUse-Kitchen-OnCounteNinja-OveNinjahead-FoodPlates.jpg",
-      "width": 1400,
-      "bytes": 194308,
-      "sha256": "f7f08b092cdff5c9a03d70a518289ea1381349691cfe2ec15d5baf1ca3343f25"
     }
   ],
   "dropped": 0
