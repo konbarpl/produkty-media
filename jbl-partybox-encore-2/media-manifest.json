@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-07T12:41:52.168Z",
+  "sourcePage": "https://pl.jbl.com/PARTYBOX-ENCORE-2.html",
+  "slug": "jbl-partybox-encore-2",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "produkt-09.png",
+    "opis-01.png",
+    "opis-02.png",
+    "opis-03.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb8b39702/LS_JBL_PARTYBOX_ENCORE_2_MIC_035_x2.png",
+      "width": 1605,
+      "bytes": 2707013,
+      "sha256": "0c28e7358cdbbd6a6f3e744874530ee42d075f81ad0e4225081c93199c82d24c"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw4f9f59b0/LS_JBL_PARTYBOX_ENCORE_2_CONNECTIONS_043_x2.png",
+      "width": 1605,
+      "bytes": 2534288,
+      "sha256": "0483434950767e9d459429a36e443f15ebc5dff63618a9533fd3cb3ff2487c36"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwcc93f940/LS_JBL_PARTYBOX_ENCORE_2_LEFT_046_x1.png",
+      "width": 1605,
+      "bytes": 2039286,
+      "sha256": "29300a80df1000a37a1b9efd787aacb55d440da1a4ff2de93cbaef9cfd07c857"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwdfeb5e8f/LS_JBL_PARTYBOX_ENCORE_2_TOP_063_x2.png",
+      "width": 1605,
+      "bytes": 2537560,
+      "sha256": "e60a9c583f2a578c84337e9b94eb8ba3b5f6f76245fb6fd4a861621240f806c3"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw55f0eae1/LS_JBL_PARTYBOX_ENCORE_2_BOTTOM_068_x1.png",
+      "width": 1605,
+      "bytes": 2822567,
+      "sha256": "3e386293ece44e43d2ddbebf3b597e9e820b848ba5a90f4b640d0e3cc2101b56"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc76151c7/LS_JBL_PARTYBOX_ENCORE_2_BATTERY_040_x1.png",
+      "width": 1605,
+      "bytes": 2495159,
+      "sha256": "472a57fc72885480ae211327b83dad77b6eed592850fb60be477a44d63b0d506"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw77d80bfa/LS_JBL_PARTYBOX_ENCORE_2_DETAIL_1_049_x1.png",
+      "width": 1605,
+      "bytes": 2312819,
+      "sha256": "3d7ecb5b6574842fb0b2013d92db87df81363f47faaf635abca01d923b5b5c17"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw2768b2e1/JBL_PartyBox_Encore_2_Detailshot_5_1mix-1Holder.png",
+      "width": 1605,
+      "bytes": 804595,
+      "sha256": "a44a32131d76e1eb84c3019c379d5e01fc56042aa64e31fb68f7755f07732ade"
+    },
+    {
+      "file": "produkt-09.png",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw97893814/JBL_PartyBox_Encore_2_Box_Image_1mic_SKU_1605x1605px.png",
+      "width": 1605,
+      "bytes": 2913504,
+      "sha256": "17e164625c6c7db6c3c7840d6aa0497c51addf886654d74a97155d95e9075e33"
+    },
+    {
+      "file": "opis-01.png",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw88cd90a2/pdp/JBL_Partybox_Encore_2_Lifestyle_01_904x560px.png",
+      "width": 904,
+      "bytes": 851777,
+      "sha256": "ee4854a7d800be9c9f5f5b141f0a8a13750abe46e8a9a3a036cd69ff09960a4d"
+    },
+    {
+      "file": "opis-02.png",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw2a939591/pdp/JBL_Partybox_Encore_2_Lifestyle_02_904x560px.png",
+      "width": 904,
+      "bytes": 771212,
+      "sha256": "31ae929bbe8925f6ab9c7eed6fef2b9b16007eec2400b0255bb43703ffc565a0"
+    },
+    {
+      "file": "opis-03.png",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw8a1b845d/pdp/JBL_Partybox_Encore_2_Lifestyle_03_904x560px.png",
+      "width": 904,
+      "bytes": 662909,
+      "sha256": "294e3c65d648f07c092c7814e81783cc8ddcd951047ffa0abd12629e1315be90"
+    }
+  ],
+  "dropped": 0
+}
