@@ -1,0 +1,271 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-07T12:50:32.940Z",
+  "sourcePage": "https://clinus.pl/myjki-cisnieniowe-zimnowodne/karcher/3324-karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa",
+  "slug": "karcher-hd-9-25-g-classic",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "produkt-15.webp",
+    "produkt-16.webp",
+    "produkt-17.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/22430-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 50226,
+      "sha256": "82a09ae75a3754df6a2c3c2194177158ec6ac853ccd5ffba7d1e5f395c17bf5a"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/22431-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 40032,
+      "sha256": "71d3469c9636070d49c0aea3775ee73333e55206141317a83a583b284cb9c671"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/22432-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 44482,
+      "sha256": "af1528f2ec02f114904503fff3d49fd058d475384339e4d8b86c222c375e3411"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/22433-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 68922,
+      "sha256": "1ae867e87735d7954044a18c0fdc8c310d4870d27d8f0dda1f37b528ef15f77b"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/22434-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 71484,
+      "sha256": "e3d79f45db88d7668c0b65a5572f65e03875e9af958df2318caaa308a7a41f37"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/22435-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 111506,
+      "sha256": "6c1d255730360d20f61437052b934b2742045d9ac5c02a78e380e89455fe5841"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/22440-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 67856,
+      "sha256": "2d2d4e3e7dff0aba489f6c1a59a546043bb1f651955924ae28a33b666ca809eb"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/22441-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 34822,
+      "sha256": "1a7c0a46f081919a13a27281d795b2ab21f4eef10dae2c8ab9a28e6092ba31b5"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/22442-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 69436,
+      "sha256": "e442e4fa404f78c5916bef7016bf142cfdc08726b96e3e26892b737c5da4542d"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/22443-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 62510,
+      "sha256": "694da4992091af114ea7755afe0ae67b10c900cc047e42b24f77b6f631e0d97c"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/22444-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 57938,
+      "sha256": "db6d30214aedf2abbb68fca7da5117fd426667ccfec67c059437287465356a62"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/22445-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 46412,
+      "sha256": "beaf621b3fdf41fa24f9a65761712e35ce612968a0f141108bee622658c7a3dc"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/22446-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 44446,
+      "sha256": "15c7bb9a9e2f1606b54bdc8f53b6f22d8d05ebf9dd29bbf20087628cb82aff17"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/22447-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 30890,
+      "sha256": "30ac6dba2c5c4c75b11b6f2da13a4ced5bb45aeb9781a37a103249111518410a"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/22448-large_default/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 62698,
+      "sha256": "95cbc2f9092a40fb2fa03c9407af012272c2d9bba8535b3a4424dab6d4e9943a"
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/22449/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 800,
+      "bytes": 56270,
+      "sha256": "4d0dd59dd00307851773a272e8b6f997a0766a4344734900df7e73da3d34b83b"
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/64068/karcher-hd-9-25-g-classic-profesjonalna-spalinowa-myjka-cisnieniowa.webp",
+      "width": 1000,
+      "bytes": 77492,
+      "sha256": "aab21243f33737f696cf26c30652a295f68e6f04b3b1b096616730b3f89c4bfa"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/1-187-013-0-top-1.jpg",
+      "width": 1500,
+      "bytes": 324405,
+      "sha256": "10dc40b7830714654f2c576a8e7a3add9beb3b1950eecefeebccae4678cd2844"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/1.jpg",
+      "width": 1000,
+      "bytes": 117420,
+      "sha256": "a8922f24f8aef5b35f819ddc5488ab29fcbba99daf845204cea855ba1d47824f"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/11.jpg",
+      "width": 1000,
+      "bytes": 168201,
+      "sha256": "d5c92ba4faf837c7fbe8e1e50d4ffdf6b74461154bb92242dae4f0f114e1cf6b"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/5.jpg",
+      "width": 1000,
+      "bytes": 336553,
+      "sha256": "8d5a29f85f837731ed8052aa1b013ac5759b2b280e3bd1ccd2f97bbf1c877089"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/4.jpg",
+      "width": 1000,
+      "bytes": 256346,
+      "sha256": "22c3a1fa136ed12dd09410058e4b7d9589a9fe2a3be883b0acde4bfe27049829"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/10.jpg",
+      "width": 1000,
+      "bytes": 260871,
+      "sha256": "e9109ae0ece32c4a34e117606c262c579d9d2fa97c70f271a38f23d611fcb56e"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/9.jpg",
+      "width": 1000,
+      "bytes": 196370,
+      "sha256": "9e28d486acbd342d340dcb2914098cdc0572b3a567049de48d035cd7a4774631"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/3.jpg",
+      "width": 1000,
+      "bytes": 297484,
+      "sha256": "d08286713b6eb29c3229b30aafa74b44d09c8e89ce2e6403ced4c107c202803b"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/2.jpg",
+      "width": 1000,
+      "bytes": 397514,
+      "sha256": "7318e75202a2074d533c3478b4a9215ec4d5ee1791121418fff992a829ac31d9"
+    }
+  ],
+  "dropped": 20
+}
