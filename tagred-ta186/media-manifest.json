@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T14:03:54.514Z",
+  "sourcePage": "https://www.tagred.pl/szafa-warsztatowa-ta186.html",
+  "slug": "tagred-ta186",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.jpeg",
+    "produkt-08.jpeg",
+    "produkt-09.jpeg",
+    "produkt-10.jpeg",
+    "produkt-11.jpeg",
+    "produkt-12.jpeg",
+    "produkt-13.png",
+    "produkt-14.png",
+    "produkt-15.png",
+    "produkt-16.jpeg",
+    "produkt-17.png",
+    "produkt-18.jpeg",
+    "produkt-19.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/ta186n.png",
+      "width": 2000,
+      "bytes": 4380253,
+      "sha256": "f6ac34b98d62bc6f12ee3bcd37f8898c21f5b123a6b140cc7160423ae4e40cad"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/A7-07480ccc.png",
+      "width": 4189,
+      "bytes": 15257378,
+      "sha256": "20d89df8e03ef8f865b680510aff784fdfec41a1270ef527b72cf6f598b00c85"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/A7-07464cc.png",
+      "width": 2000,
+      "bytes": 3520893,
+      "sha256": "df7a5a43aa3404bd9c4857d0946a12ee121ff5f5a3437a22cf0587f139b27318"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/A7-07474ccc.png",
+      "width": 2000,
+      "bytes": 4000017,
+      "sha256": "076ed62c9316f2ed125a49725050b872fa20c32d82162f26eecf72a4dfe11c98"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/A7-07503ccc.png",
+      "width": 1881,
+      "bytes": 4388965,
+      "sha256": "13993f4832009ad8d9c459a90a10e900dc2ef9a49e7558de56d2813d5f058d37"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/A7-07476ccc.png",
+      "width": 2000,
+      "bytes": 4434693,
+      "sha256": "8f89294592269cc32bc50059fab1dea370db2cacd9ccb8f0a5e3af5c550bc5f5"
+    },
+    {
+      "file": "produkt-07.jpeg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/PROFESJONALNA-SZAFA-WARSZTATOWA-WOZEK-NARZEDZIOWY-JUMBO-12-SZUFLAD-691-el-EAN-GTIN-5903293511770.jpeg",
+      "width": 2560,
+      "bytes": 1944029,
+      "sha256": "253eeefdd8af0d64da4f59b47dabab4345afd9ee440bdc5d349b428af761a914"
+    },
+    {
+      "file": "produkt-08.jpeg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/PROFESJONALNA-SZAFA-WARSZTATOWA-WOZEK-NARZEDZIOWY-JUMBO-12-SZUFLAD-691-el-Waga-produktu-z-opakowaniem-jednostkowym-122-kg.jpeg",
+      "width": 2560,
+      "bytes": 1684369,
+      "sha256": "fd6485e238742e5d806aff9fda4844811c28a98e63abc35370ac689252381d77"
+    },
+    {
+      "file": "produkt-09.jpeg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/PROFESJONALNA-SZAFA-WARSZTATOWA-WOZEK-NARZEDZIOWY-JUMBO-12-SZUFLAD-691-el-Wysokosc-produktu-100-cm.jpeg",
+      "width": 2560,
+      "bytes": 1685518,
+      "sha256": "a69d5332cc68e8847e5cba0a6e63cce313be379d288afb2f5f30c9d726010976"
+    },
+    {
+      "file": "produkt-10.jpeg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/PROFESJONALNA-SZAFA-WARSZTATOWA-WOZEK-NARZEDZIOWY-JUMBO-12-SZUFLAD-691-el-Wyposazenie-w-zestawie-Tak.jpeg",
+      "width": 2560,
+      "bytes": 1589601,
+      "sha256": "f0d3132990845c1d5055c6fe613090c66c42fe64a7f23b753cda2338129c85ac"
+    },
+    {
+      "file": "produkt-11.jpeg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/PROFESJONALNA-SZAFA-WARSZTATOWA-WOZEK-NARZEDZIOWY-JUMBO-12-SZUFLAD-691-el-Marka-Tagred.jpeg",
+      "width": 2560,
+      "bytes": 2065536,
+      "sha256": "40fb1de027f3fe1de6e964c530543b49c00d17b24d6a11fda10ec2e0d7700c14"
+    },
+    {
+      "file": "produkt-12.jpeg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/PROFESJONALNA-SZAFA-WARSZTATOWA-WOZEK-NARZEDZIOWY-JUMBO-12-SZUFLAD-691-el-Kod-producenta-TA186.jpeg",
+      "width": 2560,
+      "bytes": 1791598,
+      "sha256": "43fc8654a992fb600f6d5cc3cbc6987e8255c12a8042f7bed07eb00740122cf8"
+    },
+    {
+      "file": "produkt-13.png",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/A7-07667g.png",
+      "width": 2000,
+      "bytes": 4845402,
+      "sha256": "b59386ef3e7ade286c4bcf5a53c70b272d23df3fbc107d3b12a9d5459c0a2f26"
+    },
+    {
+      "file": "produkt-14.png",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/A7-07533ccc.png",
+      "width": 1800,
+      "bytes": 2323847,
+      "sha256": "0dfad5a8b922bd2dbc380569d27e7e9ebd107e1a40940335d2f2ec651fc9226e"
+    },
+    {
+      "file": "produkt-15.png",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/A7-07547gccc.png",
+      "width": 2000,
+      "bytes": 3324084,
+      "sha256": "bd0a828f69b67afdf24d5c5416a538880552a389613f243cdf43cb46805ad5f5"
+    },
+    {
+      "file": "produkt-16.jpeg",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/PROFESJONALNA-SZAFA-WARSZTATOWA-WOZEK-NARZEDZIOWY-JUMBO-12-SZUFLAD-691-el-Cechy-dodatkowe-hamulec-do-blokowania-kol-mozliwosc-zamkniecia-na-klucz-uchwyty-do-prowadzenia-wysuwane-szuflady.jpeg",
+      "width": 554,
+      "bytes": 119197,
+      "sha256": "38cc55b7031c9d2d05e54a54576218d340a515f7712973ff35f824b61ed26009"
+    },
+    {
+      "file": "produkt-17.png",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/A7-07594.png",
+      "width": 1660,
+      "bytes": 5633271,
+      "sha256": "1eb57493d5375ca54e70a2d6f225fd2bf625efe875933507df8d4d4f9bbbf58f"
+    },
+    {
+      "file": "produkt-18.jpeg",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/PROFESJONALNA-SZAFA-WARSZTATOWA-WOZEK-NARZEDZIOWY-JUMBO-12-SZUFLAD-691-el-Liczba-szuflad-10-i-wiecej.jpeg",
+      "width": 554,
+      "bytes": 108117,
+      "sha256": "4ce4b2f980cae240d1e09fbb42b18959c11bb1e3b7b8e4c284b35af9d0426867"
+    },
+    {
+      "file": "produkt-19.png",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://www.tagred.pl/media/products/21e6811686bfbea92448dd4fa00a6860/images/A7-07625.png",
+      "width": 1087,
+      "bytes": 2596740,
+      "sha256": "d8c3ae044f23d4d0395dade8ee189f77744e10581e32d2271420129dcba73597"
+    }
+  ],
+  "dropped": 1,
+  "droppedNote": "Pominieto zdjecie z nazwa 479-EL, bo wskazuje inna kompletacje niz TA186 691 elementow."
+}
