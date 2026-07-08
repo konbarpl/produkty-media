@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T15:20:07.265Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-48404-Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Station.html",
+  "slug": "dreame-z30-station",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/ab9a26ac40f9754af2190a1dec215e74/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Station-48404_8.webp",
+      "width": 800,
+      "bytes": 13368,
+      "sha256": "f7e06a1a6f29bb2b044dcab3814f6a671293fa05b5aa5985cecc650b76c3d61a"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/7c75be295e4429122181fadbdf5ea79c/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Station-48404_9.webp",
+      "width": 800,
+      "bytes": 12314,
+      "sha256": "2a343d608026386580ef5a8b0b2794e375ff0440f79879d35ff563fe02dc0aa2"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/a961ad958ca75df3db1b4866829a1ff0/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Station-48404_10.webp",
+      "width": 800,
+      "bytes": 29394,
+      "sha256": "3fca1b75d5a93bcc193047d2cc0e5d3eb0c14843f474515aef498c931d0b0631"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/b71a2d7bf9cd9bb6889479d1bd88ed89/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Station-48404_11.webp",
+      "width": 800,
+      "bytes": 18126,
+      "sha256": "a042422443528446efe49765df778d5d2dffa56b6a5de0ef6cb534082453f244"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/0999a246cbe77ca4c5ff1d2d38301e98/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Station-48404_12.webp",
+      "width": 800,
+      "bytes": 12630,
+      "sha256": "456453e208591c7ba48aa3e1ae2709952a0503cc5c823f6c5779adfdb869b38a"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/c9d58bd6a9dc0015496bc90204438963/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Station-48404_13.webp",
+      "width": 800,
+      "bytes": 24296,
+      "sha256": "3e5b3ba95c01bfb22309f784adcc61c7de4ac8dc044ea367532dfc50da580399"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/6ccdddee533b5596f03b7b83605e93ed/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Station-48404_14.webp",
+      "width": 800,
+      "bytes": 48020,
+      "sha256": "62f43e2afbd0fa61a32af81fb945ec9d46fe3368a44c63c257c815acd0c7f519"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/10738/16844/Bezprzewodowy-odkurzacz-pionow-Dreame-Z30-Station.jpg",
+      "width": 1171,
+      "bytes": 62663,
+      "sha256": "71d2c84ed89b2265f3fc992de9f5164a11d3f477ba66b86d7a7afea52b89c44b"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/10738/16844/Dreame-Z30-Station-podswietlana-szczotka.jpg",
+      "width": 1171,
+      "bytes": 60085,
+      "sha256": "6bb8dc40348a34be17f98020a31e553d648efc38af9b010d0122594bf6a97251"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/10738/16844/Dreame-Z30-Station-filtracja-hepa.jpg",
+      "width": 1171,
+      "bytes": 36115,
+      "sha256": "8b977c322471add30e9a3407d347b00f11f8a972540c755893a986d32c417025"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://assets.innpro.pl/10738/16844/Dreame-Z30-Station-dlugi-czas-pracy.jpg",
+      "width": 1171,
+      "bytes": 60725,
+      "sha256": "6d2adadcfc1e9409e0296ff0fe73936b8f26c2eb6122ac2a5520c95e523b9850"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://assets.innpro.pl/10738/16844/Dreame-Z30-Station-automatyczna-regulacja-mocy-ssania.jpg",
+      "width": 1171,
+      "bytes": 61793,
+      "sha256": "8a36f3d5560dbd051b79dc72106267b22d64c56bbc76872945f1330b838c3a61"
+    }
+  ],
+  "dropped": 19
+}
