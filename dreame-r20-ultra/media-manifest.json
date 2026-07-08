@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T14:13:05.877Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-53932-Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-Ultra.html",
+  "slug": "dreame-r20-ultra",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/bdb735feeef06f58f633d21e457c87a7/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-Ultra-53932_7.webp",
+      "width": 800,
+      "bytes": 12174,
+      "sha256": "96a7a01a38fb7bc5c714ccfdd1dd2a0892bf43790f3d7c917cd9b72c43d51c1c"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/7b819a4e8333b0be617e33f3c6a37733/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-Ultra-53932_8.webp",
+      "width": 800,
+      "bytes": 18612,
+      "sha256": "63db9f01f5e5a7572f5e770fa7d10605a8026abb72a4303bac4c25f7db495666"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/66bdd8545c7c361ce6fb259dd2a5b005/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-Ultra-53932_9.webp",
+      "width": 800,
+      "bytes": 14678,
+      "sha256": "f605e3678ef5574d0615d8ad36b84fa70d7c352eff131e949a3b707b66163ef0"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/03bf0959dd76a85395f1ce9c157a7daa/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-Ultra-53932_10.webp",
+      "width": 800,
+      "bytes": 27366,
+      "sha256": "ceca06e8d4040365993a0932209cc66c29f71a16a90da7e500477033d6af58aa"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/08341095e8392e07265097d117a879c2/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-Ultra-53932_11.webp",
+      "width": 800,
+      "bytes": 36650,
+      "sha256": "718b19f08a01ced67ef002a303167da29771816fced4ca715a375bc6d64f9586"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/5a6b63ac15c3b399da423ab3e2f0a6bf/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-Ultra-53932_12.webp",
+      "width": 800,
+      "bytes": 43298,
+      "sha256": "838ddf31699dc5ba4b1df8bd914660e719a39151c2e580a60c44d4231afaff45"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/17469/23123/Kobieta%20sprz%C4%85ta%20pok%C3%B3j%20Bezprzewodowym%20odkurzaczem%20pionowym%20Dreame%20R20%20Ultra.jpg",
+      "width": 1171,
+      "bytes": 94624,
+      "sha256": "b16b687de8345d8b641a8822edc1b3d0151152fbb46f1b7c2e2f52f1de2ff4f6"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/17469/23123/Bezprzewodowy%20odkurzacz%20pionowy%20Dreame%20R20%20Ultra%20odkurza%20r%C3%B3%C5%BCne%20powierzchnie.jpg",
+      "width": 1171,
+      "bytes": 99321,
+      "sha256": "1f7c66a398a931955baacdd52b4ad8999687ccb9f2fc1694732d08fbe8491a2f"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/17469/23123/Akumulator%20Bezprzewodowego%20odkurzacza%20pionowego%20Dreame%20R20%20Ultra.jpg",
+      "width": 1171,
+      "bytes": 97152,
+      "sha256": "fb24efaca636abaa54880b5388c15d1f2a1cc61ee9769b9968058d849e38494e"
+    }
+  ],
+  "dropped": 13
+}

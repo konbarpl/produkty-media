@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T14:13:05.910Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-53908-Bezprzewodowy-odkurzacz-pionowy-Dreame-T30-Flex.html",
+  "slug": "dreame-t30-flex",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/f7de32776216a64f5750ace45ca1e3b4/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-T30-Flex-53908_8.webp",
+      "width": 800,
+      "bytes": 12364,
+      "sha256": "f99d5ac561c98f978822c62a71cd48aed24b806e39965c34e7d8ecb663416e71"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/c22326327f2bff54d2f767771b0517fd/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-T30-Flex-53908_9.webp",
+      "width": 800,
+      "bytes": 18290,
+      "sha256": "4504be0340ecea268ad38fa0ee657c2c24f8159f32435354d3dea0608f7aa84d"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/779fe05bb039ac0b1c352a5ad81e8d4f/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-T30-Flex-53908_10.webp",
+      "width": 800,
+      "bytes": 20346,
+      "sha256": "d478d59eadacaa8369442fd0dea358d82be49bbe9d43397340778ac520edeeaf"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/184e0a012b21a94b2139cbef282e486c/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-T30-Flex-53908_11.webp",
+      "width": 800,
+      "bytes": 44256,
+      "sha256": "dc50a474bb5c6bf9df33fc9fc8d13e0323e5f4636c7416c196a4c4270e83c33a"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/c03ba25f70093033b21ffe1a7330c8d9/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-T30-Flex-53908_12.webp",
+      "width": 800,
+      "bytes": 31486,
+      "sha256": "48e18f3f755d58dd732e1d73ed5535560e959acd0547558b2ca6e5e0205bc7ee"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/451f23bd7daf1398fa95c442eca5c918/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-T30-Flex-53908_13.webp",
+      "width": 800,
+      "bytes": 10600,
+      "sha256": "ee71120b8356c80c41bbaa455b764bd00f93c4ba199e90c3885be1b999458ff8"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/58354da61f4edb4a880c55c3f2aecc46/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-T30-Flex-53908_14.webp",
+      "width": 800,
+      "bytes": 31500,
+      "sha256": "61f80ebc45e606c39372e8a2a0f991585ac9d1ae278199422a8800fda84633da"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/17521/23206/Bezprzewodowy%20odkurzacz%20pionowy%20Dreame%20T30%20Flex%20odkurza%20li%C5%9Bcie%20pod%20%C5%82%C3%B3%C5%BCkiem.jpg",
+      "width": 1171,
+      "bytes": 84323,
+      "sha256": "1d7f46b5fcff296ddeda574e42c782149cf20cd95f5f9772946878dbc49c2c4f"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/17521/23206/Bezprzewodowy%20odkurzacz%20pionowy%20Dreame%20T30%20Flex%20wisi%20na%20uchwycie%20%C5%9Bciennym.jpg",
+      "width": 1171,
+      "bytes": 65689,
+      "sha256": "f19d28f8d947cd975fdc04c751586a1e02e3822d5a0f0f33fa0503f54aba5514"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/17521/23206/Zgi%C4%99ty%20Bezprzewodowy%20odkurzacz%20pionowy%20Dreame%20T30%20Flex%20odkurza%20pod%20kanap%C4%85.jpg",
+      "width": 1171,
+      "bytes": 80720,
+      "sha256": "f2b87fb5e96614aa8ae130e804c574f93a3d82b3fb62c1eea2a613526e51abef"
+    }
+  ],
+  "dropped": 14
+}
