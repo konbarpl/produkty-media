@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T15:40:50.305Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-44273-Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30.html",
+  "slug": "dreame-z30",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/2e060eee65cf025ed6f9745366bacb5d/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-44273_4.webp",
+      "width": 800,
+      "bytes": 19660,
+      "sha256": "c91776c662633c255a1e702e8f5051fd84747f57422c6971c78a1cae721b1350"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/6ab45f6e2ffc5c2c9750a7b7a510a564/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-44273_6.webp",
+      "width": 800,
+      "bytes": 12364,
+      "sha256": "865a6690f4f96bf56a67c03751d968f868ba61bf2e547fb9037e9650dd8805f7"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/0e8510a69be25c30fb130b974e856a97/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-44273_7.webp",
+      "width": 800,
+      "bytes": 19470,
+      "sha256": "b5123900a7c547aa249c3d41a1d088fa29d5b2630f6a2c99a940bf79147146df"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/310bb83e072e70ab2b1fa0e0be1e998e/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-44273_8.webp",
+      "width": 800,
+      "bytes": 14972,
+      "sha256": "07372a35f3a79d7eb94407fa94b0c4c9d1e70371bacd096f2705907b3db53ad7"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/304e33488ed25852714932875b05d594/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-44273_9.webp",
+      "width": 800,
+      "bytes": 27360,
+      "sha256": "7d1e2e982545676d79f8e5fd6988696adf9ba3a2face1c6407ad109d643a972e"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/6924/21322/Bezprzewodowy%20odkurzacz%20pionowy%20Dreame%20Z30%20odkurza%20r%C3%B3%C5%BCne%20powierzchnie.jpg",
+      "width": 1171,
+      "bytes": 97213,
+      "sha256": "73ece5a2959fc3a93d1ef125d7525ae26772b6fd26f3bb464f686da8062c1944"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/6924/21322/Bezprzewodowy%20odkurzacz%20pionowy%20Dreame%20Z30%20pod%C5%9Bwietlenie.jpg",
+      "width": 1171,
+      "bytes": 83358,
+      "sha256": "14875d40ab32cc1d80ff3d1b25d0006af13c3c51f59673d5db62d057b0b28f0a"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/6924/21322/Kobieta%20odkurzaj%C4%85ca%20pod%C5%82og%C4%99%20Bezprzewodowym%20odkurzaczem%20pionowym%20Dreame%20Z30.jpg",
+      "width": 1171,
+      "bytes": 48484,
+      "sha256": "fc79ba5f024e93d95249f894a4367b681717ffb32447e835257bbb8806313242"
+    }
+  ],
+  "dropped": 19
+}

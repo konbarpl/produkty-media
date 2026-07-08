@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T15:39:20.806Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-52430-Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Ultra.html",
+  "slug": "dreame-z30-ultra",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/977950c06c1c71d2f6797c2620590768/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Ultra-52430_7.webp",
+      "width": 800,
+      "bytes": 29538,
+      "sha256": "830ad424a9524e156f24725bdc36faf5e0295ecd34065b2d232851dc723245d1"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/74d2e737202f558075e23546dcf26dd1/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Ultra-52430_8.webp",
+      "width": 800,
+      "bytes": 29060,
+      "sha256": "bb8e1e6b4474b1e8dcfc8622cd7552c35f9d92b198f4ff986851a45c7f67a11d"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/a07983502d2b33d72a108170e8bd6ba8/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Ultra-52430_9.webp",
+      "width": 800,
+      "bytes": 17102,
+      "sha256": "679628d1cfdc74e1fe59df614f7bfdc2a10ccf3ad28cee7419035ae9b09a94b4"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/908692a0ca087598e8995608473e6307/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Ultra-52430_10.webp",
+      "width": 800,
+      "bytes": 34716,
+      "sha256": "bb67107fbc1f699cf06b8b8f518dfada6921ceb884ead256160755b9ccdada04"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/547715ab320e58efbc990c1f7701faa7/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Ultra-52430_11.webp",
+      "width": 800,
+      "bytes": 30308,
+      "sha256": "ac0942e1c7cdc29b3da2c46bce18e09d31de89d311839a45d7134e789455ab8d"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/9e26c311bee32483fb6985d75fa57205/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z30-Ultra-52430_12.webp",
+      "width": 800,
+      "bytes": 33838,
+      "sha256": "8381aeb293eaeae9833cdea83b5c78184973cf96d7b35d1171cdfc09af792846"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/15640/19689/Mo%C5%BCliwo%C5%9Bci%20odkurzania%20Dreame%20Z30%20Ultra.jpg",
+      "width": 1171,
+      "bytes": 60741,
+      "sha256": "7ff0c3ecfdec76e706cf34a9c5fd778a71779c875225ec6af6ca1acb1e21a7b4"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/15640/19689/Filtr%20HEPA%20H14%20dla%20Dreame%20Z30%20Ultra.jpg",
+      "width": 1171,
+      "bytes": 25115,
+      "sha256": "a60df3e6adb8641e8d2c5601abc3e50419549789ce468fdca0697e0af38aa6af"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/15640/19689/Piel%C4%99gnacja%20sier%C5%9Bci%20psa%20Dreame%20Z30%20Ultra.jpg",
+      "width": 1171,
+      "bytes": 54939,
+      "sha256": "c7a527f5a24dbad37b4fb313c9bcd6baf540eef01c46ff8ef5bb35d32958fdfa"
+    }
+  ],
+  "dropped": 20
+}

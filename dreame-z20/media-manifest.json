@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T15:40:32.846Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-44275-Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20.html",
+  "slug": "dreame-z20",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/96554cebff62858b7d615422fe505d34/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-44275_1.webp",
+      "width": 800,
+      "bytes": 22932,
+      "sha256": "e6568eff28f805f2fff09eb5821b699afadd78d49db2fc25b42c1915926f544c"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/b549a3308a96db10efab69c1014601e9/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-44275_9.webp",
+      "width": 800,
+      "bytes": 15162,
+      "sha256": "086e1668b541c1bd079f64570a75a2eb9f7f69225cff98630647b5f5518ed360"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/64eb86efe1229b1e00d10edd8d360bb9/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-44275_10.webp",
+      "width": 800,
+      "bytes": 12602,
+      "sha256": "b1acb22b478369117bf8da3df73e0c63886608aca24af67950869a7a9275343a"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/04e19f7be3774bb0d0f766eabdad02a3/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-44275_11.webp",
+      "width": 800,
+      "bytes": 35586,
+      "sha256": "9c422f363e9c5694101886fb696c70d6fdaa5bd580388c9587d39b30e24ebcf6"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/6dadac71e4de38278b75d9c680e16403/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-44275_12.webp",
+      "width": 800,
+      "bytes": 53958,
+      "sha256": "a325dd10cf7ad14abdd5f59304761c93ce248947bae1753e94e583d787bb67e1"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/a0419cf94e927030edaf2a1bd8740951/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-44275_13.webp",
+      "width": 800,
+      "bytes": 49034,
+      "sha256": "ec9683117b7ef1f39598ae4f7487ff0683e7b2a4d5098db48e936223f1f41c22"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/7535/17983/Bezprzewodowy%20odkurzacz%20pionowy%20Dreame%20Z20.jpg",
+      "width": 1171,
+      "bytes": 61384,
+      "sha256": "5c2ab762866114b12bf0c089258773347aeb52b44abfadefb2e64e267a867849"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/7535/17983/odkurzacz%20pionowy%20Dreame%20Z20.jpg",
+      "width": 1171,
+      "bytes": 61973,
+      "sha256": "72e2853507889abdac13dc2561fc377af593083473ae9850dca8022a0e230319"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/7535/17983/odkurzacz%20Dreame%20Z20.jpg",
+      "width": 1171,
+      "bytes": 60765,
+      "sha256": "b5174dcced95ec028c50fed2db703b7059ab7d096d44012debbb3b805f38c22c"
+    }
+  ],
+  "dropped": 16
+}

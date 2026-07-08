@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T15:41:08.157Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-29510-Bezprzewodowy-odkurzacz-pionowy-Dreame-R20.html",
+  "slug": "dreame-r20",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/372985fa7570560e86920a6d06b6bc6a/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-29510_1.jpg",
+      "width": 800,
+      "bytes": 51654,
+      "sha256": "5769d7a3759763fbedb1484557c362e0bb4012b0dde414fe4d27cdbcce0ca8ab"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/1b0cf067e37aaddb99f3ef1d09681d62/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-29510_2.jpg",
+      "width": 800,
+      "bytes": 78053,
+      "sha256": "cf1786d80ab7eaf9e5b3f24f9dbca10446f640e67eb28f50612364acb0ee8503"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/7081092f095acae415cae29445973de9/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-29510_3.jpg",
+      "width": 800,
+      "bytes": 45658,
+      "sha256": "333ef1fa813b89796f6ba4f820b90cef3991f05af95cdd945c12155e685dadfa"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/1d0ebc4caf3b12a73316c3688ecbdfd1/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-29510_4.jpg",
+      "width": 800,
+      "bytes": 50903,
+      "sha256": "38973c3c0840640c5c898e2425ea0bf2158ffd48a2e7fb06b802083a03e5bd1d"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/d6909d776f6541a425e7a88e95a7f25f/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-29510_5.jpg",
+      "width": 800,
+      "bytes": 41429,
+      "sha256": "f41140a52de8f6419bcaa48c44ce302fb24a0c629cfa7041f22bab4dc890ff0e"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/9e255316c427f8a0c56589ad16a1fcb6/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-29510_6.jpg",
+      "width": 800,
+      "bytes": 54380,
+      "sha256": "4f0f27be07788171c6d58351c55c419bcf3140908c9b90be685bd54e67d21260"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/73c506de1f6732961d6f47ebce8dbeaf/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-29510_7.jpg",
+      "width": 800,
+      "bytes": 73401,
+      "sha256": "130821394479fff54dd8268d618c0bd89a040f118e8bf577f728cfb2d8847b95"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/c7ca7863825fc2e289e8e9b33c0ae231/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-29510_8.jpg",
+      "width": 800,
+      "bytes": 44852,
+      "sha256": "bb0da1af5797154fe09c1b89c04b4a807cd81a35a2739e4d689a20c30a62003a"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/25ccce359945acffc8f46002eb3ba59b/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R20-29510_10.jpg",
+      "width": 800,
+      "bytes": 79163,
+      "sha256": "ac35c6563ccab2a52b235dab52f2253cdf1764aa2dc20c0370cbe921beca9995"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/710/17034/Dreame-R20-bezprzewodowy-odkurzacz-pionowy.jpg",
+      "width": 1171,
+      "bytes": 66036,
+      "sha256": "4d5a204e8dae9d4dae2ea1d69a74ba569122996a27cc9105a35ef525e04a7e44"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/710/17034/Dreame-R20-podswietlana-szczotka.jpg",
+      "width": 1171,
+      "bytes": 62883,
+      "sha256": "c414e9d89127eb4fe1b39b01f49947995fa6c0caf1274e1ddce535c2c7dd2852"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/710/17034/Dreame-R20-dlugi-czas-pracy.jpg",
+      "width": 1171,
+      "bytes": 65104,
+      "sha256": "c7af39244d6fb4d4da26098c5fb1e506b3d9b3e538a820240fc9debdc419bee9"
+    }
+  ],
+  "dropped": 18
+}

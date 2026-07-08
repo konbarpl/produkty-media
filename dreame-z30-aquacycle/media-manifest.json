@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T15:39:40.147Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-51104-Bezprzewodowy-odkurzacz-Dreame-Z30-Aquacycle.html",
+  "slug": "dreame-z30-aquacycle",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/c2afc9cc6fe303bf54a23731ebec0221/pol_pl_Bezprzewodowy-odkurzacz-Dreame-Z30-Aquacycle-51104_12.webp",
+      "width": 800,
+      "bytes": 25714,
+      "sha256": "0caba98b8a81c3644d739bde8d905217f5fb32533a3afa4fd382d0dc3b8f0f47"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/f5e848054af39376f235753ebc593065/pol_pl_Bezprzewodowy-odkurzacz-Dreame-Z30-Aquacycle-51104_13.webp",
+      "width": 800,
+      "bytes": 28612,
+      "sha256": "116b76d6af9a4a59028411a2f678819f10d3898429c263f6ac32b5fb5f430b6e"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/ab7ea08962362003ef378bb56b60e02b/pol_pl_Bezprzewodowy-odkurzacz-Dreame-Z30-Aquacycle-51104_14.webp",
+      "width": 800,
+      "bytes": 30398,
+      "sha256": "4a00b57c09bb5c419005737cfb323b58ca21dab56b9e3deddb3d1019b7c310eb"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/95387fa2a14c863c2a05892eba021e27/pol_pl_Bezprzewodowy-odkurzacz-Dreame-Z30-Aquacycle-51104_15.webp",
+      "width": 800,
+      "bytes": 33476,
+      "sha256": "ea6ec2546ef493d19d0255359cd58376ae85f42e090fdfeb495492b98b62b668"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/cae2f1659174088995a7320b613e8673/pol_pl_Bezprzewodowy-odkurzacz-Dreame-Z30-Aquacycle-51104_16.webp",
+      "width": 800,
+      "bytes": 41760,
+      "sha256": "faaa360f264e75aada63968f0b49cbbe49b998acb860a58566806a5442795f61"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/259c094bf9a4a5ceafa99e1eda060cb6/pol_pl_Bezprzewodowy-odkurzacz-Dreame-Z30-Aquacycle-51104_17.webp",
+      "width": 800,
+      "bytes": 39068,
+      "sha256": "358189f476aa91f72b6fba1f182ae357a7ebd8cea22c8a9195d16316785fd252"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/c4a041f11cd999f69fea0a1e21fd625b/pol_pl_Bezprzewodowy-odkurzacz-Dreame-Z30-Aquacycle-51104_18.webp",
+      "width": 800,
+      "bytes": 15718,
+      "sha256": "4ac2c501865454c2d83b80fd77e82cbf66825ec742b0bc4489f2a6511b1dfbd6"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/f1523a1a550e53c3301545d31f794a30/pol_pl_Bezprzewodowy-odkurzacz-Dreame-Z30-Aquacycle-51104_19.webp",
+      "width": 800,
+      "bytes": 26504,
+      "sha256": "b03c9fd85477bdf1b9e2017bc16a764e8ae226ec3fc45bf29e6e81aed3306239"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/e89356d218524b18fc4e2adde42f249d/pol_pl_Bezprzewodowy-odkurzacz-Dreame-Z30-Aquacycle-51104_20.webp",
+      "width": 800,
+      "bytes": 47012,
+      "sha256": "e218ccd7330f407fac88b644aaf446b4ff2e020b43f062baa938290852f6fd63"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/73cc2af79fe95f848f2aa55c5b10b0b7/pol_pl_Bezprzewodowy-odkurzacz-Dreame-Z30-Aquacycle-51104_21.webp",
+      "width": 800,
+      "bytes": 15498,
+      "sha256": "48135ebf8777d72773aedf5bb03a4993f8f182243b3fb5e7ae3bd98fafa418be"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/f2a446e210f086df56c18687cc313532/pol_pl_Bezprzewodowy-odkurzacz-Dreame-Z30-Aquacycle-51104_22.webp",
+      "width": 800,
+      "bytes": 19974,
+      "sha256": "033f25fe5565c07c76f720077ff42c696068cb8b8ac7f5285c2ed4be33fb22bf"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/13320/16641/Bezprzewodowy%20odkurzacz-Dreame-Z30-AquaCycle.jpg",
+      "width": 1171,
+      "bytes": 57034,
+      "sha256": "5bdb71ebef04eca44d7d76efa734e1a02429a3692098d8dc54536d923c7de78c"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/13320/16641/Dreame%20Z30-Aquacycle-wyswietlacz-LED.jpg",
+      "width": 1171,
+      "bytes": 66924,
+      "sha256": "434721359cfd5db78b150acd1317cb9e7340928ba6ef60bb2b73e2d9a641a56e"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/13320/16641/Dreame%20Z30-Aquacycle-dociera-pod-meble.jpg",
+      "width": 1171,
+      "bytes": 59065,
+      "sha256": "fafbc90de075724b8fbea1fbc760a2ab3f1bd167b503469c3de592e43af3f6fe"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://assets.innpro.pl/13320/16641/Dreame%20Z30-Aquacycle-wysoka-sila-ssania.jpg",
+      "width": 1171,
+      "bytes": 62669,
+      "sha256": "6ad6c08b74ec736c6dfdd1e8f5c4673666606a963fcfa89a5c5382108fd6b4cc"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://assets.innpro.pl/13320/16641/Dreame%20Z30-Aquacycle-filtracja.jpg",
+      "width": 1171,
+      "bytes": 64192,
+      "sha256": "e6e2eeda70ba213863dd93e080ee65c622833653318a07f2c34a8e8a397ed430"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://assets.innpro.pl/13320/16641/Dreame%20Z30-Aquacycle-oswietlenie.jpg",
+      "width": 1171,
+      "bytes": 59752,
+      "sha256": "b6421c61ee0275dd7e9427d99e68eaf0440954a15954810fd7ef258297162a63"
+    }
+  ],
+  "dropped": 24
+}

@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T15:39:02.987Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-52432-Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-Aquacycle.html",
+  "slug": "dreame-z20-aquacycle",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/003b3eaca6f34cdaa2f00cedda67a905/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-Aquacycle-52432_6.webp",
+      "width": 800,
+      "bytes": 28998,
+      "sha256": "8993606b0d0b4e65845c659e272c71c29d737804bbd41bdcd0270f6553b85fd9"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/c16d8e930bd7d7089bc39e6f0164abc0/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-Aquacycle-52432_7.webp",
+      "width": 800,
+      "bytes": 32366,
+      "sha256": "8882bd972864f1971a90aceb175a0b7483312ee964eeac0de14294d9f1ef2031"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/4c64fd392c98ce94df22bd552ab15795/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-Aquacycle-52432_8.webp",
+      "width": 800,
+      "bytes": 24666,
+      "sha256": "f3571fb195bc3291f9a0106f18151eabd1958b6244739fbeae9611c7550b90cc"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/a0251788970e68ddefdb4d4b99204a10/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-Aquacycle-52432_9.webp",
+      "width": 800,
+      "bytes": 31866,
+      "sha256": "48daa2b19af8b635dd7c14f14151b349063c003b3222223f0c6d3221db3395ab"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/545c7bb0aa1655466bf243cfe69fca8d/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-Aquacycle-52432_10.webp",
+      "width": 800,
+      "bytes": 18100,
+      "sha256": "648c51c118ada835db7682e9956f361a08916c59425eacfb33c6838cf7722a6b"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/15642/19667/Kobieta%20odkurzaj%C4%85ca%20pod%C5%82og%C4%99%20odkurzaczem%20Dreame%20Z20%20Aquacycle%20z%20pod%C5%9Bwietleniem.jpg",
+      "width": 1171,
+      "bytes": 52748,
+      "sha256": "bcaa9d852505da0abb9925308b8fe5e8c5742b9ceebf9efea8d1ab51207bcef2"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/15642/19667/Filtr%20HEPA%20w%20odkurzaczu%20Dreame%20Z20%20Aquacycle.jpg",
+      "width": 1171,
+      "bytes": 35831,
+      "sha256": "61843a355fdfa9d13480a4c713ac0ec7fceb68257477714ad9d793ee565a1c68"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/15642/19667/Czyszczenie%20tapicerki%20Dreame%20Z20%20Aquacycle.jpg",
+      "width": 1171,
+      "bytes": 58533,
+      "sha256": "651327d209574068028c47cd1fe8653c92fe2f10430e13e9cf694447004f0a56"
+    }
+  ],
+  "dropped": 21
+}
