@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T15:22:17.314Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-48403-Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-Station.html",
+  "slug": "dreame-z20-station",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/a6edc3722ec383313d415dd83a8fff39/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-Station-48403_7.webp",
+      "width": 800,
+      "bytes": 19370,
+      "sha256": "baee728dd9f41e5dbdd2d375fa4115366c086419ac786f95665546c84a065596"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/2569ecd8d976b376fd3d7da68e709a43/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-Station-48403_8.webp",
+      "width": 800,
+      "bytes": 39512,
+      "sha256": "bad72fc621657e2ca8383400379e027255e832716acb991beb465ea3ff7b6b96"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/1943a623f4efa73393648bbfd5f2d9b6/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-Station-48403_9.webp",
+      "width": 800,
+      "bytes": 20032,
+      "sha256": "bf998efe82581f8e4e278192c627cef72675be13e41d7f1539cc3d02da57f4d9"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/88e0d8358831b9f9a445b10dc565f367/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-Station-48403_10.webp",
+      "width": 800,
+      "bytes": 15278,
+      "sha256": "09eab25483d1f96139f8c435aca99c509372dead7e17facced54f44aca6b832f"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/2f43c38568c460020a87ae6eafce4de1/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-Station-48403_11.webp",
+      "width": 800,
+      "bytes": 15078,
+      "sha256": "bdf7adf12a685e6ff451eeedb9b7adc49247f0217b47233ff8364f1030a1ed1c"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/5c91cd517cc575b75a5cda531824f0f4/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-Z20-Station-48403_12.webp",
+      "width": 800,
+      "bytes": 14080,
+      "sha256": "81367c331cc7dfc3e05ea56e224c313d669d39e23c4bee1789e515d006ff754d"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/10727/21593/Bezprzewodowy%20odkurzacz%20pionowy%20Dreame%20Z20%20Station.jpg",
+      "width": 1171,
+      "bytes": 82376,
+      "sha256": "5eeb965827b0fc174a73424258102626b007b14e81b10f1a9b6e9d3494753249"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/10727/21593/Szczotka%20Omni-Brush%20z%20pod%C5%9Bwietleniem.jpg",
+      "width": 1171,
+      "bytes": 76908,
+      "sha256": "2e578404c2d833596e4973dbc7ebdc887bd89a0ebf6e92e914e5eea1a0235dc5"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/10727/21593/Inteligentne%20sprz%C4%85tanie.jpg",
+      "width": 1171,
+      "bytes": 83582,
+      "sha256": "39c7e368068fa3e448447ef0f39a8d7b9ca4061618083f71a2f9fcbb4d1ff095"
+    }
+  ],
+  "dropped": 17
+}
