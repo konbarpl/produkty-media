@@ -1,0 +1,322 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T17:44:48.753Z",
+  "sourcePage": "https://clinus.pl/podkaszarki-i-kosy/stiga/2382-stiga-gt-330-a-podcinarka-spalinowa",
+  "slug": "stiga-gt-330-a",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-08.webp",
+    "produkt-16.webp",
+    "produkt-02.webp",
+    "produkt-12.webp",
+    "produkt-11.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-13.webp",
+    "produkt-18.webp",
+    "produkt-03.webp",
+    "opis-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/91032/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 1000,
+      "bytes": 24134,
+      "sha256": "2f944a234e5ae96f41eb486c791f5ee6e31a116ff04b46ca349834da463f5791"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/91033-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 65332,
+      "sha256": "769b47acc6f32ca9889cdb6b5c09c583f8307222a4283716eb0976737ef5f988"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/91034-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 54754,
+      "sha256": "7a51640d58093a9e7ef0ebd12975a3eda641e1c3c70f81ef2bfbec86251570e8"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/91035-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 108344,
+      "sha256": "73aa233cf7b0e5fcd92cce2ab6617e5716d858ec7f032bf91c3ad5d890a233a2"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/91036-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 144710,
+      "sha256": "df390d2f96a2e99987ab5a460dbe1f816a8ed1793f78e434713e62d7083b4f90"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/91038-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 166414,
+      "sha256": "602e96ef0cf21a84fa3ea10566b89ddb64f9eaf8a6422e88e7025d891aa51a34"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/91042-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 11378,
+      "sha256": "b7dcea2ea4795f81957c3b01dcd74809d7cde94267906cd29df5cc59b1d07058"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/91043-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 8084,
+      "sha256": "7eb9634bd8345867a6b8b5c87fe05cab9a43e8dab38ea0454f9a5f697e5d4e6b"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/91044-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 17540,
+      "sha256": "4a1792ceeb5bc44ee2d2fe789d4b39694c773a3866421ce1e24916dc7bca43b0"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/91045-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 8606,
+      "sha256": "16ad8ae651adefd1d809420d275309efbd9f5bdcfa1e120bfb55df41987157ad"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/91046-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 16570,
+      "sha256": "d81a7f26d9c9f957d39692b5920053c773dfa501a52859338b46e8009aeabe37"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/91047-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 33922,
+      "sha256": "14105fe822ad35e6ae6a768e379b0e907a6e608d6fcbf74721fca858b55e12bf"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/91048-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 20468,
+      "sha256": "c5fa63312b71d9907da1c1eb898e6ff457114ee9b913240ac1919dd71c369025"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/91049-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 17810,
+      "sha256": "ac531380b01e13a5ff067b3b7300fcb12c45cc7735a36f5b35e8bd3fdc739b81"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/91050-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 16468,
+      "sha256": "df550ff8b2d350c7e76edae471696b07f189787d15e3d593adc6f004709b2447"
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/91051-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 217424,
+      "sha256": "2627521b46c3e87487433d77ee7c608e055b4c7809840fe0bf62d4b3e90b60b3"
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/91053-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 161058,
+      "sha256": "579fe0b4bb99f354ca1fb181b5028d387520d7a61b0c4a9c368697b5900fc74b"
+    },
+    {
+      "file": "produkt-18.webp",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://clinus.pl/91055-large_default/stiga-gt-330-a-podcinarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 39484,
+      "sha256": "d5c6f5e5684c6a875ad81e3fadcdb7027263bc97665b817734310e924f15fc08"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/1.jpg",
+      "width": 1000,
+      "bytes": 184711,
+      "sha256": "ad6423daa32db939837fb979609c02151b679c4f8e422be8d108e79139788e7d"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/35.jpg",
+      "width": 1000,
+      "bytes": 33800,
+      "sha256": "5f45f3acba6efc5450313f572c0a0e1c1f0771ae6bbf35feac8de9e7e3350ef4"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/18.jpg",
+      "width": 1000,
+      "bytes": 269891,
+      "sha256": "2bf6dfc194f85a19d65222fdd0d57ee546f33b78a1c7abb3a1d10f343a36f419"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/29.jpg",
+      "width": 1000,
+      "bytes": 110670,
+      "sha256": "ef4be916f06e261e0095836df163cfa8acd541e97e958a55e88c35cac932dada"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/28.jpg",
+      "width": 1000,
+      "bytes": 72024,
+      "sha256": "a434fc2c91e1a2fa38efa3f5182fdda7df36a504dc6bcf2148c56fe09542a587"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/20.jpg",
+      "width": 1000,
+      "bytes": 152034,
+      "sha256": "6da86f2584b3c2ca637b5c6d6e69fa4c6f7424032a1e118b816e4177438e59b1"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/17.jpg",
+      "width": 1000,
+      "bytes": 299552,
+      "sha256": "81b0380ff4653250602c61f29dcf6afccf2608fa41d91d3b4b8494ce88f10153"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/2.jpg",
+      "width": 1000,
+      "bytes": 37328,
+      "sha256": "87d804942711442fff9d7fe7396b352a4b9b4dde6a0961577f54f7882fae46f2"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/19.jpg",
+      "width": 1000,
+      "bytes": 98762,
+      "sha256": "3a7980c15cc64f2cccdd40c83a3944ebd20da1c8acaffc3f04eab564e158ec78"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/32.jpg",
+      "width": 1000,
+      "bytes": 124225,
+      "sha256": "625afe4c95131f3ac50467e8c07afb7d286df3ce471e40d31d47a4c7c85b80b6"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/26.jpg",
+      "width": 1000,
+      "bytes": 325106,
+      "sha256": "37a56357c5cd5afccc0c79ef00dd52d170bd5df35c7f43c9ea3a3a022d9ec053"
+    },
+    {
+      "file": "opis-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/16.jpg",
+      "width": 1000,
+      "bytes": 378474,
+      "sha256": "e0b9caf2a3e648a33d3d39c37d2ee8a084b055024c611ed1a71063da67701456"
+    },
+    {
+      "file": "opis-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/30.jpg",
+      "width": 1000,
+      "bytes": 195841,
+      "sha256": "8b618d16622d92d04f19ea7e95159d29f90a9cbe43e6b10cec2b3da48131ffb1"
+    },
+    {
+      "file": "opis-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/34.jpg",
+      "width": 1000,
+      "bytes": 16511,
+      "sha256": "8c0326aef594b8b5d80097658cf65d270fae9a97e7ccd02b23c0c15063594632"
+    },
+    {
+      "file": "opis-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287110102ST2/6.jpg",
+      "width": 1000,
+      "bytes": 27092,
+      "sha256": "ba1b9ab9ce5797d20257717dc550e44b21734ce98341cea76ee6e843d707481b"
+    }
+  ],
+  "dropped": 3,
+  "curatedAt": "2026-07-08T18:05:17.077Z",
+  "curationNote": "galleryOrder skurowany recznie do 12 zweryfikowanych zdjec (11 produktowych + baner opis-01); pelny zestaw plikow (33) pozostaje na dysku i w files[]."
+}
