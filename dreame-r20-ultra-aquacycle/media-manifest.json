@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T15:17:20.059Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-53161-Bezprzewodowy-odkurzacz-pionowy-mopujacy-Dreame-R20-Ultra-Aquacycle.html",
+  "slug": "dreame-r20-ultra-aquacycle",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/564e348b6b74384eb86473e4673c0187/pol_pl_Bezprzewodowy-odkurzacz-pionowy-mopujacy-Dreame-R20-Ultra-Aquacycle-53161_7.webp",
+      "width": 800,
+      "bytes": 12110,
+      "sha256": "9593d51ffa7f3701104f5add5c478e1858ff8830adf98023c2793e1c8f3e10b2"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/242bc7f54c420f2e3e97a4897f5b6bf8/pol_pl_Bezprzewodowy-odkurzacz-pionowy-mopujacy-Dreame-R20-Ultra-Aquacycle-53161_8.webp",
+      "width": 800,
+      "bytes": 18358,
+      "sha256": "5bc46f1047bc03f5579394a1f77425de064e60d1b7154577dde146c0902c58c6"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/e893011b8b8c1600a65b3124ac20c1c0/pol_pl_Bezprzewodowy-odkurzacz-pionowy-mopujacy-Dreame-R20-Ultra-Aquacycle-53161_9.webp",
+      "width": 800,
+      "bytes": 19342,
+      "sha256": "38e4920a91c8fd5c32a4234c46d41f85fc22400b28c2cc0b7113c026a0158f9d"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/dc556a1407bcc7ba682884e9b999e5b3/pol_pl_Bezprzewodowy-odkurzacz-pionowy-mopujacy-Dreame-R20-Ultra-Aquacycle-53161_10.webp",
+      "width": 800,
+      "bytes": 12290,
+      "sha256": "4d6fc197795723cc9114d00ee5172e23542f352bf169d3de704b44305680f21d"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/5a6b63ac15c3b399da423ab3e2f0a6bf/pol_pl_Bezprzewodowy-odkurzacz-pionowy-mopujacy-Dreame-R20-Ultra-Aquacycle-53161_11.webp",
+      "width": 800,
+      "bytes": 43298,
+      "sha256": "838ddf31699dc5ba4b1df8bd914660e719a39151c2e580a60c44d4231afaff45"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/08341095e8392e07265097d117a879c2/pol_pl_Bezprzewodowy-odkurzacz-pionowy-mopujacy-Dreame-R20-Ultra-Aquacycle-53161_12.webp",
+      "width": 800,
+      "bytes": 36650,
+      "sha256": "718b19f08a01ced67ef002a303167da29771816fced4ca715a375bc6d64f9586"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/17439/23112/Kobieta%20sprz%C4%85ta%20pok%C3%B3j%20Bezprzewodowym%20odkurzaczem%20pionowym%20mopuj%C4%85cym%20Dreame%20R20%20Ultra%20Aquacycle.jpg",
+      "width": 1171,
+      "bytes": 90888,
+      "sha256": "fd8cee7712e681190e410b558f5d3078c019fe8787a440de7459056ef731f581"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/17439/23112/Akumulator%20Bezprzewodowego%20odkurzacza%20pionowego%20mopuj%C4%85cego%20Dreame%20R20%20Ultra%20Aquacycle.jpg",
+      "width": 1171,
+      "bytes": 56227,
+      "sha256": "3d55f17a0168161e24f58c85f46a799a920d3834c6f91add30afd8deaa7c532f"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/17439/23112/Bezprzewodowy%20odkurzacz%20pionowy%20mopuj%C4%85cy%20Dreame%20R20%20Ultra%20Aquacycle%20czy%C5%9Bci%20r%C3%B3%C5%BCne%20rodzeja%20powierzchni.jpg",
+      "width": 1171,
+      "bytes": 37030,
+      "sha256": "edd57f881e0c4799b4ed650a5460a3260d405d298b6439e8db9e097d07ba1c95"
+    }
+  ],
+  "dropped": 16
+}
