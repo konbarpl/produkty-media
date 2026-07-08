@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T17:41:59.960Z",
+  "sourcePage": "https://clinus.pl/podkaszarki-i-kosy/stiga/2238-stiga-bc-555-b-kosa-spalinowa",
+  "slug": "stiga-bc-555-b",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-10.jpg",
+    "opis-11.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/57234/stiga-bc-555-b-kosa-spalinowa.webp",
+      "width": 1000,
+      "bytes": 27550,
+      "sha256": "b5b4833ecf78d237990943a7442a9c0fb6b490b865008d6116975682428cbe99"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/57235/stiga-bc-555-b-kosa-spalinowa.webp",
+      "width": 1000,
+      "bytes": 29536,
+      "sha256": "5264f68fc006880c8c6c31da6637961f0a99cc1edfacf5889758debdf6d4fcce"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/57236/stiga-bc-555-b-kosa-spalinowa.webp",
+      "width": 1000,
+      "bytes": 18190,
+      "sha256": "7b18f2f1a16fef76e96a297ec017f212ec723b3aebd9eb7647fca3e680386d5c"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/57237/stiga-bc-555-b-kosa-spalinowa.webp",
+      "width": 1000,
+      "bytes": 11218,
+      "sha256": "5fa1a340db53c2ab3bf7f3a8b064192a2f17dc8270a720fdf8c2b6afcc1eba39"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/57238/stiga-bc-555-b-kosa-spalinowa.webp",
+      "width": 1000,
+      "bytes": 15106,
+      "sha256": "8bad7e8c16b22b8e0a66667bc415a2f28288128ee98dc4ccc1b7da7f05eb1b13"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/57239/stiga-bc-555-b-kosa-spalinowa.webp",
+      "width": 1000,
+      "bytes": 10956,
+      "sha256": "bf78ff61d2d4c14030fc530d67bd11b5da6c76491c297f4b3bc9c21b7d3bd9c4"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/57240/stiga-bc-555-b-kosa-spalinowa.webp",
+      "width": 1000,
+      "bytes": 43696,
+      "sha256": "61c767f9656b154328d47f77f33e1ea3f3bd7858c11dfca9762e8e15beb54183"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/57241/stiga-bc-555-b-kosa-spalinowa.webp",
+      "width": 1000,
+      "bytes": 16244,
+      "sha256": "f268932d837cbcd9d3c49ba315883449147ef3f16e28e311626081cc62620339"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/57242/stiga-bc-555-b-kosa-spalinowa.webp",
+      "width": 1000,
+      "bytes": 16086,
+      "sha256": "cbeb15a669fb102968c65e6fd3bc17f6f2e0559fa982de4726742885566f2e4d"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/57243/stiga-bc-555-b-kosa-spalinowa.webp",
+      "width": 1000,
+      "bytes": 18806,
+      "sha256": "23def962914574fcd9061f221d5ca51a520f6a46622b3c618c1e514404e597dc"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287421002ST1/287421002ST1-top-1.jpg",
+      "width": 1500,
+      "bytes": 84333,
+      "sha256": "5105b3eb6d8c5324eb9f061764bfd92dd0457a440b67df09a1d8b0208620e87b"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287421002ST1/10.jpg",
+      "width": 1000,
+      "bytes": 112095,
+      "sha256": "ac0de5295a9a6e7dcaf04e61e2f6ce587c2b3913991e7207b5b39fe305ed467a"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287421002ST1/wide-1.jpg",
+      "width": 1500,
+      "bytes": 46668,
+      "sha256": "571b3eafbfcf9bcb52484baf2ea142c2c1a9be3bead149006c98d07d480dddbb"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287421002ST1/9.jpg",
+      "width": 1000,
+      "bytes": 41959,
+      "sha256": "9e284110351d5d8b337b73d2f4c1e852eaac8eccc4d764c66c0b1fec8769fbf2"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287421002ST1/5.jpg",
+      "width": 1000,
+      "bytes": 51802,
+      "sha256": "8e4602ea80137fba5127516c0931c5810f776123251c8526db5401dce00fe8e1"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287421002ST1/4.jpg",
+      "width": 1000,
+      "bytes": 86465,
+      "sha256": "a942ab9818f80eff978f2619405e27cb5edcc1c56fa12e7fab1656881264c5cb"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287421002ST1/wide-2.jpg",
+      "width": 1500,
+      "bytes": 49869,
+      "sha256": "1061af2d8f172846c2a8a739d5950534cd411e3512fa5f5454ea1bdef71b6531"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287421002ST1/6.jpg",
+      "width": 1000,
+      "bytes": 28253,
+      "sha256": "9f6942a2e415577d5639d9bc731e644d2e8d33a238785af7619dc49d7660feb0"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287421002ST1/3.jpg",
+      "width": 1000,
+      "bytes": 45549,
+      "sha256": "32b96efdd3a3909dcc9be711e9595173ffe2ffddbf37a9f8d21dd3f5f002bf8b"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287421002ST1/8.jpg",
+      "width": 1000,
+      "bytes": 28629,
+      "sha256": "ee9ff72b6187fb7035512601cd39154d67fdd512a6f5c9094201f8ef4c83b01a"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/287421002ST1/2.jpg",
+      "width": 1000,
+      "bytes": 39179,
+      "sha256": "42a624e42c79bc539378e7ba625ae8a7e45e44a4aef5584b45d13f2efb1fc44e"
+    }
+  ],
+  "dropped": 0
+}
