@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T14:02:42.147Z",
+  "sourcePage": "https://www.tagred.pl/meble-garazowe-warsztatowe-ocynkowane-tagred.html",
+  "slug": "tagred-ta189",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_702-2g.jpg?lm=1760271242",
+      "width": 1000,
+      "bytes": 160456,
+      "sha256": "0ea5bbd9b4a46043f7ec01dc8e3129086ef977dfa56a9d2cc4c852b53d994fa3"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_701-2g.jpg?lm=1760271242",
+      "width": 1000,
+      "bytes": 237517,
+      "sha256": "29c3fe62d717b37a5a3bd6e86201d1e90455cc1704227634a3513c16a779370e"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_704-2g.jpg?lm=1760271875",
+      "width": 703,
+      "bytes": 179235,
+      "sha256": "c862d8ef733962759fe6235b54c222760e7027d64e5918792e89748411a5f580"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_703-2g.jpg?lm=1760271924",
+      "width": 1000,
+      "bytes": 165630,
+      "sha256": "b6e88c4950ce7830d37cc102d778adb7498151c53bc15f3dc74319e129be7236"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_814-2g.jpg?lm=1760271926",
+      "width": 1000,
+      "bytes": 122733,
+      "sha256": "c006ed0d39ed56fc855bcbdf15a93dab12ce83a47f7caa5d6d158ef8b4743425"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_805-2g.jpg?lm=1760271972",
+      "width": 981,
+      "bytes": 205180,
+      "sha256": "9d76cbc73a8a05d929475c708861e411a51b084b7f8a783d8e81daefe4d1333d"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_810-2g.jpg?lm=1760271971",
+      "width": 1000,
+      "bytes": 149285,
+      "sha256": "2c604899f52697fc6e47f72fb79f7babf4b981a084a7feb2a1c9712fb102da69"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_811-2g.jpg?lm=1760271972",
+      "width": 1000,
+      "bytes": 182984,
+      "sha256": "89cdaa8750f35e416aed0e55539eb7f9f237cc3c400ecdf9bf4faa86940f2859"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_807-2g.jpg?lm=1760271984",
+      "width": 1000,
+      "bytes": 138870,
+      "sha256": "a027a97de5180889e2eb85352525915296771d8cd5a378fb0a316e90c2fedf49"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_812-2g.jpg?lm=1760271986",
+      "width": 1000,
+      "bytes": 108772,
+      "sha256": "3941302f498602c49902d5a416a13ddfe0281bc6625b4022e6d96c2b6c9687e1"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_809-2g.jpg?lm=1760272144",
+      "width": 1000,
+      "bytes": 114600,
+      "sha256": "0798f1b3ac2832f7d53e2efb4c8063b811d691f57ff802d7781f9114bab0c42c"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_808-2g.jpg?lm=1760287219",
+      "width": 1000,
+      "bytes": 168983,
+      "sha256": "a885743fee902dca2c0bc0b3420e2c5954f858f19e2ff825fa7ed77d4e23d011"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_806-2g.jpg?lm=1760287220",
+      "width": 1000,
+      "bytes": 173928,
+      "sha256": "63ede5212c4bcd16c1168983d14cd6ff7691046dae6560231b48cb02b05e21b5"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_813-2g.jpg?lm=1760287222",
+      "width": 1000,
+      "bytes": 197626,
+      "sha256": "c8bb65c8eec336517a4907fe40223f2ab03a6adbf901bef3d7bff6ac1d247500"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_ta189wym1.jpg?lm=1760726460",
+      "width": 1000,
+      "bytes": 118315,
+      "sha256": "9c39fa434d499962cd6b9b3b1ef6630ba38b13b8d38a94342603a5c2c72aecb5"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://www.tagred.pl/media/products/06bbcf2c5d26c2e0f2398c0389923e11/images/thumbnail/big_ta189wym2.jpg?lm=1760726459",
+      "width": 768,
+      "bytes": 138845,
+      "sha256": "b1c292cfba0c9a0c619c4a250fbe6f6660b2d78cef71abde99de2355218a2437"
+    }
+  ],
+  "dropped": 0
+}
