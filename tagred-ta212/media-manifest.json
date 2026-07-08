@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T15:01:52.101Z",
+  "sourcePage": "https://www.tagred.pl/szafa-warsztatowa-wozek-warsztatowy-z-narzedziami-tagred-ta212-grzechotki.html",
+  "slug": "tagred-ta212",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tagred.pl/media/products/a982d461a1a044c8ea3e8a0fda8d9139/images/thumbnail/big_ta212m.jpg?lm=1780669167",
+      "width": 1000,
+      "bytes": 206816,
+      "sha256": "bce54222623e887989922bdd49d7a417e1fe82ef528326a97b7c698588ed6b20"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tagred.pl/media/products/a982d461a1a044c8ea3e8a0fda8d9139/images/thumbnail/big_212b.jpg?lm=1780669168",
+      "width": 985,
+      "bytes": 109214,
+      "sha256": "81bbb95a565cd39378d3458316a0f45148e0eb1f7fd88e65bdd6e2ae7bda5c0a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tagred.pl/media/products/a982d461a1a044c8ea3e8a0fda8d9139/images/thumbnail/big_213b.jpg?lm=1780669171",
+      "width": 924,
+      "bytes": 102974,
+      "sha256": "45a4f018d11f992399164c64b5d957d5ebdbb2cb2d5c62d7ba9e14e5ea90cd6c"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tagred.pl/media/products/a982d461a1a044c8ea3e8a0fda8d9139/images/thumbnail/big_6c31770e48e581062ca1483ab809.jpg?lm=1780669175",
+      "width": 1000,
+      "bytes": 61454,
+      "sha256": "e40fdce436b7d5240b2749ae53f92d7f25e1bff8c74662ccdf6d2eac12f2cd69"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tagred.pl/media/products/a982d461a1a044c8ea3e8a0fda8d9139/images/thumbnail/big_image011.jpg?lm=1737832633",
+      "width": 584,
+      "bytes": 40143,
+      "sha256": "d73f9904379a89fe9d564ca188d5d978e92775d45186c059baf59220fe169eda"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tagred.pl/media/products/a982d461a1a044c8ea3e8a0fda8d9139/images/thumbnail/big_image016.jpg?lm=1737832638",
+      "width": 800,
+      "bytes": 63937,
+      "sha256": "16dda20ddf78d356e427111c85ae186f748ca6df28a8c4ae0f50a376d41fb18b"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.tagred.pl/media/products/a982d461a1a044c8ea3e8a0fda8d9139/images/thumbnail/big_image014.jpg?lm=1737832636",
+      "width": 776,
+      "bytes": 60936,
+      "sha256": "b887f0c47575e0819e8f51a29e1087b7d9c679e6fc45c3e08c6ba73acfcfc5ec"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.tagred.pl/media/products/a982d461a1a044c8ea3e8a0fda8d9139/images/thumbnail/big_image020.jpg?lm=1737832641",
+      "width": 800,
+      "bytes": 43280,
+      "sha256": "00ee7249797e71c9ec987114b0c3ddeb2e329c4383d385ef87e9ed792f054803"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.tagred.pl/media/products/a982d461a1a044c8ea3e8a0fda8d9139/images/thumbnail/big_5d2f4ea04d5dc-image002.jpg?lm=1737821908",
+      "width": 1000,
+      "bytes": 113039,
+      "sha256": "cd171720184db62c4eed6cb7d98bf1a5024cd7df61fc9619b74c2bfe0a3aa048"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.tagred.pl/media/products/a982d461a1a044c8ea3e8a0fda8d9139/images/thumbnail/big_image010.jpg?lm=1737832632",
+      "width": 800,
+      "bytes": 51346,
+      "sha256": "745bbfefea95c40d694cf765ec93bcf795fa9e29a783b8c28f4bbcfabc105fa2"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://www.tagred.pl/media/products/a982d461a1a044c8ea3e8a0fda8d9139/images/thumbnail/big_ta007.jpg?lm=1737821877",
+      "width": 900,
+      "bytes": 168043,
+      "sha256": "0cb242af85a17016ea2a09f6fe650f3ee6072c12477eb1459f056e907c45d273"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://www.tagred.pl/media/products/a982d461a1a044c8ea3e8a0fda8d9139/images/thumbnail/big_212wymn.jpg?lm=1780667644",
+      "width": 1000,
+      "bytes": 154962,
+      "sha256": "9894a1f9dc295e1deccce8b0cc7b79ae44b37c4470f1d9225350c40143b4a168"
+    }
+  ],
+  "dropped": 0
+}
