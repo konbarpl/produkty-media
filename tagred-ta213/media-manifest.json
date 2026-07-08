@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T14:00:10.253Z",
+  "sourcePage": "https://www.tagred.pl/szafa-warsztatowa-wozek-warsztatowy-tagred-ta213-7-szuflad-stalowy-blat.html",
+  "slug": "tagred-ta213",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tagred.pl/media/products/32cbda7d9084d6a0c4763a47066984c7/images/thumbnail/big_WhatsApp-Image-2026-06-03-at-16-11-10.jpeg?lm=1780500792",
+      "width": 1000,
+      "bytes": 85784,
+      "sha256": "80c6ea37ede91b61c8e40d9a69b15b1ff86afe86b4578272003767fe72834f7d"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tagred.pl/media/products/32cbda7d9084d6a0c4763a47066984c7/images/thumbnail/big_TA213-04-2.jpg?lm=1780500794",
+      "width": 1000,
+      "bytes": 97938,
+      "sha256": "5945f21c6769fe4ea4103d34fb62a73fc42ee12399d3b1aaba8ba9978ba83eb0"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tagred.pl/media/products/32cbda7d9084d6a0c4763a47066984c7/images/thumbnail/big_TA213-06-2.jpg?lm=1780500800",
+      "width": 1000,
+      "bytes": 103818,
+      "sha256": "56f879651d81b7c5ac584ef7e44f3c02a819f7a804a4e5057e1d0c9317ac59c6"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tagred.pl/media/products/32cbda7d9084d6a0c4763a47066984c7/images/thumbnail/big_TA213-01-2.jpg?lm=1780500802",
+      "width": 1000,
+      "bytes": 79910,
+      "sha256": "ab313fc7df4c722a4f1df65eac907cc6ab4a3ea377c8abd5da67d46b5d52542f"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tagred.pl/media/products/32cbda7d9084d6a0c4763a47066984c7/images/thumbnail/big_PROFESJONALNA-SZAFA-WARSZTATOWA-WOZEK-NARZEDZIOWY-Wyposazenie-w-zestawie-Nie.jpeg?lm=1737826203",
+      "width": 866,
+      "bytes": 74726,
+      "sha256": "6d4b5753e04a85e5aed6b70cf96a73b4ed93d06b0bc1d464544a25f8530b11ac"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tagred.pl/media/products/32cbda7d9084d6a0c4763a47066984c7/images/thumbnail/big_DSC00654.JPG?lm=1770483914",
+      "width": 785,
+      "bytes": 90049,
+      "sha256": "44490de2fd914ffd97f1daed16e5af4eacd5a68beb1fffeec9e1f3cecc2f2778"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.tagred.pl/media/products/32cbda7d9084d6a0c4763a47066984c7/images/thumbnail/big_TA213-08-2.jpg?lm=1780500811",
+      "width": 1000,
+      "bytes": 55473,
+      "sha256": "b2b60ee4404bdd6377421069cc948c0397358c16ddbf75e20e30afdbba7de169"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.tagred.pl/media/products/32cbda7d9084d6a0c4763a47066984c7/images/thumbnail/big_PROFESJONALNA-SZAFA-WARSZTATOWA-WOZEK-NARZEDZIOWY-Wysokosc-produktu-98-cm.jpeg?lm=1737823473",
+      "width": 720,
+      "bytes": 46762,
+      "sha256": "ee5e6f80e09bc7a1f13b7891df319a0e3a50cc93a830c01e3c35173aa6782dc6"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.tagred.pl/media/products/32cbda7d9084d6a0c4763a47066984c7/images/thumbnail/big_PROFESJONALNA-SZAFA-WARSZTATOWA-WOZEK-NARZEDZIOWY-Szerokosc-produktu-78-cm.jpeg?lm=1737823473",
+      "width": 720,
+      "bytes": 25843,
+      "sha256": "6890bd3732771508d48f0e4ab8d6a9797c9773d393a8dd9c46c73b419539ab48"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.tagred.pl/media/products/32cbda7d9084d6a0c4763a47066984c7/images/thumbnail/big_TA213-07-2.jpg?lm=1780500817",
+      "width": 1000,
+      "bytes": 95457,
+      "sha256": "0b7685c2c0ac741141f2a91aa867df2f7f3455fa85112d261cb7e71196cedea7"
+    }
+  ],
+  "dropped": 0
+}
