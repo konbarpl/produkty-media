@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T13:27:22.381Z",
+  "sourcePage": "https://mi-store.pl/product-pol-3568-Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-S40-Pro.html",
+  "slug": "xiaomi-robot-vacuum-s40-pro",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-10.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/4d6922a97ca6003dfeddbba2385129d2/pol_pl_Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-S40-Pro-3568_1.webp",
+      "width": 600,
+      "bytes": 11988,
+      "sha256": "05f189526e2b07cc4d79f7ef1fb91cd817245d71b665be676ee51d42e12b9927"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3568-Xiaomi-Robot-Vacuum-S40-Pro/1.jpg",
+      "width": 1291,
+      "bytes": 1153355,
+      "sha256": "6abeec336449315c63057accd470c651cd9b4ba4d6e32a5a27322cf08b0bb527"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3568-Xiaomi-Robot-Vacuum-S40-Pro/2.jpg",
+      "width": 1260,
+      "bytes": 859619,
+      "sha256": "6ebad80168d9466ba1df640d320cdc97633e88ac4fcc930ed063b3abeb9ef1aa"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3568-Xiaomi-Robot-Vacuum-S40-Pro/3.jpg",
+      "width": 1257,
+      "bytes": 846155,
+      "sha256": "77ec43a06743e7e5a4babe98ad6f75484333aa684a07b8d6c42578b6968b45bc"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3568-Xiaomi-Robot-Vacuum-S40-Pro/4.jpg",
+      "width": 1257,
+      "bytes": 923044,
+      "sha256": "9860315b2a632bd9f1c7bdb4de8f36dae0f550695ba527cf5acbdb7b4b376a29"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3568-Xiaomi-Robot-Vacuum-S40-Pro/5.jpg",
+      "width": 1291,
+      "bytes": 715587,
+      "sha256": "9c54c721d5d0008e0aa77d894272f0ee528d0bbb0b8b8ea971e16b027e4c671f"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3568-Xiaomi-Robot-Vacuum-S40-Pro/6.jpg",
+      "width": 1260,
+      "bytes": 679620,
+      "sha256": "77f53204ac9b0dcf1db5a254306817765aab7622847816abb4b0f724d89b8991"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3568-Xiaomi-Robot-Vacuum-S40-Pro/7.jpg",
+      "width": 1261,
+      "bytes": 895964,
+      "sha256": "60261337725e059e1517c7cc0552bd71daed251a4b8404982ea99c07dde99a2a"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3568-Xiaomi-Robot-Vacuum-S40-Pro/8.jpg",
+      "width": 1291,
+      "bytes": 936498,
+      "sha256": "66d8942dc203ceed0bb51ee5bedc5b5e60dec67f617453cb1aa6b87ea8928aa4"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3568-Xiaomi-Robot-Vacuum-S40-Pro/9.jpg",
+      "width": 1291,
+      "bytes": 627382,
+      "sha256": "2a8dadd2b64a77d036315ac8a24d70cb7d49f305e0a0fec83a474d622a90103a"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3568-Xiaomi-Robot-Vacuum-S40-Pro/10.jpg",
+      "width": 1261,
+      "bytes": 797035,
+      "sha256": "3d708bf9aa7151f4ec6736f590841f30a51ee826f8415051379be2ea501bcf00"
+    }
+  ],
+  "dropped": 0
+}
