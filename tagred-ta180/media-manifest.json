@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T14:01:48.004Z",
+  "sourcePage": "https://www.tagred.pl/profesjonalna-szafa-warsztatowa-duza-ta180.html",
+  "slug": "tagred-ta180",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.png",
+    "produkt-08.png",
+    "produkt-09.png",
+    "produkt-10.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tagred.pl/media/products/5fc213a6759f8cf3a4a48b81b132300a/images/A7-08021uta180s.jpg?lm=1760093225",
+      "width": 1900,
+      "bytes": 518397,
+      "sha256": "1c24a0f9d2572419377af16dbfce4c8a1c104a62114f7c88a98d3b953d9182b2"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tagred.pl/media/products/5fc213a6759f8cf3a4a48b81b132300a/images/A7-08005.jpg?lm=1760093226",
+      "width": 2000,
+      "bytes": 630955,
+      "sha256": "decef2e75dbb9b48e38982edd6e1db4849a2b3cd74f28138319ae8a41f109185"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tagred.pl/media/products/5fc213a6759f8cf3a4a48b81b132300a/images/A7-07997ta180.jpg?lm=1760093228",
+      "width": 2000,
+      "bytes": 618183,
+      "sha256": "3b9d850b41bf8a2d950ce578c2af18c355b51fe9cdfd4756d8f235f569810643"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tagred.pl/media/products/5fc213a6759f8cf3a4a48b81b132300a/images/ta1803.jpg?lm=1737824189",
+      "width": 2000,
+      "bytes": 734071,
+      "sha256": "d6a4bad0bc549f851206604472f29217f68a3fe1672a38a6f532402adbca7278"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tagred.pl/media/products/5fc213a6759f8cf3a4a48b81b132300a/images/A7-07520.jpg?lm=1760093231",
+      "width": 2000,
+      "bytes": 806053,
+      "sha256": "ba3d60c11242519406218f927aa7e3b4c83d752550cec37cc5cfc62476b97234"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tagred.pl/media/products/5fc213a6759f8cf3a4a48b81b132300a/images/1804.jpg?lm=1737824191",
+      "width": 3767,
+      "bytes": 1987682,
+      "sha256": "94c29b3204d2a90854059923fd7ae653aa0a7806be6621584104eb9516caa33a"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.tagred.pl/media/products/5fc213a6759f8cf3a4a48b81b132300a/images/A7-07625.png?lm=1760093977",
+      "width": 1087,
+      "bytes": 2596740,
+      "sha256": "d8c3ae044f23d4d0395dade8ee189f77744e10581e32d2271420129dcba73597"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.tagred.pl/media/products/5fc213a6759f8cf3a4a48b81b132300a/images/A7-07594.png?lm=1760093979",
+      "width": 1660,
+      "bytes": 5633271,
+      "sha256": "1eb57493d5375ca54e70a2d6f225fd2bf625efe875933507df8d4d4f9bbbf58f"
+    },
+    {
+      "file": "produkt-09.png",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.tagred.pl/media/products/5fc213a6759f8cf3a4a48b81b132300a/images/A7-07533ccc.png?lm=1760093983",
+      "width": 1800,
+      "bytes": 2323847,
+      "sha256": "0dfad5a8b922bd2dbc380569d27e7e9ebd107e1a40940335d2f2ec651fc9226e"
+    },
+    {
+      "file": "produkt-10.png",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.tagred.pl/media/products/5fc213a6759f8cf3a4a48b81b132300a/images/ta180w.png?lm=1737822894",
+      "width": 2500,
+      "bytes": 4098204,
+      "sha256": "c8d9bd7cb3f2b79021318db7a8b643bff20756282485dd0877c8c9567c05e20f"
+    }
+  ],
+  "dropped": 0
+}
