@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-08T13:27:12.025Z",
+  "sourcePage": "https://mi-store.pl/product-pol-3536-Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-S40.html",
+  "slug": "xiaomi-robot-vacuum-s40",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/99c0b5a233c39ad2ab2801065074d97a/pol_pl_Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-S40-3536_1.webp",
+      "width": 600,
+      "bytes": 7542,
+      "sha256": "bd218acfe574b64846ff21e7f69c629c999be273225ee9d1afaa9640b406025f"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3536-Robot-Vacuum-S40/1.jpg",
+      "width": 1435,
+      "bytes": 440601,
+      "sha256": "d7f574011521ac6a7a2f75e45038515a00425612cfb0820dc6eb3a9fba092a57"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3536-Robot-Vacuum-S40/2.jpg",
+      "width": 1435,
+      "bytes": 188886,
+      "sha256": "2b5eb6064d0f0dfd996d68526eb813c292d0ee5911f0dbfd75e4785a40e13a42"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3536-Robot-Vacuum-S40/3.jpg",
+      "width": 1435,
+      "bytes": 567248,
+      "sha256": "3e85733bd896eb45d5a6f14f37c441c9005aec5962cc184a7bd25de75e14e7ec"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3536-Robot-Vacuum-S40/4.jpg",
+      "width": 1435,
+      "bytes": 222349,
+      "sha256": "3ec6415ad71123abe8687c0833821acf79d9659f5a56d537f73b5bf0eb60bf27"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3536-Robot-Vacuum-S40/5.jpg",
+      "width": 1435,
+      "bytes": 628763,
+      "sha256": "b33ff7b282a55331c2c90848e4ad72c0b66b1a8a962a732e159c96d1db974c49"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3536-Robot-Vacuum-S40/6.jpg",
+      "width": 1441,
+      "bytes": 669451,
+      "sha256": "bc71fbcd368e5c63551ed6e77bca41568d81c78d802832bbccbe8349ad7b498c"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3536-Robot-Vacuum-S40/7.jpg",
+      "width": 1441,
+      "bytes": 440803,
+      "sha256": "ad63398bda89632bf4243ad787d5cedaae051be5b145715af521c2d257926a3d"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3536-Robot-Vacuum-S40/8.jpg",
+      "width": 1407,
+      "bytes": 582382,
+      "sha256": "999c1011e074621baa952a53cb31c7c033756eb0bd43bc83eebdf761a71c05db"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3536-Robot-Vacuum-S40/9.jpg",
+      "width": 1441,
+      "bytes": 595220,
+      "sha256": "5c6d39354b63ad55dd36604f3fdc5a126fa6796994186c04186f4884211aa738"
+    }
+  ],
+  "dropped": 0
+}
