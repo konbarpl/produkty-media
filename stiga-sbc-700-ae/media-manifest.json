@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T17:50:54.034Z",
+  "sourcePage": "https://clinus.pl/podkaszarki-i-kosy/stiga/2365-stiga-sbc-700-ae-kosa-akumulatorowa",
+  "slug": "stiga-sbc-700-ae",
+  "galleryOrder": [
+    "produkt-04.webp",
+    "produkt-10.webp",
+    "produkt-07.webp",
+    "produkt-03.webp",
+    "produkt-01.webp",
+    "produkt-06.webp",
+    "produkt-02.webp",
+    "produkt-05.webp",
+    "produkt-08.webp",
+    "produkt-09.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/27984/stiga-sbc-700-ae-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 14434,
+      "sha256": "ce3094989e0e8e1c28ba51c05e01deda479db247cb7e87560b16c290cc46848e"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/27985/stiga-sbc-700-ae-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 14336,
+      "sha256": "d7cfbf6dc3b27c989925dc61332cda748e7b9b05c62aa2ad09ca1ea893f1ea6b"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/27986/stiga-sbc-700-ae-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 19238,
+      "sha256": "5586b295e9c1e6ea5bb9783d41aa98b4f400205089bfbf19eeb2d8ad5154f20d"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/27987/stiga-sbc-700-ae-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 7934,
+      "sha256": "37dfd0c5f399de31ac378b72431c424c28b69342088e07be5f1887bd284a6f5c"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/27988/stiga-sbc-700-ae-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 26252,
+      "sha256": "2fc85e412c3ddbd413d9bf52a18365c5a9f001cbc4af52bec694f34ce6643528"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/27989/stiga-sbc-700-ae-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 18566,
+      "sha256": "ce0c9cc81c5b0378ad8793cc6fbf2ff8fd61347a966a8597b0a3c3f1afb8f3ef"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/27990/stiga-sbc-700-ae-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 5716,
+      "sha256": "38f115a2e6a032b24cffc56429d992dabc5b9dcdd975355f333a9a956858a684"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/27991/stiga-sbc-700-ae-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 137156,
+      "sha256": "3e0f2bd8e4af92eefbe22de271607c0daee666b88b5d6252817107d5125a39f4"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/27992/stiga-sbc-700-ae-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 154898,
+      "sha256": "b44d602f482da0e726614f2e3d57691c091f90cd8ed3010414300960787bef09"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/27993/stiga-sbc-700-ae-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 10644,
+      "sha256": "9f30ddb1279c7547f4f441b68858aaf2c02d9f0afcadc516529a1a92fbfdd238"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/93208-large_default/stiga-sbc-700-ae-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 14904,
+      "sha256": "948e5ce15f667a7ab51e6729911a9240470f93e2aba99538f8a788a977eb6db9"
+    }
+  ],
+  "dropped": 0
+}
