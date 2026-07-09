@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T08:56:53.087Z",
+  "sourcePage": "https://toya24.pl/pl-PL/products/grill-gazowy-torne-4-1-14-4kw-10014820",
+  "slug": "lund-torne-4-1-gazowy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-14.png",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-04.jpg",
+    "produkt-10.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-07.jpg",
+    "produkt-15.png",
+    "produkt-11.png",
+    "produkt-12.png",
+    "produkt-13.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://toya24.pl/hpeciai/aafe10c3ecb6001299668b33eefc3562/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_1.jpg",
+      "width": 1000,
+      "bytes": 194092,
+      "sha256": "41d81861679a8159c4385ea81c110f64274727b9f251eb3a74d07d54490c92fe"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://toya24.pl/hpeciai/a14d3134a294b6ec9c6fbeee75eb9f10/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_2.jpg",
+      "width": 1000,
+      "bytes": 180373,
+      "sha256": "c50584792cf03cc1c1e71c03d8b5452ec8a89de5ea2c909bcff5b356b9da1938"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://toya24.pl/hpeciai/c009a7d23eee1dece2b4408feb363458/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_3.jpg",
+      "width": 1000,
+      "bytes": 198033,
+      "sha256": "3d7b50dd7a5f7fa1778beff7a8f16056826ae9a6d01d1ddd8722e46be5435b75"
+    },
+    {
+      "file": "produkt-14.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://toya24.pl/hpeciai/0d87f98295d85772d7400418f7c37d0d/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_14.png",
+      "width": 1200,
+      "bytes": 455129,
+      "sha256": "8286cf561587be54ef43e4f7acab34bec608a7ff98937b347eb8bf1ad3348404"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://toya24.pl/hpeciai/3aeecdb58c3de8620ea8f772c5d20d1b/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_5.jpg",
+      "width": 1000,
+      "bytes": 405647,
+      "sha256": "7523c77f3c2344c3640df561c4c0d7df2e1cced4c3f34da493f0443a70d732fb"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://toya24.pl/hpeciai/d2f6d5f6777595527a70511921ff3507/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_6.jpg",
+      "width": 1000,
+      "bytes": 369525,
+      "sha256": "8d23828f4994178889c06a5efb69127b06418b91596f6594e8b0df4f91275b2a"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://toya24.pl/hpeciai/242345c7576ea64bb03896d8f30c271b/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_4.jpg",
+      "width": 1000,
+      "bytes": 525676,
+      "sha256": "73b82721e7a950c99fd26246584e3f2e1291f49fac661fd706a2b9b9268bf412"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://toya24.pl/hpeciai/f74ac0d2f334282cf1320aafc6ae936b/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_10.jpg",
+      "width": 1000,
+      "bytes": 412356,
+      "sha256": "c675ac249d2714ef86ea1da6e007230355cabaa13da56263abd92384481a439c"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://toya24.pl/hpeciai/5c60f72d2dd32cd6ee40da0066cc337c/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_8.jpg",
+      "width": 1000,
+      "bytes": 319947,
+      "sha256": "098c3315bec8e8b738ce3ba628ed563be255205b7c521040070def6fb95d1a5b"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://toya24.pl/hpeciai/0a8f6b9c7cbf522e60a30e9df8d15d40/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_9.jpg",
+      "width": 1000,
+      "bytes": 287530,
+      "sha256": "e008356d255e2265f382e458b580dd7f2014cfce2348c778062a24a971b2a437"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://toya24.pl/hpeciai/662889344c37db5489d285ed97aa08b1/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_7.jpg",
+      "width": 1000,
+      "bytes": 223208,
+      "sha256": "68b734982763a93d5573f892f1ca7845160aa4d344469ccc5a4f0e87a321889b"
+    },
+    {
+      "file": "produkt-15.png",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://toya24.pl/hpeciai/1e88a2291952f4c7cd9f29599131e8f3/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_15.png",
+      "width": 479,
+      "bytes": 71937,
+      "sha256": "919dbdb18389f47aa4f82fbfc0e02ba40aa309da72ac4662511aa3e9b0c384b1"
+    },
+    {
+      "file": "produkt-11.png",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://toya24.pl/hpeciai/84436f84e38cfc3602089219a69536c3/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_11.png",
+      "width": 1000,
+      "bytes": 1282183,
+      "sha256": "1f7a2942d5545c59bf94d3147b57884bc440acfebbd096d014df857fd2035940"
+    },
+    {
+      "file": "produkt-12.png",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://toya24.pl/hpeciai/687763884f2967b3d0f3199b2262dfa6/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_12.png",
+      "width": 731,
+      "bytes": 321779,
+      "sha256": "cd971a0f64d626dc10d1920c04b2d72e313747f7be98f7a5a83d005a05f98942"
+    },
+    {
+      "file": "produkt-13.png",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://toya24.pl/hpeciai/43f9527d5cfc71252b639106a62e9a71/pol_pl_GRILL-GAZOWY-TORNE-4-1-14-4KW-10014820_13.png",
+      "width": 717,
+      "bytes": 370802,
+      "sha256": "c9bc4324782330d220cbf744295e4a044a6890e5851fb51f101bd09282a0c9b8"
+    }
+  ],
+  "dropped": 3,
+  "curationNote": "Wykonawca 2026-07-09: z 18 pobranych zdjec do galerii wchodzi 15. Odrzucono produkt-16/17/18 (479 px, niskorozdzielcze duplikaty tresci pokrytej juz zdjeciami 1000 px: 09 polka ociekowa, 04 termometr, 08 palnik boczny). Wszystkie 18 to poprawny model 4+1 (4 palniki glowne + boczny)."
+}
