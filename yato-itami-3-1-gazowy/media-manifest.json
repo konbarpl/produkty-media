@@ -1,0 +1,261 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T08:46:52.943Z",
+  "sourcePage": "https://toya24.pl/pl-PL/products/grill-gazowy-itami-3-1-stal-nierdzewna-11-5kw-z-szyba-10017325",
+  "slug": "yato-itami-3-1-gazowy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "produkt-19.jpg",
+    "produkt-20.jpg",
+    "produkt-21.png",
+    "produkt-22.png",
+    "produkt-23.png",
+    "produkt-24.png",
+    "produkt-25.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://toya24.pl/hpeciai/cc093dac813e98f1443e95f258382751/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_1.jpg",
+      "width": 1000,
+      "bytes": 250875,
+      "sha256": "0c879c0e28058e518969750c2ab0ceec91e1639da5524733384beb64c426c7d0"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://toya24.pl/hpeciai/a508e20ce2877193a03385a6a264c095/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_2.jpg",
+      "width": 1000,
+      "bytes": 262555,
+      "sha256": "3bbdd12a0b434d836c72f4b4496ffdcc3dc1d9723be12dc8d9191bc02e692d7c"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://toya24.pl/hpeciai/114ee55d812aeddd826535967905accf/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_3.jpg",
+      "width": 1000,
+      "bytes": 294934,
+      "sha256": "da1689cea2d7729c36cd3e00db61307b3117a33e000d0097cad376657eca8557"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://toya24.pl/hpeciai/0c33a594f438034ade12fd750db8365e/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_4.jpg",
+      "width": 1000,
+      "bytes": 313700,
+      "sha256": "f1330c7447ee7017825a01a547535a9036e574c742a1a395bc543dfd21894ce2"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://toya24.pl/hpeciai/4110e3ce3cb48c4907b2bca7898d22d0/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_5.jpg",
+      "width": 1000,
+      "bytes": 235768,
+      "sha256": "35475c51ba8929f6c6afa00243a5a21fb01e51fbcb2e4735b6ec7a9221063aa5"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://toya24.pl/hpeciai/4463ab5f65867b79650c461d222b3cc3/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_6.jpg",
+      "width": 1000,
+      "bytes": 333960,
+      "sha256": "c90f57cdf21ca78c65567110b50ca31f2c9666f7a4a5a4c9c743bb44d8050160"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://toya24.pl/hpeciai/14b63e06eedbefa9878893495b155cd0/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_7.jpg",
+      "width": 1000,
+      "bytes": 332964,
+      "sha256": "f6e04754be8b77f171e69ee3bba59b23d6c58325a6dc393cd962ed81c5a5f078"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://toya24.pl/hpeciai/879bde8de581165b132166c03e7fea85/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_8.jpg",
+      "width": 1000,
+      "bytes": 317280,
+      "sha256": "320a0f0ab01a691070f6a29a7b4a32097196a70c9b70bef6aaf5a45ae211c476"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://toya24.pl/hpeciai/24d37fc035c305e4f443f0c492845f7e/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_9.jpg",
+      "width": 1000,
+      "bytes": 227210,
+      "sha256": "db7982768a2dff9d58d84b18c8db3c29b5375e2552114de11be05ed3b91fedfa"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://toya24.pl/hpeciai/cef5f9492a84f4fde451a62c2d0bba58/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_10.jpg",
+      "width": 1000,
+      "bytes": 363549,
+      "sha256": "43b596c38949b41f1b6adc17b05b18c2fdfed75001488e7bff7362779b23621d"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://toya24.pl/hpeciai/cb3976a2cfb281183fcbde7060848ccd/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_11.jpg",
+      "width": 1000,
+      "bytes": 370723,
+      "sha256": "fe62acaa346675c005a38b9c0d167875d96f012072fde38001ee57c7cc2c6f0e"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://toya24.pl/hpeciai/30d4a18b1ca17d87ebf1ed97ec1f0af6/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_12.jpg",
+      "width": 1000,
+      "bytes": 270728,
+      "sha256": "7ac1fe9f2485d9903b7b3d0d1173ec8ce80f158015b9da6114047b9c0c92c36a"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://toya24.pl/hpeciai/f5ccb11ddaf7593348151def126e76d2/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_13.jpg",
+      "width": 1000,
+      "bytes": 538385,
+      "sha256": "f4f8311d6dd0f2e050cdee3d6bc768d691538a6d117c1190fe967793266f9e48"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://toya24.pl/hpeciai/acc84ebc8f9da31287fb2e425c8b5170/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_14.jpg",
+      "width": 1000,
+      "bytes": 428558,
+      "sha256": "8749a9067268289ea74cb0a4d5ad337a6a2979e7a9a7fde57f78a8f22d4d44e3"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://toya24.pl/hpeciai/da56eaa540dc8127fc8a2f0dfa95cf9a/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_15.jpg",
+      "width": 1000,
+      "bytes": 423368,
+      "sha256": "1c26b4a43a920d8fc3cf5690d2041d490d0b3f8fb9f90e06e6e11b06142d77af"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://toya24.pl/hpeciai/8b66dde3e5645eb3fb279c0f35a8505f/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_16.jpg",
+      "width": 1000,
+      "bytes": 475976,
+      "sha256": "d632c4c5c9dd82db52c2fe5da2b3f2d8e71f27d471a55de16a0a8f3d1d4771ea"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://toya24.pl/hpeciai/c89791d3dde075cf178b8bb29205f18f/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_17.jpg",
+      "width": 1000,
+      "bytes": 418191,
+      "sha256": "acadeb07eebc178fd343fd1231c0130ef71bec50c089b570d7f7d835cb51c94e"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://toya24.pl/hpeciai/f12eedb164c2926e20362d3e2fa2082c/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_18.jpg",
+      "width": 1000,
+      "bytes": 317772,
+      "sha256": "3ac059b8a38a2248567927fd9851de70ed2ab6468ab9bb7b709a4ab53674f731"
+    },
+    {
+      "file": "produkt-19.jpg",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://toya24.pl/hpeciai/f8554eb65206a8af29f6892fde95520f/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_19.jpg",
+      "width": 1000,
+      "bytes": 374669,
+      "sha256": "a8a0efcbd8a20ae26aca12b8f39ab340d735ff3d419a3005f16817a1800fcffe"
+    },
+    {
+      "file": "produkt-20.jpg",
+      "kind": "product",
+      "order": 20,
+      "sourceUrl": "https://toya24.pl/hpeciai/9f7b26ec4474a53c1bdf5d87f4bd1b5d/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_20.jpg",
+      "width": 1000,
+      "bytes": 293736,
+      "sha256": "2167ee0dee6f1d58eb336d317e49f3ccf6ed0b34fcc7a38aab079d8b56f4c56a"
+    },
+    {
+      "file": "produkt-21.png",
+      "kind": "product",
+      "order": 21,
+      "sourceUrl": "https://toya24.pl/hpeciai/892754a931a7ffeab87aa9765f4e6942/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_21.png",
+      "width": 480,
+      "bytes": 208756,
+      "sha256": "56902b36245a4b41cba5a1d561fb6bb75af17a90f0cdf00f9fdf6148c8249a73"
+    },
+    {
+      "file": "produkt-22.png",
+      "kind": "product",
+      "order": 22,
+      "sourceUrl": "https://toya24.pl/hpeciai/27d681e204df4a4992030ea51ab8cf8b/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_22.png",
+      "width": 480,
+      "bytes": 274376,
+      "sha256": "95e369f3dabe85b50063f9b0a907c149956b218fe1858a8f6795dcc19edc450f"
+    },
+    {
+      "file": "produkt-23.png",
+      "kind": "product",
+      "order": 23,
+      "sourceUrl": "https://toya24.pl/hpeciai/108280361cd47ef6929762fb508e093d/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_23.png",
+      "width": 480,
+      "bytes": 176076,
+      "sha256": "79fd9c4f71505cc2e6b7e7808757024f5ff47c364c58c3d2caad4a7118625ba4"
+    },
+    {
+      "file": "produkt-24.png",
+      "kind": "product",
+      "order": 24,
+      "sourceUrl": "https://toya24.pl/hpeciai/6839e60612940ae3b94f974dd2fe995b/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_24.png",
+      "width": 480,
+      "bytes": 234419,
+      "sha256": "e9869884be048aa5136e5f1e1c99b024090fb346e458c77e1e0799ec244e2302"
+    },
+    {
+      "file": "produkt-25.png",
+      "kind": "product",
+      "order": 25,
+      "sourceUrl": "https://toya24.pl/hpeciai/fa9f73af5d221632b523e4054a8af8ed/pol_pl_GRILL-GAZOWY-ITAMI-3-1-STAL-NIERDZEWNA-11-5KW-Z-SZYBA-10017325_25.png",
+      "width": 480,
+      "bytes": 208354,
+      "sha256": "0cd085af950acf6cfba37af3eff73fb8f02d306130094f545be009734b3b5db4"
+    }
+  ],
+  "dropped": 0
+}
