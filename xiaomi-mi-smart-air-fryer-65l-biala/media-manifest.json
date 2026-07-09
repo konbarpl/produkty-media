@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T17:50:46.662Z",
+  "sourcePage": "https://mi-store.pl/product-pol-2543-Air-Fryer-Frytownica-Beztluszczowa-Xiaomi-Mi-Smart-6-5L.html",
+  "slug": "xiaomi-mi-smart-air-fryer-65l-biala",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/6255a874571bd704660b9e57f986c8d6/pol_pl_Air-Fryer-Frytownica-Beztluszczowa-Xiaomi-Mi-Smart-6-5L-2543_1.webp",
+      "width": 600,
+      "bytes": 6160,
+      "sha256": "776920cb8826f94d45519cdf95679b1d844e02d29ce82a2fb234f22cfe541b23"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/cfae3fe9a635c60a1a65e44f03a69526/pol_pl_Air-Fryer-Frytownica-Beztluszczowa-Xiaomi-Mi-Smart-6-5L-2543_2.webp",
+      "width": 600,
+      "bytes": 7254,
+      "sha256": "735e5356fcf082efac3187e53496e42d7e8c03e97950d3d9eb43521c357b1e51"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/d1d17e207585255e5e566879dc845443/pol_pl_Air-Fryer-Frytownica-Beztluszczowa-Xiaomi-Mi-Smart-6-5L-2543_3.webp",
+      "width": 600,
+      "bytes": 13112,
+      "sha256": "f345caf33d664193c0186b91682a5abfcd3ecc994f120ca330c77a1284ca3c27"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/eb1729b8d457940ff4ae4ec7278d379c/pol_pl_Air-Fryer-Frytownica-Beztluszczowa-Xiaomi-Mi-Smart-6-5L-2543_4.webp",
+      "width": 600,
+      "bytes": 6582,
+      "sha256": "39231cfab1ac7c14e2c108155ae132db327ac5e05c71008b42fa47a1ca8fd9f4"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/hpeciai/86ef802d818226a715d5f12b2e10c67d/pol_pl_Air-Fryer-Frytownica-Beztluszczowa-Xiaomi-Mi-Smart-6-5L-2543_5.webp",
+      "width": 600,
+      "bytes": 13314,
+      "sha256": "423e51cd16ea4f31a6101b6e45d8fc8eb9a5287487ed98e1008d0b7a8afbf532"
+    }
+  ],
+  "dropped": 0
+}
