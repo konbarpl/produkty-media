@@ -1,0 +1,390 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T18:54:39.979Z",
+  "sourcePage": "https://clinus.pl/podkaszarki-i-kosy/stiga/5908-stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze",
+  "slug": "stiga-gt-300e-zestaw-rekawice",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-04.webp",
+    "produkt-07.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-28.webp",
+    "produkt-20.webp",
+    "produkt-17.webp",
+    "produkt-12.webp",
+    "produkt-18.webp",
+    "produkt-14.webp",
+    "opis-01.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-06.jpg",
+    "opis-02.jpg",
+    "opis-05.jpg",
+    "opis-11.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/58610-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 22534,
+      "sha256": "456366ce7128b64fd42c73e3ad051b1bcb2b693c1eb1f89aaa2425a0ddf08ba3"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/58611-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 14550,
+      "sha256": "68603f81e557b6cf1c01770cf0b0203bd9cc20ce22feb0de54bde5e7d9a0da12"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/58612-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 12008,
+      "sha256": "21af9a5269d74702cb1603c978b17cdd37aa71eb41320c28ee5624d8ba979df4"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/58613-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 7784,
+      "sha256": "2301a261cde3f795c52192c962cd46f5583b27b3a58fbc3b6ae761315b583e80"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/58614-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 11242,
+      "sha256": "4b54f89aaa20a8ad6c496c5f2c8666a51820ab8c05523e4c9c487d54d59bef6d"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/58615-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 7470,
+      "sha256": "faa92c726c0d5ddc30518df92da2011d925b5e59d28eff5f87cb57b807f100c6"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/58616-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 13628,
+      "sha256": "79efe961d3a5bd09fac3cb6d47042ef2412e38e7cc73550cac51489e85a33910"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/58617-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 8906,
+      "sha256": "cb1130082086d6e2b7d799ddf1aabc3e092f11f4e938cb6fd35cea4e4f9f628b"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/58618-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 9186,
+      "sha256": "a1dda826716f2b827ba56f2521e1ac6165de3bc81aaebc1ca599e9f2b71eca83"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/58619-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 13078,
+      "sha256": "cd7228ba4e5c9adc9c289d9408f2b5d8d0b1a544d7c406956e7e053cfc3f411d"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/58620-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 40454,
+      "sha256": "e46872fb75930b7972474d896e6e3822de0f8018f8725ac933dd0375e4eaeafc"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/58621-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 22208,
+      "sha256": "d88252268dadbc706e6e039338f7a88e0595c091a42a94934652cdf795f05ef7"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/58622-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 13266,
+      "sha256": "daa664f582dee2ec35898613fb3e7b28f61700b67efd5d00a9a11b4f06cb30e0"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/58623-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 14766,
+      "sha256": "b3a928d0dbaf4d279456142e8f9cea238abc510aa74ef94990e346e11a7ef434"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/58624-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 10770,
+      "sha256": "c13508c95d995af5a7507907f25847207730039a6204e6589ff49e86a1839d3d"
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/58625-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 12388,
+      "sha256": "d43b2f8755c136e3ff61c212fc14296984f12f50ab605e6675e5bab28c66900c"
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/58626-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 15612,
+      "sha256": "9c70e4f36bf92a2370dc198505b48f1be6480fc787b757813691d2e2b1458ba2"
+    },
+    {
+      "file": "produkt-18.webp",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://clinus.pl/58627-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 21046,
+      "sha256": "cc3ce4c46bb6ffe459ce72a2123a0281ae8e965a14b0433efd79433f4f241aeb"
+    },
+    {
+      "file": "produkt-19.webp",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://clinus.pl/58628-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 24218,
+      "sha256": "b0a6cdf1d4eb0089fada19b16196cc918af5796cccd5a842ab75df76543c786f"
+    },
+    {
+      "file": "produkt-20.webp",
+      "kind": "product",
+      "order": 20,
+      "sourceUrl": "https://clinus.pl/58629-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 11338,
+      "sha256": "bcc565953cee8ecfc43d1758bdf3ae5872773b609329560971c988be0f40f383"
+    },
+    {
+      "file": "produkt-21.webp",
+      "kind": "product",
+      "order": 21,
+      "sourceUrl": "https://clinus.pl/58630-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 39480,
+      "sha256": "2a1b604315f825891399e038a3aa5791966091cd7cdf47139837f1eb0ae2175f"
+    },
+    {
+      "file": "produkt-22.webp",
+      "kind": "product",
+      "order": 22,
+      "sourceUrl": "https://clinus.pl/58631-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 138374,
+      "sha256": "4a035372a95f35f5335c6e20fb19d2f2db6b985b70cee5fa5413910d3db2bdd9"
+    },
+    {
+      "file": "produkt-23.webp",
+      "kind": "product",
+      "order": 23,
+      "sourceUrl": "https://clinus.pl/58632-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 43806,
+      "sha256": "31651b9b6193c819cd5bb99b90160e8fa63c8e98fc2cc5e9acec837626122467"
+    },
+    {
+      "file": "produkt-24.webp",
+      "kind": "product",
+      "order": 24,
+      "sourceUrl": "https://clinus.pl/58633-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 80812,
+      "sha256": "bd20c5da0e8f762dce57c0ada2214d1116b1caaac29f53027bf04b387556e11e"
+    },
+    {
+      "file": "produkt-25.webp",
+      "kind": "product",
+      "order": 25,
+      "sourceUrl": "https://clinus.pl/58634-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 39768,
+      "sha256": "479d1809b0df351c1709b359b544eedd3276e27a54abc7074a269074fdbad375"
+    },
+    {
+      "file": "produkt-26.webp",
+      "kind": "product",
+      "order": 26,
+      "sourceUrl": "https://clinus.pl/58635-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 45688,
+      "sha256": "a0f57144f272f025d1b8c4d9ecbf8d913ff195b6af3582f7f652490e6c2566b2"
+    },
+    {
+      "file": "produkt-27.webp",
+      "kind": "product",
+      "order": 27,
+      "sourceUrl": "https://clinus.pl/58636-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 133694,
+      "sha256": "03372a2f1a40ef90d52eb5a53e8967b64bf9f810e2fc3f184173a0bfb237cad5"
+    },
+    {
+      "file": "produkt-28.webp",
+      "kind": "product",
+      "order": 28,
+      "sourceUrl": "https://clinus.pl/58691/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 1000,
+      "bytes": 37158,
+      "sha256": "ba3be79e1d7e3fa46e18b1497e6966c5e4d9df441a6545b818e75299a3b02140"
+    },
+    {
+      "file": "produkt-29.webp",
+      "kind": "product",
+      "order": 29,
+      "sourceUrl": "https://clinus.pl/93215-large_default/stiga-gt-300e-zestaw-rozszerzony-rekawice-robocze.webp",
+      "width": 800,
+      "bytes": 31202,
+      "sha256": "abb024a20c90c68afb4c029d6ca99ca37989f6eaff3d835fe55d51eefb2b0127"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/273102501ST1_2/273102501ST1-top-1.jpg",
+      "width": 1500,
+      "bytes": 385609,
+      "sha256": "5666abda29c859c44e3c6a2ac42b35af1704f0de3730b2fa36e56efb3db25e7b"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/273102501ST1_2/25.jpg",
+      "width": 1000,
+      "bytes": 135088,
+      "sha256": "c332669c6034a5f8abd1be8abab5dff76ce1e695683aa2dbcdc51f83b29ecc22"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/273102501ST1_2/wide-4.jpg",
+      "width": 1500,
+      "bytes": 664582,
+      "sha256": "38e13a09ea1447d2bef142fdde78a382b6e5729cf912140cf270c2315f6f12fc"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/273102501ST1_2/23.jpg",
+      "width": 1000,
+      "bytes": 207698,
+      "sha256": "7d8d05cf4e921d94408796f490436a85680515dae92d72b8c4122b275481219e"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/273102501ST1_2/24.jpg",
+      "width": 1000,
+      "bytes": 125382,
+      "sha256": "f952d5c807f0f764b8283eb6005d2ad476f7b6d9180e81f84fb2d29ed33ea5a6"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/273102501ST1_2/10.jpg",
+      "width": 1000,
+      "bytes": 158310,
+      "sha256": "8df186ca676d841d3a522da8aa61f3a5cd5d8c575cd0b1fb593f8d56033a5841"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/273102501ST1_2/wide-1.jpg",
+      "width": 1500,
+      "bytes": 269464,
+      "sha256": "364c9c56c4ada6b753175e59feae9004ce4a2f8c9ced660888052e5698b609f3"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/273102501ST1_2/15.jpg",
+      "width": 1000,
+      "bytes": 41404,
+      "sha256": "9d30df8197246b3052f6c9323043fab8c5026d1a7a294e76a59cf9f4a9bf7996"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/273102501ST1_2/12.jpg",
+      "width": 1000,
+      "bytes": 83863,
+      "sha256": "ecad928eed4dd660c6e6f30d44e8ccf5a63c311688086c34e446cf1a894ac97f"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/273102501ST1_2/11.jpg",
+      "width": 1000,
+      "bytes": 56233,
+      "sha256": "9d3efbf943447beb5c305548c0f1e82daa34d96885377e16d4bb1b9595837750"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/273102501ST1_2/22.jpg",
+      "width": 1000,
+      "bytes": 129481,
+      "sha256": "227e4498ea07169018caa09b1dfb3aadc3223f760c3684f53f6215b076f6d3f2"
+    }
+  ],
+  "dropped": 0
+}
