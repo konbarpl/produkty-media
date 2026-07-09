@@ -1,0 +1,357 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T17:53:34.494Z",
+  "sourcePage": "https://clinus.pl/podkaszarki-i-kosy/stiga/2398-stiga-bc-700e-kosa-akumulatorowa",
+  "slug": "stiga-bc-700e",
+  "galleryOrder": [
+    "produkt-02.webp",
+    "produkt-01.webp",
+    "produkt-03.webp",
+    "produkt-07.webp",
+    "produkt-16.webp",
+    "produkt-17.webp",
+    "opis-01.jpg",
+    "opis-17.jpg",
+    "opis-02.jpg",
+    "opis-18.jpg",
+    "opis-10.jpg",
+    "opis-11.jpg",
+    "opis-14.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/90749-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 25340,
+      "sha256": "cbec1df1b96a78de7c6aa2e74174b188e009a653265d5de15467bdbc128619c1"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/90750-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 11780,
+      "sha256": "2e464200b213933cb6dff5306287815fd16ffdaab4d53875c496676d56da3006"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/90751-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 8942,
+      "sha256": "bf7179a38386aa15097d6006f514b90cf51b073851eed8b85582a851aa74ae85"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/90752-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 6758,
+      "sha256": "5958117d407539b1f6868981daf6cc98c5aec032bbfbc4066d9014c97567c70d"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/90753-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 6222,
+      "sha256": "5544a4d6f23b6e7249c18197141ec77cb0998502a8bcdbce705bde3af24da775"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/90754-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 226136,
+      "sha256": "7ac32341ae79022e0073c555de4e5b9abacbb86c7fe0d120293038d8cd6d76c4"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/90755-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 15558,
+      "sha256": "4f04aee4107a71ded9cab9f8330527bca49eb7629ad2d2d3b4530b2fd2c87e63"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/90756-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 24500,
+      "sha256": "a27ea93ada18726c0130c8d60f7606b69f4ce66329dc1053e06e41cb16138d67"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/90757-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 36066,
+      "sha256": "0ccbb996e95f6ed41f787d92c27936d69c0d4c3ece9178e5915de6891770cf9f"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/90758-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 108252,
+      "sha256": "0bc11fd36e173173533024e97e0c7f6bd9ac6d2825d17aa1ff456a1d3a9f113a"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/90759-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 121960,
+      "sha256": "00875c82f967ea6e00045006555b70c1a4b0ba16e0725d11f588eabaec323bb0"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/90760-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 60918,
+      "sha256": "22558d89d78ac09f359705f9836d794603444e938775b53206b19d9a2e3ba5a9"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/90762-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 49496,
+      "sha256": "7bee1acb03644d7a603eb42fbf6374253dab130284b003c487dc688a56e66090"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/90763-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 111638,
+      "sha256": "b70bb05b0fbaf911557c7958c45b75f76698f66b5c4523689820a6f53cd30449"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/90764-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 81140,
+      "sha256": "10084d9fc3db5808802d2b683f2d9ae51966f16310b6889fcf89d8179a261845"
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/90765-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 20488,
+      "sha256": "80e1ea28c42dc3a55925bb8e40099adf3d7b7e5ac1fdd78b7861c8dee3c0f49a"
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/90767-large_default/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 19176,
+      "sha256": "a7f8bb65c3eef6d87e45c6c90bdcf042d35d7b0c5e5323fcbf041ca0bd22c5ee"
+    },
+    {
+      "file": "produkt-18.webp",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://clinus.pl/93205/stiga-bc-700e-kosa-akumulatorowa.webp",
+      "width": 1000,
+      "bytes": 36760,
+      "sha256": "eb9e0e6b948ddff9c3a4c00a526ea2ac69fb8e13c0be503cf38f7bf71a395d46"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/1.jpg",
+      "width": 1500,
+      "bytes": 393902,
+      "sha256": "37a4cf9a1953ff03b00f8347d7ff017202d9d1adc16f697903d382f09668c216"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/34.jpg",
+      "width": 1500,
+      "bytes": 637749,
+      "sha256": "ea6893a734019120691a00d7f0f3d96f019a2b055e4023b2be8a58742dd28f19"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/28.jpg",
+      "width": 1000,
+      "bytes": 319907,
+      "sha256": "1faadb6c3160ad3a6f4563594e9c0ea628fe89657f1004bdd7d28869f9a9c3e9"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/666.jpg",
+      "width": 1500,
+      "bytes": 65581,
+      "sha256": "d2d25c7c25a0fe9eac9153ebddedad75c02caff403eb14876d5abc9362683117"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/37.jpg",
+      "width": 1500,
+      "bytes": 454283,
+      "sha256": "6e5cf7df873a73c0a7baaf82029644df69b8ae6fd78f25206630a0548239e02a"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/6.jpg",
+      "width": 1000,
+      "bytes": 64684,
+      "sha256": "7e84de3c32f4d2370f74c344f79fad6b20068136050dbd46c67b62a7bf6ec352"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/item-2.jpg",
+      "width": 1000,
+      "bytes": 48841,
+      "sha256": "fa5509ae8885d39db58d2679b5867156d5477d649c4fac5add77b57057df42ec"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/item-1.jpg",
+      "width": 1000,
+      "bytes": 48335,
+      "sha256": "052fda1a1429bdfdb15c6632ea1c04cf261350fe1fac35a3eef0c4da86c41d6f"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/38.jpg",
+      "width": 1500,
+      "bytes": 65616,
+      "sha256": "70fb8847d6cddfb27c601e5ee97fedc7fe8cfb7f45295666ceea7df3d4e0a809"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/30.jpg",
+      "width": 1000,
+      "bytes": 201067,
+      "sha256": "6ef7c0dd33ac47e8f8d9cd1b793eb3f3740c31e216fd39bb155ee56a72ac5c9b"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/33.jpg",
+      "width": 1000,
+      "bytes": 247839,
+      "sha256": "40a09f26ae58d732d51fc349fe577c5adc099a26dcb33b51a792b15cc6b14329"
+    },
+    {
+      "file": "opis-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/24.jpg",
+      "width": 1000,
+      "bytes": 52058,
+      "sha256": "72391ca7be832f2b7d9ce59f0099179479c2dc384dd8f2a719545403bee4302a"
+    },
+    {
+      "file": "opis-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/26.jpg",
+      "width": 1000,
+      "bytes": 126944,
+      "sha256": "f6e58e628c24c0021b38b9de4806685411017f2c2b61cd7ca4c7dd2083780ad2"
+    },
+    {
+      "file": "opis-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/23.jpg",
+      "width": 1000,
+      "bytes": 500238,
+      "sha256": "17a597910e6b7bbd648e2cf0580f4467be3bae20caa41bbb36003cc2220ec0b6"
+    },
+    {
+      "file": "opis-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/cecha-1.jpg",
+      "width": 1000,
+      "bytes": 79186,
+      "sha256": "dc5e832653d3be63f41e973cd24fcc158f8e0254d657d24c3ae05c339f178114"
+    },
+    {
+      "file": "opis-16.jpg",
+      "kind": "lifestyle",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/cecha-3.jpg",
+      "width": 1000,
+      "bytes": 89666,
+      "sha256": "0b1843df264920f6d93f67b7cf76d0655c547e8c256d0a11702e26ecb20069c3"
+    },
+    {
+      "file": "opis-17.jpg",
+      "kind": "lifestyle",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/36.jpg",
+      "width": 1500,
+      "bytes": 483027,
+      "sha256": "4b133f0ebe02505f64ff5befdc7343b62bf1ac4d45bd438c2b36a70718d7a3b1"
+    },
+    {
+      "file": "opis-18.jpg",
+      "kind": "lifestyle",
+      "order": 18,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/35.jpg",
+      "width": 1500,
+      "bytes": 429098,
+      "sha256": "89c22b501434bd3d793e21930824dc933293b587f7dc47843d8a3095fd8eca0c"
+    },
+    {
+      "file": "opis-19.jpg",
+      "kind": "lifestyle",
+      "order": 19,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/20.jpg",
+      "width": 1000,
+      "bytes": 29068,
+      "sha256": "fcd145a230e5f716d6599f25eac927a493cec25c82696814771cbb284fcac253"
+    }
+  ],
+  "dropped": 0
+}
