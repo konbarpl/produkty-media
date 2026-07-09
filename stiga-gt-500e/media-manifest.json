@@ -1,0 +1,176 @@
+{
+ "version": 1,
+ "generatedAt": "2026-07-09T17:51:24.617Z",
+ "sourcePage": "https://clinus.pl/podkaszarki-i-kosy/stiga/2342-stiga-gt-500e-podcinarka-akumulatorowa",
+ "slug": "stiga-gt-500e",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-06.webp",
+  "produkt-05.webp",
+  "produkt-08.webp",
+  "produkt-07.webp",
+  "produkt-10.webp",
+  "produkt-03.webp",
+  "produkt-13.webp",
+  "produkt-12.webp",
+  "produkt-14.webp",
+  "produkt-15.webp"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/12484/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 9938,
+   "sha256": "26149cd983d05348c23d7ea524eeb3c16d65a8aa42dc6000de8f830096f031f2"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/12485-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 11336,
+   "sha256": "868ab581a55f8f5fd7d9e14429a0a1cac2da662d5f7ce5cd6674e4db37e4be55"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/12486-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 10748,
+   "sha256": "ecc9af21b7d00a6306a7b80480f0750203afaade7d9d9e67e06cd83480e2e2e8"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/12487-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 6294,
+   "sha256": "ec335f867488c79c179ef02290d962fbff18705dfe36d6ba894dd80fafbdca00"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/12488-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 18812,
+   "sha256": "e90364002d36de067074dcfab12c28225767e2b8342e27453818837b45e54596"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/12489-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 23676,
+   "sha256": "ed24fbd701bdac93fa300c2127b7220934716aa2cb81cb09515e2c23ac9edea7"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/12490-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 10286,
+   "sha256": "702bfb9cfee2f5a3c25a9aeb4ddb55571fea997984fa5c7722bf554d650c64d4"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/12491-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 9184,
+   "sha256": "72f0ce7c152cf0ea02c84c65af946283301e575986a9a05019395a94ea2e3118"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://clinus.pl/12492-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 14146,
+   "sha256": "27df826069865e1cd26d1c555f2a0177f82d7c3b1ff3e2af6946891ce74062f1"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://clinus.pl/12493-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 17676,
+   "sha256": "d6e1bd068f120feb9c880d43b0d6fa606487ae77dfebdfaa08b41311488b7efc"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://clinus.pl/12494-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 87554,
+   "sha256": "102a72050b0a3ba6deec0ddc1a9489b2fad3edcec65b595b1c6542df5b247d52"
+  },
+  {
+   "file": "produkt-12.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://clinus.pl/12495-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 90100,
+   "sha256": "b1d97aa8d7f1f20eb7f51501ad2eb56d01501e3cf0bc6bd8f600e90085c3d685"
+  },
+  {
+   "file": "produkt-13.webp",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://clinus.pl/12496-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 63138,
+   "sha256": "3a29421b1a2fdcafcdcb773610a1441911fafaf2cef3a0e1cd3c9e44c8f2f9ee"
+  },
+  {
+   "file": "produkt-14.webp",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://clinus.pl/12497-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 119330,
+   "sha256": "76373a129ee553f2ea32666a6336a7a895c4176d48dcac8dd30b673b82baf5c3"
+  },
+  {
+   "file": "produkt-15.webp",
+   "kind": "product",
+   "order": 15,
+   "sourceUrl": "https://clinus.pl/12498-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 59240,
+   "sha256": "328899b42278f4c3eab17b28fbab30eaafc6a0c59cef7aa1333d94e99674a18b"
+  },
+  {
+   "file": "produkt-16.webp",
+   "kind": "product",
+   "order": 16,
+   "sourceUrl": "https://clinus.pl/12499-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 116428,
+   "sha256": "1115d6fab186869c929d11cadbbce0293e7631178e5be860a339d5ee34107c8d"
+  },
+  {
+   "file": "produkt-17.webp",
+   "kind": "product",
+   "order": 17,
+   "sourceUrl": "https://clinus.pl/12500-large_default/stiga-gt-500e-podcinarka-akumulatorowa.webp",
+   "width": 800,
+   "bytes": 62716,
+   "sha256": "dcfdd1d8917b8d15cfa2a5ca4ca61d92020df26f99a6e8b908b8fa66a425f9db"
+  }
+ ],
+ "dropped": 0
+}
