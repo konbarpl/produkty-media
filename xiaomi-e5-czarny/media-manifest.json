@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T17:50:53.751Z",
+  "sourcePage": "https://mi-store.pl/product-pol-2755-Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny.html",
+  "slug": "xiaomi-e5-czarny",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/19395d2619e1e295ae024771a718dd44/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny-2755_1.webp",
+      "width": 600,
+      "bytes": 14936,
+      "sha256": "16ff94c395bca3d3ebc44d08db37243166626a0fb38714219d5b6e9a7ca848c9"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/86506eccdf752617e66ae5c08a438382/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny-2755_2.webp",
+      "width": 600,
+      "bytes": 12930,
+      "sha256": "4bbd64106bd2b15dc2f306c4f0e99ff42c0b00f27b2a1b9cdef8210c772b36ba"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/b67b416b38078a81acee0d9ec14dec69/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny-2755_3.webp",
+      "width": 600,
+      "bytes": 12206,
+      "sha256": "06098ec2ca2d3d23df69a287807cbb23e9a4bf802fac7f17efa749b05dbff7d7"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/90c325dfc061d0748757c1aa48083c33/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny-2755_4.webp",
+      "width": 600,
+      "bytes": 22872,
+      "sha256": "9b9ce7ac6efdcfa151de9f63f325f07f0fd5b18d2751567bd06bad81dd3f45b1"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/hpeciai/adb40a8abd38d6d1b1033ca752c40d16/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny-2755_5.webp",
+      "width": 600,
+      "bytes": 22154,
+      "sha256": "4b30ac94319c4cad49e80bb59324c11c135568f5e6d0281a5576d2eb5b3b8608"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/hpeciai/bb4625ae43632e28e6b7b9a02ebb2fe8/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny-2755_6.webp",
+      "width": 600,
+      "bytes": 27360,
+      "sha256": "80e41992eae3036857a73ea97f1ad5847058a25d408316c1208dab099e50dddb"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/hpeciai/2c12ffd33be8fefa69b78fbdd73d144e/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny-2755_7.webp",
+      "width": 600,
+      "bytes": 25578,
+      "sha256": "965dca15fca9fb12f8d000966921717a7b213b9d03b5f2eaea29cff574ad2ec7"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/hpeciai/cf96e865e78f3f8e8b74886cc3877b22/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny-2755_8.webp",
+      "width": 600,
+      "bytes": 20246,
+      "sha256": "daee46d3806454b8b298725926b29d359aebbfd9a6180cfacafc24c5b466e0b6"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://mi-store.pl/hpeciai/50f3b4fbf232208882f83123c4ad75e4/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny-2755_9.webp",
+      "width": 600,
+      "bytes": 21066,
+      "sha256": "41a3869f2203642b175f1730c1c5b906068cfca35a03c64b7712d4c2955e4e24"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://mi-store.pl/hpeciai/29964f32fd821865ab491befc22f0d3a/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny-2755_10.webp",
+      "width": 600,
+      "bytes": 20834,
+      "sha256": "b84301baadce105f29790fa124e747730a238d0249b6676cf998bab3000661c5"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://mi-store.pl/hpeciai/22b044bb2710bdfe9e041ca5cfeb5c19/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny-2755_11.webp",
+      "width": 600,
+      "bytes": 7802,
+      "sha256": "cb8fb095da8f216ec7914fcb5a0fccaeb570d9c12f28f25e967c68cb22f0749a"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://mi-store.pl/hpeciai/34d2dd1cd3682fc6d2be7e2914777a43/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny-2755_12.webp",
+      "width": 600,
+      "bytes": 47034,
+      "sha256": "6e124a1e4288980628bba3edb203be12fd760697384b5965426d1c8b98d8147d"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://mi-store.pl/hpeciai/8137cf621cb3e998b1b9859cb60752ea/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-E5-Czarny-2755_13.webp",
+      "width": 600,
+      "bytes": 20356,
+      "sha256": "30a4e9d01c5e5be1d8335be2ea41bc145db48e8516546c059b1f8b0db95ccd2d"
+    }
+  ],
+  "dropped": 0
+}
