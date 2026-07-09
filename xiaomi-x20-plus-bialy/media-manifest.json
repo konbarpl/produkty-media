@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T18:05:44.756Z",
+  "sourcePage": "https://mi-store.pl/product-pol-2710-Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-X20.html",
+  "slug": "xiaomi-x20-plus-bialy",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/1a314315db593ec72428899372f16e56/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-X20-2710_1.webp",
+      "width": 600,
+      "bytes": 8388,
+      "sha256": "5662541cbec1c830aee2f8e0cdd6323cea4fe0769fd49417f391710d01c22b34"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/20e5a4f0a3cbaedbccc1803602531031/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-X20-2710_2.webp",
+      "width": 600,
+      "bytes": 6714,
+      "sha256": "8dabecc8dcd3ecb27302c436ab7cf1f7e4a5532489d8a6d8d3b7a61e2d4fd808"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/6c68f8594b6112c2ad856fa43aa28ece/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-X20-2710_3.webp",
+      "width": 600,
+      "bytes": 8414,
+      "sha256": "ea52ce55fc1f485716d6bdf3925423a85d15d4619dd133f81b0b335be4b3e395"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/d9eaed7cea14b6e59621a73d267330dc/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-X20-2710_4.webp",
+      "width": 600,
+      "bytes": 8052,
+      "sha256": "5f5a236fe3548717dbd90088d315902349dc167487992d006dc22ff56fe8b982"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/hpeciai/48f2a5fe9dc363dda20c7076f3a5a3ec/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-X20-2710_5.webp",
+      "width": 600,
+      "bytes": 8108,
+      "sha256": "6c6f5115d06d5e7a737d14d9f18333d86c9f89592a575c5b79ade2013e4691d0"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/hpeciai/11abb725fbede1c4c1f4b26ec81df9c0/pol_pl_Robot-sprzatajacy-z-mopem-Xiaomi-Robot-Vacuum-X20-2710_6.webp",
+      "width": 600,
+      "bytes": 9148,
+      "sha256": "2afa1b5acd5c92d0ee4a84a0b5b901c888893e74db6ab04bf3e7c2eabe13425c"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2710-x20plus/1.jpg",
+      "width": 1920,
+      "bytes": 413297,
+      "sha256": "601ea385eb7a1073a52311d532e0c5973e6ed1c37747757d96b32be00c3562fe"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2710-x20plus/4.jpg",
+      "width": 1920,
+      "bytes": 505003,
+      "sha256": "e17d4f52bf625be87cacc52c4907e6711e2dc663718f07f80332ddcdc148d846"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2710-x20plus/6.jpg",
+      "width": 1920,
+      "bytes": 746989,
+      "sha256": "c742d7e1c596f7c5507b604bd7590380c2f54e87fb5f2a81927062d602596222"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2710-x20plus/8.jpg",
+      "width": 1920,
+      "bytes": 796707,
+      "sha256": "52ff149464277975e55825b9e37a3f63ec2b8dadff7a7b0a2048b934d9761bce"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2710-x20plus/9.jpg",
+      "width": 1911,
+      "bytes": 1731695,
+      "sha256": "4e34b51e0d6443eb1f66ee752bb7ac1671c0bbece7053e466f8637b878f2de15"
+    }
+  ],
+  "dropped": 0
+}
