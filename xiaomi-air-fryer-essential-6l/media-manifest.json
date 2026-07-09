@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T17:46:57.195Z",
+  "sourcePage": "https://mi-store.pl/product-pol-2918-Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-Essential-6L.html",
+  "slug": "xiaomi-air-fryer-essential-6l",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/35c8d5c8bdc8f86b46bc5e9f9036d637/pol_pl_Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-Essential-6L-2918_1.webp",
+      "width": 600,
+      "bytes": 6722,
+      "sha256": "8bc3da0eeff0b41235da842ecaf3bdaca7975c76117762aeea76bc2cbcb086be"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/d7db33b380b30c50512f4ca368d1f799/pol_pl_Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-Essential-6L-2918_2.webp",
+      "width": 600,
+      "bytes": 9884,
+      "sha256": "724b825588c2728a6c5e179d692ad5d76f9814df54dc8b1eb04ca8366e3dd2b9"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/3d70c62603071e1a1737be28bded5c14/pol_pl_Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-Essential-6L-2918_3.webp",
+      "width": 600,
+      "bytes": 6464,
+      "sha256": "1f4597f61e95ad56093ac2e209014c51ef9f20d2049b8de32071b370d9492e0a"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/20f6740df490e8bdcb26ba5082e85936/pol_pl_Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-Essential-6L-2918_4.webp",
+      "width": 600,
+      "bytes": 7154,
+      "sha256": "de678ca3d67364f9e4122e7a0176888e688fb9053faf646d57d44298bbe377ca"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/hpeciai/98ad159c74392dd454d4f2a3acff3261/pol_pl_Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-Essential-6L-2918_5.webp",
+      "width": 600,
+      "bytes": 5704,
+      "sha256": "af3bb23aa803c846531e6ac7504748356b0bdeca03322c4f347d5c114527b350"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/hpeciai/356edcf92c6c22000b235f1af3b2c8d9/pol_pl_Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-Essential-6L-2918_6.webp",
+      "width": 600,
+      "bytes": 5966,
+      "sha256": "3e94e1d4984c48f8bc2a5d4d09d4b57e5e229338e3592d2caf30fff669aa5066"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2918-Air-Fryer-Essential-6L/1.jpg",
+      "width": 1280,
+      "bytes": 854295,
+      "sha256": "8ca8f5ea2a4abd5a0dc7d265a94bb107171d116f2f7917d647e93962c64de793"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2918-Air-Fryer-Essential-6L/6.jpg",
+      "width": 1281,
+      "bytes": 635191,
+      "sha256": "10b6d322288856371057bee7bd81c18839e45f3b994018d653bee9c35cee7bc0"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2918-Air-Fryer-Essential-6L/7.jpg",
+      "width": 1280,
+      "bytes": 617175,
+      "sha256": "9f92638757e893891131911bb9e8491a0bab067c3df7340850c7d893fe16ac86"
+    }
+  ],
+  "dropped": 4
+}
