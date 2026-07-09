@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T17:46:01.430Z",
+  "sourcePage": "https://mi-store.pl/product-pol-38632424-Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-H50.html",
+  "slug": "xiaomi-h50",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "opis-07.webp",
+    "opis-08.webp",
+    "opis-09.webp",
+    "opis-10.webp",
+    "opis-11.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/5907b5eccfe77bca79f5ed79776cf5d5/pol_pl_Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-H50-38632424_1.webp",
+      "width": 600,
+      "bytes": 8008,
+      "sha256": "6760058bd91cafd3a69887d084b2b3b1c566861a07e347c6c496b6a95dbfd733"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/3a4e6d9ac6d7e7bdd5b89c0534dc0535/pol_pl_Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-H50-38632424_2.webp",
+      "width": 600,
+      "bytes": 12650,
+      "sha256": "0f01d3d2e76ce6d284b64281d5a94d92675745bce672ddabdf25e69e61b2fb26"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/215d5f30dfd2fd8af210e5fa9ec25c53/pol_pl_Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-H50-38632424_3.webp",
+      "width": 600,
+      "bytes": 8492,
+      "sha256": "63b92cedbfe078208b25516b6a9c758757859a787e772d6ae94e745fd1affa97"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/042535c80dbb954e179b55659165439c/pol_pl_Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-H50-38632424_4.webp",
+      "width": 600,
+      "bytes": 13410,
+      "sha256": "37b1a2db93cbf997fe9c1e8543fae90310bcab69f6bd029aa9bfe838e9e2068d"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/hpeciai/977225f5d1b4f24767811af7bb5fee83/pol_pl_Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-H50-38632424_5.webp",
+      "width": 600,
+      "bytes": 6164,
+      "sha256": "2f27c45a5488689dd578537c2ff18e4d73e91e866615acc13589c8307d55e0ec"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/hpeciai/e9f52f00e32798070da3050b38b0dab0/pol_pl_Inteligentny-odkurzacz-Xiaomi-Robot-Vacuum-H50-38632424_6.webp",
+      "width": 600,
+      "bytes": 6000,
+      "sha256": "0007cade68395ef8fc38d7efe23c8eb3e78d9b1277f5a14309110f57378047e5"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632424-Xiaomi-Robot-Vacuum-H50/1.webp",
+      "width": 1000,
+      "bytes": 11296,
+      "sha256": "d8d5f4bbe549857dbd22c435f33f0d021f903b2d63e2adc59f22a6bfec0964d5"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632424-Xiaomi-Robot-Vacuum-H50/2.webp",
+      "width": 1000,
+      "bytes": 20150,
+      "sha256": "a4dfffc783f56e65336c2fd2deab1122535faf9ad34a26ccb918affbeffb4d91"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632424-Xiaomi-Robot-Vacuum-H50/3.webp",
+      "width": 1000,
+      "bytes": 29090,
+      "sha256": "eeb493ff8ca86f083bad28b92cc26b58b2f55c364412ee89dcd39b3c46c4d74d"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632424-Xiaomi-Robot-Vacuum-H50/4.webp",
+      "width": 1000,
+      "bytes": 12418,
+      "sha256": "2c52970e8b7566a07306067e93ff5802c54f905e19f4e85dc57750ba16ca230a"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632424-Xiaomi-Robot-Vacuum-H50/5.webp",
+      "width": 1000,
+      "bytes": 61448,
+      "sha256": "97e425eaf762383d66ac8d68bed9fd2f0afbc870b0a48e813654de2d7ee9958e"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632424-Xiaomi-Robot-Vacuum-H50/6.webp",
+      "width": 1000,
+      "bytes": 44668,
+      "sha256": "73407ae5dfc798433786f88f9ab6543308e3e6635d585dce0173ba82ad258e65"
+    },
+    {
+      "file": "opis-07.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632424-Xiaomi-Robot-Vacuum-H50/7.webp",
+      "width": 1000,
+      "bytes": 87298,
+      "sha256": "0acf4fa2dfc43c70d94a45aee46a90ae881ae76d235113521bbb47dfc60271f0"
+    },
+    {
+      "file": "opis-08.webp",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632424-Xiaomi-Robot-Vacuum-H50/8.webp",
+      "width": 1000,
+      "bytes": 8830,
+      "sha256": "d5c54d8497a94a6060b7ab55e1caa734878b77005850c3ccf5e7d6bcaff77d65"
+    },
+    {
+      "file": "opis-09.webp",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632424-Xiaomi-Robot-Vacuum-H50/9.webp",
+      "width": 1000,
+      "bytes": 8734,
+      "sha256": "7ad5b2a90c0db789aee1aefad9e38a1b452ebb71e780cb499656bfb91ef7bb6c"
+    },
+    {
+      "file": "opis-10.webp",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632424-Xiaomi-Robot-Vacuum-H50/10.webp",
+      "width": 1000,
+      "bytes": 17374,
+      "sha256": "707d3b92d89ad2b06dbe47f5c4eee8f9d1e9cf70b39513cc645639260894ac29"
+    },
+    {
+      "file": "opis-11.webp",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632424-Xiaomi-Robot-Vacuum-H50/11.webp",
+      "width": 1000,
+      "bytes": 44652,
+      "sha256": "dab4145eaf0b1b03b4285d64fbb78bec98714fdee338641f3a41d83709874d60"
+    }
+  ],
+  "dropped": 0
+}
