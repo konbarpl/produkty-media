@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T18:55:06.502Z",
+  "sourcePage": "https://clinus.pl/podkaszarki-i-kosy/stiga/9947-stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka",
+  "slug": "stiga-bc-700e-zestaw-2aku",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "produkt-15.webp",
+    "produkt-16.webp",
+    "produkt-17.webp",
+    "produkt-18.webp",
+    "produkt-19.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-10.jpg",
+    "opis-11.jpg",
+    "opis-12.jpg",
+    "opis-13.jpg",
+    "opis-14.jpg",
+    "opis-15.jpg",
+    "opis-16.jpg",
+    "opis-17.jpg",
+    "opis-18.jpg",
+    "opis-19.jpg",
+    "opis-20.jpg",
+    "opis-21.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/90795-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 8942,
+      "sha256": "bf7179a38386aa15097d6006f514b90cf51b073851eed8b85582a851aa74ae85"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/90796-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 6758,
+      "sha256": "5958117d407539b1f6868981daf6cc98c5aec032bbfbc4066d9014c97567c70d"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/90797-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 6222,
+      "sha256": "5544a4d6f23b6e7249c18197141ec77cb0998502a8bcdbce705bde3af24da775"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/90798-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 226136,
+      "sha256": "7ac32341ae79022e0073c555de4e5b9abacbb86c7fe0d120293038d8cd6d76c4"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/90800-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 24500,
+      "sha256": "a27ea93ada18726c0130c8d60f7606b69f4ce66329dc1053e06e41cb16138d67"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/90801-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 36066,
+      "sha256": "0ccbb996e95f6ed41f787d92c27936d69c0d4c3ece9178e5915de6891770cf9f"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/90802-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 108252,
+      "sha256": "0bc11fd36e173173533024e97e0c7f6bd9ac6d2825d17aa1ff456a1d3a9f113a"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/90803-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 121960,
+      "sha256": "00875c82f967ea6e00045006555b70c1a4b0ba16e0725d11f588eabaec323bb0"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/90804-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 60918,
+      "sha256": "22558d89d78ac09f359705f9836d794603444e938775b53206b19d9a2e3ba5a9"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/90805-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 58394,
+      "sha256": "228820a609bcab287dc047d72773a3be220aa2b4863c6952a01a9647961e2228"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/90806-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 49496,
+      "sha256": "7bee1acb03644d7a603eb42fbf6374253dab130284b003c487dc688a56e66090"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/90807-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 111638,
+      "sha256": "b70bb05b0fbaf911557c7958c45b75f76698f66b5c4523689820a6f53cd30449"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/90808-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 81140,
+      "sha256": "10084d9fc3db5808802d2b683f2d9ae51966f16310b6889fcf89d8179a261845"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/90809-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 20488,
+      "sha256": "80e1ea28c42dc3a55925bb8e40099adf3d7b7e5ac1fdd78b7861c8dee3c0f49a"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/90810-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 20168,
+      "sha256": "d9f582e832503622a250acbe3445a75f053fddab666ee986657f1ed11c136e44"
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/90811-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 19176,
+      "sha256": "a7f8bb65c3eef6d87e45c6c90bdcf042d35d7b0c5e5323fcbf041ca0bd22c5ee"
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/90816-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 35922,
+      "sha256": "296d7ef62f4bfc03cf8d52255b32c58a416ff2955d8f517bcf8114ffc5229f74"
+    },
+    {
+      "file": "produkt-18.webp",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://clinus.pl/93207/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 1000,
+      "bytes": 52890,
+      "sha256": "b68c84018e843d2621c8af4bbd9f2f39ea933446d64fa4a5db4dd48a834b0c74"
+    },
+    {
+      "file": "produkt-19.webp",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://clinus.pl/97572-large_default/stiga-bc-700e-zestaw-rozszerzony-dwa-akumulator-40-ah-szybka-ladowarka.webp",
+      "width": 800,
+      "bytes": 34258,
+      "sha256": "d1e766580bca119df3130e43bd76c606c15ee54e16bd89a5d63ed307e1c6f186"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/1.jpg",
+      "width": 1500,
+      "bytes": 246196,
+      "sha256": "1348545e5e425de7ca683f756ab26292a4a815015aaa5cd6bd5eb65e09fcee7a"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/34.jpg",
+      "width": 1500,
+      "bytes": 418880,
+      "sha256": "9395dec7346acfee766a6caf708d43b9eaf7b9dcdee85d67b5b029aeeaf62424"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/28.jpg",
+      "width": 1000,
+      "bytes": 206770,
+      "sha256": "83e65b388401d7e9bdc96ccd49d06225672fe346171151f3c6eb12bd69516172"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/666.jpg",
+      "width": 1500,
+      "bytes": 43143,
+      "sha256": "aeb6437652f4981ac1562fba9357c766496ff1648008bebeb8277b688163b877"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/37.jpg",
+      "width": 1500,
+      "bytes": 282313,
+      "sha256": "cad2b2c4ad293b20d15b5592bd190f5a66ecc34ea1be998d2ae50b4c242c8f85"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/6.jpg",
+      "width": 1000,
+      "bytes": 43742,
+      "sha256": "e7173677b49078caa843298cec27d23887ea1a8422184dfd34b27ba5e5b4db6f"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/item-2.jpg",
+      "width": 1000,
+      "bytes": 35125,
+      "sha256": "bbd6d0b55ea44033ee4e3c6aaefe1af4c0d7ae9f7292059aa8f5c39e20612916"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/item-1.jpg",
+      "width": 1000,
+      "bytes": 34727,
+      "sha256": "33144eb5f24fb679bb934cd4b78b6b499642efa40a2461a3b56cdcbdd0b6e59b"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/add-1.jpg",
+      "width": 1000,
+      "bytes": 54800,
+      "sha256": "4616042e9fc57c50cf9c4fc608d4cd6a1bfd275b79fb5c4ec316eec8866baf73"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/add-3.jpg",
+      "width": 1000,
+      "bytes": 97573,
+      "sha256": "73d302ac83b99becc06e9a89abe572601df9a818843a3ef2e7b4560b340fead2"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/38.jpg",
+      "width": 1500,
+      "bytes": 46114,
+      "sha256": "ff9ab16e40e975ef679f01a6696b663e3e24a186b8fc7dbe4275fca82e667098"
+    },
+    {
+      "file": "opis-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/30.jpg",
+      "width": 1000,
+      "bytes": 122246,
+      "sha256": "8301b52c1e6fa421589015ea03a1c870ad072343afde32e085034add07cd75b5"
+    },
+    {
+      "file": "opis-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/33.jpg",
+      "width": 1000,
+      "bytes": 153509,
+      "sha256": "16f13fd85eee2a35ef44c7ff2ead7d07bc58f04b598a50b92f97283e3ae573aa"
+    },
+    {
+      "file": "opis-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/24.jpg",
+      "width": 1000,
+      "bytes": 37993,
+      "sha256": "241e2a71a1fd96fb5d37c0f5bbbab674ada0e325b2cef60068d8699b85665b02"
+    },
+    {
+      "file": "opis-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/26.jpg",
+      "width": 1000,
+      "bytes": 76504,
+      "sha256": "fbb0b2fff6ecbe2542e07f61900bc68712ce0458e1ec2b642f8232c419ea29bb"
+    },
+    {
+      "file": "opis-16.jpg",
+      "kind": "lifestyle",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/23.jpg",
+      "width": 1000,
+      "bytes": 329809,
+      "sha256": "fc3918963d0aef54aca12cd38f4afa14417ca14041e676c910442aad2a14de4a"
+    },
+    {
+      "file": "opis-17.jpg",
+      "kind": "lifestyle",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/cecha-1.jpg",
+      "width": 1000,
+      "bytes": 54207,
+      "sha256": "7c2fe4b244df14a7fa7a3c640903b84861df3cf0d983bfb35291571c5411ef5b"
+    },
+    {
+      "file": "opis-18.jpg",
+      "kind": "lifestyle",
+      "order": 18,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/cecha-3.jpg",
+      "width": 1000,
+      "bytes": 59097,
+      "sha256": "250e5de0b311c3e3fe920255cd565ad27d2ba58bd1f047da2338537d33fcdad0"
+    },
+    {
+      "file": "opis-19.jpg",
+      "kind": "lifestyle",
+      "order": 19,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/36.jpg",
+      "width": 1500,
+      "bytes": 307360,
+      "sha256": "59ecc2257c04a0ce3896c0173eb46aab879d80c24085d950826e3b3c5dc83527"
+    },
+    {
+      "file": "opis-20.jpg",
+      "kind": "lifestyle",
+      "order": 20,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/35.jpg",
+      "width": 1500,
+      "bytes": 265232,
+      "sha256": "35e7b1b37c03f402fbcd4eb5240486b5d44704bd6048c2d053c83b5480e57f76"
+    },
+    {
+      "file": "opis-21.jpg",
+      "kind": "lifestyle",
+      "order": 21,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/277200008ST2/20.jpg",
+      "width": 1000,
+      "bytes": 20322,
+      "sha256": "95654c1d757751a4476fcb056e9b5d046d0e828ad112c87b6de1f9bac6d9914f"
+    }
+  ],
+  "dropped": 0
+}
