@@ -1,0 +1,306 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T17:49:43.259Z",
+  "sourcePage": "https://clinus.pl/podkaszarki-i-kosy/stiga/2265-stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka",
+  "slug": "stiga-gt-100e",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-12.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/57150/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 27532,
+      "sha256": "f27ac6beced78c11dbf1acbceeb7d21c5ac79547362b5a2391f0b876f0468aab"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/57151/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 93498,
+      "sha256": "e798ae31dcfc89694abee9d2583edbc9d19db277e2cf470475c7b819138fdba0"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/57152/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 73604,
+      "sha256": "c754db2a7e6fb1f26dc47f5ce585dcc57daa6e469c10064d84311d5d31e91cf3"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/57153/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 16726,
+      "sha256": "f34d1b58d271cdf211bce47ea9681672adaca7aad98611dcf341a452a874d63e"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/57154/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 14120,
+      "sha256": "9b8a84f6383ac6e7d82bcdd420c84754ae6b3d38aaaa4d867f3a2784153e16a6"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/57155/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 14096,
+      "sha256": "dd7bfe49253ba5d2860652172d76f1ef7e696d4fbce736e8bd0582010a26ced5"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/57156/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 29100,
+      "sha256": "912036f1cfcf61bd47f80e9c943d239930db6f2c5680a833fe520a851636f121"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/57157/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 34798,
+      "sha256": "64ae04aeff05c8a053bb8b1843a97a8a3cc3d3ea20ccda141423992a2f3f4ed2"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/57158/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 22944,
+      "sha256": "1fab5c5667772dd42d304bc0dda2e961442fcda1f4458e465e3fd39da0ca136b"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/57159/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 15772,
+      "sha256": "9361a931f75678728c785b3b6ce4ca46cdd12a324135c2f39b4244c88450f197"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/57160/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 20154,
+      "sha256": "d1224c03d7dbfa2edbde9b062696f4fc39497ac488839299067b25a260ac8e2b"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/57161/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 73306,
+      "sha256": "cb29ba7fba4d8185cda3ee9a719a68bd78ed96477b88314056ecd564cdbe935a"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/57162/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 78480,
+      "sha256": "b5963e976603298b42638c486fe8edcd001bdd22b4de8903c97ee3a42bb3780b"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/57163/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 60220,
+      "sha256": "de986949b4e08f4af383b40a3a904be7fdaab2add809f184556d9d904ce719b3"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/57164/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 134878,
+      "sha256": "fadd754af13f2e7e4534145ffcdc39e19e66fce50a2d3a6c11aecdf2e0ede668"
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/57165/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 64400,
+      "sha256": "de7e0dcdd428cbd602ef9b81717a198388fcda23da3e1800f6900be9133f4170"
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/57166/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 79852,
+      "sha256": "7389806eb50ab8dfe7f678fce8a4ee6b5e53ce84e8977a969d608d5e8a17a643"
+    },
+    {
+      "file": "produkt-18.webp",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://clinus.pl/57167/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 1000,
+      "bytes": 133552,
+      "sha256": "4f045ca9a45da5da058a6d34e3f12ad492e76ba95c6fc1c12eff2a73b1d7cc27"
+    },
+    {
+      "file": "produkt-19.webp",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://clinus.pl/93210-large_default/stiga-gt-100e-podkaszarka-akumulatorowa-w-zestawie-z-akumulatorem-i-ladowarka.webp",
+      "width": 800,
+      "bytes": 22322,
+      "sha256": "0b7b57348716a5229674b278c41fe65ccad687506af1ceeb5ab37a023538a84c"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/271102108ST2/271102108ST2-top-1.jpg",
+      "width": 1500,
+      "bytes": 530699,
+      "sha256": "d80d608158ca0b6de32eef46d136720149e13070d1de5c7d9862b293cfb8b0c5"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/271102108ST2/13.jpg",
+      "width": 1000,
+      "bytes": 321797,
+      "sha256": "0318e7c9e4053d80e48be5c9663f53083985e2a5e31947423ffe2f431d107f89"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/271102108ST2/wide-2.jpg",
+      "width": 1500,
+      "bytes": 363068,
+      "sha256": "103e6a34a280732d7a2a1070b34b080cb36218a63978b6c8ed3751991a62ac1a"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/271102108ST2/14.jpg",
+      "width": 1000,
+      "bytes": 200643,
+      "sha256": "15d620684540cd1a0104766c1dcfe88ce5aa199c61e1de9ef54956d9af1ec4d8"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/271432101ST1/271432101_ST1-akumulator.jpg",
+      "width": 1000,
+      "bytes": 40209,
+      "sha256": "22602435cdb8307546c56a90cd558a3097781833ce8db9777496cd8d9d13f3b2"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/271102108ST2/16.jpg",
+      "width": 1000,
+      "bytes": 319938,
+      "sha256": "8caec34651c0505e70de35511c46f3b306f7369d9e75158046ad67004cc1a42a"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/271102108ST2/10.jpg",
+      "width": 1000,
+      "bytes": 216999,
+      "sha256": "6fb729b18203e537c294487fccd1f09b600bc2a27c65f203bf0f70a1bc34aa6f"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/271102108ST2/wide-3.jpg",
+      "width": 1500,
+      "bytes": 428323,
+      "sha256": "941ae32363588cbe6dd6b574f8381ed88f87295bc95d20854a210575fb8e78f2"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/271102108ST2/5.jpg",
+      "width": 1000,
+      "bytes": 97209,
+      "sha256": "6e703602b440f1a6953a7119682c1a511d7587686f8722723d32a2823391fae4"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/271102108ST2/8.jpg",
+      "width": 1000,
+      "bytes": 60383,
+      "sha256": "1fd76a18adcfea2f45bd606f79d37c0fa078bec28fb072d209967908b5186f5f"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/271102108ST2/9.jpg",
+      "width": 1000,
+      "bytes": 75705,
+      "sha256": "6c3d9ba57556bdbd7a3ece07fd1e09fdf829d0e5de9e9372f57ffa4d7a612f53"
+    },
+    {
+      "file": "opis-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/271102108ST2/wide-4.jpg",
+      "width": 1500,
+      "bytes": 144166,
+      "sha256": "929bbc9caaa752206411ca5a8a6560f19bdddfb01a254594603f582d66a36e03"
+    }
+  ],
+  "dropped": 0
+}
