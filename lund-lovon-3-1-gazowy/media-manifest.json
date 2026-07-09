@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T08:49:14.165Z",
+  "sourcePage": "https://toya24.pl/pl-PL/products/grill-gazowy-lovon-3-1-10012075",
+  "slug": "lund-lovon-3-1-gazowy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pim.toya.pl/zdjecia/glowne/99642/image-thumb__18408__Sklep_high/99642.jpeg",
+      "width": 1920,
+      "bytes": 130398,
+      "sha256": "714a378c2f175a3113454c407d84fd279f933a33c75dca2644c6d99aeaf9baf6"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pim.toya.pl/zdjecia/dodatkowe/99642/image-thumb__5853__Sklep_high/99642_b.jpeg",
+      "width": 1920,
+      "bytes": 125670,
+      "sha256": "8927e43d34312c987e80850139b227ec21f7308c1e98df52e1ad6a9c2f9a60c9"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pim.toya.pl/zdjecia/dodatkowe/99642/image-thumb__5856__Sklep_high/99642_e.jpeg",
+      "width": 1920,
+      "bytes": 265582,
+      "sha256": "6d6f6fa4f6ea31dc3e0e21f7ca6293b8d83e33e159fd28e28ec749e8bc902ee6"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://pim.toya.pl/zdjecia/dodatkowe/99642/image-thumb__5854__Sklep_high/99642_c.jpeg",
+      "width": 1920,
+      "bytes": 231954,
+      "sha256": "9f1953b18c91b3a48e293d051752adc69103ad29ca9e0a9b68fe04e62115362b"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://pim.toya.pl/zdjecia/sklepy/99642.jpg",
+      "width": 2000,
+      "bytes": 245717,
+      "sha256": "ec49efc53fa76217c66740270ded11f153a945d0b66538dff03683e28a2db4e3"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://pim.toya.pl/zdjecia/sklepy/99642-02.jpg",
+      "width": 2560,
+      "bytes": 184930,
+      "sha256": "d76113f1cab98ef69a2309d9ca455f1b846420ee58d976ab730362922c62cbf2"
+    }
+  ],
+  "dropped": 0
+}
