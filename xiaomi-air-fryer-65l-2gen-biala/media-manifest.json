@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T17:42:40.418Z",
+  "sourcePage": "https://mi-store.pl/product-pol-3671-Air-Fryer-Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-6-5-L-Biala-2nd-gen.html",
+  "slug": "xiaomi-air-fryer-65l-2gen-biala",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/dd877fa346e9140da9d675df12c1e83b/pol_pl_Air-Fryer-Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-6-5-L-Biala-2nd-gen-3671_1.webp",
+      "width": 600,
+      "bytes": 7720,
+      "sha256": "c9aab1f82c66979cfce4dca047941ab9fb88afb116e051154148570a2a067850"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/58c6c57ab181f9c60347acb10ff75181/pol_pl_Air-Fryer-Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-6-5-L-Biala-2nd-gen-3671_2.webp",
+      "width": 600,
+      "bytes": 15322,
+      "sha256": "ee5080f125d493d9d003a3a04d1c90c819172d3f1a4efd613718a61f1e5cbb1b"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/86c7c4c61118000a9df96518522cc5de/pol_pl_Air-Fryer-Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-6-5-L-Biala-2nd-gen-3671_3.webp",
+      "width": 600,
+      "bytes": 12644,
+      "sha256": "aa685bc5d0e26c5e6d859505fcaf3048ee4e74b1644e2b457202c75fdcabd840"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/39785b1d2622354289eaeb6e4f8c5ee7/pol_pl_Air-Fryer-Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-6-5-L-Biala-2nd-gen-3671_4.webp",
+      "width": 600,
+      "bytes": 8520,
+      "sha256": "6e0c492b555ddd63906b4f0f9b7177ffc97ff0ab7e1878532dfb16770f052aa0"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/hpeciai/35a53da0ff0574d87221ac76faa28101/pol_pl_Air-Fryer-Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-6-5-L-Biala-2nd-gen-3671_5.webp",
+      "width": 600,
+      "bytes": 7244,
+      "sha256": "42e398f02120e6bd4c1a1e32ef225fe01bafc579bc08aaca8706a858249f37aa"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/hpeciai/5a86b2e7da92f188ce76599872d81333/pol_pl_Air-Fryer-Frytownica-Beztluszczowa-Xiaomi-Air-Fryer-6-5-L-Biala-2nd-gen-3671_6.webp",
+      "width": 600,
+      "bytes": 14506,
+      "sha256": "9a5b217ac9d13371c6c27e593177fabcc83455972beca563aa396f360275f26a"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/Xiaomi-Air-Fryer-65/1.jpg",
+      "width": 1300,
+      "bytes": 554132,
+      "sha256": "1dc58cde40c772d37003888a64f96719f423afbd76a4f55ab3cbf874ac78d6e3"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/Xiaomi-Air-Fryer-65/2.jpg",
+      "width": 1337,
+      "bytes": 298000,
+      "sha256": "e863b403e69786348f50702f7b772d220536b72017d78b7f4bda59deff09316d"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/Xiaomi-Air-Fryer-65/3.jpg",
+      "width": 1246,
+      "bytes": 942569,
+      "sha256": "1ff4edca976c220e91eb48e6537f7c328e1831fec6d549a3a677082e0ddaa425"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/Xiaomi-Air-Fryer-65/4.jpg",
+      "width": 1249,
+      "bytes": 623106,
+      "sha256": "f934f45abcf61914b1e8a8436232e3cc782a6a7dab1c7cdadff30024d9bc07c4"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/Xiaomi-Air-Fryer-65/5.jpg",
+      "width": 1339,
+      "bytes": 967524,
+      "sha256": "f53663aadaaa75fba9433414db0af760a0cfaf7cace5e52195a1a6f6c47156b1"
+    }
+  ],
+  "dropped": 0
+}
