@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T08:42:52.157Z",
+  "sourcePage": "https://toya24.pl/pl-PL/products/grill-gazowy-baven-2-1-8kw-10014821",
+  "slug": "lund-baven-2-1-gazowy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.png",
+    "produkt-13.png",
+    "produkt-14.png",
+    "produkt-15.png",
+    "produkt-16.png",
+    "produkt-17.png",
+    "produkt-18.png",
+    "produkt-19.png",
+    "produkt-20.png",
+    "produkt-21.png",
+    "produkt-22.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://toya24.pl/hpeciai/e99d7d7f45c2efe41d84cf428643537a/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_1.jpg",
+      "width": 1000,
+      "bytes": 202389,
+      "sha256": "0dad34cf5a0025259698a3c51121b03bb14902a4809549ea4d9dea011e4dfca7"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://toya24.pl/hpeciai/cc93603968553c3dd377da1d96973ad8/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_2.jpg",
+      "width": 1000,
+      "bytes": 197582,
+      "sha256": "6e6680fb62eeaa45cc365b78371a63cf163d363b81a2bd113ac51d79413f4945"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://toya24.pl/hpeciai/3826c5aec3b932326875ce492c834fd3/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_3.jpg",
+      "width": 1000,
+      "bytes": 156654,
+      "sha256": "de29f08813554a04f1e88e685573f1a1358cffe8e223f1d1c43c3aa6339e73e1"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://toya24.pl/hpeciai/1eb08a44428e96ee11e5007a004899e0/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_4.jpg",
+      "width": 1000,
+      "bytes": 409020,
+      "sha256": "359dd073c495d34693e3def6db3303d8f53d43e8896c63bd8b64878d00ce780f"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://toya24.pl/hpeciai/099997d7c3bcb8b1baab4214b06395e8/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_5.jpg",
+      "width": 1000,
+      "bytes": 352174,
+      "sha256": "9ec776043abca75b3f11186305d85a78f9c97aa0c1165cc79d758392a98b2c22"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://toya24.pl/hpeciai/68c0634016a51b26f3d2a4eac65b15b0/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_6.jpg",
+      "width": 1000,
+      "bytes": 542500,
+      "sha256": "9050a129c52c94c2010a89146d2a9e3929b55270b0609308c034e7037b7ae962"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://toya24.pl/hpeciai/eb2f3353b7022219f75e894fcb7684ca/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_7.jpg",
+      "width": 1000,
+      "bytes": 273498,
+      "sha256": "2f54676b96dcbdea4aca1eafbacd192ce25b30fcfd441207679e916c12285d88"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://toya24.pl/hpeciai/e150e69732586aa28cc6ab2748233703/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_8.jpg",
+      "width": 1000,
+      "bytes": 676503,
+      "sha256": "0574f9b7da8d41d48c3c6a2c10dd53b106e86b21200e41d7f208a2925bef04a2"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://toya24.pl/hpeciai/bce933d158f7116ceba6cf0e1929fdbc/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_9.jpg",
+      "width": 1000,
+      "bytes": 331725,
+      "sha256": "d8c4817acd19b4995c9e899ab10567119fcde1c87b9d81f660ff4e6685626ef9"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://toya24.pl/hpeciai/c82d0c29dc9743ab34b48eded8ef8045/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_10.jpg",
+      "width": 1000,
+      "bytes": 216515,
+      "sha256": "8a88af9ecc8751d5996ac5fd7c63c00f02156d500694a09bde40b825daea70ba"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://toya24.pl/hpeciai/ac79b1cdd7d541142a6f31e23255b446/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_11.jpg",
+      "width": 1000,
+      "bytes": 266151,
+      "sha256": "e23b5c6194e12f181fb69b084c94f427b1553e5bc4420956c01ec07b84cbae4a"
+    },
+    {
+      "file": "produkt-12.png",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://toya24.pl/hpeciai/df1ac54f092235103b1125db80b357c3/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_12.png",
+      "width": 750,
+      "bytes": 1271597,
+      "sha256": "1a9ae538e5fe9206847adf7e26d77ae5d221ed9b61628acde806b3d701947894"
+    },
+    {
+      "file": "produkt-13.png",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://toya24.pl/hpeciai/b0d8003116123d7dfed9886b4af28631/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_13.png",
+      "width": 698,
+      "bytes": 392152,
+      "sha256": "28abef94f4e4b82d6671fea03fdf5f2021dfe7512a632c1be03cf2d00b89f10a"
+    },
+    {
+      "file": "produkt-14.png",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://toya24.pl/hpeciai/f09224babc2bc523a03344319143c51f/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_14.png",
+      "width": 1200,
+      "bytes": 326739,
+      "sha256": "7f9fd303d65d1e4b7973b01b40668919df28cd6bfaa0e168a0a1cc7ebed89b8c"
+    },
+    {
+      "file": "produkt-15.png",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://toya24.pl/hpeciai/f8b8a674cd65a10a18f17d183a677184/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_15.png",
+      "width": 1125,
+      "bytes": 919297,
+      "sha256": "6c12c75628990cafd1b6429cf99c629ffe9a7d1b489c7554758020cb9428ccbb"
+    },
+    {
+      "file": "produkt-16.png",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://toya24.pl/hpeciai/39f823277ba5217d66a92030b84ae119/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_16.png",
+      "width": 980,
+      "bytes": 337806,
+      "sha256": "4eefedbce6c22403a8b628a37fb4f658f0a2a10c53d5dd1539c0ff80ffd5de89"
+    },
+    {
+      "file": "produkt-17.png",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://toya24.pl/hpeciai/bbb7243ac87621397f2177a151c3bf91/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_17.png",
+      "width": 604,
+      "bytes": 376734,
+      "sha256": "e34c227f88d8e1e10dd517f2d1d5fb0521ea4c25ef93771f10fe8c881993a515"
+    },
+    {
+      "file": "produkt-18.png",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://toya24.pl/hpeciai/d68dd233921926395486919e57f455db/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_18.png",
+      "width": 479,
+      "bytes": 289763,
+      "sha256": "17a5610c03d3262cf00d99c8a1438990704c3090f9ef74bb9e4c6a778e910334"
+    },
+    {
+      "file": "produkt-19.png",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://toya24.pl/hpeciai/5396f430cfb6ad29536c04eb1a73cab0/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_19.png",
+      "width": 480,
+      "bytes": 266066,
+      "sha256": "71499e712a48f9bd6ae21ae2630932d1d48f1135e8e8631880f2be12a8b5c461"
+    },
+    {
+      "file": "produkt-20.png",
+      "kind": "product",
+      "order": 20,
+      "sourceUrl": "https://toya24.pl/hpeciai/0557dbb0b488c7da6e2e437591dc4cbf/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_20.png",
+      "width": 480,
+      "bytes": 322162,
+      "sha256": "db0cb6fcbed539d861af8c7fd0972336405eb3612c478d46bec4cef365cba739"
+    },
+    {
+      "file": "produkt-21.png",
+      "kind": "product",
+      "order": 21,
+      "sourceUrl": "https://toya24.pl/hpeciai/4b7ba86e3867716dc7444b1ef472aee9/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_21.png",
+      "width": 480,
+      "bytes": 341687,
+      "sha256": "9da567fd428fe074941d6e2bf35f737d1032353dad01c7af319d303dc2e552e7"
+    },
+    {
+      "file": "produkt-22.png",
+      "kind": "product",
+      "order": 22,
+      "sourceUrl": "https://toya24.pl/hpeciai/9996f3ec6c5d152f6cdbd42c86ff8fed/pol_pl_GRILL-GAZOWY-BAVEN-2-1-8KW-10014821_22.png",
+      "width": 480,
+      "bytes": 249636,
+      "sha256": "6b130faf35edc6313770c5547e3f223ade331932fa7a173fb27f28c408a90ca0"
+    }
+  ],
+  "dropped": 0
+}
