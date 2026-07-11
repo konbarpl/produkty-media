@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-11T07:18:59.546Z",
+  "sourcePage": "",
+  "slug": "philips-psg6066-20",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "opis-07.webp",
+    "opis-08.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_234259c6_67cf_41d7_b395bb8c1e516dea?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 45406,
+      "sha256": "6a5de012331b5fa332debf156069c96ee3a3f1e742b0565e4ff8f62e2a8c3b1e"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3355b60a_8e46_4d7d_82bd6856646e1e93?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 29620,
+      "sha256": "163ded014cae817562ac33c75d63d01691fceed8be2dd2604d7b20e21543db44"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_665a467a_7b02_4496_b1e433663e7baead?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 39334,
+      "sha256": "4aa1930d0e029772981cae8873b03564f9493101305ad340ab5feb383d38f0e1"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_32d2df6c_8da9_4b95_87b02278059d91bc?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 53316,
+      "sha256": "365796ee87b09bbc97734ce095c6248623f980e2c0910177e1cabdf07c552fa2"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_fb4fa937_8595_40f1_888aa9b124052549?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 76004,
+      "sha256": "1a0c63d0eac525539c066a2ca762351b1017f40484e846a7bbb89e3470f07c9b"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c474b2b5_e14d_4625_90a221d420138511?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 43444,
+      "sha256": "31822493ec8dcce689bd2bcbffdbdc3070442c76c3011d55ccfbcb65b91dc39e"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5242098b_128b_4969_945957873f29cbf8?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 43358,
+      "sha256": "4a0f75bc2df194ded01c3486715dad18272f0018b525af0c46c87c0d41f4343f"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f93332ab_0b05_4bf8_bd5740ff73e22820?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 26982,
+      "sha256": "1e03c30cc213cc02c5d060d87eaf87c2dbee605a3a064a090399ab4952194e5a"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_95c2f312_2032_4fba_88e29c2a0e2bea5f?wid=1200",
+      "width": 1200,
+      "bytes": 28570,
+      "sha256": "62ceb0ec892a3166062744341d36397c062abf6ece7b980f2cc288517bf837f8"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6dc4cca4_8f1b_45b5_b8a661e492956f0e?wid=1200",
+      "width": 1200,
+      "bytes": 30392,
+      "sha256": "ca03f9647ee5cc305e605e9781884ba285d3e315db8e65bacc73b6aba51f95f7"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_401c9289_c08f_4b6a_87eb1f0df959ed4f?wid=1200",
+      "width": 1200,
+      "bytes": 29158,
+      "sha256": "dee54e4cc01a9e0176961e2d46854d7ee8b3eecd0a0b602f9d1c9a71300ce991"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1b31edfa_82f0_4f7a_9687761173be8d8f?wid=1200",
+      "width": 1200,
+      "bytes": 20820,
+      "sha256": "d95b25eff4fe27aa5a0a18c00d2508b95cbf6c5fc2e3a781c7c56edb11cbd17b"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_69a5474d_d3d2_46f3_8f87a2f5cdf8cf15?wid=1200",
+      "width": 1200,
+      "bytes": 43272,
+      "sha256": "41c73b4a23e3140ac80956da445bc6a972fd08fc07ea6ecf1ca03f5a6f9faab5"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0bc79451_84a2_414a_8d23ce8f79f86fb3?wid=1200",
+      "width": 1200,
+      "bytes": 21884,
+      "sha256": "6a8dcda6aa57325c1bd76389f0de00886db0b99dc47976150d2132e55ee286bf"
+    },
+    {
+      "file": "opis-07.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0548a1b9_2215_45fd_b5bb5803c87e9047?wid=1200",
+      "width": 1200,
+      "bytes": 33414,
+      "sha256": "cffc38758f7a4b34ebaa18ede4eebb593ed18b51ddbcda36beb0d09e87e7b9f2"
+    },
+    {
+      "file": "opis-08.webp",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_033d578c_8a8c_4070_928406b166f3924a?wid=1200",
+      "width": 1200,
+      "bytes": 33422,
+      "sha256": "858508b237e958ebdac8f8f10a9c965a430db3becf7c4a110aa9c39c602df7a4"
+    }
+  ],
+  "dropped": 0
+}
