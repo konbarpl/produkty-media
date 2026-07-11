@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-11T07:16:52.444Z",
+  "sourcePage": "https://www.philips.pl/c-p/PSG7200_30/philips-perfectcare-generator-pary-7000-PSG7200-30",
+  "slug": "philips-psg7200-30",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e15a5ed7_b9fd_4ce1_9ff2cd4403736f39?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 38412,
+      "sha256": "31225c4c94e622de3e57a3c687c066c9032101126c65f23d4c568ac0caeb0af5"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_60bab357_0073_44fe_8e6c2844d6dbaff3?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 52864,
+      "sha256": "cf0f33d48dc7b6af89aef458c57721794fd6255f32e868c591c6fb2873323f58"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a4c4ad26_be40_4d17_a092d6b5c7c15742?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 46872,
+      "sha256": "a733c8a84637e596d36d110ab2645abfe3c9a1a930d8ccffcc37ee9bf1bcd78d"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5d4d3b55_dbba_4ea8_a1eafe6269c6dc39?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 48906,
+      "sha256": "d6b2f5f3f29dc6ad4443a5fca38d94ff30640995611cc8c33ace088badf0eb56"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_334218e7_9fa7_4c97_9c400e13bbb6b405?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 87894,
+      "sha256": "5bc63c476a9a890260b110a042a7dd2cb4f5ef9543859e391a0c1bcbb8eba8b1"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_77dedb88_acda_481a_aee6d069f188a861?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 66662,
+      "sha256": "abfa6ff79510cf498250f37ad00a1ede63e67c33d16322b8e73713018cef88c4"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_daf27b88_56f8_4c30_96f7c261fa4523f8?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 64190,
+      "sha256": "ef2ab5c47aa611a0bcf271e525b6d4c8f249e4854668047bce2238f8a17c184e"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c3014396_b580_4557_8abf8152abb48af7?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 49050,
+      "sha256": "a70f4d1f0604547275219d1e5139160ba98206d3af2fcc28fcceb7461132a226"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d99f6698_9dbe_45e7_b75e97de98ecaf9b?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 61152,
+      "sha256": "e852535d5adb46063553e56019d0dcfaa484458e5edf6921e3234972fef8fa89"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cee8b8fc_cb36_4dbf_87c5a9135b21fceb?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 65002,
+      "sha256": "13638b5a107527b6318499765aef3fa4c8240c28e318725014b8429a4da872dd"
+    }
+  ],
+  "dropped": 0
+}
