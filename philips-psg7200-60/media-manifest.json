@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-15T12:00:00.000Z",
+  "sourcePage": "https://www.philips.de/c-p/PSG7200_60/perfectcare-steam-generator-7000-series",
+  "slug": "philips-psg7200-60",
+  "note": "Zdjecia wybrane z 6 plikow pobranych lokalnie przez Konrada (dropshipping/erli/7000 Series PerfectCare Dampfbügelstation PSG7200_60 _ Philips/). Bramka tozsamosci wizualnej 15.07: 4 z 6 plikow odrzucone (przedstawialy warianty PSG7300/80 Deep black, PSG7300/70 Dark Forest i zelazko w kolorze sliwkowym - niezgodne z kolorystyka Beige/Himmelblau modelu PSG7200/60). Dwa zaakceptowane assety pobrane z CDN images.philips.com w 1200 px (te same ID vrs_ co pliki lokalne Konrada, ktore mialy tylko 400 px).",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5a3846bc_97f4_4707_8c93fb2a4c3776fd?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 62593,
+      "sha256": "74308bb32883cc1947c7b2404842473a5c7f4c3ddbcfbe7fdb8376ac4c67680b"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b5073a88_efcd_49e0_86f39571b13af305?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 85833,
+      "sha256": "6ca5d6c36c6c284ab2e4a6ba15d2213c3a953a2643f0bc6dd2de64bdf9665433"
+    }
+  ],
+  "dropped": 4,
+  "droppedFiles": [
+    "imgi_20_vrs_a67e0f17 (TurboPower - asset opisany GC_2024_PSG7300_80, czarny wariant)",
+    "imgi_21_vrs_57e46568 (zblizenie stopy, zelazko sliwkowe - kolorystyka niezgodna z PSG7200/60)",
+    "imgi_26_vrs_8e2dc48f (PSG7300/80 Deep black - prasowanie firan)",
+    "imgi_30_vrs_fe979757 (PSG7300/70 Dark Forest - para)"
+  ]
+}
