@@ -1,14 +1,45 @@
 {
   "version": 1,
   "generatedAt": "2026-07-15T12:00:00.000Z",
+  "updatedAt": "2026-07-15T00:00:00.000Z",
   "sourcePage": "https://www.philips.de/c-p/PSG7200_60/perfectcare-steam-generator-7000-series",
   "slug": "philips-psg7200-60",
-  "note": "Zdjecia wybrane z 6 plikow pobranych lokalnie przez Konrada (dropshipping/erli/7000 Series PerfectCare Dampfbügelstation PSG7200_60 _ Philips/). Bramka tozsamosci wizualnej 15.07: 4 z 6 plikow odrzucone (przedstawialy warianty PSG7300/80 Deep black, PSG7300/70 Dark Forest i zelazko w kolorze sliwkowym - niezgodne z kolorystyka Beige/Himmelblau modelu PSG7200/60). Dwa zaakceptowane assety pobrane z CDN images.philips.com w 1200 px (te same ID vrs_ co pliki lokalne Konrada, ktore mialy tylko 400 px).",
-  "galleryOrder": [
-    "produkt-01.jpg",
-    "produkt-02.jpg"
-  ],
+  "note": "Zdjecia wybrane z 6 plikow pobranych lokalnie przez Konrada (dropshipping/erli/7000 Series PerfectCare Dampfbügelstation PSG7200_60 _ Philips/). Bramka tozsamosci wizualnej 15.07: 4 z 6 plikow odrzucone (przedstawialy warianty PSG7300/80 Deep black, PSG7300/70 Dark Forest i zelazko w kolorze sliwkowym - niezgodne z kolorystyka Beige/Himmelblau modelu PSG7200/60). Dwa zaakceptowane assety pobrane z CDN images.philips.com w 1200 px (te same ID vrs_ co pliki lokalne Konrada, ktore mialy tylko 400 px). AKTUALIZACJA 15.07 (polecenie Konrada): dodane 2 wlasne miniaturki Konrada jako PIERWSZE zdjecia ofert testu A/B (miniaturka-a -> oferta philips-psg7200-60-a, miniaturka-b -> oferta philips-psg7200-60-b; miniaturka drugiej oferty NIE wchodzi do galerii pierwszej). Bramka tozsamosci wizualnej miniaturek zaliczona 15.07 (obie pokazuja PSG7200/60 Beige/Himmelblau; zero kwot, zero slowa gwarancja). Poniewaz oferty A i B maja ROZNE galerie, wspolne pole galleryOrder usunieto (walidator erli_common.js wymaga identycznosci galleryOrder z gallery configu) - kolejnosc per oferta trzyma galleryOrderPerOffer. sourceUrl miniaturek = URL hostingu raw.githubusercontent.com, bo zrodlem sa pliki lokalne Konrada (sciezka w polu origin).",
+  "galleryOrderPerOffer": {
+    "philips-psg7200-60-a": [
+      "psg7200-60-miniaturka-a.png",
+      "produkt-01.jpg",
+      "produkt-02.jpg"
+    ],
+    "philips-psg7200-60-b": [
+      "psg7200-60-miniaturka-b.png",
+      "produkt-01.jpg",
+      "produkt-02.jpg"
+    ]
+  },
   "files": [
+    {
+      "file": "psg7200-60-miniaturka-a.png",
+      "kind": "product",
+      "order": 0,
+      "offer": "philips-psg7200-60-a",
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-psg7200-60/psg7200-60-miniaturka-a.png",
+      "origin": "dropshipping/erli/7000 Series PerfectCare Dampfbügelstation PSG7200_60 _ Philips/PSG720060 miniaturka 1.png (plik lokalny Konrada, 15.07.2026)",
+      "width": 1080,
+      "bytes": 560701,
+      "sha256": "75478267213140bd301f916683219a83e97b604605d05f9fa394fe544cd1422d"
+    },
+    {
+      "file": "psg7200-60-miniaturka-b.png",
+      "kind": "product",
+      "order": 0,
+      "offer": "philips-psg7200-60-b",
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-psg7200-60/psg7200-60-miniaturka-b.png",
+      "origin": "dropshipping/erli/7000 Series PerfectCare Dampfbügelstation PSG7200_60 _ Philips/PSG720060 miniaturka 2.png (plik lokalny Konrada, 15.07.2026)",
+      "width": 1080,
+      "bytes": 625626,
+      "sha256": "41bf3f181bb08bf4e2e35a0524af375818213464e2860db568bb32d40344d564"
+    },
     {
       "file": "produkt-01.jpg",
       "kind": "product",
