@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-24T15:37:44.681Z",
+  "sourcePage": "https://pl.gorenje.com/produkty/dom-i-opieka/odkurzacze/VACUUM-CLEANER-SVC296749NEBL-GOR/p/000000000000747436",
+  "slug": "gorenje-svc296749nebl",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.png",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.png",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://gor.hgecdn.net/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-3-6-362ce48be2106f61b83398cd13ed3c88-337256-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDgyMDUwfGltYWdlL2pwZWd8YUdSaEwyaGxZaTh4TlRnME9ETTVNelF3T0RVME1pOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzh6THpZdk16WXlZMlUwT0dKbE1qRXdObVkyTVdJNE16TTVPR05rTVRObFpETmpPRGhmTXpNM01qVTJYekl1YW5Cbnw2NjQxNDNjMjlmNTQ5MWIxOGE2NmM1NTc4MTg0NWNjOGUxMTM2M2VmMGM2Mzg4MzhhMjRmODI2Y2YwYjNhMmIw",
+      "width": 1191,
+      "bytes": 82050,
+      "sha256": "0b59ad1ca5dc6674e878933b9c46c05c6132464db0dbe1a161425f1bce5267d4"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://gor.hgecdn.net/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-b-6-b647da5e8596c5cc706e526c73867a10-346967-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDUzMjU2fGltYWdlL2pwZWd8YURFMEwyZ3dOUzh4TmpBd01qRXdOamM0TlRneU1pOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzlpTHpZdllqWTBOMlJoTldVNE5UazJZelZqWXpjd05tVTFNalpqTnpNNE5qZGhNVEJmTXpRMk9UWTNYekl1YW5Cbnw3ZGZjMjU0MmI1NzAxY2Q2M2RlOWQ0MmZmMzAyYzI5OTRkMGZjYWM2ZTI1ZGU0YzY3NmIyZWFiMTc3OTI5ODVi",
+      "width": 617,
+      "bytes": 53256,
+      "sha256": "6552ac52546a647a7ae309a30709687383907b6243fe739f93d399b171b91187"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://gor.hgecdn.net/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-e-5-e5d0db796b22d87deea03f338faf8fe4-308349-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDIzMzUzOXxpbWFnZS9qcGVnfGFHRTVMMmd3T1M4eE5UWTFNelkxTVRnM016Z3lNaTlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5bEx6VXZaVFZrTUdSaU56azJZakl5WkRnM1pHVmxZVEF6WmpNek9HWmhaamhtWlRSZk16QTRNelE1WHpJdWFuQm58NmRjMjNkNzMxMDk5ZTk2NmI0ZWQyNDkzMDM0NzE1M2FjMzUxYzRkMjc4YmM3MmYzMzk2ZTdiYjFiN2Q4NWMyYg",
+      "width": 2698,
+      "bytes": 233539,
+      "sha256": "288b2b1ed4c81e5ccf00519f3437f51c715148acb92e39ab5bb9ae99a81d840c"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://gor.hgecdn.net/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-4-a-4a087a86de0a02ae4ec1d3bb05cce2a9-308323-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDIzNzYzfGltYWdlL2pwZWd8YURRd0wyZzNNeTh4TlRZMU16WTFNamcxTmpnMk1pOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzgwTDJFdk5HRXdPRGRoT0Raa1pUQmhNREpoWlRSbFl6RmtNMkppTURWalkyVXlZVGxmTXpBNE16SXpYekl1YW5CbnxlYjZkNjE0N2VkOTEyNjNkY2YwMWM5OTYwMTA5YmYxYTQyMTM3N2FkNWYzZjYxNmNjYjJlNjg2YmY2YzVjZDAz",
+      "width": 435,
+      "bytes": 23763,
+      "sha256": "86fef310dcc9be723ba63a293992b42fe141d113c6ea5b6c3190ec7b63bdc45b"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://gor.hgecdn.net/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-5-9-59d52bb708a087488fb5f411a02b8452-308526-fpng.png?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDIyNzQxMjN8aW1hZ2UvcG5nfGFHSmtMMmhtWXk4eE5UYzVNRFl6TlRVeE5Ua3pOQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM4MUx6a3ZOVGxrTlRKaVlqY3dPR0V3T0RjME9EaG1ZalZtTkRFeFlUQXlZamcwTlRKZk16QTROVEkyWDJad2JtY3VjRzVufDM2NWY3OWQxNTc0M2JmZGU2NjExYWFmMGVkYzQ1YTY1ZmJiN2IzNzhmNTZjMTIzNDVjMWJiNDNiMDFmYTQ4Zjg",
+      "width": 2134,
+      "bytes": 2274123,
+      "sha256": "d43c252e909fbea3140c238a5f7300f3199632d94d2eb3a2d765c9bc53ccb7c5"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://gor.hgecdn.net/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-e-2-e2459b561ac0cf924bae151a03c7b0bf-308334-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDEzNDc2N3xpbWFnZS9qcGVnfGFHRmpMMmhrTkM4eE5UWTFNelkxTkRBek5qVXhNQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5bEx6SXZaVEkwTlRsaU5UWXhZV013WTJZNU1qUmlZV1V4TlRGaE1ETmpOMkl3WW1aZk16QTRNek0wWHpJdWFuQm58MWY3YTAxODdmNjI4YTg4ODJmZjQ0NmUxOWMwN2YxNDE3OGFiZmVjZjhkODYxMGEyNWZhYTM3MzRiOGE4MTNkZA",
+      "width": 1800,
+      "bytes": 134767,
+      "sha256": "f2b0cabf09c9f2a26f78728d2de6cd05ef40e21c24895da9fd33ef8b7049f5ce"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://gor.hgecdn.net/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-4-1-4132fbf59ebe278c01eb69161b9e27c0-308326-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDQyODU0fGltYWdlL2pwZWd8YURGbUwyaGpOeTh4TlRZMU16WTFORFF5T1RjeU5pOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzgwTHpFdk5ERXpNbVppWmpVNVpXSmxNamM0WXpBeFpXSTJPVEUyTVdJNVpUSTNZekJmTXpBNE16STJYekl1YW5Cbnw0M2NiMjMyZjI5Mjc4MmVkYzYyYTA3NDA0ZmFkYTg4N2U5NWNkYmZlNWQ4MjZiZjRiZDNmMjg1Y2YwMzE0ZGY0",
+      "width": 757,
+      "bytes": 42854,
+      "sha256": "fdd1bc6acb3a6554938fb9555806580f44f4aa6cd27b0238e539d44d04219876"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://gor.hgecdn.net/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-2-5-256239f8c6db078088f1b83caee4d87a-308525-2.png?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDk0MDgwOHxpbWFnZS9wbmd8YURFMEwyZzFOUzh4TlRrek5EQXhOamd4TlRFek5DOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzh5THpVdk1qVTJNak01Wmpoak5tUmlNRGM0TURnNFpqRmlPRE5qWVdWbE5HUTROMkZmTXpBNE5USTFYekl1Y0c1bnw3NjYwMGExYWU4NjUwZTViYTE4MDU4YTVlZGM5MWY1MmUyYjVjZDIxYzZjYzdlMTgzNjlhMjcwZmM4YTY1N2U2",
+      "width": 2838,
+      "bytes": 940808,
+      "sha256": "4a417689438b9e8fd9caa9eb8963e88c3b9217366d61f238b84985c7d0afb070"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://gor.hgecdn.net/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-6-c-6c3d94fc987a15961882b1ee8913f452-308458-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDE1OTA3OXxpbWFnZS9qcGVnfGFEYzFMMmcxWkM4eE5UWTFNelkxTlRReE1qYzJOaTlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM4MkwyTXZObU16WkRrMFptTTVPRGRoTVRVNU5qRTRPREppTVdWbE9Ea3hNMlkwTlRKZk16QTRORFU0WHpJdWFuQm58NzkzNGVlM2MwMjNlZGUyNDU4NTEwYjlmZDhjMWViNTM4M2Q2MzZlMGZlNDU4MTU1NTM5ZDkwYjA3ZDA0NWJkZA",
+      "width": 1800,
+      "bytes": 159079,
+      "sha256": "f3ae4657f0642daa38db2dc01f991671af00ba3edf20d1dd6e9ee0f3300678fa"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://gor.hgecdn.net/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-6-8-68aead1b17347bdcabfc8c6f2ff657da-308457-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDg3MTM5fGltYWdlL2pwZWd8YURJekwyZ3dPUzh4TlRZMU16WTFOak16TURJM01DOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzgyTHpndk5qaGhaV0ZrTVdJeE56TTBOMkprWTJGaVptTTRZelptTW1abU5qVTNaR0ZmTXpBNE5EVTNYekl1YW5CbnwwYTQ0MTAzMDZlZDlhZDJjNWJlZGVlNzFlOWNmNDIwOTEzMjM4MTNhYmVkMDEyN2Y5NThmYzBkOWExYzJhM2Uw",
+      "width": 800,
+      "bytes": 87139,
+      "sha256": "21d6c3b97002dbd019ed89601c694b34daf7a516e3a8028a625a775272b0482a"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://gor.hgecdn.net/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-0-4-046792895e8b6c97159a3007bd0bac59-308348-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDE4ODYyMnxpbWFnZS9qcGVnfGFEVXpMMmd3TWk4eE5UWTFNelkxTmpFek16WTJNaTlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM4d0x6UXZNRFEyTnpreU9EazFaVGhpTm1NNU56RTFPV0V6TURBM1ltUXdZbUZqTlRsZk16QTRNelE0WHpJdWFuQm58OGE4M2YzMzBiNTU0M2IyYmFlMTYyMDI0YzhkZTJiYjBmNDNiNjE4NDA3YTEzMjRhMjMxNjMzNzQ3OTRkMDEyNA",
+      "width": 1800,
+      "bytes": 188622,
+      "sha256": "f17d19afabf45b413e22a828691ca131766aa20d4b841094f9b6d2d8a73ecc04"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://gor.hgecdn.net/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-e-5-e5bb49568dffb4e99611f3ae563c6e24-308347-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDU0NDY2fGltYWdlL2pwZWd8YUdVd0wyZ3daaTh4TlRZMU16WTFOalV5TmpnM09DOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzlsTHpVdlpUVmlZalE1TlRZNFpHWm1ZalJsT1RrMk1URm1NMkZsTlRZell6WmxNalJmTXpBNE16UTNYekl1YW5Cbnw0YmZlMDUxZjBiOWYxZDI1NmM5MzBkYjY5MGVmZjQyMTg3MzMyYWI0OTgzOGJjZmRjMGRmYmMxZDdiZGI4ODVj",
+      "width": 800,
+      "bytes": 54466,
+      "sha256": "f1b56caf44a91656632fa822a02a4c00efe4ca5515a72fa4f5e935c7138d319f"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://gor.hgecdn.net/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-e-8-e8d6052e5613c8ab6815d79d8f2dadac-308343-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDExMzY4OXxpbWFnZS9qcGVnfGFHSXhMMmd4Tmk4eE5UWTFNelkxTmpjeU16UTROaTlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5bEx6Z3ZaVGhrTmpBMU1tVTFOakV6WXpoaFlqWTRNVFZrTnpsa09HWXlaR0ZrWVdOZk16QTRNelF6WHpJdWFuQm58YjcwNTdlMDVkZmIwYjY2NDI0MjRlOGI0NjI5NDk2M2Y2MzJjYzI4Zjg1OWY2OWViOGIxNDBjMGE3MzA0ODE3NA",
+      "width": 1800,
+      "bytes": 113689,
+      "sha256": "5e1514e9dfdab8bf14c4b68ac76fde96fed53f3f490dc5a54875a0b8a36c5984"
+    }
+  ],
+  "dropped": 3
+}
