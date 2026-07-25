@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25T00:00:00.000Z",
+  "sourcePage": null,
+  "slug": "jbl-partybox-710",
+  "ean": "5906063262674",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-jbl.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:JBL PartyBox 710 (2).png",
+      "width": 1080,
+      "bytes": 833062,
+      "sha256": "f5533a4caf4d65c53cf2d12a6646a242e02f964132e4290cfd68ef70de4421a0"
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/33/3307509/Power-audio-JBL-PartyBox-710-front.jpg",
+      "width": 1500,
+      "bytes": 212991,
+      "sha256": "9d7c75d86451d53a9ae4a6c429591fece68459ede0e922a9062ff91796455a13"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/33/3307509/Power-audio-JBL-PartyBox-710-bok-prawy.jpg",
+      "width": 1500,
+      "bytes": 96932,
+      "sha256": "9b89e732169d1136b9fe442debfadaea03d2efde1bdeca38978913f508e400db"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/33/3307509/Power-audio-JBL-PartyBox-710-bok-lewy.jpg",
+      "width": 1500,
+      "bytes": 83631,
+      "sha256": "1f99a449b779eb0b2547f683a10c07e07a54819b4c195907d17157230e441bde"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/33/3307509/Power-audio-JBL-PartyBox-710-tyl.jpg",
+      "width": 1500,
+      "bytes": 65386,
+      "sha256": "17df4ac75e080c51f8a32a29b3318301aae452cdca2cfee0c93fb743335a4d2f"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/33/3307509/Power-audio-JBL-PartyBox-710-gora.jpg",
+      "width": 1500,
+      "bytes": 205082,
+      "sha256": "1d4f81c315f59b3098c18430873b7216db24bc21e0fad00af47133d5c406e9ef"
+    },
+    {
+      "file": "logo-jbl.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:jbl logo.png",
+      "width": 325,
+      "bytes": 12648,
+      "sha256": "973025b4432196fa0432df2fc2aeeee613a0e8c119d184bfc253c52886591813"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

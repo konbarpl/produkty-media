@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25T00:00:00.000Z",
+  "sourcePage": "https://pl.jbl.com/JBL+PBM100-.html?cgid=speakers&dwvar_JBL+PBM100-_color=Black-GLOBAL-Current",
+  "slug": "jbl-pbm100",
+  "ean": "5906063262728",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "logo-jbl.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:Mikrofon JBL PBM100.png",
+      "width": 1080,
+      "bytes": 449156,
+      "sha256": "051f4a6571b66c6de5945e336ba06b34082cda610765ca6627a7b440b89a7b7f"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw376312f5/JBL_PBM_100_FRONT_0003_x1.png",
+      "width": 1605,
+      "bytes": 847490,
+      "sha256": "b95b631bbc505cb2c30f90d2b128aa2f47ffbf476fa88fe1046747aa10432aac"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw57ed8f49/JBL_BPM_100_RIGHT_x1.png",
+      "width": 1605,
+      "bytes": 560329,
+      "sha256": "3b2f3a02691dc372285f735b17ef78ebd907c7937b88ed3fafdb8818babbe498"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw4881ea05/JBL_BPM_100_RIGHT_x1_C1.png",
+      "width": 1605,
+      "bytes": 1784191,
+      "sha256": "bcc1cabcb8b69b3e8c5a6d6f1b68948d57df45bb75628a3773dd73df019bb769"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw017140fd/JBL_PBM_100_DETAIL_0037_x1.png",
+      "width": 1605,
+      "bytes": 3874184,
+      "sha256": "65439fd37e585632c7384ce4f1c7a09b8b785ab1b3b0d928089446948fa73144"
+    },
+    {
+      "file": "logo-jbl.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:jbl logo.png",
+      "width": 325,
+      "bytes": 12648,
+      "sha256": "973025b4432196fa0432df2fc2aeeee613a0e8c119d184bfc253c52886591813"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

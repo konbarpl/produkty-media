@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25T00:00:00.000Z",
+  "sourcePage": "https://pl.jbl.com/PARTYBOX-ULTIMATE.html",
+  "slug": "jbl-partybox-ultimate",
+  "ean": "5906063251470",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "opis-01.png",
+    "logo-jbl.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:JBL PartyBox Ultimate (3).png",
+      "width": 1080,
+      "bytes": 1601608,
+      "sha256": "f3fad0db6e13c39eea43e4d04100c32e94aed1594940ee316558466c90afdcee"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwaa1ca01c/JBL_PARTYBOX_ULTIMATE_HERO_42638_BLUE_WITH_GROUND_LIGHTx2.png",
+      "width": 1605,
+      "bytes": 3473797,
+      "sha256": "211fa70660908c535b33933d6cd464547cc9c9a4eb9ff815a5913d6dd22a94cf"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw2cae089d/JBL_PARTYBOX_ULTIMATE_BACK_42616_x1.png",
+      "width": 1605,
+      "bytes": 925169,
+      "sha256": "a4137792b6f4a1119d184c7bfad54a33801e9d6ee0bc9219822f3184fcbad610"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5d69957a/JBL_PARTYBOX_ULTIMATE_RIGHT_42620_x2.png",
+      "width": 1605,
+      "bytes": 939283,
+      "sha256": "87db86de03818d3026e0b0bbfe37b76bb6506dc3052a95d4a1b69177ace32e0e"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw0fa2caf5/JBL_PARTYBOX_ULTIMATE_TOP_42736_x3.png",
+      "width": 1605,
+      "bytes": 3262729,
+      "sha256": "2eb0d1608c54035358f49c9b7b1ae5a20a8f2cc1716f5c5c07b01d496bd09bdc"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwabb2c621/JBL_PARTYBOX_ULTIMATE_CONNECTIONS_42663_x1.png",
+      "width": 1605,
+      "bytes": 1494842,
+      "sha256": "3d2976f84f5f28c73dab711cbb1bc95c522965e5caa0b95ce0a23d3cd54fcb47"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw8c42c1e4/JBL_Partybox_Ultimate_Black_Box_Image_SKU_1605x1605px.png",
+      "width": 1605,
+      "bytes": 1909117,
+      "sha256": "d2af807db13ed6597f2358f1106c999a7e0e9cd1252514af39ebc635028bc4e3"
+    },
+    {
+      "file": "opis-01.png",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw80133385/JBL_PARTYBOX_ULTIMATE_TABLET_1_42667_x3.png",
+      "width": 1605,
+      "bytes": 2063137,
+      "sha256": "ace3148c60f38963eb10b3a7572aa026c4f0653e626457643e66d441e853c2d5"
+    },
+    {
+      "file": "logo-jbl.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:jbl logo.png",
+      "width": 325,
+      "bytes": 12648,
+      "sha256": "973025b4432196fa0432df2fc2aeeee613a0e8c119d184bfc253c52886591813"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

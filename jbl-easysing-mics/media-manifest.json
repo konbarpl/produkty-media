@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25T00:00:00.000Z",
+  "sourcePage": "https://pl.jbl.com/EASYSING-MICS.html",
+  "slug": "jbl-easysing-mics",
+  "ean": "5906063262681",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "logo-jbl.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:JBL EasySing Mics.png",
+      "width": 1080,
+      "bytes": 882530,
+      "sha256": "71ba6617e71863122531ebdbad1b31e4b05eaedd50d7c112469322a1a7e4bbc2"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw8fb1572c/LS_JBL_EASYSING_MICS_HERO_0009_x1.png",
+      "width": 1605,
+      "bytes": 1442752,
+      "sha256": "3f5ef14b28ae2aa5cc58165e67783fbac47da5f505a0f1e04cbc72bb3dcd031f"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc3e6131e/JBL_EasySing_Mics_Box_Image_SKU.png",
+      "width": 1605,
+      "bytes": 1324097,
+      "sha256": "93740b52747d2301df2521e2d75a9580be9e8e115ac3ab203370576629a364f2"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dweb675ad9/LS_JBL_EASYSING_MICS_3_4_RIGHT_0019_x1.png",
+      "width": 1605,
+      "bytes": 1171337,
+      "sha256": "9582b691dbe8e5c8d39cfd1b019983b522d8d0aa093da7bfb3a9b96753f5fe62"
+    },
+    {
+      "file": "logo-jbl.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:jbl logo.png",
+      "width": 325,
+      "bytes": 12648,
+      "sha256": "973025b4432196fa0432df2fc2aeeee613a0e8c119d184bfc253c52886591813"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

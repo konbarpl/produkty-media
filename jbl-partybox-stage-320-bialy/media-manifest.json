@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25T00:00:00.000Z",
+  "sourcePage": "https://pl.jbl.com/PARTYBOX-STAGE-320.html",
+  "slug": "jbl-partybox-stage-320-bialy",
+  "ean": "5906063262643",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "produkt-09.png",
+    "produkt-10.png",
+    "produkt-11.png",
+    "logo-jbl.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:JBL PartyBox Stage 320 Bialy.png",
+      "width": 1080,
+      "bytes": 1193430,
+      "sha256": "1f17fc2fc7b706d4734e2714782ffb11af7eea61591ecce8e70e2d93438afaae"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw04c76c60/JBL_PARTYBOX_STAGE_320_SENSATION_WHITE_HERO_1_036_x4.png",
+      "width": 1605,
+      "bytes": 2535701,
+      "sha256": "cdc36f34fc3a80cfc030b4f14e5c54f14f9dec6e4e9c4af5b7e5c71613daee56"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw7c44540c/JBL_PARTYBOX_STAGE_320_SENSATION_WHITE_HERO_2_032_x3.png",
+      "width": 1605,
+      "bytes": 1748955,
+      "sha256": "c41c47e5991fb8cb2307ac9eab7526609c2e623ac95c31b9b4785d63ad8e7288"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw755dddd1/JBL_PARTYBOX_STAGE_320_SENSATION_WHITE_FRONT_008_x3.png",
+      "width": 1605,
+      "bytes": 2380496,
+      "sha256": "12b17e63e5f0f503e008f52e02070ec488671f974a485351c4954a3744e828b6"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwd59de1cc/JBL_PARTYBOX_STAGE_320_SENSATION_WHITE_BACK_018_x3.png",
+      "width": 1605,
+      "bytes": 1407353,
+      "sha256": "50cc0d2ef08ee4af5aa1b6d4fd24aa6dee0bfb9b57dd3911d589ef7d1afec9cb"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5c34c41a/JBL_PARTYBOX_STAGE_320_SENSATION_WHITE_LEFT_019_x3.png",
+      "width": 1605,
+      "bytes": 1852074,
+      "sha256": "98adc0a5dca28a070b84a0c3daad71b1d16980bcb4a39a28522c6c694538bd4d"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw615ee996/JBL_PARTYBOX_STAGE_320_SENSATION_WHITE_RIGHT_020_x3.png",
+      "width": 1605,
+      "bytes": 1880823,
+      "sha256": "184634066bbcea0904322cc9941ea7603d2dfcee0e2be368794e7e4dbf540bf9"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwddb72b96/JBL_PARTYBOX_STAGE_320_SENSATION_WHITE_TOP_064_x3.png",
+      "width": 1605,
+      "bytes": 2968268,
+      "sha256": "7f472786ece9bc58e09f4174b438866aae46e8f3324c07286afc833643329abe"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw83a69f2a/JBL_PARTYBOX_STAGE_320_SENSATION_WHITE_BOTTOM_067_x3.png",
+      "width": 1605,
+      "bytes": 2964461,
+      "sha256": "5e71fd083ae5194a34bf3fb3916507346544aedd79aa8b7722c6e15998631bf8"
+    },
+    {
+      "file": "produkt-09.png",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw31d6a173/JBL_PARTYBOX_STAGE_320_SENSATION_WHITE_BATTERY_058_x3.png",
+      "width": 1605,
+      "bytes": 4328232,
+      "sha256": "3f61b7b228c6646e8d785f5ea1ccb8f7bcbf7d747c75f12c4d3e1014951661ff"
+    },
+    {
+      "file": "produkt-10.png",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw0c5e465a/JBL_PARTYBOX_STAGE_320_SENSATION_WHITE_WHEEL_063_x3.png",
+      "width": 1605,
+      "bytes": 3844720,
+      "sha256": "e418fffaca2bb4a959655df1eaba5fc2f97148a1b3836bf71a7cea7ee75b45d1"
+    },
+    {
+      "file": "produkt-11.png",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwe19e87b6/JBL_PARTYBOX_STAGE_320_SENSATION_WHITE_DETAIL_050_x3.png",
+      "width": 1605,
+      "bytes": 1443130,
+      "sha256": "998b1039a26b646766272e6ab7c20a06d836df9376c88d8d3b9d1f24069a135f"
+    },
+    {
+      "file": "logo-jbl.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:jbl logo.png",
+      "width": 325,
+      "bytes": 12648,
+      "sha256": "973025b4432196fa0432df2fc2aeeee613a0e8c119d184bfc253c52886591813"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

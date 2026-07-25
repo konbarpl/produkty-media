@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25T00:00:00.000Z",
+  "sourcePage": "https://pl.jbl.com/PARTYBOX-720-NO-BATTERY.html",
+  "slug": "jbl-partybox-720",
+  "ean": "5906063251449",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "logo-jbl.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:Power Audio JBL PartyBox 720 (2).png",
+      "width": 1080,
+      "bytes": 1544469,
+      "sha256": "98b066bfdb4b723446c02e58d7aabc05b78afe3583abe30888330d6d3b452ab9"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw2c0ae54c/LS_JBL_PARTYBOX_720_HERO_0041_x2.png",
+      "width": 1605,
+      "bytes": 1804153,
+      "sha256": "5a885d5fc30e3c327b59ecd8a9bd73e974ecc1b7519510d3db55bc3c3b502140"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw16833a82/LS_JBL_PARTYBOX_720_BACK_0034_x2.png",
+      "width": 1605,
+      "bytes": 997004,
+      "sha256": "71ac27e5ad1ae8dabf63380021feba081b527b1964dc6bd004a1faf224ff5cff"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw8490db63/LS_JBL_PARTYBOX_720_LEFT_0085_x2.png",
+      "width": 1605,
+      "bytes": 1375349,
+      "sha256": "02a9f6a43ea7eef33f374b41bf9225b64a611f263d1712717e35d4b88dd5f403"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb176e177/LS_JBL_PARTYBOX_720_TOP_0113_x1.png",
+      "width": 1605,
+      "bytes": 3808796,
+      "sha256": "58559c178663b0652575b8a8bb6c51c3ddcee016289f74544cb23dd07a6f4816"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw83987771/LS_JBL_PARTYBOX_720_CONNECTIONS_OPEN_0059_x2.png",
+      "width": 1605,
+      "bytes": 2173354,
+      "sha256": "6b61ab2a77477e709ba5ed2d8db541097973158a018c9f7b5b45bc3051ca71f1"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw2b889e83/LS_JBL_PARTYBOX_720_BATTERY_0064_x2.png",
+      "width": 1605,
+      "bytes": 1902363,
+      "sha256": "81451e1fd7e7f1bc51957e876bcc664693bf0a07e7b368b4965a52a76140ef6b"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwbeb8c74c/LS_JBL_Partybox_720_Black_Box_Image_SKU_1605x1605px.png",
+      "width": 1605,
+      "bytes": 2402714,
+      "sha256": "9cf1e97ccc99af93f1138805f1d62fd025c0a1d334fa3952a501bb418067ed54"
+    },
+    {
+      "file": "logo-jbl.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:jbl logo.png",
+      "width": 325,
+      "bytes": 12648,
+      "sha256": "973025b4432196fa0432df2fc2aeeee613a0e8c119d184bfc253c52886591813"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

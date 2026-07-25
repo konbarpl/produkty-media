@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25T00:00:00.000Z",
+  "sourcePage": "https://pl.jbl.com/PARTYBOX-ON-THE-GO-2-1M.html",
+  "slug": "jbl-partybox-on-the-go-2",
+  "ean": "5906063251463",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "produkt-09.png",
+    "logo-jbl.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:JBL PartyBox One The Go 2.png",
+      "width": 1080,
+      "bytes": 1064336,
+      "sha256": "d90fea23547a7ec1f9c4a6dfacb95eaa67ee3070e53d4bfff29fc1930a51a983"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw368bfb0f/LS_JBL_PARTYBOX_ON_THE_GO_2_FRONT_0038_x2.png",
+      "width": 1605,
+      "bytes": 2114831,
+      "sha256": "f448ae01773bc807a5839481ba27930169add41e10b89d1138859e52ed85c7cf"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw2d7098e1/LS_JBL_PARTYBOX_ON_THE_GO_2_BACK_0051_x2.png",
+      "width": 1605,
+      "bytes": 1554707,
+      "sha256": "169ca517985046a2222249e443a0c4ed915364aad9f123386cd0e08222b5c02d"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw46904e98/LS_JBL_PARTYBOX_ON_THE_GO_2_3_4_RIGHT_0086_x3.png",
+      "width": 1605,
+      "bytes": 1845208,
+      "sha256": "f804b459ac41cdf4705111915e532065b698e9db82459f369b096205a86de640"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5ec43802/LS_JBL_PARTYBOX_ON_THE_GO_2_RIGHT_0064_x1.png",
+      "width": 1605,
+      "bytes": 2639926,
+      "sha256": "2930739c71a81d3a7b11d8251eb84dae44eea71597562b2da42654d5250168d5"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw0e042fb4/LS_JBL_PARTYBOX_ON_THE_GO_2_TOP_0100_x2.png",
+      "width": 1605,
+      "bytes": 1335295,
+      "sha256": "a13997de00f13363ee2e7c1064301885bddab6dab371294ba4ca9dbf80e6ee62"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw2823be8c/LS_JBL_PARTYBOX_ON_THE_GO_2_BOTTOM_0101_x2.png",
+      "width": 1605,
+      "bytes": 1595563,
+      "sha256": "d1fdc897860f9b09757e3501b4b597a6307c3de971ddb884fc1a88421b253ccc"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc5b78d40/LS_JBL_PARTYBOX_ON_THE_GO_2_DETAIL_3_0073_x1.png",
+      "width": 1605,
+      "bytes": 2125503,
+      "sha256": "30f0d0645f8833cd058cf0e3061be80e28c26cbd1fb949745760ba187dc59b05"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwf9c8605c/LS_JBL_PARTYBOX_ON_THE_GO_2_MIC_2_0095_x2.png",
+      "width": 1605,
+      "bytes": 979781,
+      "sha256": "b98a9199575e1aa35a1ffbf4fea87ab90eeb7fc684d7af34be9df2f2f2ab9764"
+    },
+    {
+      "file": "produkt-09.png",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw815d9690/LS_JBL_PARTYBOX_ON_THE_GO_2_ACC_0105_x2.png",
+      "width": 1605,
+      "bytes": 1096436,
+      "sha256": "0cb36ca5c4f3177620eb74920aca34b87e80b8b02f89a04af50e881a4655bdc2"
+    },
+    {
+      "file": "logo-jbl.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:jbl logo.png",
+      "width": 325,
+      "bytes": 12648,
+      "sha256": "973025b4432196fa0432df2fc2aeeee613a0e8c119d184bfc253c52886591813"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

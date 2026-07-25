@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25T00:00:00.000Z",
+  "sourcePage": "https://pl.jbl.com/PARTYCOVER-ENCORE2.html",
+  "slug": "jbl-partycover-encore-2",
+  "ean": "5906063255164",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "logo-jbl.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:Etui na głośnik JBL do JBL PartyBox Encore 2.png",
+      "width": 1080,
+      "bytes": 650356,
+      "sha256": "7b2f1c3d395906c02956e18d46fb7b9d7142298386d442e5d9115576e839eaf8"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw3dd2c9da/LS_JBL_PARTYCOVER_ENCORE_HERO_V2_009.png",
+      "width": 1605,
+      "bytes": 2383827,
+      "sha256": "25defc88ca9ea4f139d668e223a1515b099499ac1faa31344f0a66e1f2d5282b"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw673e413d/LS_JBL_PARTYCOVER_ENCORE_HERO_006.png",
+      "width": 1605,
+      "bytes": 2398381,
+      "sha256": "1b6d0d6aaf2400b98227a1f33820b4154fc8371b420fb221dc023589937efaaf"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw104e2347/LS_JBL_PARTYCOVER_ENCORE_BACK_019.png",
+      "width": 1605,
+      "bytes": 2808282,
+      "sha256": "c564ffe5e0476719454e689ea8d0a758c508a067a0819bad9f201de7df4ee782"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwf7d964cc/LS_JBL_PARTYCOVER_ENCORE_BACK_V2_018.png",
+      "width": 1605,
+      "bytes": 2739110,
+      "sha256": "3bc005faca325c8cf23e29d2e21f50fae354321f048de66153c1f38655b82822"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwacb4f012/LS_JBL_PARTYCOVER_ENCORE_DETAIL_023.png",
+      "width": 1605,
+      "bytes": 2748567,
+      "sha256": "fd4bf6d971fcfa0a1c3eff85cd74f8406448033af49512ab254954205f9bc2b0"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw94dcd635/LS_JBL_PARTYCOVER_ENCORE_FOLD_027.png",
+      "width": 1605,
+      "bytes": 1894981,
+      "sha256": "04ba77b93a8a38f0dd503566e08ef4777bfea2a561890ce48e5b001d7064fbda"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw501aae71/JBL_PartyCover_Encore_2_Box_Image_SKU_1605x1605px.png",
+      "width": 1605,
+      "bytes": 1660759,
+      "sha256": "bb2d9f3ddf220a423c681f188e4ca829e9c16e30e868d29d3c838a5642f93d08"
+    },
+    {
+      "file": "logo-jbl.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:jbl logo.png",
+      "width": 325,
+      "bytes": 12648,
+      "sha256": "973025b4432196fa0432df2fc2aeeee613a0e8c119d184bfc253c52886591813"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

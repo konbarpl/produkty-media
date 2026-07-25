@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25T00:00:00.000Z",
+  "sourcePage": "https://pl.jbl.com/BATTERY400-CHARGING-CASE.html",
+  "slug": "jbl-battery-400-etui",
+  "ean": "5906063262698",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "logo-jbl.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:Akumulator JBL Battery 400 z ładowarką (2).png",
+      "width": 1080,
+      "bytes": 846947,
+      "sha256": "e6f1990e54880d8b440080118e86d3b4a809c3953d2c0294165e1efd2cc2a535"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw1dafa3d9/LS_JBL_Battery_400_with_Charging_Case_Hero_1605x1605px.png",
+      "width": 1605,
+      "bytes": 2055406,
+      "sha256": "992580ab8f76dcb3209fe731bfaa9fbe04cf78847c22a208f6fc9e9789158e65"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw63b5b125/LS_JBL_Battery_400_with_Charging_Case_Front_1605x1605px.png",
+      "width": 1605,
+      "bytes": 2154471,
+      "sha256": "6f7535887b1e602aacb3d1e6677f60783f77a6ea41ae9ec173ca13651404c37d"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw1c1448cf/LS_JBL_Battery_400_with_Charging_Case_Back_1605x1605px.png",
+      "width": 1605,
+      "bytes": 2933341,
+      "sha256": "bb082b9634bbbcd0cbbafeadf569e78a938ad9acedf2ad6dcc4664494683a328"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw7c312b3b/LS_JBL_Battery_400_with_Charging_Case_Left_1605x1605px.png",
+      "width": 1605,
+      "bytes": 1600838,
+      "sha256": "3d0fff9b9d50d56c030f015d8d82b5da44020c74a815cb2a2bf4f2f8e8377f79"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwd5ebb414/LS_JBL_Battery_400_with_Charging_Case_Box_Image_SKU_1605x1605px.png",
+      "width": 1605,
+      "bytes": 1808413,
+      "sha256": "63ec667e8bcc02225b54cfcd61929dde019fc710161458d95feda13b626e7e9a"
+    },
+    {
+      "file": "logo-jbl.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:jbl logo.png",
+      "width": 325,
+      "bytes": 12648,
+      "sha256": "973025b4432196fa0432df2fc2aeeee613a0e8c119d184bfc253c52886591813"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

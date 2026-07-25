@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25T00:00:00.000Z",
+  "sourcePage": "https://pl.jbl.com/PARTYCOVER-520.html",
+  "slug": "jbl-partycover-520",
+  "ean": "5906063262711",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "logo-jbl.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:JBL Pokrowiec PartyCover 520.png",
+      "width": 1080,
+      "bytes": 912417,
+      "sha256": "edbbf3106d5392ca1afed50b7be9e63f883577a52ae45c6e5bfd00746c601b87"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6a644aa9/LS_JBL_PARTYCOVER_520_HERO_REVERSE_0070_x1.png",
+      "width": 1605,
+      "bytes": 1398889,
+      "sha256": "43021d841a0634f899343435d7447b71cb4f4b51180750216c5188ba7e4a9c30"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw2b8e6187/LS_JBL_PARTYCOVER_520_ROLL_0046_x1.png",
+      "width": 1605,
+      "bytes": 1303161,
+      "sha256": "771cf3ce4dd5aa718f67e2f4f2bba9147ee0820af7e8a6126191c4555ff64cad"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb456e437/LS_JBL_PARTYCOVER_520_BACK_0026_x1.png",
+      "width": 1605,
+      "bytes": 1493127,
+      "sha256": "f865389a0000ed9c3bf7456c260a327871a41d148d3949b84f0abeb42e2ab1cc"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc7ba0846/LS_JBL_PARTYCOVER_520_STRETCH_0040_x1.png",
+      "width": 1605,
+      "bytes": 2235266,
+      "sha256": "72c0eaa60bfb208a33ee1a771a6d9c1299d74d8be83fc533d2d4f8b3ee2e0c2e"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwdd77b3c0/LS_JBL_PARTYCOVER_520_FABRIC_0018_x1.png",
+      "width": 1605,
+      "bytes": 1876078,
+      "sha256": "6922a258e37b1f857d8ba53651e4879b0b2d474d663cf690ab0e3e1bffba7485"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwf472edb9/LS_JBL_PARTYCOVER_520_BACK_UNZIP_0029_x1.png",
+      "width": 1605,
+      "bytes": 1476435,
+      "sha256": "b5e5cd633131be3c66a0b7481a73fb6aa02607982d8f8ac5ae81df7195e63c30"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfc375076/JBL_PartyCover_520_Box_Image_SKU_1605x1605px.png",
+      "width": 1605,
+      "bytes": 1092847,
+      "sha256": "396c9f360f33a4617150326156a0d20864fc2287277bef68017304d34a9526b2"
+    },
+    {
+      "file": "logo-jbl.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:jbl logo.png",
+      "width": 325,
+      "bytes": 12648,
+      "sha256": "973025b4432196fa0432df2fc2aeeee613a0e8c119d184bfc253c52886591813"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

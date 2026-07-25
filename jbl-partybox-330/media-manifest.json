@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25T00:00:00.000Z",
+  "sourcePage": "https://pl.jbl.com/PARTYBOX-330.html",
+  "slug": "jbl-partybox-330",
+  "ean": "5906063251425",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "produkt-09.png",
+    "produkt-10.png",
+    "logo-jbl.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:JBL PartyBox 330 (2).png",
+      "width": 1080,
+      "bytes": 1093416,
+      "sha256": "b38fef405dacd0e57c82dd0c73c74e7aa94341b3a72fa516bef06603c32214f0"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw34cb4153/LS_JBL_PARTYBOX_330_HERO_1_BLACK_0009_x6.png",
+      "width": 1605,
+      "bytes": 2211359,
+      "sha256": "43c7cfbea7a3ea6592e4884bcbd11732bc51c80ad72e77558c94c916ea0691bb"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw4d62fd42/LS_JBL_PARTYBOX_330_HERO_2_BLACK_0014_x8.png",
+      "width": 1605,
+      "bytes": 1562993,
+      "sha256": "764bc54e35e330b8a2711f5b3e67f8ed48503acbca85e412459cdd8627fe4256"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwe2e26f8d/LS_JBL_PARTYBOX_330_FRONT_BLACK_0032_x5.png",
+      "width": 1605,
+      "bytes": 2154054,
+      "sha256": "abb20b9ba92ca3140a356f526d2a14934d5610440f8d7ae7639f42088619fc0e"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw9c341abc/LS_JBL_PARTYBOX_330_TOP_BLACK_0139_x5.png",
+      "width": 1605,
+      "bytes": 2277924,
+      "sha256": "95bf2c17c5c4391365616169899354d98d62dfb1974530dcbb12afed5c70021f"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw7ee8f119/LS_JBL_PARTYBOX_330_BOTTOM_BLACK_0144_x2.png",
+      "width": 1605,
+      "bytes": 3068649,
+      "sha256": "2ef43120548fe7e7db8cfca1b9a51e1e2255492e20e3fbcf43b853a25436c4de"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw50f1dd77/LS_JBL_PARTYBOX_330_CONNECTION_BLACK_0096_x4.png",
+      "width": 1605,
+      "bytes": 3486972,
+      "sha256": "f40f1c3ddf40347bb248e26d7a8910979590095547d9308a4b6c3e2b7b0e35fd"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb4c80038/LS_JBL_PARTYBOX_330_BATTERY_BLACK_0087_x3.png",
+      "width": 1605,
+      "bytes": 3075956,
+      "sha256": "f4bf2cf5c79aa7b9eaa9e4bb5cf7bffc8eb5b1f0697356c7c1de4c771528c42b"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw12b85656/LS_JBL_PARTYBOX_330_WHEEL_BLACK_0106_x2.png",
+      "width": 1605,
+      "bytes": 2831448,
+      "sha256": "01d33fffe424be24534057a8f7395b5aeed96e189f5356466d0a5243d5578569"
+    },
+    {
+      "file": "produkt-09.png",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwf29e1d80/LS_JBL_PARTYBOX_330_DETAIL_BLACK_0060_x6.png",
+      "width": 1605,
+      "bytes": 803936,
+      "sha256": "dcb74472155de25e51656b70634d7c752d64c377fde3719fc7dc6e48873b4014"
+    },
+    {
+      "file": "produkt-10.png",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw14165dd8/JBL_PartyBox_330_Box_Image_Black_SKU.png",
+      "width": 1605,
+      "bytes": 2082530,
+      "sha256": "c8b060baf2d3b415743e4b86a4bccef03bd6789a47aa4bdbd7ac76485b61fdcf"
+    },
+    {
+      "file": "logo-jbl.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:jbl logo.png",
+      "width": 325,
+      "bytes": 12648,
+      "sha256": "973025b4432196fa0432df2fc2aeeee613a0e8c119d184bfc253c52886591813"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

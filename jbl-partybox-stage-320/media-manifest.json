@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25T00:00:00.000Z",
+  "sourcePage": "https://pl.jbl.com/PARTYBOX-STAGE-320.html",
+  "slug": "jbl-partybox-stage-320",
+  "ean": "5906063251401",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "produkt-09.png",
+    "produkt-10.png",
+    "produkt-11.png",
+    "produkt-12.png",
+    "logo-jbl.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:JBL PartyBox Stage 320.png",
+      "width": 1080,
+      "bytes": 1431014,
+      "sha256": "68714b3372a08a8ea0584653f1fab83ea4ee0e81f1872a42822b56b6bff2468a"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw50dbd030/JBL_PARTYBOX_STAGE_320_HERO_1_48055_x3.png",
+      "width": 1605,
+      "bytes": 1905754,
+      "sha256": "6c21b143b66a6085dfe0bd5775a7b3d70522eb57e7c1a55f487684b1819f8773"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb1e08d62/JBL_PARTYBOX_STAGE_320_HERO_2_47988_x3.png",
+      "width": 1605,
+      "bytes": 1116472,
+      "sha256": "6182c52e40aa10cd1392bf4df7a8ae0ca933b51e6699cf3ee0f358e338b9bd8a"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc2d3ee28/JBL_PARTYBOX_STAGE_320_FRONT_47941_x1.png",
+      "width": 1605,
+      "bytes": 2143697,
+      "sha256": "f09aa37ae9c851d61b16658696aeb5894e118788154e0dc96f0e84f9972cd810"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw770a9568/JBL_PARTYBOX_STAGE_320_BACK_47979_x1.png",
+      "width": 1605,
+      "bytes": 1333461,
+      "sha256": "6a9d358c7b0b8921ae22be3a8ed2e8fd24a0b52e8c8545db3cf0b0ac8150528d"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwab5a3d78/JBL_PARTYBOX_STAGE_320_LEFT_47973_x1.png",
+      "width": 1605,
+      "bytes": 1787874,
+      "sha256": "58d17f0ca74d736c27beedc89297905e7365f00204284fb2663d44446af843e9"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw28bc7209/JBL_PARTYBOX_STAGE_320_RIGHT_47971_x1.png",
+      "width": 1605,
+      "bytes": 1762130,
+      "sha256": "d58930760d77fd160cf4a9f15a0c700306af2cc342c6f97ccbda2e051cab27bd"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwae85a9b4/JBL_PARTYBOX_STAGE_320_TOP_48066_x1.png",
+      "width": 1605,
+      "bytes": 3625761,
+      "sha256": "d5298d7d4c3a477baf2f60a51ce2f8af18c19bb636b3edc06d771c242091e0a2"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw44a454db/JBL_PARTYBOX_STAGE_320_BOTTOM_48072_x1.png",
+      "width": 1605,
+      "bytes": 3598410,
+      "sha256": "504af77b70a39db4ae7c4bc79807883f70f5caa62d88a7404761e90fb30926e6"
+    },
+    {
+      "file": "produkt-09.png",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw0706b6af/JBL_PARTYBOX_STAGE_320_CONNECTIONS_OPEN_47980_x1.png",
+      "width": 1605,
+      "bytes": 3894954,
+      "sha256": "beb05c20cab573a9c1d3cfb392b020525f3d43a29156f95631c4162cfa07132b"
+    },
+    {
+      "file": "produkt-10.png",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw0e797c05/JBL_PARTYBOX_STAGE_320_BATTERY_47983_x1.png",
+      "width": 1605,
+      "bytes": 3580486,
+      "sha256": "fcaff08fd8229331e68f5e5c50e15767d6025cc31ccbfc66257179aca895bcd6"
+    },
+    {
+      "file": "produkt-11.png",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw39a2068a/JBL_PARTYBOX_STAGE_320_WHEEL_48062_x1.png",
+      "width": 1605,
+      "bytes": 4139856,
+      "sha256": "c7dcef95f7670971de7ba315cc54efc8067de38fc1a0c6a0e9faa6ea2ad8efd8"
+    },
+    {
+      "file": "produkt-12.png",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://pl.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwd8672159/JBL_Partybox_Stage_320_Box_Image_Sideview_SKU_1605x1605px.png",
+      "width": 1605,
+      "bytes": 2629447,
+      "sha256": "7733c2680a275ddc52c18cbbb18b46f6e163b533f52be652f2bb309890108cd7"
+    },
+    {
+      "file": "logo-jbl.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:jbl logo.png",
+      "width": 325,
+      "bytes": 12648,
+      "sha256": "973025b4432196fa0432df2fc2aeeee613a0e8c119d184bfc253c52886591813"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}
