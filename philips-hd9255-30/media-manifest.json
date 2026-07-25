@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25",
+  "sourcePage": "https://www.ceneo.pl/",
+  "slug": "philips-hd9255-30",
+  "kod": "HD9255_30",
+  "ean": "5906063250732",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:HD9255_30.png",
+      "width": 1080,
+      "bytes": 241244,
+      "sha256": "1c074dd2fb887e86f0c2efb4679ecacd5853cbef1ef5f2a3079ceb6ba5feacef"
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/f057d1a8-d3f0-40f9-a9fb-c2d972447410/KA_2024_HD9255_30_RFT_1x1_sk_SK.webp",
+      "width": 2048,
+      "bytes": 208965,
+      "sha256": "3a5469979de9b21cb54fff9edb3490c404473d4c7adcc4548a6010b7f802f092"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/cf1bda5a-d27e-40a0-8cda-4199777398c1/HD9255-30-Fries-PUP-RGB.webp",
+      "width": 2048,
+      "bytes": 201873,
+      "sha256": "acd385ec25cd3c1abad40bfea84720f01acb7ad4e4b5a5bf67f637d8a5a2f6eb"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/fa324589-31e3-427a-9ef2-3fb2d333cdc6/HD9255-30-F-RGB.webp",
+      "width": 2048,
+      "bytes": 149525,
+      "sha256": "3990dd8d4b77d21022bacd614430a2489edbe1f160c63d859d2f0a8ac042c72e"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/140973099/i-philips-ovi-mini-hd9255-30.jpg",
+      "width": 1331,
+      "bytes": 94016,
+      "sha256": "e066f73fa01ad516dcc8246059c2e97149221fcd69a9df36f49c7d8f6ba0ec94"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/140973099/686a1082-6248-411e-be3f-860dc3013c23_i-philips-ovi-mini-hd9255-30.jpg",
+      "width": 1250,
+      "bytes": 105595,
+      "sha256": "f820e482a61cbc54d006aa9a448f2c0044af0aae3b0d104ee3b8ccc0a83a0a17"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/140973099/7a2204e2-8ea9-40f0-9680-7780cb4f68b4_i-philips-ovi-mini-hd9255-30.jpg",
+      "width": 1250,
+      "bytes": 108305,
+      "sha256": "85511d64a17cb9b6d7de40bc96877f71024ba9b70f299165d45d68acfd05e5e2"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:Philips_logo małe1.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

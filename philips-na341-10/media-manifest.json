@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25",
+  "sourcePage": "https://www.ceneo.pl/",
+  "slug": "philips-na341-10",
+  "kod": "NA341_10",
+  "ean": "5906063250848",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:NA341_10.png",
+      "width": 1080,
+      "bytes": 513374,
+      "sha256": "025331bd9814124e1dcd99571caf4f078003bc66c053fd5b2a03cd1d383cbc41"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_156683215",
+      "width": 1500,
+      "bytes": 886900,
+      "sha256": "21f2ef44811189d313c51ad08b0617ac988562d6432b9b997603ee1a752ee227"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_156683218",
+      "width": 1500,
+      "bytes": 980206,
+      "sha256": "f3836f2cb1ac62dc93d434d9b834dd996f70d8cef12e66014167acc485b7abcc"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_156683221",
+      "width": 1500,
+      "bytes": 765273,
+      "sha256": "0c8a9783eccabc658d206d1b688ad1cec64bd328860bffc697e803266d6a7be1"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_157976418",
+      "width": 1500,
+      "bytes": 791674,
+      "sha256": "daf2c90ac27937f19a6e52eeb1af38f4238c6bbbbae865fc47ba4d974fa31065"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/183481395/i-philips-3000-series-ovi-xl-na341-10.jpg",
+      "width": 1318,
+      "bytes": 124519,
+      "sha256": "0960b75b90ed3195674f803a12419a95ec15356c8179bc0d8e1111f387536d69"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/183481395/e73568e9-4789-4afa-9b76-0a9c059bbcad_i-philips-3000-series-ovi-xl-na341-10.jpg",
+      "width": 1500,
+      "bytes": 140739,
+      "sha256": "ba45cde84af1a2a3a92298bd2f2bc987f094975f00227e9eeabdfaeae91b5815"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:Philips_logo małe1.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

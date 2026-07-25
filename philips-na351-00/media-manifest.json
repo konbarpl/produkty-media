@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25",
+  "sourcePage": "https://www.ceneo.pl/",
+  "slug": "philips-na351-00",
+  "kod": "NA351_00",
+  "ean": "5906063250770",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:NA351_00.png",
+      "width": 1080,
+      "bytes": 293330,
+      "sha256": "cfa783791500220118dd2977ea6adc24c9f8a012178908a7f04ee9ddbef69b3c"
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/a77d3d69-316d-401e-9cdb-2feabd1a1147/RFT_NA351_00_16x9_SRGB.webp",
+      "width": 2048,
+      "bytes": 151797,
+      "sha256": "1402dfbab9151ca5cf74d001fa7590f44cd8983f9e30837885c69201a5eca5a8"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/d1b68c5e-3712-4b5d-9bcc-0174de02a06b/F-NA351_00_16x9.webp",
+      "width": 2048,
+      "bytes": 144590,
+      "sha256": "4474bd013d5417e48b3a3245e58c76574ba9c33e47da9239f8d5e958cf6f3baf"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/18053d7b-4985-46be-aa6b-ac5f6cc3d3ac/F6-NA351_00_16x9.webp",
+      "width": 2048,
+      "bytes": 244558,
+      "sha256": "5eb0b42d1f2b8d5f12fd22d87c7a80d344004ee86c54550c7df7c75981a21df5"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/8e83d6da-12f7-445d-9eb2-5a37aa59f34d/F3-NA351_00_16x9.webp",
+      "width": 2048,
+      "bytes": 277537,
+      "sha256": "42620c079c400fbc3b276adc12b61cfe1782a0e20c9e2f514d28390994e3d140"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/7190826e-2ab2-477c-98e8-cd76f17e7a18/APS-NA351_00_16x9.webp",
+      "width": 2048,
+      "bytes": 174165,
+      "sha256": "41df212cc199a1d1f1f463350c4bc8ab6f7f84cb7532d80ee2b6f8ca25b85c2c"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_165742053",
+      "width": 1200,
+      "bytes": 157130,
+      "sha256": "b2bb5e9fac3af3539e796174e15b8138b9bba1e150383cc1352af9d41e6f50e0"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_166203603",
+      "width": 1200,
+      "bytes": 500389,
+      "sha256": "8af715a28ad1af3624bd5e787620690cef02addd6c9dd3aae85b28c728927c07"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_166203604",
+      "width": 1200,
+      "bytes": 545809,
+      "sha256": "ca4d5cab84424dff6e92cb38576506187f7b3115633bd7baf18273b1ba394a95"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/168392941/6b16f972-6a5b-4bcf-a512-7d6a382f5972_i-philips-series-3000-ovi-dual-airfryer-na351-00.jpg",
+      "width": 600,
+      "bytes": 20347,
+      "sha256": "5bb6fdac7f797dafb1ba3e503186801ebb881cc50564f6b7411ccb511efb557f"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/168392941/be373f7a-06f1-4fe4-b567-4fe9e832c85a_i-philips-series-3000-ovi-dual-airfryer-na351-00.jpg",
+      "width": 600,
+      "bytes": 16953,
+      "sha256": "08e7680bfca35e13ff76793b8d50ee18accf8d35e5bd5934fb6785ec7d83d6cb"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:Philips_logo małe1.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 1,
+  "problemy": [
+    "produkt: 92941/i-philips-series-3000-ovi-dual-airfryer-na351-00.jpg — 532 px"
+  ]
+}

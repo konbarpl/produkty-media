@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25",
+  "sourcePage": "https://www.ceneo.pl/",
+  "slug": "philips-na353-10",
+  "kod": "NA353_10",
+  "ean": "5906063250800",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:NA353_10.png",
+      "width": 1080,
+      "bytes": 242965,
+      "sha256": "cdf7bb08f3fe2b96e3ec1fd1397600fb227c682c9ee419eff90fe18ed782af89"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_174435357",
+      "width": 1200,
+      "bytes": 119183,
+      "sha256": "6d365954da7c743c6f50951cac29066724e7c479b0b9bbd52815a4955bb861dd"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_174435358",
+      "width": 1200,
+      "bytes": 183430,
+      "sha256": "3d09f27a8d5fd7f10b2f4df9eb7c1826c63ab83a1e036217e302026d7b953584"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_174435359",
+      "width": 1200,
+      "bytes": 188808,
+      "sha256": "cafafc17d6c88f029a5891885ed93852b6a4278d1d8fc6b12ce5da9eab119fd6"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_173226679",
+      "width": 1000,
+      "bytes": 113422,
+      "sha256": "df0026e7e121fb50e6a11b54aa88fffe2ff3bc6a8b0693bcfe9f284b399248f0"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/181998624/i-philips-series-3000-ovi-dual-basket-na353-10.jpg",
+      "width": 2240,
+      "bytes": 194712,
+      "sha256": "b1709c78bb7f2218222cf7f570d1aae333053cc96fa436725b7fa60b4a267a88"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/181998624/643ad742-ee76-412a-af79-c888bf64e275_i-philips-series-3000-ovi-dual-basket-na353-10.jpg",
+      "width": 966,
+      "bytes": 45437,
+      "sha256": "b9edda474fd2999ce88390d77902937b76f75e6f00bea97a86b85e8e5acc30bb"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/181998624/3f713ba4-2fb9-44da-b0d0-8621dfdf85e5_i-philips-series-3000-ovi-dual-basket-na353-10.jpg",
+      "width": 1059,
+      "bytes": 32483,
+      "sha256": "c28d384e29991de918f70146e1882eefa514400659a18fae01d8f1c780c65bbc"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:Philips_logo małe1.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

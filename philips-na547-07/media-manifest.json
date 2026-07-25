@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25",
+  "sourcePage": "https://www.ceneo.pl/",
+  "slug": "philips-na547-07",
+  "kod": "NA547_07",
+  "ean": "5906063250701",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:NA547_07.png",
+      "width": 1080,
+      "bytes": 547473,
+      "sha256": "b3203d89fc7ef70d0041d7867e07bbbaa9f84fc76b273644cdd9c318edad342c"
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/192074607/i-philips-ovi-seria-5000-z-para-7-2-l-airfryer-na547-07.jpg",
+      "width": 2164,
+      "bytes": 328875,
+      "sha256": "6a2af883630a897c1130a41db4900d1b1d5ec5ef723a471a355cbdd78493f5a1"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/192074607/762860bf-4e05-49e6-aba3-f50721a9ab87_i-philips-ovi-seria-5000-z-para-7-2-l-airfryer-na547-07.jpg",
+      "width": 2400,
+      "bytes": 500717,
+      "sha256": "7e727340573030ec924a24ae1dedcb675d5aac6b4458b4523cb8424e0b2a73de"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/192074607/7dd2065e-c40d-47ed-8ad5-6a8ebedc5cc5_i-philips-ovi-seria-5000-z-para-7-2-l-airfryer-na547-07.jpg",
+      "width": 2060,
+      "bytes": 291437,
+      "sha256": "90e2db8ad163555dee88a4aae9cb85819b6fc948239ca9f5c2bc9c80660c497d"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/192074607/879b6498-cc51-4050-8f52-d51d515de8db_i-philips-ovi-seria-5000-z-para-7-2-l-airfryer-na547-07.jpg",
+      "width": 2312,
+      "bytes": 505475,
+      "sha256": "5954339567db94882e7ba8df438c50618ef836a024c0cc30d5d0cf1b22dc15a8"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/192074607/fb0a68f0-579b-4e7c-bf43-b3a9e0c5353f_i-philips-ovi-seria-5000-z-para-7-2-l-airfryer-na547-07.jpg",
+      "width": 2400,
+      "bytes": 505809,
+      "sha256": "b20e23a7abe133320c40f9cc7cae46e3762f8f7d594b38b0e0f0d05886befe3f"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/192074607/28d145dd-4cc6-4ee3-9833-3d7f2cd02a34_i-philips-ovi-seria-5000-z-para-7-2-l-airfryer-na547-07.jpg",
+      "width": 2400,
+      "bytes": 470045,
+      "sha256": "d51381d6afcd2b722cf55aae91ec57e4b8176cddeaec361a7286b9da8e350b0b"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/192074607/3d2bb5eb-a668-4d06-aaa1-4047ef67f9fd_i-philips-ovi-seria-5000-z-para-7-2-l-airfryer-na547-07.jpg",
+      "width": 2232,
+      "bytes": 347478,
+      "sha256": "b317edf384fdab709904ea518891ba48310a5125c39edade1142058b1b724f7d"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:Philips_logo małe1.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

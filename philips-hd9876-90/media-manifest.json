@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25",
+  "sourcePage": "https://www.ceneo.pl/",
+  "slug": "philips-hd9876-90",
+  "kod": "HD9876_90",
+  "ean": "5906063250794",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/171180917/i-philips-ovi-smart-xxl-hd9876-90.jpg",
+      "width": 2291,
+      "bytes": 189429,
+      "sha256": "6c4216b59d2ab78cd7d011769df83ae2b6ef7f5ba119fa335d02da12f11cd24f"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/171180917/8e6aab22-4c26-4e8b-91ac-4840e30671b8_i-philips-ovi-smart-xxl-hd9876-90.jpg",
+      "width": 1133,
+      "bytes": 94066,
+      "sha256": "e2ae32ef5f3cfcd0f6aab1db7dbfa5967fae7467ba7edf670d24857242654f99"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/171180917/610f24f9-d004-43e1-914a-2e2af6fd8ca8_i-philips-ovi-smart-xxl-hd9876-90.jpg",
+      "width": 1300,
+      "bytes": 182675,
+      "sha256": "93da565031441bddcc0eb1cc971f300596f517fb6201cce07d99214e30a610a3"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:Philips_logo małe1.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 1,
+  "problemy": [
+    "BRAK MINIATURKI — do zrobienia przez Konrada (pierwsze zdjecie = zdjecie produktowe)"
+  ]
+}

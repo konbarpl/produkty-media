@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25",
+  "sourcePage": "https://www.ceneo.pl/",
+  "slug": "philips-hd9270-00",
+  "kod": "HD9270_00",
+  "ean": "5906063250749",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:HD9270_00.png",
+      "width": 1080,
+      "bytes": 442878,
+      "sha256": "fa38a8f8a007ff103d5d8fcea6709936b9279f0384f3e3ab67cc956fd3187e6a"
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/e109337c-e898-4816-b7c7-0e9cd27bd2db/Standard-Product-Photo-Philips-Essential-Airfryer-XL-HD9270.webp",
+      "width": 2048,
+      "bytes": 128060,
+      "sha256": "79c36e3149295541eaf917df6ff21f8223ae761f195f56459c4d8aaebe02f0ad"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/66f15cb7-0efc-489d-83fe-4260f2b85e0e/Alternative-Product-Photograph-Philips-Essential-Airfryer-XL-HD9270.webp",
+      "width": 2048,
+      "bytes": 201606,
+      "sha256": "bb7d6733fef53e46f3da6c3f9e281569a682943cdfe2948bb424d42798b308b3"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/a322d554-7e3d-4fb6-b3ce-4cda667ce8f2/Front-Product-Photo-Philips-Essential-Airfryer-XL-HD9270.webp",
+      "width": 2048,
+      "bytes": 111795,
+      "sha256": "b7656bbf63d63cf3754cd6ecb0e40505256924e54d8c385b2de5b7f988118a57"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/140971430/i-philips-ovi-xl-hd9270-00.jpg",
+      "width": 1449,
+      "bytes": 92857,
+      "sha256": "bf28c468addb68c8630440bd942e252765cca8c5e8fae7f6d64c8ac5e8a3b155"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:Philips_logo małe1.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 2,
+  "problemy": [
+    "produkt: fd1e-4a64-8f32-12067d5227d2_i-philips-ovi-xl-hd9270-00.jpg — 505 px",
+    "produkt: 420b-464c-bf01-5590a0db8b61_i-philips-ovi-xl-hd9270-00.jpg — 449 px"
+  ]
+}

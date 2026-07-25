@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25",
+  "sourcePage": "https://www.ceneo.pl/",
+  "slug": "philips-hd9876-20",
+  "kod": "HD9876_20",
+  "ean": "5906063250831",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:HD9876_20.png",
+      "width": 1080,
+      "bytes": 201815,
+      "sha256": "1155a4bd1d3552a53ea9c7737825f110730ae03080ce3ef51d9c954858aefe68"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_174435689",
+      "width": 1200,
+      "bytes": 193061,
+      "sha256": "7f9ab2069e7f7bc2708c3104b8f8d018cd72b3ad712f0dcb73a64b372309414c"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/169771365/i-philips-ovi-smart-xxl-hd9876-20.jpg",
+      "width": 1012,
+      "bytes": 81607,
+      "sha256": "b1ec034abec5e9a62600f30bb3a421283bdbd276f9bbbbb80ca2886bf4cf40e1"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/169771365/fdd0022e-7ba6-4ad7-a732-bc52be20b951_i-philips-ovi-smart-xxl-hd9876-20.jpg",
+      "width": 1500,
+      "bytes": 129265,
+      "sha256": "1c4dc03412ac86c56480c24b667152057e30ff6d7a29d72d6d1f1bf51ed93648"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/169771365/84f8d002-6c1b-4a01-b33e-f1f21e30a313_i-philips-ovi-smart-xxl-hd9876-20.jpg",
+      "width": 1424,
+      "bytes": 92202,
+      "sha256": "df60e629d4ca9ba240fbc77c284621cc7c8a55b17cafcb09ae903e65486ac6cf"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:Philips_logo małe1.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

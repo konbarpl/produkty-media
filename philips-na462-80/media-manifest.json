@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25",
+  "sourcePage": "https://www.ceneo.pl/",
+  "slug": "philips-na462-80",
+  "kod": "NA462_80",
+  "ean": "5906063250718",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.png",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:NA462_80.png",
+      "width": 1080,
+      "bytes": 363495,
+      "sha256": "5673415e0d48e06488ff6cd51970f12355bd6d84a70935bc41ea4e55a796ef7e"
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/b459c818-cd38-41f0-be1b-2750ebd4bc8c/KA_2025_NA462_80_RFT_1x1.webp",
+      "width": 2048,
+      "bytes": 212944,
+      "sha256": "60b0c2abe9215f806dd9c6cdb594cb57f73bd6ad0881e67c2cbab70276290be8"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/3a730f2e-736e-4556-9a8b-23cae3fb8ce9/KA_2025_NA462_80_A1_1x1.webp",
+      "width": 2048,
+      "bytes": 243930,
+      "sha256": "a7d899d47c67cf9225dd7944585458b9882089b918dfb54521864e5273bcf217"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_170844129",
+      "width": 2200,
+      "bytes": 932840,
+      "sha256": "837cb18c1b4f66f0263385dc2e2d0d4d245adfba2bbb40ef6626fcee59bf258c"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:Philips_logo małe1.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 2,
+  "problemy": [
+    "produkt: /i-philips-ovi-stacked-dual-basket-seria-4000-na462-80.jpg — 352 px",
+    "produkt: _i-philips-ovi-stacked-dual-basket-seria-4000-na462-80.jpg — 515 px"
+  ]
+}

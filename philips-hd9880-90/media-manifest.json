@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25",
+  "sourcePage": "https://www.ceneo.pl/",
+  "slug": "philips-hd9880-90",
+  "kod": "HD9880_90",
+  "ean": "5906063250763",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:HD9880_90.png",
+      "width": 1080,
+      "bytes": 299331,
+      "sha256": "590da3bb3de212fc2877d513813e68439c0a084811bbce5d7f27dc65156101b1"
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/333e0b53-29d7-427a-b810-619aef3bcb56/Primary-HD9880_90.webp",
+      "width": 2048,
+      "bytes": 230387,
+      "sha256": "9928041801851121441fadbcc3508c4ed0b82273a0e4ed69746b384ae8f914e3"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/7fe92ed2-f2e1-4d36-b652-c043a1ecdee6/A1-HD9880_90.webp",
+      "width": 2048,
+      "bytes": 252418,
+      "sha256": "5c59258fb0ebd9dd1ed16b3d83be80bc79a0128f5a41ad9a552ac54a5c30a914"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/50779ac1-1811-4015-b843-26873080450d/D1-HD9880_90.webp",
+      "width": 2048,
+      "bytes": 297005,
+      "sha256": "81edc8adf7ca4fadade266e97fb4332b84493d890435e76e0f9630d1ac41e6c9"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/dd3da2ea-c86a-4fcb-966e-e1408ce7bc79/D2-HD9880_90.webp",
+      "width": 2048,
+      "bytes": 309569,
+      "sha256": "c68d9aa0d891503194c9cd278e32c9b6b95b655a46610e01407ed0777b29f856"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/569922bc-640c-46e0-bce4-ba64c11e93d4/T3-HD9880_90.webp",
+      "width": 2048,
+      "bytes": 339515,
+      "sha256": "b66a24cc710f206e8ba2f7b617f5f61f1e0db7be2f56dcc8fc809d58289e626d"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/c2194dc4-528b-4f49-97e8-c1fa45ff6492/T1-HD9880_90.webp",
+      "width": 2048,
+      "bytes": 418561,
+      "sha256": "7f0f3c447b5a16f9976cce28df08ba959b3bb7c9e3baf01aa26863a8c69e69b7"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/157097123/i-philips-ovi-smart-2-0-xxl-hd9880-90.jpg",
+      "width": 1027,
+      "bytes": 94866,
+      "sha256": "7086e87850df97b6fc2ef65cc641ffaf4959e5482238aeaa21e8c198b948ec77"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/157097123/8728b44e-8eb3-48cd-a971-901b43278b76_i-philips-ovi-smart-2-0-xxl-hd9880-90.jpg",
+      "width": 1500,
+      "bytes": 128642,
+      "sha256": "582de36e905e98ece58eb62cb69e192fbdc8987157a39166fe49e4a97a2cebaa"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/157097123/002e2f85-9484-4756-a095-e2eadd133d92_i-philips-ovi-smart-2-0-xxl-hd9880-90.jpg",
+      "width": 1500,
+      "bytes": 173726,
+      "sha256": "702d00dd8cee26a5dcaf7ee007c8a13be2c950398f19814241745672c0283b13"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:Philips_logo małe1.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}
