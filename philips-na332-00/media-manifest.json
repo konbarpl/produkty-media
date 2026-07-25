@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25",
+  "sourcePage": "https://www.ceneo.pl/",
+  "slug": "philips-na332-00",
+  "kod": "NA332_00",
+  "ean": "5906063250817",
+  "galleryOrder": [
+    "miniatura-01.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "miniatura-01.png",
+      "kind": "miniatura",
+      "order": 1,
+      "sourceUrl": "local:NA332_00.png",
+      "width": 1080,
+      "bytes": 458013,
+      "sha256": "f3f455aaf8111167e32f8dfcebec57b1d7249cff4b5b1cc12d6e55536910f530"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_170844136",
+      "width": 2200,
+      "bytes": 1025368,
+      "sha256": "8403f361c88e2facc75233a061a46112566bb76b1bde80ecc109c35ad8b9c0ad"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_170844142",
+      "width": 2200,
+      "bytes": 1034693,
+      "sha256": "5de148ae4e3691d3a34027fb7e82113c53356cd320694aa7499756c10b08125e"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_170844143",
+      "width": 2200,
+      "bytes": 662769,
+      "sha256": "60b5965f9ce09a589e6d8e33e4c165f424a9a77469c96308640aa22bfb2ed499"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_179186503",
+      "width": 1500,
+      "bytes": 375661,
+      "sha256": "e36575cb8ff09ee00ba6a0d231400c473f4ebddf579527ebd1a97a2c3ccfa32d"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/176281545/i-philips-ovi-xl-seria-3000-na332-00.jpg",
+      "width": 1074,
+      "bytes": 112177,
+      "sha256": "1fcd548ff2298c12084dc73a5b92d3363932379af945d2b6acf85dcceb88d706"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/176281545/9e8db5f6-07fb-4d8a-81c8-ca2f1bc36c92_i-philips-ovi-xl-seria-3000-na332-00.jpg",
+      "width": 1500,
+      "bytes": 145719,
+      "sha256": "318ac2ff32c0ca0f80387d755937834008bc44457c82a0c12c9f6bda0d7b5356"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/176281545/3744d231-7f69-4c5e-8188-07322d62e96a_i-philips-ovi-xl-seria-3000-na332-00.jpg",
+      "width": 1177,
+      "bytes": 116262,
+      "sha256": "9b641ff3cb9370b8e52063ed661794efb4b04957aebb9e2936f0b29d6032e37c"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:Philips_logo małe1.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

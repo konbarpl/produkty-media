@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-25",
+  "sourcePage": "https://www.ceneo.pl/",
+  "slug": "philips-na460-00",
+  "kod": "NA460_00",
+  "ean": "5906063255157",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/190240995/i-philips-ovi-seria-4000-na460-00.jpg",
+      "width": 670,
+      "bytes": 51723,
+      "sha256": "4aed223fd5471764a3bbe6d4a64180c678e73aa891d59a61c2b2e7a2868afe03"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/190240995/862de2d9-f281-4afc-82bf-66feddf425e3_i-philips-ovi-seria-4000-na460-00.jpg",
+      "width": 1200,
+      "bytes": 85648,
+      "sha256": "e090bc265b9eb80cb152ba61d8887d3756e793640d2582c94ddbda9575626996"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/190240995/c3cbff63-1f89-4ca4-8b04-ac47c01fdd56_i-philips-ovi-seria-4000-na460-00.jpg",
+      "width": 1200,
+      "bytes": 108474,
+      "sha256": "2f6dceb1e22a23ac719617e31c7731a81571c23f399c08a9ff948feea222f167"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "local:Philips_logo małe1.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 1,
+  "problemy": [
+    "BRAK MINIATURKI — do zrobienia przez Konrada (pierwsze zdjecie = zdjecie produktowe)"
+  ]
+}
