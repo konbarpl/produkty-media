@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T09:47:43.638282Z",
+  "sourcePage": "https://www.it-shop24.pl/pl/p/Generator-pary-Tefal-GV9E22E0-Zelazko-Parowe-Stacja-Parowa-Pro-Express-Vision-2200W-550gmin/9655",
+  "slug": "tefal-gv9e22e0",
+  "identityCheck": "zdjecia obejrzane wzrokowo 2026-07-27: na zelazku napis 'Pro Express Eco', stacja bezowo-biala, wszystkie 6 to ten sam model i wariant kolorystyczny",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/60134/Generator-pary-Tefal-GV9E22E0-Zelazko-Parowe-Stacja-Parowa-Pro-Express-Vision-2200W-550gmin.jpg",
+      "width": 2200,
+      "bytes": 1244200,
+      "sha256": "acb448aa1adeadc6e02d759d815743a6c6cdc592eee2400aa872d8b02bf7b819",
+      "note": "zelazko na stacji, ujecie 3/4 - komplet"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/60138/Generator-pary-Tefal-GV9E22E0-Zelazko-Parowe-Stacja-Parowa-Pro-Express-Vision-2200W-550gmin.jpg",
+      "width": 2200,
+      "bytes": 1215505,
+      "sha256": "2982f783846cb62bb8061fa2f7a17ad01ec19bef13fdabba9594c65d81e60c5e",
+      "note": "komplet, drugie ujecie z uchwytem"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/60139/Generator-pary-Tefal-GV9E22E0-Zelazko-Parowe-Stacja-Parowa-Pro-Express-Vision-2200W-550gmin.jpg",
+      "width": 2200,
+      "bytes": 1320197,
+      "sha256": "6fc92f3a759dbf7ffaa8e83ad8b9a792e875aab16058d4fc6e79094fade49c19",
+      "note": "komplet, ujecie z boku"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/60137/Generator-pary-Tefal-GV9E22E0-Zelazko-Parowe-Stacja-Parowa-Pro-Express-Vision-2200W-550gmin.jpg",
+      "width": 2200,
+      "bytes": 1348772,
+      "sha256": "68a9e68394a58a5716bb67cbdab3206c61b5c115a54b50d52e415203cf17bbd1",
+      "note": "panel sterowania: tryb eco/Normal, Mode, Ok"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/60135/Generator-pary-Tefal-GV9E22E0-Zelazko-Parowe-Stacja-Parowa-Pro-Express-Vision-2200W-550gmin.jpg",
+      "width": 2200,
+      "bytes": 1297432,
+      "sha256": "8aec3bfa9839f4acf1404f40b3070e7975c979072665236960ec58eba34bbe22",
+      "note": "stopa Durilium Airglide Autoclean"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/60136/Generator-pary-Tefal-GV9E22E0-Zelazko-Parowe-Stacja-Parowa-Pro-Express-Vision-2200W-550gmin.jpg",
+      "width": 2200,
+      "bytes": 1161341,
+      "sha256": "caf072e22dd09c17263a58e8a381f53f1fe21562182baea92ae202dd8b8a8159",
+      "note": "zelazko obok stacji, widok stopy"
+    }
+  ]
+}
