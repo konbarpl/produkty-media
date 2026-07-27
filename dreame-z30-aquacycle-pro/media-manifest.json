@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T10:56:12.812Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-59697-Odkurzacz-pionowy-myjacy-Dreame-Z30-AquaCycle-Pro.html",
+  "slug": "dreame-z30-aquacycle-pro",
+  "galleryOrder": [
+    "produkt-02.webp",
+    "produkt-01.webp",
+    "produkt-03.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/adfb6c54c87d598e1a2ac3d3ac6b4892/pol_pl_Odkurzacz-pionowy-myjacy-Dreame-Z30-AquaCycle-Pro-59697_4.webp",
+      "width": 800,
+      "bytes": 22520,
+      "sha256": "7d9b89ef934db9ecb2d62ad8e39280701ea7b92d7a40ecc49af912eac3b98a89"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/99e4ba1589e1bf890aa69d2ac4fa1c29/pol_pl_Odkurzacz-pionowy-myjacy-Dreame-Z30-AquaCycle-Pro-59697_5.webp",
+      "width": 800,
+      "bytes": 21706,
+      "sha256": "c92db3007e583a16cb301b2d3f45433c88e5d9becf96c562488efac48630eb16"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/73c7d074449eb0d129073589e381bf96/pol_pl_Odkurzacz-pionowy-myjacy-Dreame-Z30-AquaCycle-Pro-59697_6.webp",
+      "width": 800,
+      "bytes": 20900,
+      "sha256": "1936cb260846e162028f142bc3c434c10070357b76850444906b7fb4fa635a1b"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/20799/27805/0%20-%20baner%20Z30%20AquaCycle%20Pro.jpg",
+      "width": 1171,
+      "bytes": 54972,
+      "sha256": "7f8d7c6c8aabafaa1467f0571b886685154c31e90bb6df182ac4d5c28315746a"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/20799/27805/1%20-%20odkurzacz%20Dreame%20%C5%82aduje%20si%C4%99%20przy%20%C5%9Bcianie,%20obok%20kobieta%20z%20psem.jpg",
+      "width": 1171,
+      "bytes": 84498,
+      "sha256": "f5acce82d3192057a66a67d368e3bcf298641e656b64f27020c72d31fe1eef39"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/20799/27805/4%20-%20system%20przeciw%20wpl%C4%85tywaniu%20w%C5%82os%C3%B3w%20w%20odkurzaczu%20Dreame.jpg",
+      "width": 1171,
+      "bytes": 58832,
+      "sha256": "0e970e23fad206f1cf707dafbf8e58bfc62bfa6f960c6ca6b1f9ce900f385d59"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://assets.innpro.pl/20799/27805/7%20-%20rolka%20w%20odkurzaczu%20Dreame%20suszy%20si%C4%99%20na%20jasnym%20tle.jpg",
+      "width": 1171,
+      "bytes": 45006,
+      "sha256": "632ac4d10d4c5fb864b0ce577d9c446b0c6093a854b64dba45b1b048462fd7b6"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://assets.innpro.pl/20799/27805/8%20-%205%20klon%C3%B3w%20kobiety%20odkurza%20pomieszczenie%20odkurzaczem%20Dreame.jpg",
+      "width": 1171,
+      "bytes": 105110,
+      "sha256": "ed74c1647d55a0c76e417ae48e67f11bf8a154574c277353d4791e742ab51fd4"
+    }
+  ],
+  "dropped": 14
+}
