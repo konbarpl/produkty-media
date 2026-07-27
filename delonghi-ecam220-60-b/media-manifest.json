@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T09:09:35.836Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/ekspresy-i-kawa/ekspresy-cisnieniowe/ekspres-delonghi-magnifica-start-ecam-220-60-b",
+  "slug": "delonghi-ecam220-60-b",
+  "uwaga": "Model nie ma karty w polskim katalogu delonghi.com (obie formy kodu zwracaja strone bez produktu) — zdjecia z karty sklepu Media Expert; do galerii weszly wylacznie pliki z kodem ECAM-220-60-B w nazwie.",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "lifestyle-01.jpg",
+    "lifestyle-02.jpg",
+    "lifestyle-03.jpg",
+    "lifestyle-04.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824752/Ekspres-DELONGHI-Magnifica-Start-ECAM-220-60-B-front-zestaw.jpg",
+      "width": 1762,
+      "height": 2000,
+      "bytes": 317309,
+      "sha256": "70d4a0a8ce9d14908f84bfa60d0a96dea624495e58bdcf3384dc84f1ff17a485"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824752/Ekspres-DELONGHI-Magnifica-Start-ECAM-220-60-B-akcesoria.jpg",
+      "width": 1999,
+      "height": 2000,
+      "bytes": 370581,
+      "sha256": "4b343a8e83c33c25a66ef8f07af2af8fb30faf4d55d28ffaf77240c656504fa1"
+    },
+    {
+      "file": "lifestyle-01.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824752/Ekspres-DELONGHI-Magnifica-Start-ECAM-220-60-B-lifestyle.jpg",
+      "width": 2000,
+      "height": 1333,
+      "bytes": 371020,
+      "sha256": "8c504db4c2ef97d145219047ec2075192d774472f22d61075e1475691de288df"
+    },
+    {
+      "file": "lifestyle-02.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824752/Ekspres-DELONGHI-Magnifica-Start-ECAM-220-60-B-lifestyle2.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 400026,
+      "sha256": "0a1bc8210339a81f89e459e4da40cbda5ef2ff9c2d21da3c9b5e04c9319f965d"
+    },
+    {
+      "file": "lifestyle-03.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824752/Ekspres-DELONGHI-Magnifica-Start-ECAM-220-60-B-lifestyle3.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 449437,
+      "sha256": "2321cf9bec79debff73e2e627c7306a15ac598afa47bd068ff15ca82b1dd402b"
+    },
+    {
+      "file": "lifestyle-04.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824752/Ekspres-DELONGHI-Magnifica-Start-ECAM-220-60-B-lifestyle4.jpg",
+      "width": 2000,
+      "height": 1333,
+      "bytes": 532414,
+      "sha256": "dbc0baa412714c8882d6bdd1204ad77ad8f01bc7cef5d9910e6c5d3bc28e55d5"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/filemanager_original/thumbnails/images/DeLonghi-2021-Logo.jpg",
+      "width": 1000,
+      "height": 310,
+      "bytes": 39830,
+      "sha256": "11f97fb6327d0343ca4574a5b26866a58d4e4ea3a264ae21e23b3070b4959702"
+    }
+  ]
+}
