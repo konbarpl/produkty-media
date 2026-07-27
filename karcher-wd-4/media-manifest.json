@@ -1,591 +1,599 @@
 {
-  "version": 1,
-  "generatedAt": "2026-07-27T08:42:45.922Z",
-  "sourcePage": "https://clinus.pl/odkurzacze-sucho-mokro/karcher/9460-karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy",
-  "slug": "karcher-wd-4",
-  "galleryOrder": [
-    "produkt-01.webp",
-    "produkt-02.webp",
-    "produkt-03.webp",
-    "produkt-04.webp",
-    "produkt-05.webp",
-    "produkt-06.webp",
-    "produkt-07.webp",
-    "produkt-08.webp",
-    "produkt-09.webp",
-    "produkt-10.webp",
-    "produkt-11.webp",
-    "produkt-12.webp",
-    "produkt-13.webp",
-    "produkt-14.webp",
-    "produkt-15.webp",
-    "produkt-16.webp",
-    "produkt-17.webp",
-    "produkt-18.webp",
-    "produkt-19.webp",
-    "produkt-20.webp",
-    "produkt-21.webp",
-    "produkt-22.webp",
-    "produkt-23.webp",
-    "produkt-24.webp",
-    "produkt-25.webp",
-    "produkt-26.webp",
-    "produkt-27.webp",
-    "produkt-28.webp",
-    "opis-01.jpg",
-    "opis-02.jpg",
-    "opis-03.jpg",
-    "opis-04.jpg",
-    "opis-05.jpg",
-    "opis-06.jpg",
-    "opis-07.jpg",
-    "opis-08.jpg",
-    "opis-09.jpg",
-    "opis-10.jpg",
-    "opis-11.jpg",
-    "opis-12.jpg",
-    "opis-13.jpg",
-    "opis-14.jpg",
-    "opis-15.jpg",
-    "opis-16.jpg",
-    "opis-17.jpg",
-    "opis-18.jpg",
-    "opis-19.jpg",
-    "opis-20.jpg",
-    "opis-21.jpg",
-    "opis-22.jpg",
-    "opis-23.jpg",
-    "opis-24.jpg",
-    "opis-25.jpg",
-    "opis-26.jpg",
-    "opis-27.jpg",
-    "opis-28.jpg",
-    "opis-29.jpg",
-    "opis-30.jpg"
-  ],
-  "files": [
-    {
-      "file": "produkt-01.webp",
-      "kind": "product",
-      "order": 1,
-      "sourceUrl": "https://clinus.pl/86898/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 45210,
-      "sha256": "73a344d662644e1886b9da2b57b2a19ee6331b88ca44b7727bd99e67a4cd54d7"
-    },
-    {
-      "file": "produkt-02.webp",
-      "kind": "product",
-      "order": 2,
-      "sourceUrl": "https://clinus.pl/86899-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 35458,
-      "sha256": "82a4973e9735ef68d0460940e69bf17d411e363484c0e886f59d3fd6c7f1c6cc"
-    },
-    {
-      "file": "produkt-03.webp",
-      "kind": "product",
-      "order": 3,
-      "sourceUrl": "https://clinus.pl/86900-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 38626,
-      "sha256": "2d5b9afec1e0c1e188d75f3e459eab11a7f6b056cd04ba8a3c7a889c63d28660"
-    },
-    {
-      "file": "produkt-04.webp",
-      "kind": "product",
-      "order": 4,
-      "sourceUrl": "https://clinus.pl/86901-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 36772,
-      "sha256": "30f756bcb6dbebe4248c61b25c3db2e1fadfbe00bd4da9010bcfefc104438c8e"
-    },
-    {
-      "file": "produkt-05.webp",
-      "kind": "product",
-      "order": 5,
-      "sourceUrl": "https://clinus.pl/86902-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 39360,
-      "sha256": "0b9cbf4a810d9d6c6b0b6c7ed9d1884389dcf606f2d97a0c9e53c7f653f641c9"
-    },
-    {
-      "file": "produkt-06.webp",
-      "kind": "product",
-      "order": 6,
-      "sourceUrl": "https://clinus.pl/86903-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 33856,
-      "sha256": "4bd73e34239439b97a5553d633b2f4931ab6f377597ae5ee077a082995e5e994"
-    },
-    {
-      "file": "produkt-07.webp",
-      "kind": "product",
-      "order": 7,
-      "sourceUrl": "https://clinus.pl/86904-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 17154,
-      "sha256": "a2f4e8da245332fb3b1b7dc30bb55a376a47416412b33e54be761088510694a2"
-    },
-    {
-      "file": "produkt-08.webp",
-      "kind": "product",
-      "order": 8,
-      "sourceUrl": "https://clinus.pl/86905-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 27394,
-      "sha256": "93a9595a786734aedeb5042ede7cb7648915bc6ba6cdd08c63f16ba01ba110af"
-    },
-    {
-      "file": "produkt-09.webp",
-      "kind": "product",
-      "order": 9,
-      "sourceUrl": "https://clinus.pl/86906-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 35616,
-      "sha256": "46702155d3c340bb91a4033bdad7442d10434b2f7369553f793d8b17d8616852"
-    },
-    {
-      "file": "produkt-10.webp",
-      "kind": "product",
-      "order": 10,
-      "sourceUrl": "https://clinus.pl/86907-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 29876,
-      "sha256": "6add002f678ca777ce5ff34e29ebbeb509bc1168a8aea253f4763d280fe7ac0a"
-    },
-    {
-      "file": "produkt-11.webp",
-      "kind": "product",
-      "order": 11,
-      "sourceUrl": "https://clinus.pl/86908-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 22960,
-      "sha256": "126e9e4b1c1425325a2975a3d94721575553ad300415f79b3054c8ab82bc4b5d"
-    },
-    {
-      "file": "produkt-12.webp",
-      "kind": "product",
-      "order": 12,
-      "sourceUrl": "https://clinus.pl/86909-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 43480,
-      "sha256": "527c750c97e2f41857b9ea403acfdfcaddf109afc492e74f99707823757de886"
-    },
-    {
-      "file": "produkt-13.webp",
-      "kind": "product",
-      "order": 13,
-      "sourceUrl": "https://clinus.pl/86910-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 52442,
-      "sha256": "b12333d889721a10b6b8fc71cab89029e27ffa04c0f2fc5b4d75fe49b4446a3e"
-    },
-    {
-      "file": "produkt-14.webp",
-      "kind": "product",
-      "order": 14,
-      "sourceUrl": "https://clinus.pl/86911-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 33408,
-      "sha256": "25d17b92c905090ac25bb1516f7b93d713b85c81df75ab4af54174c1d5e6345e"
-    },
-    {
-      "file": "produkt-15.webp",
-      "kind": "product",
-      "order": 15,
-      "sourceUrl": "https://clinus.pl/86912-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 26102,
-      "sha256": "d3ce86215c7a85a3b29a72943863b044625add3d1d74351639507a28bc9fb0bd"
-    },
-    {
-      "file": "produkt-16.webp",
-      "kind": "product",
-      "order": 16,
-      "sourceUrl": "https://clinus.pl/86913-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 25798,
-      "sha256": "457736685f001af6db41defea9bb7961fa2f08da7f4357fe3ead1ae474523b64"
-    },
-    {
-      "file": "produkt-17.webp",
-      "kind": "product",
-      "order": 17,
-      "sourceUrl": "https://clinus.pl/86914-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 166294,
-      "sha256": "bbf086b261b87bccb193ad328227918de2852a516cd7c816d936ea2caf789cb2"
-    },
-    {
-      "file": "produkt-18.webp",
-      "kind": "product",
-      "order": 18,
-      "sourceUrl": "https://clinus.pl/86915-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 98618,
-      "sha256": "96613edca18c8efcdc2c6653319b032261a373212d94c5ab241d94c244d7d9fb"
-    },
-    {
-      "file": "produkt-19.webp",
-      "kind": "product",
-      "order": 19,
-      "sourceUrl": "https://clinus.pl/86916-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 83422,
-      "sha256": "4719c553dba5f6ddb22a536a6ebce71e6d14b29460f9dfa8d6d3fe131a770898"
-    },
-    {
-      "file": "produkt-20.webp",
-      "kind": "product",
-      "order": 20,
-      "sourceUrl": "https://clinus.pl/86917-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 120432,
-      "sha256": "788a3939381df6a633493656d33079db16654f8a4ee8be9cd4712d8c5238aff6"
-    },
-    {
-      "file": "produkt-21.webp",
-      "kind": "product",
-      "order": 21,
-      "sourceUrl": "https://clinus.pl/86918-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 47310,
-      "sha256": "ed345c4a6a8ff8eab16352f9864be4a900a759b405b6dedc3b18bfa46de18c13"
-    },
-    {
-      "file": "produkt-22.webp",
-      "kind": "product",
-      "order": 22,
-      "sourceUrl": "https://clinus.pl/86919-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 94616,
-      "sha256": "6418ea253945e6ec8b7772f4f531b3afad10a255ef6d6e8789b10f0b8c6f1a20"
-    },
-    {
-      "file": "produkt-23.webp",
-      "kind": "product",
-      "order": 23,
-      "sourceUrl": "https://clinus.pl/86920-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 43894,
-      "sha256": "01566ba5f9d214d06a66effefc986ecf1d2c3a73b7cbef4340695f92148bb57d"
-    },
-    {
-      "file": "produkt-24.webp",
-      "kind": "product",
-      "order": 24,
-      "sourceUrl": "https://clinus.pl/86921-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 39858,
-      "sha256": "0c1320f604839b60e7d06d1dcd3beb486c0d24c638bf2d636ee8e54ae9b47b3e"
-    },
-    {
-      "file": "produkt-25.webp",
-      "kind": "product",
-      "order": 25,
-      "sourceUrl": "https://clinus.pl/86922-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 131248,
-      "sha256": "50b7372b2fdd731587bfec994f79133658cabbaf6b801da9b75f344efa35c1c7"
-    },
-    {
-      "file": "produkt-26.webp",
-      "kind": "product",
-      "order": 26,
-      "sourceUrl": "https://clinus.pl/86923-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 73294,
-      "sha256": "042d387e07871339b91698fd2f095be2211abf5f41e689aacd0471a324a7046c"
-    },
-    {
-      "file": "produkt-27.webp",
-      "kind": "product",
-      "order": 27,
-      "sourceUrl": "https://clinus.pl/86924-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 800,
-      "bytes": 93288,
-      "sha256": "fd12205d71e00263fcf351efc1e50fc64fa41a28e657a2d06beb68ed715d031a"
-    },
-    {
-      "file": "produkt-28.webp",
-      "kind": "product",
-      "order": 28,
-      "sourceUrl": "https://clinus.pl/97598/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
-      "width": 1200,
-      "bytes": 143884,
-      "sha256": "047ca5e118d54b36da6861651bece4585dcaefa030e9b1629aca5d4c37f7348d"
-    },
-    {
-      "file": "opis-01.jpg",
-      "kind": "lifestyle",
-      "order": 1,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/1.jpg",
-      "width": 1500,
-      "bytes": 155530,
-      "sha256": "3e89bd290fa5058d3f3b6900faea4f168000ed452f0a183cc5bfc851af6dee97"
-    },
-    {
-      "file": "opis-02.jpg",
-      "kind": "lifestyle",
-      "order": 2,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/21.jpg",
-      "width": 1000,
-      "bytes": 187172,
-      "sha256": "1091f76feead1b29a3f5afea64b1772325737a92676548bf31382f7a5cfa4c49"
-    },
-    {
-      "file": "opis-03.jpg",
-      "kind": "lifestyle",
-      "order": 3,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/7.jpg",
-      "width": 1000,
-      "bytes": 49132,
-      "sha256": "5bf790ee806525537060238c12ca5a206c79cdbccd95e2b78dabaaa836add7a5"
-    },
-    {
-      "file": "opis-04.jpg",
-      "kind": "lifestyle",
-      "order": 4,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/37.jpg",
-      "width": 1500,
-      "bytes": 97020,
-      "sha256": "346fb054413fc50401e864c0ba9b256e34497e99340cb01156f30b731e535b86"
-    },
-    {
-      "file": "opis-05.jpg",
-      "kind": "lifestyle",
-      "order": 5,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-4.jpg",
-      "width": 1000,
-      "bytes": 63516,
-      "sha256": "b49970d1cd7a0155d5a1f5248e444a6112ed8fa21eac011f41d1f944266aa2ec"
-    },
-    {
-      "file": "opis-06.jpg",
-      "kind": "lifestyle",
-      "order": 6,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-5.jpg",
-      "width": 1000,
-      "bytes": 20352,
-      "sha256": "3955740c9c96df84a6b2a211b290923c13894e76f12284c337c43aaba374a3e0"
-    },
-    {
-      "file": "opis-07.jpg",
-      "kind": "lifestyle",
-      "order": 7,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-2.jpg",
-      "width": 1000,
-      "bytes": 15544,
-      "sha256": "68228db166dc4c2b20a9390baefc0da10255e90717177b8515c05b0c944d42ec"
-    },
-    {
-      "file": "opis-08.jpg",
-      "kind": "lifestyle",
-      "order": 8,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-6.jpg",
-      "width": 1000,
-      "bytes": 14002,
-      "sha256": "903e05114668a3cbf1308ca0bbd1bae2bc9d57e6850abc2247ff217c13cb4dec"
-    },
-    {
-      "file": "opis-09.jpg",
-      "kind": "lifestyle",
-      "order": 9,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-3.jpg",
-      "width": 1000,
-      "bytes": 12588,
-      "sha256": "0c55de080094e16bbcbc43cbdebcf834c21c86d23aba4e0ee6ecb085ce10940c"
-    },
-    {
-      "file": "opis-10.jpg",
-      "kind": "lifestyle",
-      "order": 10,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-1.jpg",
-      "width": 1000,
-      "bytes": 47328,
-      "sha256": "93b743f14dd63bc3ac29aa9962c89879f38db4f46427b618fcaa76cc7c288d5a"
-    },
-    {
-      "file": "opis-11.jpg",
-      "kind": "lifestyle",
-      "order": 11,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-7.jpg",
-      "width": 1000,
-      "bytes": 14170,
-      "sha256": "365c16068348236b74655a0f9534f52595e52c83365b214973c0f6a6819ac7b8"
-    },
-    {
-      "file": "opis-12.jpg",
-      "kind": "lifestyle",
-      "order": 12,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/40.jpg",
-      "width": 1500,
-      "bytes": 404608,
-      "sha256": "686e676267d21357482848d651ccf30937457b714ca7acca9f44cc69695857e1"
-    },
-    {
-      "file": "opis-13.jpg",
-      "kind": "lifestyle",
-      "order": 13,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/4.jpg",
-      "width": 1000,
-      "bytes": 59174,
-      "sha256": "028892d8df4f9112cf0347b91b998d11744835866461ebb7c3c9fb58675165f6"
-    },
-    {
-      "file": "opis-14.jpg",
-      "kind": "lifestyle",
-      "order": 14,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/3.jpg",
-      "width": 1000,
-      "bytes": 56546,
-      "sha256": "78877c67ee28f1749b918a23cf27520f38a779bd9fd8db489c311228e0e1b28a"
-    },
-    {
-      "file": "opis-15.jpg",
-      "kind": "lifestyle",
-      "order": 15,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/42.jpg",
-      "width": 1500,
-      "bytes": 236328,
-      "sha256": "479d2add88cc03e404797daf5be7b6684cbe26f8859a0a7861c353db9ee09ba9"
-    },
-    {
-      "file": "opis-16.jpg",
-      "kind": "lifestyle",
-      "order": 16,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/15.jpg",
-      "width": 1000,
-      "bytes": 52790,
-      "sha256": "f0aaa1ad3c029b5894fa42b30965221aa694adf03a44d5d9beea385743c80193"
-    },
-    {
-      "file": "opis-17.jpg",
-      "kind": "lifestyle",
-      "order": 17,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/22.jpg",
-      "width": 1000,
-      "bytes": 69906,
-      "sha256": "acddc0711abf486d57c7ec00db45fa1b38ef16aa378d8bf176484924f13e34bb"
-    },
-    {
-      "file": "opis-18.jpg",
-      "kind": "lifestyle",
-      "order": 18,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/28.jpg",
-      "width": 1000,
-      "bytes": 141262,
-      "sha256": "048fa5ec240403f36207840d19f18bd821a8e6abdef9df7049de902292b5ee7f"
-    },
-    {
-      "file": "opis-19.jpg",
-      "kind": "lifestyle",
-      "order": 19,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/12.jpg",
-      "width": 1000,
-      "bytes": 32890,
-      "sha256": "74577257bdef4dd486fbf0164191d1f99e95e2689894d03b5d624b627edecefd"
-    },
-    {
-      "file": "opis-20.jpg",
-      "kind": "lifestyle",
-      "order": 20,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/5.jpg",
-      "width": 1000,
-      "bytes": 53444,
-      "sha256": "435ec3bd2b4975035e2aeadd02013ea3a69838c95d9908335787fed7b8db307b"
-    },
-    {
-      "file": "opis-21.jpg",
-      "kind": "lifestyle",
-      "order": 21,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/36.jpg",
-      "width": 1500,
-      "bytes": 67702,
-      "sha256": "14934d26f02947551706ef1b1ce22a0c2e68ab5ec81ddbc5fd2e0d3388c80001"
-    },
-    {
-      "file": "opis-22.jpg",
-      "kind": "lifestyle",
-      "order": 22,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/8.jpg",
-      "width": 1000,
-      "bytes": 27550,
-      "sha256": "4cae2e7dd21908fd09a7b1c1c90c4e7150fb908cc31215a47f9c21db038a1758"
-    },
-    {
-      "file": "opis-23.jpg",
-      "kind": "lifestyle",
-      "order": 23,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/6.jpg",
-      "width": 1000,
-      "bytes": 59618,
-      "sha256": "99ab71c4eaf780a97decaf047625c0ccd1ee2ff27836d67672cb00b280f6edd6"
-    },
-    {
-      "file": "opis-24.jpg",
-      "kind": "lifestyle",
-      "order": 24,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/26.jpg",
-      "width": 1000,
-      "bytes": 213608,
-      "sha256": "dacc5ae26e364684b9333fd267eee6239c26f0500d1c378ab039b1eceef7edd0"
-    },
-    {
-      "file": "opis-25.jpg",
-      "kind": "lifestyle",
-      "order": 25,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/2.jpg",
-      "width": 1000,
-      "bytes": 44860,
-      "sha256": "ccca4185748be652224b3686ca06cb52ff6a6d45cab205d0f5f146fbade5741f"
-    },
-    {
-      "file": "opis-26.jpg",
-      "kind": "lifestyle",
-      "order": 26,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/41.jpg",
-      "width": 1500,
-      "bytes": 326338,
-      "sha256": "0388bdf1b0f9b1e8cdfd95f5b9398abbe8b5fd81dcf3532b7e5593347d9d6dee"
-    },
-    {
-      "file": "opis-27.jpg",
-      "kind": "lifestyle",
-      "order": 27,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/18.jpg",
-      "width": 1000,
-      "bytes": 282916,
-      "sha256": "1cb6f965339a65177c841c50c3a342215d8d4be052732c1349bbbcd2c48f7db5"
-    },
-    {
-      "file": "opis-28.jpg",
-      "kind": "lifestyle",
-      "order": 28,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/19.jpg",
-      "width": 1000,
-      "bytes": 152504,
-      "sha256": "be59ed557a978ab3c78bc2e5a72e858d80279bd50bd6a19a00dc63c9e2d9efdc"
-    },
-    {
-      "file": "opis-29.jpg",
-      "kind": "lifestyle",
-      "order": 29,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/23.jpg",
-      "width": 1000,
-      "bytes": 140380,
-      "sha256": "c00fb9a82d2649e81bf03fa6323f581eef133484b919a671881ccc83a0148857"
-    },
-    {
-      "file": "opis-30.jpg",
-      "kind": "lifestyle",
-      "order": 30,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/9.jpg",
-      "width": 1000,
-      "bytes": 46084,
-      "sha256": "59989d2848e0df4b153c9a181b3b9c88e5a56fc6287e94c5fab72127e56bad1c"
-    }
-  ],
-  "dropped": 0
+ "version": 1,
+ "generatedAt": "2026-07-27T08:42:45.922Z",
+ "sourcePage": "https://clinus.pl/odkurzacze-sucho-mokro/karcher/9460-karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy",
+ "slug": "karcher-wd-4",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "produkt-08.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "produkt-11.webp",
+  "produkt-12.webp",
+  "produkt-13.webp",
+  "produkt-14.webp",
+  "produkt-15.webp",
+  "produkt-16.webp",
+  "produkt-17.webp",
+  "produkt-18.webp",
+  "produkt-19.webp",
+  "produkt-20.webp",
+  "produkt-21.webp",
+  "produkt-22.webp",
+  "produkt-23.webp",
+  "produkt-24.webp",
+  "produkt-25.webp",
+  "produkt-26.webp",
+  "produkt-27.webp",
+  "produkt-28.webp",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "opis-08.jpg",
+  "opis-09.jpg",
+  "opis-10.jpg",
+  "opis-11.jpg",
+  "opis-12.jpg",
+  "opis-13.jpg",
+  "opis-14.jpg",
+  "opis-15.jpg",
+  "opis-16.jpg",
+  "opis-17.jpg",
+  "opis-18.jpg",
+  "opis-19.jpg",
+  "opis-20.jpg",
+  "opis-21.jpg",
+  "opis-22.jpg",
+  "opis-23.jpg",
+  "opis-24.jpg",
+  "opis-25.jpg",
+  "opis-26.jpg",
+  "opis-27.jpg",
+  "opis-28.jpg",
+  "opis-29.jpg",
+  "opis-30.jpg",
+  "logo-karcher.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/86898/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 45210,
+   "sha256": "73a344d662644e1886b9da2b57b2a19ee6331b88ca44b7727bd99e67a4cd54d7"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/86899-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 35458,
+   "sha256": "82a4973e9735ef68d0460940e69bf17d411e363484c0e886f59d3fd6c7f1c6cc"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/86900-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 38626,
+   "sha256": "2d5b9afec1e0c1e188d75f3e459eab11a7f6b056cd04ba8a3c7a889c63d28660"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/86901-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 36772,
+   "sha256": "30f756bcb6dbebe4248c61b25c3db2e1fadfbe00bd4da9010bcfefc104438c8e"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/86902-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 39360,
+   "sha256": "0b9cbf4a810d9d6c6b0b6c7ed9d1884389dcf606f2d97a0c9e53c7f653f641c9"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/86903-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 33856,
+   "sha256": "4bd73e34239439b97a5553d633b2f4931ab6f377597ae5ee077a082995e5e994"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/86904-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 17154,
+   "sha256": "a2f4e8da245332fb3b1b7dc30bb55a376a47416412b33e54be761088510694a2"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/86905-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 27394,
+   "sha256": "93a9595a786734aedeb5042ede7cb7648915bc6ba6cdd08c63f16ba01ba110af"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://clinus.pl/86906-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 35616,
+   "sha256": "46702155d3c340bb91a4033bdad7442d10434b2f7369553f793d8b17d8616852"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://clinus.pl/86907-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 29876,
+   "sha256": "6add002f678ca777ce5ff34e29ebbeb509bc1168a8aea253f4763d280fe7ac0a"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://clinus.pl/86908-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 22960,
+   "sha256": "126e9e4b1c1425325a2975a3d94721575553ad300415f79b3054c8ab82bc4b5d"
+  },
+  {
+   "file": "produkt-12.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://clinus.pl/86909-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 43480,
+   "sha256": "527c750c97e2f41857b9ea403acfdfcaddf109afc492e74f99707823757de886"
+  },
+  {
+   "file": "produkt-13.webp",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://clinus.pl/86910-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 52442,
+   "sha256": "b12333d889721a10b6b8fc71cab89029e27ffa04c0f2fc5b4d75fe49b4446a3e"
+  },
+  {
+   "file": "produkt-14.webp",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://clinus.pl/86911-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 33408,
+   "sha256": "25d17b92c905090ac25bb1516f7b93d713b85c81df75ab4af54174c1d5e6345e"
+  },
+  {
+   "file": "produkt-15.webp",
+   "kind": "product",
+   "order": 15,
+   "sourceUrl": "https://clinus.pl/86912-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 26102,
+   "sha256": "d3ce86215c7a85a3b29a72943863b044625add3d1d74351639507a28bc9fb0bd"
+  },
+  {
+   "file": "produkt-16.webp",
+   "kind": "product",
+   "order": 16,
+   "sourceUrl": "https://clinus.pl/86913-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 25798,
+   "sha256": "457736685f001af6db41defea9bb7961fa2f08da7f4357fe3ead1ae474523b64"
+  },
+  {
+   "file": "produkt-17.webp",
+   "kind": "product",
+   "order": 17,
+   "sourceUrl": "https://clinus.pl/86914-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 166294,
+   "sha256": "bbf086b261b87bccb193ad328227918de2852a516cd7c816d936ea2caf789cb2"
+  },
+  {
+   "file": "produkt-18.webp",
+   "kind": "product",
+   "order": 18,
+   "sourceUrl": "https://clinus.pl/86915-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 98618,
+   "sha256": "96613edca18c8efcdc2c6653319b032261a373212d94c5ab241d94c244d7d9fb"
+  },
+  {
+   "file": "produkt-19.webp",
+   "kind": "product",
+   "order": 19,
+   "sourceUrl": "https://clinus.pl/86916-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 83422,
+   "sha256": "4719c553dba5f6ddb22a536a6ebce71e6d14b29460f9dfa8d6d3fe131a770898"
+  },
+  {
+   "file": "produkt-20.webp",
+   "kind": "product",
+   "order": 20,
+   "sourceUrl": "https://clinus.pl/86917-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 120432,
+   "sha256": "788a3939381df6a633493656d33079db16654f8a4ee8be9cd4712d8c5238aff6"
+  },
+  {
+   "file": "produkt-21.webp",
+   "kind": "product",
+   "order": 21,
+   "sourceUrl": "https://clinus.pl/86918-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 47310,
+   "sha256": "ed345c4a6a8ff8eab16352f9864be4a900a759b405b6dedc3b18bfa46de18c13"
+  },
+  {
+   "file": "produkt-22.webp",
+   "kind": "product",
+   "order": 22,
+   "sourceUrl": "https://clinus.pl/86919-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 94616,
+   "sha256": "6418ea253945e6ec8b7772f4f531b3afad10a255ef6d6e8789b10f0b8c6f1a20"
+  },
+  {
+   "file": "produkt-23.webp",
+   "kind": "product",
+   "order": 23,
+   "sourceUrl": "https://clinus.pl/86920-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 43894,
+   "sha256": "01566ba5f9d214d06a66effefc986ecf1d2c3a73b7cbef4340695f92148bb57d"
+  },
+  {
+   "file": "produkt-24.webp",
+   "kind": "product",
+   "order": 24,
+   "sourceUrl": "https://clinus.pl/86921-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 39858,
+   "sha256": "0c1320f604839b60e7d06d1dcd3beb486c0d24c638bf2d636ee8e54ae9b47b3e"
+  },
+  {
+   "file": "produkt-25.webp",
+   "kind": "product",
+   "order": 25,
+   "sourceUrl": "https://clinus.pl/86922-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 131248,
+   "sha256": "50b7372b2fdd731587bfec994f79133658cabbaf6b801da9b75f344efa35c1c7"
+  },
+  {
+   "file": "produkt-26.webp",
+   "kind": "product",
+   "order": 26,
+   "sourceUrl": "https://clinus.pl/86923-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 73294,
+   "sha256": "042d387e07871339b91698fd2f095be2211abf5f41e689aacd0471a324a7046c"
+  },
+  {
+   "file": "produkt-27.webp",
+   "kind": "product",
+   "order": 27,
+   "sourceUrl": "https://clinus.pl/86924-large_default/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 800,
+   "bytes": 93288,
+   "sha256": "fd12205d71e00263fcf351efc1e50fc64fa41a28e657a2d06beb68ed715d031a"
+  },
+  {
+   "file": "produkt-28.webp",
+   "kind": "product",
+   "order": 28,
+   "sourceUrl": "https://clinus.pl/97598/karcher-wd-4-v-20-5-22-odkurzacz-warsztatowy.webp",
+   "width": 1200,
+   "bytes": 143884,
+   "sha256": "047ca5e118d54b36da6861651bece4585dcaefa030e9b1629aca5d4c37f7348d"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/1.jpg",
+   "width": 1500,
+   "bytes": 155530,
+   "sha256": "3e89bd290fa5058d3f3b6900faea4f168000ed452f0a183cc5bfc851af6dee97"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/21.jpg",
+   "width": 1000,
+   "bytes": 187172,
+   "sha256": "1091f76feead1b29a3f5afea64b1772325737a92676548bf31382f7a5cfa4c49"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/7.jpg",
+   "width": 1000,
+   "bytes": 49132,
+   "sha256": "5bf790ee806525537060238c12ca5a206c79cdbccd95e2b78dabaaa836add7a5"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/37.jpg",
+   "width": 1500,
+   "bytes": 97020,
+   "sha256": "346fb054413fc50401e864c0ba9b256e34497e99340cb01156f30b731e535b86"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-4.jpg",
+   "width": 1000,
+   "bytes": 63516,
+   "sha256": "b49970d1cd7a0155d5a1f5248e444a6112ed8fa21eac011f41d1f944266aa2ec"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-5.jpg",
+   "width": 1000,
+   "bytes": 20352,
+   "sha256": "3955740c9c96df84a6b2a211b290923c13894e76f12284c337c43aaba374a3e0"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-2.jpg",
+   "width": 1000,
+   "bytes": 15544,
+   "sha256": "68228db166dc4c2b20a9390baefc0da10255e90717177b8515c05b0c944d42ec"
+  },
+  {
+   "file": "opis-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-6.jpg",
+   "width": 1000,
+   "bytes": 14002,
+   "sha256": "903e05114668a3cbf1308ca0bbd1bae2bc9d57e6850abc2247ff217c13cb4dec"
+  },
+  {
+   "file": "opis-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-3.jpg",
+   "width": 1000,
+   "bytes": 12588,
+   "sha256": "0c55de080094e16bbcbc43cbdebcf834c21c86d23aba4e0ee6ecb085ce10940c"
+  },
+  {
+   "file": "opis-10.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-1.jpg",
+   "width": 1000,
+   "bytes": 47328,
+   "sha256": "93b743f14dd63bc3ac29aa9962c89879f38db4f46427b618fcaa76cc7c288d5a"
+  },
+  {
+   "file": "opis-11.jpg",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/new/item-7.jpg",
+   "width": 1000,
+   "bytes": 14170,
+   "sha256": "365c16068348236b74655a0f9534f52595e52c83365b214973c0f6a6819ac7b8"
+  },
+  {
+   "file": "opis-12.jpg",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/40.jpg",
+   "width": 1500,
+   "bytes": 404608,
+   "sha256": "686e676267d21357482848d651ccf30937457b714ca7acca9f44cc69695857e1"
+  },
+  {
+   "file": "opis-13.jpg",
+   "kind": "lifestyle",
+   "order": 13,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/4.jpg",
+   "width": 1000,
+   "bytes": 59174,
+   "sha256": "028892d8df4f9112cf0347b91b998d11744835866461ebb7c3c9fb58675165f6"
+  },
+  {
+   "file": "opis-14.jpg",
+   "kind": "lifestyle",
+   "order": 14,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/3.jpg",
+   "width": 1000,
+   "bytes": 56546,
+   "sha256": "78877c67ee28f1749b918a23cf27520f38a779bd9fd8db489c311228e0e1b28a"
+  },
+  {
+   "file": "opis-15.jpg",
+   "kind": "lifestyle",
+   "order": 15,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/42.jpg",
+   "width": 1500,
+   "bytes": 236328,
+   "sha256": "479d2add88cc03e404797daf5be7b6684cbe26f8859a0a7861c353db9ee09ba9"
+  },
+  {
+   "file": "opis-16.jpg",
+   "kind": "lifestyle",
+   "order": 16,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/15.jpg",
+   "width": 1000,
+   "bytes": 52790,
+   "sha256": "f0aaa1ad3c029b5894fa42b30965221aa694adf03a44d5d9beea385743c80193"
+  },
+  {
+   "file": "opis-17.jpg",
+   "kind": "lifestyle",
+   "order": 17,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/22.jpg",
+   "width": 1000,
+   "bytes": 69906,
+   "sha256": "acddc0711abf486d57c7ec00db45fa1b38ef16aa378d8bf176484924f13e34bb"
+  },
+  {
+   "file": "opis-18.jpg",
+   "kind": "lifestyle",
+   "order": 18,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/28.jpg",
+   "width": 1000,
+   "bytes": 141262,
+   "sha256": "048fa5ec240403f36207840d19f18bd821a8e6abdef9df7049de902292b5ee7f"
+  },
+  {
+   "file": "opis-19.jpg",
+   "kind": "lifestyle",
+   "order": 19,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/12.jpg",
+   "width": 1000,
+   "bytes": 32890,
+   "sha256": "74577257bdef4dd486fbf0164191d1f99e95e2689894d03b5d624b627edecefd"
+  },
+  {
+   "file": "opis-20.jpg",
+   "kind": "lifestyle",
+   "order": 20,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/5.jpg",
+   "width": 1000,
+   "bytes": 53444,
+   "sha256": "435ec3bd2b4975035e2aeadd02013ea3a69838c95d9908335787fed7b8db307b"
+  },
+  {
+   "file": "opis-21.jpg",
+   "kind": "lifestyle",
+   "order": 21,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/36.jpg",
+   "width": 1500,
+   "bytes": 67702,
+   "sha256": "14934d26f02947551706ef1b1ce22a0c2e68ab5ec81ddbc5fd2e0d3388c80001"
+  },
+  {
+   "file": "opis-22.jpg",
+   "kind": "lifestyle",
+   "order": 22,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/8.jpg",
+   "width": 1000,
+   "bytes": 27550,
+   "sha256": "4cae2e7dd21908fd09a7b1c1c90c4e7150fb908cc31215a47f9c21db038a1758"
+  },
+  {
+   "file": "opis-23.jpg",
+   "kind": "lifestyle",
+   "order": 23,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/6.jpg",
+   "width": 1000,
+   "bytes": 59618,
+   "sha256": "99ab71c4eaf780a97decaf047625c0ccd1ee2ff27836d67672cb00b280f6edd6"
+  },
+  {
+   "file": "opis-24.jpg",
+   "kind": "lifestyle",
+   "order": 24,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/26.jpg",
+   "width": 1000,
+   "bytes": 213608,
+   "sha256": "dacc5ae26e364684b9333fd267eee6239c26f0500d1c378ab039b1eceef7edd0"
+  },
+  {
+   "file": "opis-25.jpg",
+   "kind": "lifestyle",
+   "order": 25,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/2.jpg",
+   "width": 1000,
+   "bytes": 44860,
+   "sha256": "ccca4185748be652224b3686ca06cb52ff6a6d45cab205d0f5f146fbade5741f"
+  },
+  {
+   "file": "opis-26.jpg",
+   "kind": "lifestyle",
+   "order": 26,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/41.jpg",
+   "width": 1500,
+   "bytes": 326338,
+   "sha256": "0388bdf1b0f9b1e8cdfd95f5b9398abbe8b5fd81dcf3532b7e5593347d9d6dee"
+  },
+  {
+   "file": "opis-27.jpg",
+   "kind": "lifestyle",
+   "order": 27,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/18.jpg",
+   "width": 1000,
+   "bytes": 282916,
+   "sha256": "1cb6f965339a65177c841c50c3a342215d8d4be052732c1349bbbcd2c48f7db5"
+  },
+  {
+   "file": "opis-28.jpg",
+   "kind": "lifestyle",
+   "order": 28,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/19.jpg",
+   "width": 1000,
+   "bytes": 152504,
+   "sha256": "be59ed557a978ab3c78bc2e5a72e858d80279bd50bd6a19a00dc63c9e2d9efdc"
+  },
+  {
+   "file": "opis-29.jpg",
+   "kind": "lifestyle",
+   "order": 29,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/23.jpg",
+   "width": 1000,
+   "bytes": 140380,
+   "sha256": "c00fb9a82d2649e81bf03fa6323f581eef133484b919a671881ccc83a0148857"
+  },
+  {
+   "file": "opis-30.jpg",
+   "kind": "lifestyle",
+   "order": 30,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16282090/9.jpg",
+   "width": 1000,
+   "bytes": 46084,
+   "sha256": "59989d2848e0df4b153c9a181b3b9c88e5a56fc6287e94c5fab72127e56bad1c"
+  },
+  {
+   "file": "logo-karcher.jpg",
+   "kind": "logo",
+   "order": 59,
+   "sourceUrl": "dropshipping/materialy/logo/Karcher-Logo-2015-present.jpg",
+   "bytes": 8418
+  }
+ ],
+ "dropped": 0
 }

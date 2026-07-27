@@ -1,221 +1,229 @@
 {
-  "version": 1,
-  "generatedAt": "2026-07-27T08:41:17.982Z",
-  "sourcePage": "https://clinus.pl/odkurzacze-sucho-mokro/karcher/49-karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy",
-  "slug": "karcher-wd-3",
-  "galleryOrder": [
-    "produkt-01.webp",
-    "produkt-02.webp",
-    "produkt-03.webp",
-    "produkt-04.webp",
-    "produkt-05.webp",
-    "produkt-06.webp",
-    "produkt-07.webp",
-    "produkt-08.webp",
-    "produkt-09.webp",
-    "produkt-10.webp",
-    "produkt-11.webp",
-    "produkt-12.webp",
-    "produkt-13.webp",
-    "produkt-14.webp",
-    "produkt-15.webp",
-    "produkt-16.webp",
-    "produkt-17.webp",
-    "produkt-18.webp",
-    "produkt-19.webp",
-    "produkt-20.webp",
-    "opis-01.jpg"
-  ],
-  "files": [
-    {
-      "file": "produkt-01.webp",
-      "kind": "product",
-      "order": 1,
-      "sourceUrl": "https://clinus.pl/39023/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 30960,
-      "sha256": "4b1c3049204dcd888584c17f6365e080dd57a7fd449344e410fbb0694e66c5c3"
-    },
-    {
-      "file": "produkt-02.webp",
-      "kind": "product",
-      "order": 2,
-      "sourceUrl": "https://clinus.pl/39024/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 123592,
-      "sha256": "7248769c1826619914147ebb39d800c7c060c244f7569b1416cb3f2179ab118f"
-    },
-    {
-      "file": "produkt-03.webp",
-      "kind": "product",
-      "order": 3,
-      "sourceUrl": "https://clinus.pl/39025/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 59236,
-      "sha256": "607ebbcbda6a8ae63e58ca0c9c8df047638d792248e30d3dc279e6a3fca1dba9"
-    },
-    {
-      "file": "produkt-04.webp",
-      "kind": "product",
-      "order": 4,
-      "sourceUrl": "https://clinus.pl/39026/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 69848,
-      "sha256": "15a1032b5a5c7f219f0722286113eb1b7794e0e8519f9f63e6b28044d361108b"
-    },
-    {
-      "file": "produkt-05.webp",
-      "kind": "product",
-      "order": 5,
-      "sourceUrl": "https://clinus.pl/39027/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 138932,
-      "sha256": "ba780323db1ba3fc34faf90909633f0895eae6062d9ae35833b08dabb13cf989"
-    },
-    {
-      "file": "produkt-06.webp",
-      "kind": "product",
-      "order": 6,
-      "sourceUrl": "https://clinus.pl/39028/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 54108,
-      "sha256": "380c5a0e77380557120df7cc4ae1adfc711d98b1f3ecb7b0ca43f4886a580a1f"
-    },
-    {
-      "file": "produkt-07.webp",
-      "kind": "product",
-      "order": 7,
-      "sourceUrl": "https://clinus.pl/39029/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 172360,
-      "sha256": "94caef7d14cba6d1f64f0c0d34bb1f1eea00b57050856ca779265cf9dedd4604"
-    },
-    {
-      "file": "produkt-08.webp",
-      "kind": "product",
-      "order": 8,
-      "sourceUrl": "https://clinus.pl/39030/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 192276,
-      "sha256": "8ee3a372e6b1fc6c5d715aecb890b9940f269dfffba1f09c13968b47e4568dd7"
-    },
-    {
-      "file": "produkt-09.webp",
-      "kind": "product",
-      "order": 9,
-      "sourceUrl": "https://clinus.pl/39031/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 129410,
-      "sha256": "322d7098ae50071a0414c0528456d5747780efe460507267ec4adda07cc7083b"
-    },
-    {
-      "file": "produkt-10.webp",
-      "kind": "product",
-      "order": 10,
-      "sourceUrl": "https://clinus.pl/39032/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 90554,
-      "sha256": "cdfa23976ff729a837d6de49f4e03a215437d4fc0633d33f14f517adeb213cef"
-    },
-    {
-      "file": "produkt-11.webp",
-      "kind": "product",
-      "order": 11,
-      "sourceUrl": "https://clinus.pl/39033/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 39488,
-      "sha256": "0246df9a4d0555f9a651bf8cb3e3442a6e0c007743dfaac13888cbee1d2ebffd"
-    },
-    {
-      "file": "produkt-12.webp",
-      "kind": "product",
-      "order": 12,
-      "sourceUrl": "https://clinus.pl/39034/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 43918,
-      "sha256": "1372ec962712014ca75ba5f8159a573ff02cb1eafbf567be067d5c0a2252e7df"
-    },
-    {
-      "file": "produkt-13.webp",
-      "kind": "product",
-      "order": 13,
-      "sourceUrl": "https://clinus.pl/39035/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 42584,
-      "sha256": "8ac35a93291e001bce44fb90a95b5270fb72f5e72240bc4b047b4512e2db0f7c"
-    },
-    {
-      "file": "produkt-14.webp",
-      "kind": "product",
-      "order": 14,
-      "sourceUrl": "https://clinus.pl/39036/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 42610,
-      "sha256": "ca507490f85ecf4e4c45c29dd9dcc12c5332e45a16be8cffa63a4c896d9f2d4a"
-    },
-    {
-      "file": "produkt-15.webp",
-      "kind": "product",
-      "order": 15,
-      "sourceUrl": "https://clinus.pl/39037/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 31016,
-      "sha256": "b0ef707b19ad966a9766b100fe93ab53a9192bc4926aee7e3282dabdecb61bac"
-    },
-    {
-      "file": "produkt-16.webp",
-      "kind": "product",
-      "order": 16,
-      "sourceUrl": "https://clinus.pl/39038/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 45932,
-      "sha256": "7da5616eb3a650e0f37e7b2c73b8f99e5481f9becf50b974c353a713360f991e"
-    },
-    {
-      "file": "produkt-17.webp",
-      "kind": "product",
-      "order": 17,
-      "sourceUrl": "https://clinus.pl/39039/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 28300,
-      "sha256": "e1f185121706df2dd0a4de5a09f67dfd6e594d28ef2b0da5e55956e8b285ea0b"
-    },
-    {
-      "file": "produkt-18.webp",
-      "kind": "product",
-      "order": 18,
-      "sourceUrl": "https://clinus.pl/39040/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 47542,
-      "sha256": "4ad5b535eeb2e5b9e5507204ec95a3b8b1b3e805e4520888bc2ad6c2a7ab5a2f"
-    },
-    {
-      "file": "produkt-19.webp",
-      "kind": "product",
-      "order": 19,
-      "sourceUrl": "https://clinus.pl/39041/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1000,
-      "bytes": 36444,
-      "sha256": "2fef712f21e5af13ac95d832b019b820460eafc1623193e1ed5c6669749d1c0e"
-    },
-    {
-      "file": "produkt-20.webp",
-      "kind": "product",
-      "order": 20,
-      "sourceUrl": "https://clinus.pl/97603/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
-      "width": 1200,
-      "bytes": 109794,
-      "sha256": "a97347f15a059b93b6d7acbf622ed122b22ecd98bd30be2db15f361cc9e26d23"
-    },
-    {
-      "file": "opis-01.jpg",
-      "kind": "lifestyle",
-      "order": 1,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16281300/top-3.jpg",
-      "width": 1500,
-      "bytes": 484426,
-      "sha256": "57decf7a97baaae43f7600360db7a50d6f2ad3a2e99fc73c7685c5c10263cbf1"
-    }
-  ],
-  "dropped": 7
+ "version": 1,
+ "generatedAt": "2026-07-27T08:41:17.982Z",
+ "sourcePage": "https://clinus.pl/odkurzacze-sucho-mokro/karcher/49-karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy",
+ "slug": "karcher-wd-3",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "produkt-08.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "produkt-11.webp",
+  "produkt-12.webp",
+  "produkt-13.webp",
+  "produkt-14.webp",
+  "produkt-15.webp",
+  "produkt-16.webp",
+  "produkt-17.webp",
+  "produkt-18.webp",
+  "produkt-19.webp",
+  "produkt-20.webp",
+  "opis-01.jpg",
+  "logo-karcher.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/39023/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 30960,
+   "sha256": "4b1c3049204dcd888584c17f6365e080dd57a7fd449344e410fbb0694e66c5c3"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/39024/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 123592,
+   "sha256": "7248769c1826619914147ebb39d800c7c060c244f7569b1416cb3f2179ab118f"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/39025/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 59236,
+   "sha256": "607ebbcbda6a8ae63e58ca0c9c8df047638d792248e30d3dc279e6a3fca1dba9"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/39026/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 69848,
+   "sha256": "15a1032b5a5c7f219f0722286113eb1b7794e0e8519f9f63e6b28044d361108b"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/39027/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 138932,
+   "sha256": "ba780323db1ba3fc34faf90909633f0895eae6062d9ae35833b08dabb13cf989"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/39028/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 54108,
+   "sha256": "380c5a0e77380557120df7cc4ae1adfc711d98b1f3ecb7b0ca43f4886a580a1f"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/39029/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 172360,
+   "sha256": "94caef7d14cba6d1f64f0c0d34bb1f1eea00b57050856ca779265cf9dedd4604"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/39030/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 192276,
+   "sha256": "8ee3a372e6b1fc6c5d715aecb890b9940f269dfffba1f09c13968b47e4568dd7"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://clinus.pl/39031/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 129410,
+   "sha256": "322d7098ae50071a0414c0528456d5747780efe460507267ec4adda07cc7083b"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://clinus.pl/39032/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 90554,
+   "sha256": "cdfa23976ff729a837d6de49f4e03a215437d4fc0633d33f14f517adeb213cef"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://clinus.pl/39033/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 39488,
+   "sha256": "0246df9a4d0555f9a651bf8cb3e3442a6e0c007743dfaac13888cbee1d2ebffd"
+  },
+  {
+   "file": "produkt-12.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://clinus.pl/39034/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 43918,
+   "sha256": "1372ec962712014ca75ba5f8159a573ff02cb1eafbf567be067d5c0a2252e7df"
+  },
+  {
+   "file": "produkt-13.webp",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://clinus.pl/39035/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 42584,
+   "sha256": "8ac35a93291e001bce44fb90a95b5270fb72f5e72240bc4b047b4512e2db0f7c"
+  },
+  {
+   "file": "produkt-14.webp",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://clinus.pl/39036/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 42610,
+   "sha256": "ca507490f85ecf4e4c45c29dd9dcc12c5332e45a16be8cffa63a4c896d9f2d4a"
+  },
+  {
+   "file": "produkt-15.webp",
+   "kind": "product",
+   "order": 15,
+   "sourceUrl": "https://clinus.pl/39037/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 31016,
+   "sha256": "b0ef707b19ad966a9766b100fe93ab53a9192bc4926aee7e3282dabdecb61bac"
+  },
+  {
+   "file": "produkt-16.webp",
+   "kind": "product",
+   "order": 16,
+   "sourceUrl": "https://clinus.pl/39038/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 45932,
+   "sha256": "7da5616eb3a650e0f37e7b2c73b8f99e5481f9becf50b974c353a713360f991e"
+  },
+  {
+   "file": "produkt-17.webp",
+   "kind": "product",
+   "order": 17,
+   "sourceUrl": "https://clinus.pl/39039/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 28300,
+   "sha256": "e1f185121706df2dd0a4de5a09f67dfd6e594d28ef2b0da5e55956e8b285ea0b"
+  },
+  {
+   "file": "produkt-18.webp",
+   "kind": "product",
+   "order": 18,
+   "sourceUrl": "https://clinus.pl/39040/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 47542,
+   "sha256": "4ad5b535eeb2e5b9e5507204ec95a3b8b1b3e805e4520888bc2ad6c2a7ab5a2f"
+  },
+  {
+   "file": "produkt-19.webp",
+   "kind": "product",
+   "order": 19,
+   "sourceUrl": "https://clinus.pl/39041/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1000,
+   "bytes": 36444,
+   "sha256": "2fef712f21e5af13ac95d832b019b820460eafc1623193e1ed5c6669749d1c0e"
+  },
+  {
+   "file": "produkt-20.webp",
+   "kind": "product",
+   "order": 20,
+   "sourceUrl": "https://clinus.pl/97603/karcher-wd-3-v-17-4-20-odkurzacz-warsztatowy.webp",
+   "width": 1200,
+   "bytes": 109794,
+   "sha256": "a97347f15a059b93b6d7acbf622ed122b22ecd98bd30be2db15f361cc9e26d23"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16281300/top-3.jpg",
+   "width": 1500,
+   "bytes": 484426,
+   "sha256": "57decf7a97baaae43f7600360db7a50d6f2ad3a2e99fc73c7685c5c10263cbf1"
+  },
+  {
+   "file": "logo-karcher.jpg",
+   "kind": "logo",
+   "order": 22,
+   "sourceUrl": "dropshipping/materialy/logo/Karcher-Logo-2015-present.jpg",
+   "bytes": 8418
+  }
+ ],
+ "dropped": 7
 }

@@ -1,351 +1,359 @@
 {
-  "version": 1,
-  "generatedAt": "2026-07-27T08:42:55.945Z",
-  "sourcePage": "https://clinus.pl/odkurzacze-sucho-mokro/karcher/1857-karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem",
-  "slug": "karcher-wd-6-p-s",
-  "galleryOrder": [
-    "produkt-01.webp",
-    "produkt-02.webp",
-    "produkt-03.webp",
-    "produkt-04.webp",
-    "produkt-05.webp",
-    "produkt-06.webp",
-    "produkt-07.webp",
-    "produkt-08.webp",
-    "produkt-09.webp",
-    "produkt-10.webp",
-    "produkt-11.webp",
-    "produkt-12.webp",
-    "produkt-13.webp",
-    "produkt-14.webp",
-    "produkt-15.webp",
-    "produkt-16.webp",
-    "produkt-17.webp",
-    "produkt-18.webp",
-    "produkt-19.webp",
-    "produkt-20.webp",
-    "produkt-21.webp",
-    "produkt-22.webp",
-    "produkt-23.webp",
-    "produkt-24.webp",
-    "produkt-25.webp",
-    "produkt-26.webp",
-    "produkt-27.webp",
-    "opis-01.jpg",
-    "opis-02.jpg",
-    "opis-03.jpg",
-    "opis-04.jpg",
-    "opis-05.jpg",
-    "opis-06.jpg",
-    "opis-07.jpg"
-  ],
-  "files": [
-    {
-      "file": "produkt-01.webp",
-      "kind": "product",
-      "order": 1,
-      "sourceUrl": "https://clinus.pl/35623/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 47954,
-      "sha256": "613b3eed514381113f2443f0629136054ba961b4e079b7c6a4eaf880dc2fad65"
-    },
-    {
-      "file": "produkt-02.webp",
-      "kind": "product",
-      "order": 2,
-      "sourceUrl": "https://clinus.pl/35624/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 37780,
-      "sha256": "4395cd35def749dd1be84061eb13740d64ec3fc2735164982ba31b8ab1f6c4e1"
-    },
-    {
-      "file": "produkt-03.webp",
-      "kind": "product",
-      "order": 3,
-      "sourceUrl": "https://clinus.pl/35625/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 64254,
-      "sha256": "f3b47238f438a1d69cb390afe56a5a6ebeef15cbaee3160d63a09c7e3d640984"
-    },
-    {
-      "file": "produkt-04.webp",
-      "kind": "product",
-      "order": 4,
-      "sourceUrl": "https://clinus.pl/35626/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 63692,
-      "sha256": "daba91528f7737f08d6c95d3505f79faf31c45827c2580f0f928c557d56c0dbf"
-    },
-    {
-      "file": "produkt-05.webp",
-      "kind": "product",
-      "order": 5,
-      "sourceUrl": "https://clinus.pl/35627/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 54360,
-      "sha256": "8bae3f71fd93b587269d0949dbc4bec3b9fd74693e7cb2936d9a2d6bba7ca191"
-    },
-    {
-      "file": "produkt-06.webp",
-      "kind": "product",
-      "order": 6,
-      "sourceUrl": "https://clinus.pl/35628/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 216022,
-      "sha256": "13d8483ccf01a02cc4a13556c0252a61608216eaa3ce049e41a488f9d78b924b"
-    },
-    {
-      "file": "produkt-07.webp",
-      "kind": "product",
-      "order": 7,
-      "sourceUrl": "https://clinus.pl/35629/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 37696,
-      "sha256": "c9fd0d53e6bc6f59ba15602a11e07921b9bb1897e4e4c197c454f50a65cc88c4"
-    },
-    {
-      "file": "produkt-08.webp",
-      "kind": "product",
-      "order": 8,
-      "sourceUrl": "https://clinus.pl/35630/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 80176,
-      "sha256": "856da4e0b4561232c407ee0de3b208b58ce86ab7385f2455df878db3147d39c9"
-    },
-    {
-      "file": "produkt-09.webp",
-      "kind": "product",
-      "order": 9,
-      "sourceUrl": "https://clinus.pl/35631/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 57338,
-      "sha256": "3ac30f1f6416966e9ed98c7f536e9451b79e95dbdd434b4a11918b6f695901ac"
-    },
-    {
-      "file": "produkt-10.webp",
-      "kind": "product",
-      "order": 10,
-      "sourceUrl": "https://clinus.pl/35632/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 49720,
-      "sha256": "0eecad436faf40966f3d1d570b61df593341600dcedc7f178406346148eaefed"
-    },
-    {
-      "file": "produkt-11.webp",
-      "kind": "product",
-      "order": 11,
-      "sourceUrl": "https://clinus.pl/35633/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 80368,
-      "sha256": "a2ae3f4e64a557917dd7925048a4358cc69eabc77d9a3c3d9c9f29d5c33b635a"
-    },
-    {
-      "file": "produkt-12.webp",
-      "kind": "product",
-      "order": 12,
-      "sourceUrl": "https://clinus.pl/35634/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 173514,
-      "sha256": "4af4a6aa8207d7fe6e7aa7207a464ae40fa03c37eb7474094e729f0fbefccb41"
-    },
-    {
-      "file": "produkt-13.webp",
-      "kind": "product",
-      "order": 13,
-      "sourceUrl": "https://clinus.pl/35635/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 133468,
-      "sha256": "4edb1bb825e768ffb550941ffe6eda357081ac266dcdec444410366d1624ef7e"
-    },
-    {
-      "file": "produkt-14.webp",
-      "kind": "product",
-      "order": 14,
-      "sourceUrl": "https://clinus.pl/35636/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 139516,
-      "sha256": "43089796c4a3c75ce0156b5ab27c6a88212ca3440551c140762d9a8774786f7b"
-    },
-    {
-      "file": "produkt-15.webp",
-      "kind": "product",
-      "order": 15,
-      "sourceUrl": "https://clinus.pl/35637/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 224378,
-      "sha256": "ebea20dec54971a316920f68036035ce16098e74d812291344e19c3b3b3a4c28"
-    },
-    {
-      "file": "produkt-16.webp",
-      "kind": "product",
-      "order": 16,
-      "sourceUrl": "https://clinus.pl/35638/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 115756,
-      "sha256": "0bccd796fc9bf86c4f53491621990715d96de7a03372b49c1eecbd6b7f495f3d"
-    },
-    {
-      "file": "produkt-17.webp",
-      "kind": "product",
-      "order": 17,
-      "sourceUrl": "https://clinus.pl/35639/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 84440,
-      "sha256": "f5fb7b7877e5a9fae8231c1964bf63e4a9c303617047ef75219c180de779f03c"
-    },
-    {
-      "file": "produkt-18.webp",
-      "kind": "product",
-      "order": 18,
-      "sourceUrl": "https://clinus.pl/35640/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 76628,
-      "sha256": "cf5a466b1f5b018f23df3d576b0686c47813e8f9198aa2d3ea12fd5f36311bb2"
-    },
-    {
-      "file": "produkt-19.webp",
-      "kind": "product",
-      "order": 19,
-      "sourceUrl": "https://clinus.pl/35641/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 84372,
-      "sha256": "1a809aed1689e5672f7d92ae136d0ce0ee0367b5bdaf74c7a711456be7b55fde"
-    },
-    {
-      "file": "produkt-20.webp",
-      "kind": "product",
-      "order": 20,
-      "sourceUrl": "https://clinus.pl/35642/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 174692,
-      "sha256": "7858b494d150f30f7357049bf46512190f558b5be7f1ff16929ec3282a90fd8a"
-    },
-    {
-      "file": "produkt-21.webp",
-      "kind": "product",
-      "order": 21,
-      "sourceUrl": "https://clinus.pl/35643/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 164502,
-      "sha256": "01c0e426461add20f4f4953e4827422079c7e20e95b68adeefe6a73048f12b13"
-    },
-    {
-      "file": "produkt-22.webp",
-      "kind": "product",
-      "order": 22,
-      "sourceUrl": "https://clinus.pl/35644/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 95262,
-      "sha256": "3209cab52e1cbc6112e6b927d253e51d2d24ca7b29e9fda132be098c06e6155f"
-    },
-    {
-      "file": "produkt-23.webp",
-      "kind": "product",
-      "order": 23,
-      "sourceUrl": "https://clinus.pl/35645/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 129864,
-      "sha256": "b4a8445f91d6c0270a90e88f7c988c7540d7dfd52a1fbe1901971cc228bff193"
-    },
-    {
-      "file": "produkt-24.webp",
-      "kind": "product",
-      "order": 24,
-      "sourceUrl": "https://clinus.pl/35646/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 141198,
-      "sha256": "87e748d334aa782583c7ac90149e9e31fa6e6b451ce1bb8601d25d535edea31f"
-    },
-    {
-      "file": "produkt-25.webp",
-      "kind": "product",
-      "order": 25,
-      "sourceUrl": "https://clinus.pl/35647/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 146520,
-      "sha256": "7e0b213c7cfc336c968feb8cf2da9bcd03be84f25aea81c63f53e109783d152e"
-    },
-    {
-      "file": "produkt-26.webp",
-      "kind": "product",
-      "order": 26,
-      "sourceUrl": "https://clinus.pl/35648/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 132740,
-      "sha256": "20b4f854932351f76599b305aa71481a4947c08924c1789691c6dd4de0b1b419"
-    },
-    {
-      "file": "produkt-27.webp",
-      "kind": "product",
-      "order": 27,
-      "sourceUrl": "https://clinus.pl/97579/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
-      "width": 1000,
-      "bytes": 117462,
-      "sha256": "318e4f1e36380eacf52212c90b4ee4178456019d15de6331d9e1677027c37534"
-    },
-    {
-      "file": "opis-01.jpg",
-      "kind": "lifestyle",
-      "order": 1,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283610/top-1-1-628-361-0.jpg",
-      "width": 1500,
-      "bytes": 181511,
-      "sha256": "8484b82b5c7406ac67c731574ad1ed61973077bb3151eb678c90f450200d7e04"
-    },
-    {
-      "file": "opis-02.jpg",
-      "kind": "lifestyle",
-      "order": 2,
-      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/aktywne-gniazdo-do-podlaczania-elektronarzedzi-wd6-p.jpg",
-      "width": 1140,
-      "bytes": 158167,
-      "sha256": "cb81466d73a47bfb82b05eefba5de80be3066f7c97ff1f4c490e8de0a66e808b"
-    },
-    {
-      "file": "opis-03.jpg",
-      "kind": "lifestyle",
-      "order": 3,
-      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/innowacyjna-technologia-szybkiego-wyjmowania-filtra-wd6p-karcher.jpg",
-      "width": 1140,
-      "bytes": 131293,
-      "sha256": "fbd16861ea5ad6ea6894e8bd8857e544c54cf665e362de6c0d8cb3e1867e8ccf"
-    },
-    {
-      "file": "opis-04.jpg",
-      "kind": "lifestyle",
-      "order": 4,
-      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/odkurzacz-karcher-wd6p-przechowywanie-weza-na-glowicy.jpg",
-      "width": 1140,
-      "bytes": 167059,
-      "sha256": "987966bde0a41446cece0d30770342790655f1fb19737a26d26004766db1fa45"
-    },
-    {
-      "file": "opis-05.jpg",
-      "kind": "lifestyle",
-      "order": 5,
-      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/wd6-nowy-model-spust-wody-worek-flizelinowy.jpg",
-      "width": 1140,
-      "bytes": 241928,
-      "sha256": "4299e1f3f0e6b9ce766b431c4328a824c591ba1aa6f737f5e7eae80950718d2a"
-    },
-    {
-      "file": "opis-06.jpg",
-      "kind": "lifestyle",
-      "order": 6,
-      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/praktyczny-uchwyt-na-przewod-zasilajacy-wd6p-karcher.jpg",
-      "width": 1140,
-      "bytes": 106342,
-      "sha256": "f0e85ac26266eefba5b843876caecd49442c0938228123bae1bde1e138c02a83"
-    },
-    {
-      "file": "opis-07.jpg",
-      "kind": "lifestyle",
-      "order": 7,
-      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/wd6p-praktyczna-funkcja-wydmuchu.jpg",
-      "width": 1140,
-      "bytes": 153369,
-      "sha256": "dba4f95157daaf0080ff4b0ec8a22c36225d51a3c05b67577c53de33aa3f42a8"
-    }
-  ],
-  "dropped": 9
+ "version": 1,
+ "generatedAt": "2026-07-27T08:42:55.945Z",
+ "sourcePage": "https://clinus.pl/odkurzacze-sucho-mokro/karcher/1857-karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem",
+ "slug": "karcher-wd-6-p-s",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "produkt-08.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "produkt-11.webp",
+  "produkt-12.webp",
+  "produkt-13.webp",
+  "produkt-14.webp",
+  "produkt-15.webp",
+  "produkt-16.webp",
+  "produkt-17.webp",
+  "produkt-18.webp",
+  "produkt-19.webp",
+  "produkt-20.webp",
+  "produkt-21.webp",
+  "produkt-22.webp",
+  "produkt-23.webp",
+  "produkt-24.webp",
+  "produkt-25.webp",
+  "produkt-26.webp",
+  "produkt-27.webp",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "logo-karcher.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/35623/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 47954,
+   "sha256": "613b3eed514381113f2443f0629136054ba961b4e079b7c6a4eaf880dc2fad65"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/35624/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 37780,
+   "sha256": "4395cd35def749dd1be84061eb13740d64ec3fc2735164982ba31b8ab1f6c4e1"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/35625/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 64254,
+   "sha256": "f3b47238f438a1d69cb390afe56a5a6ebeef15cbaee3160d63a09c7e3d640984"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/35626/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 63692,
+   "sha256": "daba91528f7737f08d6c95d3505f79faf31c45827c2580f0f928c557d56c0dbf"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/35627/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 54360,
+   "sha256": "8bae3f71fd93b587269d0949dbc4bec3b9fd74693e7cb2936d9a2d6bba7ca191"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/35628/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 216022,
+   "sha256": "13d8483ccf01a02cc4a13556c0252a61608216eaa3ce049e41a488f9d78b924b"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/35629/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 37696,
+   "sha256": "c9fd0d53e6bc6f59ba15602a11e07921b9bb1897e4e4c197c454f50a65cc88c4"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/35630/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 80176,
+   "sha256": "856da4e0b4561232c407ee0de3b208b58ce86ab7385f2455df878db3147d39c9"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://clinus.pl/35631/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 57338,
+   "sha256": "3ac30f1f6416966e9ed98c7f536e9451b79e95dbdd434b4a11918b6f695901ac"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://clinus.pl/35632/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 49720,
+   "sha256": "0eecad436faf40966f3d1d570b61df593341600dcedc7f178406346148eaefed"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://clinus.pl/35633/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 80368,
+   "sha256": "a2ae3f4e64a557917dd7925048a4358cc69eabc77d9a3c3d9c9f29d5c33b635a"
+  },
+  {
+   "file": "produkt-12.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://clinus.pl/35634/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 173514,
+   "sha256": "4af4a6aa8207d7fe6e7aa7207a464ae40fa03c37eb7474094e729f0fbefccb41"
+  },
+  {
+   "file": "produkt-13.webp",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://clinus.pl/35635/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 133468,
+   "sha256": "4edb1bb825e768ffb550941ffe6eda357081ac266dcdec444410366d1624ef7e"
+  },
+  {
+   "file": "produkt-14.webp",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://clinus.pl/35636/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 139516,
+   "sha256": "43089796c4a3c75ce0156b5ab27c6a88212ca3440551c140762d9a8774786f7b"
+  },
+  {
+   "file": "produkt-15.webp",
+   "kind": "product",
+   "order": 15,
+   "sourceUrl": "https://clinus.pl/35637/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 224378,
+   "sha256": "ebea20dec54971a316920f68036035ce16098e74d812291344e19c3b3b3a4c28"
+  },
+  {
+   "file": "produkt-16.webp",
+   "kind": "product",
+   "order": 16,
+   "sourceUrl": "https://clinus.pl/35638/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 115756,
+   "sha256": "0bccd796fc9bf86c4f53491621990715d96de7a03372b49c1eecbd6b7f495f3d"
+  },
+  {
+   "file": "produkt-17.webp",
+   "kind": "product",
+   "order": 17,
+   "sourceUrl": "https://clinus.pl/35639/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 84440,
+   "sha256": "f5fb7b7877e5a9fae8231c1964bf63e4a9c303617047ef75219c180de779f03c"
+  },
+  {
+   "file": "produkt-18.webp",
+   "kind": "product",
+   "order": 18,
+   "sourceUrl": "https://clinus.pl/35640/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 76628,
+   "sha256": "cf5a466b1f5b018f23df3d576b0686c47813e8f9198aa2d3ea12fd5f36311bb2"
+  },
+  {
+   "file": "produkt-19.webp",
+   "kind": "product",
+   "order": 19,
+   "sourceUrl": "https://clinus.pl/35641/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 84372,
+   "sha256": "1a809aed1689e5672f7d92ae136d0ce0ee0367b5bdaf74c7a711456be7b55fde"
+  },
+  {
+   "file": "produkt-20.webp",
+   "kind": "product",
+   "order": 20,
+   "sourceUrl": "https://clinus.pl/35642/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 174692,
+   "sha256": "7858b494d150f30f7357049bf46512190f558b5be7f1ff16929ec3282a90fd8a"
+  },
+  {
+   "file": "produkt-21.webp",
+   "kind": "product",
+   "order": 21,
+   "sourceUrl": "https://clinus.pl/35643/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 164502,
+   "sha256": "01c0e426461add20f4f4953e4827422079c7e20e95b68adeefe6a73048f12b13"
+  },
+  {
+   "file": "produkt-22.webp",
+   "kind": "product",
+   "order": 22,
+   "sourceUrl": "https://clinus.pl/35644/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 95262,
+   "sha256": "3209cab52e1cbc6112e6b927d253e51d2d24ca7b29e9fda132be098c06e6155f"
+  },
+  {
+   "file": "produkt-23.webp",
+   "kind": "product",
+   "order": 23,
+   "sourceUrl": "https://clinus.pl/35645/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 129864,
+   "sha256": "b4a8445f91d6c0270a90e88f7c988c7540d7dfd52a1fbe1901971cc228bff193"
+  },
+  {
+   "file": "produkt-24.webp",
+   "kind": "product",
+   "order": 24,
+   "sourceUrl": "https://clinus.pl/35646/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 141198,
+   "sha256": "87e748d334aa782583c7ac90149e9e31fa6e6b451ce1bb8601d25d535edea31f"
+  },
+  {
+   "file": "produkt-25.webp",
+   "kind": "product",
+   "order": 25,
+   "sourceUrl": "https://clinus.pl/35647/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 146520,
+   "sha256": "7e0b213c7cfc336c968feb8cf2da9bcd03be84f25aea81c63f53e109783d152e"
+  },
+  {
+   "file": "produkt-26.webp",
+   "kind": "product",
+   "order": 26,
+   "sourceUrl": "https://clinus.pl/35648/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 132740,
+   "sha256": "20b4f854932351f76599b305aa71481a4947c08924c1789691c6dd4de0b1b419"
+  },
+  {
+   "file": "produkt-27.webp",
+   "kind": "product",
+   "order": 27,
+   "sourceUrl": "https://clinus.pl/97579/karcher-wd-6-p-s-v-30-6-22-t-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+   "width": 1000,
+   "bytes": 117462,
+   "sha256": "318e4f1e36380eacf52212c90b4ee4178456019d15de6331d9e1677027c37534"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283610/top-1-1-628-361-0.jpg",
+   "width": 1500,
+   "bytes": 181511,
+   "sha256": "8484b82b5c7406ac67c731574ad1ed61973077bb3151eb678c90f450200d7e04"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/aktywne-gniazdo-do-podlaczania-elektronarzedzi-wd6-p.jpg",
+   "width": 1140,
+   "bytes": 158167,
+   "sha256": "cb81466d73a47bfb82b05eefba5de80be3066f7c97ff1f4c490e8de0a66e808b"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/innowacyjna-technologia-szybkiego-wyjmowania-filtra-wd6p-karcher.jpg",
+   "width": 1140,
+   "bytes": 131293,
+   "sha256": "fbd16861ea5ad6ea6894e8bd8857e544c54cf665e362de6c0d8cb3e1867e8ccf"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/odkurzacz-karcher-wd6p-przechowywanie-weza-na-glowicy.jpg",
+   "width": 1140,
+   "bytes": 167059,
+   "sha256": "987966bde0a41446cece0d30770342790655f1fb19737a26d26004766db1fa45"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/wd6-nowy-model-spust-wody-worek-flizelinowy.jpg",
+   "width": 1140,
+   "bytes": 241928,
+   "sha256": "4299e1f3f0e6b9ce766b431c4328a824c591ba1aa6f737f5e7eae80950718d2a"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/praktyczny-uchwyt-na-przewod-zasilajacy-wd6p-karcher.jpg",
+   "width": 1140,
+   "bytes": 106342,
+   "sha256": "f0e85ac26266eefba5b843876caecd49442c0938228123bae1bde1e138c02a83"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/wd6p-praktyczna-funkcja-wydmuchu.jpg",
+   "width": 1140,
+   "bytes": 153369,
+   "sha256": "dba4f95157daaf0080ff4b0ec8a22c36225d51a3c05b67577c53de33aa3f42a8"
+  },
+  {
+   "file": "logo-karcher.jpg",
+   "kind": "logo",
+   "order": 35,
+   "sourceUrl": "dropshipping/materialy/logo/Karcher-Logo-2015-present.jpg",
+   "bytes": 8418
+  }
+ ],
+ "dropped": 9
 }

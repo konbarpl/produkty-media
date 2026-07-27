@@ -1,321 +1,329 @@
 {
-  "version": 1,
-  "generatedAt": "2026-07-27T08:43:47.654Z",
-  "sourcePage": "https://clinus.pl/odkurzacze-sucho-mokro/karcher/5463-karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m",
-  "slug": "karcher-wd-5-s-zestaw-ssawka-przedluzka",
-  "galleryOrder": [
-    "produkt-01.webp",
-    "produkt-02.webp",
-    "produkt-03.webp",
-    "produkt-04.webp",
-    "produkt-05.webp",
-    "produkt-06.webp",
-    "produkt-07.webp",
-    "produkt-08.webp",
-    "produkt-09.webp",
-    "produkt-10.webp",
-    "produkt-11.webp",
-    "produkt-12.webp",
-    "produkt-13.webp",
-    "produkt-14.webp",
-    "produkt-15.webp",
-    "produkt-16.webp",
-    "produkt-17.webp",
-    "produkt-18.webp",
-    "produkt-19.webp",
-    "produkt-20.webp",
-    "produkt-21.webp",
-    "produkt-22.webp",
-    "opis-01.jpg",
-    "opis-02.jpg",
-    "opis-03.jpg",
-    "opis-04.jpg",
-    "opis-05.jpg",
-    "opis-06.jpg",
-    "opis-07.jpg",
-    "opis-08.jpg",
-    "opis-09.jpg"
-  ],
-  "files": [
-    {
-      "file": "produkt-01.webp",
-      "kind": "product",
-      "order": 1,
-      "sourceUrl": "https://clinus.pl/49257-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 28984,
-      "sha256": "5bca2c8172ca9ccf74285995a76a54168cf2f6722392123f43222f35598c7583"
-    },
-    {
-      "file": "produkt-02.webp",
-      "kind": "product",
-      "order": 2,
-      "sourceUrl": "https://clinus.pl/49258-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 56982,
-      "sha256": "dd122ad297e3cd9f4abdec9ddf703dabdd7231dc28b035d809458762953117bc"
-    },
-    {
-      "file": "produkt-03.webp",
-      "kind": "product",
-      "order": 3,
-      "sourceUrl": "https://clinus.pl/49259-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 72946,
-      "sha256": "2da5711f434fdbd14e58a50391a0708b4c9eaf2dd35cd955503f95e5bd61124e"
-    },
-    {
-      "file": "produkt-04.webp",
-      "kind": "product",
-      "order": 4,
-      "sourceUrl": "https://clinus.pl/49260-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 42738,
-      "sha256": "610fb4e24ee418a18b7283c8e662fbb028383b12f352f204c84848521585d1df"
-    },
-    {
-      "file": "produkt-05.webp",
-      "kind": "product",
-      "order": 5,
-      "sourceUrl": "https://clinus.pl/49261-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 34782,
-      "sha256": "fbed7dd6bbbe7e7ac314115932b592e51b67af62021a88885b1964eeaaa51803"
-    },
-    {
-      "file": "produkt-06.webp",
-      "kind": "product",
-      "order": 6,
-      "sourceUrl": "https://clinus.pl/49262-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 18096,
-      "sha256": "7daf39b30532d4ecd9e600f640ba558bfdab244848007c1063b29a06336703dc"
-    },
-    {
-      "file": "produkt-07.webp",
-      "kind": "product",
-      "order": 7,
-      "sourceUrl": "https://clinus.pl/49263-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 53646,
-      "sha256": "6f5e4fd52518e6a432196ec7b3da3c6c3e2a4cc253adf6a8194d21c571e0f81e"
-    },
-    {
-      "file": "produkt-08.webp",
-      "kind": "product",
-      "order": 8,
-      "sourceUrl": "https://clinus.pl/49264-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 46988,
-      "sha256": "414eacc7fdcfef9a9a59d4ca23386a2502bde1c2f7338ce82cf19d64f1c56b3e"
-    },
-    {
-      "file": "produkt-09.webp",
-      "kind": "product",
-      "order": 9,
-      "sourceUrl": "https://clinus.pl/49265-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 32766,
-      "sha256": "4c7b6f84ab120e1164149a61e76e7c0f6d7bd98c876710b20f770a5879a8a4af"
-    },
-    {
-      "file": "produkt-10.webp",
-      "kind": "product",
-      "order": 10,
-      "sourceUrl": "https://clinus.pl/49266-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 27366,
-      "sha256": "d109948c867d866a520702820614c3ad61d6900b7842724aeecb87df013b753b"
-    },
-    {
-      "file": "produkt-11.webp",
-      "kind": "product",
-      "order": 11,
-      "sourceUrl": "https://clinus.pl/49267-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 28852,
-      "sha256": "625e50174da1db78b5f7bf5dddf185ca9f338f65b1dcc9648f44f3222ad34fb8"
-    },
-    {
-      "file": "produkt-12.webp",
-      "kind": "product",
-      "order": 12,
-      "sourceUrl": "https://clinus.pl/49268-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 33520,
-      "sha256": "d2fe8ba88974ec78f3a168624a2e30b13e6be9ab0ad2df9cda3972634f145d0d"
-    },
-    {
-      "file": "produkt-13.webp",
-      "kind": "product",
-      "order": 13,
-      "sourceUrl": "https://clinus.pl/49269-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 34280,
-      "sha256": "b99502ef929d719523d5517143374f614cfd9516d975e634233dfbad8618248f"
-    },
-    {
-      "file": "produkt-14.webp",
-      "kind": "product",
-      "order": 14,
-      "sourceUrl": "https://clinus.pl/49270-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 29524,
-      "sha256": "0e8d50044bf25fc15047ecf74f52f8beda671d8c85861e0676c7037d5fa758aa"
-    },
-    {
-      "file": "produkt-15.webp",
-      "kind": "product",
-      "order": 15,
-      "sourceUrl": "https://clinus.pl/49271-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 40014,
-      "sha256": "7c835cc40ec63f5de8d870bf34f8fb21b36a9b21416bd45bee78f8068856bb50"
-    },
-    {
-      "file": "produkt-16.webp",
-      "kind": "product",
-      "order": 16,
-      "sourceUrl": "https://clinus.pl/49272-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 69450,
-      "sha256": "5c6e78dcaa06edb5a02a6bfd5a9e2c1190bdc41dca5d8eb4050d280faea91513"
-    },
-    {
-      "file": "produkt-17.webp",
-      "kind": "product",
-      "order": 17,
-      "sourceUrl": "https://clinus.pl/49273-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 53038,
-      "sha256": "b426a8726a32353f0c0d52094f9cf16b76c97d96ed3656614ed051eeb60d8dbc"
-    },
-    {
-      "file": "produkt-18.webp",
-      "kind": "product",
-      "order": 18,
-      "sourceUrl": "https://clinus.pl/49274-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 89520,
-      "sha256": "e2f160fc5cfba14a4a194f5d20b4a1e760792ed04a716fb2bd2c7ecd4dd7a903"
-    },
-    {
-      "file": "produkt-19.webp",
-      "kind": "product",
-      "order": 19,
-      "sourceUrl": "https://clinus.pl/49275-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 113158,
-      "sha256": "8739fa41431e6a3138b542adc92c10bba18adc73c320d6b0b4f8fa2673d26cf2"
-    },
-    {
-      "file": "produkt-20.webp",
-      "kind": "product",
-      "order": 20,
-      "sourceUrl": "https://clinus.pl/49276-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 40904,
-      "sha256": "47aa4e8ae19546c580e51a87d3f3d04e11b8cc407767a56a149201338e665f8a"
-    },
-    {
-      "file": "produkt-21.webp",
-      "kind": "product",
-      "order": 21,
-      "sourceUrl": "https://clinus.pl/49277-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 800,
-      "bytes": 117336,
-      "sha256": "bc50e10172ec01f1b8700348b06b6e751e30f2f3c338cd828e29d1421686754b"
-    },
-    {
-      "file": "produkt-22.webp",
-      "kind": "product",
-      "order": 22,
-      "sourceUrl": "https://clinus.pl/49279/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
-      "width": 1000,
-      "bytes": 58194,
-      "sha256": "b17e3291e8f085e64e85fec8144a5e7e38e9739217ea0efcbe74db8fc90c5d0a"
-    },
-    {
-      "file": "opis-01.jpg",
-      "kind": "lifestyle",
-      "order": 1,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/1-628-379-0-top1.jpg",
-      "width": 1500,
-      "bytes": 230979,
-      "sha256": "c1143e191b6ea881cfb82ba81c4d6fbd557da5e57c33748c6ee1a9c47213396b"
-    },
-    {
-      "file": "opis-02.jpg",
-      "kind": "lifestyle",
-      "order": 2,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/7.jpg",
-      "width": 1000,
-      "bytes": 140528,
-      "sha256": "c5d215b62d96cfba9e6a1e9eec6488fed5204b6a7007fbb7d48c263900d10529"
-    },
-    {
-      "file": "opis-03.jpg",
-      "kind": "lifestyle",
-      "order": 3,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/22.jpg",
-      "width": 1000,
-      "bytes": 76726,
-      "sha256": "ba2d1d94dfbcbe2bb419077ee862cda5c8e4a3f7892ab0ea271a8df50add3f54"
-    },
-    {
-      "file": "opis-04.jpg",
-      "kind": "lifestyle",
-      "order": 4,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/15.jpg",
-      "width": 1000,
-      "bytes": 105751,
-      "sha256": "d26702051cb5fefdd444cfe3896dd422b1fdb1dda8e8558dcc10779307e7e043"
-    },
-    {
-      "file": "opis-05.jpg",
-      "kind": "lifestyle",
-      "order": 5,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/11.jpg",
-      "width": 1000,
-      "bytes": 95099,
-      "sha256": "9b7d3e9c3aaeb0f3d372983650e07f0470159cd39e60db9fc50386a32c06069a"
-    },
-    {
-      "file": "opis-06.jpg",
-      "kind": "lifestyle",
-      "order": 6,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/17.jpg",
-      "width": 1000,
-      "bytes": 73674,
-      "sha256": "c0f272a805e36c18b1424f75aa85f44cc89ddefc31f41ab1d21ba2fb8c850b68"
-    },
-    {
-      "file": "opis-07.jpg",
-      "kind": "lifestyle",
-      "order": 7,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/9.jpg",
-      "width": 1000,
-      "bytes": 169144,
-      "sha256": "6cd2a1c232923a001d31e1e4b3e583e927196b1dd66ff05918d9c42d9a9f1010"
-    },
-    {
-      "file": "opis-08.jpg",
-      "kind": "lifestyle",
-      "order": 8,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/16.jpg",
-      "width": 1000,
-      "bytes": 94647,
-      "sha256": "c928ae8d7515eb76eb2c7e67a36e1d4cd7219567569a8f29483917116a5b632f"
-    },
-    {
-      "file": "opis-09.jpg",
-      "kind": "lifestyle",
-      "order": 9,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/14.jpg",
-      "width": 1000,
-      "bytes": 137474,
-      "sha256": "f5a4ee2903506a481603895900b266b87c95970880faee0b9107df1f10ecf924"
-    }
-  ],
-  "dropped": 7
+ "version": 1,
+ "generatedAt": "2026-07-27T08:43:47.654Z",
+ "sourcePage": "https://clinus.pl/odkurzacze-sucho-mokro/karcher/5463-karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m",
+ "slug": "karcher-wd-5-s-zestaw-ssawka-przedluzka",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "produkt-08.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "produkt-11.webp",
+  "produkt-12.webp",
+  "produkt-13.webp",
+  "produkt-14.webp",
+  "produkt-15.webp",
+  "produkt-16.webp",
+  "produkt-17.webp",
+  "produkt-18.webp",
+  "produkt-19.webp",
+  "produkt-20.webp",
+  "produkt-21.webp",
+  "produkt-22.webp",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "opis-08.jpg",
+  "opis-09.jpg",
+  "logo-karcher.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/49257-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 28984,
+   "sha256": "5bca2c8172ca9ccf74285995a76a54168cf2f6722392123f43222f35598c7583"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/49258-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 56982,
+   "sha256": "dd122ad297e3cd9f4abdec9ddf703dabdd7231dc28b035d809458762953117bc"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/49259-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 72946,
+   "sha256": "2da5711f434fdbd14e58a50391a0708b4c9eaf2dd35cd955503f95e5bd61124e"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/49260-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 42738,
+   "sha256": "610fb4e24ee418a18b7283c8e662fbb028383b12f352f204c84848521585d1df"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/49261-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 34782,
+   "sha256": "fbed7dd6bbbe7e7ac314115932b592e51b67af62021a88885b1964eeaaa51803"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/49262-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 18096,
+   "sha256": "7daf39b30532d4ecd9e600f640ba558bfdab244848007c1063b29a06336703dc"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/49263-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 53646,
+   "sha256": "6f5e4fd52518e6a432196ec7b3da3c6c3e2a4cc253adf6a8194d21c571e0f81e"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/49264-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 46988,
+   "sha256": "414eacc7fdcfef9a9a59d4ca23386a2502bde1c2f7338ce82cf19d64f1c56b3e"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://clinus.pl/49265-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 32766,
+   "sha256": "4c7b6f84ab120e1164149a61e76e7c0f6d7bd98c876710b20f770a5879a8a4af"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://clinus.pl/49266-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 27366,
+   "sha256": "d109948c867d866a520702820614c3ad61d6900b7842724aeecb87df013b753b"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://clinus.pl/49267-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 28852,
+   "sha256": "625e50174da1db78b5f7bf5dddf185ca9f338f65b1dcc9648f44f3222ad34fb8"
+  },
+  {
+   "file": "produkt-12.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://clinus.pl/49268-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 33520,
+   "sha256": "d2fe8ba88974ec78f3a168624a2e30b13e6be9ab0ad2df9cda3972634f145d0d"
+  },
+  {
+   "file": "produkt-13.webp",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://clinus.pl/49269-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 34280,
+   "sha256": "b99502ef929d719523d5517143374f614cfd9516d975e634233dfbad8618248f"
+  },
+  {
+   "file": "produkt-14.webp",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://clinus.pl/49270-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 29524,
+   "sha256": "0e8d50044bf25fc15047ecf74f52f8beda671d8c85861e0676c7037d5fa758aa"
+  },
+  {
+   "file": "produkt-15.webp",
+   "kind": "product",
+   "order": 15,
+   "sourceUrl": "https://clinus.pl/49271-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 40014,
+   "sha256": "7c835cc40ec63f5de8d870bf34f8fb21b36a9b21416bd45bee78f8068856bb50"
+  },
+  {
+   "file": "produkt-16.webp",
+   "kind": "product",
+   "order": 16,
+   "sourceUrl": "https://clinus.pl/49272-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 69450,
+   "sha256": "5c6e78dcaa06edb5a02a6bfd5a9e2c1190bdc41dca5d8eb4050d280faea91513"
+  },
+  {
+   "file": "produkt-17.webp",
+   "kind": "product",
+   "order": 17,
+   "sourceUrl": "https://clinus.pl/49273-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 53038,
+   "sha256": "b426a8726a32353f0c0d52094f9cf16b76c97d96ed3656614ed051eeb60d8dbc"
+  },
+  {
+   "file": "produkt-18.webp",
+   "kind": "product",
+   "order": 18,
+   "sourceUrl": "https://clinus.pl/49274-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 89520,
+   "sha256": "e2f160fc5cfba14a4a194f5d20b4a1e760792ed04a716fb2bd2c7ecd4dd7a903"
+  },
+  {
+   "file": "produkt-19.webp",
+   "kind": "product",
+   "order": 19,
+   "sourceUrl": "https://clinus.pl/49275-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 113158,
+   "sha256": "8739fa41431e6a3138b542adc92c10bba18adc73c320d6b0b4f8fa2673d26cf2"
+  },
+  {
+   "file": "produkt-20.webp",
+   "kind": "product",
+   "order": 20,
+   "sourceUrl": "https://clinus.pl/49276-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 40904,
+   "sha256": "47aa4e8ae19546c580e51a87d3f3d04e11b8cc407767a56a149201338e665f8a"
+  },
+  {
+   "file": "produkt-21.webp",
+   "kind": "product",
+   "order": 21,
+   "sourceUrl": "https://clinus.pl/49277-large_default/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 800,
+   "bytes": 117336,
+   "sha256": "bc50e10172ec01f1b8700348b06b6e751e30f2f3c338cd828e29d1421686754b"
+  },
+  {
+   "file": "produkt-22.webp",
+   "kind": "product",
+   "order": 22,
+   "sourceUrl": "https://clinus.pl/49279/karcher-wd-5-s-v-30-5-22-zestaw-rozszerzony-ssawka-samochodowa-przedluzka-weza-ssacego-3-5-m.webp",
+   "width": 1000,
+   "bytes": 58194,
+   "sha256": "b17e3291e8f085e64e85fec8144a5e7e38e9739217ea0efcbe74db8fc90c5d0a"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/1-628-379-0-top1.jpg",
+   "width": 1500,
+   "bytes": 230979,
+   "sha256": "c1143e191b6ea881cfb82ba81c4d6fbd557da5e57c33748c6ee1a9c47213396b"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/7.jpg",
+   "width": 1000,
+   "bytes": 140528,
+   "sha256": "c5d215b62d96cfba9e6a1e9eec6488fed5204b6a7007fbb7d48c263900d10529"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/22.jpg",
+   "width": 1000,
+   "bytes": 76726,
+   "sha256": "ba2d1d94dfbcbe2bb419077ee862cda5c8e4a3f7892ab0ea271a8df50add3f54"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/15.jpg",
+   "width": 1000,
+   "bytes": 105751,
+   "sha256": "d26702051cb5fefdd444cfe3896dd422b1fdb1dda8e8558dcc10779307e7e043"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/11.jpg",
+   "width": 1000,
+   "bytes": 95099,
+   "sha256": "9b7d3e9c3aaeb0f3d372983650e07f0470159cd39e60db9fc50386a32c06069a"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/17.jpg",
+   "width": 1000,
+   "bytes": 73674,
+   "sha256": "c0f272a805e36c18b1424f75aa85f44cc89ddefc31f41ab1d21ba2fb8c850b68"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/9.jpg",
+   "width": 1000,
+   "bytes": 169144,
+   "sha256": "6cd2a1c232923a001d31e1e4b3e583e927196b1dd66ff05918d9c42d9a9f1010"
+  },
+  {
+   "file": "opis-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/16.jpg",
+   "width": 1000,
+   "bytes": 94647,
+   "sha256": "c928ae8d7515eb76eb2c7e67a36e1d4cd7219567569a8f29483917116a5b632f"
+  },
+  {
+   "file": "opis-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283790/14.jpg",
+   "width": 1000,
+   "bytes": 137474,
+   "sha256": "f5a4ee2903506a481603895900b266b87c95970880faee0b9107df1f10ecf924"
+  },
+  {
+   "file": "logo-karcher.jpg",
+   "kind": "logo",
+   "order": 32,
+   "sourceUrl": "dropshipping/materialy/logo/Karcher-Logo-2015-present.jpg",
+   "bytes": 8418
+  }
+ ],
+ "dropped": 7
 }

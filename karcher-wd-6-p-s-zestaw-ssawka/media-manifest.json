@@ -1,371 +1,379 @@
 {
-  "version": 1,
-  "generatedAt": "2026-07-27T08:43:09.055Z",
-  "sourcePage": "https://clinus.pl/odkurzacze-sucho-mokro/karcher/4905-karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa",
-  "slug": "karcher-wd-6-p-s-zestaw-ssawka",
-  "galleryOrder": [
-    "produkt-01.webp",
-    "produkt-02.webp",
-    "produkt-03.webp",
-    "produkt-04.webp",
-    "produkt-05.webp",
-    "produkt-06.webp",
-    "produkt-07.webp",
-    "produkt-08.webp",
-    "produkt-09.webp",
-    "produkt-10.webp",
-    "produkt-11.webp",
-    "produkt-12.webp",
-    "produkt-13.webp",
-    "produkt-14.webp",
-    "produkt-15.webp",
-    "produkt-16.webp",
-    "produkt-17.webp",
-    "produkt-18.webp",
-    "produkt-19.webp",
-    "produkt-20.webp",
-    "produkt-21.webp",
-    "produkt-22.webp",
-    "produkt-23.webp",
-    "produkt-24.webp",
-    "produkt-25.webp",
-    "produkt-26.webp",
-    "produkt-27.webp",
-    "produkt-28.webp",
-    "opis-01.jpg",
-    "opis-02.jpg",
-    "opis-03.jpg",
-    "opis-04.jpg",
-    "opis-05.jpg",
-    "opis-06.jpg",
-    "opis-07.jpg",
-    "opis-08.jpg"
-  ],
-  "files": [
-    {
-      "file": "produkt-01.webp",
-      "kind": "product",
-      "order": 1,
-      "sourceUrl": "https://clinus.pl/35649-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 34340,
-      "sha256": "4c38b167e01aeeaf61bbcbf374bc067b6cecf0d54648219f25f5481b97a77aff"
-    },
-    {
-      "file": "produkt-02.webp",
-      "kind": "product",
-      "order": 2,
-      "sourceUrl": "https://clinus.pl/35650-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 27252,
-      "sha256": "154c0a869ffa39cb9903279535fd566ee563d88c50d1b26ee2d9720bb928cc09"
-    },
-    {
-      "file": "produkt-03.webp",
-      "kind": "product",
-      "order": 3,
-      "sourceUrl": "https://clinus.pl/35651-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 45594,
-      "sha256": "5ab3ae5c63cb389e23101258a787f6053b51705d48355264b448b363aec8f74a"
-    },
-    {
-      "file": "produkt-04.webp",
-      "kind": "product",
-      "order": 4,
-      "sourceUrl": "https://clinus.pl/35652-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 47084,
-      "sha256": "6f2f91e24c27f7abcde73fa718b29a556e2c0d3bfda188967b094b47980c792f"
-    },
-    {
-      "file": "produkt-05.webp",
-      "kind": "product",
-      "order": 5,
-      "sourceUrl": "https://clinus.pl/35653-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 39290,
-      "sha256": "bf731348d74a556e8b28cefbf30d45ee2a4e12048a89bd00b349f95c0116d2bc"
-    },
-    {
-      "file": "produkt-06.webp",
-      "kind": "product",
-      "order": 6,
-      "sourceUrl": "https://clinus.pl/35654-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 137090,
-      "sha256": "d734228205fb87e64fdf49530f2e97ccc31d4614e4e50618aeecc2a3a27e7b16"
-    },
-    {
-      "file": "produkt-07.webp",
-      "kind": "product",
-      "order": 7,
-      "sourceUrl": "https://clinus.pl/35655-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 27156,
-      "sha256": "9123208ea4472d8901cd10fb6c411e15167271f47bd48d40ddd16d283dff4e23"
-    },
-    {
-      "file": "produkt-08.webp",
-      "kind": "product",
-      "order": 8,
-      "sourceUrl": "https://clinus.pl/35656-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 57030,
-      "sha256": "667b002a75c6142fd0f0ee4cea2725845719b3cada50076306ccc7d20680e7b6"
-    },
-    {
-      "file": "produkt-09.webp",
-      "kind": "product",
-      "order": 9,
-      "sourceUrl": "https://clinus.pl/35657-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 41128,
-      "sha256": "2d737ae239cf88bc0e0f330401376921646503954b2b539a466ab4b6bba2ffad"
-    },
-    {
-      "file": "produkt-10.webp",
-      "kind": "product",
-      "order": 10,
-      "sourceUrl": "https://clinus.pl/35658-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 34964,
-      "sha256": "eeaaca246bed2553260b4d05ef54a02546457055ce02bcdee40494cabeb244d8"
-    },
-    {
-      "file": "produkt-11.webp",
-      "kind": "product",
-      "order": 11,
-      "sourceUrl": "https://clinus.pl/35659-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 53146,
-      "sha256": "de2ab36aceb50a3dbf49fe56648a1bc1f8fc698f539ec2a752343cec886a1140"
-    },
-    {
-      "file": "produkt-12.webp",
-      "kind": "product",
-      "order": 12,
-      "sourceUrl": "https://clinus.pl/35660-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 119196,
-      "sha256": "12d48d7e72af629d189b382acb741934e0c33f182c6024e12591da192a70f12e"
-    },
-    {
-      "file": "produkt-13.webp",
-      "kind": "product",
-      "order": 13,
-      "sourceUrl": "https://clinus.pl/35661-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 87208,
-      "sha256": "f8a3214a7c8201cf62148bebd3fbe35de95e17ee2caea3a2e7e37fce96db6211"
-    },
-    {
-      "file": "produkt-14.webp",
-      "kind": "product",
-      "order": 14,
-      "sourceUrl": "https://clinus.pl/35662-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 98246,
-      "sha256": "a31e25cd681e9e4460ba7d63e6bd6865686f84aad79cae1a76f552ba1eae29f4"
-    },
-    {
-      "file": "produkt-15.webp",
-      "kind": "product",
-      "order": 15,
-      "sourceUrl": "https://clinus.pl/35663-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 142260,
-      "sha256": "8f42cef4d7188d6121c30a5c097a833a2c393d29e799633f26308eae84a92548"
-    },
-    {
-      "file": "produkt-16.webp",
-      "kind": "product",
-      "order": 16,
-      "sourceUrl": "https://clinus.pl/35664-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 79748,
-      "sha256": "822f5ded4a304fe3a2e4bde864a38488d10fa07e9b7e04c4d6db913a32be7a83"
-    },
-    {
-      "file": "produkt-17.webp",
-      "kind": "product",
-      "order": 17,
-      "sourceUrl": "https://clinus.pl/35665-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 56450,
-      "sha256": "40aa87599b3dc5f0d0377ae6e219dbbab342d1dc53d354af0412bf9a61ecd420"
-    },
-    {
-      "file": "produkt-18.webp",
-      "kind": "product",
-      "order": 18,
-      "sourceUrl": "https://clinus.pl/35666-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 53922,
-      "sha256": "0fe1a77451a67a36ed649fdb740b3c4c1baa6971c6976934bd04639ee0799b32"
-    },
-    {
-      "file": "produkt-19.webp",
-      "kind": "product",
-      "order": 19,
-      "sourceUrl": "https://clinus.pl/35667-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 54172,
-      "sha256": "6c59ad8d50d5ca0be60e9ccb99184cadfcc85a2bab52e5ba06f3714dc541d17b"
-    },
-    {
-      "file": "produkt-20.webp",
-      "kind": "product",
-      "order": 20,
-      "sourceUrl": "https://clinus.pl/35668-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 116348,
-      "sha256": "fbb778eb8a5e96027a01a2c8edb3087b2e446003393b2bf08f2a9f6af040775b"
-    },
-    {
-      "file": "produkt-21.webp",
-      "kind": "product",
-      "order": 21,
-      "sourceUrl": "https://clinus.pl/35669-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 109414,
-      "sha256": "224d8ac449e9c9d083445278e0b255b76b3e928caf5bbb0dfcba0284a0360fb3"
-    },
-    {
-      "file": "produkt-22.webp",
-      "kind": "product",
-      "order": 22,
-      "sourceUrl": "https://clinus.pl/35670-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 57390,
-      "sha256": "3bee26ae388da4a56820c2fea848c9c47a5f3a99e246276d03a4618d84e26e42"
-    },
-    {
-      "file": "produkt-23.webp",
-      "kind": "product",
-      "order": 23,
-      "sourceUrl": "https://clinus.pl/35671-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 87814,
-      "sha256": "5b507784577d421a8bf4c76dfef7a87e81b93bca750fb61ec7ae4ae7750228d1"
-    },
-    {
-      "file": "produkt-24.webp",
-      "kind": "product",
-      "order": 24,
-      "sourceUrl": "https://clinus.pl/35672-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 91046,
-      "sha256": "7bbae3dc5128fcdf1c0181c46d7336b69baeee54137671954083514c483420f6"
-    },
-    {
-      "file": "produkt-25.webp",
-      "kind": "product",
-      "order": 25,
-      "sourceUrl": "https://clinus.pl/35673-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 98006,
-      "sha256": "25d18cef68e134c962a22842f38e9e22cbebf01826bd02305aed9b3aa88ebabe"
-    },
-    {
-      "file": "produkt-26.webp",
-      "kind": "product",
-      "order": 26,
-      "sourceUrl": "https://clinus.pl/35674-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 88494,
-      "sha256": "b787488ffaf4c9e567098ffb58cec20b5dd978e67d18be94535be7433067836b"
-    },
-    {
-      "file": "produkt-27.webp",
-      "kind": "product",
-      "order": 27,
-      "sourceUrl": "https://clinus.pl/35702/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 1000,
-      "bytes": 61968,
-      "sha256": "1c72a0b8a1202b67296dee306fefc7bdc3cc834d6d0941267f0b3255e27a9817"
-    },
-    {
-      "file": "produkt-28.webp",
-      "kind": "product",
-      "order": 28,
-      "sourceUrl": "https://clinus.pl/97580-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
-      "width": 800,
-      "bytes": 47278,
-      "sha256": "e1de552971978bec63523d94331f7f7bed8af589efac0206ad64c85cf1af9c2f"
-    },
-    {
-      "file": "opis-01.jpg",
-      "kind": "lifestyle",
-      "order": 1,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283610/top-1-1-628-361-0.jpg",
-      "width": 1500,
-      "bytes": 166942,
-      "sha256": "7d33909a3c17bad3f7ee2383e2dc274ab13cc556a249ed2bf691afc399f6143e"
-    },
-    {
-      "file": "opis-02.jpg",
-      "kind": "lifestyle",
-      "order": 2,
-      "sourceUrl": "https://clinus.pl/img/cms/Karcher/2-863-316-0-1.jpg",
-      "width": 1000,
-      "bytes": 30712,
-      "sha256": "fe0a9675e0db73fc01697b1f86c06667bbd103ce69dc69cde9c5cb4a88fe0bd7"
-    },
-    {
-      "file": "opis-03.jpg",
-      "kind": "lifestyle",
-      "order": 3,
-      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/aktywne-gniazdo-do-podlaczania-elektronarzedzi-wd6-p.jpg",
-      "width": 1140,
-      "bytes": 79944,
-      "sha256": "387eab215aead57729554e3e2621aa67a88b6b8e978808493f46f10774ac79e7"
-    },
-    {
-      "file": "opis-04.jpg",
-      "kind": "lifestyle",
-      "order": 4,
-      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/innowacyjna-technologia-szybkiego-wyjmowania-filtra-wd6p-karcher.jpg",
-      "width": 1140,
-      "bytes": 65881,
-      "sha256": "b556bf833994c2af26ce7760ac959ba54ef9ff1046d5f9637fbdc06ddf4fb40f"
-    },
-    {
-      "file": "opis-05.jpg",
-      "kind": "lifestyle",
-      "order": 5,
-      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/odkurzacz-karcher-wd6p-przechowywanie-weza-na-glowicy.jpg",
-      "width": 1140,
-      "bytes": 85833,
-      "sha256": "692c94f776124cf713a0b861bc6ddea61d0cab7063568f7067eb130ca578f1aa"
-    },
-    {
-      "file": "opis-06.jpg",
-      "kind": "lifestyle",
-      "order": 6,
-      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/wd6-nowy-model-spust-wody-worek-flizelinowy.jpg",
-      "width": 1140,
-      "bytes": 122062,
-      "sha256": "814d8f2979f835cd43d1dc692f865d2c9a859fb7073161f29346c282bfad3c2a"
-    },
-    {
-      "file": "opis-07.jpg",
-      "kind": "lifestyle",
-      "order": 7,
-      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/praktyczny-uchwyt-na-przewod-zasilajacy-wd6p-karcher.jpg",
-      "width": 1140,
-      "bytes": 53673,
-      "sha256": "5a6147786a3dc501eb233a7d4a852c440a6f83f3aa5b7edcc4c15ee50650243f"
-    },
-    {
-      "file": "opis-08.jpg",
-      "kind": "lifestyle",
-      "order": 8,
-      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/wd6p-praktyczna-funkcja-wydmuchu.jpg",
-      "width": 1140,
-      "bytes": 66555,
-      "sha256": "0bbfd59105a5dd8a908bf7ca7e40d64cee8d9a77b2c4cf60e7adfc0c0a7c7dec"
-    }
-  ],
-  "dropped": 9
+ "version": 1,
+ "generatedAt": "2026-07-27T08:43:09.055Z",
+ "sourcePage": "https://clinus.pl/odkurzacze-sucho-mokro/karcher/4905-karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa",
+ "slug": "karcher-wd-6-p-s-zestaw-ssawka",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "produkt-08.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "produkt-11.webp",
+  "produkt-12.webp",
+  "produkt-13.webp",
+  "produkt-14.webp",
+  "produkt-15.webp",
+  "produkt-16.webp",
+  "produkt-17.webp",
+  "produkt-18.webp",
+  "produkt-19.webp",
+  "produkt-20.webp",
+  "produkt-21.webp",
+  "produkt-22.webp",
+  "produkt-23.webp",
+  "produkt-24.webp",
+  "produkt-25.webp",
+  "produkt-26.webp",
+  "produkt-27.webp",
+  "produkt-28.webp",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "opis-08.jpg",
+  "logo-karcher.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/35649-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 34340,
+   "sha256": "4c38b167e01aeeaf61bbcbf374bc067b6cecf0d54648219f25f5481b97a77aff"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/35650-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 27252,
+   "sha256": "154c0a869ffa39cb9903279535fd566ee563d88c50d1b26ee2d9720bb928cc09"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/35651-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 45594,
+   "sha256": "5ab3ae5c63cb389e23101258a787f6053b51705d48355264b448b363aec8f74a"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/35652-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 47084,
+   "sha256": "6f2f91e24c27f7abcde73fa718b29a556e2c0d3bfda188967b094b47980c792f"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/35653-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 39290,
+   "sha256": "bf731348d74a556e8b28cefbf30d45ee2a4e12048a89bd00b349f95c0116d2bc"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/35654-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 137090,
+   "sha256": "d734228205fb87e64fdf49530f2e97ccc31d4614e4e50618aeecc2a3a27e7b16"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/35655-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 27156,
+   "sha256": "9123208ea4472d8901cd10fb6c411e15167271f47bd48d40ddd16d283dff4e23"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/35656-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 57030,
+   "sha256": "667b002a75c6142fd0f0ee4cea2725845719b3cada50076306ccc7d20680e7b6"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://clinus.pl/35657-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 41128,
+   "sha256": "2d737ae239cf88bc0e0f330401376921646503954b2b539a466ab4b6bba2ffad"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://clinus.pl/35658-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 34964,
+   "sha256": "eeaaca246bed2553260b4d05ef54a02546457055ce02bcdee40494cabeb244d8"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://clinus.pl/35659-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 53146,
+   "sha256": "de2ab36aceb50a3dbf49fe56648a1bc1f8fc698f539ec2a752343cec886a1140"
+  },
+  {
+   "file": "produkt-12.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://clinus.pl/35660-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 119196,
+   "sha256": "12d48d7e72af629d189b382acb741934e0c33f182c6024e12591da192a70f12e"
+  },
+  {
+   "file": "produkt-13.webp",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://clinus.pl/35661-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 87208,
+   "sha256": "f8a3214a7c8201cf62148bebd3fbe35de95e17ee2caea3a2e7e37fce96db6211"
+  },
+  {
+   "file": "produkt-14.webp",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://clinus.pl/35662-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 98246,
+   "sha256": "a31e25cd681e9e4460ba7d63e6bd6865686f84aad79cae1a76f552ba1eae29f4"
+  },
+  {
+   "file": "produkt-15.webp",
+   "kind": "product",
+   "order": 15,
+   "sourceUrl": "https://clinus.pl/35663-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 142260,
+   "sha256": "8f42cef4d7188d6121c30a5c097a833a2c393d29e799633f26308eae84a92548"
+  },
+  {
+   "file": "produkt-16.webp",
+   "kind": "product",
+   "order": 16,
+   "sourceUrl": "https://clinus.pl/35664-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 79748,
+   "sha256": "822f5ded4a304fe3a2e4bde864a38488d10fa07e9b7e04c4d6db913a32be7a83"
+  },
+  {
+   "file": "produkt-17.webp",
+   "kind": "product",
+   "order": 17,
+   "sourceUrl": "https://clinus.pl/35665-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 56450,
+   "sha256": "40aa87599b3dc5f0d0377ae6e219dbbab342d1dc53d354af0412bf9a61ecd420"
+  },
+  {
+   "file": "produkt-18.webp",
+   "kind": "product",
+   "order": 18,
+   "sourceUrl": "https://clinus.pl/35666-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 53922,
+   "sha256": "0fe1a77451a67a36ed649fdb740b3c4c1baa6971c6976934bd04639ee0799b32"
+  },
+  {
+   "file": "produkt-19.webp",
+   "kind": "product",
+   "order": 19,
+   "sourceUrl": "https://clinus.pl/35667-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 54172,
+   "sha256": "6c59ad8d50d5ca0be60e9ccb99184cadfcc85a2bab52e5ba06f3714dc541d17b"
+  },
+  {
+   "file": "produkt-20.webp",
+   "kind": "product",
+   "order": 20,
+   "sourceUrl": "https://clinus.pl/35668-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 116348,
+   "sha256": "fbb778eb8a5e96027a01a2c8edb3087b2e446003393b2bf08f2a9f6af040775b"
+  },
+  {
+   "file": "produkt-21.webp",
+   "kind": "product",
+   "order": 21,
+   "sourceUrl": "https://clinus.pl/35669-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 109414,
+   "sha256": "224d8ac449e9c9d083445278e0b255b76b3e928caf5bbb0dfcba0284a0360fb3"
+  },
+  {
+   "file": "produkt-22.webp",
+   "kind": "product",
+   "order": 22,
+   "sourceUrl": "https://clinus.pl/35670-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 57390,
+   "sha256": "3bee26ae388da4a56820c2fea848c9c47a5f3a99e246276d03a4618d84e26e42"
+  },
+  {
+   "file": "produkt-23.webp",
+   "kind": "product",
+   "order": 23,
+   "sourceUrl": "https://clinus.pl/35671-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 87814,
+   "sha256": "5b507784577d421a8bf4c76dfef7a87e81b93bca750fb61ec7ae4ae7750228d1"
+  },
+  {
+   "file": "produkt-24.webp",
+   "kind": "product",
+   "order": 24,
+   "sourceUrl": "https://clinus.pl/35672-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 91046,
+   "sha256": "7bbae3dc5128fcdf1c0181c46d7336b69baeee54137671954083514c483420f6"
+  },
+  {
+   "file": "produkt-25.webp",
+   "kind": "product",
+   "order": 25,
+   "sourceUrl": "https://clinus.pl/35673-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 98006,
+   "sha256": "25d18cef68e134c962a22842f38e9e22cbebf01826bd02305aed9b3aa88ebabe"
+  },
+  {
+   "file": "produkt-26.webp",
+   "kind": "product",
+   "order": 26,
+   "sourceUrl": "https://clinus.pl/35674-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 88494,
+   "sha256": "b787488ffaf4c9e567098ffb58cec20b5dd978e67d18be94535be7433067836b"
+  },
+  {
+   "file": "produkt-27.webp",
+   "kind": "product",
+   "order": 27,
+   "sourceUrl": "https://clinus.pl/35702/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 1000,
+   "bytes": 61968,
+   "sha256": "1c72a0b8a1202b67296dee306fefc7bdc3cc834d6d0941267f0b3255e27a9817"
+  },
+  {
+   "file": "produkt-28.webp",
+   "kind": "product",
+   "order": 28,
+   "sourceUrl": "https://clinus.pl/97580-large_default/karcher-wd-6-p-s-v30-6-22-t-zestaw-rozszerzony-ssawka-samochodowa.webp",
+   "width": 800,
+   "bytes": 47278,
+   "sha256": "e1de552971978bec63523d94331f7f7bed8af589efac0206ad64c85cf1af9c2f"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283610/top-1-1-628-361-0.jpg",
+   "width": 1500,
+   "bytes": 166942,
+   "sha256": "7d33909a3c17bad3f7ee2383e2dc274ab13cc556a249ed2bf691afc399f6143e"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/2-863-316-0-1.jpg",
+   "width": 1000,
+   "bytes": 30712,
+   "sha256": "fe0a9675e0db73fc01697b1f86c06667bbd103ce69dc69cde9c5cb4a88fe0bd7"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/aktywne-gniazdo-do-podlaczania-elektronarzedzi-wd6-p.jpg",
+   "width": 1140,
+   "bytes": 79944,
+   "sha256": "387eab215aead57729554e3e2621aa67a88b6b8e978808493f46f10774ac79e7"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/innowacyjna-technologia-szybkiego-wyjmowania-filtra-wd6p-karcher.jpg",
+   "width": 1140,
+   "bytes": 65881,
+   "sha256": "b556bf833994c2af26ce7760ac959ba54ef9ff1046d5f9637fbdc06ddf4fb40f"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/odkurzacz-karcher-wd6p-przechowywanie-weza-na-glowicy.jpg",
+   "width": 1140,
+   "bytes": 85833,
+   "sha256": "692c94f776124cf713a0b861bc6ddea61d0cab7063568f7067eb130ca578f1aa"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/wd6-nowy-model-spust-wody-worek-flizelinowy.jpg",
+   "width": 1140,
+   "bytes": 122062,
+   "sha256": "814d8f2979f835cd43d1dc692f865d2c9a859fb7073161f29346c282bfad3c2a"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/praktyczny-uchwyt-na-przewod-zasilajacy-wd6p-karcher.jpg",
+   "width": 1140,
+   "bytes": 53673,
+   "sha256": "5a6147786a3dc501eb233a7d4a852c440a6f83f3aa5b7edcc4c15ee50650243f"
+  },
+  {
+   "file": "opis-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-uniwersalny/1_628-361_0/wd6p-praktyczna-funkcja-wydmuchu.jpg",
+   "width": 1140,
+   "bytes": 66555,
+   "sha256": "0bbfd59105a5dd8a908bf7ca7e40d64cee8d9a77b2c4cf60e7adfc0c0a7c7dec"
+  },
+  {
+   "file": "logo-karcher.jpg",
+   "kind": "logo",
+   "order": 37,
+   "sourceUrl": "dropshipping/materialy/logo/Karcher-Logo-2015-present.jpg",
+   "bytes": 8418
+  }
+ ],
+ "dropped": 9
 }
