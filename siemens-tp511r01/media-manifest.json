@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T11:02:52.943Z",
+  "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TP511R01",
+  "slug": "siemens-tp511r01",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "opis-02.jpg",
+    "opis-05.jpg",
+    "opis-03.jpg",
+    "opis-06.jpg",
+    "opis-04.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20262173_TP511R01_STP%20D_def.jpg",
+      "width": 2480,
+      "bytes": 513231,
+      "sha256": "f3c4b12c03f5d272488bb7849618fc4c9852841e70a0ae71bde97f61d351c283"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22089284_BSH-EN_SI_FAEM_812_TP511R01_General_SecImg-01_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "bytes": 331766,
+      "sha256": "db2f98138de7fc04fcf89dd523f69bed9fff5721f26830a1320b5147c6a14f1b"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22089285_BSH-EN_SI_FAEM_812_TP511R01_General_SecImg-02_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "bytes": 431099,
+      "sha256": "df956504e17be8762173e39e2d82b7c043653099d48d4240320167e3eed8f5c1"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22089283_BSH-EN_SI_FAEM_812_TP511R01_General_SecImg-03_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "bytes": 215778,
+      "sha256": "886c0443b2188548c9d418db014d28ca2d7869c6378ff1204446ab08ddbaeb4e"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22089286_BSH-EN_SI_FAEM_812_TP511R01_General_SecImg-04_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "bytes": 378014,
+      "sha256": "68a5e5fc5a33c58f0c43e458a549b794a070dcda985a3f2bde2f473734af425a"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22089500_BSH-EN_SI_FAEM_812_TP511R01_General_SecImg-05_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "bytes": 555708,
+      "sha256": "165f12b7556e2816e07c3aade69af60aff1abd5e37ae0218069e5badcc8bd5c2"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22089501_BSH-EN_SI_FAEM_812_TP511R01_General_SecImg-06_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "bytes": 196576,
+      "sha256": "912730fc89dae58d5aa108e4e07601afce29e83dce457d017b72c998d2716204"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22089502_BSH-EN_SI_FAEM_812_TP511R01_General_SecImg-07_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "bytes": 551225,
+      "sha256": "bb945dbd012552ba7daaacb89c6145ebeb114ff43e5d4b29dcc20db6ae0eaaff"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22089505_BSH-EN_SI_FAEM_812_TP511R01_General_SecImg-08_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "bytes": 600165,
+      "sha256": "78c606d9a42a6300d0513ba68dbb843a62027bf542b690f722348a0509f6b9e3"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22089504_BSH-EN_SI_FAEM_812_TP511R01_General_SecImg-09_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "bytes": 426846,
+      "sha256": "3aaeb7f8a532f5f30056b6d2baab5e556e0aab55b23c3625288d2b868ab2fa01"
+    }
+  ],
+  "dropped": 1,
+  "curationNote": "Kolejnosc kuracji 27.07.2026: packshot jako miniaturka, dalej ujecia w kuchni, panel coffeeSelect, czesci wyjmowane, czyszczenie jednostki zaparzania, napoje, lifestyle, render iAroma, na koncu rysunek wymiarowy. Wszystkie pliki maja pelny kod TP511R01 w nazwie zrodlowej i zostaly zweryfikowane wzrokowo na kontaktowce jako ten sam model (czarny front, srebrny korpus). Odrzucono 1 duplikat: SecImg-01 wystepowal na karcie rownolegle w .png i .webp — pobrano jedna kopie .jpg. Zero zdjec bliznaczego TP511R09 na karcie."
+}
