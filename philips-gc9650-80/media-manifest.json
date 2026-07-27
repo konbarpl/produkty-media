@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T09:00:12.764Z",
+  "sourcePage": "https://www.philips.pl/c-p/GC9650_80/perfectcare-elite",
+  "slug": "philips-gc9650-80",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e1f75230_2773_438f_be5b7c1e093b2f31?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 28696,
+      "sha256": "6b54511cb535c5bfd81756c3d855fc64a6e49f8a3de2cee08da6fb0017abc257"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5b3cd370_8df3_4372_a3cb5e70406024d7?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 93666,
+      "sha256": "7a90351a9457bdab69c92cd6d3691354adb59c3eea4efb39988734ee96301e07"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/ff69d47da7a944e0b5eeabc80078024a?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 7074,
+      "sha256": "27c8a9551dafef369f29887d608cddede01c40425b930000f8325a7206685578"
+    }
+  ],
+  "dropped": 0
+}
