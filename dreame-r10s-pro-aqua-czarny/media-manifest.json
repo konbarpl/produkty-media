@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T10:52:32.951Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-57954--Bezprzewodowy-odkurzacz-Dreame-R10S-Pro-Aqua-czarny.html",
+  "slug": "dreame-r10s-pro-aqua-czarny",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/962e06557858b439a86c25b37f71fcfb/pol_pl_-Bezprzewodowy-odkurzacz-Dreame-R10S-Pro-Aqua-czarny-57954_6.webp",
+      "width": 800,
+      "bytes": 24270,
+      "sha256": "7b66ef74353bf9b57a92b02eda67bbd36e4eb564607e907c1f8fc257c8079ec4"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/75a26686c9d7c9839146e1514c83b150/pol_pl_-Bezprzewodowy-odkurzacz-Dreame-R10S-Pro-Aqua-czarny-57954_7.webp",
+      "width": 800,
+      "bytes": 43934,
+      "sha256": "2fc465762ccc9fd6527edc658c278ea72ea99fc0f10c8681ee1cfd15db81310a"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/4c6fb6bcd6fb1693588b22568ea0238d/pol_pl_-Bezprzewodowy-odkurzacz-Dreame-R10S-Pro-Aqua-czarny-57954_8.webp",
+      "width": 800,
+      "bytes": 29668,
+      "sha256": "2ff1ed531cb14402cf4f050f0f0811a5e3642ba13c36453d9ebfcfccb4b865fe"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/f3ee3f5593e615ddf6483ae176f88e62/pol_pl_-Bezprzewodowy-odkurzacz-Dreame-R10S-Pro-Aqua-czarny-57954_9.webp",
+      "width": 800,
+      "bytes": 19206,
+      "sha256": "f92394ca099052b2739dae8ec068a255b510809f39a500dd3d6984ba12463b23"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/59fbd0c300fe2ad9eacf8737bab01947/pol_pl_-Bezprzewodowy-odkurzacz-Dreame-R10S-Pro-Aqua-czarny-57954_10.webp",
+      "width": 800,
+      "bytes": 19832,
+      "sha256": "7045d40cb91d5396f3390fbab62249b96b857473e4d203beca40d18a0e5b6479"
+    }
+  ],
+  "dropped": 0
+}
