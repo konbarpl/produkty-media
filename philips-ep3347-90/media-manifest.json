@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-27T12:11:34.309Z",
+  "generatedAt": "2026-07-27T12:32:19.160Z",
   "sourcePage": "https://www.philips.pl/c-p/EP3347_90/series-3300-fully-automatic-espresso-machine",
   "slug": "philips-ep3347-90",
   "galleryOrder": [
@@ -82,7 +82,7 @@
       "kind": "logo",
       "order": 8,
       "sourceUrl": "kopia z produkty-media/philips-ep2334-10/logo-philips.png",
-      "width": 0,
+      "width": 525,
       "bytes": 6882,
       "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
     }
