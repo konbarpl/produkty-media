@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T08:51:48.315Z",
+  "sourcePage": "https://www.tefal.pl/p/generator-pary-tefal-pro-express-vision-gv9821/1830008290",
+  "slug": "tefal-gv9821",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/d/i/digital-tf_gv9821_e_shady_black.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+      "width": 1200,
+      "bytes": 64692,
+      "sha256": "032da374982d25b69cb07ed58bbce4af2d8bbc29b70d74a3a26200b130a3163a"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/g/v/gv9821e0_storytelling_pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 193207,
+      "sha256": "f153d570b6888299493f2a8e4e14cf0e9aa09f13d030cb655165da45436cf677"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/g/v/gv9821e0_storytelling_pl_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 200165,
+      "sha256": "28b05ff5f0347ca8a17defe7e180ed108d0c40833e1f8d0e441350a64f5ff94a"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/g/v/gv9821e0_storytelling_pl_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 212814,
+      "sha256": "e4195a79dd7c8c73eefe5737164b1443316666ef9fb82e47d8c11025f3484c09"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/g/v/gv9821e0_storytelling_pl_3_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 203015,
+      "sha256": "7918aafdfea6d396101459a91ab269725d4df855a228448b471531c39ca8fdb5"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/g/v/gv9821e0_storytelling_pl_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 210613,
+      "sha256": "740bce1c50e73594e5f584cf22b9effea6074c40687c7c80149bb0063e235d7f"
+    }
+  ],
+  "dropped": 0
+}
