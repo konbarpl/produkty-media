@@ -1,0 +1,83 @@
+{
+  "slug": "delonghi-ecam292-33-sb",
+  "produkt": "De'Longhi Magnifica Evo ECAM292.33.SB (srebrno-czarny)",
+  "zrodlo": "Karta producenta De'Longhi PL: https://www.delonghi.com/pl-pl/p/magnifica-evo-automatyczny-ekspres-do-espresso-magnifica-evo-ecam292.33.sb/ECAM292.33.SB.html (imageGroups z variationAttributes subModelIdentifier=ECAM292.33.SB)",
+  "pobrano": "2026-07-27",
+  "bramkaTozsamosci": "Wszystkie pliki pochodza z grupy obrazow przypisanej w karcie producenta wprost do wariantu ECAM292.33.SB; kontrola wzrokowa kontaktowki 27.07.2026 - kazde zdjecie pokazuje srebrno-czarny model Magnifica Evo.",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "lifestyle-01.jpg",
+    "lifestyle-02.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "width": 902,
+      "height": 902,
+      "bytes": 29509,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/228156",
+      "opis": "Ekspres De'Longhi Magnifica Evo ECAM292.33.SB w kolorze srebrno-czarnym, ujecie frontalne z dwiema filizankami espresso i szklanka cappuccino - zdjecie glowne (miniaturka)"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "width": 902,
+      "height": 902,
+      "bytes": 50332,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/218894",
+      "opis": "Dzbanek z mlekiem pod dysza do spieniania mleka w ekspresie ECAM292.33.SB"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "width": 902,
+      "height": 902,
+      "bytes": 80123,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/218896",
+      "opis": "Panel sterowania z podswietlanymi ikonami napojow w ekspresie ECAM292.33.SB"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "width": 902,
+      "height": 902,
+      "bytes": 47383,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/218787",
+      "opis": "Wsypywanie ziaren kawy do pojemnika ekspresu ECAM292.33.SB"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "width": 902,
+      "height": 902,
+      "bytes": 9382,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/287424",
+      "opis": "Akcesoria dolaczone przez producenta do modelu ECAM292.33.SB: miarka do kawy mielonej i pasek do pomiaru twardosci wody"
+    },
+    {
+      "file": "lifestyle-01.jpg",
+      "width": 902,
+      "height": 902,
+      "bytes": 62046,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/229694",
+      "opis": "Ekspres ECAM292.33.SB na blacie kuchennym z przygotowanymi napojami"
+    },
+    {
+      "file": "lifestyle-02.jpg",
+      "width": 902,
+      "height": 902,
+      "bytes": 38230,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/218891",
+      "opis": "Ekspres ECAM292.33.SB w aranzacji kuchni z filizankami kawy"
+    },
+    {
+      "file": "logo-01.jpg",
+      "width": 1000,
+      "height": 310,
+      "bytes": 39830,
+      "sourceUrl": "kopia z produkty-media/delonghi-ecam220-60-b/logo-01.jpg (to samo logo marki, wgrane 27.07.2026)",
+      "opis": "Logo marki De'Longhi - ostatnie zdjecie w galerii"
+    }
+  ]
+}
