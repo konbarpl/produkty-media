@@ -7,12 +7,9 @@
     "produkt-02.webp",
     "produkt-01.webp",
     "produkt-03.webp",
-    "opis-01.jpg",
-    "opis-02.jpg",
-    "opis-03.jpg",
-    "opis-04.jpg",
-    "opis-05.jpg"
+    "opis-01.jpg"
   ],
+  "galleryOrderNote": "Kuracja 2026-07-27: do galerii oferty weszly 3 zdjecia produktowe (nazwy plikow zrodlowych zawieraja 'Z30-AquaCycle-Pro' - bramka tozsamosci) oraz baner opis-01.jpg z napisem 'Z30 AquaCycle(TM) Pro'. Miniaturka = produkt-02.webp, bo jako jedyna pokazuje KOMPLET: odkurzacz na stacji bazowej z druga szczotka. Pliki opis-02..05 zostaja w repo dla Fable (opisy 28.07), ale POZA galeria: ich nazwy zrodlowe nie zawieraja 'Pro', wiec przechodza tylko kontrole na poziomie folderu innpro 20799/27805.",
   "files": [
     {
       "file": "produkt-01.webp",

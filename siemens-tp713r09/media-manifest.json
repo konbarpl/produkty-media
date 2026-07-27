@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T12:17:34Z",
+  "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TP713R09",
+  "slug": "siemens-tp713r09",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/183017666/i-ekspres-siemens-eq700-classic-piano-tp713r09.jpg",
+      "width": 889,
+      "height": 1126,
+      "bytes": 76338,
+      "sha256": "8f8c6e18e1222002f3d6fe00b3ccbe64b108a631a2ea2c357d23fa9186a08cc1",
+      "opis": "packshot na bialym tle, urzadzenie z filizankami"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699166_BSH-EN_SI_FAEM_812_TP713R09_General_SecImg-01_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 358376,
+      "sha256": "5c004245c8391acb9488095f1260949a067deaf36c1ca7e08219840929c5be02",
+      "opis": "cale urzadzenie od frontu z wymiarami"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699174_BSH-EN_SI_FAEM_812_TP713R09_General_SecImg-10_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 244234,
+      "sha256": "4cb233bb5bfb6499978dc165ba2839d8a416e33e201dfc10746a52b586b43350",
+      "opis": "front z dzbankiem mleka i espresso"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699169_BSH-EN_SI_FAEM_812_TP713R09_General_SecImg-06_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 273036,
+      "sha256": "b52dc1a54c8388fd726d985a07cb074b001280cba02cd0028d13bd6d390e5d20",
+      "opis": "dwie kawy mleczne przygotowane jednoczesnie"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699167_BSH-EN_SI_FAEM_812_TP713R09_General_SecImg-02_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 295601,
+      "sha256": "839776e340405f3ba77b8cebec8298761e8f26f54951f9c72cf94c11f3c95dd5",
+      "opis": "dotykowy wyswietlacz iSelect"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699178_BSH-EN_SI_FAEM_812_TP713R09_General_SecImg-14_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 307998,
+      "sha256": "7bb5181eee3382ae07e4059ac244b1a2436931c9ac6c7fbc8f70e8d57568e84a",
+      "opis": "panel z napojami Slow Brew i Cold Brew"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699177_BSH-EN_SI_FAEM_812_TP713R09_General_SecImg-13_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 315662,
+      "sha256": "588ad7053b1438758bceab7c5fff10f83b8af8ea06a36c8ce38067340e7f6acf",
+      "opis": "budowa urzadzenia i wyjmowane elementy"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699170_BSH-EN_SI_FAEM_812_TP713R09_General_SecImg-07_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 350858,
+      "sha256": "b3687e29ac6b3434df7a6b53901bf67a508187d44335f8b5e5b6ded6539b445e",
+      "opis": "wyjmowanie i mycie jednostki zaparzajacej"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699180_BSH-EN_SI_FAEM_812_TP713R09_General_SecImg-12_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 552684,
+      "sha256": "56b1dbec14712dc52b11959a57b6467894210d2d9b4259018309f3119255f524",
+      "opis": "przeglad rodzajow napojow"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699175_BSH-EN_SI_FAEM_812_TP713R09_General_SecImg-04_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 515388,
+      "sha256": "b433f069ce188df6f46b33aa54f8816721b723f5a09a6dff60d0ab45f1924475",
+      "opis": "napoje cold brew z lodem"
+    }
+  ],
+  "dropped": 8,
+  "droppedFiles": [
+    {
+      "file": "SecImg-03 (24699165)",
+      "reason": "ekspres ze stalowym pojemnikiem na mleko, ktorego karta NIE wymienia w zestawie — mylaca kompletacja"
+    },
+    {
+      "file": "SecImg-08 (24699172)",
+      "reason": "ekspres na stole ze stalowym pojemnikiem na mleko po prawej stronie — ten sam powod"
+    },
+    {
+      "file": "SecImg-05 (24699168)",
+      "reason": "lifestyle z telefonem, urzadzenie ledwo widoczne w tle"
+    },
+    {
+      "file": "SecImg-05 (26351612)",
+      "reason": "grafika aplikacji Home Connect bez urzadzenia"
+    },
+    {
+      "file": "SecImg-09 (24699173)",
+      "reason": "same napoje w szkle, bez urzadzenia"
+    },
+    {
+      "file": "SecImg-11 (24699176)",
+      "reason": "abstrakcyjny render 3D mlynka, nieczytelny jako zdjecie produktu"
+    },
+    {
+      "file": "TP703R09_STP_D (16814324)",
+      "reason": "packshot z karty nalezy do INNEGO modelu (TP703R09) — odrzucony bramka tozsamosci; zastapiony packshotem Ceneo z kodem TP713R09 w nazwie pliku"
+    },
+    {
+      "file": "ceneo-02.jpg / ceneo-03.jpg",
+      "reason": "duplikaty ujec BSH w nizszej rozdzielczosci"
+    }
+  ],
+  "curationNote": "Kuracja 27.07.2026: karta BSH nie ma packshotu TP713R09 na bialym tle (plik STP na stronie nalezy do modelu TP703R09), wiec miniaturka pochodzi z Ceneo — nazwa pliku zawiera pelny kod TP713R09 i slowo \"piano\". Wszystkie 15 plikow z CDN BSH obejrzane na kontaktowce; do galerii weszlo 10 zweryfikowanych jako TP713R09 Piano black."
+}

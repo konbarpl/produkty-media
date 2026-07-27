@@ -1,0 +1,360 @@
+{
+ "version": 1,
+ "generatedAt": "2026-07-27T16:33:46.704Z",
+ "sourcePage": "https://clinus.pl/odkurzacze-jednofunkcyjne/karcher/5660-karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini",
+ "slug": "karcher-vc-6-ourfamily-duo-zestaw-turbo-mini",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "produkt-08.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "produkt-11.webp",
+  "produkt-12.webp",
+  "produkt-13.webp",
+  "produkt-14.webp",
+  "produkt-15.webp",
+  "produkt-16.webp",
+  "produkt-17.webp",
+  "produkt-18.webp",
+  "produkt-19.webp",
+  "produkt-20.webp",
+  "produkt-21.webp",
+  "produkt-22.webp",
+  "produkt-23.webp",
+  "produkt-24.webp",
+  "produkt-25.webp",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "opis-08.jpg",
+  "opis-09.jpg",
+  "logo-karcher.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/54283-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 39218,
+   "sha256": "39e25c988f22e2ee3fcb2be29e82374a21232fd933fb8702dcf32f52a3b0f04a"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/54284-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 42202,
+   "sha256": "241728600f70a7f95d86a889d4a23874aad52c0817cc13b4a0b990d8b42d3899"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/54285-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 54286,
+   "sha256": "edecbc1640465f0748b2ec45fb457c3892169954c0d3c14dbf88330afe6dc617"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/54286-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 8670,
+   "sha256": "abe6850cafed4763677d9a7d77c3aed0c3f61cb40d420d0c669cc3a2a2dbd094"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/54287-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 63538,
+   "sha256": "d6d4ac29c0e8caffcc2272a19941ec05e6cb57c556db47e9fc53701a2385b025"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/54288-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 25068,
+   "sha256": "afe0e51c0b3d3464a97fabe3667438cfb47f5622bbd775cd9742c81d64b6ea86"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/54289-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 49456,
+   "sha256": "37101273f5a2330ab87d07c03fb567069527d334cd54bd44cb748d9ec7fcc881"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/54290-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 36784,
+   "sha256": "246bfc6483bbb5ec2fe1dd7e4be0d212936cbeca2fd8bee7177614abc18d0f34"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://clinus.pl/54291-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 21860,
+   "sha256": "f4491fcaccf5bf334e90fec71db971ad4b43e09aa16a3a06408221e860ff070a"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://clinus.pl/54292-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 72840,
+   "sha256": "58a737ee9b196610640c847adac4622dcd602c89a86b5a7a07b4f7bfb116dd09"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://clinus.pl/54293-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 26040,
+   "sha256": "abe5c364dbdef1e0923c10ce67a07efaaa42c59cef535ca19e734ed68851c8d8"
+  },
+  {
+   "file": "produkt-12.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://clinus.pl/54294-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 41926,
+   "sha256": "161e8c7dca980d87c9c88ff8beb678e62c4483b64704bd408e56352e96bbf040"
+  },
+  {
+   "file": "produkt-13.webp",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://clinus.pl/54295-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 51898,
+   "sha256": "14d719dd1fcf6601e28ee7bb693f5ee6584ea2bf7618169e425302128e045b09"
+  },
+  {
+   "file": "produkt-14.webp",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://clinus.pl/54296-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 48302,
+   "sha256": "ecdc9d8fca534d6ad90bc591ce2fdbb6cfbb2e427cf70ce7b0cf744497dc17c7"
+  },
+  {
+   "file": "produkt-15.webp",
+   "kind": "product",
+   "order": 15,
+   "sourceUrl": "https://clinus.pl/54297-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 34648,
+   "sha256": "a4cea8ad5978f9c84bdd6567967b1ab677c2e974de67432124d7f645e31e82ab"
+  },
+  {
+   "file": "produkt-16.webp",
+   "kind": "product",
+   "order": 16,
+   "sourceUrl": "https://clinus.pl/54298-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 41906,
+   "sha256": "51d467f2b6c71c1d66503a7b95830bc885b86ff5b2a272209b5a8b8b724827cf"
+  },
+  {
+   "file": "produkt-17.webp",
+   "kind": "product",
+   "order": 17,
+   "sourceUrl": "https://clinus.pl/54299-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 54616,
+   "sha256": "cfc25ff95e96610a2653f13ab67871a5b093b694a28fbaa3b61a01169b4f1400"
+  },
+  {
+   "file": "produkt-18.webp",
+   "kind": "product",
+   "order": 18,
+   "sourceUrl": "https://clinus.pl/54300-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 61304,
+   "sha256": "d3acf4bef45af64c71d5499aea706592fd3d396d72142861464aa2f588dc6131"
+  },
+  {
+   "file": "produkt-19.webp",
+   "kind": "product",
+   "order": 19,
+   "sourceUrl": "https://clinus.pl/54301-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 59972,
+   "sha256": "29c903da79d2dfbe18c3a131e3c850ff551ac9775d59d04e15512d4d6c8f3060"
+  },
+  {
+   "file": "produkt-20.webp",
+   "kind": "product",
+   "order": 20,
+   "sourceUrl": "https://clinus.pl/54302-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 45096,
+   "sha256": "63e4ea0f87ff1649f31b3d2940a63db888fad2e89f383e87416e68c9fc8181c1"
+  },
+  {
+   "file": "produkt-21.webp",
+   "kind": "product",
+   "order": 21,
+   "sourceUrl": "https://clinus.pl/54303-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 8194,
+   "sha256": "08241fdcc5568918e4f6cb4f5f578f8c06c1222214cc29db46016c1b1d4959df"
+  },
+  {
+   "file": "produkt-22.webp",
+   "kind": "product",
+   "order": 22,
+   "sourceUrl": "https://clinus.pl/54304-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 55654,
+   "sha256": "d004cee8dcde89047cb1babb0fc2c65861fa80936b60928dc3c67ce4a99f8951"
+  },
+  {
+   "file": "produkt-23.webp",
+   "kind": "product",
+   "order": 23,
+   "sourceUrl": "https://clinus.pl/54305-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 51630,
+   "sha256": "1400b99fa63d388b6055265331f0de79389125e4bc82b3f3c09beb19d5ab8338"
+  },
+  {
+   "file": "produkt-24.webp",
+   "kind": "product",
+   "order": 24,
+   "sourceUrl": "https://clinus.pl/54306-large_default/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 800,
+   "bytes": 16036,
+   "sha256": "bf328491f52c129335cfecdc0ceac6b6ebac2fd9edb4ecf278ebbde084c0b9af"
+  },
+  {
+   "file": "produkt-25.webp",
+   "kind": "product",
+   "order": 25,
+   "sourceUrl": "https://clinus.pl/54308/karcher-vc-6-cordless-ourfamily-extra-zestaw-rozszerzony-szczotka-turbo-mini.webp",
+   "width": 1000,
+   "bytes": 25258,
+   "sha256": "58937ef185ee1bbf9653a12f3e86f0a187509c13ea04422e58424addd1303e5b"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11986780/1-198-678-0-top1.jpg",
+   "width": 1500,
+   "bytes": 165485,
+   "sha256": "ecfe82f2779594a106e0b8e805e65055ddb829d26f2802d875c20ccacc9bde70"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11986780/8.jpg",
+   "width": 1000,
+   "bytes": 118024,
+   "sha256": "70470c9a291fd602fc9616a52144c6005500422d3833b68b66cecf6f33b854a3"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11986780/11.jpg",
+   "width": 1000,
+   "bytes": 70642,
+   "sha256": "139f9fa3eb0b6586b4a9e71add9fb5548f1b92833724a2477b824370f36d527d"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11986780/5.jpg",
+   "width": 1000,
+   "bytes": 124637,
+   "sha256": "8a7c254b5a7cbced1a1e70ea97e3aaed9a074a42d421bc466fa84197396c80bd"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11986780/4.jpg",
+   "width": 1000,
+   "bytes": 108448,
+   "sha256": "36197b9952f6fe5e6839b6dda1db92da8fd68f75dc1ca01d917aa30f5593ed41"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11986780/7.jpg",
+   "width": 1000,
+   "bytes": 109361,
+   "sha256": "ea6ffd596e7681a5f447425a8e888e1a25c2332cd0a0ea265710746b7191e05a"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11986780/2.jpg",
+   "width": 1000,
+   "bytes": 123351,
+   "sha256": "52debc2011d467faf5ef2a4cababd5798dc8433fc33e6133c78be9e4fc50f5c7"
+  },
+  {
+   "file": "opis-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11986780/9.jpg",
+   "width": 1000,
+   "bytes": 81446,
+   "sha256": "b2ea7d42c65c8cbc123f699106bfaaeaac590532ef39fccee3da3d861ee90541"
+  },
+  {
+   "file": "opis-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11986780/10.jpg",
+   "width": 1000,
+   "bytes": 136343,
+   "sha256": "798f5aad5e580799cbcaa402aa984418d745b841b11720a1b861f114a6439d96"
+  },
+  {
+   "file": "logo-karcher.jpg",
+   "kind": "logo",
+   "order": 35,
+   "sourceUrl": "dropshipping/materialy/logo/Karcher-Logo-2015-present.jpg",
+   "bytes": 8418,
+   "width": 467
+  }
+ ],
+ "dropped": 3
+}

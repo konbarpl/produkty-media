@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T12:32:19.160Z",
+  "sourcePage": "https://www.philips.pl/c-p/EP3347_90/series-3300-fully-automatic-espresso-machine",
+  "slug": "philips-ep3347-90",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-04.jpg",
+    "produkt-03.jpg",
+    "produkt-07.jpg",
+    "produkt-06.jpg",
+    "produkt-05.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "PRX EP3347_90-primary-image (vrs_85a3eb3c_d3ce_4bc5_8f3f64556e45ad67)",
+      "width": 1500,
+      "bytes": 197302,
+      "sha256": "0eeac5f2e19622e0352cef120e48b87ca256bd1b61294be65c11f518938157b0"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "PRX A1 EP3347_90_02 (vrs_321d8d43_5da0_4dae_b5c7714dfc45546f)",
+      "width": 1500,
+      "bytes": 177357,
+      "sha256": "fa180c6c8ec3358e4677096720fe3ec2d30af0526d423d52814359a1af593597"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "PRX F EP3347_90_01 (vrs_1313e87c_d6cb_4813_8d1913c3dd771a9e)",
+      "width": 1500,
+      "bytes": 180220,
+      "sha256": "0cb8f4cd116036a09caeb56bd21578468cebfdeaf88ca3e79feda9947672832d"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "PRX RFT_EP3347_90_03_SRGB (vrs_f50ab541_4bf0_4e4e_a0eeed59ff321731)",
+      "width": 1500,
+      "bytes": 191996,
+      "sha256": "0930d6c57d82700319de1421228217052d6990ed4aadd07ed73b796f07dcaf86"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "Ceneo 156663505 i-ekspres-philips-3300-lattego-ep3347-90.jpg",
+      "width": 1512,
+      "bytes": 216722,
+      "sha256": "e0afa606f89e79108a224a164a2c8a9d6d663cec6bef7dbb140810acbc6aa5e8"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "Ceneo 156663505 921b6e5f-..._i-ekspres-philips-3300-lattego-ep3347-90.jpg",
+      "width": 2400,
+      "bytes": 184242,
+      "sha256": "bac19c09d212dcbd1a93565e0367f3f5673ff6f7430fe68593ebb9754acc270a"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "Ceneo 156663505 8ebea76e-..._i-ekspres-philips-3300-lattego-ep3347-90.jpg",
+      "width": 2400,
+      "bytes": 210970,
+      "sha256": "9f689ff831b1b17118db0aa306ef7c594c89b5e18fc2c84d203d60f1a8912ad4"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia z produkty-media/philips-ep2334-10/logo-philips.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 3,
+  "curationNote": "Kuracja 27.07.2026. Zdjecie nr 1 = packshot 3/4 z zamontowanym dzbankiem LatteGo i gotowa kawa (miniaturka pokazuje komplet). Dalej front z dzbankiem pelnym mleka, ujecie 3/4 z lewej, front z latte macchiato, mycie dzbanka LatteGo pod biezaca woda, zestaw czterech napojow, pionowy front z Ceneo, na koncu logo marki. Wszystkie 7 zdjec obejrzano wzrokowo: ten sam model i ten sam wariant kolorystyczny (chromowana czern). Z PRX wziete wylacznie assety z pelnym kodem EP3347_90 w polu caption. ODRZUCONO 3 pliki: dwie plansze serii CO_2023_EP3300LG_PIS1/PIS2 (caption bez kodu wariantu — plansze calej serii 3300, ryzyko innego koloru) oraz packshot primary w wariancie WebP (Scene7 oddaje WebP pod rozszerzeniem .jpg przy fmt=jpeg; poprawny JPEG uzyskany dopiero z parametrami fmt=jpeg&qlt=90&bfc=off)."
+}

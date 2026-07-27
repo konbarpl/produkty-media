@@ -21,10 +21,10 @@
       "kind": "product",
       "order": 1,
       "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/56/5689624/Ekspres-DELONGHI-Magnifica-Plus-ECAM320.70.TB-Tytanowy-front.jpg",
-      "width": 5159,
-      "height": 5936,
-      "bytes": 3550602,
-      "sha256": "40e09e9831c854c614a967a0c8a4e43ca5fef9a2770ad0e0c80e721d4834463a",
+      "width": 1738,
+      "height": 2000,
+      "bytes": 339727,
+      "sha256": "8cf834c0c68cc25461e327f8cf0d7a5f82d06d1b42d8064d123a3f7ed46251b3",
       "staging": "k03-front.jpg"
     },
     {
@@ -32,10 +32,10 @@
       "kind": "product",
       "order": 2,
       "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/56/5689624/Ekspres-DELONGHI-Magnifica-Plus-ECAM320.70.TB-Tytanowy-front-1.jpg",
-      "width": 3330,
-      "height": 5749,
-      "bytes": 3049468,
-      "sha256": "06c1610d1f1b80a9c61af0df8378b2064678a39a119be5a9984e952f28a032ea",
+      "width": 1158,
+      "height": 2000,
+      "bytes": 318102,
+      "sha256": "e7ca9666a315f384ba49a218140b2cf33a37faf12f3d3a0a796dbb2a4d14c958",
       "staging": "k04-front1.jpg"
     },
     {
@@ -43,10 +43,10 @@
       "kind": "product",
       "order": 3,
       "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/56/5689624/Ekspres-DELONGHI-Magnifica-Plus-ECAM320.70.TB-Tytanowy-skos-1.jpg",
-      "width": 3251,
-      "height": 5335,
-      "bytes": 2484955,
-      "sha256": "51c1a8f841c36a990d2797218b99ae6e3f1e580e9d0e40b1fb9b3530b1a30068",
+      "width": 1219,
+      "height": 2000,
+      "bytes": 350447,
+      "sha256": "f1873977cd2bccedbc43385277627907db4bf067c1101e93caba09bef5d8848d",
       "staging": "k06-skos1.jpg"
     },
     {
@@ -54,10 +54,10 @@
       "kind": "product",
       "order": 4,
       "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/56/5689624/Ekspres-DELONGHI-Magnifica-Plus-ECAM320.70.TB-Tytanowy-akcesoria.jpg",
-      "width": 2277,
-      "height": 2628,
-      "bytes": 472021,
-      "sha256": "21d309df0ee4a476b1fa73553862521446a5da9f545d4bd00e79ba58fb262340",
+      "width": 1733,
+      "height": 2000,
+      "bytes": 298027,
+      "sha256": "0abe6c7c995743029397af61b95278d829342a276fd8a614cefa5899593d8cc7",
       "staging": "k09-akcesoria.jpg"
     },
     {
@@ -65,10 +65,10 @@
       "kind": "product",
       "order": 5,
       "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/56/5689624/Ekspres-DELONGHI-Magnifica-Plus-ECAM320.70.TB-Tytanowy-panel-sterowania.jpg",
-      "width": 4134,
-      "height": 4961,
-      "bytes": 2490832,
-      "sha256": "83f890630d89ca1b7f03e1705902e6ad0c69e35ea34848ec341558c4f20adaf7",
+      "width": 1667,
+      "height": 2000,
+      "bytes": 407076,
+      "sha256": "506850e74252fed195f7775263b34c47b2c2914542c7b101c64fbf98fc9882ad",
       "staging": "k07-panel.jpg"
     },
     {
@@ -76,10 +76,10 @@
       "kind": "product",
       "order": 6,
       "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/56/5689624/Ekspres-DELONGHI-Magnifica-Plus-ECAM320.70.TB-Tytanowy-regulacja-mlynka.jpg",
-      "width": 3648,
-      "height": 4547,
-      "bytes": 1891384,
-      "sha256": "bec21087279dc3f95aec743307519fb64918b3bfb3a2b1093c002185cb81dde9",
+      "width": 1605,
+      "height": 2000,
+      "bytes": 371106,
+      "sha256": "e9d36e0f36d86bbb71423344154bc4271bec54f82dec4760020bb7a9db5f8bf3",
       "staging": "k08-mlynek.jpg"
     },
     {
@@ -87,10 +87,10 @@
       "kind": "lifestyle",
       "order": 7,
       "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/56/5689624/Ekspres-DELONGHI-Magnifica-Plus-ECAM320.70.TB-Tytanowy-obraz-lifestyle-1.jpg",
-      "width": 9012,
-      "height": 4988,
-      "bytes": 5889399,
-      "sha256": "e1a07472db7fb37a0176f5dd6e890d5969f74e407b1f7f209f5da92dfa910df1",
+      "width": 2000,
+      "height": 1107,
+      "bytes": 261066,
+      "sha256": "9afbf88ff6aa330e3895cd0d70b463fd661e3e5cdbeb26fdc34d3ff7f2e80864",
       "staging": "k11-life1.jpg"
     },
     {
@@ -98,10 +98,10 @@
       "kind": "lifestyle",
       "order": 8,
       "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/56/5689624/Ekspres-DELONGHI-Magnifica-Plus-ECAM320.70.TB-Tytanowy-obraz-lifestyle-2.jpg",
-      "width": 5472,
-      "height": 3648,
-      "bytes": 3676840,
-      "sha256": "f7cb5081312699ea5008b176595a083f600c3643032e7a1541fd078cc3abe166",
+      "width": 2000,
+      "height": 1333,
+      "bytes": 387562,
+      "sha256": "42c856e613f7c18f746dc15bb2b63e3f6cd75bb5987538d7e08e659ae90a69e5",
       "staging": "k12-life2.jpg"
     },
     {
@@ -111,9 +111,11 @@
       "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/filemanager_original/thumbnails/images/DeLonghi-2021-Logo.jpg",
       "width": 1000,
       "height": 310,
-      "bytes": 39830,
-      "sha256": "11f97fb6327d0343ca4574a5b26866a58d4e4ea3a264ae21e23b3070b4959702",
+      "bytes": 33045,
+      "sha256": "737baca8deb869e21e2f0246806ad0b84221c34b57de45d304e142c8d6fc6e7f",
       "staging": "k18-logo.jpg"
     }
-  ]
+  ],
+  "resizedAt": "2026-07-27",
+  "resizeNote": "Zdjecia zmniejszone lokalnie do max 2000 px na dluzszej krawedzi (JPEG q88); oryginaly z CDN sklepu mialy do 9000 px."
 }

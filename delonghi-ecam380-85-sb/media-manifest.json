@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T10:51:51.654Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/ekspresy-i-kawa/ekspresy-cisnieniowe/ekspres-delonghi-dinamica-plus-ecam-380-85-sb",
+  "slug": "delonghi-ecam380-85-sb",
+  "uwaga": "Model nie ma karty w polskim katalogu delonghi.com (adres z kodem ECAM380.85.SB zwraca strone bez produktu) — zdjecia z karty sklepu grupy TERG; do galerii weszly wylacznie pliki z kodem ECAM-380-85-SB w nazwie, kazde obejrzane wzrokowo.",
+  "odrzucone": [
+    "Kawa-mro__ona-front1.jpg — plakietka sprzedawcy '24 NAPOJE GORACE I MROZONE' + grafika kawy z lodem, a karta podaje 'Funkcja Zimna Kawa: Nie' i 'Spienianie mleka na zimno: Nie' (klient zglosil to w opinii jako mylace)",
+    "akcesoria.jpg — pokazuje filtr do wody i odkamieniacz EcoDecalk, ktorych karta NIE wymienia w zawartosci zestawu (miarka, tester twardosci wody, dokumentacja)",
+    "lifestyle.jpg — ekspres w tle ma panel z przyciskami zamiast pelnego ekranu dotykowego, czyli inna generacja Dinamiki",
+    "lifestyle2.jpg, lifestyle5.jpg — same napoje bez urzadzenia",
+    "lifestyle3.jpg — powiela ujecie panelu z produkt-03 (bez brandingu modelu)",
+    "lifestyle7.jpg — kadr na puszke z ziarnami, model nierozpoznawalny"
+  ],
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "lifestyle-01.jpg",
+    "lifestyle-02.jpg",
+    "lifestyle-03.jpg",
+    "funkcja-01.jpg",
+    "funkcja-02.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824756/Ekspres-DELONGHI-Dinamica-Plus-ECAM-380-85-SB-front-zestaw.jpg",
+      "width": 1711,
+      "height": 2000,
+      "bytes": 359041,
+      "sha256": "ab8813c705700c07b19269de029ba50fa3645604460b1d312b574baa72ee7780"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824756/Ekspres-DELONGHI-Dinamica-Plus-ECAM-380-85-SB-skos.jpg",
+      "width": 1369,
+      "height": 2000,
+      "bytes": 341335,
+      "sha256": "16844c83ed3ad9c93136ad8ec85a3f0a73c978c2e10ba21107809fd1e8db87d8"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824756/Ekspres-DELONGHI-Dinamica-Plus-ECAM-380-85-SB-lifestyle6.jpg",
+      "width": 2000,
+      "height": 1333,
+      "bytes": 303179,
+      "sha256": "b1b445cea5794382b3c4063dd616a1a916d17060899bf45956786bb309b959d4"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824756/Ekspres-DELONGHI-Dinamica-Plus-ECAM-380-85-SB-lifestyle8.jpg",
+      "width": 1333,
+      "height": 2000,
+      "bytes": 263468,
+      "sha256": "3ece94da6766e025db2bf31ef0773547b59c07c9915f47f9a0c8598ac32be625"
+    },
+    {
+      "file": "lifestyle-01.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824756/Ekspres-DELONGHI-Dinamica-Plus-ECAM-380-85-SB-lifestyle9.jpg",
+      "width": 2000,
+      "height": 1343,
+      "bytes": 500667,
+      "sha256": "ca635a33277f7bc99f0de24d814aaddd1189a311622381bd93fae2870fe6bd7c"
+    },
+    {
+      "file": "lifestyle-02.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824756/Ekspres-DELONGHI-Dinamica-Plus-ECAM-380-85-SB-lifestyle10.jpg",
+      "width": 2000,
+      "height": 1101,
+      "bytes": 350390,
+      "sha256": "c5e32228769b1e73424887f30987ee02ce0b0ac2c72f2f9456e7056c34d46483"
+    },
+    {
+      "file": "lifestyle-03.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824756/Ekspres-DELONGHI-Dinamica-Plus-ECAM-380-85-SB-lifestyle11.jpg",
+      "width": 2000,
+      "height": 1103,
+      "bytes": 342369,
+      "sha256": "29956a761bd778cf9e1aa37c08f095774c6922c67d69745c36529216adb7e579"
+    },
+    {
+      "file": "funkcja-01.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824756/Ekspres-DELONGHI-Dinamica-Plus-ECAM-380-85-SB-lifestyle4.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 453722,
+      "sha256": "b033a4ec7dd37b5dd0d81bfb3cbed498de19f523a5d562165f17958ea7d194e9"
+    },
+    {
+      "file": "funkcja-02.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5824756/Ekspres-DELONGHI-Dinamica-Plus-ECAM-380-85-SB-lifestyle12.jpg",
+      "width": 2000,
+      "height": 1333,
+      "bytes": 456068,
+      "sha256": "b95b2d313025b064750f75fbae358dd502154a9a612e167ae4d46ec93992559b"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/filemanager_original/thumbnails/images/DeLonghi-2021-Logo.jpg",
+      "width": 1000,
+      "height": 310,
+      "bytes": 39830,
+      "sha256": "11f97fb6327d0343ca4574a5b26866a58d4e4ea3a264ae21e23b3070b4959702"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T00:00:00Z",
+  "sourcePage": "https://www.delonghi.com/en-gb/p/magnifica-duo-magnifica-duo-automatic-coffee-maker-ecam330.80.bxb/ECAM330.80.BXB.html",
+  "slug": "delonghi-ecam330-80-bxb",
+  "uwaga": "Model nie ma karty w polskim katalogu delonghi.com. Zrodlem zdjec jest karta producenta w katalogu EN z dokladnym kodem ECAM330.80.BXB (Magnifica Duo, Brushed Black) plus assety DAM z tej samej serii zdjeciowej, kazde obejrzane wzrokowo na kontaktowkach _tmp/delonghi-ecam330-80-bxb/kontaktowka.jpg i kontaktowka2.jpg. Sklepy grupy TERG (Media Expert, Avans) maja w tej serii wariant ECAM330.80.TXB - odrzucony jako inny kolor. eukasa.pl nie ma tego modelu.",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "lifestyle-01.jpg",
+    "lifestyle-02.jpg",
+    "lifestyle-03.jpg",
+    "lifestyle-04.jpg",
+    "logo-01.jpg"
+  ],
+  "odrzucone": [
+    "dam-372921 i dam-372922 - ten sam model w innych wariantach kolorystycznych (brazowy i szampanski), nie BXB",
+    "dam-373024 - samo akcesoria (karafki, filtr wody, odkamieniacz, tabletki czyszczace) bez urzadzenia; czesc z nich to srodki dokupowane osobno, wiec zdjecie sugerowaloby zawartosc zestawu, ktorej karta nie potwierdza",
+    "dam-372998, 372999, 373000-373005 - seria zdjec wariantu w kolorze brazowym (mokka), odrzucona po ogledzinach kontaktowki",
+    "dam-372997 - zupelnie inny produkt (piekarnik do pizzy Kenwood) w sasiednim numerze assetu",
+    "dam-373012 i 373013 - poprawne kadry, ale poza limitem 10 zdjec galerii"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "kadr": "ujecie frontalne calego zestawu: ekspres z zamontowana karafka LatteCrema Cool, karafka LatteCrema Hot obok, latte macchiato i mrozona kawa",
+      "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/372920",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 132004,
+      "sha256": "08324387685c14a59f394707d127a89c265ef99ec2cd31a68cd5e31e3aab6e7d"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "kadr": "ekspres w calosci, ujecie boczne na blacie kuchennym",
+      "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/373007",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 147346,
+      "sha256": "cd5b2ce9707ab65d99d48ebfcdcace4f0d709413bf9a1af050f29d81e807b4de"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "kadr": "panel sterowania z kolorowym wyswietlaczem i przyciskami napojow goracych oraz zimnych",
+      "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/373006",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 161732,
+      "sha256": "0be734706a04f274daf0e4d90b9033601d656a5005c7aa0ad56a5f8de967afae"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "kadr": "obsluga panelu dotykowego z zamontowana karafka na mleko",
+      "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/373008",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 178110,
+      "sha256": "77718cf0c494fc77583fabbb13834d9dae055f72b08a1097d7490bf5047119bd"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "kadr": "pojemnik na ziarna z pokretlem regulacji stopnia zmielenia",
+      "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/373011",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 179067,
+      "sha256": "2b4c6ff73de693565cdf63bf784c15b71858c80a21a9ba707e9c7203caaf81d1"
+    },
+    {
+      "file": "lifestyle-01.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "kadr": "ekspres w kuchni w otoczeniu przygotowanych napojow goracych i mrozonych",
+      "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/378970",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 150820,
+      "sha256": "6bb967d74391eafa97b6a6b64437cd6166faa100efb829ef44d6b51d654e42ab"
+    },
+    {
+      "file": "lifestyle-02.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "kadr": "ekspres podczas przygotowania napoju mlecznego z karafka LatteCrema",
+      "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/373009",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 159911,
+      "sha256": "88cf701d89f61c4eed538334037174a9128edfec3423a57f1a9d710ca4607f5a"
+    },
+    {
+      "file": "lifestyle-03.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "kadr": "karafki LatteCrema Hot i LatteCrema Cool obok gotowych napojow",
+      "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/373010",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 127107,
+      "sha256": "e21c788924beaefd3075a91932db59d1c4d1862c0b6311c2cbbf716e53b5a4da"
+    },
+    {
+      "file": "lifestyle-04.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "kadr": "wsypywanie ziaren kawy do pojemnika ekspresu",
+      "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/373014",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 159699,
+      "sha256": "88e83cb9c9f522b6fc9f4c70b0c86379f4aa555cb94189a0eebd108a3f29107c"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 10,
+      "kadr": "logo marki De'Longhi",
+      "sourceUrl": "kopia z produkty-media/delonghi-ecam310-80-sb/logo-01.jpg (to samo logo marki De'Longhi)",
+      "width": 1000,
+      "height": 310,
+      "bytes": 39830,
+      "sha256": "11f97fb6327d0343ca4574a5b26866a58d4e4ea3a264ae21e23b3070b4959702"
+    }
+  ]
+}

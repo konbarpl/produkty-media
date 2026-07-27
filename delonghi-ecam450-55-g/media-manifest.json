@@ -3,7 +3,7 @@
   "generatedAt": "2026-07-27T10:28:27.327Z",
   "sourcePage": "https://www.avans.pl/agd-male/do-kuchni/ekspresy-cisnieniowe/ekspres-delonghi-eletta-explore-ecam450-55-g",
   "slug": "delonghi-ecam450-55-g",
-  "uwaga": "Model nie ma karty w polskim katalogu delonghi.com (kod ECAM450.55.G zwraca 404) — zdjecia pochodza z karty sklepu Avans (grupa TERG, ta sama tresc co Media Expert); do galerii weszly wylacznie pliki z kodem ECAM450-55-G w nazwie plus logo marki na koncu. Kolejnosc galerii ustawiona recznie po ogledzinach: zdjecie nr 1 = czysty kadr produktowy z obydwoma dzbankami LatteCrema (miniaturka), potem kadry frontowe, plansza producenta z liczba napojow, zestaw akcesoriow, widok z gory, kadry uzytkowe, logo na koncu.",
+  "uwaga": "Model nie ma karty w polskim katalogu delonghi.com (kod ECAM450.55.G zwraca 404) — zdjecia pochodza z karty sklepu Avans (grupa TERG, ta sama tresc co Media Expert); do galerii weszly wylacznie pliki z kodem ECAM450-55-G w nazwie plus logo marki na koncu. Kolejnosc galerii ustawiona recznie po ogledzinach: zdjecie nr 1 = czysty kadr produktowy z obydwoma dzbankami LatteCrema (miniaturka), potem kadry frontowe, plansza producenta z liczba napojow, zestaw akcesoriow, widok z gory, kadry uzytkowe, logo na koncu. 27.07.2026: z galerii wypadly pliki, ktorych nie udalo sie wgrac na GitHuba (git push zwraca 408, Contents API dlawi najwieksze pliki): lifestyle-05.jpg.",
   "galleryOrder": [
     "produkt-03.jpg",
     "produkt-04.jpg",
@@ -14,7 +14,6 @@
     "lifestyle-02.jpg",
     "lifestyle-03.jpg",
     "lifestyle-04.jpg",
-    "lifestyle-05.jpg",
     "logo-01.jpg"
   ],
   "files": [
@@ -109,19 +108,9 @@
       "sha256": "9ae70425ca1c6e07cc4db3eb9a445c536e2a3df028aeb113a5aa38d9a4bb2c78"
     },
     {
-      "file": "lifestyle-05.jpg",
-      "kind": "lifestyle",
-      "order": 10,
-      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/35/3569849/Ekspres-DELONGHI-Eletta-Explore-ECAM450-55-G-obraz-lifestyle-4.jpg",
-      "width": 4480,
-      "height": 4480,
-      "bytes": 3246341,
-      "sha256": "d690d6023e10196793ed844018ba63ba84b1480b0db6845028b74fb411463264"
-    },
-    {
       "file": "logo-01.jpg",
       "kind": "logo",
-      "order": 11,
+      "order": 10,
       "sourceUrl": "https://prod-api.avans.pl/api/images/filemanager_original/thumbnails/images/DeLonghi-2021-Logo.jpg",
       "width": 1000,
       "height": 310,

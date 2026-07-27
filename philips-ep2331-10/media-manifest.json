@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/EP2331_10.assets",
+  "slug": "philips-ep2331-10",
+  "kod": "EP2331/10",
+  "ean": "5906063263008",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_32d1aa5e_22d7_447f_a3728570c677c2a3?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "PRX Philips, caption EP2331_10-primary-image (RTP) — ujecie 3/4 z dzbankiem LatteGo i cappuccino",
+      "bytes": 195445,
+      "sha256": "48418b47c58cf523c4a9673e13f9dca8a8695c0fc842b70126a68fa18eea0634",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/156880459/904e7cbc-802a-46d1-8150-1f443eccb383_i-ekspres-philips-2300-lattego-ep2331-10.jpg",
+      "note": "Ceneo 156880459 (slug ep2331-10) — ujecie 3/4 z lewej, wyzsza rozdzielczosc",
+      "bytes": 264701,
+      "sha256": "a986900b8b77c10abcc2bca2f8b7dd0d6529c7b84c5f2ccab28d3e27ebbbf633",
+      "width": 1987,
+      "height": 2151
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_227f2403_610d_4d5b_b8a3b6acc1119bf6?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "PRX Philips, caption F EP2331_10_01 (A2P) — ujecie 3/4 z prawej",
+      "bytes": 176263,
+      "sha256": "04880b3e27d284573ec1129d4f70223c66bd083dc06815e7ba1d57ab65ac318a",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/156880459/i-ekspres-philips-2300-lattego-ep2331-10.jpg",
+      "note": "Ceneo 156880459 (slug ep2331-10) — ujecie frontalne, panel dotykowy czytelny",
+      "bytes": 177872,
+      "sha256": "54a30d89fad4d5099b037d4d5535edde98deb879da89c76762c02821654bd6c0",
+      "width": 1234,
+      "height": 2068
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/156880459/454452cd-982c-4064-9c4d-8200e86fc36b_i-ekspres-philips-2300-lattego-ep2331-10.jpg",
+      "note": "Ceneo 156880459 (slug ep2331-10) — mycie dwuczesciowego dzbanka LatteGo pod biezaca woda",
+      "bytes": 405285,
+      "sha256": "a4a7959cf92212614227223d5c50053a889ac5fd16d0e79e231b50f4b6675eed",
+      "width": 2400,
+      "height": 2400
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "local:philips-ep2334-10/logo-philips.png",
+      "note": "logo marki, kopia z gotowego folderu philips-ep2334-10",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "width": 525,
+      "height": 105
+    }
+  ]
+}
