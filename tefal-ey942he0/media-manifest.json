@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T09:47:23.477Z",
+  "sourcePage": "https://www.morele.net/frytkownica-beztluszczowa-tefal-dual-easy-fry-xxl-ey942he0-14752594/",
+  "slug": "tefal-ey942he0",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.morele.net/full/14752594_1_f.jpg",
+      "width": 1301,
+      "bytes": 140357,
+      "sha256": "038e0595cfc7b3f5fe5970672a2fa218dccaf1d5d464bc8260b9ba4eafe2fa6d"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.morele.net/full/14752594_0_f.jpg",
+      "width": 1413,
+      "bytes": 254744,
+      "sha256": "fb704e7ecde1c7c1a1680ad280c5b5f83c0bc43491f31938e44794a8cc18f53c"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.morele.net/full/14752594_9_f.jpg",
+      "width": 1128,
+      "bytes": 156700,
+      "sha256": "2eeec2bcc1700831e77370564da0ae939a6b8c7cfe050a657fd657f7ff2a1bc8"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.morele.net/full/14752594_4_f.jpg",
+      "width": 1575,
+      "bytes": 185070,
+      "sha256": "0372bcc7a2fd66cb9ed6c43151356da066559f2571d55280e76f4dc873eb226f"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.morele.net/full/14752594_7_f.jpg",
+      "width": 1575,
+      "bytes": 299798,
+      "sha256": "035f980d72a2094fb95b9a3d31e92deed2f41af0823553fc4de03ce9eb6ca04f"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.morele.net/full/14752594_8_f.jpg",
+      "width": 1575,
+      "bytes": 518905,
+      "sha256": "dd987ea80add656ef55239bee364901feb9f2dc6869cee63a512ed5292fec289"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.morele.net/full/14752594_6_f.jpg",
+      "width": 1575,
+      "bytes": 404085,
+      "sha256": "b356216c44dcb86a2d9bfda433b232b1f9647ba92501cce7d5a89331883c76c0"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.morele.net/full/14752594_5_f.jpg",
+      "width": 1575,
+      "bytes": 277976,
+      "sha256": "3067ac18e059fa9368994267edc5442129cd1d784424816ae05896b4b0325d2e"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.morele.net/full/14752594_2_f.jpg",
+      "width": 1575,
+      "bytes": 299600,
+      "sha256": "d4d68b215bec5d31bf5f9e2e39f6f9ceb0159d1238fd99133a5f4019329b9f78"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://images.morele.net/full/14752594_3_f.jpg",
+      "width": 1575,
+      "bytes": 348874,
+      "sha256": "4c3decbd78c4fb4652257c0e5c37bfb2ca4701690871174f2e21c769faa8ac3c"
+    }
+  ],
+  "dropped": 0
+}
