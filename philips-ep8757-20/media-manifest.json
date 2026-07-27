@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/EP8757_20.assets",
+  "slug": "philips-ep8757-20",
+  "kod": "EP8757/20",
+  "ean": "5906063263053",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7c5e3b5b_b613_4671_b489ffcc5f9c92fb?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "RTP packshot glowny: ekspres z karafkami LatteGo Pro Hot i Cold + szklanka latte (miniaturka)",
+      "bytes": 118674,
+      "sha256": "39ee8be44ea77a8100b4b52ccd3b2252f9159bfa3375765c2681e1f66fdc06fe",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a1d0ce00_671d_4e85_90c2c31fc18406ba?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "A3P packshot z wymiarami 452 x 251 x 389 mm",
+      "bytes": 130423,
+      "sha256": "70666e0fb71071709d4ac4cccde63ba9a2fbe00046b42310ae6280832cce580f",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ca3e6269_d7da_4f29_91a87038d7988634?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "D3P ekspres w kuchni z napojami goracymi i mrozonymi (ponad 50 napojow)",
+      "bytes": 236180,
+      "sha256": "f77a4410c2c295574ad2c35ed495edc3673a55122bdab7518366b44cf6616161",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3518c497_a641_472f_ab6c3f29d71ea217?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "D2P system mleczny LatteGo Pro, nalewanie pianki",
+      "bytes": 160787,
+      "sha256": "c7103ee08b6a1221b645878521a9dd272b2aa73488e263919408741d882fff2d",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ad96c621_d648_4a28_8c5c7e24e5f7a493?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "D1P technologia BrewExtract, dwie kawy jednoczesnie",
+      "bytes": 191653,
+      "sha256": "72374e00189d058dea40e2580c3a2ec0597deb0328f5b2cfa5e49d659e2a7019",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_87db8b6a_14a6_4d47_a5fc7462fc27230c?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "D4P intuicyjny wyswietlacz dotykowy TFT 4,3 cala",
+      "bytes": 181983,
+      "sha256": "12c1da245ae499eb5bba476940cc55007f41a89622d5e3929b868e5e2f7b331a",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7517ff66_e36a_47e2_9defbdfebce5bb05?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "A1P wsypywanie swiezych ziaren do pojemnika",
+      "bytes": 292064,
+      "sha256": "10d7d8c46804b4e7a9a4cf62cb9fe88ecb7c17446097cb7a7c6734f92b89e596",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_10d28902_5f87_448c_97cc9a0a2c1c18aa?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "A2P mycie karafki LatteGo Pro pod biezaca woda",
+      "bytes": 182576,
+      "sha256": "cc7df70e29d7ab3de38b0ccfbaf775f39902b480b585232ef16454ff22bbee66",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_bcd3c23f_1d1d_4937_a8248857c25a7561?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "D5P asystent baristy w aplikacji mobilnej",
+      "bytes": 199651,
+      "sha256": "a4a5c7aaced95b16f610276e0e8b23b4c3d29ccb6922c2d84ec99f15eaadb19e",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "local:",
+      "note": "local: kopia z philips-ep2334-10",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "width": 525,
+      "height": 105
+    }
+  ]
+}
