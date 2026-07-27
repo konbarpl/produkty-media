@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T08:49:39.189Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/PSG9050_20 (PRX API; karta: https://www.philips.pl/c-p/PSG9050_20/)",
+  "slug": "philips-psg9050-20",
+  "galleryOrder": [
+    "produkt-02.webp",
+    "produkt-01.webp",
+    "produkt-03.webp",
+    "opis-01.webp",
+    "opis-02.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_fd6f9669_eb9d_45d5_b67d3fb3db351332?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 36102,
+      "sha256": "c29c757480ef1de197a3f980f54febb0f2a2b635f72cd2f9873d0f1722f0c3b1"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_49ef9b0b_23d4_44f3_bc39c08d55075399?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 43670,
+      "sha256": "ae82e05fab15a4f39ba323bca4d81d701869d5d1327252b1fcb9139c15334eee"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_39c573e8_92a1_48ab_93b4914029b5098e?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 41904,
+      "sha256": "3b1217e06541c9ee2a9999885b5b40015dc4565d77ccdef8e5015d9a96b495c3"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_abd2eab4_e07d_4d6b_b09468c502617209?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 38790,
+      "sha256": "a0b30fd225804f2e843a96a4cb9e8232abc9a6fa87ed0cd6a1e9e10693440bd6"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d6150528_2d37_49f0_9bc68aee2095daa9?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 26630,
+      "sha256": "918e92b22745c7cd5b738c7d4475c7a119150a2c0b37ae63a49a66362e30d4b8"
+    }
+  ],
+  "dropped": 0
+}
