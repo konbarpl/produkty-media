@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T00:00:00.000Z",
+  "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TE651319RW",
+  "slug": "siemens-te651319rw",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03029956_J2936_2345260_TE651319RW_def.webp",
+      "width": 2000,
+      "bytes": 739525,
+      "sha256": "d9b0660b0aa27d5f8c5cbbebd520bf6e8e9a9910680f9441ce1a30f4c4b23975"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/13189604_TE651319RW_def.webp",
+      "width": 831,
+      "bytes": 89098,
+      "sha256": "57784b33466cba414d5e83528d72c8114583774248ebddd8c0590285497d6050"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://media3.bsh-group.com/Images/21568053_SE_FAEM_autoMilkClean_3840x2160.png",
+      "width": 2000,
+      "bytes": 247501,
+      "sha256": "ee317666561e05cdb8b542406dd6dee2470c02be9642bca32039814a5242c488"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://media3.bsh-group.com/Images/21568051_SE_FAEM_aromaDoubleShot_3840x2160.png",
+      "width": 2000,
+      "bytes": 303609,
+      "sha256": "3c81f0dec55eb25a4c265c0d9f75818af37cc929fc652a2e0a471b480aeb77cb"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://media3.bsh-group.com/Images/21568059_SE_FAEM_ceramDrive_3840x2160.png",
+      "width": 2000,
+      "bytes": 287213,
+      "sha256": "c8cf093a9b06c271b43ac5001a09ead8e49a103d773f60ccdae3045c790db007"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://media3.bsh-group.com/Images/MCIM03119418_SI-BB-KVA-CoffeeSelectDisplay-1600x900.png",
+      "width": 1600,
+      "bytes": 136205,
+      "sha256": "7f4d4f63cf335de22983d8e895df4ae387b7b04d7b5015a20bce561a7daf5418"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://media3.bsh-group.com/Images/MCIM03119425_SI-BB-KVA-Favorites-1600x900.png",
+      "width": 1600,
+      "bytes": 591971,
+      "sha256": "4c87cfd8fd91d0f00e5e65a23741e03c0066189a24dbef114a1b06cc588b06b1"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://media3.bsh-group.com/Images/21568867_SE_FAEM_iAromaSystem_3840x2160_01.png",
+      "width": 2000,
+      "bytes": 132169,
+      "sha256": "908539b098675db5e83b202539d95a2e7ec3c8febc3cf5e6ea32a5da14f5241d"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://media3.bsh-group.com/Images/21569249_SE_FAEM_oneTouchFunction_3840x2160.png",
+      "width": 2000,
+      "bytes": 265743,
+      "sha256": "a2331fffd1d4424eb89992d9dbf73ff5599b1829c04dbe690d5613143bada31e"
+    }
+  ],
+  "dropped": 17,
+  "curationNote": "Kuracja 27.07.2026: zdjecie nr 1 = packshot TE651319RW z dwoma espresso (miniaturka), nr 2 = drugi packshot tego samego modelu, dalej grafiki funkcji marki obecnych w tym modelu (autoMilk Clean, aromaDouble Shot, ceramDrive, coffeeSelect Display, ulubione napoje, iAroma System, oneTouch). Po ogledzinach kontaktowki odrzucono dodatkowo grafike jednostki zaparzajacej 21569362_EQ9plus_EQ6plus - pokazuje obok siebie ekspres EQ.9 plus i EQ.6 plus, czyli obcy model w kadrze. Odrzucono 16 adresow z karty: zdjecia modeli TE651209RW, TQ907R05, TP516RX3, TE653501DE oraz jednostki zaparzajace serii EQ.700/EQ.900 i EQ.300/EQ.500. PNG przekonwertowane do JPEG (max 2000 px, jakosc 88) - oryginaly 3840x2160 wazyly po 5-7 MB."
+}
