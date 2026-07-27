@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T08:49:17.451Z",
+  "sourcePage": "https://www.tefal.pl/p/tefal-ixeo-power-stacja-do-prasowania-mocna-prasowanie-w-pionie/1830009481",
+  "slug": "tefal-ixeo-qt2028",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/d/i/digital-tfl_qt2028_ixeo-vision-power_h1.png",
+      "width": 1200,
+      "bytes": 241591,
+      "sha256": "0ccd442d465bbbf15dd823457d0a05bfd109893deded36d16bbe6fe62d4eee62"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/d/i/digital-tfl_qt2028_ixeo-vision-power_pack1.png",
+      "width": 1200,
+      "bytes": 225428,
+      "sha256": "29e063ee5396bd930038e0ebfb3c2848a4b17b5266ddd8d028bf3d4f52d37790"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_qt2028_ixeo-power-refresh_pwc1_pl.jpg",
+      "width": 1200,
+      "bytes": 184429,
+      "sha256": "3e12203cede8c129afed3741340aade4da1933f826982773765c2db08c5e3fe6"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_qt2028_ixeo-power-refresh_pwc2_pl.jpg",
+      "width": 1200,
+      "bytes": 63792,
+      "sha256": "e50911f18771a3fd79f1d2095f56cb1176c38824507f0e9ecc944a920cefd0a1"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_qt2028_ixeo-power-refresh_pwc3_pl.jpg",
+      "width": 1200,
+      "bytes": 148350,
+      "sha256": "665c5e81decb8690ae346455d516332dd0a03aa296276482785aefc813c4a639"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_qt2028_ixeo-power-refresh_pwc4_pl.jpg",
+      "width": 1200,
+      "bytes": 152609,
+      "sha256": "63a81600860a2a201a84858c734b9cd437fab8307cb66f3909bffe6aa149590f"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_qt2028_ixeo-power-refresh_pwc5_pl.jpg",
+      "width": 1200,
+      "bytes": 195874,
+      "sha256": "40473a641a593a9fe72912d0620f7773e51dc1a2190cb6ffa0836194f55d202b"
+    }
+  ],
+  "dropped": 0
+}
