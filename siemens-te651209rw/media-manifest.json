@@ -20,7 +20,7 @@
       "bytes": 524402,
       "width": 2308,
       "height": 3341,
-      "source": "https://media3.bsh-group.com/Product_Shots/MCSA02248961_SE_K_12_KT8_EQ6_TE651209RW_picture_KF1_front_ENG_260617_def"
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02248961_SE_K_12_KT8_EQ6_TE651209RW_picture_KF1_front_ENG_260617_def.jpg"
     },
     {
       "file": "te651209rw-02-skos.jpg",
@@ -29,7 +29,7 @@
       "bytes": 611218,
       "width": 2348,
       "height": 2724,
-      "source": "https://media3.bsh-group.com/Product_Shots/MCSA03030647_J2990_2346110_TE651209RW_def"
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03030647_J2990_2346110_TE651209RW_def.jpg"
     },
     {
       "file": "te651209rw-03-latte.jpg",
@@ -38,7 +38,7 @@
       "bytes": 77824,
       "width": 954,
       "height": 1180,
-      "source": "https://media3.bsh-group.com/Product_Shots/13189605_TE651209RW_def"
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/13189605_TE651209RW_def.jpg"
     },
     {
       "file": "te651209rw-04-onetouch.jpg",
@@ -47,7 +47,7 @@
       "bytes": 1260105,
       "width": 3734,
       "height": 4000,
-      "source": "https://media3.bsh-group.com/Product_Shots/MCSA02248973_SE_K_12_KT8_EQ6_TE651209RW_picture_nKF_one_touch_function_ENG_260617_def"
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02248973_SE_K_12_KT8_EQ6_TE651209RW_picture_nKF_one_touch_function_ENG_260617_def.jpg"
     },
     {
       "file": "te651209rw-05-kawa-mielona.jpg",
@@ -56,7 +56,7 @@
       "bytes": 490247,
       "width": 2232,
       "height": 2726,
-      "source": "https://media3.bsh-group.com/Product_Shots/MCSA02248962_SE_K_12_KT8_EQ6_TE651209RW_picture_KF4_ground_coffee_ENG_260617_def"
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02248962_SE_K_12_KT8_EQ6_TE651209RW_picture_KF4_ground_coffee_ENG_260617_def.jpg"
     },
     {
       "file": "te651209rw-06-jednostka-zaparzania.jpg",
@@ -65,7 +65,7 @@
       "bytes": 1221758,
       "width": 2862,
       "height": 3482,
-      "source": "https://media3.bsh-group.com/Product_Shots/MCSA02248968_SE_K_12_KT8_EQ6_TE651209RW_picture_KF5_brewing_unit_ENG_260617_def"
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02248968_SE_K_12_KT8_EQ6_TE651209RW_picture_KF5_brewing_unit_ENG_260617_def.jpg"
     }
   ]
 }
