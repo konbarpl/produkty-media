@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T10:54:05.097Z",
+  "sourcePage": "https://x-sklep.pl/product-pol-6100-System-do-prasowania-PHILIPS-All-in-One-AIS6010-10-Technologia-OptimalTEMP.html",
+  "slug": "philips-ais6010-10",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-06.png",
+    "produkt-03.png",
+    "produkt-07.png",
+    "produkt-05.png",
+    "produkt-04.png",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://x-sklep.pl/hpeciai/89a1e1f1afebf220b8d9f419781805fd/pol_pl_System-do-prasowania-PHILIPS-All-in-One-AIS6010-10-Technologia-OptimalTEMP-6100_1.png",
+      "width": 436,
+      "bytes": 161318,
+      "sha256": "93d6c0a55a68d137fcf4faf298c080b45e736a7c8cce13830b84b5d80bde1df3"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://x-sklep.pl/hpeciai/f9f9507511a00c0dbf2291fc09454d16/pol_pl_System-do-prasowania-PHILIPS-All-in-One-AIS6010-10-Technologia-OptimalTEMP-6100_2.png",
+      "width": 613,
+      "bytes": 88734,
+      "sha256": "ed11928046c384a4ba2e801f271696f6a59efe059e899e5fd11ed8d10ff48079"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://x-sklep.pl/hpeciai/44351edc44eefa449f83c2434b7b43b3/pol_pl_System-do-prasowania-PHILIPS-All-in-One-AIS6010-10-Technologia-OptimalTEMP-6100_3.png",
+      "width": 750,
+      "bytes": 131064,
+      "sha256": "2480ac5c5b21edd0c165dc98fefcf02ffd164a7ea2bbf4b8253b0ce308137bd4"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://x-sklep.pl/hpeciai/4a15a7d5b152858df387c5cef7e4fdb5/pol_pl_System-do-prasowania-PHILIPS-All-in-One-AIS6010-10-Technologia-OptimalTEMP-6100_4.png",
+      "width": 750,
+      "bytes": 193793,
+      "sha256": "f0bfbbdc0259debe2b7312e7a2d15b2a39e1aab93c00788acd5c79e0b87c1b59"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://x-sklep.pl/hpeciai/5f515af6fc30828cc00dc7da149e5ae8/pol_pl_System-do-prasowania-PHILIPS-All-in-One-AIS6010-10-Technologia-OptimalTEMP-6100_5.png",
+      "width": 692,
+      "bytes": 157964,
+      "sha256": "a31f52ed8d54bde25590f2b4585a848d8b9b15c20c6a0463cb1e1afa58113b27"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://x-sklep.pl/hpeciai/ab31d9fd05ce4b5d43a889ba37ca34ec/pol_pl_System-do-prasowania-PHILIPS-All-in-One-AIS6010-10-Technologia-OptimalTEMP-6100_6.png",
+      "width": 680,
+      "bytes": 111482,
+      "sha256": "a32a62e30064a7d83d71dfe24d22fe4a27de6dca86bc76a14156279146e501b8"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://x-sklep.pl/hpeciai/4e29db858903f3011bf5786fab875f75/pol_pl_System-do-prasowania-PHILIPS-All-in-One-AIS6010-10-Technologia-OptimalTEMP-6100_7.png",
+      "width": 519,
+      "bytes": 139723,
+      "sha256": "47a4edd737fa315aa48b3d3f51c2041e8cd56cc6f9e8e338c49e61e73828176c"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "product",
+      "order": 99,
+      "sourceUrl": "kopia z produkty-media/philips-ep2334-10 (logo marki Philips)",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0
+}
