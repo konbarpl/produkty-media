@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/EP2334_10.assets",
+  "slug": "philips-ep2334-10",
+  "kod": "EP2334/10",
+  "ean": "5906063262995",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_91c3e412_838f_4ddc_b986a92e03d6eaeb?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "vrs_91c3e412_838f_4ddc_b986a92e03d6eaeb (RTP primary)",
+      "bytes": 194292,
+      "sha256": "86097fe3b76e85faddccfd420da622566851df8d0973eb69c9e2e14970156968"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8567665b_ccc8_435f_9e3e0438100668d4?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "vrs_8567665b_ccc8_435f_9e3e0438100668d4 (A3P F EP2334_10_01)",
+      "bytes": 163612,
+      "sha256": "bde46ee92d5a643c0ce8457a6b88d9131571487e47e51e01974d4679a8a05ee1"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_fb268480_58fb_4f5c_b7b12ccdf8d3420d?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "vrs_fb268480_58fb_4f5c_b7b12ccdf8d3420d (A1P EP2334_10_02)",
+      "bytes": 159330,
+      "sha256": "fcfcb293a344157f7c66e0f9e9caf93b67c95e94d7de44eaf7a7497f9254c29e"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_632a2300_c866_460c_8d544958e74e78bb?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "vrs_632a2300_c866_460c_8d544958e74e78bb (A2P RFT_EP2334_10_03)",
+      "bytes": 174055,
+      "sha256": "44552be8fc0d6d2b85cc26442c54725d4aaacd74156001634baf8a8dd77eb8f3"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e873be15_1586_4e1d_9ee281eb9aa750d0?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "vrs_e873be15_1586_4e1d_9ee281eb9aa750d0 (U3P PIS2)",
+      "bytes": 176934,
+      "sha256": "e6646d6ed8fa85fc912f74365cf2c863a5d9fd0c101bcf6ee24b2bae59c8f286"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_36c12822_164c_4f32_be2e4535e9660ce7?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "vrs_36c12822_164c_4f32_be2e4535e9660ce7 (U2P PIS4)",
+      "bytes": 191410,
+      "sha256": "d5d9349025c86f6bf677ae8ecd9d6148cee2428ded641f0c48673ffea9799c26"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_73d79fca_d0d1_49fa_996fe46d2c9a5860?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "vrs_73d79fca_d0d1_49fa_996fe46d2c9a5860 (U1P PIS1 IntuitiveDisplay)",
+      "bytes": 196070,
+      "sha256": "75e4bda4011a120b7bfcaf64e66e58225a597cb23a473a9e64e43997c8502436"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "local:",
+      "note": "local: kopia z philips-na221-00",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ]
+}
