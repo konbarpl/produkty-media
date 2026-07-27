@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T08:49:42.618Z",
+  "sourcePage": "https://www.tefal.pl/generator-pary-tefal-pro-express-vision-max",
+  "slug": "tefal-gv9920",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-06.jpg",
+    "produkt-05.jpg",
+    "produkt-02.jpg",
+    "opis-01.jpg"
+  ],
+  "galleryOrderNote": "Kuracja 27.07: nr 1 = packshot kompletu (zelazko + stacja) jako miniaturka; dalej ujecia funkcji z polskimi opisami, detal stopy, na koncu infografika wymiarow. Logo Tefal odrzucone przez walidator (202 px).",
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/9/B/9BF9C423-A370-45C0-917CFC3A6F466871_optimized_2.jpg",
+      "width": 2048,
+      "bytes": 188698,
+      "sha256": "02351d4006a844c5b970bc38dc8251801de148e6b8c0b5770db30d096d7079f5"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/B/2/B280A830-66C9-4B8D-A791984E1B58A38B_optimized_2.jpg",
+      "width": 2048,
+      "bytes": 167620,
+      "sha256": "c2c28d1c94994ced248de2fb0b3afe813b59dc74bcaeb70c7313b7ddded21217"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gv9920_pro-express-vision-max_pwc2_pl.jpg",
+      "width": 1200,
+      "bytes": 157922,
+      "sha256": "bb1de4135c227bd6e825e59581f4a490cbfcc395572dd2146fb3b4a78f815e58"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gv9920_pro-express-vision-max_pwc3_pl.jpg",
+      "width": 1200,
+      "bytes": 129015,
+      "sha256": "986f59d31cbb7997853e1a96563fbef8ef87d866a38e9e64b5690a3c50081b34"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gv9920_pro-express-vision-max_pwc4_pl.jpg",
+      "width": 1200,
+      "bytes": 118122,
+      "sha256": "75c3fc029d263bf40544fbbde11b86bc6cf681c0e7df51653f1094ea39618ca7"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gv9920_pro-express-vision-max_pwc5_pl.jpg",
+      "width": 1200,
+      "bytes": 169321,
+      "sha256": "4c79d37c6eb5d4a4dc4ee2a020d60348f6697fc234dfb61354d446c176f8af89"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/.renditions/wysiwyg/GABI_WORKSHOP/Linen_Care/Large-TFL_GV9920_PRO-EXPRESS-VISION-MAX_PWCD_ES.jpg",
+      "width": 1000,
+      "bytes": 49206,
+      "sha256": "fd3776f1f3165545660d728ce139a3c650574c697564ea83b75e9962d18d3390"
+    }
+  ],
+  "dropped": 1
+}
