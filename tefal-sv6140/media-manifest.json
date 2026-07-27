@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T09:39:05.224Z",
+  "sourcePage": "https://www.akcesoria.tefal.pl/sklep-z-akcesoriami/prasowanie/generator-pary/express-easy-sv6140-prasuj-krocej-nawet-o-30-procent/csp/1830007909",
+  "slug": "tefal-sv6140",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.png",
+    "produkt-04.png",
+    "produkt-03.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.groupeseb.com/m/1331c90935db73c7/Medium-SV6140.jpg",
+      "width": 945,
+      "bytes": 54459,
+      "sha256": "0fdc1c8e8ff263e1a4f69bf827cff64ff617cd1db16d8f2da244b189a38e0ba6"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dam.groupeseb.com/m/5b7f931a48697666/Digital-TEFAL_SV6140E0_Visual1.png",
+      "width": 2362,
+      "bytes": 1564334,
+      "sha256": "f3287cd90417d43e2dbeb5c62fb6fb13b44126e617cac6d2b031b650dffbd444"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://dam.groupeseb.com/m/34e7bb225faa4f86/Digital-TEFAL_SV6140E0_Visual3.png",
+      "width": 2362,
+      "bytes": 1168787,
+      "sha256": "90bbf706def2a69b34b34907efb89f33f8570bf423dd202bb80a404bc58ed63e"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://dam.groupeseb.com/m/115d644e449e7f65/Digital-TEFAL_SV6140E0_Visual4.png",
+      "width": 2362,
+      "bytes": 1305828,
+      "sha256": "9604f8d0e86371a6e6836dded72afee08c40657c1843181d2005a27b90781ceb"
+    }
+  ],
+  "dropped": 1,
+  "droppedFiles": [
+    {
+      "file": "opis-01.png",
+      "reason": "plansza USP z napisem \"Tefal Guarantee\" (zakaz gwarancji w ofertach) + dane 5.8 bara / 350 g/min sprzeczne z karta zrodlowa (6 bar / 380 g/min)"
+    }
+  ],
+  "curatedAt": "2026-07-27T09:47:23.120Z"
+}
