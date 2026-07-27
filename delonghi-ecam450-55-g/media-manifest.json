@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T10:28:27.327Z",
+  "sourcePage": "https://www.avans.pl/agd-male/do-kuchni/ekspresy-cisnieniowe/ekspres-delonghi-eletta-explore-ecam450-55-g",
+  "slug": "delonghi-ecam450-55-g",
+  "uwaga": "Model nie ma karty w polskim katalogu delonghi.com (kod ECAM450.55.G zwraca 404) — zdjecia pochodza z karty sklepu Avans (grupa TERG, ta sama tresc co Media Expert); do galerii weszly wylacznie pliki z kodem ECAM450-55-G w nazwie plus logo marki na koncu. Kolejnosc galerii ustawiona recznie po ogledzinach: zdjecie nr 1 = czysty kadr produktowy z obydwoma dzbankami LatteCrema (miniaturka), potem kadry frontowe, plansza producenta z liczba napojow, zestaw akcesoriow, widok z gory, kadry uzytkowe, logo na koncu.",
+  "galleryOrder": [
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-05.jpg",
+    "lifestyle-01.jpg",
+    "lifestyle-02.jpg",
+    "lifestyle-03.jpg",
+    "lifestyle-04.jpg",
+    "lifestyle-05.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/35/3569849/Ekspres-DELONGHI-Eletta-Explore-ECAM450-55-G-front.jpg",
+      "width": 3097,
+      "height": 2784,
+      "bytes": 815767,
+      "sha256": "fc18f1dd568d0c9faf6d526bd5ed19ac0abfa88615091ba1f23ad5702c29abff"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/35/3569849/Ekspres-DELONGHI-Eletta-Explore-ECAM450-55-G-front-2.jpg",
+      "width": 3241,
+      "height": 2920,
+      "bytes": 610226,
+      "sha256": "c8adc90b3e7af7ef442de36ae7d3b232d288fbca470d451a31a0771ea4db3348"
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/35/3569849/Ekspres-DELONGHI-Eletta-Explore-ECAM450-55-G-glowne-new-1.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 455004,
+      "sha256": "33bc6847e194f83816cbdc031c7db0c4fafee1f2e05c0ab408a64d336d487543"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/35/3569849/Ekspres-DELONGHI-Eletta-Explore-ECAM450-55-G-Zestaw.jpg",
+      "width": 2000,
+      "height": 1618,
+      "bytes": 280145,
+      "sha256": "a1607d4add9a4021a2b942a8fced2dbdf1583e7a5b828e9f3f3f7061fe5dcc6e"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/35/3569849/Ekspres-DELONGHI-Eletta-Explore-ECAM450-55-G-gora.jpg",
+      "width": 3377,
+      "height": 3983,
+      "bytes": 1527588,
+      "sha256": "4b73d8be0535f55c01abcd3fbdf71405ed757191dcd5afa0f321558fb33efc1f"
+    },
+    {
+      "file": "lifestyle-01.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/35/3569849/Ekspres-DELONGHI-Eletta-Explore-ECAM450-55-G-Lifestyle.jpg",
+      "width": 2000,
+      "height": 1317,
+      "bytes": 419626,
+      "sha256": "f6f7bf704650a3681ea35bc1d2a28731822636137a4961c777c572178abebaa5"
+    },
+    {
+      "file": "lifestyle-02.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/35/3569849/Ekspres-DELONGHI-Eletta-Explore-ECAM450-55-G-obraz-lifestyle-1.jpg",
+      "width": 4480,
+      "height": 4480,
+      "bytes": 1170629,
+      "sha256": "460309d4ffa347ed1eebb0c26c22503db20ceb0cc87fda1d0cc2a1002fd0e025"
+    },
+    {
+      "file": "lifestyle-03.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/35/3569849/Ekspres-DELONGHI-Eletta-Explore-ECAM450-55-G-obraz-lifestyle-2.jpg",
+      "width": 4480,
+      "height": 4480,
+      "bytes": 2154722,
+      "sha256": "044f7f8a2c03d56d9907b96e9250d45faa207b4ef46a05265ff55a37fe7e0ddc"
+    },
+    {
+      "file": "lifestyle-04.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/35/3569849/Ekspres-DELONGHI-Eletta-Explore-ECAM450-55-G-obraz-lifestyle-3.jpg",
+      "width": 4480,
+      "height": 4480,
+      "bytes": 1161576,
+      "sha256": "9ae70425ca1c6e07cc4db3eb9a445c536e2a3df028aeb113a5aa38d9a4bb2c78"
+    },
+    {
+      "file": "lifestyle-05.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/35/3569849/Ekspres-DELONGHI-Eletta-Explore-ECAM450-55-G-obraz-lifestyle-4.jpg",
+      "width": 4480,
+      "height": 4480,
+      "bytes": 3246341,
+      "sha256": "d690d6023e10196793ed844018ba63ba84b1480b0db6845028b74fb411463264"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/filemanager_original/thumbnails/images/DeLonghi-2021-Logo.jpg",
+      "width": 1000,
+      "height": 310,
+      "bytes": 47340,
+      "sha256": "44c061f8e1a1f05c91f7be91f12a5f4bbb90627c7cf38b1551051101c5b4a61a"
+    }
+  ]
+}
