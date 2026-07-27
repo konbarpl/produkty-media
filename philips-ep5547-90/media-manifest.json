@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/EP5547_90.assets",
+  "productPage": "https://www.philips.pl/c-p/EP5547_90/series-5500-fully-automatic-espresso-machine",
+  "slug": "philips-ep5547-90",
+  "kod": "EP5547/90",
+  "ean": "5906063263046",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0349c0da_dbb7_461f_bcb47e049a6ea909?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "RTP packshot glowny (asset imageURL karty): ekspres w ujeciu 3/4 z zamontowanym dzbankiem LatteGo i szklanka latte macchiato — MINIATURKA, pokazuje komplet",
+      "bytes": 142211,
+      "sha256": "56ad8a02bfacd938ab196fa464608b4ed05d92c5226eceed932851031e3dc30b",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8236e6d7_84b6_4a40_a27587047fae427e?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "A2P ujecie frontalne: panel dotykowy z ikonami napojow (widoczne Iced Coffee i Iced Latte), dzbanek LatteGo z mlekiem, szklanka latte",
+      "bytes": 118326,
+      "sha256": "960d6edaf18e28bb279dbb69e377d7fb076971b6227059cfe1445fc36c813930",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3c903c10_5b35_496e_9a62a0e683a9aeb1?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "A1P ujecie 3/4 z drugiej strony: widoczny pojemnik na ziarna z kawa ziarnista i kratka ociekowa",
+      "bytes": 145400,
+      "sha256": "ee9f050b8f537a872b99b549bcb4257152f6d832ab64e8f702cb56f9577136a3",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6fbe9c91_b6df_484f_84e2f81865df8e92?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "A3P ujecie frontalne z dzbankiem LatteGo zamknietym pokrywka i ekranem wyboru napoju",
+      "bytes": 115881,
+      "sha256": "a3f52163946c3bec06908b460a0cb0d0381c01e608c91831a8bfd2a2c8a735a6",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a2e80cd6_e9de_4157_8deef48a5b37e852?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "A4P rysunek wymiarowy producenta (EP5547_90_ME_RFT_L_Measurements)",
+      "bytes": 195712,
+      "sha256": "3c3931619b5f0d63b5fe42171dc3502e5492f1f2776351f04086dfddf1f24697",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "local:philips-ep2334-10/logo-philips.png",
+      "note": "logo marki Philips na koncu galerii — kopia pliku juz obecnego w repo",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "width": 525,
+      "height": 105
+    }
+  ],
+  "dropped": 2,
+  "curationNote": "Kuracja 27.07.2026: do galerii weszly WYLACZNIE assety, ktorych caption zawiera pelny kod EP5547_90 (RTP, A2P, A1P, A3P, A4P). Kolejnosc: packshot 3/4 z dzbankiem LatteGo jako miniaturka, dalej ujecia frontalne i pojemnik na ziarna, na koncu rysunek wymiarowy i logo marki. ODRZUCONO 2 assety: PID (caption CO_2023_EP5500LG_PIM) i MI1 (CO_2023_EP5500LG_MIP) — ich caption wskazuje na cala serie 5500 LatteGo, a nie na ten kod, i mimo parametru fmt=jpeg CDN oddal je jako pliki WebP z rozszerzeniem .jpg. Wszystkie zdjecia obejrzane wzrokowo: ten sam wariant (czarna obudowa, chromowany front, panel dotykowy z ikonami Iced Coffee/Iced Latte)."
+}
