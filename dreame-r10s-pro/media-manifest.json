@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T10:50:50.722Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-57943-Bezprzewodowy-odkurzacz-pionowy-Dreame-R10S-Pro.html",
+  "slug": "dreame-r10s-pro",
+  "galleryOrder": [
+    "produkt-02.webp",
+    "produkt-01.webp",
+    "produkt-03.webp",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/91dba5e2ae84c491211ee9fbd44e67cd/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R10S-Pro-57943_4.webp",
+      "width": 800,
+      "bytes": 15772,
+      "sha256": "706af8418ec5d01beabeecf048b9b9cd2aee7fdf6be1c6bfb79a3290995e4611"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/466c00b36845037219f737a6685769a8/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R10S-Pro-57943_5.webp",
+      "width": 800,
+      "bytes": 32926,
+      "sha256": "76daaabaa29f79502166ce51acb1a4c843ce9a337b32cfee96749d33a5cfcec4"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/57c73772645730f219c1e869d284808b/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R10S-Pro-57943_6.webp",
+      "width": 800,
+      "bytes": 18106,
+      "sha256": "990b76a4da003fc8def290111ecff42d6cdb57180f0ccbdf20c311517fb50602"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "repo:_logo/logo-dreame.jpg",
+      "width": 775,
+      "bytes": 15201,
+      "sha256": "b608908598b2a6d35aabb1b1bf3cde97afb8e5b6e6aab49f8ca8723d53f6c376"
+    }
+  ],
+  "dropped": 0,
+  "curationNote": "Miniaturka = produkt-02.webp (urzadzenie z kompletem akcesoriow). Logo marki na koncu galerii."
+}
