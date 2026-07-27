@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T10:52:40.217Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-59696-Bezprzewodowy-odkurzacz-pionowy-Dreame-R10S.html",
+  "slug": "dreame-r10s",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/e1132b3dad8a51cc7cbd0494fe7f671b/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R10S-59696_8.webp",
+      "width": 800,
+      "bytes": 9022,
+      "sha256": "104cf7137078964e1ff64f724c7b3837c694206143862e3e44f25da8ca732fe8"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/267b3418c14f70aafa58666ecc8172c7/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R10S-59696_9.webp",
+      "width": 800,
+      "bytes": 12670,
+      "sha256": "0b26bd0d0e57bb6b22ae78e549811d05fac0e79b6644bda1962ca4908ae6e612"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/5753ee5e07f86cbbe96c0ad8a6d83362/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R10S-59696_10.webp",
+      "width": 800,
+      "bytes": 11400,
+      "sha256": "216f2ecf400fe06e6a3b4a655b4bcb442181d31cb860ed2d7d7fd15dbec506a6"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/80b12ea1339aa29acc25f13f119fe9ca/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R10S-59696_11.webp",
+      "width": 800,
+      "bytes": 11944,
+      "sha256": "c3f9616f4b845acd887fd0f09f8a426f2bc87a1846bcf78c7bcd43b933ebf9f8"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/1077ce7468739077d13ed51e317130e9/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R10S-59696_12.webp",
+      "width": 800,
+      "bytes": 19764,
+      "sha256": "70beadccb891e91b076867c4e056433200ca2a321dfe2862b2500ceb39b79392"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/5be8758d8941ed0f9ac0d001c867bf54/pol_pl_Bezprzewodowy-odkurzacz-pionowy-Dreame-R10S-59696_14.webp",
+      "width": 800,
+      "bytes": 18872,
+      "sha256": "bf722c52be968a47dd92ab39797132392d9c4f426c7c29f32f7d654c1066c38f"
+    }
+  ],
+  "dropped": 0
+}
