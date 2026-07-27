@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T09:46:43.213Z",
+  "sourcePage": "https://www.tefal.pl/p/frytkownica-beztluszczowa-tefal-dual-easy-fry-grill-ey905d/1510002423",
+  "slug": "tefal-ey905d",
+  "galleryOrder": [
+    "produkt-02.jpg",
+    "produkt-20.jpg",
+    "produkt-19.jpg",
+    "produkt-13.jpg",
+    "produkt-18.jpg",
+    "produkt-21.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-06.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-14.jpg",
+    "produkt-12.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-10.jpg",
+    "produkt-15.jpg",
+    "produkt-07.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.morele.net/full/13218389_6_f.jpg",
+      "width": 1448,
+      "bytes": 169214,
+      "sha256": "3560c9dd824e203f8c168307a825a25dfff5a7b61d60c028f09f86596474c27e"
+    },
+    {
+      "file": "produkt-20.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.morele.net/full/13218389_27_f.jpg",
+      "width": 847,
+      "bytes": 78093,
+      "sha256": "be434db37d9b2fe266cb26d015ae6a7e13ba11ed2b06cef013867e0fb4c378f4"
+    },
+    {
+      "file": "produkt-19.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.morele.net/full/13218389_26_f.jpg",
+      "width": 670,
+      "bytes": 89545,
+      "sha256": "5e12b35ca9da5011580f9a12cb3b2a2263bb98b5ee0b35b72568c33c1613ec72"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.morele.net/full/13218389_19_f.jpg",
+      "width": 1509,
+      "bytes": 212318,
+      "sha256": "191703ebc213f769a6945e423f8fbfa7941e031f3f2fa740b2a44ee61d9993a2"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.morele.net/full/13218389_25_f.jpg",
+      "width": 905,
+      "bytes": 95436,
+      "sha256": "f343d023f07d4293f360e23ac87556f4c421c055e3594de7ff524ac6f9322d97"
+    },
+    {
+      "file": "produkt-21.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.morele.net/full/13218389_28_f.jpg",
+      "width": 757,
+      "bytes": 72232,
+      "sha256": "a0b8b84e0fa805a552f1c4927498901553510bddddc40b0b4481b623a08ab9f9"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.morele.net/full/13218389_23_f.jpg",
+      "width": 1261,
+      "bytes": 163186,
+      "sha256": "7e66a07d329e850efee2f10e23079485339ed0d6c1597e4787dfdc3db4263fae"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.morele.net/full/13218389_24_f.jpg",
+      "width": 841,
+      "bytes": 87937,
+      "sha256": "b3e901d8a355288a4cf3c7fb841473ee918d8a7a1c5b47979e4ecae7f5145cf4"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.morele.net/full/13218389_10_f.jpg",
+      "width": 1575,
+      "bytes": 351804,
+      "sha256": "14280d62a26f9fd08249568a42062fea79a673a9f0502cb5c3589add3c96af18"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.morele.net/full/13218389_13_f.jpg",
+      "width": 1575,
+      "bytes": 354057,
+      "sha256": "ce50d920d70a08b6b9c849ebc0972f064f5d53b766ebb87a6d94091664ac59ff"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://images.morele.net/full/13218389_14_f.jpg",
+      "width": 1575,
+      "bytes": 369088,
+      "sha256": "a566b0b46bdc0193635d5fafc973300f2d76af3453d8079e756d2b890d22c6f6"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://images.morele.net/full/13218389_20_f.jpg",
+      "width": 1575,
+      "bytes": 384438,
+      "sha256": "3426a853a46d7108947dbf86b4c0c2e13c3f0b85bc8eaa9f2e7180f230cc761d"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://images.morele.net/full/13218389_17_f.jpg",
+      "width": 1575,
+      "bytes": 246550,
+      "sha256": "d3794c8a69659818342bb85f262c89e1ed4f60e03ea43c1e635866f16d1b34c8"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://images.morele.net/full/13218389_7_f.jpg",
+      "width": 1575,
+      "bytes": 186224,
+      "sha256": "78fe966d281edc1011199344270ababf374547fb4e8814305d2178e5b7b576c0"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://images.morele.net/full/13218389_8_f.jpg",
+      "width": 1575,
+      "bytes": 224531,
+      "sha256": "9243b5267af4785b9c72a5a83953b3dbdf1d89fbc67904c94201b7ea48f14a24"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://images.morele.net/full/13218389_9_f.jpg",
+      "width": 1575,
+      "bytes": 248697,
+      "sha256": "074f149f8d12c5f4175e972088d694b9cea90b2a5cf8260ebc2ab663a9c8f55a"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://images.morele.net/full/13218389_15_f.jpg",
+      "width": 1575,
+      "bytes": 435484,
+      "sha256": "0fa9e89fffea26fdd1b571445eace340c95b781c598c7ca9c5841acc5689ba8c"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://images.morele.net/full/13218389_21_f.jpg",
+      "width": 1575,
+      "bytes": 303636,
+      "sha256": "2e8f7754c65a58c931e1da51ceb378b4e48c7963532a63043be4143aa7c16230"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://images.morele.net/full/13218389_12_f.jpg",
+      "width": 1575,
+      "bytes": 120307,
+      "sha256": "b598cd6388da970ac568e76a56586f82a29d3317d7dcbda3c2b0bb2443f0dbcb"
+    }
+  ],
+  "dropped": 0,
+  "curatedAt": "2026-07-27",
+  "curationNote": "Kolejnosc kuratorska: 1 = czyste zdjecie calego urzadzenia (miniaturka). Odrzucone: produkt-01 (nakladka marketingowa MyTefal), produkt-11 (produkt ledwo widoczny)."
+}
