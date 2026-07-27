@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T08:55:07.516Z",
+  "sourcePage": "https://www.philips.pl/c-p/NA565_02/philips-airfryer-5000-series-megabasket-with-steam",
+  "slug": "philips-na565-02",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0c8685ed_5b3a_4aba_977d67fa44fd572c?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 39790,
+      "sha256": "a444c122ded4e5a74244a984832293ac0852b7b7cf046932356b051bbf257ca6"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f61e6a9b_f857_4f35_8b71845b2d56c84b?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 67316,
+      "sha256": "100e510999142e8e0869845b727bc4572eaad0ba4c5033cc236bd2ddc49647fa"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1bc0f9f0_81f4_42f5_a4f03a7fc3a2e3d8?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 52380,
+      "sha256": "cd85abf1d1d014a453f55de0e955c8a3ae54fc5b948838b04b5089d10de07340"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_db4b8f0f_10fd_4dca_8b74fc92bffe9607?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 94758,
+      "sha256": "6b9811cf14a9ffd7571bf3a93094de2505e269263ba3c5af9b6b7eababd25974"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_698f40f6_b6a7_428f_846f6b00768c9e77?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 46600,
+      "sha256": "a2c11d44e68f18e096c53e1b5057e30fed2e8ed5c31532e1e32f2e0dd002b813"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_03096d5b_9108_4611_9cd5743100d8d576?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 110902,
+      "sha256": "12cad5814e0a8ab471f4193ab52e72306e47742d31c886bc4ba95efeb5a55e40"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3490512a_de8c_413a_8d83ec5919915153?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 47190,
+      "sha256": "a3b6255e3b32d7fed7c39a225339a47107e184fc12c32f1bb1ee8e6efcf77361"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cf93b318_5339_4840_b6346f05af29b283?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 44764,
+      "sha256": "0005ccb00193a3518d24a2aea30a7061b075f918f00603298b40144cb1fbc386"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f4715eb5_3a3f_45a1_983526f7bd62e391?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 35132,
+      "sha256": "210fdb1898ed22be9cc01224c829c2cc7410473da8499208d55b8da2b3812fb4"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a207676e_7968_4a33_ad7f6d790ee000fd?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 26802,
+      "sha256": "ab8d9b20600269ae84f982ab4e6f6994ea49ff633d37bb19ccf1c57232af460e"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_4d51e64e_70da_4fc5_95ac5409082e69ad?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 41364,
+      "sha256": "6cabb9c587e3f961f06de88da9be0cde51c163cd9aa31ebe33281504db7c45f4"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/ff69d47da7a944e0b5eeabc80078024a?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 7074,
+      "sha256": "27c8a9551dafef369f29887d608cddede01c40425b930000f8325a7206685578"
+    }
+  ],
+  "dropped": 0
+}
