@@ -1,0 +1,108 @@
+{
+ "version": 1,
+ "generatedAt": "2026-07-27T09:52:11Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/prasowanie-i-pielegnacja-ubran/generatory-pary/generator-pary-tefal-pro-express-vision-gv9823-z-oswietleniem-led",
+ "sourceNote": "tefal.pl NIE ma karty GV9823 (wyszukiwarka producenta: brak wynikow 27.07.2026) - zdjecia i specyfikacja z karty sklepu Media Expert",
+ "slug": "tefal-gv9823",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/73/7308868/Generator-pary-TEFAL-Pro-Express-Vision-GV9823-z-oswietleniem-LED-1.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 156548,
+   "sha256": "51ba24f955930ee4087a17f665b0122745d40bed905e8ed28973a6a26be5017c",
+   "note": "packshot kompletu: zelazko na bazie z generatorem i zbiornikiem"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/73/7308868/Generator-pary-TEFAL-Pro-Express-Vision-GV9823-z-oswietleniem-LED-3.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 113077,
+   "sha256": "967704a2e852df8005efe92c0ed8b7b6807cfc23fc088b78e51459ae85638ec3",
+   "note": "rysunek wymiarow urzadzenia"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/73/7308868/Generator-pary-TEFAL-Pro-Express-Vision-GV9823-z-oswietleniem-LED-9.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 419175,
+   "sha256": "5b65792b0c9f1dca5c6fe678b7e4f2f25f7780712277d907a78fa002cc661320",
+   "note": "zblizenie zelazka i stopy Durilium AirGlide"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/73/7308868/Generator-pary-TEFAL-Pro-Express-Vision-GV9823-z-oswietleniem-LED-6.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 171484,
+   "sha256": "802668433e3fff4c6afbdae6dbdf16935a0547b98c289520360d27a506840bd8",
+   "note": "oswietlenie Smart LED Vision podczas prasowania"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/73/7308868/Generator-pary-TEFAL-Pro-Express-Vision-GV9823-z-oswietleniem-LED-7.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 254675,
+   "sha256": "c037ab6a5c9dc1f70defb6b0851a0524707ce60f01570b1773a9877c81154c22",
+   "note": "prasowanie w poziomie"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/73/7308868/Generator-pary-TEFAL-Pro-Express-Vision-GV9823-z-oswietleniem-LED-8.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 267863,
+   "sha256": "a0dea1c6ebeda295a3f8e9bc82a48e930451e151730a8c57d6fc3da046dd4b44",
+   "note": "prasowanie w pionie na wieszaku"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/73/7308868/Generator-pary-TEFAL-Pro-Express-Vision-GV9823-z-oswietleniem-LED-4.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 294536,
+   "sha256": "d9ca1927a226a880b4ce2dff557df7faa44002ba7942c7e400055f2ecc3af36d",
+   "note": "wyjmowanie szufladki Calc Collector"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/73/7308868/Generator-pary-TEFAL-Pro-Express-Vision-GV9823-z-oswietleniem-LED-5.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 261607,
+   "sha256": "92e4244fb0f34c385cbf17f802f1e1e9a9409f2666c05777c55c47cad0a3025a",
+   "note": "naplenianie wyjmowanego zbiornika na wode"
+  }
+ ],
+ "dropped": 0
+}
