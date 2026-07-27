@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/EP3343_50.assets",
+  "slug": "philips-ep3343-50",
+  "kod": "EP3343/50",
+  "ean": "5906063263015",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_aad6473e_ba8c_4bee_9481d4fc89272981?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "RTP EP3343_50-primary-image — ujecie 3/4 z dzbankiem LatteGo (MINIATURKA)",
+      "bytes": 218119,
+      "sha256": "5d05d32cf174337e74fa4f5d85743d29005a70d4e006b9249f4fde7488912f29",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6e757046_cd75_486e_af36600b276d6b2c?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "A2P RFT_EP3343_50_03_SRGB — ujecie 3/4 z drugiej strony",
+      "bytes": 199076,
+      "sha256": "8d57b21b2e644f177497066caee0f878ed6a30d21d4ae440d9d108539282d558",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7595a2a3_278b_4aaf_9f5e02636ffc7626?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "APP F EP3343_50_01 — front z dzbankiem LatteGo",
+      "bytes": 179394,
+      "sha256": "a116400ec1b8199cce857391f1367d27601846fee080570477efe797709b4fab",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_78f58edb_60df_49bb_b94aa6d4c6061fe5?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "A1P EP3343_50_02 — front bez szklanki",
+      "bytes": 175129,
+      "sha256": "ed55e8ae0ea948dab1e0d1f2799b01fb6a8fcacd8bebda4fe7d284649c65a134",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/156662886/81c76285-cbf4-40b7-bce6-4b1efbcb9a68_i-ekspres-philips-3300-lattego-ep3343-50.jpg",
+      "note": "plansza wymiarowa producenta (433/246/372 mm, 1,8 l, 275 g, 12 ustawien) z karty Ceneo 156662886",
+      "bytes": 197929,
+      "sha256": "de1f65417512b4e43402a45818bffcb60a3c545e923b4c409a638e60e0ca38e5",
+      "width": 2160,
+      "height": 1928
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "local:",
+      "note": "local: kopia z philips-ep2334-10",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "width": 525,
+      "height": 105
+    }
+  ]
+}
