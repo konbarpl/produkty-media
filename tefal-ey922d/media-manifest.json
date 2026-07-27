@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T10:56:22.746Z",
+  "sourcePage": "https://www.tefal.pl/frytkownica-beztluszczowa-dual-easy-fry-flex-ey922d-pojemnosc-9-l-grill",
+  "slug": "tefal-ey922d",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/n/o/nowefey922d.png",
+      "width": 1200,
+      "bytes": 457845,
+      "sha256": "396e6f5f3802c08f21f5ddbe3ae38a86f1b4c3e03a9dbf53fe72a6e7c0c7fc3d"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey922d_dual_easy_fry_flex_ss_witb.jpg",
+      "width": 1200,
+      "bytes": 62830,
+      "sha256": "0df45a01e12e286a2a57039c074043514badc8899c0c99c2e8b0ebbf1baa0089"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey922d_dual_easy_flex_ss_h1.jpg",
+      "width": 1200,
+      "bytes": 72264,
+      "sha256": "96ed2f3167afc8871d7208709db4617d782aa4c076be54355a61980bc5391671"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey922d_dual_easy_flex_ss_h2bis.jpg",
+      "width": 1200,
+      "bytes": 81070,
+      "sha256": "ea1c48552d9eb23ea3050346d8db11228055be77d857fdd2f95edbbd0b4067db"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey922d_dual_easy_fry_flex_detail2.jpg",
+      "width": 1575,
+      "bytes": 131483,
+      "sha256": "4817259c715f720f7a11dfa380c3142bed829efdc711a8108a7d55336bd01ff7"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey922d_dual_easy_fry_flex_flexcook_technology_2.jpg",
+      "width": 1200,
+      "bytes": 237097,
+      "sha256": "0af0a68651b445f453cdd7e8f224a04c7fbc1ce0b216d28c087fde644e83f847"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey922d_dual_easy_fry_flex_big_capacity.jpg",
+      "width": 1200,
+      "bytes": 278302,
+      "sha256": "f13b732dc3d00fb4c3bcc84e4ea614642c1b898354b0b6620e48bebdbb4d27ab"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey922d_dual_easy_fry_flex_versatile.jpg",
+      "width": 1200,
+      "bytes": 202890,
+      "sha256": "196650cba46c53942979bbd4903d29f1e15f2dcfb347698a82004af3c13e8f22"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey922d_dual_easy_fry_flex__maximum_convenience.jpg",
+      "width": 1200,
+      "bytes": 165667,
+      "sha256": "da5c7b318cada42abc09e30132e0d32751c9d54a6030e09b168df2ad0826aaa5"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey922d_dual_easy_fry_flex__hotspot_mobile.jpg",
+      "width": 1575,
+      "bytes": 160127,
+      "sha256": "8b2c8f5fdd0ab789025660f3c57e55fd24493d6d324a1a4a7aa021dd514e6f22"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey922d_dual_easy_fry_flex__hotspot_mobile-bis.jpg",
+      "width": 1575,
+      "bytes": 144992,
+      "sha256": "473ef771baa67cc570509cb1ebae3b3fd88be85739eecb02950c610fceda475b"
+    }
+  ],
+  "dropped": 0
+}
