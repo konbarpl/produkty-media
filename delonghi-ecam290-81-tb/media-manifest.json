@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T11:09:06.720Z",
+  "sourcePage": "https://www.avans.pl/agd-male/do-kuchni/ekspresy-cisnieniowe/ekspres-automatyczny-ecam290-81-tb",
+  "slug": "delonghi-ecam290-81-tb",
+  "uwaga": "Model nie ma karty w polskim katalogu delonghi.com, a karta Media Expert zbudowana ze slugu innego modelu prowadzi do ECAM330.80.TXB — zdjecia pochodza z karty Avansu (to samo zrodlo co koszt). Do galerii weszly wylacznie pliki z kodem ECAM290.81.TB / ECAM290-81-TB w nazwie oraz logo marki. Zdjecia zmniejszono 27.07.2026 do maks. 2000 px na dluzszej krawedzi (ffmpeg -q:v 3), bo commit z oryginalami nie przechodzil przez push (HTTP 408).",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "lifestyle-01.jpg",
+    "lifestyle-02.jpg",
+    "lifestyle-03.jpg",
+    "lifestyle-04.jpg",
+    "lifestyle-06.jpg",
+    "lifestyle-07.jpg",
+    "lifestyle-08.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/34/3421380/Ekspres-DELONGHI-Magnifica-Evo-ECAM290.81.TB-Tytanowy-Front-wersja-3.jpg",
+      "width": 1634,
+      "height": 2000,
+      "bytes": 490986,
+      "sha256": "8cf7cb29d28b3ebce1315b3fe3ced3c0e8a4b7591ac52cb54901d21020748577"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/34/3421380/Ekspres-DELONGHI-Magnifica-Evo-ECAM290.81.TB-Tytanowy-Akcesoria-wersja-2.jpg",
+      "width": 1696,
+      "height": 2000,
+      "bytes": 186796,
+      "sha256": "0147a7cde2fb4471319039b3e07f9c0b5ff79f6468f70f224a087a24fbd4c11a"
+    },
+    {
+      "file": "lifestyle-01.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/34/3421380/Ekspres-DELONGHI-Magnifica-Evo-ECAM290.81.TB-Tytanowy-Lifestyle1-wersja-3.jpg",
+      "width": 1333,
+      "height": 2000,
+      "bytes": 199997,
+      "sha256": "ba3bd44571b41d7ad0ca0d196529937564da04d315eb621d356952eed1dee4ba"
+    },
+    {
+      "file": "lifestyle-02.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/34/3421380/Ekspres-DELONGHI-Magnifica-Evo-ECAM290.81.TB-Tytanowy-Lifestyle2-wersja-2.jpg",
+      "width": 1190,
+      "height": 2000,
+      "bytes": 238818,
+      "sha256": "a163a0a6df1951e2c79cbdcec4dbbf81c2b52566c28c826141ba60d5428b0ba1"
+    },
+    {
+      "file": "lifestyle-03.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/34/3421380/Ekspres-DELONGHI-Magnifica-Evo-ECAM290.81.TB-Tytanowy-Lifestyle3-wersja-2.jpg",
+      "width": 2000,
+      "height": 1334,
+      "bytes": 244815,
+      "sha256": "936f233c111eaf96912a8848a1e9c5c206ae4a5b7d87586fe7a1767de5dcfd1b"
+    },
+    {
+      "file": "lifestyle-04.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/34/3421380/Ekspres-DELONGHI-Magnifica-Evo-ECAM290.81.TB-Tytanowy-Lifestyle4-wersja-2.jpg",
+      "width": 2000,
+      "height": 1128,
+      "bytes": 239554,
+      "sha256": "45994924b92ec88a7ec9443f652fc4a7f2a1bb95c715ad96e17d7fb28dadc58c"
+    },
+    {
+      "file": "lifestyle-06.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/34/3421380/Ekspres-DELONGHI-Magnifica-Evo-ECAM290.81.TB-Tytanowy-Lifestyle6-wersja-2.jpg",
+      "width": 2000,
+      "height": 1334,
+      "bytes": 216182,
+      "sha256": "97cd3cce67d2cd94ee2a78cd0cf838799f678e19a3d30ddf796210405e81b72b"
+    },
+    {
+      "file": "lifestyle-07.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/34/3421380/Ekspres-DELONGHI-Magnifica-Evo-ECAM290.81.TB-Tytanowy-Lifestyle7-wersja-2.jpg",
+      "width": 2000,
+      "height": 1136,
+      "bytes": 216643,
+      "sha256": "b31015c5618c32b84a6effb6472cb6ed5cd8d8f72beec31acd3bb2b2c255cc50"
+    },
+    {
+      "file": "lifestyle-08.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/gallery/thumbnails/images/34/3421380/Ekspres-DELONGHI-Magnifica-Evo-ECAM290.81.TB-Tytanowy-Lifestyle8-wersja-2.jpg",
+      "width": 2000,
+      "height": 1034,
+      "bytes": 191887,
+      "sha256": "b606d0f12f44f13e2020b2d853824dc559d0bba4b0ddda7bafbfe5939faa5623"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/filemanager_original/thumbnails/images/DeLonghi-2021-Logo.jpg",
+      "width": 1000,
+      "height": 310,
+      "bytes": 47340,
+      "sha256": "44c061f8e1a1f05c91f7be91f12a5f4bbb90627c7cf38b1551051101c5b4a61a"
+    }
+  ]
+}
