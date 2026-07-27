@@ -1,0 +1,300 @@
+{
+ "version": 1,
+ "generatedAt": "2026-07-27T16:32:00.736Z",
+ "sourcePage": "https://clinus.pl/odkurzacze-jednofunkcyjne/karcher/3366-karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy",
+ "slug": "karcher-vc-6-cordless-ourfamily",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "produkt-08.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "produkt-11.webp",
+  "produkt-12.webp",
+  "produkt-13.webp",
+  "produkt-14.webp",
+  "produkt-15.webp",
+  "produkt-16.webp",
+  "produkt-17.webp",
+  "produkt-18.webp",
+  "produkt-19.webp",
+  "produkt-20.webp",
+  "produkt-21.webp",
+  "produkt-22.webp",
+  "produkt-23.webp",
+  "produkt-24.webp",
+  "opis-01.png",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "logo-karcher.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/40874/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 17036,
+   "sha256": "6f1890d718115275179b764f7c868bb56aadb2c72db459378ea9a37f752f8638"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/40875/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 55968,
+   "sha256": "b6c156317e1f8367345095bcdb72c7bb4a5c2f1e085c3403a3fb6f3aabc9b295"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/40876/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 58784,
+   "sha256": "df0bc15a6e762f09f17fc36ed61657d3cab738d79dd0264733366801fb72da69"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/40877/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 76878,
+   "sha256": "f9d7a2d271732d5671564986d691819ceafd59ef301caebdfd0242dd82878d04"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/40878/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 12106,
+   "sha256": "9e79a933a4ed6e1de90bfe5d997aa91a514298b5730eddf13b662237dfc9173d"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/40879/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 87340,
+   "sha256": "5b41286425da001318eedc29451680385a029fc8cd7f6576e1ea3da6754e5c47"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/40880/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 35764,
+   "sha256": "bd715bac553ae6d37d56f52e76256dd17da336a4340a32df03b553b264edf5e2"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/40881/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 69294,
+   "sha256": "782759d71c3f268131dcba4cf5b36eb25b8b0ba1cad104898abd5013ff8d7fe5"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://clinus.pl/40882/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 52848,
+   "sha256": "f1304e888d53d83c740625f96bab8c891c2562ff30af6225aff2e8f278163416"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://clinus.pl/40883/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 30878,
+   "sha256": "b4a5ce82b809a2103d71cbfa33e57616cfbdfe330147188825961d8976df7ceb"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://clinus.pl/40884/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 98470,
+   "sha256": "9b653f12704478a7bb0d1c3df8684238ace02c52baa78ca5c0c1359ed3e57464"
+  },
+  {
+   "file": "produkt-12.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://clinus.pl/40885/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 38076,
+   "sha256": "ccdcff561a03ca6cec1033b5e59918eae364ab58a726fd7253cbc42e931ded37"
+  },
+  {
+   "file": "produkt-13.webp",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://clinus.pl/40886/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 57210,
+   "sha256": "fe2749d5b2ea726cc12a16cc6a3f922478278dcddc8a71aab49dfbb6a3784805"
+  },
+  {
+   "file": "produkt-14.webp",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://clinus.pl/40887/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 71878,
+   "sha256": "29e360006651d3cca44b343ea79bde24424d306c6a65ea0b7d5bf099b4e8af22"
+  },
+  {
+   "file": "produkt-15.webp",
+   "kind": "product",
+   "order": 15,
+   "sourceUrl": "https://clinus.pl/40888/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 66848,
+   "sha256": "75fcf8ff4c285469ece393f7a739bbbdb4ddcee3d323243265af1566dcad7891"
+  },
+  {
+   "file": "produkt-16.webp",
+   "kind": "product",
+   "order": 16,
+   "sourceUrl": "https://clinus.pl/40889/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 46762,
+   "sha256": "7b0b125a32440b7df4d98865e936fb9d7af0b580bc5ccf3eeb94b1cc9a72ffe8"
+  },
+  {
+   "file": "produkt-17.webp",
+   "kind": "product",
+   "order": 17,
+   "sourceUrl": "https://clinus.pl/40890/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 59030,
+   "sha256": "e9354af8ae1888a37359d9819dd878c763101a8e0595e948d95b87d45cd16971"
+  },
+  {
+   "file": "produkt-18.webp",
+   "kind": "product",
+   "order": 18,
+   "sourceUrl": "https://clinus.pl/40891/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 75944,
+   "sha256": "296d6ae64e908a9f42e78dde5f3c483c8a0dff32ca3613e4a1047d518b0acdfc"
+  },
+  {
+   "file": "produkt-19.webp",
+   "kind": "product",
+   "order": 19,
+   "sourceUrl": "https://clinus.pl/40892/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 84100,
+   "sha256": "7757fe17bd61c1f508e3fdda8e8b0f1036a56ae413885cdd1456064fbb3fbc08"
+  },
+  {
+   "file": "produkt-20.webp",
+   "kind": "product",
+   "order": 20,
+   "sourceUrl": "https://clinus.pl/40893/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 82620,
+   "sha256": "166b2d95d40541600aa05aed423c6385dcb17f2d08cac5c451305b0dc609d175"
+  },
+  {
+   "file": "produkt-21.webp",
+   "kind": "product",
+   "order": 21,
+   "sourceUrl": "https://clinus.pl/40894/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 60710,
+   "sha256": "afc42b4ba292ca362e58d21b398d363d56676aaa70d716d82bcf7b3e849c2e79"
+  },
+  {
+   "file": "produkt-22.webp",
+   "kind": "product",
+   "order": 22,
+   "sourceUrl": "https://clinus.pl/40895/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 11134,
+   "sha256": "e403b341c2654e0b1984b816f98fd46705de3cc53b08433bdd38da700cbfa42f"
+  },
+  {
+   "file": "produkt-23.webp",
+   "kind": "product",
+   "order": 23,
+   "sourceUrl": "https://clinus.pl/40896/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 74748,
+   "sha256": "f7aa9ae24aa41aff1679a9cab190c31e234def9cdeed884362080909ff563c73"
+  },
+  {
+   "file": "produkt-24.webp",
+   "kind": "product",
+   "order": 24,
+   "sourceUrl": "https://clinus.pl/40897/karcher-vc-6-cordless-ourfamily-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 71902,
+   "sha256": "cd11c132a1e11ee63b2847f0ffc59124a53a001c0cedfc14d0b5684730344a9b"
+  },
+  {
+   "file": "opis-01.png",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11986700/1-198-670-0-top4.png",
+   "width": 1500,
+   "bytes": 721214,
+   "sha256": "57c86619b6eec15f2bb48e46ede3a610ff1ba6f074775eb83adcad09469c027d"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/44.jpg",
+   "width": 1000,
+   "bytes": 104436,
+   "sha256": "9e85d296551c9a9af098cdd400a39ef81435afd1603065a1fbf69817d6d5880a"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/odkurzacz-jednofunkcyjny/wyposazenie/ladowarka.jpg",
+   "width": 1000,
+   "bytes": 204787,
+   "sha256": "2a2868ac1ac2305cc406034a4c530ae0b16fc7c89791d5b0209efb83a4c54cf3"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/3.jpg",
+   "width": 1000,
+   "bytes": 83825,
+   "sha256": "53db4d557404dafc976f8cd3882d410164905be8a0eb326f65731fafa56026e7"
+  },
+  {
+   "file": "logo-karcher.jpg",
+   "kind": "logo",
+   "order": 29,
+   "sourceUrl": "dropshipping/materialy/logo/Karcher-Logo-2015-present.jpg",
+   "bytes": 8418,
+   "width": 467
+  }
+ ],
+ "dropped": 6
+}
