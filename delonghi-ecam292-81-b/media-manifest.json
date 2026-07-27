@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T17:20:00+02:00",
+  "sourcePage": "https://www.delonghi.com/en/p/magnifica-evo-ecam292.81.b-magnifica-evo-automatic-espresso-machine/ECAM292.81.B.html?pid=0132217078",
+  "slug": "delonghi-ecam292-81-b",
+  "uwaga": "Zdjecia z angielskiego katalogu producenta delonghi.com (DAM, /902x902/assets/<id> - to najwiekszy dostepny rozmiar, 1600x1600 zwraca HTTP 404, wiec zmniejszanie do 2000 px bylo zbedne). BRAMKA TOZSAMOSCI: odrzucono asset 225627 (ten sam ekspres w wariancie tytanowym/srebrnym - to INNY wariant kolorystyczny niz ECAM292.81.B czarny). Wszystkie przyjete ujecia produktowe i lifestyle pokazuja korpus czarny. Zdjecie nr 1 = miniaturka: urzadzenie razem z karafka na mleko (komplet). Logo marki skopiowane z galerii delonghi-ecam290-81-tb (identyczny plik logo De'Longhi).",
+  "odrzucone": [
+    {
+      "asset": "https://dam.delonghi.com/902x902/assets/225627",
+      "powod": "wariant kolorystyczny tytanowy/srebrny - nie ten produkt (nasz to ECAM292.81.B czarny)"
+    }
+  ],
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "lifestyle-01.jpg",
+    "lifestyle-02.jpg",
+    "detal-01.jpg",
+    "zestaw-01.jpg",
+    "detal-02.jpg",
+    "lifestyle-03.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/225626",
+      "width": 902,
+      "height": 902,
+      "bytes": 30658,
+      "sha256": "f7eb47790a70db8981c21a9f0b0a6af978102c3e9f776f4f0b3e84b915e022e1",
+      "opis": "Ekspres ECAM292.81.B w wariancie czarnym, z karafka LatteCrema Hot i filizankami, biale tlo - MINIATURKA (produkt w komplecie)"
+    },
+    {
+      "file": "lifestyle-01.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/229692",
+      "width": 902,
+      "height": 902,
+      "bytes": 69373,
+      "sha256": "b33640d299d2117c16a0d439e54700ad10e12fd8960c7a4e167a41a6ff5fc4ec",
+      "opis": "Czarny ECAM292.81.B na blacie w salonie z filizankami"
+    },
+    {
+      "file": "lifestyle-02.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/218872",
+      "width": 902,
+      "height": 902,
+      "bytes": 39136,
+      "sha256": "1e58f766b20855f5cec84548949685952361139d6035302288a5635e46599794",
+      "opis": "Czarny ECAM292.81.B na blacie kuchennym, kawa i mleko"
+    },
+    {
+      "file": "detal-01.jpg",
+      "kind": "detail",
+      "order": 4,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/218878",
+      "width": 902,
+      "height": 902,
+      "bytes": 52773,
+      "sha256": "8afa8f86eec0226a891894e8a6fbed03d3bfb6d4620e9f0f9ccc29576498ecb0",
+      "opis": "Zblizenie panelu dotykowego z ikonami 7 napojow (MyLatte, Latte macchiato, Cappuccino, Espresso, Coffee, Long, Hot water)"
+    },
+    {
+      "file": "zestaw-01.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/287567",
+      "width": 902,
+      "height": 902,
+      "bytes": 17045,
+      "sha256": "cfaa5953b4bc89d99022cfc7db459c3447378aa2026dcb1142f73e48c5c7341b",
+      "opis": "Akcesoria: karafka na mleko z podzialka, filtr zmiekczajacy wode, miarka do kawy mielonej, pasek do badania twardosci wody"
+    },
+    {
+      "file": "detal-02.jpg",
+      "kind": "detail",
+      "order": 6,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/210228",
+      "width": 902,
+      "height": 902,
+      "bytes": 29572,
+      "sha256": "f450354f02ba9549a99bc574561f9168e8c4d4b6ba030e0a72b28de548e27d47",
+      "opis": "Zblizenie karafki na mleko z podzialka (funkcja MyLatte), ujecie czarno-biale"
+    },
+    {
+      "file": "lifestyle-03.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/218846",
+      "width": 902,
+      "height": 902,
+      "bytes": 53607,
+      "sha256": "a602ca7d3a741c47997e4f218257977e4d6ae452daa60d03afdc2b539006a997",
+      "opis": "Mycie karafki na mleko pod biezaca woda (karafka do zmywarki)"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "https://prod-api.avans.pl/api/images/filemanager_original/thumbnails/images/DeLonghi-2021-Logo.jpg",
+      "width": 1000,
+      "height": 310,
+      "bytes": 47340,
+      "sha256": "44c061f8e1a1f05c91f7be91f12a5f4bbb90627c7cf38b1551051101c5b4a61a",
+      "opis": "Logo marki De'Longhi (skopiowane z galerii delonghi-ecam290-81-tb w tym samym repo)"
+    }
+  ]
+}
