@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T09:35:20.398Z",
+  "sourcePage": "https://www.morele.net/generator-pary-tefal-express-vision-sv8151-13218358/",
+  "slug": "tefal-sv8151",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.morele.net/full/13218358_0_f.jpg",
+      "width": 644,
+      "bytes": 56385,
+      "sha256": "e1830989996a9aab8892b50457e4701affd0a5f3719b963f80de400dd4f908a8"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.morele.net/full/13218358_1_f.jpg",
+      "width": 720,
+      "bytes": 52907,
+      "sha256": "a276b45452647cb7984c351f4abb8d1bb7f0bd7fb7e121b3e9ebaf8e319ce041"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.morele.net/full/13218358_2_f.jpg",
+      "width": 720,
+      "bytes": 71198,
+      "sha256": "6538995cbb14a2b2612f3576cc15f68b3f7b6e2b41a6bec8268dbd42134b259b"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.morele.net/full/13218358_3_f.jpg",
+      "width": 720,
+      "bytes": 25880,
+      "sha256": "2a057718bffbfb8a1060bd42200bd642165a925c7d4e37e8c4365c51d7bb6972"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.morele.net/full/13218358_4_f.jpg",
+      "width": 720,
+      "bytes": 47511,
+      "sha256": "08de85d0ec21f0f780796cd6f4948cfbba07c19b568ec3869bbc86ce88b951e5"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.morele.net/full/13218358_5_f.jpg",
+      "width": 720,
+      "bytes": 41237,
+      "sha256": "2ec37b5be9710365bf17a28add0a4faf7b13e1a231d66d922547fab14c50fe11"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.morele.net/full/13218358_6_f.jpg",
+      "width": 720,
+      "bytes": 51698,
+      "sha256": "c8abfa28967c518e6a6ff431b62665b99521163413e78ba8286a8e08d84acb11"
+    }
+  ],
+  "dropped": 7
+}
