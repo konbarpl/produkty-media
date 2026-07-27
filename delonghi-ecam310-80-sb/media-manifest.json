@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T12:34:50.138948Z",
+  "sourcePage": "https://www.delonghi.com/en/p/magnifica-evo-next-magnifica-evo-next-automatic-coffee-maker-ecam310.80.sb/ECAM310.80.SB.html?pid=0132250041",
+  "slug": "delonghi-ecam310-80-sb",
+  "uwaga": "Model nie ma karty w polskim katalogu delonghi.com (adres /pl-pl z kodem ECAM310.80.SB zwraca 404), a sklepy grupy TERG (Media Expert, Avans) maja w tej serii tylko wariant ECAM310.60.B — jego karta zostala odrzucona jako inny wariant kolorystyczny. Zdjecia pochodza z karty producenta w katalogu EN, ktora w adresie i naglowku ma dokladny kod ECAM310.80.SB (Magnifica Evo Next, Silver Black); kazde zdjecie obejrzane wzrokowo na kontaktowce _tmp/delonghi-ecam310-80-sb/kontaktowka.jpg. Sklep eukasa.pl ma karte tego wariantu, ale blokuje pobieranie plikow galerii spoza przegladarki; zdjecia Ceneo maja kod modelu w nazwie, lecz sa za male.",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "lifestyle-01.jpg",
+    "lifestyle-02.jpg",
+    "lifestyle-03.jpg",
+    "lifestyle-04.jpg",
+    "logo-01.jpg"
+  ],
+  "odrzucone": [
+    "dam-287281 — filtr wody DLSC002 w opakowaniu; zadna karta nie wymienia filtra w zawartosci zestawu (na karcie producenta lezy w sekcji akcesoriow dokupowanych osobno)",
+    "dam-81959 — odkamieniacz EcoDecalk mini, akcesorium sprzedawane osobno, nie element zestawu",
+    "dam-294624 — kompozycja karafki razem z filtrem wody, odkamieniaczem i miarka; sugeruje zawartosc opakowania, ktorej karta nie potwierdza",
+    "ceneo-01/02/03 — te same ujecia co zdjecia producenta, ale w rozdzielczosci ponizej 550 px (za male do galerii)"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "kadr": "ujecie frontalne calego zestawu: ekspres z zamontowana karafka na mleko i dwiema filizankami espresso",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/294655",
+      "width": 902,
+      "height": 902,
+      "bytes": 62353,
+      "sha256": "1dfbfbc6d10867dd387abb8d7c872f321991ffef3b293ad13dd9e9ad6fda75e9"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "kadr": "ekspres z karafka LatteCrema Hot podczas przygotowania latte macchiato",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/289070",
+      "width": 902,
+      "height": 902,
+      "bytes": 76075,
+      "sha256": "f35bc9148ccf0ce6e46ba836c00ecff8307a74d4ece4322544b908e3005a82a4"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "kadr": "panel sterowania z kolorowym wyswietlaczem TFT i podswietlanymi przyciskami",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/289072",
+      "width": 902,
+      "height": 902,
+      "bytes": 118446,
+      "sha256": "53153314747c3d1f3161eec4ed40068ebc0ceebfdd0cff64ac8949474de91514"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "kadr": "pojemnik na ziarna z pokretlem regulacji stopnia zmielenia",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/218787",
+      "width": 902,
+      "height": 902,
+      "bytes": 86234,
+      "sha256": "f19e7e6fbe01b4e8110768a51e3deab21aa76f569334c366ee134873d04c6ccb"
+    },
+    {
+      "file": "lifestyle-01.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "kadr": "ekspres w kuchni podczas parzenia napoju mlecznego",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/294640",
+      "width": 902,
+      "height": 902,
+      "bytes": 119926,
+      "sha256": "53cdbdd7fea1e9b6f164887b4204b3ceba58f8a394feadb18e569598545d8668"
+    },
+    {
+      "file": "lifestyle-02.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "kadr": "obsluga panelu dotykowego w warunkach domowych",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/294636",
+      "width": 902,
+      "height": 902,
+      "bytes": 87776,
+      "sha256": "05451517f1ee61cef6cff71a1f691e4809dc0c155f4feca8e202f58372fe9e18"
+    },
+    {
+      "file": "lifestyle-03.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "kadr": "wsypywanie ziaren kawy do pojemnika ekspresu",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/294622",
+      "width": 902,
+      "height": 902,
+      "bytes": 87684,
+      "sha256": "f34c2bc6eaa2362ea45974abdc24293f5c3eefe3cc7cb5dd3fca075133248c58"
+    },
+    {
+      "file": "lifestyle-04.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "kadr": "zestawienie napojow kawowych mozliwych do przygotowania",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/294635",
+      "width": 902,
+      "height": 902,
+      "bytes": 105834,
+      "sha256": "6da83435605cad0d6c50236a24c2005f49ceadb2869bfa1eabb9c8f9a07387a5"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 9,
+      "kadr": "logo marki De'Longhi",
+      "sourceUrl": "kopia z produkty-media/delonghi-ecam220-60-b/logo-01.jpg (to samo logo marki, wgrane 27.07.2026)",
+      "width": 1000,
+      "height": 310,
+      "bytes": 39830,
+      "sha256": "11f97fb6327d0343ca4574a5b26866a58d4e4ea3a264ae21e23b3070b4959702"
+    }
+  ]
+}
