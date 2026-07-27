@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T11:02:15.745Z",
+  "sourcePage": "https://www.philips.pl/c-p/AIS6020_70/all-in-one-ironing-solutions-all-in-one-6000-series",
+  "slug": "philips-ais6020-70",
+  "galleryOrder": [
+    "produkt-04.webp",
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c5905321_56df_4e6e_aebccdcf13b9c305?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 77152,
+      "sha256": "c08beb334aa2a0979df2514c5923c570001de0e44d16cb91e151a4a9ea3003a6"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8a8f5949_3916_4176_9d13fd3794d3b0d0?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 72576,
+      "sha256": "7ead86035acaa91fa21a8ed1b9920b338b84796fcfff6e5f7817a02e2ef1a454"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_81559238_86f6_4105_bcf75cc1d9fedf99?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 85586,
+      "sha256": "151889e8d83ba8321a9bcf77db4212e70921843cfd59a84dd0876a8d148bcf0a"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3d85ea3f_b5ee_4376_ac6720b1ed570260?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 59090,
+      "sha256": "16f38da6b2feb8affd851b081c78aa6fa41d4f959ac38e99c22846e4e8195d46"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_11ae753c_16c1_460d_9a4d57cf0f164493?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 76234,
+      "sha256": "f37123ca1c019a18b46f5198b720c58639a6729feebdb110473551d16a43b5e1"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_9de8003f_ee62_45b9_aaba54b981a47474?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 120888,
+      "sha256": "9a194a4b1fd94192fabc27bb881be52823e958fc6ba86cde1945a666d83b2f07"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/ff69d47da7a944e0b5eeabc80078024a?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 12612,
+      "sha256": "9c81f77f12a988a1974cf6d57fd106502589889d6dbd756ea80ece7f9245b618"
+    }
+  ],
+  "dropped": 0,
+  "note": "Kolejnosc galerii: nr 1 = produkt-04 (uklad poziomy, komplet) jako miniaturka; logo Philips (produkt-07) na koncu. Zdjecia PRX Philips CTN AIS6020_70, zweryfikowane wizualnie 27.07.2026."
+}
