@@ -1,0 +1,640 @@
+{
+ "version": 1,
+ "generatedAt": "2026-07-27T16:32:46.593Z",
+ "sourcePage": "https://clinus.pl/odkurzacze-jednofunkcyjne/karcher/9455-karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy",
+ "slug": "karcher-vcs-3-nano-complete",
+ "galleryOrder": [
+  "produkt-03.webp",
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "produkt-08.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "produkt-11.webp",
+  "produkt-12.webp",
+  "produkt-13.webp",
+  "produkt-14.webp",
+  "produkt-15.webp",
+  "produkt-16.webp",
+  "produkt-17.webp",
+  "produkt-18.webp",
+  "produkt-19.webp",
+  "produkt-20.webp",
+  "produkt-21.webp",
+  "produkt-22.webp",
+  "produkt-23.webp",
+  "produkt-24.webp",
+  "produkt-25.webp",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "opis-08.jpg",
+  "opis-09.jpg",
+  "opis-10.jpg",
+  "opis-11.jpg",
+  "opis-12.jpg",
+  "opis-13.jpg",
+  "opis-14.jpg",
+  "opis-15.jpg",
+  "opis-16.jpg",
+  "opis-17.jpg",
+  "opis-18.jpg",
+  "opis-19.jpg",
+  "opis-20.jpg",
+  "opis-21.jpg",
+  "opis-22.jpg",
+  "opis-23.jpg",
+  "opis-24.jpg",
+  "opis-25.jpg",
+  "opis-26.jpg",
+  "opis-27.jpg",
+  "opis-28.jpg",
+  "opis-29.jpg",
+  "opis-30.jpg",
+  "opis-31.jpg",
+  "opis-32.jpg",
+  "opis-33.jpg",
+  "opis-34.jpg",
+  "opis-35.jpg",
+  "opis-36.jpg",
+  "opis-37.jpg",
+  "logo-karcher.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/86873-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 50500,
+   "sha256": "2a2c8bdc5f631d970ab8e9b1d29fdb6a91e21a00331a6774f5d60925e381e894"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/86874-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 32534,
+   "sha256": "2ac4ccd67b5cc481f683f54f2c22c20a0384d9e3fe368ff7ae42ddac4c6503b8"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/86875/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 1000,
+   "bytes": 26262,
+   "sha256": "0ee315260197672176cbfd3898b3c3285bdace9ee7ba217e2b0c0062420afef9"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/86876-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 14854,
+   "sha256": "b6c49d92afd56efcf068db67c1c442f2b3b43c5032a553eaebea91f0b0d821d0"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/86877-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 9774,
+   "sha256": "a6302e036199aa3dd043b70ac833941d7ffde4ae38e4d45ee66dac17d0219948"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/86878-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 7992,
+   "sha256": "56b1820a9ed87fe5d0caff74aa741d15b6ace5320c34db72490a7f7d277ad55a"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/86879-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 9732,
+   "sha256": "2a57727422f4af61e113f4802b7ba3d5feda409554aabdedccf8005a74b1c537"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/86880-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 22122,
+   "sha256": "586e61e9c43f10d66a90bbec7ace4289ec30052f7eff731c751c27cf1b0475a2"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://clinus.pl/86881-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 16162,
+   "sha256": "a262e0be9f9f7f4b828f8651f903c45f3e30e4d98d5926b8d64b7f7c2a7bc4ad"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://clinus.pl/86882-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 20078,
+   "sha256": "9ff8227030bb20e54a43d289108e8308d3e22c8b08d7eafec7376926c3f28d16"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://clinus.pl/86883-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 25242,
+   "sha256": "86a3f35b7a06da94441641cf84d76d92f08047fbd2f54cba166181b0e7b953ac"
+  },
+  {
+   "file": "produkt-12.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://clinus.pl/86884-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 30024,
+   "sha256": "973a745b3031e00d57e7fae8b114a7703fb8504ea9d411dd8e542aa3f6269727"
+  },
+  {
+   "file": "produkt-13.webp",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://clinus.pl/86885-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 26144,
+   "sha256": "f29fef30acbc014325aec2fbe58ed2d06be2ca55181a754c13b9acc7c5effc28"
+  },
+  {
+   "file": "produkt-14.webp",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://clinus.pl/86886-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 37748,
+   "sha256": "5ee4c5fc3c926a0297d20c16221a0bceb769b48540c4a61dfd44ba531029f98b"
+  },
+  {
+   "file": "produkt-15.webp",
+   "kind": "product",
+   "order": 15,
+   "sourceUrl": "https://clinus.pl/86887-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 27088,
+   "sha256": "1d2a09a840de44d03e54c296cc26e3ef3f4033fbdeeea741c42e35e1abe6e013"
+  },
+  {
+   "file": "produkt-16.webp",
+   "kind": "product",
+   "order": 16,
+   "sourceUrl": "https://clinus.pl/86888-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 56120,
+   "sha256": "4f1afb9240e96c0b5f319e6688c75f85d4dbcb9d46c76761f242b17f2ea02aef"
+  },
+  {
+   "file": "produkt-17.webp",
+   "kind": "product",
+   "order": 17,
+   "sourceUrl": "https://clinus.pl/86889-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 37122,
+   "sha256": "3c0f669c18db61c333a8a94cffa3409d2643fedce0ff4129a7d4465035fd3ab7"
+  },
+  {
+   "file": "produkt-18.webp",
+   "kind": "product",
+   "order": 18,
+   "sourceUrl": "https://clinus.pl/86890-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 61766,
+   "sha256": "b3b745e19a7f35aa962424c18910f08757121b19c2f93265d06566b4d8553d8b"
+  },
+  {
+   "file": "produkt-19.webp",
+   "kind": "product",
+   "order": 19,
+   "sourceUrl": "https://clinus.pl/86891-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 63918,
+   "sha256": "19c0369c68c5ad09a0789d257836eed6b1bb57bcd7fdfd2283099d5a1526fabb"
+  },
+  {
+   "file": "produkt-20.webp",
+   "kind": "product",
+   "order": 20,
+   "sourceUrl": "https://clinus.pl/86892-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 50912,
+   "sha256": "8415095f853a137fd58567424ac6e2fd77925ac6840bb387d8d84f3f1c982e08"
+  },
+  {
+   "file": "produkt-21.webp",
+   "kind": "product",
+   "order": 21,
+   "sourceUrl": "https://clinus.pl/86893-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 25734,
+   "sha256": "6061b2f6e7c06fb7a4efafc547a5fa04fadb131bf5aa312d5fe584a09224e4c7"
+  },
+  {
+   "file": "produkt-22.webp",
+   "kind": "product",
+   "order": 22,
+   "sourceUrl": "https://clinus.pl/86894-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 51556,
+   "sha256": "4d7ba6246e39774fbc39472bcf9581db3cfbe45f374e6a85a2c9dcb934298fea"
+  },
+  {
+   "file": "produkt-23.webp",
+   "kind": "product",
+   "order": 23,
+   "sourceUrl": "https://clinus.pl/86895-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 61064,
+   "sha256": "a099cb442be651b2bb6272a8783ea45465399c7cf366b8a4ea9c92f7aae6309b"
+  },
+  {
+   "file": "produkt-24.webp",
+   "kind": "product",
+   "order": 24,
+   "sourceUrl": "https://clinus.pl/86896-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 49276,
+   "sha256": "6b256e227da260cb37cd2f6ce8d2e5f6571ef78fb6968042dfcf946defd17b4d"
+  },
+  {
+   "file": "produkt-25.webp",
+   "kind": "product",
+   "order": 25,
+   "sourceUrl": "https://clinus.pl/86897-large_default/karcher-vcs-3-nano-complete-odkurzacz-pionowy-akumulatorowy.webp",
+   "width": 800,
+   "bytes": 45932,
+   "sha256": "d3779a44b087c403bf177d845fa6306195cae1877030bdff88cece56d284fa5c"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/top-1.jpg",
+   "width": 1500,
+   "bytes": 195670,
+   "sha256": "9e558a802abca930cac13db6b01c13661466e52580fed86e21f899088e3495c0"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/min-1.jpg",
+   "width": 1000,
+   "bytes": 52243,
+   "sha256": "04d1c1941f45278989c28bed53a68fefe6790c7b3107740347cc0f67998139c4"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/12.jpg",
+   "width": 1000,
+   "bytes": 73683,
+   "sha256": "4dad30d34ba92faa08d8fcb64d6037039c1ed79903957856bef3217e3b6550f7"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/36.jpg",
+   "width": 1500,
+   "bytes": 128751,
+   "sha256": "b54ad3f4fc0a85db73bf52128401c81e39ecbd55bb629903da7b8c0acd883efb"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/item-5.jpg",
+   "width": 1000,
+   "bytes": 51870,
+   "sha256": "00a25a11b3d73a942445f1d6a2bccc206d4e2b82f1819f23c19d23da282097d9"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/item-8.jpg",
+   "width": 1000,
+   "bytes": 36616,
+   "sha256": "0a3423ca718acb37aece10cccaaf86a57e91c8fb806518eefa24ba17f944abf3"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/item-7.jpg",
+   "width": 1000,
+   "bytes": 44869,
+   "sha256": "025ad4f17c7fe3689192867299c25faf44ea10cd7ba489ef64f01f8f7f493249"
+  },
+  {
+   "file": "opis-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/item-6.jpg",
+   "width": 1000,
+   "bytes": 40271,
+   "sha256": "92a3c684161ea9996f1655f8d07fd45a31ada1d37ce2bcf7c31f718da73ded6f"
+  },
+  {
+   "file": "opis-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/item-2.jpg",
+   "width": 1000,
+   "bytes": 61874,
+   "sha256": "fe7cd1222b36dd083adefdf1fa665ed08def20b3a0e17d100969e52d059b7eb8"
+  },
+  {
+   "file": "opis-10.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/item-1.jpg",
+   "width": 1000,
+   "bytes": 48922,
+   "sha256": "f35a9ea46ddf28eb9bfd7dfdedf8b7261a4bc14ad3ed5e67e22e7c1bdae830a7"
+  },
+  {
+   "file": "opis-11.jpg",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/item-4.jpg",
+   "width": 1000,
+   "bytes": 38461,
+   "sha256": "363b0c7d800c6a55fad680655e7716529e6b440cc72dff528ee3c70afe4e1f7c"
+  },
+  {
+   "file": "opis-12.jpg",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/item-3.jpg",
+   "width": 1000,
+   "bytes": 45414,
+   "sha256": "d2e264ce2ce4d272d80760c703f396f16b45e3f8cb715aab31df2e1f344ac830"
+  },
+  {
+   "file": "opis-13.jpg",
+   "kind": "lifestyle",
+   "order": 13,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/item-9.jpg",
+   "width": 1000,
+   "bytes": 33643,
+   "sha256": "4d372b906965db34772360ba2714a645b12120b137942655f6f6779407a6ecaf"
+  },
+  {
+   "file": "opis-14.jpg",
+   "kind": "lifestyle",
+   "order": 14,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/45.jpg",
+   "width": 1500,
+   "bytes": 114933,
+   "sha256": "f3793c3a4537f66f58e3336a2ee79dc20469574fc3ea3d6fc5cfbd64ee73bc5e"
+  },
+  {
+   "file": "opis-15.jpg",
+   "kind": "lifestyle",
+   "order": 15,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/21.jpg",
+   "width": 1000,
+   "bytes": 120375,
+   "sha256": "f34e65ea07e4fa9539be66fd563af37f3afb1a96eb59eb3a8846da8a89a78cae"
+  },
+  {
+   "file": "opis-16.jpg",
+   "kind": "lifestyle",
+   "order": 16,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/17.jpg",
+   "width": 1000,
+   "bytes": 134514,
+   "sha256": "677c24591c05d75024356cf681ff77eeb9fb0544070d697a2a070eff250a9d47"
+  },
+  {
+   "file": "opis-17.jpg",
+   "kind": "lifestyle",
+   "order": 17,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/44.jpg",
+   "width": 1500,
+   "bytes": 133466,
+   "sha256": "10582fd657d36c6e5528b9bb1439dfad0dc13a17b1daf8b79d1ef52ca25439b5"
+  },
+  {
+   "file": "opis-18.jpg",
+   "kind": "lifestyle",
+   "order": 18,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/5.jpg",
+   "width": 1000,
+   "bytes": 36812,
+   "sha256": "7e04b37347b1467881c9d164575d6300107b47d5a2a05efa9cbed84cb5f51e6d"
+  },
+  {
+   "file": "opis-19.jpg",
+   "kind": "lifestyle",
+   "order": 19,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/13.jpg",
+   "width": 1000,
+   "bytes": 94576,
+   "sha256": "62d74a36e037199a4fe1e6845e3fa6f0db772af841b8eb4da94818be0ffda9cc"
+  },
+  {
+   "file": "opis-20.jpg",
+   "kind": "lifestyle",
+   "order": 20,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/47.jpg",
+   "width": 1500,
+   "bytes": 159937,
+   "sha256": "5082d9dc01e53ce5d4e6e58057e735055ec02710a154ba9ce372d3f792adc857"
+  },
+  {
+   "file": "opis-21.jpg",
+   "kind": "lifestyle",
+   "order": 21,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/9.jpg",
+   "width": 1000,
+   "bytes": 60745,
+   "sha256": "49dd15f1d5c9e8b4bad836a6956aed173c416ceecb340154871ad83688357a4a"
+  },
+  {
+   "file": "opis-22.jpg",
+   "kind": "lifestyle",
+   "order": 22,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/11.jpg",
+   "width": 1000,
+   "bytes": 85592,
+   "sha256": "20532712dee75edd97065c00028d4c4b0dedd0e05974d7748e430ca0044cc624"
+  },
+  {
+   "file": "opis-23.jpg",
+   "kind": "lifestyle",
+   "order": 23,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/43.jpg",
+   "width": 1500,
+   "bytes": 155958,
+   "sha256": "106970b020521d9f124269e339c102bec7dac6b98088ba4aefde1377f3f8f342"
+  },
+  {
+   "file": "opis-24.jpg",
+   "kind": "lifestyle",
+   "order": 24,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/19.jpg",
+   "width": 1000,
+   "bytes": 118021,
+   "sha256": "1f2d4cc7090ffd1e4395bf152cfcf1e2adc6ae933d34a54e18684d3cb44b7988"
+  },
+  {
+   "file": "opis-25.jpg",
+   "kind": "lifestyle",
+   "order": 25,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/14.jpg",
+   "width": 1000,
+   "bytes": 74879,
+   "sha256": "ff8af3d81d35e76b5ca381f7cf3f3db3fe543ed35cc8302c7855d0e698df4d0e"
+  },
+  {
+   "file": "opis-26.jpg",
+   "kind": "lifestyle",
+   "order": 26,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/46.jpg",
+   "width": 1500,
+   "bytes": 135007,
+   "sha256": "335c2a138476a68a36058469b9391924689cd733591d14deb22a2d34165f1a89"
+  },
+  {
+   "file": "opis-27.jpg",
+   "kind": "lifestyle",
+   "order": 27,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/18.jpg",
+   "width": 1000,
+   "bytes": 135413,
+   "sha256": "ce827c2b28dcde3dec3c383c37393066c52f0f18db83e2d84a9bb130ba47e0a8"
+  },
+  {
+   "file": "opis-28.jpg",
+   "kind": "lifestyle",
+   "order": 28,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/min-2.jpg",
+   "width": 1000,
+   "bytes": 47917,
+   "sha256": "33bb019e89376b9ad44e890ac4d49c084f5b65a659a6047c976c6b7d06e31249"
+  },
+  {
+   "file": "opis-29.jpg",
+   "kind": "lifestyle",
+   "order": 29,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/37.jpg",
+   "width": 1500,
+   "bytes": 160376,
+   "sha256": "b4324bd52de9ab2638bea578963441b90696d4426248d18753c9c12240502ddf"
+  },
+  {
+   "file": "opis-30.jpg",
+   "kind": "lifestyle",
+   "order": 30,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/8.jpg",
+   "width": 1000,
+   "bytes": 60440,
+   "sha256": "e006755291f2fd971549a23d6bb4d76e453e1779c4066996154f6bbbbf1c6850"
+  },
+  {
+   "file": "opis-31.jpg",
+   "kind": "lifestyle",
+   "order": 31,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/20.jpg",
+   "width": 1000,
+   "bytes": 70404,
+   "sha256": "ddd1c0aa64003c1dfa14e275105d06585943a802cb6f68d542e8ba5e475c02ca"
+  },
+  {
+   "file": "opis-32.jpg",
+   "kind": "lifestyle",
+   "order": 32,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/41.jpg",
+   "width": 1500,
+   "bytes": 122342,
+   "sha256": "2bffaba2370393bf029f019087bf29d0f0241cfc3f0a2c052f48a99bb122ac1b"
+  },
+  {
+   "file": "opis-33.jpg",
+   "kind": "lifestyle",
+   "order": 33,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/38.jpg",
+   "width": 1500,
+   "bytes": 92184,
+   "sha256": "336864feb8333676ac18cb021f20baa65236bb4c58e9c7d1868d6093861bae39"
+  },
+  {
+   "file": "opis-34.jpg",
+   "kind": "lifestyle",
+   "order": 34,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/25.jpg",
+   "width": 1000,
+   "bytes": 108397,
+   "sha256": "464eaa0c69bc08ce155cde5d7e2e7b683d8cb16bf0a1a6367cc45cc4254bb9c0"
+  },
+  {
+   "file": "opis-35.jpg",
+   "kind": "lifestyle",
+   "order": 35,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/10.jpg",
+   "width": 1000,
+   "bytes": 86916,
+   "sha256": "4dbb9ef88dc3d82734b7825fdef18fbda95779074d3814a08b5121bf4ce00070"
+  },
+  {
+   "file": "opis-36.jpg",
+   "kind": "lifestyle",
+   "order": 36,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/7.jpg",
+   "width": 1000,
+   "bytes": 52632,
+   "sha256": "71df6eac834049a9ffaf74b5d8f7629e93e5041531f11672b97db6ea2c714264"
+  },
+  {
+   "file": "opis-37.jpg",
+   "kind": "lifestyle",
+   "order": 37,
+   "sourceUrl": "https://clinus.pl/img/cms/Karcher/11989300/4.jpg",
+   "width": 1000,
+   "bytes": 37648,
+   "sha256": "6fc28009b21361bbcf78cf1b47f8e66965798eca5b61f7f2af41fce0795fbefe"
+  },
+  {
+   "file": "logo-karcher.jpg",
+   "kind": "logo",
+   "order": 63,
+   "sourceUrl": "dropshipping/materialy/logo/Karcher-Logo-2015-present.jpg",
+   "bytes": 8418,
+   "width": 467
+  }
+ ],
+ "dropped": 0
+}
