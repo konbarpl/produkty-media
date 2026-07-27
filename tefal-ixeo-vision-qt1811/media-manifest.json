@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T08:49:36.959Z",
+  "sourcePage": "https://www.tefal.pl/stacja-do-prasowania-tefal-ixeo-vision",
+  "slug": "tefal-ixeo-vision-qt1811",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/B/2/B29CF06E-3EF7-4634-960F8F8589F93386_optimized_2.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 24291,
+      "sha256": "b761e3b5f01c99ac9d81b330b627daabaab4a35ed2834e95dcb58f00d5db19ee"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/4/C/4CF208FE-43A9-4689-BAE122F1F10721F0_optimized_2.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 27431,
+      "sha256": "e8a6de6d4dced77b97f9c54fb75371fdda713afcce34d2c35f9009e0b463054d"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/A/A/AA4333BA-E513-41DB-A422636401198E8B_optimized_2.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 26547,
+      "sha256": "870424c80abf34ff9ff33ba314dc309a6556afcc68b3d039eca66e88467bd77d"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_qt1811e0_pwc1_pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 177645,
+      "sha256": "e71279f9310f30204a24ae8f86824e4cb752d3727a7a2c0f5d9dfc9bb67bac06"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_qt1811e0_pwc3_pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 147532,
+      "sha256": "30290f600aad5e5d273a1c358a8a8c75fb21a1718a3253b2736df3bf19e55d12"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_qt1811e0_pwc2_pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 108075,
+      "sha256": "65a91cb5938ca70366286d9c47d7b54a3ab362d22953a3e4ca59ea742d066be4"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_qt1811e0_pwc4_pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 135244,
+      "sha256": "8ccafc7f20347a115867766dad77d957d211adf2a8ef9a8f2ae0776e8e5aae28"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_qt1811e0_pwc5_pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 193390,
+      "sha256": "277d36b99a416b94c1be9d2a1e87e700c15db84035a3c73d9ce1e575424c1ac4"
+    }
+  ],
+  "dropped": 0
+}
