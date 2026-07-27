@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T09:40:14Z",
+  "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TP713R19",
+  "slug": "siemens-tp713r19",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699465_BSH-EN_SI_FAEM_812_TP713R19_General_SecImg-01_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 309691,
+      "sha256": "34292a06053c8efbf0b8b29b356ffdda486117732c0dadd9b53536b1dc27a87b",
+      "opis": "cale urzadzenie od frontu z wymiarami"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699469_BSH-EN_SI_FAEM_812_TP713R19_General_SecImg-08_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 399695,
+      "sha256": "5708fba2f24df75d25d539d7c21c68f47d3a58e8af2d6b476fa189c9e542df13",
+      "opis": "ekspres w kuchni podczas obslugi"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699470_BSH-EN_SI_FAEM_812_TP713R19_General_SecImg-10_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 248768,
+      "sha256": "c7bf779b6579178c7c52578c6de2b5c3532ad45ed9efac6be439d6cb99ae74a0",
+      "opis": "front z dzbankiem mleka i espresso"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699464_BSH-EN_SI_FAEM_812_TP713R19_General_SecImg-06_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 271623,
+      "sha256": "b06a988391d51ff628e8f88e181815ea37837a90bf127eafcdf2a34ccdf4880d",
+      "opis": "dwie kawy mleczne jednoczesnie"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699474_BSH-EN_SI_FAEM_812_TP713R19_General_SecImg-14_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 307998,
+      "sha256": "7bb5181eee3382ae07e4059ac244b1a2436931c9ac6c7fbc8f70e8d57568e84a",
+      "opis": "panel z napojami Slow Brew i Cold Brew"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699467_BSH-EN_SI_FAEM_812_TP713R19_General_SecImg-04_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 515388,
+      "sha256": "b433f069ce188df6f46b33aa54f8816721b723f5a09a6dff60d0ab45f1924475",
+      "opis": "napoje cold brew z lodem"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699460_BSH-EN_SI_FAEM_812_TP713R19_General_SecImg-02_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 317220,
+      "sha256": "d68b8de83df9696bd86b0cb218d72059de87df45ebb7cd266fa20910668bd789",
+      "opis": "dotykowy wyswietlacz iSelect"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699472_BSH-EN_SI_FAEM_812_TP713R19_General_SecImg-13_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 307392,
+      "sha256": "7f66544b8b2fb224a26ec07136e74bb8c5054ca9767d12cbe900c3f7f53f0a86",
+      "opis": "budowa urzadzenia i wyjmowane elementy"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699468_BSH-EN_SI_FAEM_812_TP713R19_General_SecImg-07_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 351283,
+      "sha256": "b8da82eb6e8e8b35147f8a2d4e19fe1fd7e310b4fab1e70e6e18511473b5d044",
+      "opis": "wyjmowanie i mycie zbiornika"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24699476_BSH-EN_SI_FAEM_812_TP713R19_General_SecImg-12_plain_3200x1800px_def.jpg",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 552684,
+      "sha256": "dc8a7bb9417d069d75fa7032bdf95444a8dc09029401633c27da7427e80897c3",
+      "opis": "przeglad rodzajow napojow"
+    }
+  ],
+  "dropped": 5,
+  "droppedFiles": [
+    {
+      "file": "siemens-tp713r19-secimg03-24699461.jpg",
+      "reason": "ekspres ze stalowym pojemnikiem na mleko, ktorego NIE ma w zestawie — mylaca kompletacja"
+    },
+    {
+      "file": "siemens-tp713r19-secimg05-24699463.jpg",
+      "reason": "lifestyle z telefonem, urzadzenie ledwo widoczne w tle"
+    },
+    {
+      "file": "siemens-tp713r19-secimg05-26351736.jpg",
+      "reason": "grafika aplikacji Home Connect bez urzadzenia"
+    },
+    {
+      "file": "siemens-tp713r19-secimg09-24699471.jpg",
+      "reason": "same napoje w szkle, bez urzadzenia"
+    },
+    {
+      "file": "siemens-tp713r19-secimg11-24699473.jpg",
+      "reason": "abstrakcyjny render 3D wnetrza, nieczytelny jako zdjecie produktu"
+    }
+  ],
+  "curationNote": "Kuracja 27.07.2026: karta BSH nie udostepnia packshotu na bialym tle dla TP713R19 (plik STP na stronie nalezy do modelu TP703R19 i zostal odrzucony), wiec miniaturka = pelne ujecie urzadzenia od frontu. Wszystkie 15 pobranych plikow obejrzane na kontaktowce, do galerii weszlo 10 zweryfikowanych jako TP713R19 piano black."
+}
