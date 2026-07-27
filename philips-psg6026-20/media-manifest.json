@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T08:53:02.620Z",
+  "sourcePage": "https://www.philips.pl/c-p/PSG6026_20/perfectcare-6000-series-steam-generator",
+  "slug": "philips-psg6026-20",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61150/3.jpg",
+      "width": 1876,
+      "bytes": 629722,
+      "sha256": "f51571eabf588364010b067dbcc5ab792291a80c80d2fe1f6e7e57fb41259c1c"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61154/7.jpg",
+      "width": 2048,
+      "bytes": 517115,
+      "sha256": "67e2b3d901158c3bf55788e4e926e1e29dac163f098fd8f3c6186afd8e5271cf"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61151/4.jpg",
+      "width": 1876,
+      "bytes": 639096,
+      "sha256": "d24da7988bab5cad8261b435dbbc003f36d6fc17f9cf617dfdbcf10a0e9aae36"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61156/9.jpg",
+      "width": 2048,
+      "bytes": 540640,
+      "sha256": "477e7b6e5ccef81334c7754b50f9a16f57e85c0c90165def467f95f828644942"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61157/10.jpg",
+      "width": 2048,
+      "bytes": 280101,
+      "sha256": "cc108ba8ae90ddf543036b64c4566c3313d90cae0708974448093c7bf4dac3c6"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61153/6.jpg",
+      "width": 2048,
+      "bytes": 615055,
+      "sha256": "411ed7b4870691fd23070b8e27449845145803dee3af599b782158868a205fe2"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61152/5.jpg",
+      "width": 2048,
+      "bytes": 1062048,
+      "sha256": "76772399f7afb032f1116c730b49fa0011ceaf75b8f404a402fe5bf9f42fe331"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61148/1.jpg",
+      "width": 2048,
+      "bytes": 528013,
+      "sha256": "25f2bc97cabff1a2035ddcfa638d8748dca63636c8b7fe2ba6d47d54f19fe1a3"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61149/2.jpg",
+      "width": 2048,
+      "bytes": 1071909,
+      "sha256": "b3605f57f494ff9e2849ac82f6b4f323927ac79f874b87e6106a2468a5a4beae"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61155/8.jpg",
+      "width": 2048,
+      "bytes": 873116,
+      "sha256": "46f9c7646d080908d3fc16abf0de8657884addcf24b5405a9befbc6afeb70d42"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/ff69d47da7a944e0b5eeabc80078024a?wid=800&fmt=jpeg&bgc=255,255,255",
+      "width": 800,
+      "bytes": 4876,
+      "sha256": "97d954773e0339f256978e813f62c11a2c4361fe9334b69a77fa88f8aff1e465"
+    }
+  ],
+  "dropped": 0
+}
