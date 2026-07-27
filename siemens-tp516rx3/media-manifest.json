@@ -26,7 +26,7 @@
       "width": 2480,
       "height": 3440,
       "bytes": 613452,
-      "sha256": "5ddd7c42c39febd4"
+      "sha256": "5ddd7c42c39febd4966f94f890868fc83870922704f6a051449b7c6b80999060"
     },
     {
       "file": "produkt-02.jpg",
@@ -36,7 +36,7 @@
       "width": 3200,
       "height": 1800,
       "bytes": 343673,
-      "sha256": "88363599ec234cd7"
+      "sha256": "88363599ec234cd730ca81caaee9cdbb5dc502ac7088826c7b72a00225e1c247"
     },
     {
       "file": "produkt-03.jpg",
@@ -46,7 +46,7 @@
       "width": 3200,
       "height": 1800,
       "bytes": 361690,
-      "sha256": "11e9756e96e06f65"
+      "sha256": "11e9756e96e06f653c5dc6965f864c881924194c97cbf6748ee20c2a4f85603c"
     },
     {
       "file": "produkt-04.jpg",
@@ -56,7 +56,7 @@
       "width": 3200,
       "height": 1800,
       "bytes": 225356,
-      "sha256": "554ef4054bb0ac34"
+      "sha256": "554ef4054bb0ac34167b43cbbaecdde8e867252f75eeb169cd29c149ff32a708"
     },
     {
       "file": "produkt-05.jpg",
@@ -66,7 +66,7 @@
       "width": 3200,
       "height": 1800,
       "bytes": 375965,
-      "sha256": "68e6eb997096e044"
+      "sha256": "68e6eb997096e044aedd57f56b12505b4ce4e053be22aba9052084462f8a718f"
     },
     {
       "file": "produkt-06.jpg",
@@ -76,7 +76,7 @@
       "width": 3200,
       "height": 1800,
       "bytes": 567626,
-      "sha256": "df428c2ee8dc228c"
+      "sha256": "df428c2ee8dc228cb55898e5687c19a03e83865157e30df92aba8b1b6909f962"
     },
     {
       "file": "produkt-07.jpg",
@@ -86,7 +86,7 @@
       "width": 3200,
       "height": 1800,
       "bytes": 197875,
-      "sha256": "87520836bc90a4aa"
+      "sha256": "87520836bc90a4aa7ba37903fbf2f3cb0385989e94154531001e386d2fad0603"
     },
     {
       "file": "produkt-08.jpg",
@@ -96,7 +96,7 @@
       "width": 3200,
       "height": 1800,
       "bytes": 323690,
-      "sha256": "71f7f28709f00168"
+      "sha256": "71f7f28709f001680080f21ad4d7fba4ea9b6bba7e714b8a03426cdfd9a7cecc"
     },
     {
       "file": "produkt-09.jpg",
@@ -106,7 +106,7 @@
       "width": 3200,
       "height": 1800,
       "bytes": 584796,
-      "sha256": "7a7bd37ab18502c3"
+      "sha256": "7a7bd37ab18502c3e421bd3b619aa2fd49ba2920a81fa4aa7b804942e1039eb4"
     },
     {
       "file": "produkt-10.jpg",
@@ -116,7 +116,7 @@
       "width": 3200,
       "height": 1800,
       "bytes": 605304,
-      "sha256": "e5b5baffebdd7a69"
+      "sha256": "e5b5baffebdd7a6963aad69ba30df6e29797bded0df9ba1c8ab8e87ffd0a5217"
     },
     {
       "file": "produkt-11.jpg",
@@ -126,7 +126,7 @@
       "width": 3200,
       "height": 1800,
       "bytes": 426846,
-      "sha256": "3aaeb7f8a532f5f3"
+      "sha256": "3aaeb7f8a532f5f30056b6d2baab5e556e0aab55b23c3625288d2b868ab2fa01"
     },
     {
       "file": "produkt-12.jpg",
@@ -136,7 +136,7 @@
       "width": 3200,
       "height": 1800,
       "bytes": 419184,
-      "sha256": "409460426810be4a"
+      "sha256": "409460426810be4ab32bdfd1e7d642e3fa18338a70fc778ec6a3713233ba5246"
     }
   ]
 }
