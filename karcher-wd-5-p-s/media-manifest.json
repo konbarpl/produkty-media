@@ -1,0 +1,771 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T08:41:53.771Z",
+  "sourcePage": "https://clinus.pl/odkurzacze-sucho-mokro/karcher/9463-karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem",
+  "slug": "karcher-wd-5-p-s",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "produkt-15.webp",
+    "produkt-16.webp",
+    "produkt-17.webp",
+    "produkt-18.webp",
+    "produkt-19.webp",
+    "produkt-20.webp",
+    "produkt-21.webp",
+    "produkt-22.webp",
+    "produkt-23.webp",
+    "produkt-24.webp",
+    "produkt-25.webp",
+    "produkt-26.webp",
+    "produkt-27.webp",
+    "produkt-28.webp",
+    "produkt-29.webp",
+    "produkt-30.webp",
+    "produkt-31.webp",
+    "produkt-32.webp",
+    "produkt-33.webp",
+    "produkt-34.webp",
+    "produkt-35.webp",
+    "produkt-36.webp",
+    "produkt-37.webp",
+    "produkt-38.webp",
+    "produkt-39.webp",
+    "produkt-40.webp",
+    "produkt-41.webp",
+    "produkt-42.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-10.jpg",
+    "opis-11.jpg",
+    "opis-12.jpg",
+    "opis-13.jpg",
+    "opis-14.jpg",
+    "opis-15.jpg",
+    "opis-16.jpg",
+    "opis-17.jpg",
+    "opis-18.jpg",
+    "opis-19.jpg",
+    "opis-20.jpg",
+    "opis-21.jpg",
+    "opis-22.jpg",
+    "opis-23.jpg",
+    "opis-24.jpg",
+    "opis-25.jpg",
+    "opis-26.jpg",
+    "opis-27.jpg",
+    "opis-28.jpg",
+    "opis-29.jpg",
+    "opis-30.jpg",
+    "opis-31.jpg",
+    "opis-32.jpg",
+    "opis-33.jpg",
+    "opis-34.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/87487/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 1000,
+      "bytes": 52010,
+      "sha256": "17118490b83fe24b425f917356df7fe4fe8e23f88dec849bd63c9894f11730f4"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/87488-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 30794,
+      "sha256": "0c7184fbc723e39b5e37d00982e48d2a0c15e20a203453bfa52df42b6d33304d"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/87489-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 63942,
+      "sha256": "f659418d04e0d77c71bcd827201ec29d70014913e6a237f3cd1cbd25605a5906"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/87490-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 35156,
+      "sha256": "70869396233c68c5b10659e21787f1dffa36d8a7f515c8e64a9dac1c3b23de58"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/87491-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 31922,
+      "sha256": "97e075f9d75fe287a14d3c84f8ff2e7dcdd412f9b4633ceabe9cb55970cf88de"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/87492-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 43942,
+      "sha256": "e608ffcfda8d630752097002fe08e45061f8f6dabeafbd5b3c1cdf5c52e27d67"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/87493-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 39050,
+      "sha256": "3475a041753208f5e075db9e30abc2fdf6794158601612df143e419bc041cd36"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/87494-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 32056,
+      "sha256": "a7a4dab034505c840e55a65cd9ca3783f8b3d20cce95c4a4069ecd3adf42dd5b"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/87495-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 33848,
+      "sha256": "e7fbb0bd0f2f9ef8a57d12ae8d4e548f7d329bd2f5078edb033b301f403c536c"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/87496-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 54860,
+      "sha256": "2026203f0964bf6da41081d305a49f3644d0605d05096f93aa494b261ad9b811"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/87498-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 60490,
+      "sha256": "b059cb7b9b2c2894f96193f05d9d37c0c3e429a5e5cdc7d9b0fd16a4bdab9af8"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/87499-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 55254,
+      "sha256": "94594e5adb8d74dc0ebab10bef206ffda879ebc6bd9a778fd4aef67d5eb57b51"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/87500-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 51702,
+      "sha256": "89d254dceafa71834eff140f3797e473eaf81f32283a28604175be26aae87974"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/87501-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 40754,
+      "sha256": "f39a2f098181ab2f9118c01c2b24e8471832484e696cbf1011c729f108f6552d"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/87502-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 39342,
+      "sha256": "0c63dad40d70a5c8866f9b960da8ea3758f55a7e1a13796c64a568078cfc4aaf"
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/87503-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 71838,
+      "sha256": "0e0b8fd47ebc6683f3a108118d4681660c2671b8c1aa18af22cdc45b2ff54eaf"
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/87504-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 20562,
+      "sha256": "ef5b57dddca4d754e1e468995b62fce841d1f63ac55df43075dcb2985c355c73"
+    },
+    {
+      "file": "produkt-18.webp",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://clinus.pl/87505-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 49026,
+      "sha256": "56cc74a5095082eef0b00a7b7588d59a96aae2aa569ee641221b4b5cae7f6ddd"
+    },
+    {
+      "file": "produkt-19.webp",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://clinus.pl/87506-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 51630,
+      "sha256": "be998d7df7fab61029456d4cd502b42f02270c5bbd3afd074c0fa695823c1b5b"
+    },
+    {
+      "file": "produkt-20.webp",
+      "kind": "product",
+      "order": 20,
+      "sourceUrl": "https://clinus.pl/87507-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 152142,
+      "sha256": "db0b9ce66aba17170b12453e4777b897aad703370b830769f8cce7487878870e"
+    },
+    {
+      "file": "produkt-21.webp",
+      "kind": "product",
+      "order": 21,
+      "sourceUrl": "https://clinus.pl/87508-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 92526,
+      "sha256": "85a487cf2ff87bd81d880388db070fb66f4c988f8d2c0dc33b3fcd93f993eaaf"
+    },
+    {
+      "file": "produkt-22.webp",
+      "kind": "product",
+      "order": 22,
+      "sourceUrl": "https://clinus.pl/87509-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 134960,
+      "sha256": "eef037422202335aa4f486fc8327384160c31b3bc389da39b4e17192606d46b2"
+    },
+    {
+      "file": "produkt-23.webp",
+      "kind": "product",
+      "order": 23,
+      "sourceUrl": "https://clinus.pl/87510-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 103982,
+      "sha256": "8419155f8bc2531248611ea178db33d1bab04cd38e998f55650314d20a2eae0b"
+    },
+    {
+      "file": "produkt-24.webp",
+      "kind": "product",
+      "order": 24,
+      "sourceUrl": "https://clinus.pl/87511-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 41044,
+      "sha256": "f7b7934b563ba039c4183b54022a9b831e3f3b3afdbc969271fc14a4bc1e3835"
+    },
+    {
+      "file": "produkt-25.webp",
+      "kind": "product",
+      "order": 25,
+      "sourceUrl": "https://clinus.pl/87512-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 70398,
+      "sha256": "03bfd04f56c7cd70032190bd99331f3a4eb585d892126e60aaaf74e7a89dee7b"
+    },
+    {
+      "file": "produkt-26.webp",
+      "kind": "product",
+      "order": 26,
+      "sourceUrl": "https://clinus.pl/87513-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 75372,
+      "sha256": "715cbb7257813c24b775ae147c88f02b589c7a0967bfcc92a39673a609be0c00"
+    },
+    {
+      "file": "produkt-27.webp",
+      "kind": "product",
+      "order": 27,
+      "sourceUrl": "https://clinus.pl/87514-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 90362,
+      "sha256": "88e055fa25f0503d68f19da77b946493bbfc69ec9903f01a0413376af1dbbbb2"
+    },
+    {
+      "file": "produkt-28.webp",
+      "kind": "product",
+      "order": 28,
+      "sourceUrl": "https://clinus.pl/87515-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 114226,
+      "sha256": "be6a4dd3bfd507670c4ba1419ed2e50df48ae619e2279cdad2c2fd157678d330"
+    },
+    {
+      "file": "produkt-29.webp",
+      "kind": "product",
+      "order": 29,
+      "sourceUrl": "https://clinus.pl/87516-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 44080,
+      "sha256": "1f566b17f4b98289b605c1ebccad6efcbf2098979ff872e108ab9b8cad950d7b"
+    },
+    {
+      "file": "produkt-30.webp",
+      "kind": "product",
+      "order": 30,
+      "sourceUrl": "https://clinus.pl/87517-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 76388,
+      "sha256": "246a7d9f684ac0adb23b4cfc5f7df16450f2e5fc61529fc5ce8a79176db06eaf"
+    },
+    {
+      "file": "produkt-31.webp",
+      "kind": "product",
+      "order": 31,
+      "sourceUrl": "https://clinus.pl/87518-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 56590,
+      "sha256": "2bda5183deedbebd69091d22c5bf3eb9d7b0c9d58664333e7c4911bcb3c79136"
+    },
+    {
+      "file": "produkt-32.webp",
+      "kind": "product",
+      "order": 32,
+      "sourceUrl": "https://clinus.pl/87519-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 46128,
+      "sha256": "53762dfd282653cf65a51de13acaf1cd5273cdddd628766d490f362e3a6fa5b5"
+    },
+    {
+      "file": "produkt-33.webp",
+      "kind": "product",
+      "order": 33,
+      "sourceUrl": "https://clinus.pl/87520-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 54740,
+      "sha256": "50693f0ad4fe6f9764153577517daf379bc839518579bec577b568789b9adfde"
+    },
+    {
+      "file": "produkt-34.webp",
+      "kind": "product",
+      "order": 34,
+      "sourceUrl": "https://clinus.pl/87521-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 47172,
+      "sha256": "3410d68fcb4d39b76cc0c01c4de16304974e0a2c023e90005637d25a1194693d"
+    },
+    {
+      "file": "produkt-35.webp",
+      "kind": "product",
+      "order": 35,
+      "sourceUrl": "https://clinus.pl/87522-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 95616,
+      "sha256": "7149e25ebfeaef013cf76a9daa389393a40290c75cc2d3f5e175428930258694"
+    },
+    {
+      "file": "produkt-36.webp",
+      "kind": "product",
+      "order": 36,
+      "sourceUrl": "https://clinus.pl/87523-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 123032,
+      "sha256": "a2a50d44c0af8cf0ac32caa6434eb9cb474d44ed6b854381c783c8bb0b1db5e7"
+    },
+    {
+      "file": "produkt-37.webp",
+      "kind": "product",
+      "order": 37,
+      "sourceUrl": "https://clinus.pl/87524-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 60160,
+      "sha256": "d8637f762bd537154019944dd2dfd8859fb1ea4e29fe9b3ad7872abd39de72fd"
+    },
+    {
+      "file": "produkt-38.webp",
+      "kind": "product",
+      "order": 38,
+      "sourceUrl": "https://clinus.pl/87525-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 88150,
+      "sha256": "e017399665afca00e2d66b4cae888508cc8a1b7f42867fd980a3f112519a11b3"
+    },
+    {
+      "file": "produkt-39.webp",
+      "kind": "product",
+      "order": 39,
+      "sourceUrl": "https://clinus.pl/87526-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 50666,
+      "sha256": "7893bba5ba4ea370a4a97349dec1bc9009125a72e4edbc89d310302c09b97147"
+    },
+    {
+      "file": "produkt-40.webp",
+      "kind": "product",
+      "order": 40,
+      "sourceUrl": "https://clinus.pl/87527-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 44650,
+      "sha256": "ec06714d0a48b8a16aed831b66db9bab730327722d174f302fbff678ca8cc94b"
+    },
+    {
+      "file": "produkt-41.webp",
+      "kind": "product",
+      "order": 41,
+      "sourceUrl": "https://clinus.pl/87528-large_default/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 800,
+      "bytes": 110976,
+      "sha256": "820b3a26c4ee3ba10fa90b5af7acd6ac308d8599c5e8e9cb0c7428b5849c75d2"
+    },
+    {
+      "file": "produkt-42.webp",
+      "kind": "product",
+      "order": 42,
+      "sourceUrl": "https://clinus.pl/97587/karcher-wd-5-p-s-v-25-5-22-odkurzacz-warsztatowy-z-gniazdem-i-stalowym-zbiornikiem.webp",
+      "width": 1200,
+      "bytes": 169214,
+      "sha256": "8e14123741bed260720d0996f65964168bbba88ddb23c8b263e662ddcc713cd2"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/top2.jpg",
+      "width": 1500,
+      "bytes": 192822,
+      "sha256": "a9d6cf06036c30f0fe43e708b49ea9578de17659c3238efa4c5d1ba756d906a1"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/58.jpg",
+      "width": 1500,
+      "bytes": 221975,
+      "sha256": "723732f30ffd857aee1ba5149f369301273816a6d0a709e9aa52230f5d7118b5"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/3.jpg",
+      "width": 1000,
+      "bytes": 81880,
+      "sha256": "0c30d0633309cc732c69101648e287281e6071498b3fdcb67f69c452f40b1f44"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/25.jpg",
+      "width": 1000,
+      "bytes": 227567,
+      "sha256": "1fb8ac71f2e491c823349ebc07d6254f311bf99d357cecb5219dad641b75eb72"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/66.jpg",
+      "width": 1500,
+      "bytes": 175583,
+      "sha256": "3e208fb8675726e82612352edb8a2428f87430728201f93a56502d1c638f82bf"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/item-1.jpg",
+      "width": 1000,
+      "bytes": 107009,
+      "sha256": "39ce77718130199de91e6a435175819c924d61da7e9a3af9964d18f557064963"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/item-2.jpg",
+      "width": 1000,
+      "bytes": 50225,
+      "sha256": "e63d061489c99606fa90826fa72a8a446470ad8584fc5d4b50ab0bb99f5122bb"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/item-6.jpg",
+      "width": 1000,
+      "bytes": 47248,
+      "sha256": "187488006850f9f2a8864e750ae3757f514c3ff6be18e3e116409db3b8e9677d"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/item-3.jpg",
+      "width": 1000,
+      "bytes": 51773,
+      "sha256": "d04062428cdf8c114e45c0f381579c9fd5a439784bd3b477496c02cf1bb6558e"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/item-4.jpg",
+      "width": 1000,
+      "bytes": 42207,
+      "sha256": "13d398a2e61f6cc724efbb8df89908cef122b27892f6981631320c4e2054666e"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/item-5.jpg",
+      "width": 1000,
+      "bytes": 61443,
+      "sha256": "37aeef29b0343ba4aff3650bff5f3f188a35f5742bfa66e875e2c9e84e54436a"
+    },
+    {
+      "file": "opis-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/item-7.jpg",
+      "width": 1000,
+      "bytes": 94517,
+      "sha256": "d6dc1fc18e691fa897bcda6e9c78b4ea4e412863742758570a222d9f58a5dd73"
+    },
+    {
+      "file": "opis-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/item-8.jpg",
+      "width": 1000,
+      "bytes": 43324,
+      "sha256": "19770562cebc6780538b899cb0ea8e58e46058491df44283b52550a0e257a172"
+    },
+    {
+      "file": "opis-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/56.jpg",
+      "width": 1500,
+      "bytes": 236434,
+      "sha256": "ee8e4d661d6a8d80872e0e35c1f6fe30f9c7d1d1a4897006cdf34cff13ad560b"
+    },
+    {
+      "file": "opis-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/14.jpg",
+      "width": 1000,
+      "bytes": 136265,
+      "sha256": "8f2d321490b293876b84d52de17dff523f29471de27fd389a3ea8ab03008220b"
+    },
+    {
+      "file": "opis-16.jpg",
+      "kind": "lifestyle",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/19.jpg",
+      "width": 1000,
+      "bytes": 145969,
+      "sha256": "676e99349071d4965ab7d21c3f28ab1769379b4784d20350471770275e6616f6"
+    },
+    {
+      "file": "opis-17.jpg",
+      "kind": "lifestyle",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/63.jpg",
+      "width": 1500,
+      "bytes": 178759,
+      "sha256": "1390996d24bd50685d64b5ab2566f13db95c566559d1cb6721905a81e750f124"
+    },
+    {
+      "file": "opis-18.jpg",
+      "kind": "lifestyle",
+      "order": 18,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/15.jpg",
+      "width": 1000,
+      "bytes": 118317,
+      "sha256": "9ee19acc93c15f36d6df1dd6c5a6935e21ffa4d86d99f981f54685bf298deba4"
+    },
+    {
+      "file": "opis-19.jpg",
+      "kind": "lifestyle",
+      "order": 19,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/17.jpg",
+      "width": 1000,
+      "bytes": 99445,
+      "sha256": "c961dfa3b8349d06b311d4ab55e22668b3485f430af4d1879d64961fbb8613e7"
+    },
+    {
+      "file": "opis-20.jpg",
+      "kind": "lifestyle",
+      "order": 20,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/16.jpg",
+      "width": 1000,
+      "bytes": 116471,
+      "sha256": "ae4da9f5c9a475ee831c58165d3ed7d6a170e399a58d9938b2ea57c88508db7e"
+    },
+    {
+      "file": "opis-21.jpg",
+      "kind": "lifestyle",
+      "order": 21,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/18.jpg",
+      "width": 1000,
+      "bytes": 97937,
+      "sha256": "c2fd13dcdcb9457005529dec39ab1601f8feb03cc8d5b8bc9953581407ec7813"
+    },
+    {
+      "file": "opis-22.jpg",
+      "kind": "lifestyle",
+      "order": 22,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/60.jpg",
+      "width": 1500,
+      "bytes": 240556,
+      "sha256": "2d5ea97c51388739060ae1052d07870a7ece6c3cf81611a837b8e8ec585cf7fd"
+    },
+    {
+      "file": "opis-23.jpg",
+      "kind": "lifestyle",
+      "order": 23,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/32.jpg",
+      "width": 1000,
+      "bytes": 101640,
+      "sha256": "98d93706c76a9dc950f7f84a277f520a1d3ca55cdef76d24bf9987e3f05d897a"
+    },
+    {
+      "file": "opis-24.jpg",
+      "kind": "lifestyle",
+      "order": 24,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/8.jpg",
+      "width": 1000,
+      "bytes": 103505,
+      "sha256": "dc03f0a1a1e3a30426f53c292f1c2fd016651208e9d4cae77411bd3f27931ed8"
+    },
+    {
+      "file": "opis-25.jpg",
+      "kind": "lifestyle",
+      "order": 25,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/21.jpg",
+      "width": 1000,
+      "bytes": 117688,
+      "sha256": "95baa5d5d033e8dde220f5b0c1ea8a0f749f076c8115af5865d49eaed30e92b5"
+    },
+    {
+      "file": "opis-26.jpg",
+      "kind": "lifestyle",
+      "order": 26,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/6.jpg",
+      "width": 1000,
+      "bytes": 87676,
+      "sha256": "569befdf0c1e2d41b06fb5d1028f757ffba195ab279226c50afcef79845d8f14"
+    },
+    {
+      "file": "opis-27.jpg",
+      "kind": "lifestyle",
+      "order": 27,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/20.jpg",
+      "width": 1000,
+      "bytes": 57831,
+      "sha256": "ff76ee998841218230ea39a9dbc6a09184c8d338193330a8f43543241029457d"
+    },
+    {
+      "file": "opis-28.jpg",
+      "kind": "lifestyle",
+      "order": 28,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/35.jpg",
+      "width": 1000,
+      "bytes": 111307,
+      "sha256": "7f89fc4b91a3fd590241c522142d79920e1383a362dc7f2a687ed83b4c74659e"
+    },
+    {
+      "file": "opis-29.jpg",
+      "kind": "lifestyle",
+      "order": 29,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/37.jpg",
+      "width": 1000,
+      "bytes": 114457,
+      "sha256": "33aeed8a7b62322911cbd0439a4551c0b99178777eaff96d8b65f04842442520"
+    },
+    {
+      "file": "opis-30.jpg",
+      "kind": "lifestyle",
+      "order": 30,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/30.jpg",
+      "width": 1000,
+      "bytes": 179538,
+      "sha256": "dcd22f78a2b28a7a3b31315eb8c19289efcd55a2fceca50cc7db6ae6ce59d1a0"
+    },
+    {
+      "file": "opis-31.jpg",
+      "kind": "lifestyle",
+      "order": 31,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/28.jpg",
+      "width": 1000,
+      "bytes": 158697,
+      "sha256": "35e924cba387fac2e18eecf59f7609d3bda1b4daa4b0c9ed6bbb52abd996d8cb"
+    },
+    {
+      "file": "opis-32.jpg",
+      "kind": "lifestyle",
+      "order": 32,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/36.jpg",
+      "width": 1000,
+      "bytes": 128779,
+      "sha256": "ba4e753bef7efb9fc317584552c6b65f40f6a404dab6a1b1ac49f7f9159b136c"
+    },
+    {
+      "file": "opis-33.jpg",
+      "kind": "lifestyle",
+      "order": 33,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/44.jpg",
+      "width": 1000,
+      "bytes": 208613,
+      "sha256": "5c8d75616b557d425c71d6dab79aed49d41d6a24a3f0280942e3d6831b4ece01"
+    },
+    {
+      "file": "opis-34.jpg",
+      "kind": "lifestyle",
+      "order": 34,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283570/10.jpg",
+      "width": 1000,
+      "bytes": 82078,
+      "sha256": "7ee5e6614caf7b40ea56c68ffcb9dccd6c69eea2a26120bc27b049defc75d6ba"
+    }
+  ],
+  "dropped": 0
+}

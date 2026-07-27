@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T08:41:34.779Z",
+  "sourcePage": "https://clinus.pl/odkurzacze-sucho-mokro/karcher/9427-karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth",
+  "slug": "karcher-wd-5-control",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "produkt-15.webp",
+    "produkt-16.webp",
+    "produkt-17.webp",
+    "produkt-18.webp",
+    "produkt-19.webp",
+    "produkt-20.webp",
+    "produkt-21.webp",
+    "produkt-22.webp",
+    "produkt-23.webp",
+    "produkt-24.webp",
+    "produkt-25.webp",
+    "produkt-26.webp",
+    "produkt-27.webp",
+    "produkt-28.webp",
+    "produkt-29.webp",
+    "produkt-30.webp",
+    "produkt-31.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-10.jpg",
+    "opis-11.jpg",
+    "opis-12.jpg",
+    "opis-13.jpg",
+    "opis-14.jpg",
+    "opis-15.jpg",
+    "opis-16.jpg",
+    "opis-17.jpg",
+    "opis-18.jpg",
+    "opis-19.jpg",
+    "opis-20.jpg",
+    "opis-21.jpg",
+    "opis-22.jpg",
+    "opis-23.jpg",
+    "opis-24.jpg",
+    "opis-25.jpg",
+    "opis-26.jpg",
+    "opis-27.jpg",
+    "opis-28.jpg",
+    "opis-29.jpg",
+    "opis-30.jpg",
+    "opis-31.jpg",
+    "opis-32.jpg",
+    "opis-33.jpg",
+    "opis-34.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/87531/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 1000,
+      "bytes": 49440,
+      "sha256": "2d5e189c66ecee43ced240d7a8e647d6f6ee9a4fa966fe64311b0ed43fbdffbb"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/87532-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 114226,
+      "sha256": "be6a4dd3bfd507670c4ba1419ed2e50df48ae619e2279cdad2c2fd157678d330"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/87533-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 44080,
+      "sha256": "1f566b17f4b98289b605c1ebccad6efcbf2098979ff872e108ab9b8cad950d7b"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/87534-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 76388,
+      "sha256": "246a7d9f684ac0adb23b4cfc5f7df16450f2e5fc61529fc5ce8a79176db06eaf"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/87535-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 46128,
+      "sha256": "53762dfd282653cf65a51de13acaf1cd5273cdddd628766d490f362e3a6fa5b5"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/87536-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 50666,
+      "sha256": "7893bba5ba4ea370a4a97349dec1bc9009125a72e4edbc89d310302c09b97147"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/87537-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 44650,
+      "sha256": "ec06714d0a48b8a16aed831b66db9bab730327722d174f302fbff678ca8cc94b"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/87538-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 56590,
+      "sha256": "2bda5183deedbebd69091d22c5bf3eb9d7b0c9d58664333e7c4911bcb3c79136"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/87539-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 31760,
+      "sha256": "a5374aad4e275a60e68e0233aee0cd3e76c512b322fcd079572a597f60c71a34"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/87540-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 52712,
+      "sha256": "13ebbb13e36ec35425bcedc88f5ead38d29bc96e79bbd4cfc4bd691a2fe64d01"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/87541-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 28442,
+      "sha256": "5d8fd795f7c4bdf4513e2bfb14c98b1da4e3292f49b2689b7324621604abf644"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/87542-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 34378,
+      "sha256": "05da09e0db13099cf944e5e6351e305a33da4369685de677447c572ab6520546"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/87543-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 27568,
+      "sha256": "a0f7fc208995194bbf02035a37e04ba61f6b810c5f4af15391fd522e5bb463c1"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/87544-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 37724,
+      "sha256": "cb5c2e402dc1969c6718b9ea6e7d51a94e5f08a98642d7bc7230f55a786db545"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/87545-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 18196,
+      "sha256": "79bbc145f53611491c932b3782c144842815abe2334a582392b9151a4b5b1505"
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/87546-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 14290,
+      "sha256": "c6afd589970c89592e8d5db2be983d62af3fb7628be7770cb646fde4fc99b60f"
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/87547-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 59346,
+      "sha256": "93342cedc1b25b12389ab0bb0ee7a7ee02f068bace3419663d4cbe412dac7db4"
+    },
+    {
+      "file": "produkt-18.webp",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://clinus.pl/87548-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 68254,
+      "sha256": "e3a2149cb50a369aeb7130e9ae4fd287e7d26b36f6abed3a8902c8069b457f10"
+    },
+    {
+      "file": "produkt-19.webp",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://clinus.pl/87549-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 22586,
+      "sha256": "b3487a4a99c038e475bd02b3a14378b49b07771f92635c7aecceb1c1fa9b86bd"
+    },
+    {
+      "file": "produkt-20.webp",
+      "kind": "product",
+      "order": 20,
+      "sourceUrl": "https://clinus.pl/87550-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 69430,
+      "sha256": "cfbf8e457ccbe97ff9d407777cb41e05830a73d09f252fe38346c4f0a42507a7"
+    },
+    {
+      "file": "produkt-21.webp",
+      "kind": "product",
+      "order": 21,
+      "sourceUrl": "https://clinus.pl/87551-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 61460,
+      "sha256": "aa8f5896dea37b42367726a74d03729c896e3aaa8855088c1a38a896c22fde8b"
+    },
+    {
+      "file": "produkt-22.webp",
+      "kind": "product",
+      "order": 22,
+      "sourceUrl": "https://clinus.pl/87552-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 65588,
+      "sha256": "ff38216e3453fbc64fd124de19cb0d17711f818cd48e2a82026e82aa0a150273"
+    },
+    {
+      "file": "produkt-23.webp",
+      "kind": "product",
+      "order": 23,
+      "sourceUrl": "https://clinus.pl/87553-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 61274,
+      "sha256": "98c2feb28c5ee7719d03f7bf5950f2940893f491751e11520a5e8cc4678e1562"
+    },
+    {
+      "file": "produkt-24.webp",
+      "kind": "product",
+      "order": 24,
+      "sourceUrl": "https://clinus.pl/87554-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 33760,
+      "sha256": "5e07a44dce259876a7bd329d80488d3217de6a90c567e3196e216e965c2fee8b"
+    },
+    {
+      "file": "produkt-25.webp",
+      "kind": "product",
+      "order": 25,
+      "sourceUrl": "https://clinus.pl/87555-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 29476,
+      "sha256": "e22efd4de32435e715338cb7e96d0c00979252dc31e55f1ed22e24b652207ffc"
+    },
+    {
+      "file": "produkt-26.webp",
+      "kind": "product",
+      "order": 26,
+      "sourceUrl": "https://clinus.pl/87556-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 30434,
+      "sha256": "9a3d5377423e94e1caa339de1078cb25a13d652e9189dba3d37675d473019e70"
+    },
+    {
+      "file": "produkt-27.webp",
+      "kind": "product",
+      "order": 27,
+      "sourceUrl": "https://clinus.pl/87557-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 106404,
+      "sha256": "2b6183f8851189cdff993967739e123de5c77aa5571d2e14bb99781e4e7dcd77"
+    },
+    {
+      "file": "produkt-28.webp",
+      "kind": "product",
+      "order": 28,
+      "sourceUrl": "https://clinus.pl/87558-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 41044,
+      "sha256": "f7b7934b563ba039c4183b54022a9b831e3f3b3afdbc969271fc14a4bc1e3835"
+    },
+    {
+      "file": "produkt-29.webp",
+      "kind": "product",
+      "order": 29,
+      "sourceUrl": "https://clinus.pl/87559-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 26482,
+      "sha256": "2974e613170b8086b27d9767c462aa82ca227b314c0e54e0ffb3dcd769b0a99f"
+    },
+    {
+      "file": "produkt-30.webp",
+      "kind": "product",
+      "order": 30,
+      "sourceUrl": "https://clinus.pl/87560-large_default/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 800,
+      "bytes": 42902,
+      "sha256": "9450233f84342b03d42217de36ec0b0505f2f7f13a8404265afe43b82bb4985d"
+    },
+    {
+      "file": "produkt-31.webp",
+      "kind": "product",
+      "order": 31,
+      "sourceUrl": "https://clinus.pl/97593/karcher-wd-5-control-25-5-22-odkurzacz-warsztatowy-z-pilotem-bluetooth.webp",
+      "width": 1200,
+      "bytes": 157240,
+      "sha256": "bd0972e1269b3c491a13514915b9e4e00e03ea0046019c9b3eb1a2dd814a2bca"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/top1.jpg",
+      "width": 1500,
+      "bytes": 156230,
+      "sha256": "2fda795d2e3bb3106c8cc76aba0fa992214a60e7c218451a407f4a7c132b3c92"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/34.jpg",
+      "width": 1500,
+      "bytes": 110246,
+      "sha256": "659c0872b2e2ed460bdb8c63b6a147ef8f8d62b53d4f0eff9f9d25c6c8d198f0"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/2.jpg",
+      "width": 1000,
+      "bytes": 79340,
+      "sha256": "a522d9bf4eed12323dd2412440dd787704f4b0d6e6dc0de32835f4ed6fc47bcc"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/342.jpg",
+      "width": 1000,
+      "bytes": 124966,
+      "sha256": "69883f2d66ce5405b33d77ea6673f78f68fa6764446b638205c72fd56d0d0d53"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/32.jpg",
+      "width": 1500,
+      "bytes": 214224,
+      "sha256": "aef78a4a079777964e9b3bca669f794f51bd9df385f7e85d5070ebfa113047ce"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/item-9.jpg",
+      "width": 1000,
+      "bytes": 35282,
+      "sha256": "7d5e26005bab574d69d621114253cfebdb84674801a0fbcaa0deeedbbbab919f"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/item-1.jpg",
+      "width": 1000,
+      "bytes": 107009,
+      "sha256": "55317eec44ce296603e7f6a484731c86d8c6ed166ad33b8d9b78708f787c4ca1"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/item-2.jpg",
+      "width": 1000,
+      "bytes": 50225,
+      "sha256": "882f823bf201993fc7eceab8344188cef6c95305cb5ad85f841d325b9f8b1dd7"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/item-6.jpg",
+      "width": 1000,
+      "bytes": 47248,
+      "sha256": "a1cfeb0de2fe0805946fbd61c59ef013c50f460eb3cfac72424c788ae2eec627"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/item-3.jpg",
+      "width": 1000,
+      "bytes": 51773,
+      "sha256": "931006f2f8fd6a16408a10573127f6341855c0267eb6921577d98af2401a301f"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/item-4.jpg",
+      "width": 1000,
+      "bytes": 42207,
+      "sha256": "cd6fd5f222de0f41f671db5524d39406d67a9cde86464912c3ffea24fb378a7e"
+    },
+    {
+      "file": "opis-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/item-5.jpg",
+      "width": 1000,
+      "bytes": 61443,
+      "sha256": "47a12cdce9d78157ca88732780f528aead328986e9c8b860cfe145e92f948295"
+    },
+    {
+      "file": "opis-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/item-7.jpg",
+      "width": 1000,
+      "bytes": 94517,
+      "sha256": "d64985a3d78c2b943bb606626e57b46d5a85db3371dd50ec81b1b86329cbc6aa"
+    },
+    {
+      "file": "opis-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/item-8.jpg",
+      "width": 1000,
+      "bytes": 43324,
+      "sha256": "694ac3ccb793cde9b8de523dce3d158c6337f074aed944e0a8a252000d44e311"
+    },
+    {
+      "file": "opis-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/31.jpg",
+      "width": 1500,
+      "bytes": 103155,
+      "sha256": "7dd0aba1b6b6ce9c7580365ff25dfc4513661615d32ea896b8b3b380365196f3"
+    },
+    {
+      "file": "opis-16.jpg",
+      "kind": "lifestyle",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/15.jpg",
+      "width": 1000,
+      "bytes": 129128,
+      "sha256": "5ebd840e95970d8d753d7bff96d8b34b89c6e0beafe9bab4858f73b4c9e486ff"
+    },
+    {
+      "file": "opis-17.jpg",
+      "kind": "lifestyle",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/18.jpg",
+      "width": 1000,
+      "bytes": 83986,
+      "sha256": "400aac14c8d1a3df5a2776a3f9a5dd1a801a20233ce7fce9027d842dbca0af30"
+    },
+    {
+      "file": "opis-18.jpg",
+      "kind": "lifestyle",
+      "order": 18,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/11.jpg",
+      "width": 1000,
+      "bytes": 136044,
+      "sha256": "3c3ea2476ca5aef9329d41dea3bf222eda39d13a7eb376076ef3bf5422bf11d5"
+    },
+    {
+      "file": "opis-19.jpg",
+      "kind": "lifestyle",
+      "order": 19,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/4.jpg",
+      "width": 1000,
+      "bytes": 114578,
+      "sha256": "d0203cf1f054225f2bd7c0a5d6b9fdb0b669b719483184cbdc4dfabbd4e4aba5"
+    },
+    {
+      "file": "opis-20.jpg",
+      "kind": "lifestyle",
+      "order": 20,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/451.jpg",
+      "width": 1500,
+      "bytes": 174836,
+      "sha256": "b2c26b66e70e909f4ab8f5a4d60724443ed7ec0c611f5b9b0cfa71c338f33542"
+    },
+    {
+      "file": "opis-21.jpg",
+      "kind": "lifestyle",
+      "order": 21,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/8.jpg",
+      "width": 1000,
+      "bytes": 90373,
+      "sha256": "aaeaeb0541ee6789fc4aa6e700a2a51c9e385a7a1e5a0d6b33dd9fb070b0897d"
+    },
+    {
+      "file": "opis-22.jpg",
+      "kind": "lifestyle",
+      "order": 22,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/261.jpg",
+      "width": 1000,
+      "bytes": 158253,
+      "sha256": "2b1b6dcd60a9d8f53a3b89cb905f04dc928bfc2e08a4de1bc312b014e32704ee"
+    },
+    {
+      "file": "opis-23.jpg",
+      "kind": "lifestyle",
+      "order": 23,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/461.jpg",
+      "width": 1500,
+      "bytes": 150989,
+      "sha256": "ecd819ceb6621dda87865b186724d2a31b08d404106f039afc83a14f4c9bebe0"
+    },
+    {
+      "file": "opis-24.jpg",
+      "kind": "lifestyle",
+      "order": 24,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/10.jpg",
+      "width": 1000,
+      "bytes": 59921,
+      "sha256": "716bfef495f5e80f01d6d9ef593879a3916b384e689b286b4638a9bb93764cca"
+    },
+    {
+      "file": "opis-25.jpg",
+      "kind": "lifestyle",
+      "order": 25,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/12.jpg",
+      "width": 1000,
+      "bytes": 141916,
+      "sha256": "d5cf4a0f3e554018fd57d0f8069cffd267bd698a40e4e1f0b644a0f7bfd0de92"
+    },
+    {
+      "file": "opis-26.jpg",
+      "kind": "lifestyle",
+      "order": 26,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/191.jpg",
+      "width": 1000,
+      "bytes": 101018,
+      "sha256": "ab74dcb1a0d69fe8c0b9d8ec0241325b674a1ebff9b2cfa9392eec03341bdb3a"
+    },
+    {
+      "file": "opis-27.jpg",
+      "kind": "lifestyle",
+      "order": 27,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/9.jpg",
+      "width": 1000,
+      "bytes": 53808,
+      "sha256": "9dd2e1fcff766443ea6831f42081ca56fee6d4d804863313758be47735dc6aa7"
+    },
+    {
+      "file": "opis-28.jpg",
+      "kind": "lifestyle",
+      "order": 28,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/20.jpg",
+      "width": 1000,
+      "bytes": 87404,
+      "sha256": "1293468c0a31d06b91586899476fbf585f8c9423b4d1f56a5407a035cde5a81d"
+    },
+    {
+      "file": "opis-29.jpg",
+      "kind": "lifestyle",
+      "order": 29,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/35.jpg",
+      "width": 1500,
+      "bytes": 204577,
+      "sha256": "e5a3a2dde9a8cb191cc57e6b8f99245742e9bb8c16a5e3782fb37efd1e02b00b"
+    },
+    {
+      "file": "opis-30.jpg",
+      "kind": "lifestyle",
+      "order": 30,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/6.jpg",
+      "width": 1000,
+      "bytes": 83851,
+      "sha256": "bb177ef0e2ab9d949d0e6055a5a9ec9eb351f916dedf7c3bbba2dd94a8693dd6"
+    },
+    {
+      "file": "opis-31.jpg",
+      "kind": "lifestyle",
+      "order": 31,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/44.jpg",
+      "width": 1000,
+      "bytes": 208613,
+      "sha256": "5c8d75616b557d425c71d6dab79aed49d41d6a24a3f0280942e3d6831b4ece01"
+    },
+    {
+      "file": "opis-32.jpg",
+      "kind": "lifestyle",
+      "order": 32,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/7.jpg",
+      "width": 1000,
+      "bytes": 70832,
+      "sha256": "8f54971f07dccc0e8c71d273bd5341a0b5fd215f440ca1d98e35e2dcfd970ad1"
+    },
+    {
+      "file": "opis-33.jpg",
+      "kind": "lifestyle",
+      "order": 33,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/16.jpg",
+      "width": 1000,
+      "bytes": 136966,
+      "sha256": "22aa032932d626cf95ff7f4544c322a90f0d33be7412ceab195cb06606e6cf12"
+    },
+    {
+      "file": "opis-34.jpg",
+      "kind": "lifestyle",
+      "order": 34,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/16283160/new/17.jpg",
+      "width": 1000,
+      "bytes": 133429,
+      "sha256": "54857e70252d36395675f9f4177633f8677f806f7d0b3a847e2132429642409f"
+    }
+  ],
+  "dropped": 0
+}
