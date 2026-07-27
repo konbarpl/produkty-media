@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T11:03:47.421540Z",
+  "sourcePage": "https://www.philips.pl/c-p/AIS8540_80/all-in-one-ironing-solutions-all-in-one-8500-series",
+  "slug": "philips-ais8540-80",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3e01283d_1dc8_4e6e_9035f60fd8d8d0a4?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 113520,
+      "sha256": "f567b7ed01a8eaa09f1dbbfebc7c77cf7faf6be3693fa2932ffbccaee4e7cc0d"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ad5ec221_f543_4c57_8bce682356901b12?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 79162,
+      "sha256": "234b62834e380f007b6ad4841be4d0797adc84b999bb4144e1a8fd6196cfacc7"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a338ddce_dd91_428a_bb8a8d4889f3e2b5?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 87650,
+      "sha256": "39767ce358d8a2a723e23f7fd2723eb6ea77e40cd2fa36ceac7e86182f431db4"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cc9e32c5_7360_4229_b69bcb870c1f07ff?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 74250,
+      "sha256": "a2510a6ad106779bd2b8324bb3673e121eec8750afab35928d849ac917a080cb"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_79267ba2_5f5c_4b40_9eee3e200243386d?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 75912,
+      "sha256": "3c58fdfea3f22b5d63cdefd87418d3d4c93c855f61408085fd1d30ff18a9d707"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_19b3f080_fb90_4e87_a71a12cde91d046f?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 32422,
+      "sha256": "8a38277a470247827f8149628bb99d52bade861197c3122d3e83f16e2c206b55"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3767cdc4_ac44_4b6f_8d942e859b797165?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 43214,
+      "sha256": "10dddb647d420bc5cbbac45b43d4f6196d1c9ecf689fe6d44890db528789ddfb"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7af5e091_895d_4106_94f9d4506460e408?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 102428,
+      "sha256": "9a14529ea4f4f67b49fe27431e99fab0be9a46191767500c1c64011293411f36"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/ff69d47da7a944e0b5eeabc80078024a?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 8350,
+      "sha256": "a24cdb02b3b6c517294670df5f8b96f875ccf24a43e666042fa5d85c36b9cd8b"
+    }
+  ],
+  "dropped": 0
+}
