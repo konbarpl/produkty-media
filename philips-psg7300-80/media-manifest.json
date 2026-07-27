@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T09:36:31.967Z",
+  "sourcePage": "https://www.philips.pl/c-p/PSG7300_80/generator-pary-philips-perfectcare-serii-7000-PSG7300-80",
+  "slug": "philips-psg7300-80",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "opis-01.webp",
+    "produkt-05.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_24eead86_308f_4dc9_aaf3798a3d995fb9?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 37382,
+      "sha256": "b405a6dd9fbdafe9bd8735a73de957fd5110a95db7ce3ce88e6b1de2e7ddbc52"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_320476e9_48e6_4dda_97aad2df4a8eaaaa?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 36040,
+      "sha256": "6180deb904ab927135ff756bb554a4d56806ec0552360facd4381ae41fd8898d"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2d34619e_2a65_492b_8562e5b9c75f9482?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 28736,
+      "sha256": "5e7bf79eb2701db181cea31764942dad19c0777d6a032611968e45c136ef5160"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8e2dc48f_ba25_4b22_b7e4d9486d51a6f1?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 35582,
+      "sha256": "e8b66888a747dce9c765a75c3c266143ba5480e88f59b20733a7ec660bf78cbb"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/ff69d47da7a944e0b5eeabc80078024a?wid=1200",
+      "width": 1200,
+      "bytes": 5100,
+      "sha256": "d572f65d6a5004372f45b179f88ff9e51bd28dcd24940109636dd7639adebd2a"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a67e0f17_ffcd_4240_b92630b83aa231d2?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 26546,
+      "sha256": "98735503ec9f967962db0e4acb67813c1acf573c7bf3f88d7aac6d86c2251af8"
+    }
+  ],
+  "dropped": 0
+}
