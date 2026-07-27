@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-27T12:18:17.954Z",
+  "sourcePage": "https://www.philips.pl/c-p/EP4441_50/series-4400-fully-automatic-espresso-machine",
+  "slug": "philips-ep4441-50",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5a328f91_8deb_4834_8e5fdb116c7325dd?wid=1500&hei=1500&fmt=jpeg&qlt=92 (caption CO_2023_EP4441_50_RFT_FullFrame_Core)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 132972,
+      "sha256": "c74c2fa980537ea79b1bc7726f473fe9871c027322bb216db362bc63933d1769"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6fe5ce8c_4f2d_420c_894ea6e3608fd3f9?wid=1500&hei=1500&fmt=jpeg&qlt=92 (caption CO_2023_EP4441_50_A1_FullFrame_Core)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 107960,
+      "sha256": "a0fef55460e49413d800c7a15dca30d20bf818ac5bb41815424e5a1443cd53b1"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6bf5ebaa_d484_4714_a447dc74fc616bfd?wid=1500&hei=1500&fmt=jpeg&qlt=92 (caption CO_2023_EP4441_50_APS_FullFrame_Core)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 136793,
+      "sha256": "dc578e9d2860ca08d5381eb1ec8ef6d916ff9d920c594f1a0944596185d83e8d"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/166425236/534a2bc7-dfc1-4099-aae3-03e584311b2b_i-ekspres-philips-4400-lattego-ep4441-50-czarny.jpg",
+      "width": 944,
+      "height": 944,
+      "bytes": 91599,
+      "sha256": "bf3b4e1f30be59a4118684c5ea214352c7922218aa404f0f407782a9608de822"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/166425236/c79d5e1d-fabe-4817-9a4c-15d714ab70ad_i-ekspres-philips-4400-lattego-ep4441-50-czarny.jpg",
+      "width": 944,
+      "height": 944,
+      "bytes": 52181,
+      "sha256": "77ab541cd381a5660c25132680408501a048956e7e08a012499fed54a9f97e9e"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f62e8e46_1f64_49ff_8ae20864c0aa2b5f?wid=1500&hei=1500&fmt=jpeg&qlt=92 (caption EP4441_50_ME_RFT_L_Measurements)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 183935,
+      "sha256": "918c68f8c3adb083c3b31d9e3c3b4b6659e0eb22757b15d2e1dbaab971c62c16"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-ep2334-10/logo-philips.png",
+      "width": 525,
+      "height": 105,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 2,
+  "curationNote": "Kuracja 27.07.2026: miniaturka = packshot 3/4 pokazujacy ekspres z pelnym dzbankiem LatteGo i gotowa kawa (komplet), dalej ujecie frontalne, drugie ujecie 3/4, zblizenie systemu LatteGo, pokrywka pojemnika na mleko w zestawie, rysunek wymiarowy, na koncu logo marki. Do galerii weszly wylacznie assety producenta z caption zawierajacym EP4441_50 oraz dwie plansze z karty Ceneo, ktorych nazwa pliku zawiera ep4441-50; wszystkie zweryfikowane wzrokowo (czarny korpus, panel z 12 napojami, AquaClean). ODRZUCONE: asset CO_2023_EP4441_50__F_FullFrame_Core (CDN Philipsa oddawal WebP pod rozszerzeniem .jpg mimo fmt=jpeg — dwie proby) oraz trzecie zdjecie z Ceneo (packshot frontalny dublujacy produkt-02 w gorszej rozdzielczosci)."
+}
