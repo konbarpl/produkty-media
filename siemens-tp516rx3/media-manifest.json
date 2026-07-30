@@ -1,142 +1,154 @@
 {
-  "version": 1,
-  "generatedAt": "2026-07-27T09:36:34.937Z",
-  "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TP516RX3",
-  "slug": "siemens-tp516rx3",
-  "galleryOrder": [
-    "produkt-01.jpg",
-    "produkt-02.jpg",
-    "produkt-03.jpg",
-    "produkt-04.jpg",
-    "produkt-05.jpg",
-    "produkt-06.jpg",
-    "produkt-07.jpg",
-    "produkt-08.jpg",
-    "produkt-09.jpg",
-    "produkt-10.jpg",
-    "produkt-11.jpg",
-    "produkt-12.jpg"
-  ],
-  "files": [
-    {
-      "file": "produkt-01.jpg",
-      "kind": "product",
-      "order": 1,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20262316_TP516RX3_STP%20D_def.jpg",
-      "width": 2480,
-      "height": 3440,
-      "bytes": 613452,
-      "sha256": "5ddd7c42c39febd4966f94f890868fc83870922704f6a051449b7c6b80999060"
-    },
-    {
-      "file": "produkt-02.jpg",
-      "kind": "product",
-      "order": 2,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091411_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-01_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "height": 1800,
-      "bytes": 343673,
-      "sha256": "88363599ec234cd730ca81caaee9cdbb5dc502ac7088826c7b72a00225e1c247"
-    },
-    {
-      "file": "produkt-03.jpg",
-      "kind": "product",
-      "order": 3,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091413_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-02_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "height": 1800,
-      "bytes": 361690,
-      "sha256": "11e9756e96e06f653c5dc6965f864c881924194c97cbf6748ee20c2a4f85603c"
-    },
-    {
-      "file": "produkt-04.jpg",
-      "kind": "product",
-      "order": 4,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091412_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-03_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "height": 1800,
-      "bytes": 225356,
-      "sha256": "554ef4054bb0ac34167b43cbbaecdde8e867252f75eeb169cd29c149ff32a708"
-    },
-    {
-      "file": "produkt-05.jpg",
-      "kind": "product",
-      "order": 5,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091417_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-04_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "height": 1800,
-      "bytes": 375965,
-      "sha256": "68e6eb997096e044aedd57f56b12505b4ce4e053be22aba9052084462f8a718f"
-    },
-    {
-      "file": "produkt-06.jpg",
-      "kind": "product",
-      "order": 6,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091415_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-05_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "height": 1800,
-      "bytes": 567626,
-      "sha256": "df428c2ee8dc228cb55898e5687c19a03e83865157e30df92aba8b1b6909f962"
-    },
-    {
-      "file": "produkt-07.jpg",
-      "kind": "product",
-      "order": 7,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091418_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-06_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "height": 1800,
-      "bytes": 197875,
-      "sha256": "87520836bc90a4aa7ba37903fbf2f3cb0385989e94154531001e386d2fad0603"
-    },
-    {
-      "file": "produkt-08.jpg",
-      "kind": "product",
-      "order": 8,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091422_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-07_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "height": 1800,
-      "bytes": 323690,
-      "sha256": "71f7f28709f001680080f21ad4d7fba4ea9b6bba7e714b8a03426cdfd9a7cecc"
-    },
-    {
-      "file": "produkt-09.jpg",
-      "kind": "product",
-      "order": 9,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091423_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-08_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "height": 1800,
-      "bytes": 584796,
-      "sha256": "7a7bd37ab18502c3e421bd3b619aa2fd49ba2920a81fa4aa7b804942e1039eb4"
-    },
-    {
-      "file": "produkt-10.jpg",
-      "kind": "product",
-      "order": 10,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091424_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-09_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "height": 1800,
-      "bytes": 605304,
-      "sha256": "e5b5baffebdd7a6963aad69ba30df6e29797bded0df9ba1c8ab8e87ffd0a5217"
-    },
-    {
-      "file": "produkt-11.jpg",
-      "kind": "product",
-      "order": 11,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091425_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-10_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "height": 1800,
-      "bytes": 426846,
-      "sha256": "3aaeb7f8a532f5f30056b6d2baab5e556e0aab55b23c3625288d2b868ab2fa01"
-    },
-    {
-      "file": "produkt-12.jpg",
-      "kind": "product",
-      "order": 12,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26358165_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-07_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "height": 1800,
-      "bytes": 419184,
-      "sha256": "409460426810be4ab32bdfd1e7d642e3fa18338a70fc778ec6a3713233ba5246"
-    }
-  ]
+ "version": 1,
+ "generatedAt": "2026-07-27T09:36:34.937Z",
+ "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TP516RX3",
+ "slug": "siemens-tp516rx3",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20262316_TP516RX3_STP%20D_def.jpg",
+   "width": 2480,
+   "height": 3440,
+   "bytes": 613452,
+   "sha256": "5ddd7c42c39febd4966f94f890868fc83870922704f6a051449b7c6b80999060"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091411_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-01_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 343673,
+   "sha256": "88363599ec234cd730ca81caaee9cdbb5dc502ac7088826c7b72a00225e1c247"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091413_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-02_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 361690,
+   "sha256": "11e9756e96e06f653c5dc6965f864c881924194c97cbf6748ee20c2a4f85603c"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091412_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-03_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 225356,
+   "sha256": "554ef4054bb0ac34167b43cbbaecdde8e867252f75eeb169cd29c149ff32a708"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091417_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-04_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 375965,
+   "sha256": "68e6eb997096e044aedd57f56b12505b4ce4e053be22aba9052084462f8a718f"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091415_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-05_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 567626,
+   "sha256": "df428c2ee8dc228cb55898e5687c19a03e83865157e30df92aba8b1b6909f962"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091418_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-06_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 197875,
+   "sha256": "87520836bc90a4aa7ba37903fbf2f3cb0385989e94154531001e386d2fad0603"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091422_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-07_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 323690,
+   "sha256": "71f7f28709f001680080f21ad4d7fba4ea9b6bba7e714b8a03426cdfd9a7cecc"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091423_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-08_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 584796,
+   "sha256": "7a7bd37ab18502c3e421bd3b619aa2fd49ba2920a81fa4aa7b804942e1039eb4"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091424_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-09_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 605304,
+   "sha256": "e5b5baffebdd7a6963aad69ba30df6e29797bded0df9ba1c8ab8e87ffd0a5217"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091425_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-10_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 426846,
+   "sha256": "3aaeb7f8a532f5f30056b6d2baab5e556e0aab55b23c3625288d2b868ab2fa01"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26358165_BSH-EN_SI_FAEM_812_TP516RX3_General_SecImg-07_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 419184,
+   "sha256": "409460426810be4ab32bdfd1e7d642e3fa18338a70fc778ec6a3713233ba5246"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 1,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "height": 500,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c"
+  }
+ ],
+ "logoAddedAt": "2026-07-30"
 }
