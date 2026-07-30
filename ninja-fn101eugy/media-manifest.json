@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-30T11:05:09.761Z",
+  "sourcePage": "https://www.sharkninja.pl/ninja-crispi-4-w-1-przenosny-szklany-air-fryer-cyberspace-fn101eugy/FN101EUGY.html",
+  "slug": "ninja-fn101eugy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "logo-ninja.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/SharkNinja-EU/FN101EUGY_01.jpg",
+      "width": 2070,
+      "bytes": 155884,
+      "sha256": "13ba5e953a20c2f58aae9d7cb38963523b5a234626decc6baed006c4622d5950"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUGY/FN101EUGY_gallery_pl-PL_15.jpg",
+      "width": 1400,
+      "bytes": 175591,
+      "sha256": "1c212b367a8a031dbaf52d69c0eb2c2f343828a787b74c074a06466136b14a2d"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUGY/FN101EUGY_gallery_pl-PL_06.jpg",
+      "width": 1400,
+      "bytes": 355179,
+      "sha256": "cf6aa09fb5ac26a1d2640a7083ee0f45efc5ae40174696a576b63e67d9f1223e"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUGY/FN101EUGY_gallery_pl-PL_03.jpg",
+      "width": 1400,
+      "bytes": 232362,
+      "sha256": "50c1a56f78645550749c741ff8b94afd0f00e1d6282d84d1dde11fec2b2f0f47"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUGY/FN101EUGY_gallery_pl-PL_04.jpg",
+      "width": 1400,
+      "bytes": 208498,
+      "sha256": "f9151be66ec924a5ca97d5926719e7f0fe0fc1b99af2ca2710da89164b5a156a"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUGY/FN101EUGY_gallery_pl-PL_05.jpg",
+      "width": 1400,
+      "bytes": 222567,
+      "sha256": "fbdd42a8bb8f782eb8e40df5b82b74b5ccbfddb9f85185fe353059fcea23c143"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUGY/FN101EUGY_gallery_pl-PL_10.jpg",
+      "width": 1400,
+      "bytes": 154633,
+      "sha256": "f7644388b8e23c6104b32c8e81dc3b5639ad89323dafcc92d2a3ff35280ceafe"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUGY/FN101EUGY_gallery_pl-PL_09.jpg",
+      "width": 1400,
+      "bytes": 226927,
+      "sha256": "d5f04ac806275af99e23db3d7e135187e8e711674cf0c8ae07855a1973378698"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUGY/FN101EUGY_gallery_pl-PL_11.jpg",
+      "width": 1400,
+      "bytes": 165614,
+      "sha256": "a66d5f1f5a4dc6573700b5c0ac8659b2b62f2b0b6db60348bdddc488c39c138f"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUGY/FN101EUGY_gallery_pl-PL_14.jpg",
+      "width": 1400,
+      "bytes": 176484,
+      "sha256": "7f9828e65d56d18cadf11bfcc6648a76b15fef95b2d463ef2f7bfe0c9a8d95e3"
+    },
+    {
+      "file": "logo-ninja.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "dropshipping/materiały/logo/ninja.jpg",
+      "width": 1008,
+      "bytes": 49308,
+      "sha256": "6582c0ad0f51c41f1fd3814dcece75134baf029470d8fa8eaab2b86dfecb729e"
+    }
+  ],
+  "dropped": 6
+}

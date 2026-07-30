@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-30T11:03:46.851Z",
+  "sourcePage": "https://www.bosch-professional.com/pl/pl/products/odkurzacz-akumulatorowy-gas-18v-10l-06019C6302",
+  "slug": "bosch-gas-18v-10-l",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/376113-54/application-image/full/odkurzacz-akumulatorowy-pro-gas-18v-10-l-06019c6302.png",
+      "note": "zakres dostawy (komplet: odkurzacz, waz 1,6 m, 3 rury, ssawka podlogowa, dysza do fug, adapter, pas na ramie)",
+      "width": 627,
+      "height": 600,
+      "bytes": 84054,
+      "sha256": "6c4d72d2e82bc2c912bee1e695004a70415facd6dcedaad5770685966613e64e"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/316903-54/application-image/full/odkurzacz-akumulatorowy-pro-gas-18v-10-l-06019c6302.png",
+      "note": "produkt z wezem, widoczna plakietka klasy pylowej L",
+      "width": 586,
+      "height": 600,
+      "bytes": 86070,
+      "sha256": "e224216456a58e41ea899eca5f7d77f25b0fdfc08dd578ed324d50f3a325452a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/416221-117/application-image/full/odkurzacz-akumulatorowy-pro-gas-18v-10-l-06019c6302.jpg",
+      "note": "praca na mokro - zbieranie wody na budowie",
+      "width": 800,
+      "height": 524,
+      "bytes": 57646,
+      "sha256": "713cfda7942979011da94c65c71374513ece3399962340bfa1c41737b49c3e29"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/416223-117/application-image/full/odkurzacz-akumulatorowy-pro-gas-18v-10-l-06019c6302.jpg",
+      "note": "praca na sucho - wiory w przezroczystym zbiorniku",
+      "width": 800,
+      "height": 534,
+      "bytes": 65309,
+      "sha256": "b542b5de290fab3f0339129dcac86057f11d42d0c1a1503ecf39aabf6f95e72d"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/416220-117/application-image/full/odkurzacz-akumulatorowy-pro-gas-18v-10-l-06019c6302.jpg",
+      "note": "odkurzanie podlogi ssawka szczelinowa w warsztacie",
+      "width": 800,
+      "height": 531,
+      "bytes": 58223,
+      "sha256": "c4b81b622687cffd2aacc2580004f72c88e30c02826cc70d8034966873707aed"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/416222-117/application-image/full/odkurzacz-akumulatorowy-pro-gas-18v-10-l-06019c6302.jpg",
+      "note": "odsysanie pylu przy pracy elektronarzedziem",
+      "width": 800,
+      "height": 531,
+      "bytes": 52020,
+      "sha256": "650ba5251e6942db44e1fc5fa7cc93ffe27390761d6758c5505bf80788ef6277"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/252926-117/application-image/full/odkurzacz-akumulatorowy-pro-gas-18v-10-l-06019c6302.jpg",
+      "note": "detal: wskaznik naladowania i przycisk wlacznika",
+      "width": 800,
+      "height": 534,
+      "bytes": 55215,
+      "sha256": "e81a78b1a844a398b591aff6a7e1b1028f7356870181eb1f152e302dddadf684"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "local: dropshipping/materialy/logo/bosch.jpg",
+      "note": "logo marki Bosch - ostatnia pozycja galerii",
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "dropped": 3,
+  "droppedDetails": [
+    {
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/252925-117/application-image/full/odkurzacz-akumulatorowy-pro-gas-18v-10-l-06019c6302.jpg",
+      "reason": "pokazuje wkladanie akumulatora ProCORE - wersja SOLO 0 601 9C6 302 nie zawiera akumulatora, zdjecie wprowadzaloby w blad"
+    },
+    {
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/416224-117/application-image/full/odkurzacz-akumulatorowy-pro-gas-18v-10-l-06019c6302.jpg",
+      "reason": "pokazuje wkladanie akumulatora 18 V - jak wyzej"
+    },
+    {
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/479679-117/application-image/full/odkurzacz-akumulatorowy-pro-gas-18v-10-l-06019c6302.jpg",
+      "reason": "grafika systemu AMPShare z logotypami kilkudziesieciu obcych marek - nie jest zdjeciem produktu"
+    }
+  ],
+  "duplicatesRemoved": 0,
+  "checkedAt": "2026-07-30"
+}

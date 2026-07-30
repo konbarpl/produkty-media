@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-30T11:02:46.322Z",
+  "sourcePage": "https://www.bosch-professional.com/pl/pl/products/gas-35-m-afc-06019C3100",
+  "slug": "bosch-gas-35-m-afc",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/376119-54/scope-of-supply-image/full/sieciowy-system-odsysania-pylu-pro-gas-35-m-afc-06019c3100.png",
+      "width": 629,
+      "height": 600,
+      "bytes": 62866,
+      "sha256": "11f3aa41748dbe969079b715349d10551d3aa8003bbe119664d0878f0ee015c6",
+      "note": "zakres dostawy — odkurzacz z kompletem akcesoriow"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/117655-82/product-image/full/sieciowy-system-odsysania-pylu-pro-gas-35-m-afc-06019c3100.png",
+      "width": 802,
+      "height": 900,
+      "bytes": 141924,
+      "sha256": "e1c2fb8abb998f52eb492e8e5fb7734f57d1d9fe54541ebfacec956ba1a1ddf7",
+      "note": "packshot z widocznym napisem GAS 35 M AFC i plakietka klasy M"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "application",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/118536-117/application-image/full/sieciowy-system-odsysania-pylu-pro-gas-35-m-afc-06019c3100.jpg",
+      "width": 800,
+      "height": 447,
+      "bytes": 63775,
+      "sha256": "dca069b00680429d486578e010e63ac5e5917d0397574b4402f8ee7e79648ac8",
+      "note": "zastosowanie: odsysanie przy pilarce, L-BOXX na odkurzaczu"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "application",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/118538-117/application-image/full/sieciowy-system-odsysania-pylu-pro-gas-35-m-afc-06019c3100.jpg",
+      "width": 700,
+      "height": 600,
+      "bytes": 76082,
+      "sha256": "a105e65baba590ccc3be4f8967011134a12a3da8a609edde39c19971dd6b43a2",
+      "note": "zastosowanie: kucie w betonie"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "dimensional-drawing",
+      "order": 5,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/115559-117/dimensional-drawing-image/full/sieciowy-system-odsysania-pylu-pro-gas-35-m-afc-06019c3100.jpg",
+      "width": 503,
+      "height": 600,
+      "bytes": 48230,
+      "sha256": "290d8907f7e03a16e9a6ed6fd722ee89cc50db8ba325ba9641cd2b7a2ec816ba",
+      "note": "rysunek wymiarowy 515 x 575 mm, napis GAS 35 M AFC"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "dropshipping/materiały/logo/bosch.jpg",
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2",
+      "note": "logo marki — na koncu galerii"
+    }
+  ]
+}
