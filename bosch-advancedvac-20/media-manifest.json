@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-30T11:04:21.414Z",
+  "sourcePage": "https://www.bosch-diy.com/pl/pl/p/advancedvac-20-06033d1200",
+  "slug": "bosch-advancedvac-20",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "note": "komplet: odkurzacz + akcesoria + karton",
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/06033d1200-advancedvac-20-fcp-2000x2000px-png-image-png.png",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 81762,
+      "sha256": "8591e4fb55f3e2237404ce6b0aa8c202729b33fd4abce1209920f3ce252a8168"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "note": "urządzenie na białym tle",
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedvac-20-100043740-hires-png-rgb-oneux-247038.png",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 46456,
+      "sha256": "322281a3fb0f9a40c311f0466a86642f34488ac07d2dd25eb9487446e3c778b7"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "note": "automatyczne włączanie z elektronarzędziem",
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/funkcja-automatycznego-wlaczania-wylaczania-advancedvac-20-3126260-hires-png-rgb-oneux-430623.png",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 102892,
+      "sha256": "8e22e795afd667079586672b95a0cd9445bbf8a58e3064c1e8c7569dad72f8b6"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "note": "zawór spustowy",
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/zawor-spustowy-advancedvac-20-3126263-hires-png-rgb-oneux-430635.png",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 234620,
+      "sha256": "c42f44e3d09f8c8f02ef6f007cc77e670697b9e84f95cd34033fcfc4cbe3dbd8"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "note": "wąż antystatyczny",
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/waz-antystatyczny-advancedvac-20-3126262-hires-png-rgb-oneux-430629.png",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 110612,
+      "sha256": "2db3b074ec9474e08de52dba8ba28341eef764bb539f54f7d1475b299f439d15"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "note": "adapter uniwersalny",
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/uniwersalny-adapter-advancedvac-20-3126261-hires-png-rgb-oneux-430631.png",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 311032,
+      "sha256": "2d10b9ce7b2e54be629fdf9114a2b606d1eecfd722e7f872a82447a65879ab9a"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "note": "filtr do pracy na sucho i mokro",
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/filtr-do-pracy-na-sucho-i-mokro-advancedvac-20-3126259-hires-png-rgb-oneux-430627.png",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 126092,
+      "sha256": "12c1a17666f5c4ac970cd21ec62420587beea5ca109b7d806bfb9599671ef02a"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "note": "przechowywanie akcesoriów na urządzeniu",
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/opcja-przechowywania-akcesoriow-wraz-z-narzedziem-advancedvac-20-3127710-hires-png-rgb-oneux-430637.png",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 225384,
+      "sha256": "9506a82ac26175c16097062616b0f0170f3db6835691572111c8708742421b35"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "note": "duża siła ssania — ssawka podłogowa",
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/duza-sila-ssania-3126245-hires-png-rgb-oneux-430633.png",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 312366,
+      "sha256": "9f1fb5d0917e2667b48e8d74a250296997f4b1ede421dae7d2a456fe01aa5b8f"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "note": "praca na zewnątrz (liście)",
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedvac-20-100043740-hires-png-rgb-oneux-247046.png",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 459068,
+      "sha256": "f8117cb0e015fb3bb153c29ef062cf37f077cc652b2207891da34fa46f8dc895"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 11,
+      "note": "logo marki Bosch (sekcja 2 opisu + galeria)",
+      "sourceUrl": "dropshipping/materiały/logo/bosch.jpg",
+      "width": null,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "dropped": 0
+}
