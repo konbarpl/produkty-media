@@ -1,122 +1,134 @@
 {
-  "version": 1,
-  "generatedAt": "2026-07-27T11:36:33.276Z",
-  "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TE658209RW",
-  "slug": "siemens-te658209rw",
-  "galleryOrder": [
-    "produkt-01.jpg",
-    "produkt-02.jpg",
-    "produkt-03.jpg",
-    "opis-01.jpg",
-    "opis-02.jpg",
-    "opis-03.jpg",
-    "opis-04.jpg",
-    "opis-05.jpg",
-    "opis-06.jpg",
-    "opis-07.jpg"
-  ],
-  "files": [
-    {
-      "file": "produkt-01.jpg",
-      "kind": "product",
-      "order": 1,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/13189623_TE658209RW_def.jpg",
-      "width": 1035,
-      "bytes": 94719,
-      "sha256": "6135660c9f8770bcc9112287b196738ad4c397c20d1e5d969cc8568c10aa4c67",
-      "note": "packshot: ekspres z izolowanym pojemnikiem na mleko i dwiema kawami latte macchiato (MINIATURKA)"
-    },
-    {
-      "file": "produkt-02.jpg",
-      "kind": "product",
-      "order": 2,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02965403_SE_K_12_KT8_EQ6_TE658209RW_picture_KF1_front_ENG_081218_def.jpg",
-      "width": 3493,
-      "bytes": 755853,
-      "sha256": "26724c7711f47d69041506a1a87399158bd8411e5f013a91f624d56b59d4ba8b",
-      "note": "packshot frontalny w wysokiej rozdzielczosci z pojemnikiem na mleko"
-    },
-    {
-      "file": "produkt-03.jpg",
-      "kind": "product",
-      "order": 3,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/16048913_eCommerce_FAEM_812_TE658209RW_BPlus_SecondaryImage1_def.jpg",
-      "width": 1860,
-      "bytes": 271121,
-      "sha256": "4d4500e3a3fd62659908642da9315b5c69febff2a10230b5f3bc4ccd51c819a7",
-      "note": "ekspres z pojemnikiem na mleko obok opakowania EQ.6 plus"
-    },
-    {
-      "file": "opis-01.jpg",
-      "kind": "detail",
-      "order": 1,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/16048920_eCommerce_FAEM_812_TE658209RW_BPlus_SecondaryImage9_def.jpg",
-      "width": 2000,
-      "bytes": 354505,
-      "sha256": "93f29898d71036f101c0b7673f7196ac63b3771cb86c4b63d1fb610ede7a6f95",
-      "note": "zblizenie wylewki z oznaczeniem EQ.6 plus s800, dwie kawy latte"
-    },
-    {
-      "file": "opis-02.jpg",
-      "kind": "detail",
-      "order": 2,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20801277_BSH-EN_SI_FAEM_812_TE658209RW_General_SecImg-02_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "bytes": 338247,
-      "sha256": "d0f092d5776fff7d6b67cad5c6c76a98a0c8561420223b8b9c1d362cbbbec242",
-      "note": "dotykowy panel coffeeSelect Display obslugiwany palcem"
-    },
-    {
-      "file": "opis-03.jpg",
-      "kind": "detail",
-      "order": 3,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20801282_BSH-EN_SI_FAEM_812_TE658209RW_General_SecImg-07_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "bytes": 199193,
-      "sha256": "e18fe82eced3d14292e4f143d325530d55e0c06445982e8add7c6836a99a9dfa",
-      "note": "pojemnik na ziarna i panel sterowania"
-    },
-    {
-      "file": "opis-04.jpg",
-      "kind": "detail",
-      "order": 4,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20801272_BSH-EN_SI_FAEM_812_TE658209RW_General_SecImg-03_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "bytes": 279631,
-      "sha256": "e74872230303d4e7d4695ed1ca4b2204373c46f065c8c904d97eb29b0a5bdd40",
-      "note": "izolowany pojemnik na mleko przechowywany w lodowce"
-    },
-    {
-      "file": "opis-05.jpg",
-      "kind": "detail",
-      "order": 5,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/16048914_eCommerce_FAEM_812_TE658209RW_BPlus_SecondaryImage5_def.jpg",
-      "width": 2000,
-      "bytes": 240155,
-      "sha256": "7df1daf6de075d85152823c3a47bd500ce3411e8572aac6b23e06744c4e0f842",
-      "note": "wyjmowana jednostka zaparzajaca, plukanie pod biezaca woda"
-    },
-    {
-      "file": "opis-06.jpg",
-      "kind": "lifestyle",
-      "order": 6,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/16048915_eCommerce_FAEM_812_TE658209RW_BPlus_SecondaryImage2_def.jpg",
-      "width": 2000,
-      "bytes": 291376,
-      "sha256": "2ba4b54b25ce900687cef2fb36b8c4889de4344f65d59f2e31e169fa2620b434",
-      "note": "ekspres na blacie kuchennym z dwoma espresso"
-    },
-    {
-      "file": "opis-07.jpg",
-      "kind": "detail",
-      "order": 7,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20801271_BSH-EN_SI_FAEM_812_TE658209RW_General_SecImg-01_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "bytes": 401420,
-      "sha256": "93da759a46dc5ccfcb10e4888e24de085c65b145fca54157a4173aec43a593db",
-      "note": "rysunek wymiarowy: 38,5 x 28,1 x 46,8 cm, zbiornik 1,7 l"
-    }
-  ],
-  "dropped": 6,
-  "curationNote": "Kuracja 27.07.2026: z 16 zdjec karty producenta z pelnym kodem TE658209RW wybrano 10 po obejrzeniu kontaktowki. Miniaturka = packshot pokazujacy komplet (ekspres + izolowany pojemnik na mleko). Odrzucono: kolaz samych napojow bez urzadzenia, ujecie lifestyle z ludzmi, plansze marketingowa iAroma System, powtorzony kolaz jednostki zaparzajacej oraz dwa nadmiarowe ujecia panelu. Wszystkie pliki zweryfikowane wzrokowo jako czarny TE658209RW (Sapphire black metallic)."
+ "version": 1,
+ "generatedAt": "2026-07-27T11:36:33.276Z",
+ "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TE658209RW",
+ "slug": "siemens-te658209rw",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/13189623_TE658209RW_def.jpg",
+   "width": 1035,
+   "bytes": 94719,
+   "sha256": "6135660c9f8770bcc9112287b196738ad4c397c20d1e5d969cc8568c10aa4c67",
+   "note": "packshot: ekspres z izolowanym pojemnikiem na mleko i dwiema kawami latte macchiato (MINIATURKA)"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02965403_SE_K_12_KT8_EQ6_TE658209RW_picture_KF1_front_ENG_081218_def.jpg",
+   "width": 3493,
+   "bytes": 755853,
+   "sha256": "26724c7711f47d69041506a1a87399158bd8411e5f013a91f624d56b59d4ba8b",
+   "note": "packshot frontalny w wysokiej rozdzielczosci z pojemnikiem na mleko"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/16048913_eCommerce_FAEM_812_TE658209RW_BPlus_SecondaryImage1_def.jpg",
+   "width": 1860,
+   "bytes": 271121,
+   "sha256": "4d4500e3a3fd62659908642da9315b5c69febff2a10230b5f3bc4ccd51c819a7",
+   "note": "ekspres z pojemnikiem na mleko obok opakowania EQ.6 plus"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "detail",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/16048920_eCommerce_FAEM_812_TE658209RW_BPlus_SecondaryImage9_def.jpg",
+   "width": 2000,
+   "bytes": 354505,
+   "sha256": "93f29898d71036f101c0b7673f7196ac63b3771cb86c4b63d1fb610ede7a6f95",
+   "note": "zblizenie wylewki z oznaczeniem EQ.6 plus s800, dwie kawy latte"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "detail",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20801277_BSH-EN_SI_FAEM_812_TE658209RW_General_SecImg-02_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "bytes": 338247,
+   "sha256": "d0f092d5776fff7d6b67cad5c6c76a98a0c8561420223b8b9c1d362cbbbec242",
+   "note": "dotykowy panel coffeeSelect Display obslugiwany palcem"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "detail",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20801282_BSH-EN_SI_FAEM_812_TE658209RW_General_SecImg-07_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "bytes": 199193,
+   "sha256": "e18fe82eced3d14292e4f143d325530d55e0c06445982e8add7c6836a99a9dfa",
+   "note": "pojemnik na ziarna i panel sterowania"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "detail",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20801272_BSH-EN_SI_FAEM_812_TE658209RW_General_SecImg-03_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "bytes": 279631,
+   "sha256": "e74872230303d4e7d4695ed1ca4b2204373c46f065c8c904d97eb29b0a5bdd40",
+   "note": "izolowany pojemnik na mleko przechowywany w lodowce"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "detail",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/16048914_eCommerce_FAEM_812_TE658209RW_BPlus_SecondaryImage5_def.jpg",
+   "width": 2000,
+   "bytes": 240155,
+   "sha256": "7df1daf6de075d85152823c3a47bd500ce3411e8572aac6b23e06744c4e0f842",
+   "note": "wyjmowana jednostka zaparzajaca, plukanie pod biezaca woda"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/16048915_eCommerce_FAEM_812_TE658209RW_BPlus_SecondaryImage2_def.jpg",
+   "width": 2000,
+   "bytes": 291376,
+   "sha256": "2ba4b54b25ce900687cef2fb36b8c4889de4344f65d59f2e31e169fa2620b434",
+   "note": "ekspres na blacie kuchennym z dwoma espresso"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "detail",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20801271_BSH-EN_SI_FAEM_812_TE658209RW_General_SecImg-01_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "bytes": 401420,
+   "sha256": "93da759a46dc5ccfcb10e4888e24de085c65b145fca54157a4173aec43a593db",
+   "note": "rysunek wymiarowy: 38,5 x 28,1 x 46,8 cm, zbiornik 1,7 l"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 1,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "height": 500,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c"
+  }
+ ],
+ "dropped": 6,
+ "curationNote": "Kuracja 27.07.2026: z 16 zdjec karty producenta z pelnym kodem TE658209RW wybrano 10 po obejrzeniu kontaktowki. Miniaturka = packshot pokazujacy komplet (ekspres + izolowany pojemnik na mleko). Odrzucono: kolaz samych napojow bez urzadzenia, ujecie lifestyle z ludzmi, plansze marketingowa iAroma System, powtorzony kolaz jednostki zaparzajacej oraz dwa nadmiarowe ujecia panelu. Wszystkie pliki zweryfikowane wzrokowo jako czarny TE658209RW (Sapphire black metallic).",
+ "logoAddedAt": "2026-07-30"
 }

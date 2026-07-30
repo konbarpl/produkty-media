@@ -1,112 +1,124 @@
 {
-  "version": 1,
-  "generatedAt": "2026-07-27T09:00:08.323Z",
-  "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TP511R09",
-  "slug": "siemens-tp511r09",
-  "galleryOrder": [
-    "produkt-01.jpg",
-    "opis-02.jpg",
-    "opis-05.jpg",
-    "opis-03.jpg",
-    "opis-06.jpg",
-    "opis-04.jpg",
-    "opis-07.jpg",
-    "opis-08.jpg",
-    "opis-09.jpg",
-    "opis-01.jpg"
-  ],
-  "files": [
-    {
-      "file": "produkt-01.jpg",
-      "kind": "product",
-      "order": 1,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20261871_TP511R09_STP_D_def.jpg",
-      "width": 2480,
-      "bytes": 512076,
-      "sha256": "3a1f95be7ac10ee7fb1dc5cf6dc189cc840a0a1e37540564a4294867d56905d0"
-    },
-    {
-      "file": "opis-01.jpg",
-      "kind": "lifestyle",
-      "order": 1,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090603_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-01_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "bytes": 325719,
-      "sha256": "38ad31b4018a036dd63c9a9ff49185dc3272439fd3d420e1c9bb4a33f48510c6"
-    },
-    {
-      "file": "opis-02.jpg",
-      "kind": "lifestyle",
-      "order": 2,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090604_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-02_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "bytes": 415405,
-      "sha256": "175f454fe389d67432b8cbc2110a37e7b581a45743173905727f8da6bb997cce"
-    },
-    {
-      "file": "opis-03.jpg",
-      "kind": "lifestyle",
-      "order": 3,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090602_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-03_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "bytes": 214537,
-      "sha256": "9ef8cc0a8cda90837d0522f93f4b17f1a0d8c0dc08bf0b3979709b614026bee9"
-    },
-    {
-      "file": "opis-04.jpg",
-      "kind": "lifestyle",
-      "order": 4,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090605_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-04_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "bytes": 374843,
-      "sha256": "3ad3e2d61cfa0665136a36f16cd5c6aa311a8bc9403a803a65f76b8db857e705"
-    },
-    {
-      "file": "opis-05.jpg",
-      "kind": "lifestyle",
-      "order": 5,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090609_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-05_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "bytes": 550439,
-      "sha256": "1c503bc7972a6b15e656b54af6908be0c1eaf10fe8ecfcb2291392174dcb6594"
-    },
-    {
-      "file": "opis-06.jpg",
-      "kind": "lifestyle",
-      "order": 6,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090610_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-06_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "bytes": 196113,
-      "sha256": "7b7c6226e93fb7b2c65b17338923b8c78533637f85a82eef5546eabe41ea02ae"
-    },
-    {
-      "file": "opis-07.jpg",
-      "kind": "lifestyle",
-      "order": 7,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090611_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-07_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "bytes": 551225,
-      "sha256": "bb945dbd012552ba7daaacb89c6145ebeb114ff43e5d4b29dcc20db6ae0eaaff"
-    },
-    {
-      "file": "opis-08.jpg",
-      "kind": "lifestyle",
-      "order": 8,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090614_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-08_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "bytes": 596764,
-      "sha256": "a0e60dccb76e9f7d506eab73cc34ee94797a3cb323825075aea07e16ab4b15e0"
-    },
-    {
-      "file": "opis-09.jpg",
-      "kind": "lifestyle",
-      "order": 9,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090612_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-09_plain_3200x1800px_def.jpg",
-      "width": 3200,
-      "bytes": 426846,
-      "sha256": "3aaeb7f8a532f5f30056b6d2baab5e556e0aab55b23c3625288d2b868ab2fa01"
-    }
-  ],
-  "dropped": 0,
-  "curationNote": "Kolejnosc kuracji 27.07.2026: packshot jako miniaturka, dalej ujecia w kuchni, panel, czesci wyjmowane, napoje, na koncu render mlynka i rysunek wymiarowy. Wszystkie pliki zweryfikowane wzrokowo jako TP511R09 (kontaktowka)."
+ "version": 1,
+ "generatedAt": "2026-07-27T09:00:08.323Z",
+ "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TP511R09",
+ "slug": "siemens-tp511r09",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "opis-02.jpg",
+  "opis-05.jpg",
+  "opis-03.jpg",
+  "opis-06.jpg",
+  "opis-04.jpg",
+  "opis-07.jpg",
+  "opis-08.jpg",
+  "opis-09.jpg",
+  "opis-01.jpg",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20261871_TP511R09_STP_D_def.jpg",
+   "width": 2480,
+   "bytes": 512076,
+   "sha256": "3a1f95be7ac10ee7fb1dc5cf6dc189cc840a0a1e37540564a4294867d56905d0"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090603_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-01_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "bytes": 325719,
+   "sha256": "38ad31b4018a036dd63c9a9ff49185dc3272439fd3d420e1c9bb4a33f48510c6"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090604_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-02_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "bytes": 415405,
+   "sha256": "175f454fe389d67432b8cbc2110a37e7b581a45743173905727f8da6bb997cce"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090602_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-03_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "bytes": 214537,
+   "sha256": "9ef8cc0a8cda90837d0522f93f4b17f1a0d8c0dc08bf0b3979709b614026bee9"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090605_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-04_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "bytes": 374843,
+   "sha256": "3ad3e2d61cfa0665136a36f16cd5c6aa311a8bc9403a803a65f76b8db857e705"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090609_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-05_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "bytes": 550439,
+   "sha256": "1c503bc7972a6b15e656b54af6908be0c1eaf10fe8ecfcb2291392174dcb6594"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090610_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-06_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "bytes": 196113,
+   "sha256": "7b7c6226e93fb7b2c65b17338923b8c78533637f85a82eef5546eabe41ea02ae"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090611_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-07_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "bytes": 551225,
+   "sha256": "bb945dbd012552ba7daaacb89c6145ebeb114ff43e5d4b29dcc20db6ae0eaaff"
+  },
+  {
+   "file": "opis-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090614_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-08_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "bytes": 596764,
+   "sha256": "a0e60dccb76e9f7d506eab73cc34ee94797a3cb323825075aea07e16ab4b15e0"
+  },
+  {
+   "file": "opis-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090612_BSH-EN_SI_FAEM_812_TP511R09_General_SecImg-09_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "bytes": 426846,
+   "sha256": "3aaeb7f8a532f5f30056b6d2baab5e556e0aab55b23c3625288d2b868ab2fa01"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 1,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "height": 500,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c"
+  }
+ ],
+ "dropped": 0,
+ "curationNote": "Kolejnosc kuracji 27.07.2026: packshot jako miniaturka, dalej ujecia w kuchni, panel, czesci wyjmowane, napoje, na koncu render mlynka i rysunek wymiarowy. Wszystkie pliki zweryfikowane wzrokowo jako TP511R09 (kontaktowka).",
+ "logoAddedAt": "2026-07-30"
 }

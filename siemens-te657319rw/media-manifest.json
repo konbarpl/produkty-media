@@ -1,72 +1,84 @@
 {
-  "version": 1,
-  "generatedAt": "2026-07-27T11:25:20.782Z",
-  "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TE657319RW",
-  "slug": "siemens-te657319rw",
-  "galleryOrder": [
-    "produkt-01.jpg",
-    "produkt-02.jpg",
-    "produkt-03.jpg",
-    "produkt-04.jpg",
-    "produkt-05.jpg"
-  ],
-  "files": [
-    {
-      "file": "produkt-01.jpg",
-      "kind": "product",
-      "order": 1,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/13189620_TE657319RW_def.jpg",
-      "width": 1118,
-      "height": 1148,
-      "bytes": 84126,
-      "sha256": "9b4bf6c2853dc5ee909c99ef99bd9f84a907fe5b7d5f90f8a55063486688dfa2",
-      "note": "packshot front, dwie szklanki latte macchiato, pojemnik na mleko na gorze — MINIATURKA"
-    },
-    {
-      "file": "produkt-02.jpg",
-      "kind": "product",
-      "order": 2,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02256957_SE_K_12_KT8_EQ6_TE657319RW_picture_KF1_front_ENG_030717_def.jpg",
-      "width": 2260,
-      "height": 3270,
-      "bytes": 507132,
-      "sha256": "787cc9ded3f8bf7ef82d8d5eef9236dfc14eb908ac7e1d20895648dace19619a",
-      "note": "packshot front w wysokiej rozdzielczosci, dwa espresso"
-    },
-    {
-      "file": "produkt-03.jpg",
-      "kind": "detail",
-      "order": 3,
-      "sourceUrl": "https://image.ceneostatic.pl/data/products/60301217/882dbd54-9f4f-4828-805a-e51e272b0a43_i-ekspres-siemens-eq-6-plus-s700-te657319rw.jpg",
-      "width": 2000,
-      "height": 806,
-      "bytes": 102911,
-      "sha256": "62a11f4c97616d8951534dc48bb905d26c32693d78a76bcb5277192d21d6dffc",
-      "note": "zblizenie panelu coffeeSelect Display — ikony napojow zgodne z packshotem"
-    },
-    {
-      "file": "produkt-04.jpg",
-      "kind": "detail",
-      "order": 4,
-      "sourceUrl": "https://image.ceneostatic.pl/data/products/60301217/d1645eca-a1b2-4474-abc9-ed442697d96a_i-ekspres-siemens-eq-6-plus-s700-te657319rw.jpg",
-      "width": 1644,
-      "height": 2000,
-      "bytes": 430167,
-      "sha256": "0579646c249518c2677fc99f2a4a0a1cd0169686138eff879af1fd904d965d6e",
-      "note": "wyjmowana jednostka zaparzania, obudowa w kolorze Dark inox"
-    },
-    {
-      "file": "produkt-05.jpg",
-      "kind": "detail",
-      "order": 5,
-      "sourceUrl": "https://image.ceneostatic.pl/data/products/60301217/f2fb7c9e-f8a8-4531-8d1e-68ac1bf0e108_i-ekspres-siemens-eq-6-plus-s700-te657319rw.jpg",
-      "width": 1638,
-      "height": 2000,
-      "bytes": 339515,
-      "sha256": "cd4aee75c6278c4cf381063c8b05895bb1e5353457951a1d6a3563861ee48e9f",
-      "note": "szufladka na kawe mielona z miarka"
-    }
-  ],
-  "dropped": 6,
-  "curationNote": "Kuracja 27.07.2026. Bramka tozsamosci: do galerii weszly wylacznie zdjecia z kodem TE657319RW w nazwie pliku (karta producenta BSH) albo ze slugiem te657319rw (karta Ceneo 60301217), wszystkie obejrzane wzrokowo. ODRZUCONE: 2 zdjecia z karty producenta nalezace do modelu TE651209RW (ground coffee, brewing unit), 2 zdjecia TP516RX3, po jednym TE653501DE i TQ907R05, zblizenie wylewki na jasnej obudowie z Ceneo (inny wariant kolorystyczny) oraz dwa banery 360x209 px. Zdjecie MCSA03031077_..._TE657319RW_neu niedostepne w formacie JPG (HTTP 404)."
+ "version": 1,
+ "generatedAt": "2026-07-27T11:25:20.782Z",
+ "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TE657319RW",
+ "slug": "siemens-te657319rw",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/13189620_TE657319RW_def.jpg",
+   "width": 1118,
+   "height": 1148,
+   "bytes": 84126,
+   "sha256": "9b4bf6c2853dc5ee909c99ef99bd9f84a907fe5b7d5f90f8a55063486688dfa2",
+   "note": "packshot front, dwie szklanki latte macchiato, pojemnik na mleko na gorze — MINIATURKA"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02256957_SE_K_12_KT8_EQ6_TE657319RW_picture_KF1_front_ENG_030717_def.jpg",
+   "width": 2260,
+   "height": 3270,
+   "bytes": 507132,
+   "sha256": "787cc9ded3f8bf7ef82d8d5eef9236dfc14eb908ac7e1d20895648dace19619a",
+   "note": "packshot front w wysokiej rozdzielczosci, dwa espresso"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "detail",
+   "order": 3,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/60301217/882dbd54-9f4f-4828-805a-e51e272b0a43_i-ekspres-siemens-eq-6-plus-s700-te657319rw.jpg",
+   "width": 2000,
+   "height": 806,
+   "bytes": 102911,
+   "sha256": "62a11f4c97616d8951534dc48bb905d26c32693d78a76bcb5277192d21d6dffc",
+   "note": "zblizenie panelu coffeeSelect Display — ikony napojow zgodne z packshotem"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "detail",
+   "order": 4,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/60301217/d1645eca-a1b2-4474-abc9-ed442697d96a_i-ekspres-siemens-eq-6-plus-s700-te657319rw.jpg",
+   "width": 1644,
+   "height": 2000,
+   "bytes": 430167,
+   "sha256": "0579646c249518c2677fc99f2a4a0a1cd0169686138eff879af1fd904d965d6e",
+   "note": "wyjmowana jednostka zaparzania, obudowa w kolorze Dark inox"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "detail",
+   "order": 5,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/60301217/f2fb7c9e-f8a8-4531-8d1e-68ac1bf0e108_i-ekspres-siemens-eq-6-plus-s700-te657319rw.jpg",
+   "width": 1638,
+   "height": 2000,
+   "bytes": 339515,
+   "sha256": "cd4aee75c6278c4cf381063c8b05895bb1e5353457951a1d6a3563861ee48e9f",
+   "note": "szufladka na kawe mielona z miarka"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 1,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "height": 500,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c"
+  }
+ ],
+ "dropped": 6,
+ "curationNote": "Kuracja 27.07.2026. Bramka tozsamosci: do galerii weszly wylacznie zdjecia z kodem TE657319RW w nazwie pliku (karta producenta BSH) albo ze slugiem te657319rw (karta Ceneo 60301217), wszystkie obejrzane wzrokowo. ODRZUCONE: 2 zdjecia z karty producenta nalezace do modelu TE651209RW (ground coffee, brewing unit), 2 zdjecia TP516RX3, po jednym TE653501DE i TQ907R05, zblizenie wylewki na jasnej obudowie z Ceneo (inny wariant kolorystyczny) oraz dwa banery 360x209 px. Zdjecie MCSA03031077_..._TE657319RW_neu niedostepne w formacie JPG (HTTP 404).",
+ "logoAddedAt": "2026-07-30"
 }
