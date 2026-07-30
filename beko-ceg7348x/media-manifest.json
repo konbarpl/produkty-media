@@ -1,0 +1,25 @@
+{
+  "slug": "beko-ceg7348x",
+  "model": "CEG7348X",
+  "zrodloGalerii": "ceneo:176078201",
+  "galleryOrder": [
+    {
+      "idx": 0,
+      "file": "produkt-01.jpg",
+      "width": 1225,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/176078201/i-beko-caffeexperto-ceg7348x.jpg"
+    },
+    {
+      "idx": 1,
+      "file": "produkt-02.jpg",
+      "width": 1520,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/176078201/6a6309c4-20eb-44a3-8d8f-84248f3efeab_i-beko-caffeexperto-ceg7348x.jpg"
+    },
+    {
+      "idx": 2,
+      "file": "produkt-03.jpg",
+      "width": 1520,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/176078201/4079b214-fd7f-46d3-85fd-ae32ff4e8ad2_i-beko-caffeexperto-ceg7348x.jpg"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "krups-ea879n",
+  "model": "EA879N",
+  "zrodloGalerii": "ceneo:192585926",
+  "galleryOrder": [
+    {
+      "idx": 0,
+      "file": "produkt-01.jpg",
+      "width": 1450,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/192585926/i-krups-intuition-experience-hot-cold-ea879n.jpg"
+    },
+    {
+      "idx": 1,
+      "file": "produkt-02.jpg",
+      "width": 1575,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/192585926/cfcb0881-e25c-47eb-bb5f-1e184e50bbcb_i-krups-intuition-experience-hot-cold-ea879n.jpg"
+    },
+    {
+      "idx": 2,
+      "file": "produkt-03.jpg",
+      "width": 497,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/192585926/ad691a3e-65d4-479d-8516-2e17ead93f80_i-krups-intuition-experience-hot-cold-ea879n.jpg"
+    }
+  ]
+}
