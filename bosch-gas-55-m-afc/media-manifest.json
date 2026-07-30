@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-30T11:00:08.950Z",
+  "sourcePage": "https://www.bosch-professional.com/pl/pl/products/gas-55-m-afc-06019C3300",
+  "slug": "bosch-gas-55-m-afc",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "scope-of-supply",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/376120-54/scope-of-supply-image/1434x828/sieciowy-system-odsysania-pylu-pro-gas-55-m-afc-06019c3300.png",
+      "width": 629,
+      "height": 600,
+      "bytes": 429873,
+      "sha256": "805fbce3a30f531682396c6d66625f8bf602853fea6865d86d57a5e1ea5540cc"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/117641-82/product-image/full/sieciowy-system-odsysania-pylu-pro-gas-55-m-afc-06019c3300.png",
+      "width": 637,
+      "height": 900,
+      "bytes": 681224,
+      "sha256": "f43bf11066e9820ff141bffa3851961bf6420ab9a76cc5ca909a60e6264e2f7d"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/117641-54/application-image/full/sieciowy-system-odsysania-pylu-pro-gas-55-m-afc-06019c3300.png",
+      "width": 425,
+      "height": 600,
+      "bytes": 410138,
+      "sha256": "7be2a8bd4f8a80a04283cb9fdf43f57c7bba58632b08945e1cdbff825d0abe1a"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/118539-117/application-image/full/sieciowy-system-odsysania-pylu-pro-gas-55-m-afc-06019c3300.jpg",
+      "width": 800,
+      "height": 528,
+      "bytes": 70548,
+      "sha256": "77acff4d224c31c9fdc93ecb55c8d06589afdca18679c678f460d64cf6859af1"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/118543-117/application-image/full/sieciowy-system-odsysania-pylu-pro-gas-55-m-afc-06019c3300.jpg",
+      "width": 743,
+      "height": 600,
+      "bytes": 76021,
+      "sha256": "dcd504eeb9bad880853cc461942cd66c6d113c727eaf61729de04c5b0c6bf1fb"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/361433-117/application-image/full/sieciowy-system-odsysania-pylu-pro-gas-55-m-afc-06019c3300.jpg",
+      "width": 800,
+      "height": 450,
+      "bytes": 63346,
+      "sha256": "b1f98c869b2df3952358dc2377bb6a161c746bfc5762c6b444fb8c3dbb59181c"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/115556-117/dimensional-drawing-image/full/sieciowy-system-odsysania-pylu-pro-gas-55-m-afc-06019c3300.jpg",
+      "width": 458,
+      "height": 600,
+      "bytes": 39505,
+      "sha256": "a8d8a4ecd8b3ba9b352c2fff169cce54e45aa8418f915c9690907c405fd48ba9"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "local:dropshipping/materiały/logo/bosch.jpg",
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ]
+}
