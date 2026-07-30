@@ -1,71 +1,83 @@
 {
-  "slug": "siemens-te651209rw",
-  "model": "Siemens EQ.6 plus s100 TE651209RW",
-  "sourceCard": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TE651209RW",
-  "collectedAt": "2026-07-27",
-  "identityGate": "wszystkie pliki pochodza z karty producenta i maja kod TE651209RW w nazwie zrodlowej; oglad kontaktowki 27.07 potwierdzil ten sam model i wariant kolorystyczny",
-  "galleryOrder": [
-    "te651209rw-01-front.jpg",
-    "te651209rw-02-skos.jpg",
-    "te651209rw-03-latte.jpg",
-    "te651209rw-04-onetouch.jpg",
-    "te651209rw-05-kawa-mielona.jpg",
-    "te651209rw-06-jednostka-zaparzania.jpg"
-  ],
-  "files": [
-    {
-      "file": "te651209rw-01-front.jpg",
-      "kind": "product",
-      "sha256": "2c3ac4d95649b74f123c717ab3290b4a0dd70ec799f3db7e37cbdd07a35283e6",
-      "bytes": 524402,
-      "width": 2308,
-      "height": 3341,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02248961_SE_K_12_KT8_EQ6_TE651209RW_picture_KF1_front_ENG_260617_def.jpg"
-    },
-    {
-      "file": "te651209rw-02-skos.jpg",
-      "kind": "product",
-      "sha256": "daaf6a600a660d8c25ba829fccf112b03b93bb94a5a28c15d2e022460e5ef31a",
-      "bytes": 611218,
-      "width": 2348,
-      "height": 2724,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03030647_J2990_2346110_TE651209RW_def.jpg"
-    },
-    {
-      "file": "te651209rw-03-latte.jpg",
-      "kind": "product",
-      "sha256": "27f73ab8c2d3968f9592cc4e525392f9f3198462355dd5b6cb9a1f81fce4250a",
-      "bytes": 77824,
-      "width": 954,
-      "height": 1180,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/13189605_TE651209RW_def.jpg"
-    },
-    {
-      "file": "te651209rw-04-onetouch.jpg",
-      "kind": "product",
-      "sha256": "e76f1f9e4c3e66d7e6395c61751ab73d2d97ecec9b791aaf6a59023b9521a823",
-      "bytes": 1260105,
-      "width": 3734,
-      "height": 4000,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02248973_SE_K_12_KT8_EQ6_TE651209RW_picture_nKF_one_touch_function_ENG_260617_def.jpg"
-    },
-    {
-      "file": "te651209rw-05-kawa-mielona.jpg",
-      "kind": "product",
-      "sha256": "0054b7074f8413fe1b76ab41f8d4f5e0e46db2a5758c4830f448f207512926db",
-      "bytes": 490247,
-      "width": 2232,
-      "height": 2726,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02248962_SE_K_12_KT8_EQ6_TE651209RW_picture_KF4_ground_coffee_ENG_260617_def.jpg"
-    },
-    {
-      "file": "te651209rw-06-jednostka-zaparzania.jpg",
-      "kind": "product",
-      "sha256": "b96bc6a71f17092631bc915983c750c025ab367f8fe9da0223ea6db32a4a3d97",
-      "bytes": 1221758,
-      "width": 2862,
-      "height": 3482,
-      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02248968_SE_K_12_KT8_EQ6_TE651209RW_picture_KF5_brewing_unit_ENG_260617_def.jpg"
-    }
-  ]
+ "slug": "siemens-te651209rw",
+ "model": "Siemens EQ.6 plus s100 TE651209RW",
+ "sourceCard": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TE651209RW",
+ "collectedAt": "2026-07-27",
+ "identityGate": "wszystkie pliki pochodza z karty producenta i maja kod TE651209RW w nazwie zrodlowej; oglad kontaktowki 27.07 potwierdzil ten sam model i wariant kolorystyczny",
+ "galleryOrder": [
+  "te651209rw-01-front.jpg",
+  "te651209rw-02-skos.jpg",
+  "te651209rw-03-latte.jpg",
+  "te651209rw-04-onetouch.jpg",
+  "te651209rw-05-kawa-mielona.jpg",
+  "te651209rw-06-jednostka-zaparzania.jpg",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "te651209rw-01-front.jpg",
+   "kind": "product",
+   "sha256": "2c3ac4d95649b74f123c717ab3290b4a0dd70ec799f3db7e37cbdd07a35283e6",
+   "bytes": 524402,
+   "width": 2308,
+   "height": 3341,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02248961_SE_K_12_KT8_EQ6_TE651209RW_picture_KF1_front_ENG_260617_def.jpg"
+  },
+  {
+   "file": "te651209rw-02-skos.jpg",
+   "kind": "product",
+   "sha256": "daaf6a600a660d8c25ba829fccf112b03b93bb94a5a28c15d2e022460e5ef31a",
+   "bytes": 611218,
+   "width": 2348,
+   "height": 2724,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03030647_J2990_2346110_TE651209RW_def.jpg"
+  },
+  {
+   "file": "te651209rw-03-latte.jpg",
+   "kind": "product",
+   "sha256": "27f73ab8c2d3968f9592cc4e525392f9f3198462355dd5b6cb9a1f81fce4250a",
+   "bytes": 77824,
+   "width": 954,
+   "height": 1180,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/13189605_TE651209RW_def.jpg"
+  },
+  {
+   "file": "te651209rw-04-onetouch.jpg",
+   "kind": "product",
+   "sha256": "e76f1f9e4c3e66d7e6395c61751ab73d2d97ecec9b791aaf6a59023b9521a823",
+   "bytes": 1260105,
+   "width": 3734,
+   "height": 4000,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02248973_SE_K_12_KT8_EQ6_TE651209RW_picture_nKF_one_touch_function_ENG_260617_def.jpg"
+  },
+  {
+   "file": "te651209rw-05-kawa-mielona.jpg",
+   "kind": "product",
+   "sha256": "0054b7074f8413fe1b76ab41f8d4f5e0e46db2a5758c4830f448f207512926db",
+   "bytes": 490247,
+   "width": 2232,
+   "height": 2726,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02248962_SE_K_12_KT8_EQ6_TE651209RW_picture_KF4_ground_coffee_ENG_260617_def.jpg"
+  },
+  {
+   "file": "te651209rw-06-jednostka-zaparzania.jpg",
+   "kind": "product",
+   "sha256": "b96bc6a71f17092631bc915983c750c025ab367f8fe9da0223ea6db32a4a3d97",
+   "bytes": 1221758,
+   "width": 2862,
+   "height": 3482,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02248968_SE_K_12_KT8_EQ6_TE651209RW_picture_KF5_brewing_unit_ENG_260617_def.jpg"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 1,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "height": 500,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c"
+  }
+ ],
+ "logoAddedAt": "2026-07-30"
 }
