@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-30T11:03:27.784Z",
+  "sourcePage": "https://www.bosch-professional.com/pl/pl/products/gas-35-l-sfc-06019C3000",
+  "slug": "bosch-gas-35-l-sfc-plus",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "scope-of-supply",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/376118-54/scope-of-supply-image/1434x828/sieciowy-system-odsysania-pylu-pro-gas-35-l-sfc-06019c3000.png",
+      "width": 627,
+      "height": 600,
+      "bytes": 387799,
+      "sha256": "2a264a90b05bf2861e627bbced60a9eb46ed636ca99a05869ca1e90ef89a47e0",
+      "note": "KOMPLET: odkurzacz + filtr faldowany + worek + 3 rury + zestaw dysz podlogowych + dysza do fug + zlaczka katowa"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/117619-82/product-image/full/sieciowy-system-odsysania-pylu-pro-gas-35-l-sfc-06019c3000.png",
+      "width": 799,
+      "height": 900,
+      "bytes": 939673,
+      "sha256": "5af3aaa25efed07dbd44b0c0ecdc91ea337f1c9a6e24a60ec1a9f97d178e09c8",
+      "note": "korpus z wezem, na obudowie napis GAS 35 L SFC+"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "application",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/118545-117/application-image/full/sieciowy-system-odsysania-pylu-pro-gas-35-l-sfc-06019c3000.jpg",
+      "width": 800,
+      "height": 494,
+      "bytes": 87252,
+      "sha256": "edd37447e474f807c712dac0df14287b59db6aba43fdeb21045a1fc279946520",
+      "note": "zastosowanie na budowie"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "application",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/118547-117/application-image/full/sieciowy-system-odsysania-pylu-pro-gas-35-l-sfc-06019c3000.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 72079,
+      "sha256": "3296baf0f62ac4516a0be82f3a156f6676a1ffafb19a23cc9dada7e07fcf05ef",
+      "note": "zastosowanie na budowie"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "dimensional-drawing",
+      "order": 5,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/115558-117/dimensional-drawing-image/full/sieciowy-system-odsysania-pylu-pro-gas-35-l-sfc-06019c3000.jpg",
+      "width": 509,
+      "height": 600,
+      "bytes": 48326,
+      "sha256": "0fd809b27c80eb114f0227d31625ba72e87096be0794831dbbe2f5b7b46c0cb2",
+      "note": "rysunek wymiarowy"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "kopia lokalna z dropshipping/materialy/logo/bosch.jpg",
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2",
+      "note": "logo marki Bosch (na koncu galerii)"
+    }
+  ]
+}
