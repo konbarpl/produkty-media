@@ -1,0 +1,31 @@
+{
+  "slug": "krups-ea879e",
+  "model": "EA879E",
+  "zrodloGalerii": "krups-ea879e_0.html",
+  "galleryOrder": [
+    {
+      "idx": 0,
+      "file": "produkt-01.png",
+      "width": 956,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/e/k/ekspres_krups_intuition_experience_hot_cold_ea879e_.png?optimize=medium&amp;bg-color=255"
+    },
+    {
+      "idx": 1,
+      "file": "produkt-02.jpg",
+      "width": 1464,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/192585925/i-krups-intuition-hot-cold-ea879ee0.jpg"
+    },
+    {
+      "idx": 2,
+      "file": "produkt-03.jpg",
+      "width": 510,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/192585925/3a04235d-552d-430e-bc95-91a3ed867d53_i-krups-intuition-hot-cold-ea879ee0.jpg"
+    },
+    {
+      "idx": 3,
+      "file": "produkt-04.jpg",
+      "width": 1520,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/192585925/dc1b0234-90b1-4f75-a8ce-81559b850abc_i-krups-intuition-hot-cold-ea879ee0.jpg"
+    }
+  ]
+}
