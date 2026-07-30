@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-30T11:05:26.719Z",
+  "sourcePage": "https://www.bosch-professional.com/pl/pl/products/gas-35-l-afc-06019C3200",
+  "slug": "bosch-gas-35-l-afc",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.jpg",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product-scope-of-supply",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/376117-54/scope-of-supply-image/full/sieciowy-system-odsysania-pylu-pro-gas-35-l-afc-06019c3200.png",
+      "width": "627x600",
+      "bytes": 509407,
+      "sha256": "457b68d08d8e29b7143be50cd7146f74a85d80865a7f2a2db97ff663db01cf46"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/117606-82/product-image/full/sieciowy-system-odsysania-pylu-pro-gas-35-l-afc-06019c3200.png",
+      "width": "803x900",
+      "bytes": 976061,
+      "sha256": "3d76530c6c08b7bdc963da144aa7faabe4ebe6219a831c7baff4d205385c15ee"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/117606-54/application-image/full/sieciowy-system-odsysania-pylu-pro-gas-35-l-afc-06019c3200.png",
+      "width": "535x600",
+      "bytes": 544945,
+      "sha256": "7b19e675de67007225876e3a2faa756c0feade12d6d187c3826735eba475cebc"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "dimensional-drawing",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/115557-117/dimensional-drawing-image/full/sieciowy-system-odsysania-pylu-pro-gas-35-l-afc-06019c3200.jpg",
+      "width": "508x600",
+      "bytes": 48742,
+      "sha256": "f65942e451b207571b05ba1778906abcfcfc2ae55de15510d3aa6f3e0dac418f"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 5,
+      "sourceUrl": "lokalny plik dropshipping/materiały/logo/bosch.jpg",
+      "width": "1008x226",
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "dropped": 2,
+  "droppedNote": "376117-54/application-image = duplikat pikselowy scope-of-supply (ten sam sha256); 125955-117/application-image = zdjęcie aplikacyjne z odkurzaczem innym niż GAS 35 L AFC (inny korpus) — odrzucone dla tożsamości"
+}
