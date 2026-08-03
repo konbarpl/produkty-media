@@ -10,7 +10,8 @@
     "opis-03.jpg",
     "opis-04.jpg",
     "opis-05.jpg",
-    "opis-06.jpg"
+    "opis-06.jpg",
+    "logo-xiaomi.png"
   ],
   "files": [
     {
@@ -75,6 +76,17 @@
       "width": 1384,
       "bytes": 232024,
       "sha256": "efd1080b531a811bdc57f098dd60c4299e87867b8ce8eb06046a62fd0bca71cb"
+    },
+    {
+      "file": "logo-xiaomi.png",
+      "kind": "logo",
+      "order": 1,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Xiaomi_logo_horizontal_%282021-%29.svg/960px-Xiaomi_logo_horizontal_%282021-%29.svg.png",
+      "note": "logo marki do sekcji 2 opisu (wzorzec ukladu oferty Erli)",
+      "width": 960,
+      "height": 256,
+      "bytes": 18651,
+      "sha256": "9cb8941a96b4520c9e5c36cbccd68d37f5dd64a1022147e1edf1a7bcb159c11b"
     }
   ],
   "dropped": 0
