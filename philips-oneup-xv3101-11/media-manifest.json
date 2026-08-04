@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-04T20:00:47.804Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/XV3101_11.assets",
+  "slug": "philips-oneup-xv3101-11",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_bdb92216_0cdd_4952_b8b6eb0fa2b7a2a6?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 34264,
+      "sha256": "3cec5d218a71360782a1f658a394df69dc8a0e2e59e41f99759ae062545785e1"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ab41416e_3ff5_4e83_a35adc4e2378cb02?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 14154,
+      "sha256": "d31b765469a37ca4a08959ce2cf6a78ab76c5f6486525a98fd19fff2df3e5342"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cac24399_8389_49b5_abe9b63192d7d35e?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 6992,
+      "sha256": "168b7b79c2df92c150feccaf9ec9a45b057d8bfbed19c0db6a5ea8a5e21529fe"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b3806946_efbc_4d87_9704d0f8a8c920be?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 6004,
+      "sha256": "918833fdd77c08aef114fe9b221bf3cd068819359d797c7c0a34a5dc44b1c6ac"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_66c7b58b_d319_46fe_b4f18363d4bd62d2?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 162490,
+      "sha256": "0f77bb9e3b3d9d7ce074d3153f58c69a76d359a9d2d7762466e09b9e360c3f33"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_25b822d2_77c4_4353_b5f4a095c71a97aa?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 209850,
+      "sha256": "af8457e196d7317fb143214bc1e21d3f2e66f37078d169c36b0ec60292cddd03"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8fe01bed_b18c_4f07_abc743860a6ef90f?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 136112,
+      "sha256": "ef7329e0cfc2a18fa72c84233bac87a03c416cfac7e0039a6987615da6997e19"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo:philips-oneup-xv3101-01/logo-philips.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0
+}
