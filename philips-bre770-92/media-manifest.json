@@ -24,7 +24,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/821d2c5092ca444d8ca3af8800ac0451?wid=1500&hei=1500&fmt=jpeg&qlt=92",
    "bytes": 136916,
    "sha256": "a02e84741ba30bd04e9c9d71054d4649d2a994e1cb344b8236360f86c8f8f4ba",
-   "note": "IMS"
+   "note": "IMS",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-02.jpg",
@@ -32,7 +34,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/55503b9f385c48f29c3caf80010e10ce?wid=1500&hei=1500&fmt=jpeg&qlt=92",
    "bytes": 63197,
    "sha256": "cd17aaa1c958f7f9ae9826ef38409a97c1cf62c07fd264036bf33b509654743f",
-   "note": "A1P"
+   "note": "A1P",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-03.jpg",
@@ -40,7 +44,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/7a92bfee91a14a89b9d6af80010e11ea?wid=1500&hei=1500&fmt=jpeg&qlt=92",
    "bytes": 69861,
    "sha256": "631a553bdf1fc3d436cf626b0becee2937ae23e6bb7b726fcb1d1caa95dd9927",
-   "note": "A2P"
+   "note": "A2P",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-04.jpg",
@@ -48,7 +54,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/d0732c065737457fafcfaf710102b07b?wid=1500&hei=1500&fmt=jpeg&qlt=92",
    "bytes": 191025,
    "sha256": "ace93cac0aff5a18e8bda34763ac202ae839845065a0601e0578a4fe3c25a423",
-   "note": "MI1"
+   "note": "MI1",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-05.jpg",
@@ -56,7 +64,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/0c31fd5235334d4791caaf7100fac906?wid=1500&hei=1500&fmt=jpeg&qlt=92",
    "bytes": 213956,
    "sha256": "5f53ccba9e3541d3265abb04c473b66a1302441f167a99be368d739967d17420",
-   "note": "U1P"
+   "note": "U1P",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-06.jpg",
@@ -64,7 +74,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/3dd63c585aea48728659af73010b714d?wid=1500&hei=1500&fmt=jpeg&qlt=92",
    "bytes": 80568,
    "sha256": "38be3cf37969d803495f5e7c59ca6ee65ff420c27e66454c94c399a060fc511c",
-   "note": "U2P"
+   "note": "U2P",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-07.jpg",
@@ -72,7 +84,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/af791ce6e2174e0c9cbbaf73010b4e53?wid=1500&hei=1500&fmt=jpeg&qlt=92",
    "bytes": 168870,
    "sha256": "4a242a1aa9a783946ff67f1b8202169ab939b67388362605f11d667ca83dbc2c",
-   "note": "U3P"
+   "note": "U3P",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-08.jpg",
@@ -80,7 +94,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/b05d1a60c9ab4403a2e1af7100fac72e?wid=1500&hei=1500&fmt=jpeg&qlt=92",
    "bytes": 156939,
    "sha256": "ed9ec1a93bcfd11c8d458352b867a9295a0f757a7a3313fbeb9fd3b3747749b2",
-   "note": "U4P"
+   "note": "U4P",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-09.jpg",
@@ -88,7 +104,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/3d6b2a42e744403f84ceae7900d5c8f7?wid=1500&hei=1500&fmt=jpeg&qlt=92",
    "bytes": 207667,
    "sha256": "b91da357174322099918e5fc4a1d4f7a2fdcee4a9ecf605b6d12b90298c5d24a",
-   "note": "E1P"
+   "note": "E1P",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-10.jpg",
@@ -96,7 +114,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/2f5d85764a774accba53af7100fac581?wid=1500&hei=1500&fmt=jpeg&qlt=92",
    "bytes": 120424,
    "sha256": "789088ccd730488fdff173ed4c828b3aa9ccde82c9742204b4cd77f623a4449d",
-   "note": "L1P"
+   "note": "L1P",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "opis-01.jpg",
@@ -104,7 +124,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/13ad3c573da34fba91e6af7100ef0cbf?wid=1200&fmt=jpeg&qlt=92",
    "bytes": 92710,
    "sha256": "6e471888380131fd8ac583e91b1716e37de570e757ca2c7cc0bbf1f5a9fc2b3d",
-   "note": "Beauty Set 9000 Series Feature Image (PPL) Opti-light"
+   "note": "Beauty Set 9000 Series Feature Image (PPL) Opti-light",
+   "width": 1200,
+   "height": 673
   },
   {
    "file": "opis-02.jpg",
@@ -112,7 +134,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/21095a28fd8c4e8ebfd0af7100ef0c42?wid=1200&fmt=jpeg&qlt=92",
    "bytes": 71305,
    "sha256": "f9e469355464f64165acb202c09c8aa5ec5aabaae4df73be072693104d202147",
-   "note": "Beauty Set 9000 Series Feature Image (PPL) Ergononomic S-shaped handle"
+   "note": "Beauty Set 9000 Series Feature Image (PPL) Ergononomic S-shaped handle",
+   "width": 1200,
+   "height": 673
   },
   {
    "file": "opis-03.jpg",
@@ -120,7 +144,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/582e43a88a344602b34baf7100ef0de5?wid=1200&fmt=jpeg&qlt=92",
    "bytes": 105120,
    "sha256": "daf2e7960100465e5c3897b4640da65ed49e7b8a0256a4e3f9c9c45318c47a30",
-   "note": "Beauty Set 9000 Series Feature Image (PPL) Shaving head and trimming comb"
+   "note": "Beauty Set 9000 Series Feature Image (PPL) Shaving head and trimming comb",
+   "width": 1200,
+   "height": 673
   },
   {
    "file": "opis-04.jpg",
@@ -128,7 +154,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/8af066acc3d54d5db9e3af7100ef0ece?wid=1200&fmt=jpeg&qlt=92",
    "bytes": 98560,
    "sha256": "692b15f7e2349999c54d24fd211cfbaa65ff21980eaaa8d45a08b78453b0f008",
-   "note": "Beauty Set 9000 Series Feature Image (PPL) Powerful and gentle epilation"
+   "note": "Beauty Set 9000 Series Feature Image (PPL) Powerful and gentle epilation",
+   "width": 1200,
+   "height": 673
   },
   {
    "file": "opis-05.jpg",
@@ -136,7 +164,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/3aa38d1203b34cb49297afb700acf34d?wid=1200&fmt=jpeg&qlt=92",
    "bytes": 91764,
    "sha256": "921b1b4e83f39bf47a12bbfad0bab0cb6368104c4eab2e4a43b51f8ad837dc05",
-   "note": "Beauty Set 9000 Series FIM Engineered to be gentle"
+   "note": "Beauty Set 9000 Series FIM Engineered to be gentle",
+   "width": 1200,
+   "height": 800
   },
   {
    "file": "opis-06.jpg",
@@ -144,7 +174,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/7d9a815f019248aeb851af7100ef0be1?wid=1200&fmt=jpeg&qlt=92",
    "bytes": 91078,
    "sha256": "eac413b6e8547e312f498d7e6df87c5a5a018fd0f3c6d5b9715df51941027485",
-   "note": "Beauty Set 9000 Series Feature Image (PPL) Extra wide epilator"
+   "note": "Beauty Set 9000 Series Feature Image (PPL) Extra wide epilator",
+   "width": 1200,
+   "height": 673
   },
   {
    "file": "opis-07.jpg",
@@ -152,7 +184,9 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/e5d9fe18980144d89045af7100ef0ae4?wid=1200&fmt=jpeg&qlt=92",
    "bytes": 99998,
    "sha256": "5d130036dc8862206cbc3399272a2f0801fc9e63d1e19e7bfbef1957c4e85b70",
-   "note": "Beauty Set 9000 Series Feature Image (PPL) Body exfoliation brush"
+   "note": "Beauty Set 9000 Series Feature Image (PPL) Body exfoliation brush",
+   "width": 1200,
+   "height": 673
   },
   {
    "file": "opis-08.jpg",
@@ -160,14 +194,18 @@
    "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/27bf89e40f224e819ff0af7100ef0f41?wid=1200&fmt=jpeg&qlt=92",
    "bytes": 79077,
    "sha256": "419615c00fbc74c4b110428b33317bf40788f457299d308c7e39e5147987c862",
-   "note": "Beauty Set 9000 Series Feature Image (PPL) Pedicure foot file"
+   "note": "Beauty Set 9000 Series Feature Image (PPL) Pedicure foot file",
+   "width": 1200,
+   "height": 673
   },
   {
    "file": "logo-philips.png",
    "kind": "logo",
    "sourceUrl": "kopia z produkty-media/philips-ep2331-10/logo-philips.png",
    "bytes": 6882,
-   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+   "width": 525,
+   "height": 105
   }
  ]
 }
