@@ -1,0 +1,170 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-04T23:49:42.481785+02:00",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/grille-kuchenne/grill-elektryczny-tefal-gc272d10",
+ "sourceNote": "Karta producenta tefal.pl zwraca 404 na wszystkich sprawdzonych postaciach URL (5 prob, w tym /p/<slug>/<id> ze zlecenia) — zrodlem faktow i zdjec jest karta Media Expertu, zgodnie z przepisem dyrygenta (pkt 5).",
+ "slug": "tefal-gc272d",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-04.jpg",
+  "produkt-03.jpg",
+  "opis-04.jpg",
+  "produkt-05.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 9,
+   "sourceUrl": "kopia z repo projektu: dropshipping/materialy/logo/Tefal_logo.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 0,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/71/7100120/storage_app_materialy_do_opisow_2039989/tefal_gc272d10_01.jpg",
+   "width": 1000,
+   "height": 600,
+   "bytes": 62292,
+   "sha256": "2dba874f2c3ab0a81add09cb8493aa04bc28f3a8275144ae0f4ad1e423f0d099"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 0,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/71/7100120/storage_app_materialy_do_opisow_2039989/tefal_gc272d10_02.jpg",
+   "width": 1000,
+   "height": 447,
+   "bytes": 108649,
+   "sha256": "05e9bb0e9310e4270513d5028e88e139860a9395197fb28a87bc994a7106969b"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "description",
+   "order": 0,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/71/7100120/storage_app_materialy_do_opisow_2039989/tefal_gc272d10_03.jpg",
+   "width": 1000,
+   "height": 568,
+   "bytes": 202182,
+   "sha256": "695b351bf1510070b941b0bd7e8203992ab15eb9cdab77b42e5b88e557274802"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "description",
+   "order": 5,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/71/7100120/storage_app_materialy_do_opisow_2039989/tefal_gc272d10_04.jpg",
+   "width": 1000,
+   "height": 578,
+   "bytes": 200733,
+   "sha256": "964d2d5e22467e5076f4644d170e709300be9ecbe33122dffc90de2476310dae"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "description",
+   "order": 0,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/71/7100120/storage_app_materialy_do_opisow_2039989/tefal_gc272d10_05.jpg",
+   "width": 1000,
+   "height": 499,
+   "bytes": 208624,
+   "sha256": "bf04cc23b75ae1ed7c67ad0a9347c7f2f8f60108f30137841d72208be508ac7f"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "description",
+   "order": 0,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/71/7100120/storage_app_materialy_do_opisow_2039989/tefal_gc272d10_06.jpg",
+   "width": 1000,
+   "height": 591,
+   "bytes": 75610,
+   "sha256": "568e9f872299c564bdacd31517d3481aba09150785664af8395e6ac3a8b2099c"
+  },
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/71/7100120/Grill-elektryczny-TEFAL-GC272D10-front.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 122699,
+   "sha256": "52576dc79fcbea03429be4761def46d7af69b41f5758fddcc3e070af358d4f26"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/71/7100120/Grill-elektryczny-TEFAL-GC272D10-obraz-1.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 224678,
+   "sha256": "47f19954e7a3bec755a92216149155e75d5b9e16b1be517fba949c2eb1401e9c"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/71/7100120/Grill-elektryczny-TEFAL-GC272D10-obraz-2.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 421755,
+   "sha256": "29285270f9f1c4430c9a7d6bd60bff99803d175120df9a182fb71c04cafedd73"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/71/7100120/Grill-elektryczny-TEFAL-GC272D10-obraz-3.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 423040,
+   "sha256": "bd5e429d618774b4ef9257d18522e67f7cc57a7e7c2ef39bc2ddbb9b80ef3017"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/71/7100120/Grill-elektryczny-TEFAL-GC272D10-obraz-4.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 263762,
+   "sha256": "3ce1109f8eff9c7d5d3a369e23fb05ccd64d021e912ff4194445d3c8e4c86252"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 0,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/71/7100120/Grill-elektryczny-TEFAL-GC272D10-obraz-5.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 421600,
+   "sha256": "a7fff8670fedec411499c54a12ad5dad15794af7885116b0b9f83a8018708d89"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/71/7100120/Grill-elektryczny-TEFAL-GC272D10-obraz-6.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 143860,
+   "sha256": "d0a89c2971bc0cde4e6660f023a3d23a41623d6c02e994abe298e089a3316f95"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/71/7100120/Grill-elektryczny-TEFAL-GC272D10-wymiary.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 109474,
+   "sha256": "d4058027395a3526cfa920b0f30343b86e9e7a8a9836dbb758526de7e81b4a46"
+  }
+ ]
+}
