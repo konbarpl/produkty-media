@@ -92,8 +92,9 @@
    "kind": "logo",
    "order": 10,
    "sourceUrl": "repo produkty-media/krups-ea879e/logo-01.png (logo marki KRUPS)",
-   "width": null,
-   "bytes": 10962
+   "width": 960,
+   "bytes": 10962,
+   "sha256": "4c8ce2d500460c08407d746110709f050a88e60360ebe95c6285d0ea1d04bcf7"
   }
  ],
  "dropped": 6,
