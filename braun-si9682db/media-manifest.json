@@ -1,0 +1,100 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-04T23:59:00+02:00",
+ "sourcePage": "https://www.braunhousehold.com/pl-pl/p/texstyle-9-zelazko-parowe-texstyle-9-si-9682-bl/SI9682DB.html?pid=0127409002",
+ "slug": "braun-si9682db",
+ "galleryOrder": [
+  "01-si9682db.jpg",
+  "02-si9682db.jpg",
+  "03-si9682db.jpg",
+  "04-si9682db.jpg",
+  "05-si9682db.jpg",
+  "06-si9682db.jpg",
+  "07-si9682db.jpg",
+  "99-logo-braun.png"
+ ],
+ "files": [
+  {
+   "file": "01-si9682db.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/272927",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 95069,
+   "sha256": "807e18c59904c560f3716634bd281798347a66c8f475c00ebe52e2c8e8594329"
+  },
+  {
+   "file": "02-si9682db.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/272928",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 104204,
+   "sha256": "8d7ee1b43d4c29403b6b8768e85c2decf8d3cf7d8c378272bd6d7ab21e29dbac"
+  },
+  {
+   "file": "03-si9682db.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/272929",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 136334,
+   "sha256": "70eeab889add18d89888fc1b21a5297e4942efa15ef6349c432013a0e7b07617"
+  },
+  {
+   "file": "04-si9682db.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/272930",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 164821,
+   "sha256": "c1aff954ce2f35b1f2728fc7fd24ed7fdc1b3e0f34571b4db4b8f4ef801b9afe"
+  },
+  {
+   "file": "05-si9682db.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/272931",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 197753,
+   "sha256": "13396be67f7b0e010fc18ef05228d35260a4c41c060cebba12fd39efd69386ad"
+  },
+  {
+   "file": "06-si9682db.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/272932",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 172074,
+   "sha256": "7148bd70e7c3f940f000542a48d1517c89418033189464db8cbc69e683caf30f"
+  },
+  {
+   "file": "07-si9682db.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/272933",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 146449,
+   "sha256": "81ca31c9e7bd5bef332f5fd84dc686563ab2b3a91e5b59a4438822dc519509a9"
+  },
+  {
+   "file": "99-logo-braun.png",
+   "kind": "logo",
+   "order": 8,
+   "sourceUrl": "logo marki Braun wyrenderowane z oficjalnego sprite SVG (symbol #brand-logo-default) ze strony braunhousehold.com/pl-pl",
+   "width": 1200,
+   "height": 504,
+   "bytes": 19329,
+   "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a"
+  }
+ ],
+ "dropped": 0,
+ "usunieteZGalerii": []
+}
