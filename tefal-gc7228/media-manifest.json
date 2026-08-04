@@ -26,7 +26,9 @@
    "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/98/983554/Tefal_GC7228_875527.jpg",
    "bytes": 44364,
    "sha256": "5e5cb30eee0853d32b4db5272b2e427940faeb9255323e18e9e58ef563c2582b",
-   "sourceName": "Tefal_GC7228_875527.jpg"
+   "sourceName": "Tefal_GC7228_875527.jpg",
+   "width": 500,
+   "height": 500
   },
   {
    "file": "produkt-02.jpg",
@@ -35,7 +37,9 @@
    "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/983554/Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-front-.jpg",
    "bytes": 128131,
    "sha256": "2a0fc1ead992002730d4f0cbeb220629fbccb767985d2366c7835346101bb444",
-   "sourceName": "Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-front-.jpg"
+   "sourceName": "Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-front-.jpg",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-03.jpg",
@@ -44,7 +48,9 @@
    "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/983554/Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-front-1.jpg",
    "bytes": 45907,
    "sha256": "cf53e4fb169ff5e9e8b1749291cea906f9becb030626c145e8b14422b8d3d8e2",
-   "sourceName": "Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-front-1.jpg"
+   "sourceName": "Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-front-1.jpg",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-04.jpg",
@@ -53,7 +59,9 @@
    "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/983554/Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-front2.jpg",
    "bytes": 55981,
    "sha256": "8b244d35e7061d2cc7bba5a62da4ade942e37d8086931bc1b95230068c2d49e0",
-   "sourceName": "Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-front2.jpg"
+   "sourceName": "Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-front2.jpg",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-05.jpg",
@@ -62,7 +70,9 @@
    "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/983554/Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-pojemnik-front.jpg",
    "bytes": 23841,
    "sha256": "48a752238b216456e116140ad6c813482dcbda8e92f1a98f9a5ee45065ace01b",
-   "sourceName": "Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-pojemnik-front.jpg"
+   "sourceName": "Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-pojemnik-front.jpg",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-06.jpg",
@@ -71,7 +81,9 @@
    "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/983554/Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-ruszt-front.jpg",
    "bytes": 46642,
    "sha256": "11c82b1748f53f23f388a597d2147bdeeae153f4d91c767d562e438d584f5bc5",
-   "sourceName": "Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-ruszt-front.jpg"
+   "sourceName": "Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-ruszt-front.jpg",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-07.jpg",
@@ -80,7 +92,9 @@
    "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/983554/Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-skos.jpg",
    "bytes": 53526,
    "sha256": "fa3e9ee7f47e647d938aad38978c2eb5cda0d86fd04f429fead2a2798473dabf",
-   "sourceName": "Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-skos.jpg"
+   "sourceName": "Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-skos.jpg",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-08.jpg",
@@ -89,7 +103,9 @@
    "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/983554/TEFAL-GC7228-OptiGrill-Lifestyle-01.jpg",
    "bytes": 225420,
    "sha256": "b15b639125dd73d4d8340fc53b4986d1d0cfe9061fa64c779cfac94cd51ebb36",
-   "sourceName": "TEFAL-GC7228-OptiGrill-Lifestyle-01.jpg"
+   "sourceName": "TEFAL-GC7228-OptiGrill-Lifestyle-01.jpg",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-09.jpg",
@@ -98,7 +114,9 @@
    "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/983554/TEFAL-GC7228-OptiGrill-Lifestyle-02.jpg",
    "bytes": 236797,
    "sha256": "7a8aeae251fd361de84c1ecb7bfde6a3cbfaf8e07b8eecd3a9b0703440e89499",
-   "sourceName": "TEFAL-GC7228-OptiGrill-Lifestyle-02.jpg"
+   "sourceName": "TEFAL-GC7228-OptiGrill-Lifestyle-02.jpg",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-10.jpg",
@@ -107,7 +125,9 @@
    "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/983554/TEFAL-GC7228-OptiGrill-Lifestyle-03.jpg",
    "bytes": 146955,
    "sha256": "ec68e603ae7c23a7e92d6cf79b95820516dd0ca041c1dbdd6b18611c7509e4dd",
-   "sourceName": "TEFAL-GC7228-OptiGrill-Lifestyle-03.jpg"
+   "sourceName": "TEFAL-GC7228-OptiGrill-Lifestyle-03.jpg",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-11.jpg",
@@ -116,7 +136,9 @@
    "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/983554/TEFAL-GC7228-OptiGrill-Lifestyle-04.jpg",
    "bytes": 190276,
    "sha256": "c6705eeb30d1b4a06f373a1356521eca07936bed4a376328dba73028f9e95659",
-   "sourceName": "TEFAL-GC7228-OptiGrill-Lifestyle-04.jpg"
+   "sourceName": "TEFAL-GC7228-OptiGrill-Lifestyle-04.jpg",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-12.jpg",
@@ -125,7 +147,9 @@
    "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/98/983554/TEFAL-GC7228-OptiGrill-Lifestyle-05.jpg",
    "bytes": 51226,
    "sha256": "e5ac748918e1a07b435dd270c9351c05a66f990f1471f5e972d9fed49728bac0",
-   "sourceName": "TEFAL-GC7228-OptiGrill-Lifestyle-05.jpg"
+   "sourceName": "TEFAL-GC7228-OptiGrill-Lifestyle-05.jpg",
+   "width": 500,
+   "height": 500
   },
   {
    "file": "logo-tefal.png",
@@ -133,7 +157,9 @@
    "order": 13,
    "sourceUrl": "dropshipping/materiały/logo/Tefal_logo.png",
    "bytes": 12693,
-   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+   "width": 960,
+   "height": 206
   }
  ],
  "galleryOrderNote": "produkt-02 (czysty packshot) na pozycji 1; produkt-01 ma nakladke reklamowa aplikacji Tefal, wiec zeszlo na pozycje 2. Logo marki na KONCU."
