@@ -1,0 +1,119 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-04T21:52:06.174586Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/grille-kuchenne/grill-tefal-optigrill-gc7128",
+ "sourceNote": "karta tefal.pl dla GC7128 zwraca 404 (2 proby, rozne slugi/ID) - zdjecia i fakty z karty Media Expert; kazdy plik ma kod GC7128 w nazwie zrodlowej",
+ "slug": "tefal-gc7128",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/980324/Tefal_GC7128_875386__1.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 247123,
+   "sha256": "cb7f18c43290a3bae3af6b562f1ec691b0146dcee7fcd54dfcd73891ff63d046",
+   "note": "packshot glowny GC7128 (front, zamkniety)"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/980324/Grill-elektryczny-TEFAL-GC7128-Optigrill-plus-front-2.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 119860,
+   "sha256": "89ab15013fd555aae78d67dc06cca625149fbd74861d77be128bc0c64ba56eb6",
+   "note": "ujecie frontalne - detal obudowy"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/980324/Grill-elektryczny-TEFAL-GC7128-Optigrill-plus-plyty-grzejne.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 202783,
+   "sha256": "bd9e9dc852da3a334c23f685b56cc9a5dc35a37f59c70e15b8119d6e92022ab5",
+   "note": "plyty grzejne z powloka nieprzywieralna"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/980324/Grill-elektryczny-TEFAL-GC7128-Optigrill-plus-rozlozony.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 72909,
+   "sha256": "ad3c8c7b4d12214f971b3661bc876181f934ca92a99b4cd400328ff2b2db7995",
+   "note": "grill rozlozony na plasko"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/980324/TEFAL-GC7128-OptiGrill-Lifestyle-02.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 290483,
+   "sha256": "4077870dc677d198c0a0d4099d99fbd7b180967d0a362fa0fdcca7d185c45dac",
+   "note": "aranzacja - panel sterowania w uzyciu"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/980324/TEFAL-GC7128-OptiGrill-Lifestyle-04.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 256807,
+   "sha256": "7c849a2f38fb5de47545350f342706e2fa59dd99b140a98204a46da70d02c54f",
+   "note": "aranzacja - pomiar grubosci"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/980324/Grill-elektryczny-TEFAL-GC7128-Optigrill-plus-front-.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 87054,
+   "sha256": "796e96d69b63bc809fc58a03be36e8249f1c349c5c9e02aa2bcc314ffb89d156",
+   "note": "ujecie frontalne z panelem sterowania"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/98/980324/TEFAL-GC7128-OptiGrill-Lifestyle-03.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 405391,
+   "sha256": "6cdc2ca15b432da61957c9ba932845b528dbb03daab8b1f873786a8940ed3b40",
+   "note": "aranzacja - grillowanie miesa"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 9,
+   "sourceUrl": "lokalne repo: dropshipping/materiały/logo/Tefal_logo.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+   "note": "logo marki Tefal - obowiazkowo na koncu galerii"
+  }
+ ]
+}
