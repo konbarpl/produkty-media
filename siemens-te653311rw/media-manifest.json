@@ -1,0 +1,142 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-04T19:45:13.200Z",
+ "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TE653311RW",
+ "slug": "siemens-te653311rw",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "opis-01.png",
+  "opis-02.png",
+  "opis-03.png",
+  "opis-04.png",
+  "opis-05.png",
+  "opis-06.png",
+  "opis-07.png",
+  "opis-08.png",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02250629_SE_K_12_KT8_EQ6_TE653311RW_picture_KF1_front_ENG_280617_def.webp",
+   "width": 2287,
+   "bytes": 167488,
+   "sha256": "2d140620e1716394b52b485751fdf80ed0c732dbbf480712b053b6a09f9dd615"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/13189609_TE653311RW_def.webp",
+   "width": 1105,
+   "bytes": 38130,
+   "sha256": "714a097abe418962f9374d6342038a60e55025d3e68f853d94e8f7a0f8b2e69d"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19147320_TE653311RW_PowerImage_def.webp",
+   "width": 1417,
+   "bytes": 58192,
+   "sha256": "d3c7f885adbebb3d58b4d729cc1e606ddd9d6a279920d643747e53466332cade"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02250638_SE_K_12_KT8_EQ6_TE653311RW_picture_nKF_one_touch_function_ENG_280617_def.webp",
+   "width": 3716,
+   "bytes": 435742,
+   "sha256": "885a25bdbe863008ef3633c6130a23bdb2b6db2e593d6f77247a2ac46fc36935"
+  },
+  {
+   "file": "opis-01.png",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Images/21568053_SE_FAEM_autoMilkClean_3840x2160.png",
+   "width": 3840,
+   "bytes": 5156279,
+   "sha256": "5cbb6f4791b76ee717a04698b300100fe2263fe380457d93f4e30c8ed0a0f01f"
+  },
+  {
+   "file": "opis-02.png",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Images/21568051_SE_FAEM_aromaDoubleShot_3840x2160.png",
+   "width": 3840,
+   "bytes": 7693444,
+   "sha256": "450b87e343478f8395a6ea587974e6e69bb48443d365cea4d40e5344b9881fd1"
+  },
+  {
+   "file": "opis-03.png",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Images/21568059_SE_FAEM_ceramDrive_3840x2160.png",
+   "width": 3840,
+   "bytes": 5334201,
+   "sha256": "532c13a76a2f3d7325d41ff50143da811ffcd41848a2b471be437e30c829cf67"
+  },
+  {
+   "file": "opis-04.png",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Images/MCIM03119418_SI-BB-KVA-CoffeeSelectDisplay-1600x900.png",
+   "width": 1600,
+   "bytes": 869533,
+   "sha256": "ec1d891056f4e071d8d5e8c90142d80019f0d75b4a036163720d07db2f1168be"
+  },
+  {
+   "file": "opis-05.png",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Images/MCIM03119425_SI-BB-KVA-Favorites-1600x900.png",
+   "width": 1600,
+   "bytes": 3421604,
+   "sha256": "42f652c9f1a2c80118e8dc4c8496208bb5560f88dce32136ae603931f38bfe25"
+  },
+  {
+   "file": "opis-06.png",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Images/21568867_SE_FAEM_iAromaSystem_3840x2160_01.png",
+   "width": 3840,
+   "bytes": 1867905,
+   "sha256": "ad1aaa93594acf1f6c96b46bb2ff8ee50efd959ab1ab98da55262ee9344b0088"
+  },
+  {
+   "file": "opis-07.png",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Images/21569249_SE_FAEM_oneTouchFunction_3840x2160.png",
+   "width": 3840,
+   "bytes": 6494458,
+   "sha256": "648b63ad15b40e0185e6fef8e2e8b2d36557f0212c2fe572e78105cb913900de"
+  },
+  {
+   "file": "opis-08.png",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://media3.bsh-group.com/Images/21569362_SE_FAEM_EQ9plus_EQ6plus_BrewingUnit_3840x2160.png",
+   "width": 3840,
+   "bytes": 3695616,
+   "sha256": "265bd061832777073abfc99cc8d195fad717aa902a44852c31754360552f6656"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 1,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c",
+   "note": "logo marki skopiowane z siemens-te651319rw"
+  }
+ ],
+ "dropped": 0
+}
