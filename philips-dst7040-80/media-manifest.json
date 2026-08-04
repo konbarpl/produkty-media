@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-04",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/DST7040_80.assets",
+  "slug": "philips-dst7040-80",
+  "kod": "DST7040/80",
+  "ean": "",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_769a5295_f662_4392_8d022c422ad6bffc?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "PRX Philips DST7040_80, asset RTP (RFT DST7040_80_SRGB) — packshot 3/4 z prawej, czarno-zloty, napis Azur 7000 Series",
+      "bytes": 147151,
+      "sha256": "94bae4661f11994afbf11117afadb57b6e1aaf70cbb537e86a8b2d9967731156",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c8ed8eb4_fdaa_484a_95d26ffb736b409b?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "PRX Philips DST7040_80, asset A1P (APS) — widok z gory, pokretlo temperatury i wskaznik auto-off",
+      "bytes": 130731,
+      "sha256": "14d913302c90a47e6fe786f0bd3f1fc5c13752e1de5f32cbe917e3b0234aa337",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c9e75c03_979f_4e0b_980d228b3b5449b9?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "PRX Philips DST7040_80, asset U1P (PUP) — stopa SteamGlide Elite w klebach pary, tlo fioletowe",
+      "bytes": 167311,
+      "sha256": "6486979d34e1a57c49adfa747a9da13c6537734565c9f2e5ef4436c1c41583d0",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_4dd4221b_794d_4f5b_871da5223dd9cbe7?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "PRX Philips DST7040_80, asset U2P (PUP2) — prasowanie bluzy na desce, ujecie uzytkowe",
+      "bytes": 235319,
+      "sha256": "611d050b3e97204ffddee1407c373a752cb1c40b1c1dbaed3f7372580370b9d6",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a1f7a73a_fe1e_4e1d_8d6ddf81a600dd90?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "PRX Philips DST7040_80, asset U3P (PUP3) — zolty suwak Quick Calc Release i stopa od spodu",
+      "bytes": 218114,
+      "sha256": "8b4e2773535d4e0af9ef3c5afc0f5a3faf1bfa8113cccc68db8889787140a5ac",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1c642f6f_6496_4ec8_9a751523214bb5a0?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "PRX Philips DST7040_80, asset A6P (PUP4) — prasowanie w ruchu z uderzeniem pary",
+      "bytes": 347287,
+      "sha256": "a4e5726ebb49e27d6000cffe471ca687dcc23385b4ceef22a7dd5e56d2e7006c",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "local:philips-ep2331-10/logo-philips.png",
+      "note": "logo marki, kopia z gotowego folderu philips-ep2331-10",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "width": 525,
+      "height": 105
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 99,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ab107bed_2649_46db_813b8ad0e3d6b062?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "PRX Philips DST7040_80, asset PID (PIM_DST7040_80_EU9) — opakowanie; POZA GALERIA: na pudelku widoczna plakietka 2-year guarantee (regula ZERO gwarancji)",
+      "bytes": 236592,
+      "sha256": "bcba1d2ed2897d87dfc1a1524e321bdd82e4a62b9498d6eca3b0205bef95e714",
+      "width": 1500,
+      "height": 1500
+    }
+  ]
+}
