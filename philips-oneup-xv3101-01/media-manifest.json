@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-04",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/XV3101_01.assets",
+  "slug": "philips-oneup-xv3101-01",
+  "kod": "XV3101/01",
+  "ean": "5906063256796",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_771bd375_3145_4225_bd42d8097870c09a?wid=1200&hei=1200&fmt=png",
+      "caption": "RTP XV3101_01_PAP",
+      "width": 1200,
+      "bytes": 306099,
+      "sha256": "e3aadf8f92270dd5a5d1080d242b15e315d166d0a929b6cd8d293569bb6461ff"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ab41416e_3ff5_4e83_a35adc4e2378cb02?wid=1200&hei=1200&fmt=png",
+      "caption": "D1P XV3101_RFT_1x1",
+      "width": 1200,
+      "bytes": 140658,
+      "sha256": "0d8bdbb41a0d3a7a60395510a994ef46ca15248471161f608826a4948b67047d"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cac24399_8389_49b5_abe9b63192d7d35e?wid=1200&hei=1200&fmt=png",
+      "caption": "D2P XV3101_A3_1x1",
+      "width": 1200,
+      "bytes": 82852,
+      "sha256": "cebefbb05728b7d76881bc138f107ac7cc47dad9020eca56c68a3228f7885c2e"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b3806946_efbc_4d87_9704d0f8a8c920be?wid=1200&hei=1200&fmt=png",
+      "caption": "D3P XV3101_A2_1x1",
+      "width": 1200,
+      "bytes": 59048,
+      "sha256": "6bb6569975ec6be092881725881413637746be295842ac276f5ebf5709367000"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_66c7b58b_d319_46fe_b4f18363d4bd62d2?wid=1200&hei=1200&fmt=png",
+      "caption": "U1P XV3101_DirtyWaterUp_1x1",
+      "width": 1200,
+      "bytes": 2350372,
+      "sha256": "d2423f5ee102467fdc0da364ea5ccac5ad3d2b5c2427ddb27d7e5f7e455d919d"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_25b822d2_77c4_4353_b5f4a095c71a97aa?wid=1200&hei=1200&fmt=png",
+      "caption": "U2P XV3101_2XCleanWetnesscontrol_1x1",
+      "width": 1200,
+      "bytes": 2414512,
+      "sha256": "bb5264725c5d1c4cee3b1a93a4c51bccdfce6bb06546f3358b257d23cf9ddaa5"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8fe01bed_b18c_4f07_abc743860a6ef90f?wid=1200&hei=1200&fmt=png",
+      "caption": "U3P XV3101_NoBucket_1x1",
+      "width": 1200,
+      "bytes": 1983084,
+      "sha256": "d58a5cc12ffbf5f798c92d6cbf43add8a7a6c999782ecacb1d59fe9c5dbf2fdd"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo:philips-na547-07/logo-philips.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}
