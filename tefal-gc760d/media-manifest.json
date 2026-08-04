@@ -1,0 +1,130 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-04T21:35:37.403Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/grille-kuchenne/grill-tefal-gc760d-optigrill-elite-xl-kontaktowy-12-prog-inox-2000w",
+ "sourceNote": "Zdjecia z karty Media Expert (JSON-LD image[]), bo karta producenta tefal.pl nie oddaje galerii w statycznym HTML. Wszystkie pliki maja w nazwie kod GC760D albo SKU 409852 tej karty.",
+ "slug": "tefal-gc760d",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/29/2911371/Tefal_GC7760D_409852__1.jpg",
+   "bytes": 224001,
+   "sha256": "b0aae07bff7fda0e33c64149dc1c95bd464a660264a71f56fb50ed342d408c69",
+   "sourceName": "Tefal_GC7760D_409852__1.jpg"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/29/2911371/Grill-TEFAL-Optigrill-Elite-XL-GC760D-front-1.jpg",
+   "bytes": 101738,
+   "sha256": "2cdadeb478a72a62ecaf8df83e3ab56df3bbac43d86c3b07f3eaae28543e6af2",
+   "sourceName": "Grill-TEFAL-Optigrill-Elite-XL-GC760D-front-1.jpg"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/29/2911371/Grill-TEFAL-Optigrill-Elite-XL-GC760D-front-2-1.jpg",
+   "bytes": 114757,
+   "sha256": "77ade2556e7fbbbbda24be029bd038e73f4ce0ab50ab233b59decf17e9fcff99",
+   "sourceName": "Grill-TEFAL-Optigrill-Elite-XL-GC760D-front-2-1.jpg"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/29/2911371/Grill-TEFAL-Optigrill-Elite-XL-GC760D-przod.jpg",
+   "bytes": 98853,
+   "sha256": "ab7c4076ecb85b5ad1dd52697e37ba2739cfb178e16d685d513573343780abf3",
+   "sourceName": "Grill-TEFAL-Optigrill-Elite-XL-GC760D-przod.jpg"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/29/2911371/Grill-TEFAL-Optigrill-Elite-XL-GC760D-bok.jpg",
+   "bytes": 153918,
+   "sha256": "8ebd31970df9ab92da6ca76f802db112dccbb91e737c3870c31b33ae32704945",
+   "sourceName": "Grill-TEFAL-Optigrill-Elite-XL-GC760D-bok.jpg"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/29/2911371/Grill-TEFAL-Optigrill-Elite-XL-GC760D-otwarty.jpg",
+   "bytes": 194517,
+   "sha256": "818a1fd6043053ddb42890bce7a487b973f52b59f17454f78c307221241e3cbc",
+   "sourceName": "Grill-TEFAL-Optigrill-Elite-XL-GC760D-otwarty.jpg"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/29/2911371/Large-GC760D_OptiGrill_Elite_XL_Lamm_Programm_Grillido.jpg",
+   "bytes": 254379,
+   "sha256": "6acdcd12658a7ab2c4990063a32fefc712ddfac0b563e94bf8a4da45d4fb5c08",
+   "sourceName": "Large-GC760D_OptiGrill_Elite_XL_Lamm_Programm_Grillido.jpg"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/29/2911371/Large-GC760D_OptiGrill_Elite_XL_Lamm_Programm_Grillido_quer.jpg",
+   "bytes": 273440,
+   "sha256": "9492f6005d23442645d8f68b12b0b8522cac462c23697e721fb9b523c2b25202",
+   "sourceName": "Large-GC760D_OptiGrill_Elite_XL_Lamm_Programm_Grillido_quer.jpg"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/29/2911371/Large-GC760D_OptiGrill_Elite_XL_Veggie_Programm_Grillido_quer.jpg",
+   "bytes": 262762,
+   "sha256": "d98ec1137a0a1167ac76dbf802c750cf1dbf4524211a5eb7f45dfa57d488e8f3",
+   "sourceName": "Large-GC760D_OptiGrill_Elite_XL_Veggie_Programm_Grillido_quer.jpg"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/29/2911371/Large-Grillido_K__se_x_OptiGrill_Elite_XL_GC760D.jpg",
+   "bytes": 234227,
+   "sha256": "a26a25979873cdd1232124d0fd3b6a4dda87327cd2ca6af6329d857573e2576c",
+   "sourceName": "Large-Grillido_K__se_x_OptiGrill_Elite_XL_GC760D.jpg"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/29/2911371/Large-Tefal_GC760D30_2100126663_LIFESTYLE_2.jpg",
+   "bytes": 394812,
+   "sha256": "71598e1a0fe547a81227c23eb1ad5c861ff9154f1a36cf653ebd710e22846b59",
+   "sourceName": "Large-Tefal_GC760D30_2100126663_LIFESTYLE_2.jpg"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 12,
+   "sourceUrl": "local:dropshipping/materiały/logo/Tefal_logo.png",
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ]
+}
