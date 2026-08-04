@@ -169,7 +169,9 @@
       "order": 99,
       "sourceUrl": "kopia z produkty-media/philips-ep2331-10/logo-philips.png (logo marki Philips)",
       "bytes": 6882,
-      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "width": 525,
+      "height": 105
     }
   ],
   "duplikaty": [
