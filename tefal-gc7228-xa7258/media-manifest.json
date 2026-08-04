@@ -1,0 +1,133 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-04T21:57:39.759174Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/grille-kuchenne/grill-elektryczny-tefal-gc7228-optigrill-xl-z-automatycznymi-programami-wymienny-wklad-tefal-xa727810-xl-forma-do-piecze",
+ "slug": "tefal-gc7228-xa7258",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.png",
+  "produkt-07.png",
+  "produkt-08.png",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/37/3742882/Z875527-3742884.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 517225,
+   "sha256": "9d5df0c9832d9a963524caa97b6461c988ded18684dd5d79200b6883367fe84c",
+   "note": "zdjecie ZESTAWU z karty zrodlowej: grill GC7228 OptiGrill+ XL RAZEM z forma do pieczenia z napisem OptiGrill — miniaturka pokazuje caly zestaw"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/37/3742882/Grill-elektryczny-TEFAL-GC7228-OptiGrill-XL-front-.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 128131,
+   "sha256": "2a0fc1ead992002730d4f0cbeb220629fbccb767985d2366c7835346101bb444",
+   "note": "packshot grilla, kod GC7228 w nazwie pliku"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/36/3662400/Wymienny-wklad-TEFAL-XA7258-XL-Forma-do-pieczenia-do-OptiGrill-GC722-skos-lewy.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 162871,
+   "sha256": "45c4171f65c65583034d1511a627dcb18de1d888ac9ec812b6a20e809abf4f22",
+   "note": "sama forma do pieczenia, kod XA7258 w nazwie pliku — skladowa zestawu"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/36/3662400/Wymienny-wklad-TEFAL-XA7258-XL-Forma-do-pieczenia-do-OptiGrill-GC722-opakowanie.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 166814,
+   "sha256": "9dbf089a0a15ff8dd4cd631844d1328bd3eb53faea7a238eff0229b39eac79b9",
+   "note": "forma do pieczenia w opakowaniu, kod XA7258 w nazwie pliku"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/98/983554/storage_app_materialy_do_opisow_875527/hero.jpg",
+   "width": 1000,
+   "height": 568,
+   "bytes": 157114,
+   "sha256": "01bd8e2724e56fdb1a3c1540f6910b81b100339c0172f0aecaf366ed96e02d21",
+   "note": "materialy producenta z karty zrodlowej: grill w aranzacji kuchennej"
+  },
+  {
+   "file": "produkt-06.png",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/98/983554/storage_app_materialy_do_opisow_875527/info_3.png",
+   "width": 559,
+   "height": 316,
+   "bytes": 46904,
+   "sha256": "b49c35e7ed5bebb0f98004eef4899968fe1790681461ec0a835040738ff338d7",
+   "note": "panel sterowania OptiGrill+ XL z 9 programami automatycznymi"
+  },
+  {
+   "file": "produkt-07.png",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/98/983554/storage_app_materialy_do_opisow_875527/info_1.png",
+   "width": 559,
+   "height": 316,
+   "bytes": 66880,
+   "sha256": "1e4ec7deb63e8c4f50a2cf0ab908093e1fab0f060f0cfa104b7ad6f9e26664c4",
+   "note": "grillowanie z technologia Automatic Sensor Cooking"
+  },
+  {
+   "file": "produkt-08.png",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/98/983554/storage_app_materialy_do_opisow_875527/info_4.png",
+   "width": 560,
+   "height": 317,
+   "bytes": 56666,
+   "sha256": "8c59c944815ef91693ceccaa172425ee998748bf32df2d236c098e49ae231df3",
+   "note": "otwarty grill i wyjmowane plyty — duza powierzchnia grillowania"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 9,
+   "sourceUrl": "repo projektu: dropshipping/materialy/logo/Tefal_logo.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+   "note": "logo marki Tefal — OSTATNIE w galerii"
+  }
+ ],
+ "dropped": 6,
+ "usunieteZGalerii": [
+  {
+   "file": "benefit_1..benefit_4.png",
+   "powod": "zdjecia potraw 273x273 px — za male na galerie"
+  },
+  {
+   "file": "gc750d.png / gc712d.png",
+   "powod": "packshoty INNYCH modeli OptiGrill z tabeli porownawczej"
+  },
+  {
+   "file": "warranty.png",
+   "powod": "grafika gwarancyjna — zakaz gwarancji w ofertach"
+  }
+ ]
+}
