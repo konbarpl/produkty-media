@@ -1,0 +1,231 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-05T07:30:42.393Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/BRI953_02 (PRX API, CTN BRI953/02)",
+ "slug": "philips-bri953-02",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "type": "RTP",
+   "desc": "Standardowe zdjęcie produktu",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/afa7c41368334919b1ddb1fe009093a1",
+   "bytes": 77999,
+   "sha256": "b53e94f3aca06ce136f2a00b7fd044e9af2cf0f10005932969c7953a2e97ccc8",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "type": "A1P",
+   "desc": "Zdjęcie prezentujące alternatywny produkt",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/13d6f6c51aab46d296a1af4d00e09b03",
+   "bytes": 70679,
+   "sha256": "a8ffdda5abd4d7ee2b9e72c98d1443e39173efd54468883784f1c079ec5ec8b8",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "type": "U1P",
+   "desc": "Zdjęcie prezentujące produkt w użyciu",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/275e978ec4e243038765b11a00e17aab",
+   "bytes": 99217,
+   "sha256": "17754298fed3feab74484721860c0a8944ecd5e521911eb8faa1ae4ada0a51e9",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "type": "U2P",
+   "desc": "Zdjęcie prezentujące produkt w użyciu",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/2d5f0dcd504a4e6497e6b11a00dbfb4a",
+   "bytes": 109306,
+   "sha256": "afc9f165171bcbce017521252b9d09e49aba52564e2daa96db7ac21933c0c367",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "type": "U3P",
+   "desc": "Zdjęcie prezentujące produkt w użyciu",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/329aee85b8f446f6aec5b11a00dbf59f",
+   "bytes": 111799,
+   "sha256": "210c5cfcd755991ec6019a316644eba242d1813cbf5854b097e8b5306c07c90d",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "type": "E1P",
+   "desc": "Zdjęcie prezentujące korzyści emocjonalne",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/261e5d5d134845fd8a7fb0f3011bdfb1",
+   "bytes": 161489,
+   "sha256": "6f547af4c9e5d7bd1f4e212e4f329060c35e90063e9a9979340bb44e37a04514",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "type": "E2P",
+   "desc": "Zdjęcie prezentujące korzyści emocjonalne",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/5bf0dec145194d54bf0db0f3011be106",
+   "bytes": 139928,
+   "sha256": "a67f6120d38f5b424ee21c92ec3e2c74180aa512516ec5dbf88e1349d20fce28",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "type": "E3P",
+   "desc": "Zdjęcie prezentujące korzyści emocjonalne",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/fef3c02b9b1a4640ae43b0f3011be2a1",
+   "bytes": 143065,
+   "sha256": "7b962c4f9b4fb9b00690e551d0969e540682f5d1b7aeb43489db59fb2f297aa5",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "type": "A2P",
+   "desc": "Zdjęcie prezentujące alternatywny produkt",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/26813d45b4cb4871988eac9400ea7f23",
+   "bytes": 37045,
+   "sha256": "06ee09c0f9dfe1d1a240fde10961c43270a2b385aa0e73c00f85bbaee5e519bc",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "type": "A3P",
+   "desc": "Zdjęcie prezentujące alternatywny produkt",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/a28165a824a54682a733b21a00f13b22",
+   "bytes": 113381,
+   "sha256": "e25ddab28c249c62461ba42e866fedc0ef467c762b12b030009149071b897cc1",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "type": "A4P",
+   "desc": "Zdjęcie prezentujące alternatywny produkt",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/28983844a78c4282a30faf3c00f7bf78",
+   "bytes": 88330,
+   "sha256": "7a4b84aa7139c6e9c78d618046eadd592c29dab14f69d4d0042705e68311cf0e",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "type": "MI1",
+   "desc": "Główne zdjęcie produktu w użyciu",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/e64be789dbbb4fb28890b11a00dbea29",
+   "bytes": 139962,
+   "sha256": "3dc1842da70351cd9a758c035dd8dffe374f91cea51988374829a02447da61b1",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 13,
+   "type": "LOGO",
+   "desc": "Logo marki Philips",
+   "sourceUrl": "repo produkty-media/philips-ep2331-10/logo-philips.png",
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+   "width": 525,
+   "height": 105
+  }
+ ],
+ "dropped": 10,
+ "usunieteZGalerii": [
+  {
+   "file": "ff69d47da7a944e0b5eeabc80078024a",
+   "powod": "asset opisany kodem „PHI\" — bramka tożsamości zdjęć (model docelowy BRI953/02)",
+   "opisAssetu": "BRP | Brand Logo"
+  },
+  {
+   "file": "68993afbe6fa4b0b85f5b11f0103d23d",
+   "powod": "asset opisany kodem „PBTFEA171838\" — bramka tożsamości zdjęć (model docelowy BRI953/02)",
+   "opisAssetu": "FIL | Lumea 9000 9900 Refresh Onyx Feature Image (PPL) FIM Faster results"
+  },
+  {
+   "file": "938b545d987f4b61b91bb0f3011bd749",
+   "powod": "asset opisany kodem „PBTFEA112481\" — bramka tożsamości zdjęć (model docelowy BRI953/02)",
+   "opisAssetu": "FIL | Lumea 9000 9900 Refresh Onyx Feature Image (PPL) FIM Developed with dermatologists"
+  },
+  {
+   "file": "92f495bc81ae4413bb7cb11a00dc0493",
+   "powod": "asset opisany kodem „PBTFEA171840\" — bramka tożsamości zdjęć (model docelowy BRI953/02)",
+   "opisAssetu": "FIL | Lumea 9000 9900 Refresh Onyx Feature Image (PPL) FIM Cordless if you want"
+  },
+  {
+   "file": "040bed05435543bfb4eab1ef01052ef5",
+   "powod": "asset opisany kodem „PBTFEA185700\" — bramka tożsamości zdjęć (model docelowy BRI953/02)",
+   "opisAssetu": "FIL | Lumea 9000 9900 Refresh Onyx Feature Image (PPL) Smart Attachments"
+  },
+  {
+   "file": "edf30bc933a94786b67cac94014cc3b2",
+   "powod": "asset opisany kodem „PBTFEA111239\" — bramka tożsamości zdjęć (model docelowy BRI953/02)",
+   "opisAssetu": "FIL | BRI958_FIM_Suitable skin and hair_PDP"
+  },
+  {
+   "file": "28983844a78c4282a30faf3c00f7bf78",
+   "powod": "asset opisany kodem „PBTFEA182607\" — bramka tożsamości zdjęć (model docelowy BRI953/02)",
+   "opisAssetu": "A4P | Zdjęcie prezentujące alternatywny produkt"
+  },
+  {
+   "file": "af4e75f390dd4577aa39b11a00dc075e",
+   "powod": "asset opisany kodem „PBTFEA171839\" — bramka tożsamości zdjęć (model docelowy BRI953/02)",
+   "opisAssetu": "FIL | Lumea 9000 9900 Refresh Onyx Feature Image (PPL) FIM SenseIQ"
+  },
+  {
+   "file": "afa7c41368334919b1ddb1fe009093a1",
+   "powod": "duplikat pikselowy pliku produkt-01.jpg",
+   "opisAssetu": "IMS | Zdjęcie pojedynczego produktu"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "powod": "asset typu SV1 to FILM pomocniczy (435 MB), nie zdjecie — pobrany omylkowo jako .jpg i skasowany"
+  }
+ ]
+}
