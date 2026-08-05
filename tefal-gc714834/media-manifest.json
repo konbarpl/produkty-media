@@ -1,0 +1,180 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-05T00:00:00Z",
+ "sourcePage": "https://www.tefal.pl/p/grill-elektryczny-tefal-optigrill-snacking-baking-gc7148/7211002749",
+ "sourcePageAlt": "https://www.ceneo.pl/49558213",
+ "slug": "tefal-gc714834",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tefal_gc714834_2100127287_02_pack_key_visual_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1500&width=1500&canvas=1500:1500",
+   "sourceFile": "large-tefal_gc714834_2100127287_02_pack_key_visual_.jpg",
+   "width": 1398,
+   "height": 1398,
+   "bytes": 165043,
+   "sha256": "36783da6727d94b229cba916b8b03d484e50e2e4d55bfefee65995eb38f622d2",
+   "note": "packshot glowny: grill zamkniety + FORMA DO ZAPIEKANIA z daniem — pokazuje caly zestaw (miniaturka)"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-01_optigrillseul.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1500&width=1500&canvas=1500:1500",
+   "sourceFile": "large-01_optigrillseul.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 82839,
+   "sha256": "d4737c5e0d0af22d0c25a6ca2bbca5f91aba28c9354a31b2a96340d65d5636ee",
+   "note": "packshot grilla otwartego, panel sterowania z pierscieniem wysmazenia"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-08_optigrillplusnoiraccfourpizza.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1500&width=1500&canvas=1500:1500",
+   "sourceFile": "large-08_optigrillplusnoiraccfourpizza.jpg",
+   "width": 1243,
+   "height": 1243,
+   "bytes": 144679,
+   "sha256": "b42d0ce51b6aef289570aa6e401f1d265986238e262603d4a88c2e6342b33a32",
+   "note": "grill z forma do zapiekania w uzyciu (pizza) — akcesorium z zestawu"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/49558213/9925aad2-dbbe-4a85-b402-48e3115fe219_i-tefal-optigrill-snacking-baking-gc714834.jpg",
+   "sourceFile": "9925aad2-dbbe-4a85-b402-48e3115fe219_i-tefal-optigrill-snacking-baking-gc714834.jpg",
+   "width": 1144,
+   "height": 1248,
+   "bytes": 145426,
+   "sha256": "b2405667e3a9a32ac1044e68d559b47fcc40dc4c0c27fad14767ce2c90350953",
+   "note": "grill z forma do zapiekania (zapiekanka) — galeria Ceneo, kod GC714834 w nazwie pliku"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-02_gc7148productlifestylephotos60799.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1500&width=1500&canvas=1500:1500",
+   "sourceFile": "large-02_gc7148productlifestylephotos60799.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 162578,
+   "sha256": "e0760ba288413f1577a49314acd1edeca9fea3098a6dbda00b0f058045fa6d40",
+   "note": "aranzacja: grillowane kanapki na plytach"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-19_optigrillplusnoirambiancebrochettes.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1500&width=1500&canvas=1500:1500",
+   "sourceFile": "large-19_optigrillplusnoirambiancebrochettes.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 208361,
+   "sha256": "80abb48014d515cd972a8b611d46809e607196f7d84a01c8933b463928a39225",
+   "note": "aranzacja: szaszlyki i grillowane warzywa"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-04_gc7148productlifestylephotos60801.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1500&width=1500&canvas=1500:1500",
+   "sourceFile": "large-04_gc7148productlifestylephotos60801.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 143231,
+   "sha256": "91200d2702dd431ab5c906ceedd8a366d4c6ef714b650c867ad177ded1eaf00c",
+   "note": "aranzacja: grill zamkniety przy gotowych daniach"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/49558213/ae6e5133-ef31-452b-8dd0-5590a9227b3e_i-tefal-optigrill-snacking-baking-gc714834.jpg",
+   "sourceFile": "ae6e5133-ef31-452b-8dd0-5590a9227b3e_i-tefal-optigrill-snacking-baking-gc714834.jpg",
+   "width": 1400,
+   "height": 1217,
+   "bytes": 200680,
+   "sha256": "7a5c88da9d41b6234edd94b29cb32d035a5c4235bf05d1089f928eb8cd73f5ab",
+   "note": "aranzacja: grillowany losos, obsluga pokrywy — galeria Ceneo, kod GC714834 w nazwie"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tefal_gc714834_2100127287_02_pack_visual4.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1500&width=1500&canvas=1500:1500",
+   "sourceFile": "large-tefal_gc714834_2100127287_02_pack_visual4.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 80799,
+   "sha256": "db5344892fc6ceeac6bbe40d7298c473211f80f1d6fdcc0b3f2fa5b0c9f63777",
+   "note": "wyjmowane plyty grillowe (mycie w zmywarce)"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/7/2/7211002749.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1500&width=1500&canvas=1500:1500&format=jpeg",
+   "sourceFile": "7211002749.png",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 63019,
+   "sha256": "e0cc8043ec8b0c94c907016e49db005c172883d9e1d8508eaed4d34996dfbd07",
+   "note": "infografika PL karty producenta: Moc 2000 W, powierzchnia 600 cm2, 6 programow automatycznych"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 11,
+   "sourceUrl": "repo projektu: dropshipping/materialy/logo/Tefal_logo.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+   "note": "logo marki Tefal — OSTATNIE w galerii"
+  }
+ ],
+ "dropped": 3,
+ "usunieteZGalerii": [
+  {
+   "file": "pewne-13.jpg",
+   "powod": "packshot z naniesiona czerwona strzalka marketingowa — plakietka na zdjeciu"
+  },
+  {
+   "file": "rodzina-01.jpg",
+   "powod": "kadr z bannerem aplikacji z przepisami (reklama uslugi, nie produkt)"
+  },
+  {
+   "file": "rodzina-06.jpg",
+   "powod": "ten sam kadr co pewne-12 (losos) w nizszej rozdzielczosci — duplikat wizualny"
+  },
+  {
+   "file": "large-tefal_gc714812_7211004619__pwc1_pl.jpg / __pwc4_pl.jpg / _pwcd_master / b4-square",
+   "powod": "nazwa pliku wskazuje INNY wariant GC714812 (SKU 7211004619)"
+  },
+  {
+   "file": "large-tefal_gc724d12_7211002932_pwc3_pl.jpg",
+   "powod": "INNY model GC724D12 (OptiGrill XL)"
+  },
+  {
+   "file": "large-tefal_gc714d10_7211004697__pwc5_pl.jpg",
+   "powod": "INNY model GC714D10"
+  }
+ ]
+}
