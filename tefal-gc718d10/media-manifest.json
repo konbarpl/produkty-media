@@ -1,0 +1,81 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-05T07:48:40.013168Z",
+ "sourcePage": "https://www.tefal.pl/p/grill-elektryczny-tefal-optigrill-gc718d/7211005209",
+ "slug": "tefal-gc718d10",
+ "galleryOrder": [
+  "produkt-01.png",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.png",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/g/c/gc718dnowe.png",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 408651,
+   "sha256": "e46763cc4e4b1be5101bb9eb499a8d9d289ad0d0320baf15f55f4177d7bbe191",
+   "note": "packshot glowny z karty producenta tefal.pl GC718D10 (grill zamkniety, panel programow)"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/166247527/i-tefal-optigrill-gc718d10.jpg",
+   "width": 576,
+   "height": 424,
+   "bytes": 23641,
+   "sha256": "03db9755e3c1115ba2d4df2915d8cb6a2f3532568c5a27580f3365f97b2cf284",
+   "note": "galeria Ceneo ID 166247527, kod GC718D10 w nazwie pliku"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/166247527/74c1550c-c800-4478-9d48-c6b98da37304_i-tefal-optigrill-gc718d10.jpg",
+   "width": 584,
+   "height": 434,
+   "bytes": 28828,
+   "sha256": "fdd8d4edb7632f37f4d1d2adaa200b2d3102f1d4ff3ae5729551f898bb0b0596",
+   "note": "galeria Ceneo ID 166247527, kod GC718D10 w nazwie pliku"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/166247527/c203ce41-af65-46a1-b713-6ae168359577_i-tefal-optigrill-gc718d10.jpg",
+   "width": 600,
+   "height": 457,
+   "bytes": 34955,
+   "sha256": "57120579fad41aff64428d78f5adb885609639ca4f0bd2cfc7e30a1ab09f931c",
+   "note": "galeria Ceneo ID 166247527, kod GC718D10 w nazwie pliku"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 5,
+   "sourceUrl": "repo projektu: dropshipping/materialy/logo/Tefal_logo.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+   "note": "logo marki Tefal — OSTATNIE w galerii"
+  }
+ ],
+ "dropped": 3,
+ "usunieteZGalerii": [
+  {
+   "file": "Medium-TFL_OPTIGRILL_-INOX_GC717D10_PERFECT-GRILLING_.jpg",
+   "powod": "nazwa pliku wskazuje INNY model GC717D10 — bramka tozsamosci"
+  },
+  {
+   "file": "Digital-TS-01039391 / TS-01039401 / TS-01039270 / TS-01039530",
+   "powod": "czesci zamienne i plyty kupowane osobno, nie packshoty produktu"
+  }
+ ]
+}
