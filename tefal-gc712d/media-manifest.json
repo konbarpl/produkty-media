@@ -1,0 +1,174 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-05T00:00:00Z",
+ "sourcePage": "https://www.ceneo.pl/45312516",
+ "sourceNote": "karta producenta tefal.pl dla GC712D NIE ISTNIEJE (redirect na hub + 404 na wariancie csp) — zdjecia i fakty z karty Ceneo 45312516 (przedruk opisu producenta TEFAL OPTIGRILL+ GC712D)",
+ "slug": "tefal-gc712d",
+ "galleryOrder": [
+  "produkt-16.jpg",
+  "produkt-13.jpg",
+  "produkt-05.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-06.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-15.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-16.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/45312516/i-tefal-optigrill-gc712d.jpg",
+   "width": 2087,
+   "height": 1344,
+   "bytes": 271234,
+   "sha256": "c222a99668260a78a7eb709fbd621f1fd674c5e9bb01e717fc5755339e2c28ae"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/45312516/a3ce592e-13eb-49e1-b896-f9781d260202_i-tefal-optigrill-gc712d.jpg",
+   "width": 1144,
+   "height": 1248,
+   "bytes": 132150,
+   "sha256": "edd4930596315c805224630ec1d584ef885ea004acc938818ae524bb90ddfca6"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/45312516/52daa587-6d98-4268-9663-368f150734f8_i-tefal-optigrill-gc712d.jpg",
+   "width": 744,
+   "height": 688,
+   "bytes": 51103,
+   "sha256": "ff71948e8a9da5f1281ac0852439e5b94590cdeb9bc754206f842aae6d9bc8dc"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/45312516/2e12b52a-4a18-4ba8-8eaa-553ea8548389_i-tefal-optigrill-gc712d.jpg",
+   "width": 2362,
+   "height": 1762,
+   "bytes": 425226,
+   "sha256": "490ae58f5ab483147cfde4d467a10079c450889f9a1e9c229322fcd22cff175c"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/45312516/3c8fd3e9-3142-4790-9e91-e53846413212_i-tefal-optigrill-gc712d.jpg",
+   "width": 2362,
+   "height": 1730,
+   "bytes": 503907,
+   "sha256": "c027818fd9af8da33461e20e9a14a3871c9d5eed405ddc931eb7aa324fd71322"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/45312516/5099e069-e724-48f0-b26b-e0301c9de05b_i-tefal-optigrill-gc712d.jpg",
+   "width": 2362,
+   "height": 1557,
+   "bytes": 626901,
+   "sha256": "408108c5448ac861a62c28e927b03f7a7963809b34e15fc1357e6f7f00a6b913"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/45312516/538895e8-fbab-4f40-9e90-b4e6c4a4e04b_i-tefal-optigrill-gc712d.jpg",
+   "width": 1067,
+   "height": 1400,
+   "bytes": 193837,
+   "sha256": "9fe8e1f3e235bd27a265b6b4945643ba8518ac880d9abf2f97978cf027038d60"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/45312516/885ea4d5-65e3-4169-8d67-a7d27a87c229_i-tefal-optigrill-gc712d.jpg",
+   "width": 1800,
+   "height": 2362,
+   "bytes": 522850,
+   "sha256": "c394b58968b88fc42aa82eb67df6090abff9db08a4b1a1e0d0f53885566c924a"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/45312516/91d7c9e6-8ab4-4851-8f03-441bcf6f4e45_i-tefal-optigrill-gc712d.jpg",
+   "width": 1400,
+   "height": 1070,
+   "bytes": 184271,
+   "sha256": "f834d8385e02c4d146eb348089a18d1406c5aea8261956bb92b9cfd2c4983e04"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/45312516/944d5467-7398-44df-9054-e69464a5ac91_i-tefal-optigrill-gc712d.jpg",
+   "width": 1400,
+   "height": 923,
+   "bytes": 183979,
+   "sha256": "9257c24dff74d4a660d906cfec4abddb95be3eb14a7951445cb690090e0fdc79"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/45312516/9b525880-8e88-47d9-bb8a-bc4aa01c33ac_i-tefal-optigrill-gc712d.jpg",
+   "width": 1400,
+   "height": 1070,
+   "bytes": 152488,
+   "sha256": "f22b555dfadf7b3f14b4605c229c24258168f2d43c85dbe404ceb4029961eb65"
+  },
+  {
+   "file": "produkt-15.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/45312516/fc8d832a-a5bc-416f-ad6e-99ea5321ba38_i-tefal-optigrill-gc712d.jpg",
+   "width": 256,
+   "height": 312,
+   "bytes": 13192,
+   "sha256": "886d3d0a0fb4291baef378dfe5f6b85cd7f48a95e5ef32b5d7ac33d12b58c7f3"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 13,
+   "sourceUrl": "repo projektu: dropshipping/materialy/logo/Tefal_logo.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+   "note": "logo marki Tefal — OSTATNIE w galerii"
+  }
+ ],
+ "dropped": 4,
+ "usunieteZGalerii": [
+  {
+   "file": "produkt-01.jpg",
+   "powod": "kadr z forma do zapiekania (akcesorium XA7278 kupowane osobno) — zestaw GC712D jej nie zawiera"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "powod": "kadr z forma do zapiekania — jak wyzej"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "powod": "kadr z forma do zapiekania — jak wyzej"
+  },
+  {
+   "file": "produkt-14.jpg",
+   "powod": "gorsza jakosciowo (472x312) kopia tego samego packshotu co produkt-16 (2087x1344)"
+  }
+ ]
+}
