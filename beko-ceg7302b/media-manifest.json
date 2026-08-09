@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-09T06:30:00.531905Z",
+  "sourcePage": "https://www.electro.pl/agd-male/do-kuchni/ekspresy-cisnieniowe/ekspres-beko-caffeexperto-ceg7302b",
+  "slug": "beko-ceg7302b",
+  "model": "CEG7302B",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-01.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.electro.pl/api/images/gallery_1000_1000/thumbnails/images/58/5863632/Ekspres-BEKO-Caffeexperto-CEG7302B-front.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 63832,
+      "sha256": "06b5e90b1e729acf765d299bdd13b96a950c61a2bb8664ce781f6c855d7f5049"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://media.currys.biz/i/currysprod/10257701?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "width": 1000,
+      "height": 887,
+      "bytes": 71152,
+      "sha256": "100ff239965c590cdb2a560afe169cc5dc96a56048412f5bfaa4ad5de7e73ddd"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://media.currys.biz/i/currysprod/10257701_001?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "width": 1000,
+      "height": 887,
+      "bytes": 82219,
+      "sha256": "a7522143170dc789f2179ed2996ae819798598a46a56f3df213878dd8aeb2022"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://media.currys.biz/i/currysprod/10257701_002?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "width": 1000,
+      "height": 887,
+      "bytes": 139768,
+      "sha256": "fd52365afe6edfcf636713753cdbfbdd8b01c34b620dd597850c8b39d83f81fb"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://media.currys.biz/i/currysprod/10257701_003?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "width": 1000,
+      "height": 887,
+      "bytes": 152713,
+      "sha256": "5b3fcf8e9158e978e6cc020cdca6c688cda8e9b95c72bd251076f7f0bd410c7d"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://media.currys.biz/i/currysprod/10257701_004?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "width": 1000,
+      "height": 887,
+      "bytes": 111410,
+      "sha256": "9aac942d1d3b7c2a315d4f3459b9b683a811bedd2cbe7e2a581fd5f0a77e43c1"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://media.currys.biz/i/currysprod/10257701_005?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "width": 1000,
+      "height": 887,
+      "bytes": 133954,
+      "sha256": "3652ef9899b5da710243a55109ace8612918df492d78feecc81d530bf368b13b"
+    },
+    {
+      "file": "logo-01.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "repo produkty-media/beko-ceg7304x/logo-01.png (logo marki BEKO)",
+      "width": 960,
+      "height": 170,
+      "bytes": 5508,
+      "sha256": "300be403576c2da2256f9f9d04fc350e36c7b0fa5dfea09dfa3bfb2c23601f99"
+    }
+  ],
+  "dropped": 0,
+  "visualIdentityCheck": "PASS"
+}
