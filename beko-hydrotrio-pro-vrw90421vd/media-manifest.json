@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T20:42:05.526613Z",
+  "sourcePage": "https://www.beko.com/pl-pl/produkty/odkurzacze-pionowe/odkurzacz-bezprzewodowy-400-w-hydrotrio-pro-vrw-90421-vd",
+  "slug": "beko-hydrotrio-pro-vrw90421vd",
+  "model": "VRW 90421 VD (HydroTrio Pro, kod SAP 8917511200)",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-01.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.beko.com/content/dam/poland-pl-aem/poland-pl-aemProductCatalog/product-images/8917511200-HydroTrio-Pro-VRW-90421-VD/8917511200-MDM2-LOW-1.png/jcr:content/renditions/original",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 148184,
+      "sha256": "9f9aa9a8e194285eeaca225cdd4132f0c720d59410cdf63ef4ed6f4b701f1907"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.beko.com/content/dam/poland-pl-aem/poland-pl-aemProductCatalog/product-images/8917511200-HydroTrio-Pro-VRW-90421-VD/8917511200-MDM2-LOW-2.png/jcr:content/renditions/original",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 114726,
+      "sha256": "c9142f3082624d2e938bbdfdbcddff8b69b99d7ff101a173ea0eedaa12a3439a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.beko.com/content/dam/poland-pl-aem/poland-pl-aemProductCatalog/product-images/8917511200-HydroTrio-Pro-VRW-90421-VD/8917511200-MDM2-LOW-3.png/jcr:content/renditions/original",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 86647,
+      "sha256": "6b2adc4eb7f957789f9ed62e5b7872baab0ecaeedbd6fbebc1e214c072de888b"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.beko.com/content/dam/poland-pl-aem/poland-pl-aemProductCatalog/product-images/8917511200-HydroTrio-Pro-VRW-90421-VD/8917511200-MDM2-LOW-4.png/jcr:content/renditions/original",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 132129,
+      "sha256": "c6d0e272760efd782de99926e28544ff677834296bf9a280f595011172139317"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.beko.com/content/dam/poland-pl-aem/poland-pl-aemProductCatalog/product-images/8917511200-HydroTrio-Pro-VRW-90421-VD/8917511200-MDM2-LOW-5.png/jcr:content/renditions/original",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 172038,
+      "sha256": "762382a9472166efa9da3a322fd012452988639f65e3ae8d61f7e84032609084"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.beko.com/content/dam/poland-pl-aem/poland-pl-aemProductCatalog/product-images/8917511200-HydroTrio-Pro-VRW-90421-VD/8917511200-MDM2-LOW-6.png/jcr:content/renditions/original",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 227617,
+      "sha256": "461f8a8a83b25830eaeb1250ebf40ce2f2dcf354b92bbb734233216aa869d9b7"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.beko.com/content/dam/poland-pl-aem/poland-pl-aemProductCatalog/product-images/8917511200-HydroTrio-Pro-VRW-90421-VD/8917511200-MDM2-LOW-7.png/jcr:content/renditions/original",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 143213,
+      "sha256": "c63d2ad79c243b94f65e00272014e14546a50800232815d419b1d61a79ea5d11"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.beko.com/content/dam/poland-pl-aem/poland-pl-aemProductCatalog/product-images/8917511200-HydroTrio-Pro-VRW-90421-VD/8917511200-MDM2-LOW-8.png/jcr:content/renditions/original",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 127801,
+      "sha256": "80d9cb4f1d8a43da6a5ead02eea96f398670f35ee75ab2ff000d2a0c8bb81e70"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.beko.com/content/dam/poland-pl-aem/poland-pl-aemProductCatalog/product-images/8917511200-HydroTrio-Pro-VRW-90421-VD/8917511200-MDM2-LOW-9.png/jcr:content/renditions/original",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 131147,
+      "sha256": "b907d15b5597ebf6b686ecb2d73fa7dfc549f2f16dadc3a295fa75db392a4446"
+    },
+    {
+      "file": "logo-01.png",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "repo produkty-media/beko-ceg7302b/logo-01.png (logo marki BEKO)",
+      "width": 960,
+      "height": 170,
+      "bytes": 5508,
+      "sha256": "300be403576c2da2256f9f9d04fc350e36c7b0fa5dfea09dfa3bfb2c23601f99"
+    }
+  ],
+  "dropped": 0,
+  "visualIdentityCheck": "PASS"
+}
