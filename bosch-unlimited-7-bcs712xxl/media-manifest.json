@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T19:06:15.357Z",
+  "sourcePage": "https://www.bosch-home.pl/lista-produktow/BCS712XXL",
+  "slug": "bosch-unlimited-7-bcs712xxl",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "produkt-15.webp",
+    "produkt-16.webp",
+    "produkt-17.webp",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "note": "packshot: odkurzacz z elektroszczotka + akcesoria + wymienny akumulator",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/17774286_BCS712XXL_STP_def.webp",
+      "width": 1166,
+      "bytes": 74032,
+      "sha256": "593eb408b68e318385e18c73f1eee1b015110759d6c333f7e54f7b94288069fa"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "note": "elektroszczotka z podswietleniem LED na podlodze twardej",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19535765_website_HC_T14_BKS711XXL_BCS711EXT_BCS712XXL_SecondaryImage01_def.webp",
+      "width": 1600,
+      "bytes": 520472,
+      "sha256": "133c775a1aa02bb9895825f4b2e62a0e99613f8a3ef28259c8a8904ab2cd6cc1"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "note": "tryptyk: odkurzacz przy meblach, zginana rura pod stolem, elektroszczotka LED",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19535598_website_HC_T14_BKS711XXL_BCS711EXT_BCS712XXL_SecondaryImage02_def.webp",
+      "width": 1600,
+      "bytes": 158476,
+      "sha256": "ce90975dc4f223b098523adf76e66b7f2dca2933e5d61fb0f1f7a59e51d1db74"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "note": "odkurzanie dywanu pod stolikiem kawowym",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19535596_website_HC_T14_BKS711XXL_BCS711EXT_BCS712XXL_SecondaryImage03_def.webp",
+      "width": 1600,
+      "bytes": 215546,
+      "sha256": "f12a8513505ca7788e319ccd205ec25a791a05f4e09ab13c1e0ac7dd94ef4b04"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "note": "odkurzanie w salonie, stacja dokujaca na scianie",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19535752_website_HC_T14_BKS711XXL_BCS711EXT_BCS712XXL_SecondaryImage04_def.webp",
+      "width": 1600,
+      "bytes": 137242,
+      "sha256": "8bf7e3bc370639c726ea863ef37d065c0c655b03d744cb599de7432dab6c3250"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "note": "elektroszczotka przy zabudowie kuchennej",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19535750_website_HC_T14_BKS711XXL_BCS711EXT_BCS712XXL_SecondaryImage05_def.webp",
+      "width": 1600,
+      "bytes": 49598,
+      "sha256": "5eb21b4e053001325fb801db6a50a9cbdeb285f711b66adb58ffde0354f88c98"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "note": "odkurzanie schodow odkurzaczem recznym",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19535754_website_HC_T14_BKS711XXL_BCS711EXT_BCS712XXL_SecondaryImage06_def.webp",
+      "width": 1600,
+      "bytes": 144710,
+      "sha256": "9e77a68f54b57c0ecd78c8555bc079e6ba99442d09747f1a0a23ca7ff44b6960"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "note": "stacja dokujaca i zblizenie klipsa parkowania",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19535758_website_HC_T14_BKS711XXL_BCS711EXT_BCS712XXL_SecondaryImage08_def.webp",
+      "width": 1600,
+      "bytes": 101502,
+      "sha256": "67c5da1736a84d8ded45313976221333629783a86bf7476b48b754fbddc7a01d"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "note": "zblizenie elektroszczotki z podswietleniem LED",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19535763_website_HC_T14_BKS711XXL_BCS711EXT_BCS712XXL_SecondaryImage09_def.webp",
+      "width": 1600,
+      "bytes": 111170,
+      "sha256": "575ccdbb371292c972c68c93a2839f18913c44833683df92a32199b5e1392038"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "note": "ssawka szczelinowa przy laptopie i biurku",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19536836_website_HC_T14_BCS712XXL_SecondaryImage11_def.webp",
+      "width": 1600,
+      "bytes": 128432,
+      "sha256": "f4e72cf6ee9bd4bf90be9763e4a99c4ccdb03d14040984bec6552deef4cadf37"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "note": "odkurzanie wnetrza samochodu",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19536840_website_HC_T14_BCS712XXL_SecondaryImage13_def.webp",
+      "width": 1600,
+      "bytes": 225824,
+      "sha256": "26d0554cbbe09181e39eb4b7e2c9568ed78a33262ee3a65c0a68cfffbe8eb7d9"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "note": "odkurzanie kanapy odkurzaczem recznym",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19536842_website_HC_T14_BCS712XXL_SecondaryImage14_def.webp",
+      "width": 1600,
+      "bytes": 322540,
+      "sha256": "f632bfd0ebc2d05b44708f839d1e1513f58939c7c4d575aa13ce00a66cbb5922"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "note": "odkurzacz w stacji dokujacej w korytarzu",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19536844_website_HC_T14_BCS712XXL_SecondaryImage15_def.webp",
+      "width": 1600,
+      "bytes": 69102,
+      "sha256": "6f6b89035725eb9b6009c10acdf54fde4f0ca154f4fec01234021c5a1b0253ca"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "note": "opoznianie pojemnika na kurz",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19536846_website_HC_T14_BCS712XXL_SecondaryImage16_def.webp",
+      "width": 1600,
+      "bytes": 105960,
+      "sha256": "a5eb012ebea8a5660e80e47e4c044ceb91a599db69d3214d1b994022544e1cb8"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "note": "wyjmowanie pojemnika i czyszczenie filtra",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19536847_website_HC_T14_BCS712XXL_SecondaryImage17_def.webp",
+      "width": 1600,
+      "bytes": 80110,
+      "sha256": "6d4e4031e5b10abe094a498a97c1c03704766a3b7020ce12f49f6148e77523af"
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "note": "elektroszczotka LED na ciemnej podlodze",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19536849_website_HC_T14_BCS712XXL_SecondaryImage18_def.webp",
+      "width": 1600,
+      "bytes": 152226,
+      "sha256": "6a5490c52fb724ba565674ee6f28d0c65646aafa3f2714e6b4a3b3bd8dbfe7c3"
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 17,
+      "note": "odkurzanie w jadalni, tryb pionowy i reczny",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19536853_website_HC_T14_BCS712XXL_SecondaryImage20_def.webp",
+      "width": 1600,
+      "bytes": 176292,
+      "sha256": "7346ac1863d4ce6b91498c32f75eb64a98e0d8bb435c1459f2148fd7acfb408f"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 18,
+      "note": "logo marki Bosch (AGD, bez dopisku Professional) — kopia z bosch-advancedvac-20",
+      "sourceUrl": "repo produkty-media/bosch-advancedvac-20/logo-bosch.jpg",
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ]
+}
