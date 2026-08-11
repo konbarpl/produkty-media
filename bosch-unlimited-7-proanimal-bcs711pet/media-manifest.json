@@ -1,0 +1,290 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T19:05:47.923281Z",
+  "sourcePage": "https://www.bosch-home.pl/lista-produktow/BCS711PET",
+  "slug": "bosch-unlimited-7-proanimal-bcs711pet",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "produkt-19.jpg",
+    "produkt-20.jpg",
+    "produkt-21.jpg",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "note": "packshot: odkurzacz + komplet akcesoriow (zestaw)",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/17774270_BCS711PET_STP_def.webp",
+      "sourceWidth": 2889,
+      "width": 1216,
+      "bytes": 165176,
+      "sha256": "89926729b99dc2b3f7bd28f736c69f0ba7c0644594a94f06bb227dffbeacaff0"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "note": "caly odkurzacz pionowy w salonie",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19539096_website_HC_T14_BCS71PETGB_BCS711PET_BBS711ANM_BKS711PET_SecondaryImage06_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 250648,
+      "sha256": "31667cee3983696f51e33fc03ce2534e9fea29b57aa9269ce148de7e1534a96d"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "note": "odkurzanie schodow i przedpokoju",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19539101_website_HC_T14_BCS71PETGB_BCS711PET_BBS711ANM_BKS711PET_SecondaryImage08_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 235883,
+      "sha256": "2f361c12a6ef569bfe28265d6ca1450f0f9059f3de7d154428034792afa1df37"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "note": "elektroszczotka ProAnimal przy psie",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19539068_website_HC_T14_BCS71PETGB_BCS711PET_BBS711ANM_BKS711PET_SecondaryImage02_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 210328,
+      "sha256": "b26a7bf2f65b33e8bdc6972f4576d130729f000fd972a7bfa545793cc5ae453d"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "note": "elektroszczotka ProAnimal Brush z oswietleniem LED",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19539069_website_HC_T14_BCS71PETGB_BCS711PET_BBS711ANM_BKS711PET_SecondaryImage03_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 261721,
+      "sha256": "07fd447a3efa4ea79278eec4de7f595afdd3346daa981cda3a671084306f6403"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "note": "zblizenie elektroszczotki z podswietleniem LED",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19539106_website_HC_T14_BCS71PETGB_BCS711PET_BBS711ANM_BKS711PET_SecondaryImage11_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 195714,
+      "sha256": "3e36785ef6edc5c43882fa53f355eaef7696670e6ac636d39b92b12457ca063f"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "note": "zbieranie zabrudzen z podlogi",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19539090_website_HC_T14_BCS71PETGB_BCS711PET_BBS711ANM_BKS711PET_SecondaryImage01_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 445943,
+      "sha256": "91271395157d0bfb43f60d855804ee2b489a67c8ad69ba0db4aec75691158f8b"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "note": "elektroszczotka na panelach, LED wlaczone",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19541682_website_HC_T14_BCS711PET_SecondaryImage23_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 350516,
+      "sha256": "d29295b83837b4e7d59df3324c708418da25a47025f66c4c673d0ba7f2e72f91"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "note": "zginana rura i waz przedluzajacy w uzyciu",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19541663_website_HC_T14_BCS711PET_SecondaryImage12_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 271622,
+      "sha256": "863e3a0bbfcaa559da1cb5cf49d6d7899b3d9ac3f3e824b3e5d91ec72fc6a44b"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "note": "odkurzacz reczny przy listwie i gniazdku",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19541674_website_HC_T14_BCS711PET_SecondaryImage18_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 200538,
+      "sha256": "58272dc2a8fedb63655563bc3807f4ce5c823113a60f80915436f6fbc2c4be00"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "note": "odkurzacz reczny przy koszu",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19541662_website_HC_T14_BCS711PET_SecondaryImage13_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 234787,
+      "sha256": "b1dba76e895ce734f6dd6aa437a9b1aeb0def2b82bcb96f9b4ce29c95b255cfa"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "note": "mini elektroszczotka ProAnimal na tkaninie",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19541664_website_HC_T14_BCS711PET_SecondaryImage14_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 165308,
+      "sha256": "da8bc328ac95d4fbc6bacbb5077d5740f26e4f823180495496506e55dc9f4858"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "note": "ssawka do materacy",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19541669_website_HC_T14_BCS711PET_SecondaryImage16_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 141142,
+      "sha256": "f8fd3e2cbec70319feff73e96534858f40d361e82a06705db7b809dc43ec5f56"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "note": "ssawka 2w1 do mebli i tapicerki",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19541676_website_HC_T14_BCS711PET_SecondaryImage19_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 195508,
+      "sha256": "3bcd4e223cd4d8000e6fa15e345c0c2aee7dc6ad13ba975d52d80c3b0b7122de"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 15,
+      "note": "elastyczny waz przedluzajacy",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19541670_website_HC_T14_BCS711PET_SecondaryImage17_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 302234,
+      "sha256": "48f97552701789772bbc512c79041131fc67c5acdfa12a8533c3eea102b09e38"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "product",
+      "order": 16,
+      "note": "oproznianie pojemnika na kurz",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19541680_website_HC_T14_BCS711PET_SecondaryImage21_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 190309,
+      "sha256": "b14fcdb38c85e79ff23e40625dc5c5753aeefbc8c2e514b4785c86230f4afd3f"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "product",
+      "order": 17,
+      "note": "wyjmowanie filtra z pojemnika",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19541681_website_HC_T14_BCS711PET_SecondaryImage22_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 190466,
+      "sha256": "2540b7684014449f6771688d7eff2a9923eef44bc3e49e0b9297113f827f5a28"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "product",
+      "order": 18,
+      "note": "klips Easy Parking Clip - odstawianie odkurzacza",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19539107_website_HC_T14_BCS71PETGB_BCS711PET_BBS711ANM_BKS711PET_SecondaryImage10_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 194761,
+      "sha256": "2e88df0f7a8fe11b9bf849a16461341d7de672191b294f468108846ec4aa57ea"
+    },
+    {
+      "file": "produkt-19.jpg",
+      "kind": "product",
+      "order": 19,
+      "note": "stacja dokujaca przy scianie",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19541675_website_HC_T14_BCS711PET_SecondaryImage20_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 144424,
+      "sha256": "969a7b0c79c9bef0976903cc2091ca9d3d52bfa36ac19a15315dd2b3f3ed509d"
+    },
+    {
+      "file": "produkt-20.jpg",
+      "kind": "product",
+      "order": 20,
+      "note": "wymienny akumulator Power for All 18 V",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19539102_website_HC_T14_BCS71PETGB_BCS711PET_BBS711ANM_BKS711PET_SecondaryImage09_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 205087,
+      "sha256": "1de3d988fe8f2e5115da374c96b988b002ff16fd296be470a7c15862c7923d19"
+    },
+    {
+      "file": "produkt-21.jpg",
+      "kind": "product",
+      "order": 21,
+      "note": "odkurzanie roznych rodzajow podlog",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19539100_website_HC_T14_BCS71PETGB_BCS711PET_BBS711ANM_BKS711PET_SecondaryImage07_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 248715,
+      "sha256": "ea0eb7b8140a5bf0f856732f0284d026a50abc5f4b5646617a7c8305eb295b34"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 22,
+      "note": "logo marki BOSCH (linia AGD) - koniec galerii",
+      "sourceUrl": "repo: bosch-advancedvac-20/logo-bosch.jpg",
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "rejected": [
+    {
+      "file": "19539094_..._SecondaryImage04_def.webp",
+      "reason": "kolaz dublujacy ujecia 06/08"
+    },
+    {
+      "file": "19539095_..._SecondaryImage05_def.webp",
+      "reason": "kolaz dublujacy ujecia lifestyle"
+    },
+    {
+      "file": "19541685_..._SecondaryImage24_def.webp",
+      "reason": "wtopiona plakietka reklamowa MADE IN GERMANY"
+    },
+    {
+      "file": "19541686_..._SecondaryImage25_def.webp",
+      "reason": "lifestyle dublujacy ujecie 07"
+    }
+  ]
+}
