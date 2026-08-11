@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T19:02:18.747036Z",
+  "sourcePage": "https://www.bosch-home.pl/lista-produktow/BCS712HYG5",
+  "slug": "bosch-unlimited-7-prohygienic-aqua-bcs712hyg5",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "produkt-17.webp",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "note": "packshot",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/23255934_BCS712HYG5_STP_def.webp",
+      "sourceWidth": 2717,
+      "width": 1600,
+      "bytes": 182306,
+      "sha256": "cf753fab5b98d715117051aa87cb1efc4f857945c0eee47e513b612de9dc73da"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702692_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-01_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 158008,
+      "sha256": "9bb062d9d89a809f0462102dcded953b7843af181782eb322ef0009c7f331029"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702691_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-02_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 188172,
+      "sha256": "de660f8ffbfaad40344a105633ea6f152bb678b56eda55a850eb58063d8e1228"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702693_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-03_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 296104,
+      "sha256": "bced41b73123b4798241d1d5b05873c75e6b52a47b3ae82cd0b14fd834d1f009"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702697_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-04_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 92870,
+      "sha256": "f75d1ddf4b7ab6ee87b6cf47fcc25ab136419784fa4c6b8b1704210e5cc53d06"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702698_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-05_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 354864,
+      "sha256": "50c77ac1b5089943a452b44704949be8fc0397fde8a7530aae02fa5c1a17d81d"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702700_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-06_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 207424,
+      "sha256": "6dc3915326bce077ba38823866c5b7eec9e339137d86ee4e0e928907528c87be"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702702_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-07_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 137724,
+      "sha256": "5b511f102785a4ffdc70a0b8d8cddef79783a29389239cbc9e5fbbe3099068b8"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702703_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-08_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 142434,
+      "sha256": "25a7001e7b51f2dad1b3b37394e4de3cb97f20bde5a25493255d94b767ea4d5c"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702707_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-09_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 215236,
+      "sha256": "74278af00a402f15b4525b634e87e227138340906f4435d3a647abf4a98a6532"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702709_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-10_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 272424,
+      "sha256": "443c5b600b99af9c77ea76f87e96ee47f89fd5591ffe5b57c80a9289ff16d0f3"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702708_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-11_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 94116,
+      "sha256": "59dc3bb8d733f09547af66a52784bfe61f5d25e8f1e17b5d804e6d28630b5a23"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702714_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-12_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 212248,
+      "sha256": "32356d641369e2942771f678178ff12ab1bf73a8fe842e973f73a87b155247d9"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702713_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-13_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 145404,
+      "sha256": "12cd1fb433f641589e28eb09a96695b03d4e062f6fc1204880ada028e9b8cd46"
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 15,
+      "note": "zdjecie karty producenta",
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24702719_BSH-EN-BO_HC_T17_BCS712HYG5_General_SecImg-16_plain_3200x1800_def.webp",
+      "sourceWidth": 3200,
+      "width": 1600,
+      "bytes": 59256,
+      "sha256": "3950dce8bdae9ac638cb5b56013fce4034d13b7541f057d066e657916b73fd42"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 16,
+      "note": "logo marki Bosch (bez oznaczen Professional)",
+      "sourceUrl": "repo mediow: bosch-advancedvac-20/logo-bosch.jpg",
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "excluded": [
+    {
+      "file": "produkt-16.webp",
+      "reason": "plakietka 10 YEAR MOTOR GUARANTEE - zakaz gwarancji w ofertach"
+    },
+    {
+      "file": "produkt-15.webp",
+      "reason": "grafika Power for All z urzadzeniami spoza zestawu"
+    }
+  ]
+}
