@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T20:18:24.398511Z",
+  "sourcePage": "https://www.jimmyglobal.com/Vacuum-Washer/jimmy-hw9-cordless-vacuumwasher",
+  "slug": "jimmy-hw9",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "logo-jimmy.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "note": "packshot pionowy calego urzadzenia na bialym tle",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1690349238823058.jpg",
+      "width": 500,
+      "height": 900,
+      "bytes": 28060,
+      "sha256": "4f1b2362783abb7b942f2a057ffbe2fe974ce03cbe0abaaaad3126774d41766f"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "note": "packshot poziomy: korpus, rura, uchwyt i szczotka na bialym tle",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1690264652727458.png",
+      "width": 1200,
+      "height": 441,
+      "bytes": 39895,
+      "sha256": "00d0b2b5468b6aa6e97cb76e685078c0233b00ad9e55000b7fe20d86f0a0ed72"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "note": "zawartosc zestawu: urzadzenie glowne, akumulator, stojak na akcesoria, baza ladujaca, szczotka czyszczaca, zasilacz, plyn",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1690265939736822.jpg",
+      "width": 1920,
+      "height": 900,
+      "bytes": 86908,
+      "sha256": "7d0881af1578ef0f7e8c87e5544235d1701c2bfd7b75336e9225da72217b2545"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "note": "odkurzanie i mycie w jednym przejsciu - mokre i suche zabrudzenia na podlodze",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1690265251449699.jpg",
+      "width": 1920,
+      "height": 720,
+      "bytes": 315777,
+      "sha256": "7a81d9fa2cefccc8b6d80b669a6a2e29d2a4cb1b9422abe9890815d7bff3bfef"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "note": "urzadzenie polozone plasko przy sprzataniu pod meblami",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1690265288886308.jpg",
+      "width": 1920,
+      "height": 720,
+      "bytes": 282727,
+      "sha256": "96ace626a69364c3415a3a2506a5ec67764d88e9be3ff509afd42d40e2036107"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "note": "czyszczenie przy krawedzi podlogi i przy zabudowie",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1690265491434306.jpg",
+      "width": 900,
+      "height": 869,
+      "bytes": 121970,
+      "sha256": "d3bab011f1985bf340421210ea9423a0b90ea1f697a4693d1f6bad879d0fda37"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "note": "spryskiwanie woda i panel sterowania: spray, wlacznik, tryb",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1690265638592841.jpg",
+      "width": 900,
+      "height": 869,
+      "bytes": 140239,
+      "sha256": "e838376849385ea1013d7567d04354eeb878ea1c4ebabc9384b913181b366f08"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "note": "wyswietlacz LED na korpusie",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1690265682753967.jpg",
+      "width": 900,
+      "height": 869,
+      "bytes": 108727,
+      "sha256": "af30c3bd31bfc14625dd179dce0a016f04a3941df44d3a6d1649b030a26a3e7e"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "note": "zbiornik czystej wody z jonami srebra",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1690265720648721.jpg",
+      "width": 900,
+      "height": 869,
+      "bytes": 125402,
+      "sha256": "f92cc0e54dfd13b64d73bc2ee458d01c56db91ef85599f8ce0976db526ed1af9"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "note": "samoczyszczenie szczotki w bazie",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1690265768402825.jpg",
+      "width": 900,
+      "height": 869,
+      "bytes": 141197,
+      "sha256": "6d6e614280c8c26d9babc0ec998993a7e776fed6b0731d66eeb113d6f8fbc1bc"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "note": "zbiorniki czystej i brudnej wody po 400 ml",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1690265832584326.jpg",
+      "width": 900,
+      "height": 869,
+      "bytes": 213997,
+      "sha256": "4264af503eb91c50a540e654cf3d3ed8fc298a3c84c607d51412328e93a1f4e8"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "note": "wyjmowany akumulator oraz separacja czesci stalych od cieczy",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1690265877180976.jpg",
+      "width": 900,
+      "height": 869,
+      "bytes": 88411,
+      "sha256": "c099e5303e79439afab9bd705c627758b137321f669d03487a4c676205a00292"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "note": "wodoodporny silnik bezszczotkowy IPX8",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1690265207245815.jpg",
+      "width": 1920,
+      "height": 720,
+      "bytes": 193668,
+      "sha256": "218f6f471e2f14e6cadc7340f2a9508ddbb802fb0ad7ab58ea33a613caba8311"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "note": "baner produktowy JIMMY HW9 Cordless Vacuum & Washer",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1702272886352911.jpg",
+      "width": 1920,
+      "height": 720,
+      "bytes": 214993,
+      "sha256": "bec0d4fe468a8780e36ebd8a5dfa154be6ca0784b2eb5f5b13c294e093e26da6"
+    },
+    {
+      "file": "logo-jimmy.jpg",
+      "kind": "logo",
+      "order": 15,
+      "note": "logo marki JIMMY zlozone na bialym tle z oficjalnego naglowka jimmyglobal.com (upscale x3, marginesy)",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/logo/1614225024989684.png",
+      "width": 825,
+      "height": 200,
+      "bytes": 22725,
+      "sha256": "bcb459e8aec9cffa061e285724a435c0747aabd40480aaad17c1addf7ab51703"
+    }
+  ]
+}
