@@ -83,7 +83,9 @@
       "order": 8,
       "sourceUrl": "kopia z repo mediow: produkty-media/tefal-gc272d/logo-tefal.png",
       "bytes": 12693,
-      "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+      "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+      "width": 960,
+      "height": 206
     }
   ],
   "dropped": 0,
