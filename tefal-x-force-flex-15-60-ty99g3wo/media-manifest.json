@@ -1,0 +1,132 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-11T18:10:50.968Z",
+ "sourcePage": "https://www.tefal.pl/p/odkurzacz-bezprzewodowy-tefal-x-force-flex-1560-245-aw-160-min-mopowanie-2-baterie/2211401368",
+ "sourceNote": "Karta producenta tefal.pl (dump zwiadu G44: claude/erli-research/_tmp/zwiad-g44-2026-08-11/tefal_TY99G3WO.html). Galeria z pola \"img\" (1200x1200). Wszystkie pliki maja w nazwie zrodlowej marker wariantu (ty99g3 / 15.60 / 1560) — zdjecia blizniaczego TY99G1WO NIE weszly.",
+ "slug": "tefal-x-force-flex-15-60-ty99g3wo",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/1/5/15_60_nowe_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 118750,
+   "sha256": "42a43467e4b2ba168afa23641764ce19dd14c3769831b3562ed5ff0aad3688d0"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/1/_/1_1560_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 312705,
+   "sha256": "45de4e73ee505831fbcb7de62cf26aa6338c015380f5b1dec7b8e8c920dc88e0"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/2/_/2_1560_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 215057,
+   "sha256": "61d6762f70cf9d332868438e25341aee2a5cbea5ae01d005ec724ad2b6a0b461"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/3/_/3_1560_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 149875,
+   "sha256": "082b93a466edfcaf4a59a397e4e3b10e690fc7bc3ee054eb990d51065ce5f33b"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/4/_/4_1560_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 120628,
+   "sha256": "de8fe9a87219e2eedd1eb2e0c02b9139a1fb0aa8a2feea60ca9a6b3b79926c41"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/d/i/digital-tfl_ty99g3_x-force-flex-15.60-aqua-double-battery_h2.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 34151,
+   "sha256": "a8ebf5398ee3a5b5af0450f64b00ac996437ac77dfb9cc4af90ee1a6226b6889"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 7,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/t/f/tfl_ty99g3wo_x-force-flex-15.60_pwc2_pl_1_.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 121295,
+   "sha256": "bee22debbab1872f6ea180d92de82e86e071a02d450121abd427b54ee5a10654"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 8,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/t/f/tfl_ty99g3wo_x-force-flex-15.60_pwc3_pl_1_.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 193438,
+   "sha256": "0bdbe422d6533f6fd5071cf090ebb0aabd028834b8ec8ab1e7bf6320f58cf51b"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "description",
+   "order": 9,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/t/f/tfl_ty99g3wo_x-force-flex-15.60_pwc4_pl_1_.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 194726,
+   "sha256": "9f8f9749141ee5c016c7baa96b41a42cf3fb6b9dc801568c54fb7814063cd614"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "description",
+   "order": 10,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/t/f/tfl_ty99g3wo_x-force-flex-15.60_pwc5_pl_1_.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 124628,
+   "sha256": "d74c36c555d26bc82a3d1bfa5bf3d35b8c84c7858601ba5e695d676a0855cfaa"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 11,
+   "sourceUrl": "kopia z repo mediow: produkty-media/tefal-gc272d/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ]
+}
