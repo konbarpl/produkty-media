@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T18:34:28.504Z",
+  "sourcePage": "https://www.bosch-professional.com/pl/pl/products/gpb-18vh-6-src-06014A6200",
+  "slug": "bosch-gpb-18vh-6-src",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.webp",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/454101-54/application-image/full/radio-budowlane-pro-gpb-18vh-6-src-06014a6200.png",
+      "width": 705,
+      "bytes": 617553,
+      "sha256": "32f79db9a330df1c838d272d33edac41c993530668191cbad0ea156bdfcd2cac"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/467057-117/application-image/full/radio-budowlane-pro-gpb-18vh-6-src-06014a6200.jpg",
+      "width": 800,
+      "bytes": 61866,
+      "sha256": "303924d741bf89b14849cad3207f2e79818e40e5e608ee8bceb9b910c72523ac"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/467059-117/application-image/full/radio-budowlane-pro-gpb-18vh-6-src-06014a6200.jpg",
+      "width": 800,
+      "bytes": 84265,
+      "sha256": "c6e5f17999a2eaa375179b9bfdc90cca2def40fdc39be910e4d30230bf20409c"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/467063-117/application-image/full/radio-budowlane-pro-gpb-18vh-6-src-06014a6200.jpg",
+      "width": 800,
+      "bytes": 106485,
+      "sha256": "5de7692f99817d3abcb40a525ecce125b5077de01042dae99ff6e1960c9d2893"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/467065-117/application-image/full/radio-budowlane-pro-gpb-18vh-6-src-06014a6200.jpg",
+      "width": 800,
+      "bytes": 63048,
+      "sha256": "04a0d893d39951391f4e80c30a22a2e23c574da35ec49804886e49c2c242beb6"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/467067-117/application-image/full/radio-budowlane-pro-gpb-18vh-6-src-06014a6200.jpg",
+      "width": 800,
+      "bytes": 82692,
+      "sha256": "2be22ee0fd96a36df6de438bac5a9ce8a972bfd00d06f648ba38f30ede75aa3f"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/467069-117/application-image/full/radio-budowlane-pro-gpb-18vh-6-src-06014a6200.jpg",
+      "width": 800,
+      "bytes": 79242,
+      "sha256": "50bc003b1e886b413534c6c65d3dbf858a3da60d32019bef1b8a30b7175459f7"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/467075-117/application-image/full/radio-budowlane-pro-gpb-18vh-6-src-06014a6200.jpg",
+      "width": 800,
+      "bytes": 67435,
+      "sha256": "94baa9f897997a78825e13a54d45267363c123f5f57a159964ef854104c3055d"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/467077-117/application-image/full/radio-budowlane-pro-gpb-18vh-6-src-06014a6200.jpg",
+      "width": 800,
+      "bytes": 88394,
+      "sha256": "c0706eb7ac76e97054c9c5cedd8df0de8a784548e84727d07b7ee60841a8b815"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "dropshipping/materiały/logo/bosch.jpg",
+      "width": null,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "dropped": 0
+}
