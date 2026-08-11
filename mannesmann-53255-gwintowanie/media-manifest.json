@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T18:22:04.761Z",
+  "sourcePage": "https://www.br-mannesmann.com/products/gewindeschneidsatz-110-tlg",
+  "slug": "mannesmann-53255-gwintowanie",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "logo-mannesmann.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0572/7155/0138/files/4003315708476_01.jpg",
+      "width": 1200,
+      "bytes": 282247,
+      "sha256": "6f72092ddc2cd14089a3baea8c1d6e45b5009e28d5ca7dd0fb05762da09d217e"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0572/7155/0138/files/4003315708476_02.jpg",
+      "width": 1000,
+      "bytes": 286426,
+      "sha256": "a6cce390e222311b0491ba8b0c20d170e55af0169ab1b92852739437d19e27f8"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0572/7155/0138/files/53255_Gewindeschneidsatz_1.jpg",
+      "width": 945,
+      "bytes": 54121,
+      "sha256": "450b3d6058fb3854632a76766fa578a4d76106c02757c0b46d79e79b1dc5cb79"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0572/7155/0138/files/53255_Gewindeschneidsatz_2.jpg",
+      "width": 1181,
+      "bytes": 97034,
+      "sha256": "c0ec85bd54ede799a7ae97d1b9aa8aad36aef6880cca5ddb92008bfe3a67e993"
+    },
+    {
+      "file": "logo-mannesmann.jpg",
+      "kind": "logo",
+      "order": 5,
+      "sourceUrl": "dropshipping/materiały/logo/mannesmann.jpg",
+      "width": null,
+      "bytes": 46015,
+      "sha256": "9bc32b3fbbb6093808fe292bdde9d6137cd4aefe349018c1c73ebcb59a06bb6f"
+    }
+  ],
+  "dropped": 0
+}
