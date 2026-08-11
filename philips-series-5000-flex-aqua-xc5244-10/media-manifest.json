@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T18:08:27.768Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/XC5244_10.assets",
+  "slug": "philips-series-5000-flex-aqua-xc5244-10",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7cdfaf87_dd54_4f8a_bc4edc32cd53ab53?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "assetType": "D2P",
+      "bytes": 40966,
+      "sha256": "c077d87fdbab54199d6aa04ed211dcdecaa3d74466208e57171251123915acd6",
+      "caption": "XC5244_10_A1_3 quarter view standing_1x1"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6ca766fd_e7ba_4d52_964409b4d93e71c8?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "assetType": "D1P",
+      "bytes": 67380,
+      "sha256": "370c89d9ded80465c9ac1fec405d788e8e47868089d07fad0300c1d940e464fe",
+      "caption": "XC5244_10_A4_Bent view_1x1"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b539a4f4_ee85_4f1b_a26284b50a44931c?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "assetType": "D3P",
+      "bytes": 39163,
+      "sha256": "cfd0589d92c60bf13e2a9a77bdc7725dbc26a0cbf62e1131cc88de8b18a76495",
+      "caption": "XC5244_10_A6_Top view two parts + Aqua module_1x1"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_703809c6_83d8_4c32_897bfb9b9dbea0a3?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "assetType": "RTP",
+      "bytes": 108479,
+      "sha256": "88ce8c4c4dd2a75ccd320a6559af642254794f9cdacb347c17cf38553297c8e6",
+      "caption": "FC_2024_XC5244_PAP_Product with Accessories"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_205c40e8_0eac_4498_ab1012e7d4323a9e?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "assetType": "A2P",
+      "bytes": 198034,
+      "sha256": "091d763e2ae74c7aedd3bf56fa8e06e7fd9a4d623bf48a68644895201b91ea30",
+      "caption": "XC5244_10_F1_Product in use_1x1"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_be85dfa6_0b7f_4856_86934523ea8b97e1?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "assetType": "D4P",
+      "bytes": 207640,
+      "sha256": "fa62e69d9a100c5711a1effee29866dccaae360b4cb4ab40a3965554ebae7ca7",
+      "caption": "XC5244_10_F11_Flex hinge in use_1x1"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3313d84c_e091_469d_999410761948858b?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "assetType": "D5P",
+      "bytes": 182227,
+      "sha256": "ee56701c4c762683bd36322e23b45d21902fdaf888e734384d9512efbc0a0553",
+      "caption": "XC5244_10_F10_Plinth cleaning_1x1"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d1d234bd_ac1b_4dab_9cec3c966b6a5bbd?wid=1200&hei=1200&fmt=jpg&qlt=90",
+      "assetType": "APP",
+      "bytes": 188220,
+      "sha256": "16e94d4c29648f201142aaf0483a95e48b2aad3c398314ca15b423f9f67a3463",
+      "caption": "XC5244_10_F6_MTB tool in use_1x1"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "repo produkty-media/philips-ais6010-10/logo-philips.png",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "caption": "logo marki Philips"
+    }
+  ],
+  "curationNote": "produkt-09.jpg (asset A1P, podpis „XC5244_01_F2_Easy battery change”) USUNIETY przed publikacja — podpis wskazuje inny CTN (XC5244/01), a korpus na zdjeciu ma jasniejsza barwe niz packshoty XC5244/10. Bramka tozsamosci zdjec (zlecenie ETAP 1, 11.08.2026)."
+}
