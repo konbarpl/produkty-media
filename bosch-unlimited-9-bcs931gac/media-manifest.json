@@ -33,7 +33,10 @@
       "note": "packshot: odkurzacz z kompletem akcesoriow",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24415388_BCS931GAC_STP_def.webp",
       "bytes": 161618,
-      "sha256": "139829985b80e6389259ae615d9ec9da9352ebeace0fc48aec521053994490d6"
+      "sha256": "139829985b80e6389259ae615d9ec9da9352ebeace0fc48aec521053994490d6",
+      "width": 2464,
+      "height": 3919,
+      "sourceWidth": 2464
     },
     {
       "file": "produkt-02.webp",
@@ -42,7 +45,10 @@
       "note": "packshot: odkurzacz w pozycji stojacej",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26418840_BSH-BO_HC_T17_U9_BCS931GAC_def.webp",
       "bytes": 21272,
-      "sha256": "8833622c74b274678bddc72e6f8e1138de7e8de434ee51f8c36bd8f66863b937"
+      "sha256": "8833622c74b274678bddc72e6f8e1138de7e8de434ee51f8c36bd8f66863b937",
+      "width": 928,
+      "height": 1911,
+      "sourceWidth": 928
     },
     {
       "file": "produkt-03.webp",
@@ -51,7 +57,10 @@
       "note": "odkurzanie dywanu elektroszczotka",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713287_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-01_plain_3200x1800_def.webp",
       "bytes": 303878,
-      "sha256": "e59961e423679dbd42910e06bb3f361bfdc718a6415decdfa531de42ff1e917d"
+      "sha256": "e59961e423679dbd42910e06bb3f361bfdc718a6415decdfa531de42ff1e917d",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-04.webp",
@@ -60,7 +69,10 @@
       "note": "odkurzacz reczny w dloni, detal",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713288_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-02_plain_3200x1800_def.webp",
       "bytes": 389522,
-      "sha256": "aa1b98853513802ead497b5f4feff81adf7ce1da1e2a11e31eac8be9df9cd458"
+      "sha256": "aa1b98853513802ead497b5f4feff81adf7ce1da1e2a11e31eac8be9df9cd458",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-05.webp",
@@ -69,7 +81,10 @@
       "note": "elektroszczotka LED na roznych powierzchniach",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713292_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-03_plain_3200x1800_def.webp",
       "bytes": 561832,
-      "sha256": "538b9ea632f08519a2cbd50004c46b4b63b71f1029b15a992d99880e51d1cc94"
+      "sha256": "538b9ea632f08519a2cbd50004c46b4b63b71f1029b15a992d99880e51d1cc94",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-06.webp",
@@ -78,7 +93,10 @@
       "note": "wyswietlacz LED z trybami pracy",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713290_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-04_plain_3200x1800_def.webp",
       "bytes": 101824,
-      "sha256": "c1bd2737fc18935fb28984f78adab88bd121baa233fb896db1b64e375644683f"
+      "sha256": "c1bd2737fc18935fb28984f78adab88bd121baa233fb896db1b64e375644683f",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-07.webp",
@@ -87,7 +105,10 @@
       "note": "pojemnik na kurz z dzwignia kompresji",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713209_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-05_plain_3200x1800_def.webp",
       "bytes": 401452,
-      "sha256": "780335d7f6493738e3997299011f1d2bb107a18fccca106f78d53befbc477c1b"
+      "sha256": "780335d7f6493738e3997299011f1d2bb107a18fccca106f78d53befbc477c1b",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-08.webp",
@@ -96,7 +117,10 @@
       "note": "aranzacja: salon",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713260_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-06_plain_3200x1800_def.webp",
       "bytes": 283136,
-      "sha256": "e5f6d42f64a2c29d507e7d05dbfb57f1ca242e1ed2dd7d86677eed798c2d6782"
+      "sha256": "e5f6d42f64a2c29d507e7d05dbfb57f1ca242e1ed2dd7d86677eed798c2d6782",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-09.webp",
@@ -105,7 +129,10 @@
       "note": "elektroszczotka z podswietleniem LED",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713208_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-07_plain_3200x1800_def.webp",
       "bytes": 190992,
-      "sha256": "bf38e257258ea2eeb7dcdd8bc7569392c83e360269beb767167c2ffa356da40d"
+      "sha256": "bf38e257258ea2eeb7dcdd8bc7569392c83e360269beb767167c2ffa356da40d",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-10.webp",
@@ -114,7 +141,10 @@
       "note": "demontaz walka elektroszczotki",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713266_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-08_plain_3200x1800_def.webp",
       "bytes": 238406,
-      "sha256": "18a483ef1b70f952b10d14dc2651930f1d9ff7aa23a188d2966b525ddf39a2bb"
+      "sha256": "18a483ef1b70f952b10d14dc2651930f1d9ff7aa23a188d2966b525ddf39a2bb",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-11.webp",
@@ -123,7 +153,10 @@
       "note": "podswietlenie LED na podlodze twardej",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713264_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-09_plain_3200x1800_def.webp",
       "bytes": 178850,
-      "sha256": "246d9bc2bfa9db3bfbaf447d7236232e59d97918c118cf85d4e33b4ce0b8e82e"
+      "sha256": "246d9bc2bfa9db3bfbaf447d7236232e59d97918c118cf85d4e33b4ce0b8e82e",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-12.webp",
@@ -132,7 +165,10 @@
       "note": "oproznianie pojemnika do kosza",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713265_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-10_plain_3200x1800_def.webp",
       "bytes": 324454,
-      "sha256": "595cc26bfe775e6c88556e605429ea3a360d00cb327c217c708eca3170d04f09"
+      "sha256": "595cc26bfe775e6c88556e605429ea3a360d00cb327c217c708eca3170d04f09",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-13.webp",
@@ -141,7 +177,10 @@
       "note": "aranzacja: kuchnia",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713273_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-12_plain_3200x1800_def.webp",
       "bytes": 352752,
-      "sha256": "15b35a177f06681be1781fcbdaf56dd3ba0b69f0ea3b5600b144a208ad7ad5cf"
+      "sha256": "15b35a177f06681be1781fcbdaf56dd3ba0b69f0ea3b5600b144a208ad7ad5cf",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-14.webp",
@@ -150,7 +189,10 @@
       "note": "akumulator Power for All 18 V",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713271_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-13_plain_3200x1800_def.webp",
       "bytes": 154390,
-      "sha256": "dff40361831996b0d9ac19ca6525ddd992916f74125ac7695750882e4eb6f943"
+      "sha256": "dff40361831996b0d9ac19ca6525ddd992916f74125ac7695750882e4eb6f943",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-15.webp",
@@ -159,7 +201,10 @@
       "note": "stacja dokujaca",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713274_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-14_plain_3200x1800_def.webp",
       "bytes": 210970,
-      "sha256": "8c76054aa9e26b2adec0f1bf2b1dc3a2460e3bd89af9dadbf0e7dd9954c0d844"
+      "sha256": "8c76054aa9e26b2adec0f1bf2b1dc3a2460e3bd89af9dadbf0e7dd9954c0d844",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-16.webp",
@@ -168,7 +213,10 @@
       "note": "odkurzacz reczny w uzyciu",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713276_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-15_plain_3200x1800_def.webp",
       "bytes": 292674,
-      "sha256": "158fa4599b3dd778c710cf4bd8ed1b2173f6ef5c217a33bf94fae94afed1b6cc"
+      "sha256": "158fa4599b3dd778c710cf4bd8ed1b2173f6ef5c217a33bf94fae94afed1b6cc",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-17.webp",
@@ -177,7 +225,10 @@
       "note": "sprzatanie pod meblami",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713280_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-16_plain_3200x1800_def.webp",
       "bytes": 427912,
-      "sha256": "ee55be3a6bf32990448c1310cc59ae9c1fc7db3dee9313ded3d3f6d318fa9c93"
+      "sha256": "ee55be3a6bf32990448c1310cc59ae9c1fc7db3dee9313ded3d3f6d318fa9c93",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-18.webp",
@@ -186,7 +237,10 @@
       "note": "aranzacja: jadalnia",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713281_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-17_plain_3200x1800_def.webp",
       "bytes": 422134,
-      "sha256": "93e896d86060faa371e7b833b75590c2d04c3537bb6807482f22b51f10b8a87a"
+      "sha256": "93e896d86060faa371e7b833b75590c2d04c3537bb6807482f22b51f10b8a87a",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "produkt-19.webp",
@@ -195,7 +249,10 @@
       "note": "akcesoria i zblizenie urzadzenia",
       "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713282_BSH-EN-BO_HC_T17_BCS931GAC_General_SecImg-18_plain_3200x1800_def.webp",
       "bytes": 177808,
-      "sha256": "52f8395dbf01e1bed617007b9be569c50b6a9a24de66e4a25dc08e2deebe6f0f"
+      "sha256": "52f8395dbf01e1bed617007b9be569c50b6a9a24de66e4a25dc08e2deebe6f0f",
+      "width": 3200,
+      "height": 1800,
+      "sourceWidth": 3200
     },
     {
       "file": "logo-bosch.jpg",
@@ -204,7 +261,9 @@
       "note": "logo marki Bosch (linia AGD — logo korporacyjne, bez dopisku Professional)",
       "sourceUrl": "produkty-media/bosch-advancedvac-20/logo-bosch.jpg",
       "bytes": 51914,
-      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2",
+      "width": 1008,
+      "height": 226
     }
   ],
   "dropped": 2,
