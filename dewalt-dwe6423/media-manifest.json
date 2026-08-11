@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T20:05:27.981Z",
+  "sourcePage": "https://www.dewalt.pl/pl-pl/produkt/dwe6423-qs/szlifierka-mimosrodowa-125-mm-z-gornym-chwytem",
+  "slug": "dewalt-dwe6423",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "logo-dewalt.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://assets.dewalt.pl/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWE6423_K1_1680.webp",
+      "width": 1680,
+      "bytes": 267476,
+      "sha256": "650fde66a04778f837f60a1a3a54f5449ac9ba6d167c1c48e8c98667f0d81b23"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://assets.dewalt.pl/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWE6423_2_1680.webp",
+      "width": 1680,
+      "bytes": 175034,
+      "sha256": "bed9ce03b8b5a395bb09515a657bc3939219cbd36b4a0b29fbf35028d0e6e755"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://assets.dewalt.pl/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWE6423_3_1680.webp",
+      "width": 1680,
+      "bytes": 174604,
+      "sha256": "37cf4504765fcb53e53d35e60274a2ca00aae9a34f091b7298bf9d3c0d697e6c"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.dewalt.pl/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWE6423_A1_1680.webp",
+      "width": 1680,
+      "bytes": 104660,
+      "sha256": "d51a223b42bfd79f7f666e594d54b301d1f43cf8b759ee82699f44bf5358141f"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.dewalt.pl/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWE6423_A2_1680.webp",
+      "width": 1680,
+      "bytes": 111526,
+      "sha256": "b244b678029df96b932703ff4e46656dc04494d962f62316ddea4d3af267121a"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.dewalt.pl/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWE6423_A3_1680.webp",
+      "width": 1680,
+      "bytes": 102758,
+      "sha256": "aa512f29dbbb21fd734ef905f905f1437cca6b3ad09e6a436f6f8af9fc460d33"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://assets.dewalt.pl/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWE6423_A4_1680.webp",
+      "width": 1680,
+      "bytes": 98652,
+      "sha256": "51e18d61c20d070f2f9e99143a8c12a05c07e5fee4f82829d514749dc2c82de7"
+    },
+    {
+      "file": "logo-dewalt.jpg",
+      "kind": "logo",
+      "order": 1,
+      "sourceUrl": "dropshipping/materiały/logo/dewalt.jpg (repo lokalne, nie z karty)",
+      "width": 0,
+      "bytes": 58079,
+      "sha256": "300830acca3d425175f1344d089f523cb2d99851827f25933c0758d41bbd715b"
+    }
+  ],
+  "dropped": 0
+}
