@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T18:57:00.951Z",
+  "sourcePage": "https://www.dewalt.pl/produkt/dcs356n-xj/18v-xr-narzedzie-oscylacyjne-multi-tool-2-x-5ah",
+  "slug": "dewalt-dcs356n",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "logo-dewalt.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://assets.dewalt.pl/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DCS356N_K1_1680.webp",
+      "width": 1680,
+      "bytes": 63546,
+      "sha256": "9142a103daf9663a9d9ee635ed8179309a58f4f7ec21532377a2042d8492d359"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://assets.dewalt.pl/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DCS356N_2_1680.webp",
+      "width": 1680,
+      "bytes": 60896,
+      "sha256": "513acfc7d112962e9f94fd370461a700a6720e1ce0a1d8ae8e2fb0c001e5ee1b"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://assets.dewalt.pl/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DCS356N_3_1680.webp",
+      "width": 1680,
+      "bytes": 87834,
+      "sha256": "9950c20845dd7d2ede534ad10e6b6f8264b5384f20d85a475d29c18525d501a8"
+    },
+    {
+      "file": "logo-dewalt.jpg",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "dropshipping/materiały/logo/dewalt.jpg",
+      "note": "logo marki DeWalt, kopia lokalna z repo materiały/logo (wiedza/reference_logo_marek.md), na KONIEC galleryOrder"
+    }
+  ],
+  "dropped": 0
+}
