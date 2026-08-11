@@ -1,0 +1,464 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-11T20:46:31.875Z",
+ "sourcePage": "https://pl.gorenje.com/produkty/dom-i-opieka/odkurzacze/VACUUM-CLEANER-SVC296449NMBL-GOR/p/000000000000747440",
+ "slug": "gorenje-svc296449nmbl",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.png",
+  "produkt-06.png",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "produkt-14.jpg",
+  "produkt-15.jpg",
+  "produkt-16.jpg",
+  "produkt-17.jpg",
+  "produkt-18.jpg",
+  "produkt-19.jpg",
+  "produkt-20.jpg",
+  "produkt-21.jpg",
+  "produkt-22.jpg",
+  "produkt-23.jpg",
+  "produkt-24.jpg",
+  "produkt-25.jpg",
+  "produkt-26.jpg",
+  "produkt-27.jpg",
+  "produkt-28.jpg",
+  "produkt-29.jpg",
+  "produkt-30.jpg",
+  "produkt-31.jpg",
+  "produkt-32.jpg",
+  "produkt-33.jpg",
+  "produkt-34.jpg",
+  "logo-gorenje.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "note": "packshot: odkurzacz pionowy z akcesoriami i elastycznym wezem",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-6-1-6117616edcd19aaab0ff4183923e6d5b-337255-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDU2MDQ0fGltYWdlL2pwZWd8YUdVeEwyZzNNeTh4TlRnME9ETTVORGcxTURNek5DOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzgyTHpFdk5qRXhOell4Tm1Wa1kyUXhPV0ZoWVdJd1ptWTBNVGd6T1RJelpUWmtOV0pmTXpNM01qVTFYekl1YW5Cbnw2NjU1ZTA4NjFhMTQ4YWJjN2IyODNkNjQ0NDhjMDVkZWFkZmM2N2UxNzc4MGJiN2ZmNjUzNzE0MWIzMWQwODg5",
+   "width": 920,
+   "height": 1200,
+   "bytes": 24406,
+   "sha256": "764b0f0065fd5b09274914a45db95b9b149a47c806053f704494414f5424224a"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "note": "packshot bocznie, korpus antracytowy z pomaranczowymi akcentami",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-3-0-306d791d077ab2979588f45c1ea10ead-308241-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDQyMTIzfGltYWdlL2pwZWd8YURCakwyZ3hZUzh4TlRZMU5qWXlNelEzTWpZM01DOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzh6THpBdk16QTJaRGM1TVdRd056ZGhZakk1TnprMU9EaG1ORFZqTVdWaE1UQmxZV1JmTXpBNE1qUXhYekl1YW5Cbnw1ZjBhMzYyOTY3N2FkMDYxOGE3NGQ2Yzk2YTI1ZjA4NWE3YzU2Njg3ZmU1ZWE1ZTI4Nzg5MTAxZGJkMTBjYjAz",
+   "width": 737,
+   "height": 1200,
+   "bytes": 18428,
+   "sha256": "b80cb4055a74554921ba663bd0cb9cf812849a954c9ada992e444208a71f79af"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "note": "packshot frontalnie, pelna wysokosc",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-e-8-e89bc26a22e0b2ee680cb013582a0904-308240-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDIzNjcwfGltYWdlL2pwZWd8YURNNEwyZ3dNUzh4TlRZMU16WTVNekE1TlRrMk5pOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzlsTHpndlpUZzVZbU15Tm1FeU1tVXdZakpsWlRZNE1HTmlNREV6TlRneVlUQTVNRFJmTXpBNE1qUXdYekl1YW5Cbnw3NDNhMzU2OTgxZGNiMjZkNjBiMWY5ZThmOWFiNGU3NTY5Y2RlMDM4MzcwYmExMGYxYWNkNDMzM2E5MjZiYmQz",
+   "width": 333,
+   "height": 1200,
+   "bytes": 8280,
+   "sha256": "8ed77a370b5f0ea2cadff02a2165d27d285e64ef0872f7ebc96a9882bba3c7cf"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "note": "komplet wyposazenia: szczotki, waz Flexy, ladowarka, uchwyt scienny, akumulator",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-f-5-f53003a2de6e2fb5bd420d33c1da8b7c-308238-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDE1NTczOXxpbWFnZS9qcGVnfGFHTTVMMmd5TUM4eE5UWTFOall5TXpZMk9USTNPQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5bUx6VXZaalV6TURBellUSmtaVFpsTW1aaU5XSmtOREl3WkRNell6RmtZVGhpTjJOZk16QTRNak00WHpJdWFuQm58ZWU2NzI3NzJjNGY5YmMwOWFlMzExYmI5YTJkMzliMzk1NDYyMDU5YWMxNzY5MjkzZDc1OTc2MzlhODFlNjllNA",
+   "width": 1887,
+   "height": 1200,
+   "bytes": 66302,
+   "sha256": "8fcc4f0f2c734c2ff453f2b741595d88e2fd20836e85c40694951d89edfdf955"
+  },
+  {
+   "file": "produkt-05.png",
+   "kind": "product",
+   "order": 5,
+   "note": "grafika: uklad wielocyklonowy",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-5-9-59d52bb708a087488fb5f411a02b8452-308526-fpng.png?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDIyNzQxMjN8aW1hZ2UvcG5nfGFHSmtMMmhtWXk4eE5UYzVNRFl6TlRVeE5Ua3pOQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM4MUx6a3ZOVGxrTlRKaVlqY3dPR0V3T0RjME9EaG1ZalZtTkRFeFlUQXlZamcwTlRKZk16QTROVEkyWDJad2JtY3VjRzVufDM2NWY3OWQxNTc0M2JmZGU2NjExYWFmMGVkYzQ1YTY1ZmJiN2IzNzhmNTZjMTIzNDVjMWJiNDNiMDFmYTQ4Zjg",
+   "width": 2134,
+   "height": 1200,
+   "bytes": 48842,
+   "sha256": "904e4314c089381b55197954a0a29fc5f0d1e44c721650d0a8bf681b643840c3"
+  },
+  {
+   "file": "produkt-06.png",
+   "kind": "product",
+   "order": 6,
+   "note": "grafika: filtracja HEPA13",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-2-5-256239f8c6db078088f1b83caee4d87a-308525-2.png?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDk0MDgwOHxpbWFnZS9wbmd8YURFMEwyZzFOUzh4TlRrek5EQXhOamd4TlRFek5DOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzh5THpVdk1qVTJNak01Wmpoak5tUmlNRGM0TURnNFpqRmlPRE5qWVdWbE5HUTROMkZmTXpBNE5USTFYekl1Y0c1bnw3NjYwMGExYWU4NjUwZTViYTE4MDU4YTVlZGM5MWY1MmUyYjVjZDIxYzZjYzdlMTgzNjlhMjcwZmM4YTY1N2U2",
+   "width": 2560,
+   "height": 1082,
+   "bytes": 111440,
+   "sha256": "e30e9f784163eb0738513a4add462b0503b7f338f9f52d5abce78f2580526127"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "note": "zestaw do czesania zwierzat w uzyciu",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-6-8-68aead1b17347bdcabfc8c6f2ff657da-308457-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDg3MTM5fGltYWdlL2pwZWd8YURJekwyZ3dPUzh4TlRZMU16WTFOak16TURJM01DOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzgyTHpndk5qaGhaV0ZrTVdJeE56TTBOMkprWTJGaVptTTRZelptTW1abU5qVTNaR0ZmTXpBNE5EVTNYekl1YW5CbnwwYTQ0MTAzMDZlZDlhZDJjNWJlZGVlNzFlOWNmNDIwOTEzMjM4MTNhYmVkMDEyN2Y5NThmYzBkOWExYzJhM2Uw",
+   "width": 800,
+   "height": 1200,
+   "bytes": 45230,
+   "sha256": "a82f1418c9dad2b0240c68f623c0909aef2eba9d2d58abc715befa60c66febc4"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "note": "odkurzanie tapicerki kanapy",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-3-5-35cf5f83ff862af0ac413935e0a55be0-308256-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDE0OTQwNXxpbWFnZS9qcGVnfGFEQTVMMmd3T0M4eE5UWTFNelk1TXpJNU1qVTNOQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM4ekx6VXZNelZqWmpWbU9ETm1aamcyTW1GbU1HRmpOREV6T1RNMVpUQmhOVFZpWlRCZk16QTRNalUyWHpJdWFuQm58Zjg1MDAyNDdkNzMzOTcxYmMwMWMxMWM3ZjRjNjRlNTM2MGZhMjNhNjQ1ZTdiOTY5MmU3NTQ4MDI1MDkyNmYzZA",
+   "width": 1800,
+   "height": 1200,
+   "bytes": 75768,
+   "sha256": "2bafffa000bf2ee178689a413343700dd0c4454021581458bbf411929152d3ae"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "note": "tryb reczny — odkurzacz z mini szczotka turbo",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-b-0-b042c6fb20601c49a12ee18145ff2fb2-308247-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDEwMzE2N3xpbWFnZS9qcGVnfGFEWXlMMmc0Tnk4eE5UWTFOall5TkRVNE5qYzRNaTlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5aUx6QXZZakEwTW1NMlptSXlNRFl3TVdNME9XRXhNbVZsTVRneE5EVm1aakptWWpKZk16QTRNalEzWHpJdWFuQm58YmZiZTBjM2ExNTUzNjYwZjQyYmIzNzYyMWJkODg5NzM3ZDIxMWJjZjFkNjA5ZDg4OWRjMjg5NjA3MjQyOTMzZA",
+   "width": 1800,
+   "height": 1200,
+   "bytes": 43156,
+   "sha256": "a26994bf6f660365f6389134c044694587fbb5add2607e3d162c8769cb409bc8"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "note": "wyswietlacz LED z poziomem naladowania",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-f-5-f509869aec4e22003a0f3f730fa17dd4-308236-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDExNDI2MHxpbWFnZS9qcGVnfGFEWTBMMmd4Wmk4eE5UWTFNelk1TXprME56a3pOQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5bUx6VXZaalV3T1RnMk9XRmxZelJsTWpJd01ETmhNR1l6Wmpjek1HWmhNVGRrWkRSZk16QTRNak0yWHpJdWFuQm58N2Q0ZjI1Njk4ODcyNzdkNTc0NTU0MTljNDJmMTEyNjI0ZmMyMGZjODAyMTNlZGYwYjJkN2NiMzQ1NDJhNTNlZA",
+   "width": 1800,
+   "height": 1200,
+   "bytes": 49370,
+   "sha256": "a2fc935771149d8553202a28b9b4c2d93cb715f33e983508d82babe2fed050bc"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "note": "przechowywanie na uchwycie sciennym",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-f-0-f03434bd2f4502c2a1be05d3b066a020-308264-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDY1NjU2fGltYWdlL2pwZWd8YURabEwyZzNZaTh4TlRZMU16WTVORFV6TnpjMU9DOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzltTHpBdlpqQXpORE0wWW1ReVpqUTFNREpqTW1FeFltVXdOV1F6WWpBMk5tRXdNakJmTXpBNE1qWTBYekl1YW5Cbnw3MjJmM2ViM2EzYzBkZTVmNTRiZDM4YzA2MzY1MjM2NzJiOTUzYTNmNjNjNzBkNDNhYTFiM2U0NDU1YjZjMDc0",
+   "width": 800,
+   "height": 1200,
+   "bytes": 32720,
+   "sha256": "2de7a1eec6aca8eab7b663156780c9f4a6eef42759c89628546eda6003bdd5f1"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "note": "stacja/uchwyt ladujacy przy scianie",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-2-b-2b04e2693733c49c45618cbaf662404b-308488-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDQxODM4fGltYWdlL2pwZWd8YURNM0wyZzFOQzh4TlRZMU16WTJNREEyTlRneU1pOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzh5TDJJdk1tSXdOR1V5Tmprek56TXpZelE1WXpRMU5qRTRZMkpoWmpZMk1qUXdOR0pmTXpBNE5EZzRYekl1YW5CbnxmNDhjYjljNDk4MjZiNzUwOTgzMjdjZmEyMzkyYmQ5NDkzOWRmZTcyYTEwYzIxMjcxMGEzNTQyNGRmZDdjY2M2",
+   "width": 800,
+   "height": 1200,
+   "bytes": 14442,
+   "sha256": "e3059d758097a88ec7bd17ff15b88fe11dcd13cfcbc83ad1fc7f22dd09376cce"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "product",
+   "order": 13,
+   "note": "odkurzanie sufitu i lampy dzieki lekkiej konstrukcji",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-3-c-3c4e936fc4f86d417b41d69a63feb7b2-308484-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDY5ODk5fGltYWdlL2pwZWd8YURsaUwyZ3lPUzh4TlRZMU5qWXhPVGs1T1RJMk1pOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzh6TDJNdk0yTTBaVGt6Tm1aak5HWTRObVEwTVRkaU5ERmtOamxoTmpObVpXSTNZakpmTXpBNE5EZzBYekl1YW5CbnxmODYzOGFmYjNhNGQ4MDJiZmI2NmQ0NmM5YWU2NmI2Y2JlMjAyODg3N2NlZTUxNDFlZjdkNjFiOWFhYzY2ZjIz",
+   "width": 1800,
+   "height": 1200,
+   "bytes": 24118,
+   "sha256": "b35dd29a9c2b35d1a76d18664b34b845be083b09f9c4adbcfcbf6637eb4b9363"
+  },
+  {
+   "file": "produkt-14.jpg",
+   "kind": "product",
+   "order": 14,
+   "note": "filtr wylotowy H13",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-7-6-76f96cad6244d91e6e350662002fd53e-308481-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDExNjQ5NHxpbWFnZS9qcGVnfGFHTTRMMmhrTkM4eE5UWTFNelkyTWpFMk1qazNOQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM4M0x6WXZOelptT1RaallXUTJNalEwWkRreFpUWmxNelV3TmpZeU1EQXlabVExTTJWZk16QTRORGd4WHpJdWFuQm58YTFkODg0NzBmNDczNjgxOGRiOWMxOWEzODJiNzljZmU2YzBkYTA3OGIyMmQwYjBmZWU3ZWI2NDY4ZWNlNDE1Mw",
+   "width": 1188,
+   "height": 1200,
+   "bytes": 50758,
+   "sha256": "bd28c20ab393396048bebda30238a0872eaafc11852bbb886bf297a855ba6b49"
+  },
+  {
+   "file": "produkt-15.jpg",
+   "kind": "product",
+   "order": 15,
+   "note": "filtr wstepny — spod pojemnika",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-f-e-fee713b55554f14efdbb8a7d196305d7-308480-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDE2MzAxMnxpbWFnZS9qcGVnfGFEQTRMMmhrTVM4eE5UWTFNelkyTWpJNU5EQTBOaTlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5bUwyVXZabVZsTnpFellqVTFOVFUwWmpFMFpXWmtZbUk0WVRka01UazJNekExWkRkZk16QTRORGd3WHpJdWFuQm58NjIyZTAyNzQyZGFlYWVkM2I1ODUyMzJjZDA1NzFhZmZlNDExODRiMzExN2Y4YmVmMDJhMWY1MDZiNjg0ODBlYg",
+   "width": 1346,
+   "height": 1200,
+   "bytes": 92020,
+   "sha256": "07966d934091d46a5c1cd86c0493fc0ab1a1fd7a732405112f3856975c0a4903"
+  },
+  {
+   "file": "produkt-16.jpg",
+   "kind": "product",
+   "order": 16,
+   "note": "mini szczotka turbo (do tkanin)",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-b-a-ba455b94c40c1770047c74d0e4ad7124-308479-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDExNzU4MHxpbWFnZS9qcGVnfGFHWTVMMmhqWVM4eE5UWTFNelkyTWpReU5URXhPQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5aUwyRXZZbUUwTlRWaU9UUmpOREJqTVRjM01EQTBOMk0zTkdRd1pUUmhaRGN4TWpSZk16QTRORGM1WHpJdWFuQm58MTc3NWNiYWVkMGU2M2IyM2ZlM2NkNjA3OTEyNzliMTlhMjk2ZWQwNTQ1MzZmOGUzNjIzMTFjOWMwZWI4NGM0NQ",
+   "width": 1414,
+   "height": 1200,
+   "bytes": 49854,
+   "sha256": "1cf4a2bbc50587e0676fa8af71b6329584d755707d9d2324008a6ef76b6dbf2a"
+  },
+  {
+   "file": "produkt-17.jpg",
+   "kind": "product",
+   "order": 17,
+   "note": "odkurzacz zawieszony na uchwycie sciennym",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-0-e-0e2ee0e0835bd3ef973c8efaf7712008-308478-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDM4OTg0fGltYWdlL2pwZWd8YURKaEwyZzBNeTh4TlRZMU16WTNOamt3T0RVM05DOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzh3TDJVdk1HVXlaV1V3WlRBNE16VmlaRE5sWmprM00yTTRaV1poWmpjM01USXdNRGhmTXpBNE5EYzRYekl1YW5CbnxkNjAwZjZmYThlNWU1Y2FjMGVkNzFlMDExOGRmY2I2MzQ5M2ZjNzdiMjkxYjIzMmQ4ZGM2YzdlNTkzZWZmNjYw",
+   "width": 800,
+   "height": 1200,
+   "bytes": 14870,
+   "sha256": "d4cb4e52dc70a07ca3e81d83159599bba5f274a5b4585f95b2595c5bdb23445c"
+  },
+  {
+   "file": "produkt-18.jpg",
+   "kind": "product",
+   "order": 18,
+   "note": "szczotka wielopowierzchniowa z wyjeta rolka antysplataniowa",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-a-7-a71201c52af1f0965523b79d9bf7d686-308475-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDEwMTI2MnxpbWFnZS9qcGVnfGFHRmlMMmhpWXk4eE5UWTFNelkyTWpnNE16ZzNNQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5aEx6Y3ZZVGN4TWpBeFl6VXlZV1l4WmpBNU5qVTFNak5pTnpsa09XSm1OMlEyT0RaZk16QTRORGMxWHpJdWFuQm58MWMxNzg3YmFkNjk4NDEzMDFkMThlM2RhMzZhZjA4NmVmOGJiMWI2NmQyNDY1NDY3MDIxMDM0ZjE5ZGJiY2NhYw",
+   "width": 1265,
+   "height": 1200,
+   "bytes": 41376,
+   "sha256": "89162132022f898fc44ee2765775704e98bdfe004a7b9d97f3307531f5bf151a"
+  },
+  {
+   "file": "produkt-19.jpg",
+   "kind": "product",
+   "order": 19,
+   "note": "wnetrze szczotki podlogowej",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-a-4-a4ae8f587be39df9d14b5a47f7a5f0dd-308472-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDEzNzc1MHxpbWFnZS9qcGVnfGFEVTFMMmcwWmk4eE5UWTFNelkyTXprNU56azRNaTlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5aEx6UXZZVFJoWlRobU5UZzNZbVV6T1dSbU9XUXhOR0kxWVRRM1pqZGhOV1l3WkdSZk16QTRORGN5WHpJdWFuQm58MTViNGQyMjQyMTAxZWFlNDk4MTFkOGU1NDRmZWUyZTA5NzIwMzJlODE2YjBhYzJkNDE5YTI5YWQ3YzI2ZGQ2Yg",
+   "width": 1750,
+   "height": 1200,
+   "bytes": 60756,
+   "sha256": "3331387ac26ca169f06c1aa1a76e5fbb3c970134a618449c8e0b9dc6ddec4bbc"
+  },
+  {
+   "file": "produkt-20.jpg",
+   "kind": "product",
+   "order": 20,
+   "note": "odkurzanie pod meblami — diody LED szczotki",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-e-0-e07f49485ee0c28acedef195fddbec5f-308468-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDk3OTQ0fGltYWdlL2pwZWd8YURsa0wyZzNOUzh4TlRZMU16WTJOVFV3TlRNeE1DOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzlsTHpBdlpUQTNaalE1TkRnMVpXVXdZekk0WVdObFpHVm1NVGsxWm1Sa1ltVmpOV1pmTXpBNE5EWTRYekl1YW5CbnxmNWUxODkyZjJkNjg2OGViZmIzOTIxYWJlNzE3ZDk4ZTZlZGE1ZDZiZjBjMTFjMWFmNzI4NzFjOGRiMWVlMWZl",
+   "width": 1800,
+   "height": 1200,
+   "bytes": 36712,
+   "sha256": "750062c30a87fd86609d3e067e10912b64698651b9bf337c483f7c4d3d0cb030"
+  },
+  {
+   "file": "produkt-21.jpg",
+   "kind": "product",
+   "order": 21,
+   "note": "odkurzanie kanapy mini szczotka",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-3-9-39faa7e0c2486a3627acda271dd0292c-308466-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDE0MTE1MHxpbWFnZS9qcGVnfGFHVmpMMmc0TXk4eE5UWTFNelkyTlRrMk5EQTJNaTlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM4ekx6a3ZNemxtWVdFM1pUQmpNalE0Tm1Fek5qSTNZV05rWVRJM01XUmtNREk1TW1OZk16QTRORFkyWHpJdWFuQm58NzczM2FlMjc5ODNkZWRlYzdhNmU2ZjVjNDhhYTQ4ZjQxMjhkMWQ2Njk2Yjc0YTM2OGNlZjJkMWVkMzAwMjAwNA",
+   "width": 1800,
+   "height": 1200,
+   "bytes": 72476,
+   "sha256": "534826af66ce38ca26271f02205b6fb5c864fde3fdbac57581c9146c28c895b7"
+  },
+  {
+   "file": "produkt-22.jpg",
+   "kind": "product",
+   "order": 22,
+   "note": "ssawka szczelinowa przy oknie",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-5-8-587fcc6f70573d9fde1add686a400e13-308465-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDEwNTM0OHxpbWFnZS9qcGVnfGFEZzBMMmhsWVM4eE5UWTFNelkyTmpnNE1UVTJOaTlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM4MUx6Z3ZOVGczWm1Oak5tWTNNRFUzTTJRNVptUmxNV0ZrWkRZNE5tRTBNREJsTVROZk16QTRORFkxWHpJdWFuQm58ZmM0MzQ1ZWE3MGMyNzNjZTAwMjc2ZTI0OTk2MTM5YTAzNzFlZmE3NjRiOTFjMzUxMTIxYzcxYmQ1MjhhMDYxMA",
+   "width": 1800,
+   "height": 1200,
+   "bytes": 42350,
+   "sha256": "e4c55d052df6e8b17f2d6931152eee49b4c27d4f24cc951e0dbcf99045b92cb0"
+  },
+  {
+   "file": "produkt-23.jpg",
+   "kind": "product",
+   "order": 23,
+   "note": "szczotka na dywanie — podswietlenie LED",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-a-0-a0a3c1d786aed2859b2896e9e26284a1-308462-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDE2NDA0OXxpbWFnZS9qcGVnfGFHRTFMMmhrTWk4eE5UWTFOall5TURFNU5UZzNNQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5aEx6QXZZVEJoTTJNeFpEYzRObUZsWkRJNE5UbGlNamc1Tm1VNVpUSTJNamcwWVRGZk16QTRORFl5WHpJdWFuQm58YmY1OWI0YmU1ZjFhYmI5NTY4MmM1MmViN2Q4YWI0OWE1ZjY1MThmZTIyMDAyYmE1NmRiMDY4ZDNlMzQzNTFkMQ",
+   "width": 1800,
+   "height": 1200,
+   "bytes": 74424,
+   "sha256": "2642f36b20845fe5685a3aaa4d745d8f3c7726ce73b7df3f5a1529351bf72dc4"
+  },
+  {
+   "file": "produkt-24.jpg",
+   "kind": "product",
+   "order": 24,
+   "note": "akumulator 29,6 V Li-Ion",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-4-d-4d022f18f3d72698dbe5fd6047d0f5a4-308461-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDExNzI5OXxpbWFnZS9qcGVnfGFEZ3lMMmhsWkM4eE5UWTFNelkyTmprME56RXdNaTlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM4MEwyUXZOR1F3TWpKbU1UaG1NMlEzTWpZNU9HUmlaVFZtWkRZd05EZGtNR1kxWVRSZk16QTRORFl4WHpJdWFuQm58OWMxMzQyNDM3MGZhNjMwMjEzMWIzZTY4NTY2NzIwZDhhNjBkODc1NjczZjFlNTY0MmY4ODMxZTMwM2FiZjYxMg",
+   "width": 1938,
+   "height": 1200,
+   "bytes": 42926,
+   "sha256": "3c2ac54b8eef70a87303aa02f29f2c81f40829ad83d8ca1becb8413c86b34b43"
+  },
+  {
+   "file": "produkt-25.jpg",
+   "kind": "product",
+   "order": 25,
+   "note": "uchwyt z regulacja mocy",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-4-1-4140ca1bcd6e9caa813782fba5c992ef-308460-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDQ5NjY5fGltYWdlL2pwZWd8YURjMEwyaGtZeTh4TlRZMU5qWXlNRFExT0RBeE5DOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzgwTHpFdk5ERTBNR05oTVdKalpEWmxPV05oWVRneE16YzRNbVppWVRWak9Ua3laV1pmTXpBNE5EWXdYekl1YW5Cbnw4MmJlMGUxYmE0YjIxNWRkNjU5NGY0ZTE0MDIxMTlhNTkyMmIzMjIzNjcwYzg2MGRkOTQxOWE3MzNhNmZmZWRm",
+   "width": 800,
+   "height": 1200,
+   "bytes": 18534,
+   "sha256": "68eb233c2cc101b74a86fd1dbf283fadc9373b0f8fa6f214934fffe37012a9bc"
+  },
+  {
+   "file": "produkt-26.jpg",
+   "kind": "product",
+   "order": 26,
+   "note": "szczotka pod meblem — swiatlo LED",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-e-7-e7e4e87c3825d9011161a02e6f49e03d-308459-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDE2MjM3MnxpbWFnZS9qcGVnfGFEQXhMMmhqTkM4eE5UWTFNelkyTnpFME16Y3hNQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5bEx6Y3ZaVGRsTkdVNE4yTXpPREkxWkRrd01URXhOakZoTURKbE5tWTBPV1V3TTJSZk16QTRORFU1WHpJdWFuQm58YmMwZjI1MDQ0MTQ5MzBmNTgyMWJkNWI3ZTEzMmFiNDhmZWFkOTYyZWM5MjcxODgzNDFiOWNjYjk3YjliYTgzNg",
+   "width": 1800,
+   "height": 1200,
+   "bytes": 77904,
+   "sha256": "bf59b89b325a75ec342ea7c4bd16f83d33293c2c6d6789c69ae395c4a5e75a18"
+  },
+  {
+   "file": "produkt-27.jpg",
+   "kind": "product",
+   "order": 27,
+   "note": "pojemnik na kurz od spodu",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-c-b-cb652b6ffde34005a18cd595015a3523-308452-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDEwNzQ5OHxpbWFnZS9qcGVnfGFHSTFMMmhpTWk4eE5UWTFNelkyTnpZMk56azVPQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5akwySXZZMkkyTlRKaU5tWm1aR1V6TkRBd05XRXhPR05rTlRrMU1ERTFZVE0xTWpOZk16QTRORFV5WHpJdWFuQm58NjEyODg3NTdhMDJjMWY1N2EyN2IyNzcyMjVkOTI0YmM4NzhiNjQ2MzU3MGY4NmVhM2FkZjFlZDM1MTY3YmU4Nw",
+   "width": 1048,
+   "height": 1200,
+   "bytes": 51358,
+   "sha256": "447ba1f239865ec5fa6e0e5bebc3b1583e61381669d928d63aef13559e2947cd"
+  },
+  {
+   "file": "produkt-28.jpg",
+   "kind": "product",
+   "order": 28,
+   "note": "odkurzanie okruchow w kuchni",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-5-6-5669ed7915065472fe9121148fb5d469-308262-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDEwNTk5NHxpbWFnZS9qcGVnfGFEZG1MMmczWlM4eE5UWTFNelk1TkRZd016STVOQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM4MUx6WXZOVFkyT1dWa056a3hOVEEyTlRRM01tWmxPVEV5TVRFME9HWmlOV1EwTmpsZk16QTRNall5WHpJdWFuQm58M2I4NjdlYzE1Njg1NDVjNGQxYzNjNGZlMWNiNzE0MjY5NjRjYTdmNzEzY2U2OWU3NTAxNDQxMGRmNzA0ZDBjMw",
+   "width": 1800,
+   "height": 1200,
+   "bytes": 41566,
+   "sha256": "3fb46b4287627c3cafc4ff8f77b2aacf93449579830db0f7d594a07b7f94792d"
+  },
+  {
+   "file": "produkt-29.jpg",
+   "kind": "product",
+   "order": 29,
+   "note": "odkurzanie biurka ssawka szczelinowa",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-c-6-c6b25f46a6dd756b0afecdb53041885d-308259-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDE0NzYwOHxpbWFnZS9qcGVnfGFEQTNMMmhsTWk4eE5UWTFNelk1TlRRMU5USTJNaTlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5akx6WXZZelppTWpWbU5EWmhObVJrTnpVMllqQmhabVZqWkdJMU16QTBNVGc0TldSZk16QTRNalU1WHpJdWFuQm58NTJhODEwMGUwZTEyYjk5ZDQyNTZmYmVkM2VlZmQyNDQxNWQwYzIxMTJjMWNhM2EyNmU0ZjE4MzhhNDRiNTFkNw",
+   "width": 1800,
+   "height": 1200,
+   "bytes": 68460,
+   "sha256": "579259f68a346d6b8fe1bd6aa474d4bf1dbb6f29a670196a149cd19da4f0b338"
+  },
+  {
+   "file": "produkt-30.jpg",
+   "kind": "product",
+   "order": 30,
+   "note": "tryb reczny z dluga ssawka szczelinowa",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-2-5-2500d7d3931193b6a2e0f60beadebb31-308253-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDExNDg4M3xpbWFnZS9qcGVnfGFEVTBMMmhtTXk4eE5UWTFNelk1TlRrM09UVTFNQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM4eUx6VXZNalV3TUdRM1pETTVNekV4T1ROaU5tRXlaVEJtTmpCaVpXRmtaV0ppTXpGZk16QTRNalV6WHpJdWFuQm58YjFlNzE2MmZhMWIwNmE0MWMyNzFjMGI0MWQxYTQxZjRlNWFiYTExZjRlYmI4MzI4NzJlMjE3MGRhYzlhYzllOA",
+   "width": 1800,
+   "height": 1200,
+   "bytes": 37604,
+   "sha256": "cfcb76246c1097741fdc67f995522614c7a065b8424ae3fafe0c27ff14019ef1"
+  },
+  {
+   "file": "produkt-31.jpg",
+   "kind": "product",
+   "order": 31,
+   "note": "oproznianie pojemnika nad koszem",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-e-1-e1457143b2d9db159947aa71aba0c0f3-308252-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDk4ODQyfGltYWdlL2pwZWd8YUdSbEwyaGlaUzh4TlRZMU16WTVOakV4TURZeU1pOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzlsTHpFdlpURTBOVGN4TkROaU1tUTVaR0l4TlRrNU5EZGhZVGN4WVdKaE1HTXdaak5mTXpBNE1qVXlYekl1YW5CbnxkMTk3OGI3ZTc4ZDlkYWQ5ZThlYTczZGRiYjY2YTNhYTRlZjZiMzFiNmE5YjgzMDlkN2I3NGY0MWQ2N2NiMDll",
+   "width": 1800,
+   "height": 1200,
+   "bytes": 38624,
+   "sha256": "b5bb34b40a7e4ebf2f5fc0bde047ba32706569961e2c9f46e8997adcbc77936d"
+  },
+  {
+   "file": "produkt-32.jpg",
+   "kind": "product",
+   "order": 32,
+   "note": "odkurzanie podlogi drewnianej — widok z gory",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-e-a-ea7f84f574c6f0a1ac4c1dea1a2a50dd-308243-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDU0NTkyfGltYWdlL2pwZWd8YUdNeEwyaGhOaTh4TlRZMU16WTVOamd6TVRVeE9DOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzlsTDJFdlpXRTNaamcwWmpVM05HTTJaakJoTVdGak5HTXhaR1ZoTVdFeVlUVXdaR1JmTXpBNE1qUXpYekl1YW5CbnxiMGE4YWI5ZGZmMmVkZTQxN2NhZmQzNTJhOGMxYmE3NjE3NjdmZGRmZjBhZmFlYThkNjYzMzM3OWE5ODkxNTQx",
+   "width": 800,
+   "height": 1200,
+   "bytes": 22822,
+   "sha256": "9d293dc2a2f593a7d81ded3bb7d8dfbd66464eda05f25ba9430142b845ee5782"
+  },
+  {
+   "file": "produkt-33.jpg",
+   "kind": "product",
+   "order": 33,
+   "note": "odkurzanie sciany i listew",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-4-5-4588d0791adb72bf18ed39b8d9d325c2-308233-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDU1NzcyfGltYWdlL2pwZWd8YURrNUwyZzFOQzh4TlRZMU16WTVOekUxT1RFNU9DOU5RVUpCUjA5U0xURXlNREJYZURFeU1EQklYeTl0WVdKaFoyOXlMMmx0WVdkbGJHbGlMMloxYkd3dGRISnBiUzgwTHpVdk5EVTRPR1F3TnpreFlXUmlOekppWmpFNFpXUXpPV0k0WkRsa016STFZekpmTXpBNE1qTXpYekl1YW5CbnxhYWVjNzE2YTMwODU3ZWU4YWZmNDBhODJlMmE5N2E5M2UzNzNlMThiNWRhOTUzN2FjMjhkN2YyY2Y4ZDljMmE4",
+   "width": 800,
+   "height": 1200,
+   "bytes": 22760,
+   "sha256": "e4920cc6acf7dfd2b909688896ffce66ae2b414cea8293c2ee06e4ffb15e51f9"
+  },
+  {
+   "file": "produkt-34.jpg",
+   "kind": "product",
+   "order": 34,
+   "note": "odkurzanie dywanu — scena domowa",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/MABAGOR-1200Wx1200H-mabagor-imagelib-full-trim-d-d-dd1d917bc8c63f69f9e9c36b6d0809a1-336359-2.jpg?context=bWFzdGVyfG1hYmFnb3Jwcm9kdWN0aW1hZ2VzfDQwNDMxMHxpbWFnZS9qcGVnfGFHSXlMMmd3T0M4eE5UZ3dORFE0TlRrMU9UY3hNQzlOUVVKQlIwOVNMVEV5TURCWGVERXlNREJJWHk5dFlXSmhaMjl5TDJsdFlXZGxiR2xpTDJaMWJHd3RkSEpwYlM5a0wyUXZaR1F4WkRreE4ySmpPR00yTTJZMk9XWTVaVGxqTXpaaU5tUXdPREE1WVRGZk16TTJNelU1WHpJdWFuQm58ODgzNTkwYTliZmYwOWQ4ZDFmMWNkN2FjMWI2ZTE5YTcyOTY5NjUxNTU0MDIyM2ZhMmUyM2M5MjZjODJiZDMzNA",
+   "width": 2134,
+   "height": 1200,
+   "bytes": 294736,
+   "sha256": "8b8fbe86775ffaa30ee4eebfabb7c852f97a7cc3a9c0249de37c86198ca6ae3e"
+  },
+  {
+   "file": "logo-gorenje.jpg",
+   "kind": "logo",
+   "order": 35,
+   "note": "logo marki Gorenje (oficjalny CDN gorenje-static.hgecdn.net)",
+   "sourceUrl": "https://gorenje-static.hgecdn.net/img/w_full/medias/gorenje-logo-narrow.webp",
+   "width": 1518,
+   "height": 211,
+   "bytes": 57430,
+   "sha256": "ec405375b5d56e879b5776f51fbb68539c9940736cf04fca9acf4b5718051d8c"
+  }
+ ],
+ "rejected": [
+  {
+   "file": "produkt-12",
+   "reason": "scena z wieloma roznymi modelami odkurzaczy Gorenje"
+  },
+  {
+   "file": "produkt-13",
+   "reason": "grafika z angielskim napisem Hair Wrap / AntiTangle"
+  },
+  {
+   "file": "produkt-36",
+   "reason": "pusty pokoj bez produktu"
+  },
+  {
+   "file": "produkt-37",
+   "reason": "pusty pokoj bez produktu"
+  },
+  {
+   "file": "produkt-38",
+   "reason": "lineup kilku roznych modeli"
+  },
+  {
+   "file": "produkt-39",
+   "reason": "baner reklamowy z tekstem i innymi modelami"
+  },
+  {
+   "file": "produkt-40",
+   "reason": "lineup kilku roznych modeli"
+  },
+  {
+   "file": "produkt-41",
+   "reason": "lineup kilku roznych modeli"
+  }
+ ]
+}
