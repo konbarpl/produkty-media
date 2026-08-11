@@ -23,87 +23,115 @@
   "files": [
     {
       "file": "produkt-01.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_PN/de2ca0a7-edd7-4b60-a86c-390c66b93bd8/2022841745-jpg?width=1600",
       "width": 700,
       "height": 700,
-      "bytes": 47556
+      "bytes": 47556,
+      "sha256": "af024ac1c108f32c796110f7046b59ff86460c1bf82909f53a60f438830a4d50"
     },
     {
       "file": "produkt-02.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_PN/00859b78-bc93-48a7-b33e-cbc1d239f852/2022838650-jpg?width=1600",
       "width": 700,
       "height": 700,
-      "bytes": 39986
+      "bytes": 39986,
+      "sha256": "41d23842b85e8b17ac02841ade172eb0fadaf65420d158ab8292e5baf2995a9e"
     },
     {
       "file": "produkt-03.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_PN/b90e2d27-9429-48c3-b694-207b80c6cda9/2411228QFO-tif?width=1600",
       "width": 700,
       "height": 700,
-      "bytes": 11035
+      "bytes": 11035,
+      "sha256": "ef93843aa4892e421e615342f4f2a0c69341dfd330e079197386a957dfa10350"
     },
     {
       "file": "produkt-04.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/b02e27bf-a23b-4587-a9bc-9eb180531035/241108A6I4-tif?width=1600",
       "width": 1200,
       "height": 1200,
-      "bytes": 163828
+      "bytes": 163828,
+      "sha256": "6070ee6f562410c8198939e95bde7c84080669de333ffe9ee43a55a9d192c5e3"
     },
     {
       "file": "produkt-05.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/eef1147e-f30e-4990-9859-77f872a5f83c/241108UQU2-tif?width=1600",
       "width": 1200,
       "height": 1200,
-      "bytes": 228481
+      "bytes": 228481,
+      "sha256": "e23dcadf95ba09a4782e2da977319e93f9e70451b76c853d9e76dfe4282b36c5"
     },
     {
       "file": "produkt-06.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/915f0bd0-53da-4458-8b1b-96a9ce894a51/2411087SU8-tif?width=1600",
       "width": 1200,
       "height": 1200,
-      "bytes": 126158
+      "bytes": 126158,
+      "sha256": "b448c9910e536f9bf451469ee0c64095d26261727a9acb4da7666ab340ee13c2"
     },
     {
       "file": "produkt-07.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/5fd415ea-dcfa-42ca-b0f7-79b69b567592/2411082PB3-tif?width=1600",
       "width": 1200,
       "height": 1200,
-      "bytes": 140972
+      "bytes": 140972,
+      "sha256": "b1e0915212551935752a5567dc65657d969fdd9bc899cd895a788243fef629fb"
     },
     {
       "file": "produkt-08.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/a97a1402-1f7d-4fe9-ad80-a5254a24167d/241108BUTK-tif?width=1600",
       "width": 1200,
       "height": 1200,
-      "bytes": 301146
+      "bytes": 301146,
+      "sha256": "7c6ff812b837a3bba2273984ef5023c199ca6d2aa781463af2fba4ddd28b6d63"
     },
     {
       "file": "produkt-09.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/e36d3822-3fc9-4cc5-9dac-a7d2e9e0da7a/241108BZL2-tif?width=1600",
       "width": 1200,
       "height": 1200,
-      "bytes": 173782
+      "bytes": 173782,
+      "sha256": "621114a5bf8df55e7eba5e46e5fc64534e286ce4e2ac155ab826069896fe8d5d"
     },
     {
       "file": "produkt-10.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/f7342b7e-c513-495d-ae5a-53add679173e/241108GKB0-tif?width=1600",
       "width": 1200,
       "height": 1200,
-      "bytes": 127980
+      "bytes": 127980,
+      "sha256": "7cd88afa7a5882d5b4b6b068efca50050df99a856579e9b841801606368938c1"
     },
     {
       "file": "produkt-11.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/62f748be-2540-4a91-8bf5-3f7702f3b40c/241108JOJP-tif?width=1600",
       "width": 1200,
       "height": 1200,
-      "bytes": 240584
+      "bytes": 240584,
+      "sha256": "3423c402d29e519235e048bb09c1e7d424af5352c5d94c58093416f1eab622e0"
     },
     {
       "file": "produkt-12.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_PN/e1a99106-a89d-465d-8e78-fa1a8e89fb04/2022809080-jpg?width=1600",
       "width": 700,
       "height": 700,
-      "bytes": 60720
+      "bytes": 60720,
+      "sha256": "3ed649fddb65ed5405472eb5c12e2a0551ebc8838faa3a0bc684a54cfed3dd5d"
     },
     {
       "file": "produkt-13.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_PN/65c5636e-ebd8-43e4-b627-dba54002d4a4/2022809081-jpg?width=1600",
       "width": 700,
       "height": 700,
-      "bytes": 57504
+      "bytes": 57504,
+      "sha256": "b0ecfae2a9e77c06c797e5b659d976ad0cad73e7d1a69e7292c9c73574805092"
     },
     {
       "file": "logo-electrolux.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Electrolux_logo.svg?width=1200",
       "width": 1360,
       "height": 246,
-      "bytes": 36634
+      "bytes": 36634,
+      "sha256": "2aa733c41cee3b733f1d25b04b941b11edee3b102284e3c1a40efc1302e9568f"
     }
   ]
 }
