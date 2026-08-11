@@ -22,7 +22,9 @@
    "sourceUrl": "https://www.tefal.pl/media/catalog/product/d/i/digital-tfl_ty9ac1wo_neo_h1_1_1_.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
    "bytes": 71846,
    "sha256": "5d5376faa9612bbc26492ee3562be1fee297e76ae8f811f56cf6ec1416df3bc6",
-   "order": 1
+   "order": 1,
+   "width": 1200,
+   "height": 1200
   },
   {
    "file": "produkt-02.jpg",
@@ -30,7 +32,9 @@
    "sourceUrl": "https://www.tefal.pl/media/catalog/product/o/d/odkurzacz_13.60_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
    "bytes": 110989,
    "sha256": "eb7e10a6a7216dbc983ee46221cbed136fdeeacadc3b32b541aadddf979bae46",
-   "order": 2
+   "order": 2,
+   "width": 1200,
+   "height": 1200
   },
   {
    "file": "opis-01.jpg",
@@ -38,7 +42,9 @@
    "sourceUrl": "https://www.tefal.pl/media/catalog/product/2/2/2211401286_storytelling_pl_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
    "bytes": 163467,
    "sha256": "39af203844fffe1ed6f309ea990944921457b599385c4704ac8ae145ced1744b",
-   "order": 3
+   "order": 3,
+   "width": 1200,
+   "height": 1200
   },
   {
    "file": "opis-02.jpg",
@@ -46,7 +52,9 @@
    "sourceUrl": "https://www.tefal.pl/media/catalog/product/2/2/2211401286_storytelling_pl_1__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
    "bytes": 164047,
    "sha256": "aaf67361035b5b6a7b3581a0774f34123bcbd4f940ef90bd84f2d0ce2896a4ba",
-   "order": 4
+   "order": 4,
+   "width": 1200,
+   "height": 1200
   },
   {
    "file": "opis-03.jpg",
@@ -54,7 +62,9 @@
    "sourceUrl": "https://www.tefal.pl/media/catalog/product/2/2/2211401286_storytelling_pl_2__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
    "bytes": 129922,
    "sha256": "07e56f0b54b21509f235a8ad55d9abb283dfca3daa39e640940f7906bd56a254",
-   "order": 5
+   "order": 5,
+   "width": 1200,
+   "height": 1200
   },
   {
    "file": "opis-04.jpg",
@@ -62,7 +72,9 @@
    "sourceUrl": "https://www.tefal.pl/media/catalog/product/2/2/2211401286_storytelling_pl_3__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
    "bytes": 177460,
    "sha256": "26dc3f290491fffab6c3b9e8fb3f312425f23b053835619362e311dfa364ed06",
-   "order": 6
+   "order": 6,
+   "width": 1200,
+   "height": 1200
   },
   {
    "file": "opis-05.jpg",
@@ -70,7 +82,9 @@
    "sourceUrl": "https://www.tefal.pl/media/catalog/product/2/2/2211401286_storytelling_pl_4__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
    "bytes": 154178,
    "sha256": "dcebe403e7ce0937cc5a1ea3d752d1afb44e9ef28070d38a391af21dbdef0b46",
-   "order": 7
+   "order": 7,
+   "width": 1200,
+   "height": 1200
   },
   {
    "file": "opis-06.jpg",
@@ -78,7 +92,9 @@
    "sourceUrl": "https://www.tefal.pl/media/catalog/product/2/2/2211401286_storytelling_pl_5__1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
    "bytes": 300009,
    "sha256": "2ce2dd0c5359b5a69601d764ee17dc0165437c237de8433d15c180d2514e8d31",
-   "order": 8
+   "order": 8,
+   "width": 1200,
+   "height": 1200
   },
   {
    "file": "logo-tefal.png",
@@ -86,7 +102,9 @@
    "sourceUrl": "kopia z repo mediow: produkty-media/tefal-gc272d/logo-tefal.png",
    "bytes": 12693,
    "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
-   "order": 9
+   "order": 9,
+   "width": 960,
+   "height": 206
   }
  ]
 }
