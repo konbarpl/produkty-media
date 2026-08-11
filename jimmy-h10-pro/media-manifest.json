@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T20:42:49.799483Z",
+  "sourcePage": "https://www.jimmyglobal.com/Cordless-vacuum-cleaners/jimmy-h10-pro-cordless-stick-vacuum",
+  "slug": "jimmy-h10-pro",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "logo-jimmy.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "note": "packshot pionowy: caly odkurzacz zlozony na stojaku ladujacym, bialo-szare tlo",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655876414568287.jpg",
+      "width": 219,
+      "height": 1030,
+      "bytes": 26951,
+      "sha256": "f739b944f00d46f914d8610946dc3fcb250386919419fa571ea96489502636b7"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "note": "packshot poziomy: korpus z wyswietlaczem, elastyczna rura metalowa i elektroszczotka",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655886981903090.png",
+      "width": 1550,
+      "height": 550,
+      "bytes": 62727,
+      "sha256": "72318e6666dffc0df0b5ab4ca5bf9e504cd40598238ba15459bed589f6aaf803"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "note": "zawartosc zestawu: 13 ponumerowanych elementow (opisy na grafice po angielsku)",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655876352516075.jpg",
+      "width": 900,
+      "height": 1172,
+      "bytes": 111325,
+      "sha256": "899e55ed983aca399b1990c60c3624a725ac7890b4aada02194fe4eb9cf099fd"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "description",
+      "order": 4,
+      "note": "lifestyle: odkurzanie podlogi w kuchni",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1657094111306098.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 181585,
+      "sha256": "f44bd2bea529e67f0def62ec045e737baeec98febff3048b4e5c7a53c019e244"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "description",
+      "order": 5,
+      "note": "elastyczna rura zgieta o 90 stopni - sprzatanie pod niska szafka",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655875866350449.jpg",
+      "width": 900,
+      "height": 905,
+      "bytes": 81244,
+      "sha256": "ad53c6fd8d3f15b7e28c06b34f98add41d09164ee12a3e8580ee0bc4a0fa80e3"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "description",
+      "order": 6,
+      "note": "sprzatanie wysokich partii pomieszczenia jedna reka",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655876136206151.jpg",
+      "width": 900,
+      "height": 870,
+      "bytes": 74016,
+      "sha256": "ba79599ece340e05b91930c5e77632efc3c0394c053a15e1f4a2fa34a9fa7a4b"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "description",
+      "order": 7,
+      "note": "cztery akcesoria w uzyciu: ssawka 2w1, ssawka szczelinowa, elektroszczotka do materacy, szczotka miekka",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655876228130221.jpg",
+      "width": 900,
+      "height": 923,
+      "bytes": 99857,
+      "sha256": "5a49b4a9ba5d4eb2796d7f0f2f52fd3506d6916e6f31922d8d1ce5bcf81714c9"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "description",
+      "order": 8,
+      "note": "dwa sposoby ladowania: stojak z akcesoriami oraz osobne ladowanie akumulatora",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655876040281623.jpg",
+      "width": 900,
+      "height": 968,
+      "bytes": 85436,
+      "sha256": "a4cc2d5dd6dc50db9719325d21e71f7a07503c0cacac0a09e141d0938919fc2f"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "description",
+      "order": 9,
+      "note": "grafika silnika bezszczotkowego: 600 W, 245 AW (opisy po angielsku)",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655869310572813.jpg",
+      "width": 1600,
+      "height": 600,
+      "bytes": 74779,
+      "sha256": "093876f3bd94902d83b3e765f2c1a996fe12732a613069894ba3c4e30e4e6ced"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "description",
+      "order": 10,
+      "note": "grafika czasow pracy z elektroszczotka i bez niej (opisy po angielsku)",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655869351645346.jpg",
+      "width": 1600,
+      "height": 600,
+      "bytes": 93329,
+      "sha256": "bfdbdfbb7435f5e992ce41aaa73cb1322e5c51c2694bdc5ed010e1cc9e3efcc0"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "description",
+      "order": 11,
+      "note": "grafika opatentowanego poziomego ukladu dwucyklonowego",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655869403629819.jpg",
+      "width": 1600,
+      "height": 600,
+      "bytes": 60246,
+      "sha256": "7778a8f02681bb5a73d1c9198660195becca14c4b262b09708d6c16c9fc34e79"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "description",
+      "order": 12,
+      "note": "zblizenie wyswietlacza LCD na korpusie",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655875514729285.jpg",
+      "width": 900,
+      "height": 939,
+      "bytes": 99087,
+      "sha256": "4cad90c964cb030c1af0e0136c75c5c19d647e111b3cbfc52ded17249af77e09"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "description",
+      "order": 13,
+      "note": "czujnik kurzu - wskazanie czterech frakcji zanieczyszczen",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655877091962810.jpg",
+      "width": 900,
+      "height": 1110,
+      "bytes": 120742,
+      "sha256": "2aabdb97f4b05f22c60d341d2270f21f360f28a0a750f5ed54f01c545375b124"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "description",
+      "order": 14,
+      "note": "oswietlenie LED szczotki podlogowej pod meblem",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655877226562778.jpg",
+      "width": 900,
+      "height": 770,
+      "bytes": 75982,
+      "sha256": "d32d86a59e9092a23f52706db041bf52c8d86550195c2d9d43b67ec7ea98371f"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "description",
+      "order": 15,
+      "note": "komunikaty glosowe urzadzenia (dymki po angielsku)",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655875648717337.jpg",
+      "width": 900,
+      "height": 1008,
+      "bytes": 117807,
+      "sha256": "edf17af6d98cc6fd47a8d5c8ad0ca29debef80a64c83e2202dce85c3c5e7b57e"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "description",
+      "order": 16,
+      "note": "tryb Auto - elektroszczotka na dywanie",
+      "sourceUrl": "https://cdn-pro.analyspeed.com/596/upload/product/1655875739269385.jpg",
+      "width": 900,
+      "height": 869,
+      "bytes": 127453,
+      "sha256": "231f49edf04d3d80b3ab380cba81074e7d765f66c36a4b933254a1b6b5bd5da9"
+    },
+    {
+      "file": "logo-jimmy.jpg",
+      "kind": "logo",
+      "order": 17,
+      "note": "logo marki JIMMY - ostatni kadr galerii (kopia z katalogu jimmy-hw9)",
+      "sourceUrl": "repo produkty-media/jimmy-hw9/logo-jimmy.jpg",
+      "width": 825,
+      "height": 200,
+      "bytes": 22725,
+      "sha256": "bcb459e8aec9cffa061e285724a435c0747aabd40480aaad17c1addf7ab51703"
+    }
+  ],
+  "excluded": [
+    {
+      "url": "upload/product/1655886801350489.jpg",
+      "reason": "baner hero z angielskim superlatywem 'JIMMY'S Most Powerful Cordless Vacuum Cleaner' - claim porownawczy bez pokrycia, nie wpuszczam do galerii"
+    },
+    {
+      "url": "template/pc/default/images/H10 Pro/1-6.jpg",
+      "reason": "ikony funkcji 126x126 px - za male i nieprodukowe"
+    },
+    {
+      "url": "upload/product/1655867644400302.png,1655867922144307.png,1655867974730237.jpg,1655868041542427.jpg,1655868101697978.jpg,1655868283711407.jpg",
+      "reason": "wersje 400 px tych samych ujec, ktore sa w galerii w rozdzielczosci 900-1920 px (duplikaty tresciowe)"
+    },
+    {
+      "url": "upload/product/1737090648899915.jpg,1644821164803872.png",
+      "reason": "inne modele (JV83, BX6) z sekcji Explore More Products"
+    }
+  ]
+}
