@@ -1,0 +1,155 @@
+{
+  "slug": "electrolux-hygienic-600-wet-uv-ep61hb21wu",
+  "model": "Electrolux Hygienic 600 WET UV EP61HB21WU",
+  "source": "https://www.electrolux.pl/vacuums-home-comfort/vacuum-cleaners/stick-vacuum-cleaners/cordless-sticks/ep61hb21wu/",
+  "collectedAt": "2026-08-11",
+  "note": "Zdjecia wylacznie z karty producenta electrolux.pl (JSON-LD Product.image, endpoint /services/eml/transform, preset WS_ZO2000 = 1200 px; curl blokowany, pobrane headed Playwright skryptem claude/erli-research/pobierz_zdjecia_electrolux.js). Pobrano 38 unikalnych kadrow (zero duplikatow pikselowych wg sha256), do galerii wybrano 15 po ogledzinach kontaktowki (_tmp/zwiad-g44-2026-08-11/elux-ep61hb21wu/img/_kontaktowka.jpg). Tozsamosc: korpus GRANATOWY (karta: Kolor granatowy), szczotka mopujaca PowerPro Mop z niebieskimi dyskami, szczotka BedPro UV, stacja ladowania z montazem na podlodze (karta: Przechowywanie = stacja ladowania z montazem na podlodze) — wszystko zgodne z wariantem WET UV. Kadr panelu sterowania z ikona kropli (28.jpg) jest WLASCIWY dla tego wariantu (wariant EP61HB21UV go odrzucil). ODRZUCONE: baner 10-letniej gwarancji na silnik (zakaz gwarancji w ofertach), zestawienie trzech innych modeli, dwa kadry z trzema wariantami kolorystycznymi na scianach, druga (niemal identyczna) plansza pieciostopniowej filtracji, powtorzone kadry lifestyle.",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "logo-electrolux.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/aa1700d8-830e-4d6a-a7bb-23d1164d9b1f/240621WPYS-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 34612,
+      "sha256": "c171d1bded95455b07bb2405b55dc7965aa4c87b7e3740ef8cce428940bc897f"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/c970ed7f-0bf9-485f-9724-3029f19d56c2/240610100N-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 26334,
+      "sha256": "7091e3dd2e3b6b2a1c994c140a4618f51f9e1bab26bbb54f1d0156ddb7851f94"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/abfe97c9-c7ea-4ff6-b761-dd20615bab47/250519CKCA-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 96640,
+      "sha256": "83df07dc011b888aa11aa987bf8ed8dc004b1853d7a73d207c9296ab81993d04"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/9da2af3c-c35a-4e45-8093-62dde3b74bce/240808TT2O-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 75081,
+      "sha256": "e05a4997936bd001293fb55acddef3cbc8a697a6d94ff2c58da37d7d206d51a3"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/c9e79bd3-f955-49a6-9cac-5533b7d8df16/240610DOKP-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 35922,
+      "sha256": "8170eb6849e2865d221af38d3fa3d8d3548420f826d25ff2647094a64de7b699"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/4d4c01d9-084b-4eb8-a74c-6734e086bc3e/240621Q9DV-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 73748,
+      "sha256": "db177fa41f6733fbc6bfa2b0a90cab5835c69fbd68c7b421c19bb9b1745b0140"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/590784a9-34a2-4030-8f7a-9490b35d2b6c/240621ZVMY-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 33521,
+      "sha256": "e393b5439c5dc2fb73e75eea8c9dcae56d9f5f711c1d8391afd4fb4b2b4c0c5b"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/6e325060-481b-42a1-a5df-d7e5b027d6f6/240621UVNM-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 65510,
+      "sha256": "2065e9f994ee65fc928276cd69d52c1f5cba0ae52078aa16019f360cd8740db1"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/d035f7bc-43eb-4157-b4cb-f07e6ae61a35/2406216YGI-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 16875,
+      "sha256": "86ecf3e8715b0840ce921f7b8275d291dc14050b285eab85b5a3ad1a95da7234"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/e3bdcaae-6e26-47f4-99da-c23bd0a2d940/240621VLZG-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 15209,
+      "sha256": "4d23fcf43cece4566ec503a6c5e703dd78042fbe5a1bbfeb98b39b089f110847"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/066f206c-e1fe-4ca8-98ee-0d601b1594fc/240621W05N-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 34168,
+      "sha256": "6c5ae38b6aa288fdd50b5d3e7047897d891938aa8420fd0d08727ee316440410"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/690f5c12-97f4-4f17-bff8-745508c11868/240621ELGP-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 48813,
+      "sha256": "a9d21afc6166043fae71eba0a60a57a527f8f06bb8d69ed46bc7176126a524a0"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/9c6fdb79-18f1-47af-91e5-1e3f1fb30b7f/250305OZFY-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 21552,
+      "sha256": "96a2a8e8cc9ce546af1fbf21f4f1c81d7174a5a34ce22b6e0966ff8bc71aafe4"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/5e66914b-57e3-4dfb-bad6-5cd4b38db1f0/260410LT5A-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 324680,
+      "sha256": "09684b5e33b0f34521665cbcb462fd08f3cbf4d5854b196e9bf0d08dddbf6b47"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/588ccfd7-8f76-4dd8-a9b2-4095d08958ae/240808FUN0-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 366487,
+      "sha256": "ef765ce541e116a9ec16a26bae782c9384804c5bbe4224387ccb9e459027a354"
+    },
+    {
+      "file": "logo-electrolux.jpg",
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/electrolux-power-hygienic-800-ep81hb25wu/logo-electrolux.jpg",
+      "width": 1360,
+      "height": 246,
+      "bytes": 36634,
+      "sha256": "2aa733c41cee3b733f1d25b04b941b11edee3b102284e3c1a40efc1302e9568f"
+    }
+  ]
+}
