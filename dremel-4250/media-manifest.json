@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T18:14:44.973Z",
+  "sourcePage": "https://www.dremel.com/pl/pl/p/dremel-4250-f0134250ja",
+  "slug": "dremel-4250",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "opis-01.png",
+    "opis-02.png",
+    "opis-03.png",
+    "opis-04.png",
+    "opis-05.png",
+    "opis-06.png",
+    "opis-07.png",
+    "logo-dremel.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.dremel.com/imagestorage/pl-pl/dremel-4250-992-hires-png-rgb-oneux-27300_w_1600_h_800.png",
+      "width": 3200,
+      "bytes": 889819,
+      "sha256": "2561c38debc17e524c34e52871e80a5333ce18c05f43d4eba06eb0e87cbba697"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.dremel.com/imagestorage/pl-pl/dremel-4250-1219-hires-png-rgb-oneux-27305_w_1600_h_800.png",
+      "width": 3200,
+      "bytes": 1432659,
+      "sha256": "a4e40f430e9fbd500240476863e0d0c5172160731d9802d9ab17138ac49cdf9b"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.dremel.com/imagestorage/pl-pl/dremel-4250-9655-hires-png-rgb-oneux-27296_w_1600_h_800.png",
+      "width": 3200,
+      "bytes": 344999,
+      "sha256": "b285b78e1bdf8657b216288cc55d74984314b4e484222522135b7c36503f0c6c"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.dremel.com/imagestorage/pl-pl/dremel-4250-994-2016-png-org-30485_w_737_h_737.png",
+      "width": 3200,
+      "bytes": 752287,
+      "sha256": "46bd29aba2fb429c7dfcbffa74e0dfd1c1af6d73d23b10c2e4b10de38b789cdb"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.dremel.com/imagestorage/pl-pl/dremel-4250-1272-2016-png-org-30478_w_737_h_737.png",
+      "width": 3200,
+      "bytes": 815459,
+      "sha256": "e74f1d71ec1bfb4feff40bec32904fd23d556a5c1edb13b26fd739c234d4fefa"
+    },
+    {
+      "file": "opis-01.png",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://www.dremel.com/imagestorage/pl-pl/dremel-4250-9423-2016-png-org-27291_w_737_h_415.png",
+      "width": 2838,
+      "bytes": 1253799,
+      "sha256": "625da01417ef406164a5f71bcc06207b79b3328758c87426e4a9dd38eba67140"
+    },
+    {
+      "file": "opis-02.png",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://www.dremel.com/imagestorage/pl-pl/dremel-4250-9423-2016-png-org-27292_w_737_h_415.png",
+      "width": 3200,
+      "bytes": 1854276,
+      "sha256": "afb9f58fd100cac46c13151dba936a9bc880205c710e4e66a15346cbd03c1bc0"
+    },
+    {
+      "file": "opis-03.png",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://www.dremel.com/imagestorage/pl-pl/dremel-4250-9423-2016-png-org-27304_w_737_h_415.png",
+      "width": 3200,
+      "bytes": 2161262,
+      "sha256": "72676afe847ed5645797ae42df997e06092130df728f5a6d7e234154423cd63c"
+    },
+    {
+      "file": "opis-04.png",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://www.dremel.com/imagestorage/pl-pl/dremel-4250-1219-hires-png-rgb-oneux-27273_w_960_h_540.png",
+      "width": 3200,
+      "bytes": 3155967,
+      "sha256": "0948ff2910d1c89a052a2f98ed8780cbbbfc398209e8d14c6d67e81f9d8e0b19"
+    },
+    {
+      "file": "opis-05.png",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://www.dremel.com/imagestorage/pl-pl/dremel-4250-1219-hires-png-rgb-oneux-27278_w_960_h_540.png",
+      "width": 3200,
+      "bytes": 2675380,
+      "sha256": "ad2b9f9480507769c0b30e746c9e124140b3033bc622560e5ec55dc1a9a516e9"
+    },
+    {
+      "file": "opis-06.png",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://www.dremel.com/imagestorage/pl-pl/dremel-4250-1219-hires-png-rgb-oneux-27279_w_960_h_540.png",
+      "width": 3200,
+      "bytes": 2232154,
+      "sha256": "0d324f59b003f7db730afab2b4ed57fa00f169a1c5a0037756ae32dd40eca9e4"
+    },
+    {
+      "file": "opis-07.png",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://www.dremel.com/imagestorage/pl-pl/dremel-4250-1272-hires-png-rgb-oneux-27272_w_960_h_540.png",
+      "width": 3200,
+      "bytes": 3233452,
+      "sha256": "4dfe8dfd093a5de192702e8991b371e752312d143b0be4d0a1ce1fa8c31dacd5"
+    },
+    {
+      "file": "logo-dremel.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "repo dropshipping/materiały/logo/dremel.jpg (logo marki Dremel)",
+      "width": 1200,
+      "height": 285,
+      "bytes": 32101,
+      "sha256": "871bbd219e701d5e95a73a23214e8ec1abd4772e257e8e894de13e7f234bafd6"
+    }
+  ],
+  "dropped": 0
+}
