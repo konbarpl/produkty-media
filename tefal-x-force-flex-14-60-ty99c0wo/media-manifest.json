@@ -1,0 +1,103 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-11T18:09:21.687Z",
+ "sourcePage": "https://www.tefal.pl/p/odkurzacz-bezprzewodowy-tefal-x-force-flex-1460-aqua-ty99c0/2211401143",
+ "slug": "tefal-x-force-flex-14-60-ty99c0wo",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https:\\/\\/www.tefal.pl\\/media\\/catalog\\/product\\/d\\/i\\/digital-tefal_ty99c0wo_visual2_1_1_.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+   "width": 1200,
+   "bytes": 107959,
+   "sha256": "05373f1b1591e423b1d46fa2202dd9b495df6b02e0b09107f976ea8a4ce65185"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https:\\/\\/www.tefal.pl\\/media\\/catalog\\/product\\/e\\/j\\/ejjutsvo.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+   "width": 1013,
+   "bytes": 66388,
+   "sha256": "d93292ed0aa846ff6ea808b824f8c4369be9449a7a03f1e07d85917ba4a662a3"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https:\\/\\/www.tefal.pl\\/media\\/catalog\\/product\\/2\\/2\\/2211401143_storytelling_pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "bytes": 254267,
+   "sha256": "929b8ada166d0c416edf43c44db4b7cb3c575e3d3abee7fb5e879fcb7c263ee6"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https:\\/\\/www.tefal.pl\\/media\\/catalog\\/product\\/2\\/2\\/2211401143_storytelling_pl_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "bytes": 160709,
+   "sha256": "68b93d104862f11c432769012287dbdced481afb4d08643287ce295f73270d25"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https:\\/\\/www.tefal.pl\\/media\\/catalog\\/product\\/2\\/2\\/2211401143_storytelling_pl_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "bytes": 170321,
+   "sha256": "b61306aaf6599217b00c5415c957ef4d3b2e5d6ef96c6e0835eabafb44b36b5d"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https:\\/\\/www.tefal.pl\\/media\\/catalog\\/product\\/2\\/2\\/2211401143_storytelling_pl_3_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "bytes": 225438,
+   "sha256": "6bac9dc57e91767743cee49aa3485d14bdea207a2a59aa8df4d7cc940d4d8089"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https:\\/\\/www.tefal.pl\\/media\\/catalog\\/product\\/2\\/2\\/2211401143_storytelling_pl_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "bytes": 189871,
+   "sha256": "1e4e80d3d94c462f726fec1c4354e79eb40ad96c7447a46be5e3beb9fc24761b"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https:\\/\\/www.tefal.pl\\/media\\/catalog\\/product\\/2\\/2\\/2211401143_storytelling_pl_5_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "bytes": 135325,
+   "sha256": "6880805b132312f37a31bf5f796a041e31683b7cefc90ecf61ad7abbfcc6823f"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 9,
+   "sourceUrl": "kopia z repo mediow: produkty-media/tefal-gc272d/logo-tefal.png (logo marki Tefal)",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "dropped": 0,
+ "sourceNote": "Karta producenta tefal.pl (SKU 2211401143, Nr ref. TY99C0 / TY99C0WO). Zdjecia z pola \"img\" w JSON karty (1200x1200). produkt-01 = packshot calego zestawu, produkt-02 = grafika funkcji, opis-01..06 = grafiki producenta PL. Logo marki na koncu galerii."
+}
