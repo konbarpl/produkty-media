@@ -193,9 +193,10 @@
    "order": 19,
    "note": "logo marki Bosch (AGD, czyste — bez Professional); galeria na koncu",
    "sourceUrl": "produkty-media/bosch-advancedvac-20/logo-bosch.jpg",
-   "width": null,
+   "width": 1008,
    "bytes": 51914,
-   "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+   "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2",
+   "sourceWidth": 1008
   }
  ],
  "dropped": [
