@@ -1,0 +1,107 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-04T19:43:12.449Z",
+ "sourcePage": "https://www.krups.com.pl/%C5%9Awiat-kawy/Ekspresy-automatyczne/Ekspres-do-kawy-automatyczny-KRUPS-EVIDENCE-HOT%26COLD-EA898/p/8010001375",
+ "slug": "krups-ea898gf0",
+ "galleryOrder": [
+  "produkt-01.png",
+  "produkt-03.png",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "logo-01.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.png",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wxNDM1OTJ8aW1hZ2UvcG5nfGFXMWhaMlZ6TDJoalpTOW9PRFV2TWprME5qUTROVEU0TkRFd05UUXxjMWM3NDVlNjkwOWRmMGQwNGYwOTlhM2M1NTk3OGJiYTMxMzA3NzZlMTlhNTQ0MmY4ZDZhZjNjZDVmYTM3NmZl",
+   "width": 700,
+   "bytes": 143592,
+   "sha256": "b3950c04463e479635d579a0fa734a807e0ef830c71cf8b564d61febabbcfc59"
+  },
+  {
+   "file": "produkt-03.png",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wxMTYyNzN8aW1hZ2UvcG5nfGFXMWhaMlZ6TDJneFppOW9Zekl2TWprME5qUTROVE13TWpBM01ESXxjOWE3NTQ5ZTBjZDk4OTc0MGE0MmYzYzI3YmNkMGU4ZWQzOGRkZTBjYWE4NTY4NWIyNDhiZDdhMjU5OGUzZDEy",
+   "width": 700,
+   "bytes": 116273,
+   "sha256": "0b4d892729389a0a432c3f8545ba674da4b22448c5a8243589c161df34874555"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w3MDUwNHxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoa1ppOW9ZV0l2TWprMU5ETXhNRFF4TlRFMU9ESXwxYmNjY2ZlODM0ZGNiNTQxZTg3MGFlZjk5MDM2ZDRlZjliYTNkZThhNGVjMWM3ZjVkMmJjZDkwZjFkOTFiMmFh",
+   "width": 700,
+   "bytes": 70504,
+   "sha256": "009364fdcbc27174e27f01ebd233ef28ba7e235bff40b5eee12b0b83cea7d183"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w1NDU2NXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnNE15OW9NbUV2TWprMU5ETXhNRFU0TWpJM05UQXxjYmZhZTU4NDhmMmVkYWY2YjQ0MzQ2ZTk5NTVmNWNmZTkyODhiYWJjNWE0ZWQ0YTFlYTllZjc0ODM0MjBjNGIw",
+   "width": 700,
+   "bytes": 54565,
+   "sha256": "aa1788fca2ff602a3755e181db305b2865264aff2de4790ac49ab691d3dd0fe4"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0NTg0MnxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoaE5pOW9PVEV2TWprMU5ETXhNRGN4TmpZeU16Z3w2NDEzNDQ3Mjk4YWUzZjZiOGI1Y2E0ODg5NWFkYTRmODEwZjkyNjA4NjE0ZjAzZWE5YmUyMzQ4NWZlN2VjYTMz",
+   "width": 700,
+   "bytes": 45842,
+   "sha256": "e5ecec936f89b595056d4a3e53fd18ec85e60f5726b88701d52f2d797e101761"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w2Mzc4M3xpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoak15OW9ZVGt2TWprMU5ETXhNRGM0T0RjeE16UXw2ZTAzNTY0NDU5NmI2ZWVkN2QzMzEzNWJmNGNkMDZjMjcwODA4OTY5NTkzNWQ1NjgzZDRhZmUxMjZhZmVlNjNm",
+   "width": 700,
+   "bytes": 63783,
+   "sha256": "72e548cf2a99c2dd7ffdbb7bf685b2a519bb674679c1f97346aabcea6704e019"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0MjQ5NHxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoaE1DOW9ZbUV2TWprME5qUTROVE15T0RJNE5EWXw3M2Q2YTg3MTljNmRkYTA1MzVkZmVkZGExYTU0MzcyODZmMzQzZjRmMmZjYzlhYzc1YjFhYzIyZGQ0OTEwMWE3",
+   "width": 700,
+   "bytes": 42494,
+   "sha256": "4c4868d3494ae0b5b0c2e79cf5fb6d5ce43f26e2ed45a7700e01f7b9c6a27ef4"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0MjA5MXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnNFpDOW9PRGt2TWprME5qUTROVEU1TnpJeE1qWXw2NDJiYzFmMTE4YzgyOTZkMmI5ODhmNmJhMTFjYjRhZjhkOGI1MjgzMDQwYTA5NWRmYTU4OGZiOWI5NGRlYTM3",
+   "width": 700,
+   "bytes": 42091,
+   "sha256": "920516f7c38c14b83ac9b51b2f7a9aef02fcd207c00afaf19692c7e30fd60c88"
+  },
+  {
+   "file": "logo-01.png",
+   "kind": "logo",
+   "order": 10,
+   "sourceUrl": "repo produkty-media/krups-ea879e/logo-01.png (logo marki KRUPS)",
+   "width": 960,
+   "bytes": 10962,
+   "sha256": "4c8ce2d500460c08407d746110709f050a88e60360ebe95c6285d0ea1d04bcf7"
+  }
+ ],
+ "dropped": 6,
+ "usunieteZGalerii": [
+  {
+   "file": "produkt-02.jpg",
+   "powod": "infografika podaje 21 przepisow, karta modelu EA898GF0 podaje 18 - sprzecznosc, zdjecie prawdopodobnie z innego modelu serii Evidence"
+  }
+ ]
+}

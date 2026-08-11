@@ -1,0 +1,154 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-04T21:52:45.588408+00:00",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/grille-kuchenne/grill-elektryczny-tefal-optigrill-4w1-xl-gc7848",
+ "sourceNote": "karta producenta tefal.pl niedostepna (3 warianty URL = HTTP 404 04.08.2026) — zrodlem faktow i zdjec jest karta Media Expert",
+ "slug": "tefal-gc7848",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6830953/TEFAL-Optigrill-4w1-XL-GC7848-front.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 81212,
+   "sha256": "ef857a6d67143527c757bb204ba071d5b9f35498a8eff09a9aa274e16d9280d9",
+   "note": "karta Media Expert GC7848, plik zrodlowy TEFAL-Optigrill-4w1-XL-GC7848-front.jpg (gallery_1500_1500)"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6830953/TEFAL-Optigrill-4w1-XL-GC7848-skos.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 91165,
+   "sha256": "d9e15ea5b5e1a76e0377b775a21d00211be69ae11fc45a3605569b435bba791c",
+   "note": "karta Media Expert GC7848, plik zrodlowy TEFAL-Optigrill-4w1-XL-GC7848-skos.jpg (gallery_1500_1500)"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6830953/TEFAL-Optigrill-4w1-XL-GC7848-skos2.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 126796,
+   "sha256": "c0d830f27338cb6da8591a5ceb03d57d98e7ccb42fa35754d95a476807e88d4e",
+   "note": "karta Media Expert GC7848, plik zrodlowy TEFAL-Optigrill-4w1-XL-GC7848-skos2.jpg (gallery_1500_1500)"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6830953/TEFAL-Optigrill-4w1-XL-GC7848-freestyle.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 363585,
+   "sha256": "c7cc787c325503d55ea5bb1470d31e444989117ce1d9536e469a33426436f924",
+   "note": "karta Media Expert GC7848, plik zrodlowy TEFAL-Optigrill-4w1-XL-GC7848-freestyle.jpg (gallery_1500_1500)"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6830953/TEFAL-Optigrill-4w1-XL-GC7848-freestyle2.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 278209,
+   "sha256": "5c1b6d5624afb2fe47871b2f1749f6a5fd04d6a494cdb56e9b10e3301c9de1dc",
+   "note": "karta Media Expert GC7848, plik zrodlowy TEFAL-Optigrill-4w1-XL-GC7848-freestyle2.jpg (gallery_1500_1500)"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6830953/TEFAL-Optigrill-4w1-XL-GC7848-freestyle3.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 234446,
+   "sha256": "75ee5722d56d254324bcf5e78af06375d46442afa9a8cd196af001cf84b3c5fc",
+   "note": "karta Media Expert GC7848, plik zrodlowy TEFAL-Optigrill-4w1-XL-GC7848-freestyle3.jpg (gallery_1500_1500)"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6830953/TEFAL-Optigrill-4w1-XL-GC7848-freestyle4.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 379730,
+   "sha256": "5ef7c1481de7eb8c603be5a574bbb777798e60639f8ab24f8e52148b73b7641d",
+   "note": "karta Media Expert GC7848, plik zrodlowy TEFAL-Optigrill-4w1-XL-GC7848-freestyle4.jpg (gallery_1500_1500)"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6830953/TEFAL-Optigrill-4w1-XL-GC7848-freestyle6.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 226763,
+   "sha256": "fc8356c9890b539213e460f897b0b922991b9505eca81b8786e65e0b1cdd9cf2",
+   "note": "karta Media Expert GC7848, plik zrodlowy TEFAL-Optigrill-4w1-XL-GC7848-freestyle6.jpg (gallery_1500_1500)"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/68/6830953/TEFAL-Optigrill-4w1-XL-GC7848-freestyle7.jpg",
+   "width": 500,
+   "height": 500,
+   "bytes": 68340,
+   "sha256": "8e6348d062caca6dfae93e9d12c3b904fcd4e1b25e0c82d768c5348a9ea588a9",
+   "note": "karta Media Expert GC7848, plik zrodlowy TEFAL-Optigrill-4w1-XL-GC7848-freestyle7.jpg (gallery_500_500)"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6830953/TEFAL-Optigrill-4w1-XL-GC7848-wymiary.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 88473,
+   "sha256": "99b583869259ad6189629c4e3ffa8e08d37454334db89d330df0efa61bcccdde",
+   "note": "karta Media Expert GC7848, plik zrodlowy TEFAL-Optigrill-4w1-XL-GC7848-wymiary.jpg (gallery_1500_1500)"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 11,
+   "sourceUrl": "repo projektu: dropshipping/materialy/logo/Tefal_logo.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+   "note": "logo marki Tefal — OSTATNIE w galerii"
+  }
+ ],
+ "dropped": 2,
+ "usunieteZGalerii": [
+  {
+   "file": "Tefal_GC7848_2025716__1.jpg",
+   "powod": "pobranie nieudane we wszystkich rozdzielczosciach"
+  },
+  {
+   "file": "TEFAL-Optigrill-4w1-XL-GC7848-freestyle5.jpg",
+   "powod": "pobranie nieudane we wszystkich rozdzielczosciach"
+  }
+ ]
+}

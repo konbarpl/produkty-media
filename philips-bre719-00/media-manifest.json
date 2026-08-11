@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-04",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/BRE719_00.assets",
+  "slug": "philips-bre719-00",
+  "kod": "BRE719/00",
+  "ean": "5906063256642",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/18be44c3374f417b9606b369009d14c2?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 128512,
+      "sha256": "b3dd4e99f0b59c70d6e973bd4aae71ff40e2db0fd48ed3a718a8c4a1bab88930",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/3f80ba6360d0464ba397b34700e817b1?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 59603,
+      "sha256": "30e6e54dff46628778d0fd69053ae1c427e3538c243bac13056743a6427e8d61",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/4339453d908b4183b697b369008beb6b?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 155287,
+      "sha256": "33a8aef005fb79dad71d1021b0643192ade441a71f02e4a3bcf31aa499a79c22",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/211c51db611f41c6958eb2f0009b4c04?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 109943,
+      "sha256": "30be6d5477b44e9b1afa0ed672435dfc31d205fa30208d586dc01986f11145fb",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/681623ec768c4a03ab8eb2f0007ef832?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 124480,
+      "sha256": "315a3f61155f1c9afbf0d53d82ed0584e3d04c03ec70218e9021618321c74093",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/50fc3b13c42b479c96d2b2f0007e428d?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 133204,
+      "sha256": "0ff4ddf67cc067b202eca48c52f344a61c36fe938970aa04789cfedcbd590372",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/1a5584e23f664f6ba7bdb2f0007f18d9?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 126530,
+      "sha256": "3753233fb4c938c200cad26b3124582091a02e6d52f55b728705f80ede33e264",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/53929f2497ae43b68ac5b2f0007f3b01?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 147374,
+      "sha256": "60959af302fba350c4da5d55d9c1c54124e578b89fca43bed90e5778741c0b41",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/d06a1a91e71e400ca822b2f0007e98b7?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 183503,
+      "sha256": "b5ba39822dfdd975f2389c9b458c3e68dbf7f99bbbcef0742f6d2ef4fc0ccb72",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/c352dcbe089b4eb3801ab2f0007deb5c?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 208154,
+      "sha256": "5e9e5df4ce96bc8519b025dd1d692fb6facb3976acb0348f9224d07a14e29be0",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/50d8acbafe6f4140b833b37b0157deb6?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 183714,
+      "sha256": "d2f1472f8e8bda6384081d74c1050384322419b0dccc617f5801d5be93c8da2f",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/335b7c440d57469daa29b2f0009ac934?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 144665,
+      "sha256": "5f2261ce460a494bff623bfa07a1e123a85783255f68a9fd46dd092ac24d584f",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/b948085a7c614500a2b0b386007eee31?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 133580,
+      "sha256": "b657269eeaf62389b92a89dc548d220ee120544c9d540ff5aefae9c005c1eba4",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/0fa0be239b504ba28b60b2f9012284ee?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "bytes": 206930,
+      "sha256": "548e70d3604257a67b9955a743612ae1c37b3eb9047b965ecdd35429fdba71b0",
+      "height": 1500,
+      "width": 1500
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "kopia z produkty-media/philips-ep2331-10/logo-philips.png (logo marki Philips)",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "width": 525,
+      "height": 105
+    }
+  ],
+  "duplikaty": [
+    {
+      "url": "https://images.philips.com/is/image/philipsconsumer/4cf5d523012a4c0caba3b37d00d6079a?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "sameAs": "produkt-09.jpg"
+    },
+    {
+      "url": "https://images.philips.com/is/image/philipsconsumer/0c3e0f2db02d406aa32ab385008caf18?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "sameAs": "produkt-04.jpg"
+    },
+    {
+      "url": "https://images.philips.com/is/image/philipsconsumer/b993f388f3c64198a8bfb385008bc105?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "sameAs": "produkt-05.jpg"
+    },
+    {
+      "url": "https://images.philips.com/is/image/philipsconsumer/24cc820093104b04b183b385008aef01?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "sameAs": "produkt-06.jpg"
+    },
+    {
+      "url": "https://images.philips.com/is/image/philipsconsumer/1ac71ce37030465bb86ab385009a5512?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "sameAs": "produkt-08.jpg"
+    },
+    {
+      "url": "https://images.philips.com/is/image/philipsconsumer/80d38b78840d48f2bdadb385009945c6?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "sameAs": "produkt-07.jpg"
+    }
+  ]
+}

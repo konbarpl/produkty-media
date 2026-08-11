@@ -1,0 +1,127 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-05T07:29:06.607Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/SC1998_00 (PRX API, CTN SC1998/00)",
+ "slug": "philips-sc1998-00",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "type": "RTP",
+   "desc": "Standardowe zdjęcie produktu (packshot główny)",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/47b1b977686c40cdbed8ab5a00f9d55a",
+   "bytes": 61947,
+   "sha256": "81c4c2134d080d07c857e9d0703199b1ca39eaf9feeaa63481372f1ee121f55c",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "type": "A1P",
+   "desc": "Zdjęcie prezentujące produkt z nasadkami",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/1fccc06dcde94215b354af4a00dc0e70",
+   "bytes": 45619,
+   "sha256": "506bfc70fca2ac773d69aafce4b12da2412a923c4bde538067e13680ba17a94a",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "type": "A2P",
+   "desc": "Zdjęcie prezentujące produkt — ujęcie alternatywne",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/315b157ab4244699bf86af4a00dc085a",
+   "bytes": 103801,
+   "sha256": "b5382fe880748366690e0162c7a890185b3b762249449e3b9675cc229605bac0",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "type": "FIL",
+   "desc": "Tabela odcieni skóry i kolorów włosów",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/ba0a618414304087bbc0af8900cda249",
+   "bytes": 39163,
+   "sha256": "5c77ed9b5466b2183f5654d3bcf159619baf3be8a6f5b5bec64e310bce0d804e",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "type": "FIL",
+   "desc": "Czujnik odcienia skóry i 5 ustawień intensywności",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/505db9005daf46ab8392b10a00f22790",
+   "bytes": 102280,
+   "sha256": "bd44a17efcfbdec085854763155e023537a1014a327e81d713e139816a8c1d51",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "type": "FIL",
+   "desc": "Opracowano we współpracy z dermatologami",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/c6c8044735d046ad8c70b0e60148dc70",
+   "bytes": 184214,
+   "sha256": "6f7f04653e5ef049ab9db53671a8bcc31d9d2e85287c6e3427a3e9a2957871cf",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "type": "FIL",
+   "desc": "Wyjątkowo długi przewód zasilający",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/5ff042c3b3164cc59b12b10a00f223ae",
+   "bytes": 183038,
+   "sha256": "c9ff8aec76e4353e3c55b26d73b565b305ee473d5a662679d935046f2009dd25",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "type": "FIL",
+   "desc": "Aplikacja Philips Lumea IPL",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/f3213bd1e2ef430695d8b0f3011bab37",
+   "bytes": 147950,
+   "sha256": "cbcfe373ab23859f1780900b8a2279f9939e0496fe45e8a679a985bd84f2c0cc",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 9,
+   "type": "BRP",
+   "desc": "Logo marki Philips",
+   "sourceUrl": "kopia z produkty-media/philips-ep2331-10/logo-philips.png",
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+   "width": 525,
+   "height": 105
+  }
+ ]
+}

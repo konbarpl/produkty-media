@@ -1,0 +1,95 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-04T21:36:57.204Z",
+ "sourcePage": "https://www.tefal.pl/p/grill-elektryczny-tefal-optigrill-gc774d30/7211004967",
+ "slug": "tefal-gc774d30",
+ "galleryOrder": [
+  "produkt-01.png",
+  "produkt-02.jpg",
+  "produkt-03.png",
+  "produkt-04.png",
+  "produkt-05.png",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.png",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/g/c/gc774dnowe.png",
+   "width": 1200,
+   "bytes": 566215,
+   "sha256": "1e23e926ca749252bc2309e7850e05d0a8349530bc822ff16bd9ae88cac176e4",
+   "note": "packshot glowny karty GC774D30 (grill + forma do zapiekania)"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/76c71638ac32e5e0/Digital-TF_7211004962_GC774D10_B1-ON-tif.tif?twic=v1/quality=70/resize=2000",
+   "width": 2000,
+   "bytes": 496141,
+   "sha256": "efd0caf266a0eedaee369f719446ef40fa2ae7f9ab8cbb9e7dc053c28b869239",
+   "note": "aranzacja kuchenna, panel z napisem OptiGrill 4in1 — plik nazwany kodem blizniaczym GC774D10, pobrany z karty GC774D30"
+  },
+  {
+   "file": "produkt-03.png",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/3076df951821d746/Digital-TEFAL_Optigrill-4in1_GC774D_9-Automatic-Programs.png?twic=v1/quality=80/resize=1200",
+   "width": 1200,
+   "bytes": 1659868,
+   "sha256": "0cfc35a8054b18436642803f9d586503486f998b65f477526c6f45b4411fff80",
+   "note": "grafika 9 programow automatycznych, kod GC774D w nazwie pliku"
+  },
+  {
+   "file": "produkt-04.png",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/3574065687b5c9f9/Digital-TEFAL_MLX_Optigrill4in1_GC774_GI774_4in1.png?twic=v1/quality=80/resize=1200",
+   "width": 1200,
+   "bytes": 3603034,
+   "sha256": "79f1793d963a88125cdb934283cfc3473993f39558f8fb85d0bd408cf4a7193a",
+   "note": "grafika 4w1 (grill zamkniety, rozlozony 180 st., forma do zapiekania, tryb laczony), kod GC774 w nazwie pliku"
+  },
+  {
+   "file": "produkt-05.png",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/695fe6751a0459cb/Digital-TFL_GC774D10_BACKING-tif.tif?twic=v1/quality=80/resize=1200",
+   "width": 1200,
+   "bytes": 444072,
+   "sha256": "3f70f50ea98814fd679c76e63b8d1dbbd00e94a38646661b56644075d5d6817c",
+   "note": "pieczenie w formie do zapiekania, kod GC774D10 w nazwie pliku"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 6,
+   "sourceUrl": "repo projektu: dropshipping/materialy/logo/Tefal_logo.png",
+   "width": 960,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+   "note": "logo marki Tefal — OSTATNIE w galerii"
+  }
+ ],
+ "dropped": 12,
+ "usunieteZGalerii": [
+  {
+   "file": "Digital-OPTIGRILL-XL_GC784D_HEALTHIER-GRILLING-4",
+   "powod": "nazwa pliku wskazuje INNY model GC784D"
+  },
+  {
+   "file": "Digital-TFL-OPTIGRILL-XL_GC78_ENDLESS-IDEAS-1",
+   "powod": "nazwa pliku wskazuje inna rodzine GC78"
+  },
+  {
+   "file": "Digital-TFL_GC784D10_OPTIGRILL_4IN1_XL_EASY-TO-CLEAN",
+   "powod": "nazwa pliku wskazuje INNY model GC784D10"
+  },
+  {
+   "file": "Digital-TEFAL_XA733810 / XA731810 / TS-0104xxxx",
+   "powod": "akcesoria i czesci zamienne kupowane osobno, nie sa w zestawie"
+  }
+ ]
+}

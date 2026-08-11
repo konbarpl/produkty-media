@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-05",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/DST7020_20.assets",
+  "slug": "philips-dst7020-20",
+  "kod": "DST7020/20",
+  "ean": "",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_57f2345e_d6f3_4087_954c73c31e562f5a?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "asset RTP (RFT DST7020) - packshot 3/4 z prawej, granatowo-niebieska obudowa, zolta zatyczka Quick Calc Release",
+      "bytes": 145106,
+      "sha256": "25a6c96d388697974a228a94521f7b938721c4e3e76b13ae9d7f1b68f3432c00",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_fed4810b_48bf_408b_a028ecf2b0c4a9da?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "asset APP (APS DST7020) - widok z gory na stope i zbiornik",
+      "bytes": 134995,
+      "sha256": "67b42ef096c4a7dacb94aaeb2d1c5985306ffcadd582aad312247dbd8cb66b2e",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e112dc2c_f2cd_473b_878990f93682f6f4?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "asset U1P (PUP DST7020) - zelazko w klebach pary, tlo fioletowe",
+      "bytes": 167978,
+      "sha256": "db2bbf696e1b0b630c85ffd45cb3406a8cf7e3c2724f559e4ce0d5e015c27a12",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1f2a5d24_70ec_4ebc_a0993813b326e478?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "asset U2P (PUP2 DST7020) - prasowanie koszuli, ujecie z gory",
+      "bytes": 240474,
+      "sha256": "085353cff21fbc182ebf4fffd69480e5afb28032524bce39448460c44f11a99b",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f491ccc3_5e90_4883_845e8ec4f4ca06b5?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "asset U3P (PUP3 DST7020) - wyjmowanie zoltej zatyczki Quick Calc Release",
+      "bytes": 213354,
+      "sha256": "0dc6bed3164a4fa775442b8891259a1c6e4a295f0aec43958dab0659a6a7d021",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_758efa2a_20ed_4ea1_a6b3aceba0242266?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "asset D6P (PUP4 DST7020) - prasowanie parowe z bliska, widoczna stopa SteamGlide Plus",
+      "bytes": 347139,
+      "sha256": "9eaa561b18d69104cab88943f2da36e2f3d14e1aca3f13732611f387f0542c8a",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ec230f07_6f8b_4260_874e03fe9ec487d9?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "asset A6P (DST7020_PIS_16x9) - kadr aranzacyjny przy garderobie",
+      "bytes": 192988,
+      "sha256": "12efa7e6927d66c0fb4842a8a296b68dddcb19e482b415776cde8c8130d327fd",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_9cc3ce3e_e311_45a1_9b1b360a0321975d?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "panel funkcji Steamboost (uderzenie pary) - asset FIL VRS_PBTFEA112012",
+      "bytes": 177646,
+      "sha256": "ff145a3ae67e8a98ec323211a53a1c5117de1ddb5c406d9adb976104a92a4100",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_4be09b1b_d403_4779_b8e129c0a9e24c3f?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "panel funkcji Dripstop (blokada kapania) - asset FIL VRS_PBTFEA112015",
+      "bytes": 162345,
+      "sha256": "12d116abf673949b95217a170778e112b56f65c840340d81d4810b5a1a294786",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "order": 10,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_86ca8a0a_80fd_4e98_93a5e57900c9b980?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "panel funkcji SteamGlide Plus (stopa) - asset FIL VRS_PBTFEA112019",
+      "bytes": 277734,
+      "sha256": "ef54d7992cfddddb47ad381763762ae3358bd448ae1cb92baa0523df12b988e7",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "description",
+      "order": 11,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cb54057d_4c60_4cf9_af678f4f5383a494?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "panel funkcji Quick Calc Release (odkamienianie) - asset FIL VRS_PBTFEA112020",
+      "bytes": 199587,
+      "sha256": "67f5c35637d77e92eb39e6c915dde0c7486fa8f4802d77f22b265158530d8c50",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "description",
+      "order": 12,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8dc16b2c_c519_4a32_b8a79f41288a7d82?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "panel funkcji szybkiego nagrzewania 2800 W - asset FIL VRS_PBTFEA112013",
+      "bytes": 224711,
+      "sha256": "d7c92be47bddbedf4745ceb133b9d8c7f5911829949474680332ea894afc5111",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "description",
+      "order": 13,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_39070f06_148e_4f26_86a9fbb91f863c83?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "panel funkcji zbiornika 300 ml (napelnianie) - asset FIL VRS_PBTFEA112016",
+      "bytes": 234891,
+      "sha256": "1e84b4b29210239b4a93fa476de0cfd3ee806db62574ddb76cfc74fb345ce6cc",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "description",
+      "order": 14,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ff69d9a9_5e06_42ef_ab83cc8d394ab3d9?wid=1500&hei=1500&fmt=jpeg&qlt=92",
+      "note": "panel funkcji ciaglego strumienia pary - asset FIL VRS_PBTFEA112014",
+      "bytes": 311245,
+      "sha256": "c591c55aa7a99529785047ac4a33d256b60e94d2cf3c9464fb5a5906ade85e34",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 15,
+      "sourceUrl": "kopia z repo mediow: philips-ep2331-10/logo-philips.png",
+      "note": "logo marki Philips - OBOWIAZKOWO na koncu galerii",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "width": 525,
+      "height": 105
+    }
+  ],
+  "pominiete": {
+    "produkt-08 (PIM DST7020_20_EU9, zdjecie opakowania)": "NIE wgrane do repo: pudelko ma plakietke gwarancyjna, a w projekcie obowiazuje zakaz gwarancji w ofertach",
+    "2 ikony GC FIM (vertical steam, temperature control)": "generyczne ikony rodziny GC, bez kodu DST7020 - bramka tozsamosci"
+  }
+}

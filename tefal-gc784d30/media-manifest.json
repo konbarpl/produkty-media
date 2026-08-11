@@ -1,0 +1,133 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-05T00:00:00.000Z",
+ "sourcePage": "https://www.tefal.pl/p/grill-elektryczny-tefal-optigrill-xl-gc784d/7211005124",
+ "slug": "tefal-gc784d30",
+ "galleryOrder": [
+  "produkt-01.png",
+  "produkt-02.jpg",
+  "produkt-08.png",
+  "produkt-03.png",
+  "produkt-04.png",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.png",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/g/c/gc784dnowe.png",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 595839,
+   "sha256": "9d47fda54b3daa69b72db2cbd40f881e5be5a12dc9b6cbebf6a5175968e0a6f8",
+   "note": "packshot glowny karty GC784D30: grill OptiGrill 4in1 XL + forma do zapiekania + aplikacja myTefal — MINIATURKA pokazuje caly zestaw"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/3aca6260b55dffa9/Digital-TFL-OPTIGRILL-XL_GC784D_PERFECT-GRILLING-1-tif.tif",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 196200,
+   "sha256": "3923b11ae54b144017c55ec48af6a7feb59ad46875c3737084cbf7fe2594224e",
+   "note": "grillowanie miesa na plytach, kod GC784D w nazwie pliku"
+  },
+  {
+   "file": "produkt-08.png",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://www.tefal.pl/media/.renditions/wysiwyg/WORKSHOP_PDP/Tefal_GC784D30_GC784D10_7211005124_7211005113_PWCD_SL_1_.png",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 182085,
+   "sha256": "420d50553f5c54026da0969e2a8adb00a87ecbb424030bcac9b147b0a76c2a85",
+   "note": "grafika wymiarowa 46 x 34,6 x 19 cm; nazwa pliku zawiera KOD NASZEGO MODELU GC784D30 (obok blizniaczego GC784D10 o tym samym korpusie)"
+  },
+  {
+   "file": "produkt-03.png",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/5a09b05756560755/Digital-OPTIGRILL_4IN1_XL_GC78_GI78_4IN1_DEVICE.png",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 4552513,
+   "sha256": "e1278763e635bd94420500a2a0a423d581e277165a2db0e59035d0c3818dd2c3",
+   "note": "grafika 4w1 (opiekacz, grill rozkladany 180 st., piekarnik, pelny posilek) — pobrana Z KARTY GC784D30, nazwa pliku nosi kod rodziny GC78/GI78"
+  },
+  {
+   "file": "produkt-04.png",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/38a3e5f0a030dc76/Digital-OPTIGRILL_4IN1_XL_GC784D_AUTOMATIC_PROGRAMS.png",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 2668828,
+   "sha256": "b0ec7c0a2fec059ca67bba77f82901104b0fe23d0efc9efa524e290760af5076",
+   "note": "grafika 12 programow automatycznych, kod GC784D w nazwie pliku"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/73da9c623cd4cf2e/Digital-OPTIGRILL_4IN1_2IN1_XL_GC78_GI78_XL_FORMAT.png",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 260181,
+   "sha256": "0619e6833f310c0e1f2edadc26b18697397fc2597189b43f5407efed23548abf",
+   "note": "grafika formatu XL (6-8 porcji) — pobrana Z KARTY GC784D30; twicpics oddal JPEG mimo rozszerzenia .png w zrodle, plik zapisany jako .jpg"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/18c392a1e78785b/Digital-OPTIGRILL-XL_GC784D_HEALTHIER-GRILLING-4-tif.tif",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 192596,
+   "sha256": "381158b9efa03b22a3edfea734d9a314ec30f3cdc1e91d4c405157738bb76bd0",
+   "note": "zdrowsze grillowanie (odprowadzanie tluszczu), kod GC784D w nazwie pliku"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/5b13d49e44bf0b38/Digital-TFL-OPTIGRILL-XL_GC78_ENDLESS-IDEAS-1-tif.tif",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 131778,
+   "sha256": "2c1f2c894b3ebb9097bacf8bd064c993c88cd43d5364fccd56466e81c2ae7c7d",
+   "note": "aranzacja z potrawami — pobrana Z KARTY GC784D30, nazwa pliku nosi kod rodziny GC78"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 9,
+   "sourceUrl": "repo projektu: dropshipping/materialy/logo/Tefal_logo.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+   "note": "logo marki Tefal — OSTATNIE w galerii"
+  }
+ ],
+ "dropped": 9,
+ "usunieteZGalerii": [
+  {
+   "file": "Digital-TFL_GC784D10_OPTIGRILL_4IN1_XL_EASY-TO-CLEAN",
+   "powod": "nazwa pliku wskazuje INNY wariant GC784D10"
+  },
+  {
+   "file": "Digital-Tefal_XA735810_2100131109_02_Visual2",
+   "powod": "plyty do gofrow XA735810 — akcesorium do kupienia OSOBNO, nie ma go w zestawie"
+  },
+  {
+   "file": "Digital-TS-01045950 / TS-01045960 / TS-01045931 / TS-01045870 / TS-01045940 / TS-01039530",
+   "powod": "czesci zamienne (plyty, taca, forma, stopki) ze sklepu akcesoriow — nie ilustruja oferty"
+  }
+ ]
+}

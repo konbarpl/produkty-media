@@ -1,0 +1,199 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-05",
+ "slug": "philips-bri940-00",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/BRI940_00 (PRX API, CTN BRI940/00)",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "produkt-10.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-11.jpg",
+  "produkt-14.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "type": "RTP",
+   "desc": "Standardowe zdjęcie produktu",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/235cb6e3a4424c378026afa4009fdff2",
+   "bytes": 68136,
+   "sha256": "902dc3c8e6332fa7c42819194879bba9099061f0f4a5f056d89883dfc552a8f3",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "type": "A1P",
+   "desc": "Zdjęcie prezentujące alternatywny produkt",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/d9acd03636284fc7ba7aaf9700f21dc9",
+   "bytes": 32008,
+   "sha256": "d4583eb51d19d2bfc6aa1f2f0113cef94ce3b21f612850f4d040eb40e1fefc97",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 6,
+   "type": "U2P",
+   "desc": "Zdjęcie prezentujące produkt w użyciu",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/c6e5c57150414cc2a7d6b11400d78a73",
+   "bytes": 93587,
+   "sha256": "fd80d70b820d7c5606837ce544d38581f6feda6cb80407c6ca023449b9ee31e7",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 7,
+   "type": "U1P",
+   "desc": "Zdjęcie prezentujące produkt w użyciu",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/4f72bfbf1fc74e5aadaab11400d78e2e",
+   "bytes": 99848,
+   "sha256": "7fb759a92da7d4c33fa6078509c6a3eccd050591af80491b2c12180c91678be6",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 8,
+   "type": "U3P",
+   "desc": "Zdjęcie prezentujące produkt w użyciu",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/bc0ec5febcdd4905b72fb11400d792af",
+   "bytes": 119896,
+   "sha256": "35b46d4c2b916a4396c84688dff2079f07efe87ac579974be00dbc29dfd159d8",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 11,
+   "type": "E1P",
+   "desc": "Zdjęcie prezentujące korzyści emocjonalne",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/5bf0dec145194d54bf0db0f3011be106",
+   "bytes": 139928,
+   "sha256": "a67f6120d38f5b424ee21c92ec3e2c74180aa512516ec5dbf88e1349d20fce28",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 12,
+   "type": "E2P",
+   "desc": "Zdjęcie prezentujące korzyści emocjonalne",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/261e5d5d134845fd8a7fb0f3011bdfb1",
+   "bytes": 161489,
+   "sha256": "6f547af4c9e5d7bd1f4e212e4f329060c35e90063e9a9979340bb44e37a04514",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 13,
+   "type": "E3P",
+   "desc": "Zdjęcie prezentujące korzyści emocjonalne",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/fef3c02b9b1a4640ae43b0f3011be2a1",
+   "bytes": 143065,
+   "sha256": "7b962c4f9b4fb9b00690e551d0969e540682f5d1b7aeb43489db59fb2f297aa5",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 5,
+   "type": "FEAT",
+   "desc": "Lumea 8000 Refresh Emerald Feature Image (PPL) FIM Fast results Corded",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/9233b5713f014bda84f1b11400d79b44",
+   "bytes": 96959,
+   "sha256": "9a7bb7ba3ae5b7006f7524e74fc6cbcafcb5838d7c35e5fa7ff76adda193608c",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 9,
+   "type": "FEAT",
+   "desc": "Lumea 8000 Refresh Emerald Feature Image (PPL) FIM Extra-long cable",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/1474146e71084e809572b11400d7a421",
+   "bytes": 146307,
+   "sha256": "e12552285ea90c3b571e0d3cf637f89c6d0fe7a03ad57459eeaed31fe14bb155",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 3,
+   "type": "FEAT",
+   "desc": "Lumea 8000 Refresh Emerald Feature Image (PPL) FIM_Smart_attachments",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/dac23bd363064c2abd41b13b0100b349",
+   "bytes": 141224,
+   "sha256": "1513cc73dafcb77b757c2c686e7ebdea78be16f97996428b4c1576bcac3598c8",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "product",
+   "order": 4,
+   "type": "FEAT",
+   "desc": "Lumea 8000 Refresh Emerald Feature Image (PPL) FIM_SenseIQ",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/0a8663a6edf04d579a76b10f0126086f",
+   "bytes": 77323,
+   "sha256": "ff8c450745c0ffb40f3faf863f87a5d7ed07348138c02efd5f4129c0e8589c5f",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "produkt-14.jpg",
+   "kind": "product",
+   "order": 10,
+   "type": "FEAT",
+   "desc": "Lumea 8000 Refresh Emerald Feature Image (PPL) App",
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/edd96d08e08c47979fe2b0f3011bba6d",
+   "bytes": 94260,
+   "sha256": "f99681cede1c0a87aaccdec67bf797d4a6be5cca7e4a2126eda2dd07ea4a12a2",
+   "width": 1200,
+   "height": 1200
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 14,
+   "type": "LOGO",
+   "desc": "logo marki Philips",
+   "sourceUrl": "repo produkty-media/philips-ep2331-10/logo-philips.png",
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+   "width": 525,
+   "height": 105
+  }
+ ],
+ "dropped": [],
+ "usunieteZGalerii": [
+  {
+   "file": "produkt-09.jpg",
+   "powod": "PRX opisuje ten asset jako \"Lumea 9000 9900 Refresh Onyx Feature Image\" — inna seria niz BRI940/00 (bramka tozsamosci zdjec)"
+  }
+ ]
+}

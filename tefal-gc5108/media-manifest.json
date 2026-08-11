@@ -1,0 +1,149 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-05T07:52:22.669Z",
+ "sourcePage": "https://www.euro.com.pl/grille/tefal-supergrill-gc5108-600cm2.bhtml",
+ "slug": "tefal-gc5108",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-supergrill-gc5108-600cm2.bhtml (galeria karty, CDN f00.esfr.pl/foto/5/163088333857/...)",
+   "width": 2362,
+   "height": 2362,
+   "bytes": 265204,
+   "sha256": "3e49b9db2541dfdb80cdbc0cc6d056cb447139dd4e13956e474e313b770a18ec",
+   "note": "packshot glowny: grill zamkniety, panel SUPERGRILL, pokretlo termostatu"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-supergrill-gc5108-600cm2.bhtml (galeria karty, CDN f00.esfr.pl/foto/5/163088333857/...)",
+   "width": 2362,
+   "height": 2362,
+   "bytes": 255442,
+   "sha256": "adba37c5d28eb7cfc7785b696e8f0a63d49c3346ee9ad444395e2504b6773d90",
+   "note": "packshot, drugi kat — ten sam korpus i panel SUPERGRILL"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-supergrill-gc5108-600cm2.bhtml (galeria karty, CDN f00.esfr.pl/foto/5/163088333857/...)",
+   "width": 2362,
+   "height": 2362,
+   "bytes": 1267452,
+   "sha256": "8e5c2c3fb6f1c6d73da1333f97efe4be7ccc32ef9a3765268eb343b782aaeb91",
+   "note": "aranzacja kuchenna: grill otwarty, plyty ryflowane, burgery i kanapki"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-supergrill-gc5108-600cm2.bhtml (galeria karty, CDN f00.esfr.pl/foto/5/163088333857/...)",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 979810,
+   "sha256": "982681cdb1952239ac1df50d8d97881beec31d42278678b79985a8b5f8831071",
+   "note": "grafika 3-w-1: grill / piekarnik / barbecue"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-supergrill-gc5108-600cm2.bhtml (galeria karty, CDN f00.esfr.pl/foto/5/163088333857/...)",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 881840,
+   "sha256": "39b91fa3a17ffa90595025f07bb558227f41e2057462f28462227a9b4cf195db",
+   "note": "grafika: tryb barbecue dzieki otwarciu 180 stopni"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-supergrill-gc5108-600cm2.bhtml (galeria karty, CDN f00.esfr.pl/foto/5/163088333857/...)",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 889998,
+   "sha256": "6b72ff8e5424d9f653f91a9bd713dc3a067ebf7835ea2a675ec50bccaed3baaf",
+   "note": "grafika: funkcja piekarnika, 3 regulowane wysokosci gornej plyty"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-supergrill-gc5108-600cm2.bhtml (galeria karty, CDN f00.esfr.pl/foto/5/163088333857/...)",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 623872,
+   "sha256": "0c89e704090941e2133bf756a370c5c6faf8a1fbec2f5ea49facdcb8f34f4548",
+   "note": "grafika: termostat, 3 ustawienia temperatury, lampka Ready"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-supergrill-gc5108-600cm2.bhtml (galeria karty, CDN f00.esfr.pl/foto/5/163088333857/...)",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 892747,
+   "sha256": "bf7702893b503cf9c88a79822e0d791d02aa0f6ade3dc563760cbb0b45488a9f",
+   "note": "grafika: zdejmowana tacka ociekowa i plyty do mycia w zmywarce"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-supergrill-gc5108-600cm2.bhtml (galeria karty, CDN f00.esfr.pl/foto/5/163088333857/...)",
+   "width": 2362,
+   "height": 2362,
+   "bytes": 692256,
+   "sha256": "e04e534cb83900cad9bfd5c70ead9d6e9b02ae200c5894d64ca25c8c8828cd43",
+   "note": "przechowywanie w pionie w szafce kuchennej"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-supergrill-gc5108-600cm2.bhtml (galeria karty, CDN f00.esfr.pl/foto/5/163088333857/...)",
+   "width": 1575,
+   "height": 1575,
+   "bytes": 159724,
+   "sha256": "fd68baa3b7a9ebc679ff94fed3d8279d41af109050c270392cf41e01c8bf1959",
+   "note": "rysunek wymiarowy 36,5 x 17,5 x 37,8 cm"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 11,
+   "sourceUrl": "repo projektu: dropshipping/materialy/logo/Tefal_logo.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+   "note": "logo marki Tefal — OSTATNIE w galerii"
+  }
+ ],
+ "dropped": 1,
+ "usunieteZGalerii": [
+  {
+   "file": "01.jpg (600x532)",
+   "powod": "ten sam packshot co produkt-01, ale w miniaturowej rozdzielczosci"
+  }
+ ]
+}

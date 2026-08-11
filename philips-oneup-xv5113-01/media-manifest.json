@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-04T20:00:17.316Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/XV5113_01.assets",
+  "slug": "philips-oneup-xv5113-01",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8ea0ae57_ff46_4df5_af8a1665a586f4fd?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 30608,
+      "sha256": "c15c05621d442f58e35c08772f428337ba6900b92c12f5cfae94a55217557ddc",
+      "caption": "2024_FC_5113_kitt_packaging_content"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2f692afd_e130_4d0b_8ee28e73f23976d1?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 7578,
+      "sha256": "2a795f837c41202e2627ca57d49d8082ec57fc42ec63e4ede523b2d37e111ba2",
+      "caption": "XV5113_A3_1x1"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_abc94ded_4c0c_4502_b9b410148aa3c0d2?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 5988,
+      "sha256": "3409d93bb09b7c8f7f71b5cc845ca8cfbf2c71fd628eb567aace2b9f79b26f33",
+      "caption": "XV5113_A2_1x1"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ba10d1ab_f7d5_4b8f_aee0b74ff98e9d10?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 154086,
+      "sha256": "8f984e65c1562bc8d6bb5318445a8ed2792a42ec8d0772fdc8e2a42732fcaf33",
+      "caption": "XV5113_DirtyWaterUp_1x1"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_77b16f15_2e62_4036_ac3fe18978261abd?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 210626,
+      "sha256": "a9b179982df6531464d0eea0d8dc824d72feffe1f3cb7b425611c75378421112",
+      "caption": "XV5113_2XCleanWetnesscontrol_1x1"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8a5d1981_2a6a_4ce2_a5df901d32901793?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 133332,
+      "sha256": "0fb5494b8573aead36c45e555362b8f126fabf41574d0e96bccd153b436aeac7",
+      "caption": "XV5113_NoBucket_1x1"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_fd58c571_47f7_40f2_8c3c95c513c2560d?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 31928,
+      "sha256": "76973385f691322a312bf192322b1e58741102c3372548d149d30b29cba423cd",
+      "caption": "XV5113_Battery_1x1"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3b3f405b_9276_4b3a_bc26581ff4d52521?wid=1200&hei=1200&fmt=png",
+      "width": 1200,
+      "bytes": 104118,
+      "sha256": "b78ae72104bcff96640bfdfd92cd6b994ac7ce31ed03692ea0e3d10cd80c5f5e",
+      "caption": "XV5113_AllFloors_1x1"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo:philips-oneup-xv3101-01/logo-philips.png",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0,
+  "kod": "XV5113/01",
+  "ean": "5906063263305"
+}

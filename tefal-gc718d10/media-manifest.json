@@ -1,0 +1,180 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-08T00:00:00Z",
+ "sourcePage": "https://www.tefal.pl/p/grill-elektryczny-tefal-optigrill-gc718d/7211005209",
+ "slug": "tefal-gc718d10",
+ "galleryOrder": [
+  "produkt-01.png",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.png",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/g/c/gc718dnowe.png",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 408651,
+   "sha256": "e46763cc4e4b1be5101bb9eb499a8d9d289ad0d0320baf15f55f4177d7bbe191",
+   "note": "packshot glowny z karty producenta tefal.pl GC718D10 (grill zamkniety, panel programow)"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/166247527/i-tefal-optigrill-gc718d10.jpg",
+   "width": 576,
+   "height": 424,
+   "bytes": 23641,
+   "sha256": "03db9755e3c1115ba2d4df2915d8cb6a2f3532568c5a27580f3365f97b2cf284",
+   "note": "galeria Ceneo ID 166247527, kod GC718D10 w nazwie pliku"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/166247527/74c1550c-c800-4478-9d48-c6b98da37304_i-tefal-optigrill-gc718d10.jpg",
+   "width": 584,
+   "height": 434,
+   "bytes": 28828,
+   "sha256": "fdd8d4edb7632f37f4d1d2adaa200b2d3102f1d4ff3ae5729551f898bb0b0596",
+   "note": "galeria Ceneo ID 166247527, kod GC718D10 w nazwie pliku"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://image.ceneostatic.pl/data/products/166247527/c203ce41-af65-46a1-b713-6ae168359577_i-tefal-optigrill-gc718d10.jpg",
+   "width": 600,
+   "height": 457,
+   "bytes": 34955,
+   "sha256": "57120579fad41aff64428d78f5adb885609639ca4f0bd2cfc7e30a1ab09f931c",
+   "note": "galeria Ceneo ID 166247527, kod GC718D10 w nazwie pliku"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-optigrill-gc718d10.bhtml (galeria f00.esfr.pl/foto/7/139813746825/...)",
+   "width": 1575,
+   "height": 1575,
+   "bytes": 401204,
+   "sha256": "cd2ee9cc56ee8e8f83c3624fb09db92518e12e669380b89faddacabe7fd53bee",
+   "note": "scena uzycia: grill na blacie kuchennym, steki na kamiennej desce | RTV Euro AGD, pobrane headful 8.08.2026 (CDN blokuje curl)"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-optigrill-gc718d10.bhtml (galeria f00.esfr.pl/foto/7/139813746825/...)",
+   "width": 1575,
+   "height": 1181,
+   "bytes": 318323,
+   "sha256": "1f69c5af512eea5f97727a2a8f654f9fe304f1a1dd7d474b088204ed06d716ba",
+   "note": "otwarty grill z panini i kanapkami na plytach | RTV Euro AGD, pobrane headful 8.08.2026 (CDN blokuje curl)"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-optigrill-gc718d10.bhtml (galeria f00.esfr.pl/foto/7/139813746825/...)",
+   "width": 1575,
+   "height": 1575,
+   "bytes": 299736,
+   "sha256": "c5679809d70a2ef46a6e32185d544588311f5b7c7cbacc39cca8f44a5f1aafee",
+   "note": "otwarty grill, bulki miedzy plytami — widoczna praca obu plyt | RTV Euro AGD, pobrane headful 8.08.2026 (CDN blokuje curl)"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-optigrill-gc718d10.bhtml (galeria f00.esfr.pl/foto/7/139813746825/...)",
+   "width": 1575,
+   "height": 1181,
+   "bytes": 317730,
+   "sha256": "5627e73e7ccb5698c6414fe643d87e870baa2f4e3d71ff0b8b21c3a12dc5b3df",
+   "note": "szaszlyki na plycie grillowej, szczypce z zestawu | RTV Euro AGD, pobrane headful 8.08.2026 (CDN blokuje curl)"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-optigrill-gc718d10.bhtml (galeria f00.esfr.pl/foto/7/139813746825/...)",
+   "width": 1575,
+   "height": 1181,
+   "bytes": 293725,
+   "sha256": "a9e0124d9de93bd99dc4bd0b00a81c81e5a20b38d053a3b3c6fe1a57e482b97a",
+   "note": "papryki i warzywa na plycie — grillowanie warzyw | RTV Euro AGD, pobrane headful 8.08.2026 (CDN blokuje curl)"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-optigrill-gc718d10.bhtml (galeria f00.esfr.pl/foto/7/139813746825/...)",
+   "width": 1575,
+   "height": 1575,
+   "bytes": 246655,
+   "sha256": "8f54c3f237cefeee562bb7b836ede37ff28f70782a8734c99f36e017c33ff7d6",
+   "note": "zblizenie: mieso miedzy plytami, oznaczenie Automatic Sensor Cooking | RTV Euro AGD, pobrane headful 8.08.2026 (CDN blokuje curl)"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://www.euro.com.pl/grille/tefal-optigrill-gc718d10.bhtml (galeria f00.esfr.pl/foto/7/139813746825/...)",
+   "width": 1790,
+   "height": 1220,
+   "bytes": 191153,
+   "sha256": "6d7912b4d32b753eeed9217e64550295e2dfee95cd300349b524e33407e2bc25",
+   "note": "rysunek wymiarowy producenta: 36,5 x 36,5 x 17,5 cm | RTV Euro AGD, pobrane headful 8.08.2026 (CDN blokuje curl)"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 12,
+   "sourceUrl": "repo projektu: dropshipping/materialy/logo/Tefal_logo.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+   "note": "logo marki Tefal — OSTATNIE w galerii"
+  }
+ ],
+ "dropped": 3,
+ "usunieteZGalerii": [
+  {
+   "file": "Medium-TFL_OPTIGRILL_-INOX_GC717D10_PERFECT-GRILLING_.jpg",
+   "powod": "nazwa pliku wskazuje INNY model GC717D10 — bramka tozsamosci"
+  },
+  {
+   "file": "Digital-TS-01039391 / TS-01039401 / TS-01039270 / TS-01039530",
+   "powod": "czesci zamienne i plyty kupowane osobno, nie packshoty produktu"
+  }
+ ],
+ "wzmocnienieGalerii": {
+  "kiedy": "2026-08-08",
+  "powod": "galeria miala 4 kadry produktowe na kilkanascie sekcji opisu — opis ETAPU 2 musial byc okrojony",
+  "zrodlo": "https://www.euro.com.pl/grille/tefal-optigrill-gc718d10.bhtml",
+  "dodane": [
+   "produkt-05.jpg",
+   "produkt-06.jpg",
+   "produkt-07.jpg",
+   "produkt-08.jpg",
+   "produkt-09.jpg",
+   "produkt-10.jpg",
+   "produkt-11.jpg"
+  ],
+  "odrzucone": "z 16 pobranych: duplikaty produkt-01..04 (inne rozdzielczosci) oraz weziutkie kadry tych samych scen"
+ }
+}

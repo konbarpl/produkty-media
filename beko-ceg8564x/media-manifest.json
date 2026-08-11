@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-09T06:30:00.531905Z",
+  "sourcePage": "https://www.electro.pl/agd-male/do-kuchni/ekspresy-cisnieniowe/ekspres-beko-caffeexperto-ceg8564x",
+  "slug": "beko-ceg8564x",
+  "model": "CEG8564X",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-01.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.electro.pl/api/images/gallery_1000_1000/thumbnails/images/10/10144663/2126035.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 118260,
+      "sha256": "49e32f72bf831e33813f4eb67ddbc03787c8c7c4f93420bbef2a400bc850d191"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.electro.pl/api/images/gallery_1000_1000/thumbnails/images/10/10144663/Ekspres-BEKO-CaffeExperto-CEG8564X-Czarno-srebrny-1.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 79459,
+      "sha256": "3f3ae4ca2a17d5f81f161877892f79012e76b3b0d1ee502ec84c04a9a75935d8"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.electro.pl/api/images/gallery_1000_1000/thumbnails/images/10/10144663/Ekspres-BEKO-CaffeExperto-CEG8564X-Czarno-srebrny-2.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 70193,
+      "sha256": "33987753e09763c45ff02f5bb2824799b5fa72682c819ed56fecc70eb3dc33a5"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.electro.pl/api/images/gallery_1000_1000/thumbnails/images/10/10144663/Ekspres-BEKO-CaffeExperto-CEG8564X-Czarno-srebrny-3.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 64273,
+      "sha256": "f6327574e4dd7cd622a42c35c342f20bb929ad5f20d9e6b9a57f0ff95e3c8d20"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.electro.pl/api/images/gallery_1000_1000/thumbnails/images/10/10144663/Ekspres-BEKO-CaffeExperto-CEG8564X-Czarno-srebrny-4.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 80840,
+      "sha256": "9e55d1ed367017c5167ccdd134ae48a560cc9402bae9a8388e9c6dd418c36f97"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.electro.pl/api/images/gallery_1000_1000/thumbnails/images/10/10144663/Ekspres-BEKO-CaffeExperto-CEG8564X-Czarno-srebrny-5.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 112729,
+      "sha256": "94e14504d7c69baf099603f0a0fde615ba7c76c7bce15139973438d7201edbd3"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.electro.pl/api/images/gallery_1000_1000/thumbnails/images/10/10144663/Ekspres-BEKO-CaffeExperto-CEG8564X-Czarno-srebrny-6.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 113715,
+      "sha256": "6e35aa37071e3149c513cc949390d526255d89514399602827fd2b53fd462fc3"
+    },
+    {
+      "file": "logo-01.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "repo produkty-media/beko-ceg7304x/logo-01.png (logo marki BEKO)",
+      "width": 960,
+      "height": 170,
+      "bytes": 5508,
+      "sha256": "300be403576c2da2256f9f9d04fc350e36c7b0fa5dfea09dfa3bfb2c23601f99"
+    }
+  ],
+  "dropped": 0,
+  "visualIdentityCheck": "PASS"
+}

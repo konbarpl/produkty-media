@@ -1,0 +1,121 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-05T10:05:00.000Z",
+ "sourcePage": "https://mirapolnext.pl/grill-elektryczny-tefal-optigrill-gc716d12-p-26524.html",
+ "slug": "tefal-gc716d12",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/137250/produkt/137250-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 333385,
+   "sha256": "f561bd9da90a03a1697bb5ab00d2d51812984b5e1dbe0fab269b6bc1cb377572",
+   "note": "packshot CALEGO zestawu: grill otwarty, grill zamkniety, plyty do gofrow i chochla"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/137250/produkt/137250-2.jpg",
+   "width": 1314,
+   "height": 986,
+   "bytes": 153034,
+   "sha256": "18d4de5445e80e8d2aedb65ad70400afd16bfa197b729106cd09fcd50e537ebf",
+   "note": "ujecie od frontu: panel sterowania z pierscieniem wysmazenia i tacka ociekowa"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/137250/produkt/137250-3.jpg",
+   "width": 844,
+   "height": 852,
+   "bytes": 93200,
+   "sha256": "e0773a7434106ef2c7fe0546ec9eea3221057fbb19e8198926d0238363965533",
+   "note": "grill otwarty z zamontowanymi plytami do gofrow"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/137250/produkt/137250-4.jpg",
+   "width": 908,
+   "height": 860,
+   "bytes": 93773,
+   "sha256": "eae2ae97505783559ce9b1413c742103d9423fb859adccc2802f72af333b631b",
+   "note": "grill rozlozony pionowo z plytami do gofrow"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/137250/produkt/137250-5.jpg",
+   "width": 862,
+   "height": 852,
+   "bytes": 96085,
+   "sha256": "a4c94201c8e8ebc6c4e417c5be21a3982c53baaa0d854ff32c3f7a7f83a9ccab",
+   "note": "grill otwarty ze standardowymi plytami ryflowanymi"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/137250/produkt/137250-6.jpg",
+   "width": 938,
+   "height": 556,
+   "bytes": 81583,
+   "sha256": "2c75bf161a45ba54505de78224f2ec12f99d3e6d88eeb9baf78731f0395f4824",
+   "note": "detal panelu sterowania i wskaznika poziomu wysmazenia"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/137250/3.jpg",
+   "width": 700,
+   "height": 520,
+   "bytes": 75533,
+   "sha256": "dc3907215471f5258d939ce966a9227876c0accecb759d0493a7c690d0621415",
+   "note": "packshot akcesoriow z zestawu: para plyt do gofrow i chochla"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 8,
+   "sourceUrl": "repo projektu: dropshipping/materialy/logo/Tefal_logo.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+   "note": "logo marki Tefal — OSTATNIE w galerii"
+  }
+ ],
+ "dropped": 4,
+ "usunieteZGalerii": [
+  {
+   "file": "137250/1.jpg, 2.jpg, 4.jpg",
+   "powod": "powielaja ujecia z serii produktowej (ten sam kadr, mniejsza rozdzielczosc)"
+  },
+  {
+   "file": "kdx24 _original_TEFAL-GC716D12...jpg",
+   "powod": "440x440, duplikat kadru frontowego"
+  },
+  {
+   "file": "f00.esfr.pl (RTV Euro AGD)",
+   "powod": "CDN oddaje HTTP 403 (DataDome) — zdjec nie da sie pobrac"
+  }
+ ]
+}

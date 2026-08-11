@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-04T21:30:33.941Z",
+  "sourcePage": "https://www.philips.pl/c-p/BRI921_00/lumea-advanced-urzadzenie-ipl-do-depilacji-swiatlem",
+  "slug": "philips-bri921-00",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.jpg",
+    "produkt-03.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/c26b09e0197a42abb958ab5a00fa9926?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 19828,
+      "sha256": "00527d9c11d1508835ae6cd37d535749252c0d4f001bd187652bed4716acb6a4"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/3184556c0b174be89873af4a00ea0717?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 30045,
+      "sha256": "2adc87d7ee67483410bb87e5ada973819d87c50b32890e374ef1e7533827b176"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/ef5175bc09964e41aa11af4a009e21f2?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 32132,
+      "sha256": "9a4d4fce6f259e959ba9cd31d33b506a4d462b91f51318f6c7c0ed8f2add3cc6"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/05f0cec33d81407db63cb10a0102b207?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 56366,
+      "sha256": "b899335b5f6521483c995cfcd14b08890d41c10708d70df88e727aa23a9fecfd"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/dae3b4a5d881420d8236b0e60148e0cf?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 90206,
+      "sha256": "124a354b3e4f3d8cb31fba0fc0a226d417d040862b1edac329b372b63a1b4bfb"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/c6c8044735d046ad8c70b0e60148dc70?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 57978,
+      "sha256": "1a0b64868a9bcf9d4b9e00d473bcfc6f19f0f568fe742471edd2c471634c5cd2"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/ba0a618414304087bbc0af8900cda249?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 13608,
+      "sha256": "e05acb4e9a5a99697db685bf9c8e02bfc89ac443fafc5f9768530a214f0e4c50"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/6bf8c4719fef4e60a7aeb10a0102ae8d?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 36540,
+      "sha256": "ba6a9e058e89978934d0b01a1351c731d63f4702d14e65c293b3abd28965ac5d"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/3fc00c1b7cf340598defb0e60148f941?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 53474,
+      "sha256": "ea5a43ea5bcc490708aa4387a8ba29a7c4bf807dac965f8de56671277857246c"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo produkty-media/philips-ep2331-10/logo-philips.png (logo marki, kopia)",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "height": 105
+    }
+  ],
+  "dropped": 0,
+  "curation": "04.08.2026 wykonawca: usunieto produkt-04 (grafika logo PHILIPS - logo marki wchodzi osobnym plikiem na koniec galerii) i produkt-11 (baner kampanii asimpleswitch.com, nie zdjecie produktu). Weryfikacja wzrokowa kontaktowki."
+}
