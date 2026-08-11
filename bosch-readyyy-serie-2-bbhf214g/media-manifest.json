@@ -1,0 +1,154 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-11T19:36:51Z",
+ "sourcePage": "https://www.bosch-home.pl/lista-produktow/BBHF214G",
+ "slug": "bosch-readyyy-serie-2-bbhf214g",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "produkt-08.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "produkt-11.webp",
+  "produkt-12.webp",
+  "logo-bosch.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03029316_J3130_2344669_BBHF214G_korr_def.webp",
+   "width": 702,
+   "height": 3249,
+   "bytes": 68778,
+   "sha256": "9dd6400d9217acd06c0ecf13813400d223633ecbbd454625805b0e18961291ca"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03220504_BO_T_14_THA_other_BBHF214G_picture_KF1_perspective_ENG_270619_def.webp",
+   "width": 1481,
+   "height": 3910,
+   "bytes": 65330,
+   "sha256": "48b02d0238de243757c297e6ae222c08b5ee76b953b058f997eb63845f52af74"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03220516_BO_T_14_THA_other_BBHF214G_picture_KF2_with_handheld_ENG_270619_def.webp",
+   "width": 1069,
+   "height": 3827,
+   "bytes": 50326,
+   "sha256": "9049a43f8ade0e21fbb372f12e5f047f6c745d4c166b5094fa7b70e6fed35d2d"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03220534_BO_T_14_THA_other_BBHF214G_picture_KF3_any_cleaning_task_ENG_270619_def.webp",
+   "width": 2237,
+   "height": 4000,
+   "bytes": 170978,
+   "sha256": "583326c5db7c76218dbad9ee2ccbdfe3c2751f5030aa6636dc861a148a99e675"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03220570_BO_T_14_THA_other_BBHF214G_picture_KF4_quick_at_hand_ENG_270619_def.webp",
+   "width": 2246,
+   "height": 4000,
+   "bytes": 489866,
+   "sha256": "3853a6c665fb812e1fab48f089d7b8131e5731308d237a4237ef00a134abade1"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03220597_BO_T_14_THA_other_BBHF214G_picture_KF5_lasting_cleaning_performance_ENG_270619_def.webp",
+   "width": 2243,
+   "height": 4000,
+   "bytes": 417018,
+   "sha256": "25dde6e2b3923ffe323cb697691f518d2cfe665669a1c5bb61bdda6f51cea984"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03220773_BO_T_14_THA_other_BBHF214G_picture_nKF_super_flat_design_ENG_270619_def.webp",
+   "width": 3770,
+   "height": 2675,
+   "bytes": 277688,
+   "sha256": "fe2a96c1adee4674eb233a055d8eb883913280747404989601b5fe8b7e3fa64f"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03220727_BO_T_14_THA_other_BBHF214G_picture_nKF_flexible_ENG_270619_def.webp",
+   "width": 3543,
+   "height": 2523,
+   "bytes": 111684,
+   "sha256": "aea30300182c0462c9f276e0ee202984832f12fb4292a1866cff324bce7ea5c9"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03220725_BO_T_14_THA_other_BBHF214G_picture_nKF_cordless_ENG_270619_def.webp",
+   "width": 3138,
+   "height": 2256,
+   "bytes": 462252,
+   "sha256": "aa3a09a0ca892bc9a713b90121b20d2b63b7a942b8e68dd2718e944c2fbcdb2e"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03220771_BO_T_14_THA_other_BBHF214G_picture_nKF_solid_freestand_ENG_270619_def.webp",
+   "width": 3543,
+   "height": 2516,
+   "bytes": 406368,
+   "sha256": "8e15d9419bd2ccf2aad4edbc234a9f5ecb9b03a8539f2765bdeae398d3ed44da"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03220661_BO_T_14_THA_other_BBHF214G_picture_nKF_all_floor_brush_ENG_270619_def.webp",
+   "width": 3195,
+   "height": 2285,
+   "bytes": 226054,
+   "sha256": "e38183a12f57a85346a0c9785234077fe3cd78faefe09195c7ac517f03835df0"
+  },
+  {
+   "file": "produkt-12.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03220614_BO_T_14_THA_other_BBHF214G_picture_nKF_airflow_ENG_270619_def.webp",
+   "width": 4000,
+   "height": 3000,
+   "bytes": 134228,
+   "sha256": "8c84a86a081961e336f21525328a6dd4af6e3250727d2297372fb942bf1ff113"
+  },
+  {
+   "file": "logo-bosch.jpg",
+   "kind": "logo",
+   "order": 13,
+   "sourceUrl": "repo: produkty-media/bosch-advancedvac-20/logo-bosch.jpg",
+   "width": 1008,
+   "height": 226,
+   "bytes": 51914,
+   "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+  }
+ ],
+ "dropped": 0
+}
