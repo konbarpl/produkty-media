@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T18:18:28.469Z",
+  "sourcePage": "https://www.br-mannesmann.com/products/89-teiliges-universal-werkzeugsortiment-im-klappkoffer",
+  "slug": "mannesmann-m29085",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "logo-mannesmann.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0572/7155/0138/files/29085WerkzeugkofferMotiv1.jpg",
+      "width": 1600,
+      "bytes": 310286,
+      "sha256": "c20d74f295ebb470da45e03f29ce051276751d7ed39ba04f89b07f73c01c87e7"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0572/7155/0138/files/29085WerkzeugkofferMotiv2.jpg",
+      "width": 1500,
+      "bytes": 310839,
+      "sha256": "59991462c644842a5be380e1235c4390356b94bc4b630e965a1476792738823c"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0572/7155/0138/files/29085WerkzeugkofferMotiv4.jpg",
+      "width": 1300,
+      "bytes": 304909,
+      "sha256": "ecf2eb992a7f9af054214820ca03f2984d6f3f9c10a6a1f721ef2dd65d3fba0c"
+    },
+    {
+      "file": "logo-mannesmann.jpg",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "repo produkty-media (kopia z dropshipping/materiały/logo/mannesmann.jpg wg wiedza/reference_logo_marek.md)",
+      "bytes": 46015,
+      "sha256": "9bc32b3fbbb6093808fe292bdde9d6137cd4aefe349018c1c73ebcb59a06bb6f",
+      "caption": "logo marki Brüder Mannesmann"
+    }
+  ],
+  "dropped": 0
+}
