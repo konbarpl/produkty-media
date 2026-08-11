@@ -1,25 +1,15 @@
 {
   "version": 1,
   "generatedAt": "2026-08-11T18:19:23.973Z",
+  "curatedAt": "2026-08-11T18:54:00.000Z",
   "sourcePage": "https://www.makita.pl/product/dbo180z.html",
   "slug": "makita-dbo180z",
+  "note": "Wersja BODY (bez akumulatora/ladowarki/walizki) — z 16 oficjalnych zdjec zoom Makita odrzucono 13 pokazujacych akumulator (zgodnie z parametrami zlecenia); logo marki dograne na koniec.",
   "galleryOrder": [
     "produkt-01.jpg",
     "produkt-02.jpg",
     "produkt-03.jpg",
-    "produkt-04.jpg",
-    "produkt-05.jpg",
-    "produkt-06.jpg",
-    "produkt-07.jpg",
-    "produkt-08.jpg",
-    "produkt-09.jpg",
-    "produkt-10.jpg",
-    "produkt-11.jpg",
-    "produkt-12.jpg",
-    "produkt-13.jpg",
-    "produkt-14.jpg",
-    "produkt-15.jpg",
-    "produkt-16.jpg"
+    "logo-makita.jpg"
   ],
   "files": [
     {
@@ -35,137 +25,44 @@
       "file": "produkt-02.jpg",
       "kind": "product",
       "order": 2,
-      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_C2C0.jpg",
-      "width": 1000,
-      "bytes": 295990,
-      "sha256": "4edb1ad9d5918bb7ed69c6aaed887b77fd1162131f7f954254c2a3276578dedc"
-    },
-    {
-      "file": "produkt-03.jpg",
-      "kind": "product",
-      "order": 3,
-      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_C2C0_S01.jpg",
-      "width": 1000,
-      "bytes": 290963,
-      "sha256": "c8f6ba22616b9bbb228006a82ca14e1441adabe9d8172e3dd7d5a108661e82eb"
-    },
-    {
-      "file": "produkt-04.jpg",
-      "kind": "product",
-      "order": 4,
-      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_C2L0.jpg",
-      "width": 1000,
-      "bytes": 382922,
-      "sha256": "9d89bf46b09d20e894072620fe338413ea0d21c439f289e94837ebeedde0e25b"
-    },
-    {
-      "file": "produkt-05.jpg",
-      "kind": "product",
-      "order": 5,
-      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_C2L0_s101.jpg",
-      "width": 1000,
-      "bytes": 384764,
-      "sha256": "bb7f05a4b981f1ada98ae696eb0f42a96a9287a901b843904534970aac336dbe"
-    },
-    {
-      "file": "produkt-06.jpg",
-      "kind": "product",
-      "order": 6,
-      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_C2R0.jpg",
-      "width": 1000,
-      "bytes": 311428,
-      "sha256": "542ad3d8d17e0c228e2fbd4632673c6b5d31e743d7ea1941a30982d9b842564d"
-    },
-    {
-      "file": "produkt-07.jpg",
-      "kind": "product",
-      "order": 7,
-      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_C7C0.jpg",
-      "width": 619,
-      "bytes": 248686,
-      "sha256": "2c3933e9ea4b2c12d22511418b6f5c25abd8613eac4426454cd7882971ff387f"
-    },
-    {
-      "file": "produkt-08.jpg",
-      "kind": "product",
-      "order": 8,
-      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_C8C0.jpg",
-      "width": 1000,
-      "bytes": 294098,
-      "sha256": "89705a073c09aaebfda5cff6c571c45282dd232625fe90d3aeb7d9226d710fdd"
-    },
-    {
-      "file": "produkt-09.jpg",
-      "kind": "product",
-      "order": 9,
-      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_C8L0.jpg",
-      "width": 1000,
-      "bytes": 311067,
-      "sha256": "3842718433447479250bb048a932b1bf61379389493dce43c88ecef620b883fe"
-    },
-    {
-      "file": "produkt-10.jpg",
-      "kind": "product",
-      "order": 10,
-      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_C8R0.jpg",
-      "width": 1000,
-      "bytes": 391185,
-      "sha256": "42f75ba17ec0d84dd3784022cc990acc237a85b493fe86f934a1f63b0cfec09f"
-    },
-    {
-      "file": "produkt-11.jpg",
-      "kind": "product",
-      "order": 11,
-      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_D1CK.jpg",
-      "width": 1000,
-      "bytes": 566091,
-      "sha256": "8c5beba7e004e71eced22d174728ccb9bd42cc57d9e415299b7df6dff04be2c0"
-    },
-    {
-      "file": "produkt-12.jpg",
-      "kind": "product",
-      "order": 12,
-      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_D1CK_s02.jpg",
-      "width": 1000,
-      "bytes": 756423,
-      "sha256": "550da21d78578832413a6650065a02071282174b25a38b4ed8878ca83b74e366"
-    },
-    {
-      "file": "produkt-13.jpg",
-      "kind": "product",
-      "order": 13,
       "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_F_001.jpg",
       "width": 1000,
       "bytes": 466113,
       "sha256": "c39d1089f10e017a657d1ccbb27f52dcc05bdbf3b3636a68c42e467fde24df6a"
     },
     {
-      "file": "produkt-14.jpg",
+      "file": "produkt-03.jpg",
       "kind": "product",
-      "order": 14,
-      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_F_002.jpg",
-      "width": 1000,
-      "bytes": 299226,
-      "sha256": "f0e274be40729906eefb2c6a61618114089030800b5d7a713bda4e9a0c1c9e19"
-    },
-    {
-      "file": "produkt-15.jpg",
-      "kind": "product",
-      "order": 15,
+      "order": 3,
       "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_F_003.jpg",
       "width": 1000,
       "bytes": 521645,
       "sha256": "fcae76b5d48e666a31195d79d91acc51b629c18c1412e4cf9076a06ad096b237"
     },
     {
-      "file": "produkt-16.jpg",
-      "kind": "product",
-      "order": 16,
-      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_F_004.jpg",
-      "width": 1000,
-      "bytes": 785856,
-      "sha256": "9f9d16e25de6115490b422dc565436dd8ac18724e88627e3d8c389bf4295fbdf"
+      "file": "logo-makita.jpg",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "dropshipping/materiały/logo/makita.jpg",
+      "width": null,
+      "bytes": 50812,
+      "sha256": null
     }
   ],
-  "dropped": 0
+  "dropped": 13,
+  "droppedDetail": [
+    { "file": "DBO180_C2C0.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_C2C0_S01.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_C2L0.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_C2L0_s101.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_C2R0.jpg", "reason": "dwa akumulatory w kadrze" },
+    { "file": "DBO180_C7C0.jpg", "reason": "zbliżenie na akumulator" },
+    { "file": "DBO180_C8C0.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_C8L0.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_C8R0.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_D1CK.jpg", "reason": "kolaz lifestyle z akumulatorem, mieszane narzędzia" },
+    { "file": "DBO180_D1CK_s02.jpg", "reason": "akumulator zamontowany w kadrze (uzycie w dloni)" },
+    { "file": "DBO180_F_002.jpg", "reason": "zbliżenie na akumulator/pojemnik z akumulatorem w kadrze" },
+    { "file": "DBO180_F_004.jpg", "reason": "akumulator w tle kadru (rozmyty, ale rozpoznawalny)" }
+  ]
 }
