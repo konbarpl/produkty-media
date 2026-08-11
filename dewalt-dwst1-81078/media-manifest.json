@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T20:05:31.374Z",
+  "sourcePage": "https://www.dewalt.de/de-de/produkt/dwst1-81078-qw/tstak-akku-u-netzradio-mit-ladefunktion",
+  "slug": "dewalt-dwst1-81078",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "logo-dewalt.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://assets.dewalt.de/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWST1-81078_1_1680.webp",
+      "width": 1680,
+      "bytes": 152582,
+      "sha256": "3e3f6cbcadaa0aff4906c3f4497e6e2ccdce35bbc449ae83a8d1b837c1b4ed1e"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://assets.dewalt.de/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWST1-81078_2_1680.webp",
+      "width": 1679,
+      "bytes": 138884,
+      "sha256": "9e77dd134c6fa6930e98868eaf7e7d0590e1e2eb9b24a738f2711587bf799c2c"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://assets.dewalt.de/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWST1-81078_3_1680.webp",
+      "width": 1680,
+      "bytes": 139336,
+      "sha256": "50a2ef60e22c01f14e52f5c36227ed6871ec2fda4f08c07e10ff1e716eda821d"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://assets.dewalt.de/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWST1-81078_4_1680.webp",
+      "width": 1680,
+      "bytes": 169874,
+      "sha256": "1a049c4de87c5b103b9532b4356f1e1d432e3f5ac8702e4992154e2e3cf49335"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://assets.dewalt.de/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWST1-81078_5_1680.webp",
+      "width": 1680,
+      "bytes": 117458,
+      "sha256": "7e61b67e573c3017f2b1ca4dfdd0f7ddc414abc9d2571cbe70355baf0673a03e"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://assets.dewalt.de/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWST1-81078_6_1680.webp",
+      "width": 1680,
+      "bytes": 112722,
+      "sha256": "51840be16ff0ab5c613dd345f20d4ec4b34b62d6d481f3f6b266fe888b548e5e"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://assets.dewalt.de/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWST1-81078_7_1680.webp",
+      "width": 1680,
+      "bytes": 109292,
+      "sha256": "9e02c4b5fed4c85871a4db3ac7573f287e635ada87f3484112cb0644242cf6b4"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://assets.dewalt.de/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWST1-81078_8_1680.webp",
+      "width": 1680,
+      "bytes": 102008,
+      "sha256": "24810215d290f5129b4fcb0676beb9c7a9f8b2e61fae904727e52215aeb632bf"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://assets.dewalt.de/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DWST1-81078_9_1680.webp",
+      "width": 1680,
+      "bytes": 111124,
+      "sha256": "c836540fbc7f9c00760422b4ee098dce5abf97fd3899c776a34e833c1319eb02"
+    },
+    {
+      "file": "logo-dewalt.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "repo produkty-media (dropshipping/materiały/logo/dewalt.jpg, logo marki DeWalt)",
+      "width": 1200,
+      "height": 458,
+      "bytes": 58079,
+      "sha256": "300830acca3d425175f1344d089f523cb2d99851827f25933c0758d41bbd715b"
+    }
+  ],
+  "dropped": 0
+}
