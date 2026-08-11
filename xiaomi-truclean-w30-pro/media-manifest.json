@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T20:17:41.699Z",
+  "sourcePage": "https://www.mi.com/pl/product/xiaomi-truclean-w30-pro-wet-dry-vacuum/",
+  "slug": "xiaomi-truclean-w30-pro",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "produkt-09.png",
+    "produkt-10.png",
+    "produkt-11.png",
+    "produkt-12.png",
+    "produkt-13.png",
+    "produkt-14.png",
+    "produkt-15.png",
+    "produkt-16.png",
+    "produkt-17.png",
+    "logo-xiaomi.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/c8f22d381bfa538db5a3f40b1937eb2b.jpg",
+      "width": 2560,
+      "bytes": 1592084,
+      "sha256": "b69c4d8108d64eb732921c2c41800472fc9967bebe00bec94e7ee6b0ad3700bb",
+      "height": 1350
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/e68381b212dbf47506fdb19f400cf775.jpg",
+      "width": 2560,
+      "bytes": 557667,
+      "sha256": "f6db97c57c76adb975582751445d191166597db064b446fb4143d9aca166b884",
+      "height": 1762
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/f9d51006da71d496d6aa9e849591d7d5.png",
+      "width": 582,
+      "bytes": 113687,
+      "sha256": "5dc1244d71318420c3e2d8638a1482ba1042a6aa2d085883db34640c89a0ec82",
+      "height": 1080
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/63b3340c993a276909197ea4acd3b830.png",
+      "width": 580,
+      "bytes": 54010,
+      "sha256": "8ecff1346765a1258f5bdccb7b040597794ef0223c5826527e58fd55ce5de921",
+      "height": 953
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/905f5cc38d85dda8b35d60e670da2c09.png",
+      "width": 1800,
+      "bytes": 347205,
+      "sha256": "5d54fb03233a29da42cc41eddf10875f3d088a8351ceedac75a105cc3c35b373",
+      "height": 815
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/9fa438e46c994f95898d0953f31c3d25.png",
+      "width": 1800,
+      "bytes": 207491,
+      "sha256": "157911b12f523f6a333284cbd7bfb168ac7f6a720d162b9b5d36841d21dacc68",
+      "height": 815
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/9fe4be3b21e47d95c0b5a1f580ec4561.png",
+      "width": 1800,
+      "bytes": 204567,
+      "sha256": "541e388f02b7db124cd5b9eb2aea925b6adee1dff49f466fea8c947a0b1a0c71",
+      "height": 815
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/177b02b2d825cc96c80a69f87212f0d7.png",
+      "width": 885,
+      "bytes": 115011,
+      "sha256": "ee85bfb063997593c584b2123b1e05a9e6fb7b4789a052d439959e5a5ab708ca",
+      "height": 913
+    },
+    {
+      "file": "produkt-09.png",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/90af1d1fa74cc3d05ce6b51ceb948b49.png",
+      "width": 582,
+      "bytes": 104741,
+      "sha256": "90188cfb6074a2e64efdb928b70744072bcdbc2f7923d9201a7b4c12a851d1ad",
+      "height": 1080
+    },
+    {
+      "file": "produkt-10.png",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/00b1d2f5dc270cd5a7c378b9e5cac078.png",
+      "width": 583,
+      "bytes": 82689,
+      "sha256": "64ac16f98dd76284a5df274effa23a11fa5f7eaa5049b0bb4700838cba435687",
+      "height": 953
+    },
+    {
+      "file": "produkt-11.png",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/37a1966910e8ad971488105ef9da80a2.png",
+      "width": 885,
+      "bytes": 94073,
+      "sha256": "04910c4659d2349dd94290e383fa60c25c4958c937c27174da7cd116d788500a",
+      "height": 1233
+    },
+    {
+      "file": "produkt-12.png",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/7a4614866c2dfd85b36cb8390a725abf.png",
+      "width": 1800,
+      "bytes": 336616,
+      "sha256": "3fb89237bdf4b2c658e0a3ebaa9f669a553521f9bad731ac5b770387f5610d1e",
+      "height": 815
+    },
+    {
+      "file": "produkt-13.png",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/106b9bd374630236cd714f6639a5b77a.png",
+      "width": 886,
+      "bytes": 171934,
+      "sha256": "31d4a08fc35698d7707d40c3f93ccc23ccec90588bd598deb3e82aca5fde8c55",
+      "height": 1233
+    },
+    {
+      "file": "produkt-14.png",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/1e776e33cd196e6465222cb2cfd8f8f4.jpg",
+      "width": 2560,
+      "bytes": 416255,
+      "sha256": "0bc9355905c741731605e02ad864398d6657e5f94160a7d24a970142d59dfbc7",
+      "height": 1294
+    },
+    {
+      "file": "produkt-15.png",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/c3e759bb84cf90d52ca9f4091a755f2c.png",
+      "width": 582,
+      "bytes": 55091,
+      "sha256": "6870c9ddae30680bcc96342c0c92c235a5ada606c2754a2875f4e2fb41ae1a8e",
+      "height": 1210
+    },
+    {
+      "file": "produkt-16.png",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/df884190d48190634c7b3a0049b3934b.png",
+      "width": 1800,
+      "bytes": 930522,
+      "sha256": "e42330f9e8d3b10dc91cc62f28333d1bdaffdc024e8d95ae7e6b10a57753ab87",
+      "height": 1013
+    },
+    {
+      "file": "produkt-17.png",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-truclean-w30-pro-wet-dry-vacuum/pc/bf28f01fb88b48b00c255585bf03462b.png",
+      "width": 582,
+      "bytes": 149246,
+      "sha256": "29ed74198bff888c4d69c0619efcfbaa28dcd697084a8f6e8579339f8693182a",
+      "height": 1070
+    },
+    {
+      "file": "logo-xiaomi.png",
+      "kind": "logo",
+      "order": 18,
+      "sourceUrl": "repo produkty-media/_logo/logo-xiaomi.png",
+      "width": 960,
+      "height": 256,
+      "bytes": 18651
+    }
+  ],
+  "dropped": 0
+}
