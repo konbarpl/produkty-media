@@ -1,0 +1,110 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-11T19:04:13.754Z",
+ "sourcePage": "https://www.tefal.pl/p/odkurzacz-bezprzewodowy-tefal-x-force-flex-960-auto-ty2039/7211004935",
+ "sourceNote": "Karta producenta tefal.pl (dump wlasny: claude/erli-research/_tmp/tefal-x-force-flex-9-60-ty2039/karta.html — dumpu TY2039 NIE bylo w folderze zwiadu G44). Galeria z pola \"img\" (1200x1200). Wszystkie pliki produktowe maja w nazwie zrodlowej marker wariantu (ty2039wo / 9.60 / SKU 7211004935) — zdjecia siostrzanego wariantu \"9.60 szczotka Animal\" NIE weszly. Kontrola wzrokowa: produkt-01 (packshot fioletowy + akcesoria), produkt-03 (infografika 100 AW / 45 min / LED) zgodne z modelem.",
+ "slug": "tefal-x-force-flex-9-60-ty2039",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/d/i/digital-tfl_ty2039wo_tbc_a_2_1_.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 50263,
+   "sha256": "92065e4d59eacd9c981067f0ddd070eb190383df015d56bdf7538dd3e7dd151d"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/d/i/digital-tfl_ty2039wo_tbc_c_1_.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 28716,
+   "sha256": "69803ac069816c857c27cc0a842fb29450cf476b75d18ee6953b6f6df43d1141"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-9.60_7211004935.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 107293,
+   "sha256": "9258f850841c0aa3b9879979deffd1526f6376ecb6018365a06d432200c0389b"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 4,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/7/2/7211004935_storytelling_pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 119365,
+   "sha256": "7d5bebcee722dfe2c1c2652b2af3a1db5022bc4e81151b496182fd8f60e538c4"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 5,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/7/2/7211004935_storytelling_pl_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 220759,
+   "sha256": "cacbb9c5475b9f9a02eadbc3eaa532a25fe12dcdcb21682974b219e8b8ac6756"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "description",
+   "order": 6,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/7/2/7211004935_storytelling_pl_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 226420,
+   "sha256": "372dd80bed80598930f7179f3e8a66498db3beb37375b9a14dab3ceb8d446a7e"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "description",
+   "order": 7,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/7/2/7211004935_storytelling_pl_3_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 132901,
+   "sha256": "ecd3d06d2b6faa0396fbc9e1b105e6ae3a2548f05c2757c00c9ee4003cdf0e7d"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "description",
+   "order": 8,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/7/2/7211004935_storytelling_pl_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 155743,
+   "sha256": "ab60a533c1b8257be8a4b662a3c9830a4c28bf79aebb4631a2cb0e5a25ba7703"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 9,
+   "sourceUrl": "kopia z repo mediow: produkty-media/tefal-gc272d/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ]
+}
