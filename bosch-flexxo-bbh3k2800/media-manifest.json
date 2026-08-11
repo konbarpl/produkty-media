@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T19:35:39.215787+00:00",
+  "sourcePage": "https://www.bosch-home.pl/lista-produktow/BBH3K2800",
+  "slug": "bosch-flexxo-bbh3k2800",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "produkt-15.webp",
+    "produkt-16.webp",
+    "produkt-17.webp",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "width": 1110,
+      "height": 1600,
+      "bytes": 60842,
+      "source": "https://media3.bsh-group.com/Product_Shots/16402810_BBH3K2800_STP_def.webp"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "width": 1600,
+      "height": 900,
+      "bytes": 117686,
+      "source": "https://media3.bsh-group.com/Product_Shots/17687999_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_01_def.webp"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "width": 1600,
+      "height": 900,
+      "bytes": 555860,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688002_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_02_def.webp"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "width": 1600,
+      "height": 900,
+      "bytes": 105556,
+      "source": "https://media3.bsh-group.com/Product_Shots/17687995_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_03_jpg_def.webp"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "width": 1600,
+      "height": 900,
+      "bytes": 188390,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688000_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_04_def.webp"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "width": 1600,
+      "height": 900,
+      "bytes": 80150,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688005_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_05_def.webp"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "width": 1600,
+      "height": 900,
+      "bytes": 73652,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688006_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_06_def.webp"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "width": 1600,
+      "height": 900,
+      "bytes": 131216,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688008_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_07_def.webp"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "width": 1600,
+      "height": 900,
+      "bytes": 146500,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688010_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_08_def.webp"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "width": 1600,
+      "height": 900,
+      "bytes": 129216,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688015_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_09_jpg_def.webp"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "width": 1600,
+      "height": 900,
+      "bytes": 145416,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688013_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_10_def.webp"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "width": 1600,
+      "height": 900,
+      "bytes": 137320,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688018_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_11_def.webp"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "width": 1600,
+      "height": 900,
+      "bytes": 96888,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688020_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_12_def.webp"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "width": 1600,
+      "height": 900,
+      "bytes": 117296,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688021_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_13_def.webp"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "width": 1600,
+      "height": 900,
+      "bytes": 232468,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688023_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_14_jpg_def.webp"
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "width": 1600,
+      "height": 900,
+      "bytes": 60930,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688026_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_15_def.webp"
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 17,
+      "width": 1600,
+      "height": 900,
+      "bytes": 55200,
+      "source": "https://media3.bsh-group.com/Product_Shots/17688025_Website_HC_T14_BBH3K2800_BPlus_secondaryimage_16_def.webp"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 18,
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "source": "repo mediow: bosch-advancedvac-20/logo-bosch.jpg"
+    }
+  ],
+  "note": "Zdjecia WYLACZNIE z plikow zawierajacych kod BBH3K2800 w nazwie (bramka tozsamosci). Logo Bosch skopiowane z katalogu bosch-advancedvac-20 i wstawione na KONIEC galerii."
+}
