@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T18:10:18.140Z",
+  "sourcePage": "https://www.tefal.pl/p/odkurzacz-bezprzewodowy-tefal-x-force-flex-1480-240-aw-120-min-mopowanie/2211401332",
+  "slug": "tefal-x-force-flex-14-80-ty9bd1wo",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-tefal.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/d/i/digital-tfl_ty9bd1wo_x-force_14.80_h1.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+      "width": 1200,
+      "bytes": 76792,
+      "sha256": "9a276eb4177bef93e22d102caed07bc851f33e4f5011368d187c6b7ef87cb8cf"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ty9bd1wo_x-force-14.80_pwc1_pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 268661,
+      "sha256": "0da90de2f0329bb60f383f305823ca5b281e673fbc64adc7cd379e9af29dd477"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/t/f/tfl_ty9bd1wo_x-force-14.80_pwc2_pl.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+      "width": 1200,
+      "bytes": 178090,
+      "sha256": "30e11ab6c60ac33d3edecb5a87be6ae673ae0b2a61289e55dc122f710b6b60a7"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/t/f/tfl_ty9bd1wo_x-force-14.80_pwc3_pl.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+      "width": 1200,
+      "bytes": 92071,
+      "sha256": "1e604eabc6e46958356d0a9966a1c6e77a867c6a3b4dcb2c25ae073c2843ca92"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/t/f/tfl_ty9bd1wo_x-force-14.80_pwc4_pl.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+      "width": 1200,
+      "bytes": 71814,
+      "sha256": "512f64495ebbd3c6d1c8326bd68fe126b07ed3765aebb4513245ee8ef4d36a85"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ty9bd1wo_x-force-14.80_pwc5_pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 132494,
+      "sha256": "669c3b69c4c8fffba5b0ab90d56e34387c69b11dcd97a56b515a2a5fcdbdab85"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-infogr_2211401332.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 110086,
+      "sha256": "3932eb089fc15d16d3121b74a3e3937dcd418b2878f8e74be507eb1debb2074c"
+    },
+    {
+      "file": "logo-tefal.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia z repo mediow: produkty-media/tefal-gc272d/logo-tefal.png",
+      "bytes": 12693,
+      "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+    }
+  ],
+  "dropped": 0,
+  "sourceNote": "Zdjecia z karty producenta tefal.pl (id 2211401332). ODRZUCONE: digital-tfl_ty9bc1wo_x-force_14.80_h2.png — kod sasiedniego wariantu TY9BC1WO w nazwie pliku. Logo marki na koncu galerii."
+}
