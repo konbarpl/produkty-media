@@ -26,7 +26,9 @@
       "caption": "Floor Care_2025_XC8155_01_Amazon A+ (AMZ-Ecommerce)_Polish (Poland)",
       "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c00911f8_4987_4d0c_b0c11575d9d4b4a5?wid=1500&hei=1500&$pnglarge$",
       "bytes": 425101,
-      "sha256": "d250122d5f2ccd4bab0d2fe0216dac7a8041b028e5673fa12d74d7701c3e0440"
+      "sha256": "d250122d5f2ccd4bab0d2fe0216dac7a8041b028e5673fa12d74d7701c3e0440",
+      "width": 1500,
+      "height": 1500
     },
     {
       "file": "produkt-02.png",
@@ -36,7 +38,9 @@
       "caption": "Floor Care_2025_XC8155_01_Amazon A+ (AMZ-Ecommerce)_Polish (Poland)",
       "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_977ef48b_14b2_482a_83cc52df2e1a924b?wid=1500&hei=1500&$pnglarge$",
       "bytes": 164827,
-      "sha256": "3b0f26293e87a2c2d81edb0226386995a73c3ab1807ef1cad20215597e6dcf83"
+      "sha256": "3b0f26293e87a2c2d81edb0226386995a73c3ab1807ef1cad20215597e6dcf83",
+      "width": 1500,
+      "height": 1500
     },
     {
       "file": "produkt-03.png",
@@ -46,7 +50,9 @@
       "caption": "Floor Care_2025_XC8155_01_Amazon A+ (AMZ-Ecommerce)_Polish (Poland)",
       "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2b8ccdd1_7fe8_4278_b74554359271cfb4?wid=1500&hei=1500&$pnglarge$",
       "bytes": 1418075,
-      "sha256": "3c64f3f055e3e60a6312e133ffdb965fcee26c9622522aea70153a7a9794bebd"
+      "sha256": "3c64f3f055e3e60a6312e133ffdb965fcee26c9622522aea70153a7a9794bebd",
+      "width": 1500,
+      "height": 1500
     },
     {
       "file": "produkt-04.png",
@@ -56,7 +62,9 @@
       "caption": "Floor Care_2025_XC8155_01_Amazon A+ (AMZ-Ecommerce)_Polish (Poland)",
       "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d13c6a4b_9cec_4467_8a4ba07a2b7492d5?wid=1500&hei=1500&$pnglarge$",
       "bytes": 1288747,
-      "sha256": "a53b443c0c2de1b3bb324d10c6d13401c6173a88d2a9220d08cca4ed0c124d1c"
+      "sha256": "a53b443c0c2de1b3bb324d10c6d13401c6173a88d2a9220d08cca4ed0c124d1c",
+      "width": 1500,
+      "height": 1500
     },
     {
       "file": "produkt-05.png",
@@ -65,8 +73,10 @@
       "assetType": "A3P",
       "caption": "FC_2025_XC8155_2XAcessories_1x1",
       "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_73e26303_6f12_4c53_b69413894450d35d?wid=1500&hei=1500&$pnglarge$",
-      "bytes": 3409741,
-      "sha256": "2e99024bb19239dde06b9fec49885c8746666f0df70476f82370d5aaa5ad5dc6"
+      "bytes": 1824640,
+      "sha256": "02b6cdc5e7c5410cd25308ef7cb67511395bc19a77295182fe14ce57b5b1157f",
+      "width": 1200,
+      "height": 1200
     },
     {
       "file": "produkt-06.png",
@@ -75,8 +85,10 @@
       "assetType": "A4P",
       "caption": "FC_2025_XC8155_XC8157_F7_1x1",
       "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0d4938bb_d30c_45c9_9d49764bc37124ed?wid=1500&hei=1500&$pnglarge$",
-      "bytes": 2998516,
-      "sha256": "6fb9a136e1dd35e69f8b086a232e0edecaac96bf20e8714ddce520fb710baf2a"
+      "bytes": 1619784,
+      "sha256": "7ecdaa0e1beb42891cd6473a29b561f104c5bd1795f2b1f18e57f6d98c8d9976",
+      "width": 1200,
+      "height": 1200
     },
     {
       "file": "produkt-07.png",
@@ -86,7 +98,9 @@
       "caption": "Floor Care_2025_XC8155_01_Amazon A+ (AMZ-Ecommerce)_Polish (Poland)",
       "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f93c955e_cbaf_4723_9a152597900f385e?wid=1500&hei=1500&$pnglarge$",
       "bytes": 1416392,
-      "sha256": "42d7f446bc5658b5ed06468706e5c0cc1b412f02507b919b44a4a8bdd3ca0af9"
+      "sha256": "42d7f446bc5658b5ed06468706e5c0cc1b412f02507b919b44a4a8bdd3ca0af9",
+      "width": 1500,
+      "height": 1500
     },
     {
       "file": "produkt-08.png",
@@ -96,7 +110,9 @@
       "caption": "Floor Care_2025_XC8155_01_Amazon A+ (AMZ-Ecommerce)_Polish (Poland)",
       "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_bc22ea37_112c_4414_ad987a4aa4b8cd96?wid=1500&hei=1500&$pnglarge$",
       "bytes": 1234277,
-      "sha256": "1fa5d442ff0e4b5d83c3f82777a0d5fce03fb9bb6dc07c2badda24ab3c7628b9"
+      "sha256": "1fa5d442ff0e4b5d83c3f82777a0d5fce03fb9bb6dc07c2badda24ab3c7628b9",
+      "width": 1500,
+      "height": 1500
     },
     {
       "file": "produkt-09.png",
@@ -106,7 +122,9 @@
       "caption": "Floor Care_2025_XC8155_01_Amazon A+ (AMZ-Ecommerce)_Polish (Poland)",
       "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_9386f194_798d_409c_bb6acba61fe261d0?wid=1500&hei=1500&$pnglarge$",
       "bytes": 1358344,
-      "sha256": "993e0aae0af48240e175b9896d5660cadb22b1ea6f76ca297837a641824dc71d"
+      "sha256": "993e0aae0af48240e175b9896d5660cadb22b1ea6f76ca297837a641824dc71d",
+      "width": 1500,
+      "height": 1500
     },
     {
       "file": "produkt-10.png",
@@ -116,7 +134,9 @@
       "caption": "Floor Care_2025_XC8155_01_Amazon A+ (AMZ-Ecommerce)_Polish (Poland)",
       "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3e3a8e53_3763_4f3b_99b22f900c496a20?wid=1500&hei=1500&$pnglarge$",
       "bytes": 992778,
-      "sha256": "59f4a223cffe90cc1945a5d02e283ebf48d4e0f6f172b993376fbb7ee71e3b9e"
+      "sha256": "59f4a223cffe90cc1945a5d02e283ebf48d4e0f6f172b993376fbb7ee71e3b9e",
+      "width": 1500,
+      "height": 1500
     },
     {
       "file": "produkt-11.png",
@@ -126,7 +146,9 @@
       "caption": "Floor Care_2025_XC8155_01_Amazon A+ (AMZ-Ecommerce)_Polish (Poland)",
       "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a6ed3986_2914_49c8_9b8ffec8cc8b92db?wid=1500&hei=1500&$pnglarge$",
       "bytes": 1430828,
-      "sha256": "a4bc4f7a84de06dba7a3de90ec88edf2f2bc7fc97f93cd39705300cf22bd40d8"
+      "sha256": "a4bc4f7a84de06dba7a3de90ec88edf2f2bc7fc97f93cd39705300cf22bd40d8",
+      "width": 1500,
+      "height": 1500
     },
     {
       "file": "logo-philips.png",
@@ -134,7 +156,9 @@
       "order": 99,
       "sourceUrl": "kopia z produkty-media/philips-ais6010-10 (logo marki Philips)",
       "bytes": 6882,
-      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "width": 525,
+      "height": 105
     }
   ],
   "dropped": 0,
