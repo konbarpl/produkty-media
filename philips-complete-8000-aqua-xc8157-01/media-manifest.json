@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T18:08:30.186Z",
+  "sourcePage": "https://www.philips.pl/c-p/XC8157_01/philips-cordless-VC-8000-series-complete",
+  "slug": "philips-complete-8000-aqua-xc8157-01",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-03.webp",
+    "produkt-05.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "produkt-02.webp",
+    "produkt-04.webp",
+    "opis-05.webp",
+    "produkt-06.webp",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c72de1dc_56c2_48bd_ad8ce77ce823b68c?$pnglarge$&wid=1500",
+      "width": 1500,
+      "bytes": 82076,
+      "sha256": "12deb6991173e8942445d1356eb5bec159883222045321d417a13a036e5ae11a"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_59d414fc_ac97_4513_ab7e7f6a156c84e9?$pnglarge$&wid=1500",
+      "width": 1500,
+      "bytes": 208572,
+      "sha256": "280ad8b280f7964567a0feabe6923757fa529de92cbd0eed2666499db482bcfd"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_84dc716e_d2dc_49c1_99cbc7433a3cac35?$pnglarge$&wid=1500",
+      "width": 1500,
+      "bytes": 186376,
+      "sha256": "e795855f48ac5aed7f9264bbef15c5de2c69c8d6070a7b722c8da19de7f46692"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2c87922b_b950_45e2_9c6b4636f1ec7f52?$pnglarge$&wid=1500",
+      "width": 1500,
+      "bytes": 304508,
+      "sha256": "6126eb6254cef6e1efdcde71e36a5e07e85d88349bec4aa1f39f748dcd2f66d3"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0d4938bb_d30c_45c9_9d49764bc37124ed?$pnglarge$&wid=1500",
+      "width": 1500,
+      "bytes": 155654,
+      "sha256": "00260f859df1a384e0098f60cfe7dfd9dc1d1a4fc6447fefd4b85220561f45e6"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1b4607cf_4299_420f_a475ba7635696924?$pnglarge$&wid=1500",
+      "width": 1500,
+      "bytes": 29522,
+      "sha256": "effa3f9bd99b3e1f60bcd8901351b2caee1c3a0bf5f24ce63f181873b1ff2567"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_771a349c_9848_4025_9952ee6585542020?$pnglarge$&wid=1500",
+      "width": 1500,
+      "bytes": 186806,
+      "sha256": "c275b6462f62b4ec7875343349ce79b212ab1b78362577842af76532eed5b4ed"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8897251a_565a_45d4_b0553a87ee6b4422?$pnglarge$&wid=1500",
+      "width": 1500,
+      "bytes": 160908,
+      "sha256": "2e6af56201f915b55ebc818a1c7f844c2f5e199bbe8eead114357b69080cce28"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_102ee8a8_740d_4dd9_99bf1500d7d4c6f5?$pnglarge$&wid=1500",
+      "width": 1500,
+      "bytes": 177950,
+      "sha256": "6c5f434040b770d874f2f153316a3852c76d7ff3b58d8f36085d3fce47f82e3e"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cca77a41_3235_4bf0_9857355dff153160?$pnglarge$&wid=1500",
+      "width": 1500,
+      "bytes": 123684,
+      "sha256": "14c66e10aea17ac7d663470d7bb06888f8c2d2e1d3b40d220e86fbd89671227a"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_af393a81_0e0f_4c0c_9db682789d55e380?$pnglarge$&wid=1500",
+      "width": 1500,
+      "bytes": 188770,
+      "sha256": "7b7938d2c397f47a05003f563551692b82926d12dcc444a83cb33ceb70343286"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo-media:philips-ais6010-10/logo-philips.png",
+      "width": 0,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0
+}
