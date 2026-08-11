@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T18:19:23.973Z",
+  "curatedAt": "2026-08-11T18:54:00.000Z",
+  "sourcePage": "https://www.makita.pl/product/dbo180z.html",
+  "slug": "makita-dbo180z",
+  "note": "Wersja BODY (bez akumulatora/ladowarki/walizki) — z 16 oficjalnych zdjec zoom Makita odrzucono 13 pokazujacych akumulator (zgodnie z parametrami zlecenia); logo marki dograne na koniec.",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "logo-makita.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_C1C0.jpg",
+      "width": 718,
+      "bytes": 288444,
+      "sha256": "d4d47f17eb24bc8b74ef629128828fb9c6b801ffdb8d80d699e5df72b188d95a"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_F_001.jpg",
+      "width": 1000,
+      "bytes": 466113,
+      "sha256": "c39d1089f10e017a657d1ccbb27f52dcc05bdbf3b3636a68c42e467fde24df6a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://fi.makitamedia.com/images/3_Makita/301_machines/3011_a_GS1/30120_JPG_zoom/DBO180_F_003.jpg",
+      "width": 1000,
+      "bytes": 521645,
+      "sha256": "fcae76b5d48e666a31195d79d91acc51b629c18c1412e4cf9076a06ad096b237"
+    },
+    {
+      "file": "logo-makita.jpg",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "dropshipping/materiały/logo/makita.jpg",
+      "width": null,
+      "bytes": 50812,
+      "sha256": null
+    }
+  ],
+  "dropped": 13,
+  "droppedDetail": [
+    { "file": "DBO180_C2C0.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_C2C0_S01.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_C2L0.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_C2L0_s101.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_C2R0.jpg", "reason": "dwa akumulatory w kadrze" },
+    { "file": "DBO180_C7C0.jpg", "reason": "zbliżenie na akumulator" },
+    { "file": "DBO180_C8C0.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_C8L0.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_C8R0.jpg", "reason": "akumulator zamontowany w kadrze" },
+    { "file": "DBO180_D1CK.jpg", "reason": "kolaz lifestyle z akumulatorem, mieszane narzędzia" },
+    { "file": "DBO180_D1CK_s02.jpg", "reason": "akumulator zamontowany w kadrze (uzycie w dloni)" },
+    { "file": "DBO180_F_002.jpg", "reason": "zbliżenie na akumulator/pojemnik z akumulatorem w kadrze" },
+    { "file": "DBO180_F_004.jpg", "reason": "akumulator w tle kadru (rozmyty, ale rozpoznawalny)" }
+  ]
+}
