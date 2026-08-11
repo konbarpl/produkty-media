@@ -1,0 +1,123 @@
+{
+  "slug": "electrolux-hygienic-600-uv-ep61hb21uv",
+  "model": "Electrolux Hygienic 600 UV EP61HB21UV",
+  "source": "https://www.electrolux.pl/vacuums-home-comfort/vacuum-cleaners/stick-vacuum-cleaners/cordless-sticks/ep61hb21uv/",
+  "collectedAt": "2026-08-11",
+  "note": "Zdjecia wylacznie z karty producenta electrolux.pl (JSON-LD Product.image, endpoint /services/eml/transform, preset WS_ZO2000 -> 1200 px; curl blokowany, pobrane headed Playwright). Tozsamosc potwierdzona wzrokowo na kontaktowce: bialy korpus (karta: Kolor bialy) + akcesoria BedPro UV, ssawka szczelinowa i szczotka do delikatnych powierzchni zgodne ze specyfikacja EP61HB21UV. ODRZUCONE: kadr z panelem sterowania z ikona kropli (wariant mokry EP61HB21WU), stojak wolnostojacy (karta: konstrukcja samostojaca = nie, przechowywanie = montaz na scianie), zestawienie trzech innych modeli, kadry z korpusem grafitowym, baner 10-letniej gwarancji na silnik (zakaz gwarancji w ofertach) oraz duplikat panelu filtracji.",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "logo-electrolux.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 51148
+    },
+    {
+      "file": "produkt-02.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 33627
+    },
+    {
+      "file": "produkt-03.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 33993
+    },
+    {
+      "file": "produkt-04.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 168199
+    },
+    {
+      "file": "produkt-05.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 65632
+    },
+    {
+      "file": "produkt-06.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 42856
+    },
+    {
+      "file": "produkt-07.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 65510
+    },
+    {
+      "file": "produkt-08.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 23478
+    },
+    {
+      "file": "produkt-09.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 21366
+    },
+    {
+      "file": "produkt-10.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 366487
+    },
+    {
+      "file": "produkt-11.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 324680
+    },
+    {
+      "file": "produkt-12.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 153894
+    },
+    {
+      "file": "produkt-13.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 298822
+    },
+    {
+      "file": "produkt-14.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 344321
+    },
+    {
+      "file": "produkt-15.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 43775
+    },
+    {
+      "file": "logo-electrolux.jpg",
+      "width": 1360,
+      "height": 246,
+      "bytes": 36634
+    }
+  ]
+}
