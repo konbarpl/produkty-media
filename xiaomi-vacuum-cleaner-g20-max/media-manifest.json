@@ -1,0 +1,209 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T20:20:40.214Z",
+  "sourcePage": "https://www.mi.com/pl/product/xiaomi-vacuum-cleaner-g20-max/",
+  "slug": "xiaomi-vacuum-cleaner-g20-max",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.jpg",
+    "produkt-09.png",
+    "produkt-10.png",
+    "produkt-11.png",
+    "produkt-12.png",
+    "produkt-13.png",
+    "produkt-14.png",
+    "produkt-15.png",
+    "produkt-16.png",
+    "produkt-17.png",
+    "logo-xiaomi.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://i05.appmifile.com/789_item_pl/30/10/2024/8f0c7299c5c773c2a022806d300b0c61.png",
+      "width": 1600,
+      "bytes": 283901,
+      "sha256": "bebba13b007ba27470ef881ee88a8532373cafbedd6330ea88724798f5dccbfa",
+      "height": 1600
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/0f31c5c9c5d508c02d82e034aaeca725.png",
+      "width": 1451,
+      "bytes": 225824,
+      "sha256": "393726a61bc9ab14ecfb6b2f9dc4f200f386471df6f6052ccfeb8e564307a215",
+      "height": 658
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/f75443e740c9f4cc509ab5d5d279b66b.jpg",
+      "width": 2560,
+      "bytes": 791222,
+      "sha256": "58eaca38684fbbfac0c37e2603d4bddc7e5e12b3747d32c6ac9e278d35e46b4d",
+      "height": 1160
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/522fc8ffb0f057fc06f1fd2367f5ac88.png",
+      "width": 434,
+      "bytes": 108813,
+      "sha256": "aca45de505287b66de5231fc277e9d5ee3cfc463970eeec087b2b3f663177552",
+      "height": 674
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/386c254f1131135a5fae2c2f7f50a981.png",
+      "width": 1451,
+      "bytes": 130765,
+      "sha256": "0ffae1135564b84c7b097e8096dc0c6b816f736abc717c2bcd505f456a1ca010",
+      "height": 732
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/d2ff3f22132cb469a754286c34664750.png",
+      "width": 434,
+      "bytes": 91008,
+      "sha256": "1eefc02e49ec1125dca84ec3101a5b9ef1e01c3c23f9e6dbda013d9ef5325b6a",
+      "height": 674
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/452f63271669d0b3fdbde5b4e8aeb098.png",
+      "width": 433,
+      "bytes": 105732,
+      "sha256": "add92fe65ad439fd19a1391306c1c85a14e97ae0d4a13d100e8e986d63a0496b",
+      "height": 674
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/clean-bg.jpg",
+      "width": 2560,
+      "bytes": 521311,
+      "sha256": "c724c6ea6c49e09ec96a725babf40f8759b98abbaa628ae04f24f6507421f290",
+      "height": 1529
+    },
+    {
+      "file": "produkt-09.png",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/eda9dfa169b60c70acb185e13d65063c.png",
+      "width": 715,
+      "bytes": 176153,
+      "sha256": "e1ef763700986a8703c67e55a612a4806b5993cbee21207f53b6fe4f0f194417",
+      "height": 732
+    },
+    {
+      "file": "produkt-10.png",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/66e06546d249e1ef431242cd0af318d7.png",
+      "width": 433,
+      "bytes": 154298,
+      "sha256": "913e46aac5fce44b983d9cb33b4e0c6d46906b91e4431eda7480fee5a0fe2db4",
+      "height": 674
+    },
+    {
+      "file": "produkt-11.png",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/2ff4401e922fb9979fa07797349f281a.png",
+      "width": 715,
+      "bytes": 117377,
+      "sha256": "ba10b3c35cf1be3583a2fd66149c6ae2e884629e9275824f7d8acc9c31217fe0",
+      "height": 732
+    },
+    {
+      "file": "produkt-12.png",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/e5b403c8abe22434f6664fe382aa7ba3.png",
+      "width": 1451,
+      "bytes": 343456,
+      "sha256": "b53d6066d1d8e29983a944f115905217095bd46d020dabf76bdd8b04eb108204",
+      "height": 658
+    },
+    {
+      "file": "produkt-13.png",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/dd2eaf673612de6dc0a15517757cc673.jpg",
+      "width": 2560,
+      "bytes": 220324,
+      "sha256": "2f599a0e3eb37db5c2d44da579cc9f5baf50a36e26512a8b26b566b639213eb2",
+      "height": 1166
+    },
+    {
+      "file": "produkt-14.png",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/97a7bd892ff2fc674ebd19776fdf98b8.png",
+      "width": 1451,
+      "bytes": 68932,
+      "sha256": "b6f43635add69324a7c1195429bfdcd37abdecc0510082b301d964bc0eaece1f",
+      "height": 591
+    },
+    {
+      "file": "produkt-15.png",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/046a0f1ee1b117c420fe875f243ef734.jpg",
+      "width": 2560,
+      "bytes": 1782639,
+      "sha256": "0d0edaa2acc3ad157b398699ef4983fe66b5544391ea377f171ec1fafa16dc11",
+      "height": 2301
+    },
+    {
+      "file": "produkt-16.png",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/0884c0fff494be6a7412b2b49c939f6d.jpg",
+      "width": 2560,
+      "bytes": 1228952,
+      "sha256": "da6666d0100159ed25cdd43235672c267a9c414c25c6247f3d4f114ba4764cdb",
+      "height": 1176
+    },
+    {
+      "file": "produkt-17.png",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-max/PC/64300d2ceef6f338265d461161ce8906.jpg",
+      "width": 2560,
+      "bytes": 732464,
+      "sha256": "7f050ca1e481e97555112d0338fc16b09bf4123ef278b20af81f3332e432d0c9",
+      "height": 1120
+    },
+    {
+      "file": "logo-xiaomi.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo produkty-media/_logo/logo-xiaomi.png",
+      "width": 960,
+      "height": 256,
+      "bytes": 18651,
+      "sha256": "9cb8941a96b4520c9e5c36cbccd68d37f5dd64a1022147e1edf1a7bcb159c11b"
+    }
+  ],
+  "dropped": 0
+}
