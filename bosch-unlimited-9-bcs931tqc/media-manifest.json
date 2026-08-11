@@ -1,0 +1,211 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-11T19:03:00.933Z",
+ "sourcePage": "https://www.bosch-home.pl/lista-produktow/BCS931TQC",
+ "slug": "bosch-unlimited-9-bcs931tqc",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "produkt-08.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "produkt-11.webp",
+  "produkt-13.webp",
+  "produkt-14.webp",
+  "produkt-15.webp",
+  "produkt-16.webp",
+  "produkt-17.webp",
+  "produkt-18.webp",
+  "produkt-19.webp",
+  "logo-bosch.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/24415319_BCS931TQC_STP_def.webp",
+   "width": 2608,
+   "bytes": 235262,
+   "sha256": "b82efac6c1c7115b1f3e13a30adb3b071c4544ac97c27d43e578d8f4b33204c0"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713889_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-01_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 305406,
+   "sha256": "09697038326f02c60807ff4b0ece89ef07cdf301e6b3c061490e0df1f1cf75e8"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713892_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-02_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 401502,
+   "sha256": "672460bfd0dee7e1fc976f72690635863c127c8d43076de47f778fddd2e8b1c9"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713895_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-03_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 561898,
+   "sha256": "cf7f5a0b727b1fa54ead42f20317b8c402356da8bf2e675057b0857ce764ddc4"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713893_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-04_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 101880,
+   "sha256": "5dc1ea1bd77b9e4deab6b8a5b6f9f1f44b5884af1b8e9c22700e930e777fcf7e"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713899_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-05_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 400348,
+   "sha256": "88108bf8f6a703549f26886ac84a4eb6fd7add760cb2b58af09711debd121620"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713898_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-06_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 282844,
+   "sha256": "24a55da15d327da290e9e3aae161aad638416f029f32446bb6b61b82ea8bd1fe"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713855_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-07_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 190992,
+   "sha256": "bf38e257258ea2eeb7dcdd8bc7569392c83e360269beb767167c2ffa356da40d"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713858_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-08_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 238586,
+   "sha256": "aeaa6da7ca048b2c37c0545fa8b8acfcf82f6aadc70264cfb54cc31a00a9debb"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713856_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-09_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 178850,
+   "sha256": "246d9bc2bfa9db3bfbaf447d7236232e59d97918c118cf85d4e33b4ce0b8e82e"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713859_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-10_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 323882,
+   "sha256": "8361c56e681ef5425c1462a4e79583581b9430f935852799d7e14fef1063e817"
+  },
+  {
+   "file": "produkt-13.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713876_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-12_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 352690,
+   "sha256": "6415e443ec0e63ff9c93c0eaa8129058b0c4c66af27d11a23e3bcf17f01b826f"
+  },
+  {
+   "file": "produkt-14.webp",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713874_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-13_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 154196,
+   "sha256": "45ec51953df4b4117073407e4f626a4bc337bd44dbea154788e529e330836ec4"
+  },
+  {
+   "file": "produkt-15.webp",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713877_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-14_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 220346,
+   "sha256": "f2e09e11d902b01c3163f9232d9f645a821bce05c4a8fd80fe0609bc2cdbb5ff"
+  },
+  {
+   "file": "produkt-16.webp",
+   "kind": "product",
+   "order": 15,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713881_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-15_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 292420,
+   "sha256": "6e9d1fe9cd60cb1f57ad0746b2ce4536e6b6d78725d44307623bd2fc5d4af392"
+  },
+  {
+   "file": "produkt-17.webp",
+   "kind": "product",
+   "order": 16,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713883_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-16_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 427996,
+   "sha256": "7d484e5b8bf960f0415560700ac48c6fe9d0b6aa3407da8dcba4c6d4b9364656"
+  },
+  {
+   "file": "produkt-18.webp",
+   "kind": "product",
+   "order": 17,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713882_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-17_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 348468,
+   "sha256": "d868317f2e05dbbce8d609d35664e575b5ccdbc903a92559825632caa366bcdb"
+  },
+  {
+   "file": "produkt-19.webp",
+   "kind": "product",
+   "order": 18,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/25713885_BSH-EN-BO_HC_T17_BCS931TQC_General_SecImg-18_plain_3200x1800_def.webp",
+   "width": 3200,
+   "bytes": 177474,
+   "sha256": "7f9c11e876f0f7e8a0c4506e6ea018335b6a3ff3b48d1eaa5194c0bced5dbc52"
+  },
+  {
+   "file": "logo-bosch.jpg",
+   "kind": "logo",
+   "order": 19,
+   "note": "logo marki Bosch (AGD, czyste — bez Professional); galeria na koncu",
+   "sourceUrl": "produkty-media/bosch-advancedvac-20/logo-bosch.jpg",
+   "width": null,
+   "bytes": 51914,
+   "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+  }
+ ],
+ "dropped": [
+  {
+   "file": "produkt-12.webp",
+   "reason": "ZAKAZ gwarancji: plakietka \"10 YEAR MOTOR GUARANTEE\" / badge 10 lat + tekst EN"
+  },
+  {
+   "file": "produkt-20.webp",
+   "reason": "ZAKAZ gwarancji: plakietka \"10 YEAR MOTOR GUARANTEE\" / badge 10 lat + tekst EN"
+  }
+ ]
+}
