@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T18:08:36.460Z",
+  "sourcePage": "https://www.philips.pl/c-p/XW9463_11/aqua-trio-cordless-vacuum-9000-series",
+  "slug": "philips-aquatrio-9000-xw9463-11",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_38cc0105_ca17_4e36_8fa7a629fc66ff66?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 204212,
+      "sha256": "d7d99b1d074fd40aa0380b3702c22809f45a2c4e8c7821a2327c18ea1a78fd12"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a55cae83_6ca1_4681_ab3627b95d83e48d?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 54164,
+      "sha256": "94a327e38d52d9c3f8589c9d2d31384aa07375f459fa56ebad55b26e5a5c61b7"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_73e09294_c03c_4f73_8c0721f4195867fa?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 185418,
+      "sha256": "f06e7d5362f9ad619748de2ff546fe76eda6f4b7ee1d68f525823fd805d7b9eb"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_bad28d77_fc90_43cd_ac8a1d26d666152c?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 608496,
+      "sha256": "150597eb52703cd3fcf927c22465ad6af3e784392f64d7052842ee959dc1774f"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_86d2be07_4080_47fd_8b4451bed503173d?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 129182,
+      "sha256": "9e3d96c6391db6f0450ba4b45a5261b0f265428e1ff9f368bc9f8df142ff9171"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2f65ba5e_3703_4d8e_a225245807aadb57?wid=1500&hei=1500&$pnglarge$",
+      "width": 1500,
+      "bytes": 243486,
+      "sha256": "715351255c62c82ea5429d4656103a78c3c3fb95009005a6b64cb26787ec4e95"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "product",
+      "order": 99,
+      "sourceUrl": "kopia z produkty-media/philips-ais6010-10 (logo marki Philips)",
+      "width": 525,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0
+}
