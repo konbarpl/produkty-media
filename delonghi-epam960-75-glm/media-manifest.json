@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T13:58:12.166Z",
+  "sourcePage": "https://www.delonghi.com/pl-pl/p/x/EPAM960.75.GLM.html",
+  "slug": "delonghi-epam960-75-glm",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/122189",
+      "width": 902,
+      "height": 902,
+      "bytes": 30987,
+      "sha256": "4760c16c1b0db50c706aa9c6011b0a90a55f6b18f569089095ac7bd53fa8c0ee"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/122162",
+      "width": 902,
+      "height": 902,
+      "bytes": 38044,
+      "sha256": "af38018387a3dbf10cfe596bea31fac8f92335c5d2ffe5e4437df11817cb3429"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/122165",
+      "width": 902,
+      "height": 902,
+      "bytes": 41527,
+      "sha256": "ae5d0f580f45f4fe7e57c13ea469e47db770d41e2f2adcc6a109924d1978877b"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/287079",
+      "width": 902,
+      "height": 902,
+      "bytes": 34536,
+      "sha256": "3670b2663c932583d8b14533fc1078192580a0ae01e5825dccaa1477036da229"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/123529",
+      "width": 902,
+      "height": 902,
+      "bytes": 53378,
+      "sha256": "db63a56594f2244862a6a6634a6f2d05867c11fa4324cbd310b1415038135c2d"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/204762",
+      "width": 902,
+      "height": 902,
+      "bytes": 121516,
+      "sha256": "530272d58494e6ddd1cae02106b936b5d1315dcf3e365c8fade72829d7618346"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "kopia zweryfikowanego logo De'Longhi z poprzednich partii G28",
+      "width": 1000,
+      "height": 310,
+      "bytes": 39830,
+      "sha256": "11f97fb6327d0343ca4574a5b26866a58d4e4ea3a264ae21e23b3070b4959702"
+    }
+  ]
+}
