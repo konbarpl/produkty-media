@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T18:45:56.353Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/sprzatanie/odkurzacze-piorace/odkurzacz-thomas-aqua-allergy-amp-family",
+  "slug": "thomas-aqua-allergy-family",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-thomas.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/91/913970/Odkurzacz-pioracy-THOMAS-Aqua-Allergy-Family-zestaw.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 182350,
+      "sha256": "2156c296026780e44f0ec234c8d0761dba154cd0c82dba1c958ed5a2146500a6"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/91/913970/Odkurzacz-pioracy-THOMAS-Aqua-Allergy-Family-bok.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 164865,
+      "sha256": "cb566d5adde517346cacd4df4a47e816cb1617bb55a3f2272da0be84d9a72600"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/91/913970/Odkurzacz-pioracy-THOMAS-Aqua-Allergy-Family-skos.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 193681,
+      "sha256": "4cce89531f0620764b381b884ede75ac7925596e6aeb722342c936112d99127e"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/91/913970/Odkurzacz-pioracy-THOMAS-Aqua-Allergy-Family-tyl.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 46639,
+      "sha256": "43c5aa03ae03dcc121822987dd62c6ddda28d5c922a504025a6ca0527239b3e9"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/91/913970/Odkurzacz-pioracy-THOMAS-Aqua-Allergy-Family-przewod.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 39557,
+      "sha256": "881794cfb828146b4b6f4e0fd7a4d5ab36c76f0e4ff00e39f4027c452dacc3c3"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/91/913970/Odkurzacz-pioracy-THOMAS-Aqua-Allergy-Family-spod.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 45809,
+      "sha256": "c65991da78dba10ac7fc852055a1e688f5c8c261716725a182c9ad58484c4de8"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/91/913970/Odkurzacz-pioracy-THOMAS-Aqua-Allergy-Family-wnetrze.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 243498,
+      "sha256": "3d2551e06741554d0865cc3133d195e563c73bf2cbdd3ab90853d0754d75dd74"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/91/913970/Odkurzacz-pioracy-THOMAS-Aqua-Allergy-Family-wnetrze-2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 62701,
+      "sha256": "468eb23091c0937908c32ea7bd6b872d4c245e9fbdb5fe925496d435086cbbe1"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/91/913970/Odkurzacz-pioracy-THOMAS-Aqua-Allergy-Family-zblizenie.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 44617,
+      "sha256": "bb6d6713d50414bb32d9e084bc9ad92030b274fbb2066a3cd62b07a387ed67c8"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/91/913970/Odkurzacz-pioracy-THOMAS-Aqua-Allergy-Family-ssawka.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 41671,
+      "sha256": "ae459c67941d7aa1b0eb9626241c98cced0071de3c554703daae08134d111de5"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/91/913970/Odkurzacz-pioracy-THOMAS-Aqua-Allergy-Family-plyn.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 74897,
+      "sha256": "48137095482264bb2fafea02fa07ed4658094dffc811ad0d28d3a3c6ba1c78dc"
+    },
+    {
+      "file": "logo-thomas.jpg",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "https://www.robert-thomas.de/themes/custom/robert_thomas/static/assets/images/header-slider/animals-dog.png",
+      "width": 432,
+      "height": 576,
+      "bytes": 121239,
+      "sha256": "5a8475476f2ea06024c3856e556fd3a4fc43c15a8cded8a5cdc6976dd1561f96"
+    }
+  ]
+}
