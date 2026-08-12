@@ -1,0 +1,131 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-12T07:18:52.307Z",
+ "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TP555EM7",
+ "slug": "siemens-tp555em7",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28018736_TP555EM7_STP_def.jpg",
+   "width": 3749,
+   "height": 4120,
+   "bytes": 586963,
+   "sha256": "c5a0fc2e60247decacdb5b7e4618f65f7449e615732f6048322cb812ff07f50e"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28661554_BSH-EN-SI_EC_812_TP555EM7_General_Sec_Img-01_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 195243,
+   "sha256": "174e9f41d78259f875755cf71ead75531cec816bee2c9e8072b6b641d2747b6b"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28661550_BSH-EN-SI_EC_812_TP555EM7_General_Sec_Img-02_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 257326,
+   "sha256": "83be4d2f465adcb5da600fe0431826ed656195bef08ce1bd554511bb8348d112"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28661553_BSH-EN-SI_EC_812_TP555EM7_General_Sec_Img-03_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 163910,
+   "sha256": "a0953d3b4240e6a52de267d3da95edeeb32c252bba71f70cf3bb51bdc3611013"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28661556_BSH-EN-SI_EC_812_TP555EM7_General_Sec_Img-04_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 209631,
+   "sha256": "036149ec9bc101f18d51302fddff1d09b9dddb3f77a8b759987f134d13535a08"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28661558_BSH-EN-SI_EC_812_TP555EM7_General_Sec_Img-05_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 341136,
+   "sha256": "1b39e7611e4c1406f908dd0d62d1c0931e13f5ec2f6499af396149b306b1e9d9"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28661561_BSH-EN-SI_EC_812_TP555EM7_General_Sec_Img-06_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 206880,
+   "sha256": "38d287234806828db764b1fc831825c8ff4fce00ba23ee6cd1ee6fe53b8ec692"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28661564_BSH-EN-SI_EC_812_TP555EM7_General_Sec_Img-08_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 208854,
+   "sha256": "1f9a65e108557416fe17e1200114679f01bf5a4279b44671b28131a0abff91b0"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28661568_BSH-EN-SI_EC_812_TP555EM7_General_Sec_Img-09_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 372231,
+   "sha256": "97e4388588ac5f2abf201f7457a0568c7d5d846733552de8b397380756132ae2"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28661584_BSH-EN-SI_EC_812_TP555EM7_General_Sec_Img-12_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 273147,
+   "sha256": "f2b7427c4091e82e477132d97558898a59e0f8ffb945ee83be3b5bde16af0a7f"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 1,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "height": 500,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c"
+  }
+ ]
+}
