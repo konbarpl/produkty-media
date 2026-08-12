@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-12T18:45:58.642Z",
+  "generatedAt": "2026-08-12T19:05:41.196Z",
   "sourcePage": "https://www.mediaexpert.pl/agd-male/sprzatanie/odkurzacze-piorace/odkurzacz-thomas-aquawash-pet-pioracy-z-filtrem-wodnym",
   "slug": "thomas-twin-aquawash-pet-turboszczotka",
   "galleryOrder": [
@@ -10,7 +10,7 @@
     "produkt-04.jpg",
     "produkt-05.jpg",
     "produkt-06.jpg",
-    "logo-thomas.jpg"
+    "logo-thomas-v2.jpg"
   ],
   "files": [
     {
@@ -74,14 +74,14 @@
       "sha256": "132991aaa4affe17596cf343f3fcb54b7ae704eb13cafc637eb1cb9425e742c3"
     },
     {
-      "file": "logo-thomas.jpg",
+      "file": "logo-thomas-v2.jpg",
       "kind": "logo",
       "order": 7,
-      "sourceUrl": "https://www.robert-thomas.de/themes/custom/robert_thomas/static/assets/images/header-slider/animals-dog.png",
-      "width": 432,
-      "height": 576,
-      "bytes": 121239,
-      "sha256": "5a8475476f2ea06024c3856e556fd3a4fc43c15a8cded8a5cdc6976dd1561f96"
+      "sourceUrl": "https://thomas.info/wp-content/themes/thomas/assets/images/logo-footer.svg",
+      "width": 1400,
+      "height": 500,
+      "bytes": 58116,
+      "sha256": "b79cf600d9e76b0bbc3946a293ac5a3047f11bdd26d81af6cf6e4efdec00393c"
     }
   ]
 }
