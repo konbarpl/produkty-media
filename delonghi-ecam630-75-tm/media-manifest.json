@@ -19,77 +19,113 @@
       "sourceUrl": "https://dam.delonghi.com/902x902/assets/306828",
       "width": 902,
       "height": 902,
-      "sha256": "941cc185e65dcfc95e728011883c87b7acee89b6fee217164bb44737f1ef1a4e"
+      "sha256": "941cc185e65dcfc95e728011883c87b7acee89b6fee217164bb44737f1ef1a4e",
+      "bytes": 30108,
+      "order": 1,
+      "kind": "product"
     },
     {
       "file": "produkt-02.jpg",
       "sourceUrl": "https://dam.delonghi.com/902x902/assets/306803",
       "width": 902,
       "height": 902,
-      "sha256": "3f98b685e5936294d78780ef684759be624d1f5e930c51596781d4210b70b45b"
+      "sha256": "3f98b685e5936294d78780ef684759be624d1f5e930c51596781d4210b70b45b",
+      "bytes": 31423,
+      "order": 2,
+      "kind": "product"
     },
     {
       "file": "produkt-03.jpg",
       "sourceUrl": "https://dam.delonghi.com/902x902/assets/306830",
       "width": 902,
       "height": 902,
-      "sha256": "3ca8dfa114e29dd69ff5a67da827d6e2c80ffe9c0970e67fc7b5e1b624d307dd"
+      "sha256": "3ca8dfa114e29dd69ff5a67da827d6e2c80ffe9c0970e67fc7b5e1b624d307dd",
+      "bytes": 52605,
+      "order": 3,
+      "kind": "product"
     },
     {
       "file": "produkt-04.jpg",
       "sourceUrl": "https://dam.delonghi.com/902x902/assets/306839",
       "width": 902,
       "height": 902,
-      "sha256": "5dc027c7fecf8448d78172375418ae6709969375737569afcfaf0f4108ce27b1"
+      "sha256": "5dc027c7fecf8448d78172375418ae6709969375737569afcfaf0f4108ce27b1",
+      "bytes": 27993,
+      "order": 4,
+      "kind": "product"
     },
     {
       "file": "produkt-05.jpg",
       "sourceUrl": "https://dam.delonghi.com/902x902/assets/306827",
       "width": 902,
       "height": 902,
-      "sha256": "2bb1f971f580a3ca3f1c42ff8057aeeeeb16065301626f0ac3d1ef45a0ce0f11"
+      "sha256": "2bb1f971f580a3ca3f1c42ff8057aeeeeb16065301626f0ac3d1ef45a0ce0f11",
+      "bytes": 48050,
+      "order": 5,
+      "kind": "product"
     },
     {
       "file": "produkt-06.jpg",
       "sourceUrl": "https://dam.delonghi.com/600x600/assets/306828",
       "width": 600,
       "height": 600,
-      "sha256": "56d6b5d708caf3ab73a3ab47cf74714887f86760c1e47e5b46f5ace2b7d07164"
+      "sha256": "56d6b5d708caf3ab73a3ab47cf74714887f86760c1e47e5b46f5ace2b7d07164",
+      "bytes": 16636,
+      "order": 6,
+      "kind": "product"
     },
     {
       "file": "produkt-07.jpg",
       "sourceUrl": "https://dam.delonghi.com/600x600/assets/306803",
       "width": 600,
       "height": 600,
-      "sha256": "1f77ff2617fb40bb3b747ec3e7ef1f2aa63d00c648c551947f548d437b707438"
+      "sha256": "1f77ff2617fb40bb3b747ec3e7ef1f2aa63d00c648c551947f548d437b707438",
+      "bytes": 30288,
+      "order": 7,
+      "kind": "product"
     },
     {
       "file": "produkt-08.jpg",
       "sourceUrl": "https://dam.delonghi.com/600x600/assets/306830",
       "width": 600,
       "height": 600,
-      "sha256": "a627be285fb228c4cbdb35ca9490f62e0799fbbf9f6bfe67bdf40a90e8657183"
+      "sha256": "a627be285fb228c4cbdb35ca9490f62e0799fbbf9f6bfe67bdf40a90e8657183",
+      "bytes": 32963,
+      "order": 8,
+      "kind": "product"
     },
     {
       "file": "produkt-09.jpg",
       "sourceUrl": "https://dam.delonghi.com/600x600/assets/306839",
       "width": 600,
       "height": 600,
-      "sha256": "8028eb3de2219e575819b4deaffac943d24e20af7e26889a327ce1d7474495df"
+      "sha256": "8028eb3de2219e575819b4deaffac943d24e20af7e26889a327ce1d7474495df",
+      "bytes": 23753,
+      "order": 9,
+      "kind": "product"
     },
     {
       "file": "produkt-10.jpg",
       "sourceUrl": "https://dam.delonghi.com/600x600/assets/306827",
       "width": 600,
       "height": 600,
-      "sha256": "beb0848995f52f8948f35c3efee268ddb3c09e600788846e1d7ff5eeb88c79f5"
+      "sha256": "beb0848995f52f8948f35c3efee268ddb3c09e600788846e1d7ff5eeb88c79f5",
+      "bytes": 43349,
+      "order": 10,
+      "kind": "product"
     },
     {
       "file": "logo-01.jpg",
       "sourceUrl": "repo:delonghi-ecam320-70-tb/logo-01.jpg",
       "width": 1000,
       "height": 310,
-      "role": "brand-logo"
+      "role": "brand-logo",
+      "bytes": 33045,
+      "sha256": "737baca8deb869e21e2f0246806ad0b84221c34b57de45d304e142c8d6fc6e7f",
+      "order": 11,
+      "kind": "logo"
     }
-  ]
+  ],
+  "version": 1,
+  "sourcePage": "https://www.delonghi.com/pl-pl/p/x/ECAM630-75-TM.html"
 }
