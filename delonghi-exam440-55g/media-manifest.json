@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T13:07:55.595Z",
+  "sourcePage": "https://www.delonghi.com/pl-pl/p/rivelia-automatyczny-ekspres-do-kawy-rivelia-exam440.55.g/EXAM440.55.G.html",
+  "slug": "delonghi-exam440-55g",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/380685",
+      "width": 902,
+      "height": 902,
+      "bytes": 32602,
+      "sha256": "b695d49949837e6c2c7d7b5093e67769383700ac6c8cd903ef3593c8d5bad732"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/268685",
+      "width": 902,
+      "height": 902,
+      "bytes": 59840,
+      "sha256": "bfa4ff162d8ab27bec294d1b652b92e09e29eb2b56f575fec56143bb7cfe7007"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/268687",
+      "width": 902,
+      "height": 902,
+      "bytes": 31926,
+      "sha256": "5734226e791d65096e358730c5090b3f1fcd1f12407af3a0302aa97850b4615b"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/273416",
+      "width": 902,
+      "height": 902,
+      "bytes": 34786,
+      "sha256": "b7e58f199ebf8802a823cdb507ad6b2fde67b2673ab1f139ee7ec4a760cfc62d"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/287012",
+      "width": 902,
+      "height": 902,
+      "bytes": 17506,
+      "sha256": "4e4ac727cbd9f01724b451a6a1f3e2b74a6dc83edab36b2262f8bc359220d85a"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/289048",
+      "width": 902,
+      "height": 902,
+      "bytes": 31972,
+      "sha256": "a335ab1af4fbdafb2f3a6dc8eda5a38a1cc05f411a64c56acbcebd6538080429"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/269740",
+      "width": 902,
+      "height": 902,
+      "bytes": 49006,
+      "sha256": "c8e060c1475ff0efd216d80b37a736a587686cb3515c5afe26b98da67f6a23d7"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia zweryfikowanego logo z delonghi-ecam220-60-b",
+      "width": 1000,
+      "height": 310,
+      "bytes": 39830,
+      "sha256": "11f97fb6327d0343ca4574a5b26866a58d4e4ea3a264ae21e23b3070b4959702"
+    }
+  ]
+}

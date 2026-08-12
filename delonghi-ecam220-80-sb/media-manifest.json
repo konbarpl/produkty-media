@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T13:07:54.454Z",
+  "sourcePage": "https://www.delonghi.com/pl-pl/p/magnifica-start-automatyczny-ekspres-do-kawy-magnifica-start-ecam220.80.sb-ex1/ECAM220.80.SB%2BEX%253A1.html",
+  "slug": "delonghi-ecam220-80-sb",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/296739",
+      "width": 902,
+      "height": 902,
+      "bytes": 29766,
+      "sha256": "da9cce57e30536a0fe5b0c40355c3bd38c0feab2ae650d158bfd6cff59150da2"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/336377",
+      "width": 902,
+      "height": 902,
+      "bytes": 43297,
+      "sha256": "0034d1af40bbd7b6794858706fc5d53f5e2e5f00c7bedbb9e65313ef0ea6e50b"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/296738",
+      "width": 902,
+      "height": 902,
+      "bytes": 59855,
+      "sha256": "b745f8aa2a256e7a65b02021b05fd9845e758bb7d8d13326657476903818182c"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/317073",
+      "width": 902,
+      "height": 902,
+      "bytes": 19536,
+      "sha256": "ea13fc94b701c0be8d67300bae1001290c475f1322291831bd13b2a2f47652c1"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/244958",
+      "width": 902,
+      "height": 902,
+      "bytes": 69862,
+      "sha256": "ef7a352740eeffca24227766f2a6bcc9da21914152ee8b6247cbcb57fd4f601f"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/296740",
+      "width": 902,
+      "height": 902,
+      "bytes": 98002,
+      "sha256": "904ff0b2aeea052c0b9bf568943cf328a6d80a70286373fa1a7f6fe1642b28f4"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "kopia zweryfikowanego logo z delonghi-ecam220-60-b",
+      "width": 1000,
+      "height": 310,
+      "bytes": 39830,
+      "sha256": "11f97fb6327d0343ca4574a5b26866a58d4e4ea3a264ae21e23b3070b4959702"
+    }
+  ]
+}

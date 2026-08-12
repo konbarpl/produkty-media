@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T13:07:51.465Z",
+  "sourcePage": "https://www.delonghi.com/en-ie/p/eletta-explore-eletta-explore-automatic-coffee-maker-ecam450.55.s/ECAM450.55.S.html?pid=0132217070",
+  "slug": "delonghi-ecam450-55-s",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/232718",
+      "width": 902,
+      "height": 902,
+      "bytes": 30007,
+      "sha256": "db5a771f0349e8fe8eabf77800e1f292564c8ef388c44f2c606cda713703bcbb"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/220152",
+      "width": 902,
+      "height": 902,
+      "bytes": 50750,
+      "sha256": "5c8a3ec2fc885a38ca93de9b49bd4e549906ce3b0afba72792756884433369b0"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/232631",
+      "width": 902,
+      "height": 902,
+      "bytes": 80439,
+      "sha256": "b09d735515012d172c3023d542d19aba41033bef6535cbe468c8e7e3ef20bdae"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/287083",
+      "width": 902,
+      "height": 902,
+      "bytes": 20551,
+      "sha256": "01bf6963f649f757d4881944ee64a549bf36164df76c8147e9e8b31a74e267c1"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/232717",
+      "width": 902,
+      "height": 902,
+      "bytes": 50793,
+      "sha256": "45f57e9ce07f83efd2658fd95df6efec03e7179c626c0191d7a5727105e0ba4d"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/232720",
+      "width": 902,
+      "height": 902,
+      "bytes": 67057,
+      "sha256": "0741425891645db5c57741699231450fe7a52fecec2c9105d4793a886e7affe0"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "kopia zweryfikowanego logo z delonghi-ecam220-60-b",
+      "width": 1000,
+      "height": 310,
+      "bytes": 39830,
+      "sha256": "11f97fb6327d0343ca4574a5b26866a58d4e4ea3a264ae21e23b3070b4959702"
+    }
+  ]
+}

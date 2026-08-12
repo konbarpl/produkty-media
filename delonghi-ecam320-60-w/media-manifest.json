@@ -1,0 +1,109 @@
+{
+  "slug": "delonghi-ecam320-60-w",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/276187",
+      "width": 902,
+      "height": 902,
+      "sha256": "35a30d413bd0ecd46b4cc55d7b9dde6f51e4035efca6a8e198c3522721cbeca3",
+      "bytes": 36932,
+      "order": 1,
+      "kind": "product"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/276186",
+      "width": 902,
+      "height": 902,
+      "sha256": "66bdb5bc2d4dbb9659105b41bd3d9ea1671e57f4382ed1923ed7b223a59753a0",
+      "bytes": 57560,
+      "order": 2,
+      "kind": "product"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/276188",
+      "width": 902,
+      "height": 902,
+      "sha256": "496cef962f3595effb48f79f8b574ad1f57e40c0bb1b9da363ac08c7c035485a",
+      "bytes": 34352,
+      "order": 3,
+      "kind": "product"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/276463",
+      "width": 902,
+      "height": 902,
+      "sha256": "7e2cff1d85e56a38d6e5675bc0eab973709c6a4c8fba8f0572e2a0da98d0cdb5",
+      "bytes": 40386,
+      "order": 4,
+      "kind": "product"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "sourceUrl": "https://dam.delonghi.com/600x600/assets/276187",
+      "width": 600,
+      "height": 600,
+      "sha256": "6b402696974b4dcbc73a68a2470fc4e268e6479f85471a7dc3c3d5a1a44ca830",
+      "bytes": 13790,
+      "order": 5,
+      "kind": "product"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "sourceUrl": "https://dam.delonghi.com/600x600/assets/276186",
+      "width": 600,
+      "height": 600,
+      "sha256": "ef1c6bfe25ad9e3da3e53b82c9c925aaaa2f11d7cd6d49241a3c4be01c16f2c5",
+      "bytes": 37858,
+      "order": 6,
+      "kind": "product"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "sourceUrl": "https://dam.delonghi.com/600x600/assets/276188",
+      "width": 600,
+      "height": 600,
+      "sha256": "47e1ebbe282e1d55eff03c8395a1926d3a1af707dd77aecd76fb008c7e5d58f1",
+      "bytes": 19495,
+      "order": 7,
+      "kind": "product"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "sourceUrl": "https://dam.delonghi.com/600x600/assets/276463",
+      "width": 600,
+      "height": 600,
+      "sha256": "6ea46521c29e8915fdfc1cd96dc7899b087987a1d6a4215d0e29c6bfbc7e76a0",
+      "bytes": 35894,
+      "order": 8,
+      "kind": "product"
+    },
+    {
+      "file": "logo-01.jpg",
+      "sourceUrl": "repo:delonghi-ecam320-70-tb/logo-01.jpg",
+      "width": 1000,
+      "height": 310,
+      "role": "brand-logo",
+      "bytes": 33045,
+      "sha256": "737baca8deb869e21e2f0246806ad0b84221c34b57de45d304e142c8d6fc6e7f",
+      "order": 9,
+      "kind": "logo"
+    }
+  ],
+  "version": 1,
+  "sourcePage": "https://www.delonghi.com/pl-pl/p/x/ECAM320-60-W.html"
+}

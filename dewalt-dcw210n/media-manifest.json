@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T20:02:59.083Z",
+  "sourcePage": "https://www.dewalt.pl/pl-pl/produkt/dcw210n-xj/18v-xr-bezszczotkowa-125-mm-szlifierka-mimosrodowa-narzedzie-bez-akumulatora-i",
+  "slug": "dewalt-dcw210n",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "logo-dewalt.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://assets.dewalt.pl/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DCW210N_1_1680.webp",
+      "width": 1680,
+      "bytes": 102710,
+      "sha256": "49e002ce76ba7daea2a5d14794724250e8859e12567a6bc7287e852fe3f3963b"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://assets.dewalt.pl/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DCW210N_2_1680.webp",
+      "width": 1680,
+      "bytes": 90538,
+      "sha256": "ff2c60b95e8e689b577f5a4a1dd1ab4b3296fd9c5caa37ff4cd26caab816b6c8"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://assets.dewalt.pl/EMEA/PRODUCT/IMAGES/HIRES/WHITEBG/DCW210N_3_1680.webp",
+      "width": 1680,
+      "bytes": 91850,
+      "sha256": "e2edd58f1f8b86ad12054839bcb7a4a9d991eb35efc6abf427bd785ce4ed9ca1"
+    },
+    {
+      "file": "logo-dewalt.jpg",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "dropshipping/materiały/logo/dewalt.jpg (repo lokalne, kopia dla galerii)",
+      "width": 1200,
+      "bytes": 58079,
+      "sha256": "300830acca3d425175f1344d089f523cb2d99851827f25933c0758d41bbd715b",
+      "note": "logo marki DeWalt, kopia lokalna z repo materiały/logo (wiedza/reference_logo_marek.md), na KONIEC galleryOrder"
+    }
+  ],
+  "dropped": 0
+}

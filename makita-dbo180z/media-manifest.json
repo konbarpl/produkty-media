@@ -44,9 +44,9 @@
       "kind": "logo",
       "order": 4,
       "sourceUrl": "dropshipping/materiały/logo/makita.jpg",
-      "width": null,
+      "width": 1200,
       "bytes": 50812,
-      "sha256": null
+      "sha256": "188b1c8a11cbdce1c868a4e3dab0c4385860e2ded316a46a1e40dcbc7875ce00"
     }
   ],
   "dropped": 13,

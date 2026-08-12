@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T18:34:09.615Z",
+  "sourcePage": "https://clinus.pl/myjki-cisnieniowe-zimnowodne/karcher/7001-karcher-hd-9-25-g-classic-zestaw-rozszerzony-dysza-rotacyjna",
+  "slug": "karcher-hd-9-25-g-classic-dysza-rotacyjna",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/100212/karcher-hd-9-25-g-classic-zestaw-rozszerzony-dysza-rotacyjna.jpg",
+      "width": 938,
+      "bytes": 664480,
+      "sha256": "7d60f1f76751b353632e96d2cfc262e63d561c35a6e1ab369bf72664e2b2f239"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/1-187-013-0-top-1.jpg",
+      "width": 1500,
+      "bytes": 92886,
+      "sha256": "31f4b88a11c8aace24024c51307e473920dc5d680220bf86e3b466636bc5b3ca"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/1.jpg",
+      "width": 1000,
+      "bytes": 50372,
+      "sha256": "d2bf6f600898d844706e200f39b52ef3a2cf86db81387b46bf5813fe2ab5a2da"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/11.jpg",
+      "width": 1000,
+      "bytes": 60522,
+      "sha256": "e4136bd13305513fddfea35ce1eb6d144e5ec6220fe0990361ba6c1c11a98bcd"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/5.jpg",
+      "width": 1000,
+      "bytes": 127532,
+      "sha256": "f33ecc85990ab0a4673ea24494c3e5737c2a95f0e0c2b6925333f11ba5f766f1"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/4.jpg",
+      "width": 1000,
+      "bytes": 85018,
+      "sha256": "b996c5a954cd5e80fc0ca81f02b92a35a11200388a7afe139627076c013e32f8"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/10.jpg",
+      "width": 1000,
+      "bytes": 92944,
+      "sha256": "82cd02a94564f3e0eff31ade5b751de87221e3ed0ba3fbdd2c1f51ea24cf4458"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/9.jpg",
+      "width": 1000,
+      "bytes": 54510,
+      "sha256": "7eebece0bf2097983747391d1798c01e77e5528c02c1003f5b7c97f2473ae7f3"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/3.jpg",
+      "width": 1000,
+      "bytes": 112256,
+      "sha256": "71130e6c2e3b8899cd055c2636f983ecc6f2f5ca13a06d3a70d5c4e0f3ac156f"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/img/cms/Karcher/11870130/2.jpg",
+      "width": 1000,
+      "bytes": 148412,
+      "sha256": "3941ad360e7605710c279982e8ac78998b5d1e10defdd31bcda36e2af32b73ee"
+    }
+  ],
+  "dropped": 20
+}

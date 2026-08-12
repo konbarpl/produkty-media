@@ -1,0 +1,186 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-12T11:55:00.700Z",
+ "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TQ903R03",
+ "slug": "siemens-tq903r03",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "produkt-14.jpg",
+  "produkt-15.jpg",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19594820_TQ903R03_STP_def.jpg",
+   "width": 2880,
+   "height": 3237,
+   "bytes": 610522,
+   "sha256": "673c92a894b070cfbc40937ecfa72b02932a45357fb18d86410423e3260cc854"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20183153_BSH-EN_SI_FAEM_812_TQ903R03_General_SecImg-08_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 313770,
+   "sha256": "57e16a27be255450f03b254b34c3a0d0ad524755db2b1abb9f59f2f6605eff5a"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20183154_BSH-EN_SI_FAEM_812_TQ903R03_General_SecImg-09_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 338458,
+   "sha256": "f3c271b2c2d1f10bec06a8e5871e229fc0a5f06e1743676d045b2016e8af1392"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20183161_BSH-EN_SI_FAEM_812_TQ903R03_General_SecImg-13_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 541002,
+   "sha256": "557bb78fb7282adc5d3b37b8ff69a6a26bf2fc3b855af8edf753048283c2cb46"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20183150_BSH-EN_SI_FAEM_812_TQ903R03_General_SecImg-03_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 388565,
+   "sha256": "3070bc8e19cf414e588802198ed83cd6e4a0068df287cac2f3ab61c679cbc1a6"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20183152_BSH-EN_SI_FAEM_812_TQ903R03_General_SecImg-04_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 409779,
+   "sha256": "4def4efa59d327f16b10618564601621f32decbd433d8b1adc2d151beffeb675"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20183109_BSH-EN_SI_FAEM_812_TQ903R03_General_SecImg-01_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 304538,
+   "sha256": "e381290cbe766fd4d48c03da16abcfb372af1a428e69fc29c8625407585c9ca3"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20183151_BSH-EN_SI_FAEM_812_TQ903R03_General_SecImg-05_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 292280,
+   "sha256": "7ce0766da3892b19db4fbaebd5bca28fda79bff5af2a44c80be9255a6479d854"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20183107_BSH-EN_SI_FAEM_812_TQ903R03_General_Power_Img-01_3200x1800px_def.jpg",
+   "width": 1696,
+   "height": 1704,
+   "bytes": 218184,
+   "sha256": "ad19e3a8444360f87af7a1a670e7e4e03bbe8e460431d5857463ca25f8a67e0e"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20183158_BSH-EN_SI_FAEM_812_TQ903R03_General_SecImg-11_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 409030,
+   "sha256": "2d4453efe4743434f8d4674fe7a26e2d7ea372854e552e514c7b1ea5c68902e3"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20183157_BSH-EN_SI_FAEM_812_TQ903R03_General_SecImg-07_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 243028,
+   "sha256": "5c746622495ae60508e47e334ec0b54eb954cd08217eb414747b2d5c1a26dbe2"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20183108_BSH-EN_SI_FAEM_812_TQ903R03_General_SecImg-02_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 378456,
+   "sha256": "f33c12f80a15869d2f4861fd8860de5117cde89edc56cd3bbc5b65ccb3b81279"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "lifestyle",
+   "order": 13,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20183159_BSH-EN_SI_FAEM_812_TQ903R03_General_SecImg-12_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 329045,
+   "sha256": "f965bf7fe83a9989f8d056f56b2d78ab394d8f9588d691abebced05d5f17d263"
+  },
+  {
+   "file": "produkt-14.jpg",
+   "kind": "lifestyle",
+   "order": 14,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20183156_BSH-EN_SI_FAEM_812_TQ903R03_General_SecImg-10_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 399233,
+   "sha256": "15a90cde1d3b3f71b34bc8fe6d63f6da3ba72e5f8cd39b4ab166fcac752a1182"
+  },
+  {
+   "file": "produkt-15.jpg",
+   "kind": "lifestyle",
+   "order": 15,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26350951_BSH-EN_SI_FAEM_812_TQ903R03_General_SecImg-03_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 419184,
+   "sha256": "409460426810be4ab32bdfd1e7d642e3fa18338a70fc778ec6a3713233ba5246"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 16,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "height": 500,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c"
+  }
+ ]
+}

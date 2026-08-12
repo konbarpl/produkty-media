@@ -1,0 +1,153 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-12T07:18:20.086Z",
+ "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TP517R03",
+ "slug": "siemens-tp517r03",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20262312_TP517R03_STP%20D_def.jpg",
+   "width": 2480,
+   "height": 3440,
+   "bytes": 596243,
+   "sha256": "138e14e334b36c7f425b5010f423115dcef46fe407e93a7d53a2979cb35a5603"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091810_BSH-EN_SI_FAEM_812_TP517R03_General_SecImg-06_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 195657,
+   "sha256": "41fe0615e77f4b66bc2c3fe2986a9334dd250be0a0fb39ff65bc47cfb584fcf0"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091815_BSH-EN_SI_FAEM_812_TP517R03_General_SecImg-08_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 584796,
+   "sha256": "4c1875954614231080002cef37514f168b7f880e5c16909650f5384a104856c3"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091803_BSH-EN_SI_FAEM_812_TP517R03_General_SecImg-03_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 245923,
+   "sha256": "49d823219588239c2b6544ec4dba459a58da09152ac8b97f094ec0526ff691ce"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091806_BSH-EN_SI_FAEM_812_TP517R03_General_SecImg-04_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 374209,
+   "sha256": "d4c69f572a8428df14b3652bd5a5bcd5cdc9fc92a3d9e85b9044cfd10cdca90a"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091804_BSH-EN_SI_FAEM_812_TP517R03_General_SecImg-02_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 370875,
+   "sha256": "d0fe23605117068809f01dbca034f1649747503495bce39533f5daac7d3b3361"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091805_BSH-EN_SI_FAEM_812_TP517R03_General_SecImg-01_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 337806,
+   "sha256": "e4cb5ddec2dfa95bffa785bd20648231f850f830475fc45cbb06e09b4394c9b3"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091809_BSH-EN_SI_FAEM_812_TP517R03_General_SecImg-05_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 564359,
+   "sha256": "54a0254f944abc7a76c1cf714fb7e2448d87d37ca69aba9eb3ad37ee104eae39"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091818_BSH-EN_SI_FAEM_812_TP517R03_General_SecImg-11_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 400136,
+   "sha256": "056f69d4e7f2a84c2f4d86758c3b9013f18d813a47a01ff492075a2c5d3b884e"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091817_BSH-EN_SI_FAEM_812_TP517R03_General_SecImg-10_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 426846,
+   "sha256": "3aaeb7f8a532f5f30056b6d2baab5e556e0aab55b23c3625288d2b868ab2fa01"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091816_BSH-EN_SI_FAEM_812_TP517R03_General_SecImg-09_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 603600,
+   "sha256": "0e1d432bce97ab1e6602c726f1b48a742d9e5ef481b0ae97803ed6616adf9281"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22091813_BSH-EN_SI_FAEM_812_TP517R03_General_SecImg-07_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 381652,
+   "sha256": "cd51c95e1c444c9211d48259de2f4ee8d6b3f7d65b0a72649e2049f0d9cf860c"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 1,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "height": 500,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c"
+  }
+ ]
+}
