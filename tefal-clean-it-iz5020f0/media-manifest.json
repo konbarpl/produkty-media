@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T19:57:06.256Z",
+  "sourcePage": "dump me_iz5020.html",
+  "slug": "tefal-clean-it-iz5020f0",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-tefal.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7931235/Odkurzacz-TEFAL-IZ5020F0-Clean-It-1.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 172977,
+      "sha256": "1a7cbe5f04de91e7a1e7a355ab4a496da15eae7b5fa0633fee2ce7c60e4aa638"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7931235/Odkurzacz-TEFAL-IZ5020F0-Clean-It-10.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 306764,
+      "sha256": "8d24041f72366f2d0ceea43a643122af4d6ea7e38272792c60a9a939607efb4b"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7931235/Odkurzacz-TEFAL-IZ5020F0-Clean-It-2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 169922,
+      "sha256": "482aef81dc3e2ec913eb01d6042b2ca28550a4732b1c5a036d1a0188e5b0f31b"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7931235/Odkurzacz-TEFAL-IZ5020F0-Clean-It-3.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 129937,
+      "sha256": "600673e3ed908464f7a18f53f71a74f24f9985ea7ecd7e97a3dccc891cdc3a97"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7931235/Odkurzacz-TEFAL-IZ5020F0-Clean-It-4.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 166366,
+      "sha256": "d9b594a93e3cb725731e1a43f41a716ece0cbd965d4a59d8a0817bb831cb732d"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7931235/Odkurzacz-TEFAL-IZ5020F0-Clean-It-5.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 893752,
+      "sha256": "0c5d032d26e994d1f97b5a8206bdaa5537ef21e242cf0a94d0d94c5d1cf95c9d"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7931235/Odkurzacz-TEFAL-IZ5020F0-Clean-It-6.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 280019,
+      "sha256": "034595d92f4c2534456db88601fea81f5bda82fbdc7083ebfa2def6dfa5f64a0"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7931235/Odkurzacz-TEFAL-IZ5020F0-Clean-It-7.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 495664,
+      "sha256": "3818a19b6cb7beea7248ef8ed0be37277b30de769809388dae07ab205d0e3f14"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7931235/Odkurzacz-TEFAL-IZ5020F0-Clean-It-8.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 382811,
+      "sha256": "c6aba226ff0e94966237d55e250373e9f6785b780283ba7624fcf0ad072b2b71"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7931235/Odkurzacz-TEFAL-IZ5020F0-Clean-It-9.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 254966,
+      "sha256": "d09af208ac72ea974c0708f0485fd2b7fd6a198d6fdb68aac198c46291a5fd95"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7931235/Odkurzacz-TEFAL-IZ5020F0-Clean-It-11.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 358112,
+      "sha256": "7fbad055c38ccfd6196b513e29cf1267a6b6e43bf8755d9fc188a7b2b8fec4a8"
+    },
+    {
+      "file": "logo-tefal.png",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "C:\\Users\\konra\\Documents\\claude code\\dropshipping\\materiały\\logo\\Tefal_logo.png",
+      "width": 960,
+      "height": 206,
+      "bytes": 12693,
+      "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+    }
+  ]
+}
