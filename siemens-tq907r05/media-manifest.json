@@ -1,0 +1,219 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-12T11:23:32.015Z",
+ "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TQ907R05",
+ "slug": "siemens-tq907r05",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "produkt-14.jpg",
+  "produkt-15.jpg",
+  "produkt-16.jpg",
+  "produkt-17.jpg",
+  "produkt-18.jpg",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/19594963_TQ907R05_STP_def.jpg",
+   "width": 2880,
+   "height": 3240,
+   "bytes": 588067,
+   "sha256": "d04ef881c605d696e838e4ebe42d8a933a731a89f7c2c2718a4b7f41fa246251"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187975_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-08_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 328775,
+   "sha256": "25f1a89f65f4ee381ef49b4dd2c28ce0561a8248859fc0303f1d981994e15991"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187972_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-04_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 409779,
+   "sha256": "4def4efa59d327f16b10618564601621f32decbd433d8b1adc2d151beffeb675"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187970_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-01_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 303924,
+   "sha256": "d56ea2bf28f08f01b251f6ebbce72479d2acbb796a9d9813e1246e9d0fde205d"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187982_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-14_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 326946,
+   "sha256": "a118d3f1f6a3d51256c9805c947df381bd792c2d1e92a5609783669e14a1243f"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187973_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-05_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 291354,
+   "sha256": "9de555e1a096a64248b92c711713e8abe5d5d3c0485954df5cc75721bf345f09"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187985_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-15_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 540308,
+   "sha256": "6d367bba76ad37e194562276bee3239ebc79b411d965e6b87e43abd7a4e2660f"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187981_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-11_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 355504,
+   "sha256": "9f1a53a76544c764c7982c9bf8224be074033f99039316404e7eeb598808ba55"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187978_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-10_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 380571,
+   "sha256": "c76524031b000cb7746378156df62e791c4c8900a57fb391920e95bd68b4745f"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187979_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-09_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 338458,
+   "sha256": "f3c271b2c2d1f10bec06a8e5871e229fc0a5f06e1743676d045b2016e8af1392"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187971_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-03_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 385708,
+   "sha256": "eae18348529fdde52e598ed210dde6601c8108069093ccda0dafc1e90543cdeb"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187984_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-13_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 409030,
+   "sha256": "0258c215a30165a2e0f95fbd60de7f45b58d151c88aee9bfa2a5b743052de402"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "lifestyle",
+   "order": 13,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187968_BSH-EN_SI_FAEM_812_TQ907R05_General_Power_Img-01_3200x1800px_def.jpg",
+   "width": 1696,
+   "height": 1706,
+   "bytes": 215165,
+   "sha256": "a0503cd506a882c502af65e14b0595383b6ec49cb58c7850929bad4fb2910e79"
+  },
+  {
+   "file": "produkt-14.jpg",
+   "kind": "lifestyle",
+   "order": 14,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187974_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-06_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 461140,
+   "sha256": "b3049c350d2ebb00b20eb21db67a5216750576f86a7a9d2e4e33e2f443f82c2d"
+  },
+  {
+   "file": "produkt-15.jpg",
+   "kind": "lifestyle",
+   "order": 15,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187977_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-07_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 259294,
+   "sha256": "34bbbe250d27037d90d310c7730b84ca6e35bc3b22abfd4c66c829760c980f14"
+  },
+  {
+   "file": "produkt-16.jpg",
+   "kind": "lifestyle",
+   "order": 16,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187969_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-02_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 373447,
+   "sha256": "6c8a6ab9ea7bc1edacc940dadee0627f34b8c004be6c944a82f23d028ddeedde"
+  },
+  {
+   "file": "produkt-17.jpg",
+   "kind": "lifestyle",
+   "order": 17,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20187980_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-12_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1480,
+   "bytes": 295813,
+   "sha256": "ae62f72aaf68c4169aa279da5840346a5b7e3906f0c6f3df31f1bb2b68efbcbe"
+  },
+  {
+   "file": "produkt-18.jpg",
+   "kind": "lifestyle",
+   "order": 18,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26351460_BSH-EN_SI_FAEM_812_TQ907R05_General_SecImg-03_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 419184,
+   "sha256": "409460426810be4ab32bdfd1e7d642e3fa18338a70fc778ec6a3713233ba5246"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 19,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "height": 500,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c"
+  }
+ ]
+}
