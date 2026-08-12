@@ -1,0 +1,120 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-12T11:20:27.748Z",
+ "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TP553E05",
+ "slug": "siemens-tp553e05",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28018797_TP553E05_STP_def.jpg",
+   "width": 3749,
+   "height": 4141,
+   "bytes": 566883,
+   "sha256": "7753fc45f51839742c603310d61fb68662e7ee992af08f1102d8a0743b28e37d"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28696588_BSH-EN-SI_EC_812_TP553E05_General_Sec_Img-01_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 203042,
+   "sha256": "8eec3222cc7317208e7d9cb1de9bcf8522f7831affa5a1fd6a180359dd058160"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28696583_BSH-EN-SI_EC_812_TP553E05_General_Sec_Img-02_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 257326,
+   "sha256": "83be4d2f465adcb5da600fe0431826ed656195bef08ce1bd554511bb8348d112"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28696586_BSH-EN-SI_EC_812_TP553E05_General_Sec_Img-03_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 164914,
+   "sha256": "012026b8333875a7b7fa47ac1e1b5dbdc78452954a85a741c67625e99c15dd9a"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28696589_BSH-EN-SI_EC_812_TP553E05_General_Sec_Img-04_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 215168,
+   "sha256": "dad86af002d409802cc523e7f2adecb60826be1b3a28a7602a27561f129ef12b"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28696641_BSH-EN-SI_EC_812_TP553E05_General_Sec_Img-05_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 368098,
+   "sha256": "5115ff95eaca0b7644868f5a325b01bcc32b0989ebea6d214aa7e17ed31aaab9"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28696644_BSH-EN-SI_EC_812_TP553E05_General_Sec_Img-06_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 207939,
+   "sha256": "5079d90a36e6ec44dd558b3aa0d9bbfadd71d3be73aecca95499023f92512102"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28696647_BSH-EN-SI_EC_812_TP553E05_General_Sec_Img-08_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 208194,
+   "sha256": "edc4f4bed4ea0fcb466ccaebe7130dba63458879b6b9db802476cbffc085e1a2"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28696650_BSH-EN-SI_EC_812_TP553E05_General_Sec_Img-09_plain_2000x2000px_def.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 372231,
+   "sha256": "97e4388588ac5f2abf201f7457a0568c7d5d846733552de8b397380756132ae2"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 10,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "height": 500,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c"
+  }
+ ]
+}
