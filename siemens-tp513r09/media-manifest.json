@@ -1,0 +1,131 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-12T11:56:27.278Z",
+ "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TP513R09",
+ "slug": "siemens-tp513r09",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/20261836_TP513R09_STP%20D_def.jpg",
+   "width": 2480,
+   "height": 3440,
+   "bytes": 537255,
+   "sha256": "39f14689c9e5f665b12190c24aab6f2a5cb114af1b7600ba9b70bf33c34bd5b2"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090875_BSH-EN_SI_FAEM_812_TP513R09_General_SecImg-06_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 196363,
+   "sha256": "2ebcbe2cad30e54b8f326396b9df8e512dc6c197db55dfc391e82151ed39378c"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090878_BSH-EN_SI_FAEM_812_TP513R09_General_SecImg-09_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 426846,
+   "sha256": "3aaeb7f8a532f5f30056b6d2baab5e556e0aab55b23c3625288d2b868ab2fa01"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090807_BSH-EN_SI_FAEM_812_TP513R09_General_SecImg-03_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 213749,
+   "sha256": "b636fd5bda385c39136e612eda0f466a313895c571ebe0616d5ff63029626332"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090808_BSH-EN_SI_FAEM_812_TP513R09_General_SecImg-02_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 419528,
+   "sha256": "49c9128e2adad96bdba21bded23dce72e3e53c26589997b300fb185003b48295"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090873_BSH-EN_SI_FAEM_812_TP513R09_General_SecImg-05_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 552524,
+   "sha256": "30e51332068ec334c323c65bd4807c232b4094f18ee4880b55ad2ed66b99108f"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090879_BSH-EN_SI_FAEM_812_TP513R09_General_SecImg-08_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 598048,
+   "sha256": "2a988cc3a7b66e2afc417e8adfc2785c29daa27af3c4a79e5128d966cac71173"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090876_BSH-EN_SI_FAEM_812_TP513R09_General_SecImg-07_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 584796,
+   "sha256": "4c1875954614231080002cef37514f168b7f880e5c16909650f5384a104856c3"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090870_BSH-EN_SI_FAEM_812_TP513R09_General_SecImg-04_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 375686,
+   "sha256": "758f58176b067f69a948b24b1d67bcfd56a72f824194be309dc92c45125c6ef6"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/22090809_BSH-EN_SI_FAEM_812_TP513R09_General_SecImg-01_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 327684,
+   "sha256": "94d9725b771065d19b9727c7fa7bd63c1558a6a120108a904c5b50f564ff90b6"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 11,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "height": 500,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c"
+  }
+ ]
+}
