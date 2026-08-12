@@ -1,0 +1,263 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-12T11:54:33.576Z",
+ "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TP725ET7",
+ "slug": "siemens-tp725et7",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "produkt-14.jpg",
+  "produkt-15.jpg",
+  "produkt-16.jpg",
+  "produkt-17.jpg",
+  "produkt-18.jpg",
+  "produkt-19.jpg",
+  "produkt-20.jpg",
+  "produkt-21.jpg",
+  "produkt-22.jpg",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/27510515_TP725ET7_STP_def.jpg",
+   "width": 2954,
+   "height": 2954,
+   "bytes": 418951,
+   "sha256": "8a3fbf472f49e4b5183ecb82b7fa67870bc5171c14751478c633cb37f5de55b8"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118512_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-04_plain_3200x1800px_def.jpg",
+   "width": 3198,
+   "height": 1800,
+   "bytes": 543940,
+   "sha256": "7e2cc11fc4da77e49a5f1c6d5cc5a3b542ffd9d5e13c59ddb91a40c2b4faa664"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118519_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-10_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 359511,
+   "sha256": "3e2ec12442a9757f1e24639ce64b716db112cb90671ca688e53f0eee22a3fe0e"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118523_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-17_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 522168,
+   "sha256": "8a1d16f9c4237921e9ec7d7d51658d2740762b0cb05a83504875d538a16eaa85"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118520_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-13_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 432864,
+   "sha256": "6926abacfb24af573e606580d9ed53d454ddd65e0811cd92752fe7be4b7d2504"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118530_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-11_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 353711,
+   "sha256": "bfa61c946ebaa19e8e734b9e283f713777e1f7560efa731bab04620199d42b3e"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118517_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-08_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 435723,
+   "sha256": "ebfcb6fc0ab91c1dffa2576f8cd2a618e3e384c10d42bd48e30e846bf2e69a26"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118511_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-03_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 208538,
+   "sha256": "e805ef5a6a28ec892a57fc032659d166e2a8dd9030c1879b91b5216924bb07a2"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118514_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-05_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 522112,
+   "sha256": "6ad5710e2bfa97f4dfe6ae1ef61a1307fcd62890d66eb41b80099c879a9a1992"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28117639_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-14_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 265507,
+   "sha256": "5302d3f05d4885472ecc1b524692fa52d371ebd4e5570cfa22379ac76463babd"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118513_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-02_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 786742,
+   "sha256": "87cf46182490e87c15004a179fb6cee3d66aaa0a4e9e17ce8a76726d4638feb4"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118510_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-12_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 560013,
+   "sha256": "faa9d2443e36aa6c2269e5e84861c19aac3bd6b243413e302f9a489fae40497c"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "lifestyle",
+   "order": 13,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118526_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-18_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 352498,
+   "sha256": "d47c203130f4677300f6912c8bfee034b3ae4345a98a1b6ffda25ae17a3266a4"
+  },
+  {
+   "file": "produkt-14.jpg",
+   "kind": "lifestyle",
+   "order": 14,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118528_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-01_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 471232,
+   "sha256": "ee55651bd94459a427172cebb4136ac6376c1ca512a23c57658b6cdbeef9df47"
+  },
+  {
+   "file": "produkt-15.jpg",
+   "kind": "lifestyle",
+   "order": 15,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118524_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-20_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 398775,
+   "sha256": "7f382a0310d29af372c429a6f324d3727c4b07d7e39cc327a048617ca0b4447d"
+  },
+  {
+   "file": "produkt-16.jpg",
+   "kind": "lifestyle",
+   "order": 16,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118521_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-15_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 317594,
+   "sha256": "2d67d9cf698e98b4c990fa73f0805de0c5ac53d1166cf40ebdb9ccab5cd31b68"
+  },
+  {
+   "file": "produkt-17.jpg",
+   "kind": "lifestyle",
+   "order": 17,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118518_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-09_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 388236,
+   "sha256": "c6097a75aca7e4943cd99edc745ea7251e237badb827475deb9625c863141984"
+  },
+  {
+   "file": "produkt-18.jpg",
+   "kind": "lifestyle",
+   "order": 18,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118525_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-19_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 346627,
+   "sha256": "13491f96d6d18efae29d73928eda5ffd18daca18f133a0fe4a84aa9ae6b0c85d"
+  },
+  {
+   "file": "produkt-19.jpg",
+   "kind": "lifestyle",
+   "order": 19,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118515_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-06_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 447453,
+   "sha256": "3ec65ef98664dc8e1c5e5a75ad94a6f4e72b2f7cf2089f5327d352b72c5209d3"
+  },
+  {
+   "file": "produkt-20.jpg",
+   "kind": "lifestyle",
+   "order": 20,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118522_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-16_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 298524,
+   "sha256": "a8fd967bd542cb95a66290332e08f4cf2459a69b9818c0acc3245e7fb7acb949"
+  },
+  {
+   "file": "produkt-21.jpg",
+   "kind": "lifestyle",
+   "order": 21,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118527_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-21_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 486478,
+   "sha256": "a630726d95fcd52a51cd99ef382c169bdf616d3e1a657f3784a64c7a9d4702fe"
+  },
+  {
+   "file": "produkt-22.jpg",
+   "kind": "lifestyle",
+   "order": 22,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28118516_BSH-EN_SI_FAEM_812_TP725ET7_General_SecImg-07_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 454352,
+   "sha256": "3f1fdb993b3c9394abcc5fe0da806e80d02ff534b6861fd43976fe5c3d019402"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 23,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "height": 500,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c"
+  }
+ ]
+}
