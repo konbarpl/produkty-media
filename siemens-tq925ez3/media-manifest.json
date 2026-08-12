@@ -1,0 +1,274 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-12T10:19:50.450Z",
+ "sourcePage": "https://www.siemens-home.bsh-group.com/pl/lista-produktow/TQ925EZ3",
+ "slug": "siemens-tq925ez3",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "produkt-14.jpg",
+  "produkt-15.jpg",
+  "produkt-16.jpg",
+  "produkt-17.jpg",
+  "produkt-18.jpg",
+  "produkt-19.jpg",
+  "produkt-20.jpg",
+  "produkt-21.jpg",
+  "produkt-22.jpg",
+  "produkt-23.jpg",
+  "logo-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/27572810_TQ925EZ3_STP_def.jpg",
+   "width": 2867,
+   "height": 3528,
+   "bytes": 540292,
+   "sha256": "06384fdcdc5d3049b72b06f6a6e8074a4f8efe6ff76592446ba0a8d198bc28f0"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228840_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-01_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 341123,
+   "sha256": "4fabf34cf4cd1a8ec9beed1eaf831653e32c07a39afa30ed21e8a2e9d2b6911c"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228709_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-02_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 403335,
+   "sha256": "c23ade1398b4254692357187103dafde2ed2e55ff3f395a37d3fc2f4c22faf72"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228830_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-03_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1612,
+   "bytes": 336877,
+   "sha256": "99959769e9cdb88e90c392b41001d5fcbc547b958e5538f318445e1fe6a90d06"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228844_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-04_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 440580,
+   "sha256": "3294ab71da4fdbc47954047f7aece010ed75678ff7f8af0d335d4c7a03a77608"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228845_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-05_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 310344,
+   "sha256": "8d552cb17496d6f8dd2b8e9b2736aa02afc39038170f6187ad62cc9fe25ea7fb"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228846_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-06_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 473545,
+   "sha256": "527edd5b513c7714dceac6e9ee95110234b9143330415ac5ab1ed184d58ff6d0"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228831_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-07_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 264150,
+   "sha256": "ed6d979861b99bef60e923e5ca67029315093ba6d8bf9a0b0835d8548cedcbc3"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228832_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-08_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 217824,
+   "sha256": "70a3dffed2a9fc98fdc48d3d73cd240e66de0af7a809aa6b91353149405a8730"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228833_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-09_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 368059,
+   "sha256": "3da99c76dce14429cab550456d045e5725cc17a473692b405698f3d1d2b69f72"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228837_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-10_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 287679,
+   "sha256": "ffdc801ebeb2cbb35e07bf17d49262a9fe4588e303a8ad45958beaadfcd7413c"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228839_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-11_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 573074,
+   "sha256": "935d461d5df2d3443c27f26c0f14786cf55e7d8154b46e50ccbd0731f240520d"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "lifestyle",
+   "order": 13,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228838_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-12_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 226356,
+   "sha256": "ea8d6824ffa64da9125409e8f29949b41b01fed5a557cfcb183ab0059c5a4cf2"
+  },
+  {
+   "file": "produkt-14.jpg",
+   "kind": "lifestyle",
+   "order": 14,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228852_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-13_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 432761,
+   "sha256": "f45bbedc9fcabdda8421891664711fe043de39ca3dd4fdb611e1150010e2bdd8"
+  },
+  {
+   "file": "produkt-15.jpg",
+   "kind": "lifestyle",
+   "order": 15,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228853_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-14_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 366364,
+   "sha256": "23d6b1c75313ebcc094096f7212ae44f2bd9903366d48006625fa5a9d92202e2"
+  },
+  {
+   "file": "produkt-16.jpg",
+   "kind": "lifestyle",
+   "order": 16,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228854_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-15_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 462893,
+   "sha256": "c80d1e20783af2c977823da260b7ca3e429a0d797f445b2af3cdde1ac45f73f2"
+  },
+  {
+   "file": "produkt-17.jpg",
+   "kind": "lifestyle",
+   "order": 17,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228857_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-16_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 401410,
+   "sha256": "74d5877e4423f98726cbba14a9ba526fe52eafe871ce73ba18bc52603ac5b875"
+  },
+  {
+   "file": "produkt-18.jpg",
+   "kind": "lifestyle",
+   "order": 18,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228858_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-17_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 345957,
+   "sha256": "9247e48fc65f50f2aa29d7332d363017e68d7dcaadfbcb156f9ce25d49a72f9a"
+  },
+  {
+   "file": "produkt-19.jpg",
+   "kind": "lifestyle",
+   "order": 19,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228863_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-18_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 391184,
+   "sha256": "17087fe86ed8d5bcd7542368e4de356f72cf4cdad88cf2a85b051e2297b9c04c"
+  },
+  {
+   "file": "produkt-20.jpg",
+   "kind": "lifestyle",
+   "order": 20,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228865_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-19_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 377321,
+   "sha256": "ccaf630e21fcc313a23a3d57b138dac08fabedd7ffe4ae8b1c44628b0ea263b1"
+  },
+  {
+   "file": "produkt-21.jpg",
+   "kind": "lifestyle",
+   "order": 21,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228864_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-20_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 345821,
+   "sha256": "6eb078f12862f8d3041b47ecc205babce8ee6a8cab3326cb7d85f108a092858a"
+  },
+  {
+   "file": "produkt-22.jpg",
+   "kind": "lifestyle",
+   "order": 22,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228867_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-21_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 328476,
+   "sha256": "91aa0eba0d3789a7498d7bd014da408a72b6ad0af7618243f3a54e7e37ff600c"
+  },
+  {
+   "file": "produkt-23.jpg",
+   "kind": "lifestyle",
+   "order": 23,
+   "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28228869_BSH-EN_SI_FAEM_812_TQ925EZ3_General_Sec_Img-22_plain_3200x1800px_def.jpg",
+   "width": 3200,
+   "height": 1800,
+   "bytes": 199851,
+   "sha256": "1acec16d3d2b7e93f648ccca11e56177e9b70a5e91247b9e92414e305477da5d"
+  },
+  {
+   "file": "logo-01.jpg",
+   "kind": "logo",
+   "order": 24,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg?width=1200",
+   "width": 1200,
+   "height": 500,
+   "bytes": 33250,
+   "sha256": "dc92b7b2d5ec62be03a514f7046483ed20d64c826babc8ad1da925a6c168063c"
+  }
+ ]
+}
