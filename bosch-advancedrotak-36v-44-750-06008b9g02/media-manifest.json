@@ -1,0 +1,105 @@
+{
+  "model": "AdvancedRotak 36V-44-750",
+  "catalogNumber": "06008B9G02",
+  "source": "me_06008B9G02",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "1b0388e854a644ac3f9065f650cfc0071d66e611df92bd8b529078fd86c30cbd"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "89fd90676cf0b88475dfb6cf73ea0413f8195ca14b9890a6975f9e2110377173"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "08d35cfe02f4858424c12218e0266f5c878cd6f997869449512049985d439e42"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "d2775c4c3da8dd56c75db94ee1842df90910ca1d81121a49f6b7966eda2b4589"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "243f009b1c10f6f8a791ab48ad39ca2807fa924ceb5a52421e436200fcebca7d"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "b523a5533a714a08462f9462f0f1cadb99ff117c10e42e118d80d7fd601c3062"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "5394870d6ffbbcec54e5eb1fcee1226243de053f6fc7f73075f29dcb927588c6"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "f327461b742fa9fd90af2c6f57fc55d0f99efa1444ed7f5ef5948c5a412e2fbb"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "d16569745cedb838c5f05f4f4a4f092772f07b8f77fe0adad87c8ea935cb1f12"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "fadec9abedb1bd03fb92de42130e444153b735289b544982bc695ca4ab383ab1"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "aa79f29a3861f15f547f8b27d812365656df374059b37731dd4cc0ddc2d57983"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "type": "logo",
+      "width": 1008,
+      "height": 226,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ]
+}
