@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T19:05:45.039Z",
+  "sourcePage": "https://thomas.info/aqua-pet-family-plus",
+  "slug": "thomas-aqua-pet-family-plus",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-thomas-v2.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/11/P-F_Plus_1-min-min.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 57795,
+      "sha256": "554c18b3afd4117cb0c6d37270dc9740766845dea4cdc7a8b3a63edb2b94d40c"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/11/P-F_Plus_2-min.jpg",
+      "width": 1050,
+      "height": 1050,
+      "bytes": 75257,
+      "sha256": "f8a3067d803b14299ef857343a7212f3fa43074853f32a4fd345aeecc4134758"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/11/P-F_Plus_3-min.jpg",
+      "width": 1100,
+      "height": 1100,
+      "bytes": 107236,
+      "sha256": "a2896757749abe24a3f2a85a32ecf17a4b302b97616f7d399c39901175394ea5"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/11/P-F_Plus_4-min.jpg",
+      "width": 1105,
+      "height": 1105,
+      "bytes": 97309,
+      "sha256": "2ea1581c919391ef18422490b801ff3e3551005f602616c437079dd42c24fcb8"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/11/P-F_Plus_5-min.jpg",
+      "width": 530,
+      "height": 530,
+      "bytes": 37322,
+      "sha256": "47055b5249fd42751788c58dd0c0401f031472dd0f554a65e29b9143a8939df0"
+    },
+    {
+      "file": "logo-thomas-v2.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "https://thomas.info/wp-content/themes/thomas/assets/images/logo-footer.svg",
+      "width": 1400,
+      "height": 500,
+      "bytes": 58116,
+      "sha256": "b79cf600d9e76b0bbc3946a293ac5a3047f11bdd26d81af6cf6e4efdec00393c"
+    }
+  ]
+}
