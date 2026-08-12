@@ -15,7 +15,8 @@
     "produkt-09.webp",
     "produkt-10.webp",
     "produkt-11.webp",
-    "produkt-12.webp"
+    "produkt-12.webp",
+    "logo-karcher.jpg"
   ],
   "files": [
     {
@@ -125,6 +126,16 @@
       "width": 800,
       "bytes": 131342,
       "sha256": "0e7ef671c87dd4fc094e08cae5eb6d7061a2bf7d46b9da676955a7f33210bd76"
+    },
+    {
+      "file": "logo-karcher.jpg",
+      "kind": "logo",
+      "order": 14,
+      "sourceUrl": "dropshipping/materiały/logo/Karcher-Logo-2015-present.jpg",
+      "width": 467,
+      "height": 154,
+      "bytes": 8418,
+      "sha256": "5881b5bbeaf8745fcad096276322d75d0bc4dce4af578376f8bbac633013ac8d"
     }
   ],
   "dropped": 25
