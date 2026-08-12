@@ -1,0 +1,95 @@
+{
+  "slug": "delonghi-ecam220-31-sb",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/244880",
+      "width": 902,
+      "height": 902,
+      "sha256": "5be679912033c22f39fc3a82f3836ff71ef0bab9d7096a8709f5af690614440e"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/236110",
+      "width": 902,
+      "height": 902,
+      "sha256": "fd080c15b481ec446e817bdd3c88906b7dfe28f2165552797b496090308eb4d3"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/236112",
+      "width": 902,
+      "height": 902,
+      "sha256": "0afb35f41be0f0cf3090498014f20ff0b1470ffa3d534a8aa9a6639616bcbc01"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/244958",
+      "width": 902,
+      "height": 902,
+      "sha256": "ef7a352740eeffca24227766f2a6bcc9da21914152ee8b6247cbcb57fd4f601f"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/287424",
+      "width": 902,
+      "height": 902,
+      "sha256": "ccf6198174561f56819a3f9d6dfc1eff9a8280e5ccdd27cca35f50e798982d61"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/244906",
+      "width": 902,
+      "height": 902,
+      "sha256": "7ad1c29579f77b80efc99f4fa6f1baeb67422b6af93b170213404e94a5e18cdd"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "sourceUrl": "https://dam.delonghi.com/600x600/assets/244880",
+      "width": 600,
+      "height": 600,
+      "sha256": "c41a740c002c3bbd55a595c28f5a90f4cbcbdedca03449e104aa41e3a4959013"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "sourceUrl": "https://dam.delonghi.com/600x600/assets/236110",
+      "width": 600,
+      "height": 600,
+      "sha256": "b411a7c99ba3dafd5612831f7883f1a907d5af22acc725d78d1d3607e6552d59"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "sourceUrl": "https://dam.delonghi.com/600x600/assets/236112",
+      "width": 600,
+      "height": 600,
+      "sha256": "c30abd8f6262e0000ea9b2476810f59587fef7bbbff4914e91f763ab51e360f4"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "sourceUrl": "https://dam.delonghi.com/600x600/assets/244958",
+      "width": 600,
+      "height": 600,
+      "sha256": "5edeeb7688be2dea443eba48fd60b034da16b6d49b3dcd18f7fa3abca1b10212"
+    },
+    {
+      "file": "logo-01.jpg",
+      "sourceUrl": "repo:delonghi-ecam320-70-tb/logo-01.jpg",
+      "width": 1000,
+      "height": 310,
+      "role": "brand-logo"
+    }
+  ]
+}
