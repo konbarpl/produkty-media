@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-12T18:34:09.615Z",
+  "generatedAt": "2026-08-12T18:51:03.159Z",
   "sourcePage": "https://clinus.pl/myjki-cisnieniowe-zimnowodne/karcher/7001-karcher-hd-9-25-g-classic-zestaw-rozszerzony-dysza-rotacyjna",
   "slug": "karcher-hd-9-25-g-classic-dysza-rotacyjna",
   "galleryOrder": [
-    "produkt-01.webp",
+    "produkt-01.jpg",
     "opis-01.jpg",
     "opis-02.jpg",
     "opis-03.jpg",
@@ -17,6 +17,15 @@
     "logo-karcher.jpg"
   ],
   "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/100212/karcher-hd-9-25-g-classic-zestaw-rozszerzony-dysza-rotacyjna.jpg",
+      "width": 938,
+      "bytes": 253104,
+      "sha256": "7c61fb57b14787899dcc204e688ba1bdd5b78c1db5cb7b628638e4d9a6865b1a"
+    },
     {
       "file": "opis-01.jpg",
       "kind": "lifestyle",
