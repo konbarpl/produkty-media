@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T18:45:58.642Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/sprzatanie/odkurzacze-piorace/odkurzacz-thomas-aquawash-pet-pioracy-z-filtrem-wodnym",
+  "slug": "thomas-twin-aquawash-pet-turboszczotka",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-thomas.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1835979/Aquawesh_Pet_5.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 120305,
+      "sha256": "7fe8cb38328cfb04f0a12efee69294f131913aa653388f80213c61d05d8b277a"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1835979/Aquawesh_Pet_3.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 173654,
+      "sha256": "cee4b3ed695f28404f619a22296020c78a64086e391f168edf7e7c7bc2aa7599"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1835979/Aquawesh_Pet_1.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 173723,
+      "sha256": "504c2b6bd8b61cc2d0c60722d339ad0319fff20274b636ce3004ff0b5341fb15"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1835979/Aquawesh_Pet_2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 154933,
+      "sha256": "98b1f67d561608b914ad8f153a9b7473227a00dfe40bea831016e4d774a334a4"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1835979/Aquawesh_Pet_4.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 190641,
+      "sha256": "5de0633bc2e6f2224890f71a22e387ef2f893f4d58dd839cc711c30f8453692c"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1835979/Aquawesh_Pet_6.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 116718,
+      "sha256": "132991aaa4affe17596cf343f3fcb54b7ae704eb13cafc637eb1cb9425e742c3"
+    },
+    {
+      "file": "logo-thomas.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "https://www.robert-thomas.de/themes/custom/robert_thomas/static/assets/images/header-slider/animals-dog.png",
+      "width": 432,
+      "height": 576,
+      "bytes": 121239,
+      "sha256": "5a8475476f2ea06024c3856e556fd3a4fc43c15a8cded8a5cdc6976dd1561f96"
+    }
+  ]
+}
