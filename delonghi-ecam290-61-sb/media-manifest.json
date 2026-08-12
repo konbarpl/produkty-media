@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T15:09:30.811Z",
+  "sourcePage": "https://www.delonghi.com/pl-pl/p/x/ECAM290.61.SB.html",
+  "slug": "delonghi-ecam290-61-sb",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/225625",
+      "width": 902,
+      "height": 902,
+      "bytes": 30920,
+      "sha256": "74e90c8df0147951c6b9e6997607a22e9ef5144088c39b0fae043ea6c5a665cf"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/218787",
+      "width": 902,
+      "height": 902,
+      "bytes": 47383,
+      "sha256": "766f4b04c4f862c215ed5ac8ad2296539531427c41781925f42ab395093c0db4"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/287567",
+      "width": 902,
+      "height": 902,
+      "bytes": 17045,
+      "sha256": "cfaa5953b4bc89d99022cfc7db459c3447378aa2026dcb1142f73e48c5c7341b"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/218865",
+      "width": 902,
+      "height": 902,
+      "bytes": 41691,
+      "sha256": "a4ce541e0a6f98c5bfea68d91ec83f2e57303b02514688c4e4a140efa6898acb"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/229690",
+      "width": 902,
+      "height": 902,
+      "bytes": 68704,
+      "sha256": "35d4313dc3924459bfac08b9322c4c6503abb729670027367c626bed70b493f1"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/210233",
+      "width": 902,
+      "height": 902,
+      "bytes": 57167,
+      "sha256": "ceefd5f9d68dae3a275e3658987b1667992ef1231d51b9b28f890661a57803cd"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/210234",
+      "width": 902,
+      "height": 902,
+      "bytes": 27997,
+      "sha256": "c08df3d4cff2d13c15a5a47189eef1162d930717df4e03de699fd31c3970274d"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia zweryfikowanego logo De'Longhi z poprzednich partii G28",
+      "width": 1000,
+      "height": 310,
+      "bytes": 39830,
+      "sha256": "11f97fb6327d0343ca4574a5b26866a58d4e4ea3a264ae21e23b3070b4959702"
+    }
+  ]
+}
