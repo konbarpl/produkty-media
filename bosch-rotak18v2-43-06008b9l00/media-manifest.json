@@ -1,0 +1,72 @@
+{
+  "model": "ROTAK18V2-43",
+  "source": "Amazon dump amazon_B0G4RG67BS.html",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "type": "product",
+      "width": 1118,
+      "height": 1118,
+      "sha256": "d717ac2dd32fe07abaa230f9ed1424f26b4bb17290c7c3f3cf23604ff4c4bd5a"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1375,
+      "sha256": "ce07fe9847c72174982858f7a8b6e909dbe99b6c1fc5f1439f2f8101c7f1d35a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "type": "product",
+      "width": 1446,
+      "height": 1465,
+      "sha256": "d67e54443ffe926fac195aec3b267781c59af1aa8f5a5c0abe61ee4e31da39ad"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "050eb9618a91bc398aaa004c38bf9d6588ab7d06522b3e0d9d079cc4283674ba"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "46312b2e521c63cfdeb8c310816e731c6ac243bd6a74aed795d5533361426702"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1437,
+      "sha256": "d6431447cf86fb55971969312a80ea238ca128a502f77cd4e0e22c30cfb50758"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "156a714f2744d085775abc9b83346171f09c389b61ce593d27fb16fdc66b12f7"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "type": "logo",
+      "width": 1008,
+      "height": 226,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ]
+}
