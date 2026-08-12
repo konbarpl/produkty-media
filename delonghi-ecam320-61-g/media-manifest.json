@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T15:09:28.831Z",
+  "sourcePage": "https://www.delonghi.com/pl-pl/p/x/ECAM320.61.G.html",
+  "slug": "delonghi-ecam320-61-g",
+  "galleryOrder": [
+    "produkt-02.jpg",
+    "produkt-01.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/276192",
+      "width": 902,
+      "height": 902,
+      "bytes": 26939,
+      "sha256": "c2d0cd8c0cbe40171d18676ed218cc51e39e8770efc2679652e70ddc97aa28bd"
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/276191",
+      "width": 902,
+      "height": 902,
+      "bytes": 56618,
+      "sha256": "15a2d3887dc94673ea1e40f265f9b9a8e32efb4c7c87d639c2345b896d45ec4c"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/276193",
+      "width": 902,
+      "height": 902,
+      "bytes": 64165,
+      "sha256": "89fb15b300bfe456380afa11aae1547d568ef0938f194c646393c169a877af04"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/276194",
+      "width": 902,
+      "height": 902,
+      "bytes": 58418,
+      "sha256": "514d371826dadad31a6fbbe4fdb80abcc7f08196c2933f9b4dbaab63fe5bb495"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/276464",
+      "width": 902,
+      "height": 902,
+      "bytes": 62200,
+      "sha256": "6016cc03ae519a759c36b3cf768ce462dddd001ae17dd37d43c63ef383a3407b"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "kopia zweryfikowanego logo De'Longhi z poprzednich partii G28",
+      "width": 1000,
+      "height": 310,
+      "bytes": 39830,
+      "sha256": "11f97fb6327d0343ca4574a5b26866a58d4e4ea3a264ae21e23b3070b4959702"
+    }
+  ]
+}
