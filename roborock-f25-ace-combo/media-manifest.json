@@ -1,0 +1,123 @@
+{
+ "version": 1,
+ "generatedAt": "2026-08-13T18:27:09.818Z",
+ "updatedAt": "2026-08-13",
+ "sourcePage": "https://pl.roborock.com/products/roborock-f25-combo-f25-ace-combo-odkurzajacy-na-mokro-i-sucho",
+ "slug": "roborock-f25-ace-combo",
+ "note": "produkt-01 splaszczony z PNG na biale tlo (packshot zestawu); produkt-10 (grafika VS z F25 Combo) usuniety - bramka tozsamosci; logo Roborock z Wikimedia Commons na bialym tle",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "logo-roborock-01.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/F25ACECombo_Set.png?v=1757038330",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 354483,
+   "sha256": "6738c204fefda474e45dea6ad577b37abb575a3663c4b3ec070b286d502e6758"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-1.jpg?v=1784536839",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 309210,
+   "sha256": "715d2864dd686be0c375b3d4beb55051366cfd3325c6ef7e29a095d08e5b32e1"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-2.jpg?v=1784536839",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 266895,
+   "sha256": "b86bb381c58e39a8e63fb742d0bd88ae2db79130571554d539fff197cc229189"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-3.jpg?v=1784536839",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 292774,
+   "sha256": "2719d1827a37f1dea116f92f22d70d50805057a6ed48ba0f28a9456ad26607da"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-4.jpg?v=1784536839",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 220403,
+   "sha256": "a0226c9e9db2ad99b140b4ddde2a69e925708a45f6e898c70985fcac8c84697d"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-5.jpg?v=1784536839",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 328706,
+   "sha256": "b5fb8d314a1d56af4af93c6c4fa54af3284a247a803a6c2707c851efe62a4a42"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-6.jpg?v=1784536840",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 262169,
+   "sha256": "44aad2f2efef040cd15e0f5f889d4e3c1cbce9ae8e177456efb8e1b319419af3"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-7.jpg?v=1784536839",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 256971,
+   "sha256": "65c58b4f28783eb250bd9e774e6444163540930c0d41b61a1db9d9acb1f7662e"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-8.jpg?v=1784536839",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 240156,
+   "sha256": "5fa921b326ddb8e3748564737d9a33c842a0c7e62d127f5911b667b85c96aea9"
+  },
+  {
+   "file": "logo-roborock-01.jpg",
+   "kind": "logo",
+   "order": 10,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Roborock%20logo.svg?width=1200",
+   "width": 1408,
+   "height": 384,
+   "bytes": 37263,
+   "sha256": "3fa87e674bf1d4e19d67b2f931ba3b5dde9fc7c1da7b7bdfdb1984d611e45c30"
+  }
+ ],
+ "dropped": 1
+}
