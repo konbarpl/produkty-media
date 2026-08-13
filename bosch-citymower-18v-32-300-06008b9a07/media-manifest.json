@@ -1,0 +1,64 @@
+{
+  "model": "CityMower 18V-32-300",
+  "source": "Amazon dump amazon_B09LM833D1.html",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "type": "product",
+      "width": 1283,
+      "height": 1362,
+      "sha256": "fe8b3ddf997664366f5a9f6957b439265a75b39be530972055b38c789a68ea60"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1375,
+      "sha256": "1396bd2e852c472c0d9b2dd57297286764080c75a31f57037335a8d478ad7100"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "12ec5a181fc7bc38ca930ce7589b7bfe62eeb20245b45faa9f93f63c8bf7cc17"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "a0b1efef1d4f8cb945dec059ef369ef63bbd7f543cf65dfe1485c40b1566d3d1"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "fbec15eb556d909d7a95fd9a5572360ea29903b93b5c41022ffdb0639bdf661a"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "type": "product",
+      "width": 1500,
+      "height": 1500,
+      "sha256": "9cec05a648e5348d8917cb0021dd61408cc233966219b09cd2e7ee0dbbfff40f"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "type": "logo",
+      "width": 1008,
+      "height": 226,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ]
+}

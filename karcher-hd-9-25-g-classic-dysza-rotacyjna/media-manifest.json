@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-12T18:34:09.615Z",
+  "generatedAt": "2026-08-12T18:51:03.159Z",
   "sourcePage": "https://clinus.pl/myjki-cisnieniowe-zimnowodne/karcher/7001-karcher-hd-9-25-g-classic-zestaw-rozszerzony-dysza-rotacyjna",
   "slug": "karcher-hd-9-25-g-classic-dysza-rotacyjna",
   "galleryOrder": [
@@ -13,7 +13,8 @@
     "opis-06.jpg",
     "opis-07.jpg",
     "opis-08.jpg",
-    "opis-09.jpg"
+    "opis-09.jpg",
+    "logo-karcher.jpg"
   ],
   "files": [
     {
@@ -22,8 +23,8 @@
       "order": 1,
       "sourceUrl": "https://clinus.pl/100212/karcher-hd-9-25-g-classic-zestaw-rozszerzony-dysza-rotacyjna.jpg",
       "width": 938,
-      "bytes": 664480,
-      "sha256": "7d60f1f76751b353632e96d2cfc262e63d561c35a6e1ab369bf72664e2b2f239"
+      "bytes": 253104,
+      "sha256": "7c61fb57b14787899dcc204e688ba1bdd5b78c1db5cb7b628638e4d9a6865b1a"
     },
     {
       "file": "opis-01.jpg",
@@ -105,6 +106,16 @@
       "width": 1000,
       "bytes": 148412,
       "sha256": "3941ad360e7605710c279982e8ac78998b5d1e10defdd31bcda36e2af32b73ee"
+    },
+    {
+      "file": "logo-karcher.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "dropshipping/materiały/logo/Karcher-Logo-2015-present.jpg",
+      "width": 467,
+      "height": 154,
+      "bytes": 8418,
+      "sha256": "5881b5bbeaf8745fcad096276322d75d0bc4dce4af578376f8bbac633013ac8d"
     }
   ],
   "dropped": 20

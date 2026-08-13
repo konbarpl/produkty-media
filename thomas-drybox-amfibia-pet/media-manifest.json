@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T19:05:55.534Z",
+  "sourcePage": "https://thomas.info/drybox-amfibia-pet",
+  "slug": "thomas-drybox-amfibia-pet",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-thomas-v2.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/09/DryBOX-Amfibia-Pet-1-min-1.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 119029,
+      "sha256": "490e6dcc45d0afc1243b76f3bea460e5a396639a5167b3c88ad28243d10ff536"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/09/DryBOX-Amfibia-Pet-2-min.jpg",
+      "width": 1629,
+      "height": 1629,
+      "bytes": 1761894,
+      "sha256": "e0dead63b45e8b65d1dc3d465144870d78e66b25cfd60e35b3f2d2a603d8ed3f"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/09/DryBOX-Amfibia-Pet-3-min.jpg",
+      "width": 1920,
+      "height": 1920,
+      "bytes": 2575813,
+      "sha256": "4c4086855ab972a4c5931ad9073d58b5b5c5d7efaa4e43bf682f653427c283b3"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/09/DryBOX-Amfibia-Pet-4-min.jpg",
+      "width": 1920,
+      "height": 1920,
+      "bytes": 2510799,
+      "sha256": "fa856ed2b7d293126a74a74e8281a839c89a49fcf40e912ca42cc2ec4d2fb896"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/09/DryBOX-Amfibia-Pet-5-min.jpg",
+      "width": 1920,
+      "height": 1920,
+      "bytes": 925928,
+      "sha256": "2a7ca93ce4f47bdc3828b003924fa691a239fb82a52c46145c5741f15195db90"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/09/DryBOX-Amfibia-Pet-6-min.jpg",
+      "width": 1920,
+      "height": 1920,
+      "bytes": 871413,
+      "sha256": "7dfc17aca0194d8546894fc5f87356da0fab3e9b558f0f1076b3848ae4b0ea85"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/09/DryBOX-Amfibia-Pet-7-min.jpg",
+      "width": 1920,
+      "height": 1920,
+      "bytes": 2795501,
+      "sha256": "803d20f0e09f3a62eb30c1c6c64b8f59d7433fe684bd875ab5bfc088261e3ca0"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/09/DryBOX-Amfibia-Pet-8-min.jpg",
+      "width": 970,
+      "height": 970,
+      "bytes": 67372,
+      "sha256": "1e46760b91711e3749928a628538d9be5b93f39f2d1965e4486ed56a89de3ab9"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/09/DryBOX-Amfibia-Pet-9-min.jpg",
+      "width": 970,
+      "height": 970,
+      "bytes": 128654,
+      "sha256": "d7e97a84bdde3d2c9297be0f2a56758eff2980c6ee4b3cde4f0dfa5eec51143d"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/09/DryBOX-Amfibia-Pet-10-min.jpg",
+      "width": 600,
+      "height": 600,
+      "bytes": 48343,
+      "sha256": "6aaf87309b74d0541f81e5322057b2e8d5977dbac58211494af407235ee9af61"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://thomas.info/wp-content/uploads/2021/09/DryBox_Amfibia_Pet_nasadki_1080x1080-min.jpg",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 81477,
+      "sha256": "f32e312d483fc5d1e6eaa907c4f29f6633147c1d48a1aefe6265d5305755973a"
+    },
+    {
+      "file": "logo-thomas-v2.jpg",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "https://thomas.info/wp-content/themes/thomas/assets/images/logo-footer.svg",
+      "width": 1400,
+      "height": 500,
+      "bytes": 58116,
+      "sha256": "b79cf600d9e76b0bbc3946a293ac5a3047f11bdd26d81af6cf6e4efdec00393c"
+    }
+  ]
+}

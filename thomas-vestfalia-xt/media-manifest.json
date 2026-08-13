@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T19:05:41.191Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/sprzatanie/odkurzacze-piorace/odkurzacz-thomas-vestfalia-xt-z-filtrem-wodnym-pioracy",
+  "slug": "thomas-vestfalia-xt",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-thomas-v2.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1892763/Odkurzacz-pioracy-THOMAS-Vestfalia-XT-Front.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 141915,
+      "sha256": "1f615db54eb4436e67b4a2c4422f29d2c71f32d385f92ec118e1c849a0305645"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1892763/Odkurzacz-pioracy-THOMAS-Vestfalia-XT-TylSkos3.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 151758,
+      "sha256": "8a193376682fda1372daa44a236664c6fa7bf0fd9a08621374f629c09e4f2b62"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1892763/Odkurzacz-pioracy-THOMAS-Vestfalia-XT-TylSkos2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 157059,
+      "sha256": "a0bde2b46e4911e466f55d3d02a9cf05c9d1538bdf45cf0bd97caa0901beb4ac"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1892763/Odkurzacz-THOMAS-Vestfalia-XT-tyl__1.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 37222,
+      "sha256": "f55120e20b784f10997a5e5ef99c987bf8d4ea3751e3b3925e9ced9727a434c0"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1892763/Odkurzacz-pioracy-THOMAS-Vestfalia-XT-Sterowanie.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 113990,
+      "sha256": "04432d482dfda60923893b79c4401a6207ef0d2da78f8eb7027367ee6c72e59c"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1892763/Odkurzacz-pioracy-THOMAS-Vestfalia-XT-Skos2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 183164,
+      "sha256": "566627eb4527a89652c03bbb1e55141596bfbeb4a5a3baa55448f0c05f500506"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1892763/Odkurzacz-pioracy-THOMAS-Vestfalia-XT-Skos.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 194854,
+      "sha256": "eed5bae1ab191f8a73cb1d94962d793d14ca65474c67ac09990228c4281f3a5a"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1892763/Odkurzacz-pioracy-THOMAS-Vestfalia-XT-Przod.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 122149,
+      "sha256": "69f28b1640184165ee7a19cca12adbef99e1a5f23417ff9b973275dd11789950"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1892763/Odkurzacz-pioracy-THOMAS-Vestfalia-XT-Pojemnik.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 230050,
+      "sha256": "2ef63361853abad9e2ec58ccc01c19a3b94c75292bf521a294dc86ba9ab58c31"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1892763/Odkurzacz-pioracy-THOMAS-Vestfalia-XT-Plyn.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 42468,
+      "sha256": "c97f52a1b38ea53de92928a62974cd0e857d856ba326a5ab79ddde094d73fa0c"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/18/1892763/Odkurzacz-pioracy-THOMAS-Vestfalia-XT-Bok.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 137310,
+      "sha256": "db20c7834f4009b8dd0d0815b7d77cce5d219a38dca6e33fdb6549b965e635ae"
+    },
+    {
+      "file": "logo-thomas-v2.jpg",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "https://thomas.info/wp-content/themes/thomas/assets/images/logo-footer.svg",
+      "width": 1400,
+      "height": 500,
+      "bytes": 58116,
+      "sha256": "b79cf600d9e76b0bbc3946a293ac5a3047f11bdd26d81af6cf6e4efdec00393c"
+    }
+  ]
+}

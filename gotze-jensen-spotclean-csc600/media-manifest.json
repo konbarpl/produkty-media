@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T19:56:51.171Z",
+  "sourcePage": "dump me_csc600.html",
+  "slug": "gotze-jensen-spotclean-csc600",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "logo-gotze-jensen.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-aktualizacja.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 203189,
+      "sha256": "c0b6ec3bd3907b026f1d4018607859f7f28b5d2d1f8140efb1e3f438c28362b4"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 120396,
+      "sha256": "c014ad9821b5037d97f0e148e181fa0d69e39f76ffc4f2777dcde23136d021f8"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-3.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 95118,
+      "sha256": "847538f3745f55c285ff37bb4f4aed0bf34125dc97210d39a5ad37c0b15bb81e"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-4.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 197765,
+      "sha256": "95a1889c9af9dda862a6da57ce06a0127adc5500b76671df2c9746fa1e94dd58"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-1.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 93756,
+      "sha256": "8a58fa545c2229a2f8a279a7210afe4b0de52f047fe477caa0172162c4f4b174"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-5.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 118041,
+      "sha256": "e1e601a639ced7a3fefe298ffa3064ce59fc81cefe89ed13c9c7670bd65a4c8c"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-6.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 81642,
+      "sha256": "4f4caf7680c5e574ebbcffa199ffcf0249bccf046ddfee28f968248e002e9554"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-7.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 97155,
+      "sha256": "fef6ac702def03c734426e994e35d9108f5e08a1088ec242ea173d82cfaf968d"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-8.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 106849,
+      "sha256": "d99b54cdb2383185c0952006e0427a76ce850a900e525124d82df5796f0d59c1"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-9.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 67128,
+      "sha256": "421ae507a60d2bda7d3b2e9b9b6dbcaf5fa3294f019f8784ccd88d56c0ff1901"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-10.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 124782,
+      "sha256": "7b5e41885e94d0d703dc8f170a9b657f3396025fcbddce1283d8980e02d80978"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-11.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 65492,
+      "sha256": "57281750d835861be6de53f971133557d86341d7e3afe6c8098bc15fe1fe263b"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-13.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 124076,
+      "sha256": "a5b97979eb1ff9c3027e562cc317ac863f2078f2c7f89413c572cd4814134cc3"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/75/7553314/Odkurzacz-GOTZE-JENSEN-SpotClean-CSC600-15.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 116788,
+      "sha256": "295ce7479d2f7c1bdf8e707d75925e44d240ee1537fe89c09fa25f1125156fba"
+    },
+    {
+      "file": "logo-gotze-jensen.jpg",
+      "kind": "logo",
+      "order": 15,
+      "sourceUrl": "od Konrada 13.08: dropshipping/materiały/logo/gotze-and-jensen_logo.jpg",
+      "width": 500,
+      "height": 74,
+      "bytes": 5999,
+      "sha256": "020add42cc816bba2129c6632dbd3f7b9e7ae19dc7c767b623ccda5570063c6f"
+    }
+  ]
+}

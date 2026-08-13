@@ -4,22 +4,6 @@
   "sourcePage": "https://clinus.pl/myjki-cisnieniowe-zimnowodne/karcher/7003-karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr",
   "slug": "karcher-hd-9-25-g-classic-fr-30-me",
   "galleryOrder": [
-    "produkt-01.webp",
-    "produkt-02.webp",
-    "produkt-03.webp",
-    "produkt-04.webp",
-    "produkt-05.webp",
-    "produkt-06.webp",
-    "produkt-07.webp",
-    "produkt-08.webp",
-    "produkt-09.webp",
-    "produkt-10.webp",
-    "produkt-11.webp",
-    "produkt-12.webp",
-    "produkt-13.webp",
-    "produkt-14.webp",
-    "produkt-15.webp",
-    "produkt-16.webp",
     "produkt-17.webp",
     "opis-01.jpg",
     "opis-02.jpg",
@@ -29,153 +13,10 @@
     "opis-06.jpg",
     "opis-07.jpg",
     "opis-08.jpg",
-    "opis-09.jpg"
+    "opis-09.jpg",
+    "logo-karcher.jpg"
   ],
   "files": [
-    {
-      "file": "produkt-01.webp",
-      "kind": "product",
-      "order": 1,
-      "sourceUrl": "https://clinus.pl/64137-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 50226,
-      "sha256": "82a09ae75a3754df6a2c3c2194177158ec6ac853ccd5ffba7d1e5f395c17bf5a"
-    },
-    {
-      "file": "produkt-02.webp",
-      "kind": "product",
-      "order": 2,
-      "sourceUrl": "https://clinus.pl/64138-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 40032,
-      "sha256": "71d3469c9636070d49c0aea3775ee73333e55206141317a83a583b284cb9c671"
-    },
-    {
-      "file": "produkt-03.webp",
-      "kind": "product",
-      "order": 3,
-      "sourceUrl": "https://clinus.pl/64139-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 44482,
-      "sha256": "af1528f2ec02f114904503fff3d49fd058d475384339e4d8b86c222c375e3411"
-    },
-    {
-      "file": "produkt-04.webp",
-      "kind": "product",
-      "order": 4,
-      "sourceUrl": "https://clinus.pl/64140-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 68922,
-      "sha256": "1ae867e87735d7954044a18c0fdc8c310d4870d27d8f0dda1f37b528ef15f77b"
-    },
-    {
-      "file": "produkt-05.webp",
-      "kind": "product",
-      "order": 5,
-      "sourceUrl": "https://clinus.pl/64141-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 71484,
-      "sha256": "e3d79f45db88d7668c0b65a5572f65e03875e9af958df2318caaa308a7a41f37"
-    },
-    {
-      "file": "produkt-06.webp",
-      "kind": "product",
-      "order": 6,
-      "sourceUrl": "https://clinus.pl/64142-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 111506,
-      "sha256": "6c1d255730360d20f61437052b934b2742045d9ac5c02a78e380e89455fe5841"
-    },
-    {
-      "file": "produkt-07.webp",
-      "kind": "product",
-      "order": 7,
-      "sourceUrl": "https://clinus.pl/64143-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 67856,
-      "sha256": "2d2d4e3e7dff0aba489f6c1a59a546043bb1f651955924ae28a33b666ca809eb"
-    },
-    {
-      "file": "produkt-08.webp",
-      "kind": "product",
-      "order": 8,
-      "sourceUrl": "https://clinus.pl/64144-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 34822,
-      "sha256": "1a7c0a46f081919a13a27281d795b2ab21f4eef10dae2c8ab9a28e6092ba31b5"
-    },
-    {
-      "file": "produkt-09.webp",
-      "kind": "product",
-      "order": 9,
-      "sourceUrl": "https://clinus.pl/64145-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 69436,
-      "sha256": "e442e4fa404f78c5916bef7016bf142cfdc08726b96e3e26892b737c5da4542d"
-    },
-    {
-      "file": "produkt-10.webp",
-      "kind": "product",
-      "order": 10,
-      "sourceUrl": "https://clinus.pl/64146-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 62510,
-      "sha256": "694da4992091af114ea7755afe0ae67b10c900cc047e42b24f77b6f631e0d97c"
-    },
-    {
-      "file": "produkt-11.webp",
-      "kind": "product",
-      "order": 11,
-      "sourceUrl": "https://clinus.pl/64147-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 57938,
-      "sha256": "db6d30214aedf2abbb68fca7da5117fd426667ccfec67c059437287465356a62"
-    },
-    {
-      "file": "produkt-12.webp",
-      "kind": "product",
-      "order": 12,
-      "sourceUrl": "https://clinus.pl/64148-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 46412,
-      "sha256": "beaf621b3fdf41fa24f9a65761712e35ce612968a0f141108bee622658c7a3dc"
-    },
-    {
-      "file": "produkt-13.webp",
-      "kind": "product",
-      "order": 13,
-      "sourceUrl": "https://clinus.pl/64149-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 44446,
-      "sha256": "15c7bb9a9e2f1606b54bdc8f53b6f22d8d05ebf9dd29bbf20087628cb82aff17"
-    },
-    {
-      "file": "produkt-14.webp",
-      "kind": "product",
-      "order": 14,
-      "sourceUrl": "https://clinus.pl/64150-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 30890,
-      "sha256": "30ac6dba2c5c4c75b11b6f2da13a4ced5bb45aeb9781a37a103249111518410a"
-    },
-    {
-      "file": "produkt-15.webp",
-      "kind": "product",
-      "order": 15,
-      "sourceUrl": "https://clinus.pl/64151-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 62698,
-      "sha256": "95cbc2f9092a40fb2fa03c9407af012272c2d9bba8535b3a4424dab6d4e9943a"
-    },
-    {
-      "file": "produkt-16.webp",
-      "kind": "product",
-      "order": 16,
-      "sourceUrl": "https://clinus.pl/64152-large_default/karcher-hd-9-25-g-classic-zestaw-rozszerzony-przystawka-fr-30-me-zestaw-dysz-do-fr.webp",
-      "width": 800,
-      "bytes": 60072,
-      "sha256": "cec5ffa252a449dc6547d37b0b86433a6e4fcd47584d30893387bc5096a562a9"
-    },
     {
       "file": "produkt-17.webp",
       "kind": "product",
@@ -265,6 +106,16 @@
       "width": 1000,
       "bytes": 148412,
       "sha256": "3941ad360e7605710c279982e8ac78998b5d1e10defdd31bcda36e2af32b73ee"
+    },
+    {
+      "file": "logo-karcher.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "dropshipping/materiały/logo/Karcher-Logo-2015-present.jpg",
+      "width": 467,
+      "height": 154,
+      "bytes": 8418,
+      "sha256": "5881b5bbeaf8745fcad096276322d75d0bc4dce4af578376f8bbac633013ac8d"
     }
   ],
   "dropped": 20
