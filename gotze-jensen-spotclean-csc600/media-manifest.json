@@ -17,7 +17,8 @@
     "produkt-11.jpg",
     "produkt-12.jpg",
     "produkt-13.jpg",
-    "produkt-14.jpg"
+    "produkt-14.jpg",
+    "logo-gotze-jensen.jpg"
   ],
   "files": [
     {
@@ -159,6 +160,16 @@
       "height": 1500,
       "bytes": 116788,
       "sha256": "295ce7479d2f7c1bdf8e707d75925e44d240ee1537fe89c09fa25f1125156fba"
+    },
+    {
+      "file": "logo-gotze-jensen.jpg",
+      "kind": "logo",
+      "order": 15,
+      "sourceUrl": "od Konrada 13.08: dropshipping/materiały/logo/gotze-and-jensen_logo.jpg",
+      "width": 500,
+      "height": 74,
+      "bytes": 5999,
+      "sha256": "020add42cc816bba2129c6632dbd3f7b9e7ae19dc7c767b623ccda5570063c6f"
     }
   ]
 }
