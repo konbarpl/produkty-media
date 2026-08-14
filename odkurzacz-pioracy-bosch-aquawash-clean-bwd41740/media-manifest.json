@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-14T19:19:04.340Z",
+  "sourcePage": "https://maxelektro.pl/produkt/odkurzacz-pioracy-bosch-serie-4-bwd41740,1647?utm_source=ceneoCPC&utm_medium=referral&ceneo_cid=f3d2ba29-2829-81d2-a0f2-706821ab2480",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://maxelektro.pl/storage/image/pimcore_import/2022/1/23/4187be96980fbdbffa7cd17fb0bf1198/jpg/Odkurzacz%20pior%C4%85cy%20Bosch%20BWD41740.jpg",
+      "width": 980,
+      "height": 834,
+      "bytes": 95566,
+      "sha256": "0660161ee404655ea65e5a892c84397e5cccf35bc29189537c8ad2a8f3e084aa"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://maxelektro.pl/storage/image/pimcore_import/2022/1/23/6c4c50da77e6039096264bdaeaa4c7cf/jpg/Odkurzacz%20pior%C4%85cy%20Bosch%20BWD41740-2.jpg",
+      "width": 941,
+      "height": 944,
+      "bytes": 184671,
+      "sha256": "5cebe93ec1cb19b4a5a5cabf4e48013f2e8afbe734afc4624cc77251d01b8711"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://maxelektro.pl/storage/image/pimcore_import/2022/1/23/dc8025b35516f1a7664eb6abcab8064b/jpg/Odkurzacz%20pior%C4%85cy%20Bosch%20BWD41740-3.jpg",
+      "width": 1113,
+      "height": 945,
+      "bytes": 226355,
+      "sha256": "6d089632f8c3645f28ee3cdbe3e5329025c80c2032b5ddbdf8a76b68af52088e"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://maxelektro.pl/storage/image/pimcore_import/2022/1/23/cb792873a7eb6ba31f044ee59e62dcfd/jpg/Odkurzacz%20pior%C4%85cy%20Bosch%20BWD41740-4.jpg",
+      "width": 1223,
+      "height": 947,
+      "bytes": 134207,
+      "sha256": "1f8ab355ab15c4b0025b7230813edb11bd6edecb2c4dad337691f7e921b23323"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 5,
+      "sourceUrl": "kopia zweryfikowanego logo bosch-advancedvac-20/logo-bosch.jpg",
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ]
+}
