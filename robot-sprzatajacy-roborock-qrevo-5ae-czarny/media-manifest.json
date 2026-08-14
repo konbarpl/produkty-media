@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-14T19:19:23.539Z",
+  "sourcePage": "https://pl.roborock.com/pages/roborock-qrevo-series",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0664/8836/9324/files/prize1.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 12018,
+      "sha256": "d367c22f273d4865df1899ebf0a5aa2d3e6272b63228dbd17021c6b41da7a9ea"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0664/8836/9324/files/prize2.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 8830,
+      "sha256": "5b4f0ba1f910d21c0d36c1f4d7d58c90e7cbac56b0bcbf19df1b7a22baa3ff5b"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0664/8836/9324/files/prize4.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 12708,
+      "sha256": "458cd39cb8931c4289b7e8d8107f242f5c2600e784aa07efdccf4392dc38d465"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0664/8836/9324/files/prize5.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 11228,
+      "sha256": "eb01e6ad8c54078ffb6d6c5eb3ccfadd8e91fd089412b7ad8b77e40750f25e39"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0664/8836/9324/files/prize3.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 8288,
+      "sha256": "50b6500e6d1e235c287b2f1c0ed8b473b98e643f3854c02690ba0fe55f669c05"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "kopia zweryfikowanego logo roborock-f25-ace-combo/logo-roborock-01.jpg",
+      "width": 1408,
+      "height": 384,
+      "bytes": 37263,
+      "sha256": "3fa87e674bf1d4e19d67b2f931ba3b5dde9fc7c1da7b7bdfdb1984d611e45c30"
+    }
+  ]
+}
