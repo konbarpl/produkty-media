@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-14T19:19:28.256Z",
+  "sourcePage": "https://mirapolnext.pl/odkurzacz-philips-series-2000-xb2123-09-p-29713.html",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/141802/produkt/141802_1.jpg",
+      "width": 1800,
+      "height": 1800,
+      "bytes": 747506,
+      "sha256": "172f6c8550be957d23c81b04cfbc63b1e89f3e4ec85e576f4ca88f8492f802af"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/141802/produkt/141802_2.jpg",
+      "width": 1141,
+      "height": 1500,
+      "bytes": 88591,
+      "sha256": "86ebae3c96a33c15661caff803d1f68f2f69188901f0f32e66c571d9c880e15a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/141802/produkt/141802_3.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 206360,
+      "sha256": "63a3f880743df853005097cdd336619395a4647e9ac7a1db987a5ea826843232"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/141802/produkt/141802_4.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 237207,
+      "sha256": "47a096b2c040d38902e0d799ec11b26f14e0e9263b02008ebb85a47af9a01021"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/141802/1.jpg",
+      "width": 1000,
+      "height": 684,
+      "bytes": 113026,
+      "sha256": "e43d642f86fd972df85a56fd8ad485e41ec58cbf8466c50afde24708faeaedc4"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/141802/2.jpg",
+      "width": 570,
+      "height": 750,
+      "bytes": 83837,
+      "sha256": "6610e4a3d068dfa1e98b84291372abfb77cffbd98d9e50e04ce4f0c9f5136a19"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/141802/3.jpg",
+      "width": 1000,
+      "height": 642,
+      "bytes": 106377,
+      "sha256": "8ed7b47c620cfb5ce6c0eeb69cf9d78ddc019c404d87aa6210b09200b013ce41"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/141802/4.jpg",
+      "width": 1000,
+      "height": 660,
+      "bytes": 127642,
+      "sha256": "76f036497aa9bb5e8bbbc58c6028a33cf89c525442b0ac133b2e5c6321823c0f"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/141802/5.jpg",
+      "width": 1000,
+      "height": 532,
+      "bytes": 114987,
+      "sha256": "86be43849ab39a95f66f26b950630dae63cb1ba084f10324a010fa60fda4d9cf"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "kopia zweryfikowanego logo philips-ep2334-10/logo-philips.png",
+      "width": 525,
+      "height": 105,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ]
+}
