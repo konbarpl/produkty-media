@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-14T19:19:26.469Z",
+  "sourcePage": "https://maxelektro.pl/produkt/odkurzacz-bezworkowy-bosch-serie-2-bgc05aaa1,3818?utm_source=ceneoCPC&utm_medium=referral&ceneo_cid=c589cb2a-52a0-c587-79e2-fe8ef4bffe17",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://maxelektro.pl/storage/image/pimcore_import/2022/1/23/daf7d227041996a6eca5e381e75fb5b9/jpg/odkurzacz-bezworkowy-bosch-serie-2-bgc05aaa1-rzut-z-boku.webp",
+      "width": 701,
+      "height": 884,
+      "bytes": 42648,
+      "sha256": "6526504604ade42e3f97f06c8e77a22ba123a0a13e0ef9c84417b432b382665e"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://maxelektro.pl/storage/image/pimcore_import/2022/1/23/4dcb49096be42aca52450ea044c51800/jpg/odkurzacz-bezworkowy-bosch-serie-2-bgc05aaa1.webp",
+      "width": 768,
+      "height": 795,
+      "bytes": 52060,
+      "sha256": "98b9ce2e0b768f88334d4e0e270d10faf7b2d53860a12724cbd915648a052149"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://maxelektro.pl/storage/image/pimcore_import/2022/1/23/4f1178769829f3ba43c9dc32060ca0b4/jpg/odkurzacz-bezworkowy-bosch-serie-2-bgc05aaa1-rzut-z-gory.webp",
+      "width": 635,
+      "height": 825,
+      "bytes": 37598,
+      "sha256": "4688cbe03803e8e356df3d69ab24f063419c95847e30b8fe2473a4cdf5d84079"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://maxelektro.pl/storage/image/pimcore_import/2022/1/23/dca338ade5f34f96ee35846381fe15ad/jpg/odkurzacz-bezworkowy-bosch-serie-2-bgc05aaa1-miejsce-na-rure.webp",
+      "width": 779,
+      "height": 1026,
+      "bytes": 78986,
+      "sha256": "2a6d84fc33720f1c809ecf52383419afc2dabbec532ce2d9062279334045472d"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://maxelektro.pl/storage/image/pimcore_import/2022/1/23/23e8d95e6511f94debfa366b7b9653ae/jpg/odkurzacz-bezworkowy-bosch-serie-2-bgc05aaa1-pojemnik.webp",
+      "width": 764,
+      "height": 1024,
+      "bytes": 45030,
+      "sha256": "d74a6cecc211d08c1a0a81c171704660ba48897ae89d0711ecc2ca6b391dd2b7"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://maxelektro.pl/storage/image/pimcore_import/2022/1/23/f2c81e765cd7295ffd2859506718ed16/jpg/odkurzacz-bezworkowy-bosch-serie-2-bgc05aaa1-bok.webp",
+      "width": 1417,
+      "height": 1003,
+      "bytes": 63312,
+      "sha256": "3cb7da2f94b9c0067f16ed3dde65f38481c01701ca3a170a21edea21b9c1e535"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://maxelektro.pl/storage/image/pimcore_import/2022/1/23/b8ad60429b2b6250c48b51807c0a162c/jpg/odkurzacz-bezworkowy-bosch-serie-2-bgc05aaa1-zdjecie.webp",
+      "width": 1505,
+      "height": 851,
+      "bytes": 159142,
+      "sha256": "490bc1bbab9c903b4e591c4790c1ef2bfb15a156f3e81ddc303cffb55cf9d6bc"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia zweryfikowanego logo bosch-advancedvac-20/logo-bosch.jpg",
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ]
+}
