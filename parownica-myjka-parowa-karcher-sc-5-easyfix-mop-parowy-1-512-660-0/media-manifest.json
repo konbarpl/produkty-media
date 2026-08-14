@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-14T19:18:07.415Z",
+  "sourcePage": "https://www.karcher.com/pl/home-garden/parownice/sc-5-easyfix-15126600.html",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.it-shop24.pl/environment/cache/images/productGfx_61449_500_500/Parownica-Myjka-parowa-Karcher-SC-5-EasyFix-Mop-parowy-1.512-660.0.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 29275,
+      "sha256": "da3637059499ae8151d03428cc3700609103c9e5b527d11c48220dc226f602c9"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/15126600/mainproduct/56742d7b-c10c-4feb-ae72-1f47e46e684e/d0.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 371531,
+      "sha256": "c5ffb3f9f2f5fae74955b1f9578816dce1d7a29433b3035b993d24e4df904779"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61449/Parownica-Myjka-parowa-Karcher-SC-5-EasyFix-Mop-parowy-1.512-660.0.jpg",
+      "width": 2200,
+      "height": 2200,
+      "bytes": 1083127,
+      "sha256": "d4c41b41cbbc63b8c6eea52bd6f73390f44cc674161e01bbb1fa0bb3e6fed15a"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61440/Parownica-Myjka-parowa-Karcher-SC-5-EasyFix-Mop-parowy-1.512-660.0.jpg",
+      "width": 2200,
+      "height": 2200,
+      "bytes": 504543,
+      "sha256": "7927d27f8982cfc085c6462bea0c95847273517656f05a247d97688c0a5ebd5c"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61442/Parownica-Myjka-parowa-Karcher-SC-5-EasyFix-Mop-parowy-1.512-660.0.jpg",
+      "width": 2200,
+      "height": 2200,
+      "bytes": 1506264,
+      "sha256": "2b70eb1af1d8943f773f0a1f826782df7a77997b4b72d8555266ed9c23537f37"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61443/Parownica-Myjka-parowa-Karcher-SC-5-EasyFix-Mop-parowy-1.512-660.0.jpg",
+      "width": 2200,
+      "height": 2200,
+      "bytes": 1592078,
+      "sha256": "24df20e736303157dfe0e27e5bcf6804bbb4a35f68410e69700a15617e5f9a1a"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61445/Parownica-Myjka-parowa-Karcher-SC-5-EasyFix-Mop-parowy-1.512-660.0.jpg",
+      "width": 2200,
+      "height": 2200,
+      "bytes": 1120824,
+      "sha256": "7b29b058371f4ead66efbec3af46f6d57227e95f99d80f272c1067c9447677ad"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61446/Parownica-Myjka-parowa-Karcher-SC-5-EasyFix-Mop-parowy-1.512-660.0.jpg",
+      "width": 2200,
+      "height": 2200,
+      "bytes": 612316,
+      "sha256": "b3d0a8221866ddf76a332a000ce3be76724de5a58f61f077b3c093e2fb095204"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61447/Parownica-Myjka-parowa-Karcher-SC-5-EasyFix-Mop-parowy-1.512-660.0.jpg",
+      "width": 2200,
+      "height": 2200,
+      "bytes": 1689897,
+      "sha256": "3a4b219af64169fc30959842a9e4c066d61acac20ea1eeed991fc8f2ce5f94a7"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/61448/Parownica-Myjka-parowa-Karcher-SC-5-EasyFix-Mop-parowy-1.512-660.0.jpg",
+      "width": 2200,
+      "height": 2200,
+      "bytes": 3493052,
+      "sha256": "e96fc1bf381336450322228d736dd2f6cb9c69ec6629d3d6dca882ef9680363d"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "kopia zweryfikowanego logo karcher-vc-6-cordless-ourfamily/logo-karcher.jpg",
+      "width": 467,
+      "height": 154,
+      "bytes": 8418,
+      "sha256": "5881b5bbeaf8745fcad096276322d75d0bc4dce4af578376f8bbac633013ac8d"
+    }
+  ]
+}
