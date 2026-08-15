@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T10:00:35.245Z",
+  "sourcePage": null,
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.jpg",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2025/3/pr_2025_3_27_8_32_3_558_00.jpg",
+      "width": 1262,
+      "height": 1092,
+      "bytes": 17268,
+      "sha256": "96b0cd20bb2e4c8c4a2cc60cb030cd33f77595587c5b424e6b6497b9e9efb5cd"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2025/3/pr_2025_3_27_8_32_5_198_01.jpg",
+      "width": 1262,
+      "height": 1092,
+      "bytes": 14980,
+      "sha256": "8131b4279f39929b202b5ac20fde2704875076652f56b916194eb2ce38c827fb"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2025/3/pr_2025_3_27_8_32_6_808_02.jpg",
+      "width": 1262,
+      "height": 1092,
+      "bytes": 20026,
+      "sha256": "e5b740b01f4f024e9921f8de2da7207735134995b8ad85018c57bdf02c81c972"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2025/3/pr_2025_3_27_8_32_8_386_03.jpg",
+      "width": 1262,
+      "height": 1092,
+      "bytes": 110667,
+      "sha256": "9f01572284ac03050f45e6c54cdfc6926730d11ca1e14b56ec198d20b74de831"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2025/3/pr_2025_3_27_8_32_10_42_04.jpg",
+      "width": 1262,
+      "height": 1092,
+      "bytes": 14716,
+      "sha256": "1648ae1580b9f0c1d8e4d121612c42ffbcf4c28f8440be72fa4ffb54f9fb00bb"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2025/3/pr_2025_3_27_8_32_13_245_06.jpg",
+      "width": 1262,
+      "height": 1092,
+      "bytes": 87276,
+      "sha256": "5cc5c7f769862c826dfc7d02dddd7bda065c4e6d48a2a28141c73e0e28a59aba"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2025/3/pr_2025_3_27_8_32_14_964_07.jpg",
+      "width": 1262,
+      "height": 1092,
+      "bytes": 18252,
+      "sha256": "ef9afb4e1d8dd8eebfa9a75737cb55d2f89969c55f93bd1d166593ce4c79537f"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia zweryfikowanego logo roborock-f25-ace-combo/logo-roborock-01.jpg",
+      "width": 1408,
+      "height": 384,
+      "bytes": 37263,
+      "sha256": "3fa87e674bf1d4e19d67b2f931ba3b5dde9fc7c1da7b7bdfdb1984d611e45c30"
+    }
+  ]
+}
