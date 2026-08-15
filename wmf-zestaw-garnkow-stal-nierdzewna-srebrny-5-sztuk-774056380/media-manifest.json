@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T00:26:11.790Z",
+  "sourcePage": "https://www.amazon.pl/Zestaw-Garnk%C3%B3w-Nierdzewna-Srebrny-sztuk/dp/B005GUQHKG/ref=ci_mcx_mr_hp_d_hf_d_sccl_1_8/262-3287177-9583164?pd_rd_w=Qtm0F&content-id=amzn1.sym.12cc482d-1569-4d1b-95f8-9ab46a020f39%3Aamzn1.symc.e84bab3e-c088-44d1-843f-c5825ada6098&pf_rd_p=12cc482d-1569-4d1b-95f8-9ab46a020f39&pf_rd_r=DDH67Q7AF9Y1C7KSK71W&pd_rd_wg=jKvFG&pd_rd_r=28edb79f-dee1-4d00-85a9-d3a85ce0f741&pd_rd_i=B005GUQHKG&th=1",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-wmf-v2.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41DG-0NjmcL.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 22534,
+      "sha256": "bd2663bb7c20db2dd9eb611f34680d2decc233d77474bfcdb5ffa52d50b748dd"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41yXKovQDLL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 17316,
+      "sha256": "e4a1151c548c488e884ee95902f7230ca5aae316a16d79a18bd4b721bfa14e60"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41bMT-4cINL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 25093,
+      "sha256": "fef07ae719ca6958d94ac06872e2bdb67653a2421295996c741294cc72611386"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41WVd2PkXeL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 18204,
+      "sha256": "2d3d4a487c3ec00daeeb4f13938710aa233427a464227f202f827499c636fd2a"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31cTITlixWL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 15320,
+      "sha256": "27c63bab079503b26e4c93d05f5fd879e021bd4db14121c7945936e0e7f07f68"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31VROOm9yYL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 15941,
+      "sha256": "5ca4297bb9b7ca1150f62aac3907a544891b0ae97527c11264199125ccb42f58"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41uJnytlsvL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 16640,
+      "sha256": "e3c783bf9ef1bf777abfad8910a63e8803af0de51c6d10b4ae854e1c107c65e6"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71sOg6x9hxL._SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 98458,
+      "sha256": "deb6d6cb2277e18d59d48ec625820374636b856ab61b9e6b639683f908f2aca6"
+    },
+    {
+      "file": "logo-wmf-v2.png",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "https://www.wmf.com/static/version1786515782/frontend/wmf/hyva/de_DE/images/logo.svg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 30203,
+      "sha256": "ca20ff5ccb3018775669d1c2ecbe6e8fd126a096196f46f88131281133635bb8"
+    }
+  ]
+}
