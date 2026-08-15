@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T10:00:33.723Z",
+  "sourcePage": null,
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2026/4/pr_2026_4_16_13_0_10_425_03.jpg",
+      "width": 2000,
+      "height": 1666,
+      "bytes": 72616,
+      "sha256": "5a9ddd473449f567790ad450afe49a434f6804641695050d604bc5bb340f3a85"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2026/4/pr_2026_4_16_13_0_3_18_00.jpg",
+      "width": 2000,
+      "height": 1666,
+      "bytes": 105144,
+      "sha256": "63e4cf8185c577a027dd95975ed4218b0ed0c7064059e5408b4026586a43e35b"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2026/4/pr_2026_4_16_13_0_6_128_01.jpg",
+      "width": 2000,
+      "height": 1666,
+      "bytes": 244730,
+      "sha256": "3ea0f1008e81461235a05b14163584a73d81fd388603f771adb7b976e37f5e2a"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2026/4/pr_2026_4_16_13_0_8_362_02.jpg",
+      "width": 2000,
+      "height": 1666,
+      "bytes": 27102,
+      "sha256": "e5c6b49d1e9d633b54f169e3cc2e4e48f26c0035a36dc8a8d7ab35855b442098"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2026/4/pr_2026_4_16_13_0_12_503_04.jpg",
+      "width": 2000,
+      "height": 1666,
+      "bytes": 118122,
+      "sha256": "27897b234686d2e3cbeb82e7ea8b87bc8b64edb609e6eddbcf930a3170bf54af"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "kopia zweryfikowanego logo roborock-f25-ace-combo/logo-roborock-01.jpg",
+      "width": 1408,
+      "height": 384,
+      "bytes": 37263,
+      "sha256": "3fa87e674bf1d4e19d67b2f931ba3b5dde9fc7c1da7b7bdfdb1984d611e45c30"
+    }
+  ]
+}
