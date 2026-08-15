@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15",
+  "sourcePage": "https://www.ceneo.pl/145296212",
+  "slug": "philips-pasta-maker-hr2665-93",
+  "kod": "HR2665/93",
+  "eanStatus": "brak — Konrad poda EAN przed aktywacja oferty",
+  "variantGate": "czarny, 8 tarcz",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/145296212/i-philips-maszynka-do-makaronu-proextrude-hr2665-93.jpg",
+      "caption": "HR2665/93 — galeria wariantu czarny, 8 tarcz",
+      "width": 1300,
+      "height": 1459,
+      "bytes": 96720,
+      "sha256": "d2f4f62d5cb12696d3d2be4fb5c77bdc21e99192d08a139cf978f48f2c6a724e"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/145296212/a352fea4-dca9-4714-9139-524c48a7dd27_i-philips-maszynka-do-makaronu-proextrude-hr2665-93.jpg",
+      "caption": "HR2665/93 — galeria wariantu czarny, 8 tarcz",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 180542,
+      "sha256": "97b05d9eb50badec81d325d0208b569dd477487d70ad86065936230afdfcb5c9"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/145296212/0d668160-4a52-4a08-861f-215632e2b1ef_i-philips-maszynka-do-makaronu-proextrude-hr2665-93.jpg",
+      "caption": "HR2665/93 — galeria wariantu czarny, 8 tarcz",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 176188,
+      "sha256": "4bce7a798897f00f6e86d79a342554969e6d4bcdf81cbe8859cc16ef65ad64ed"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/145296212/f37f45da-c3a5-471a-8a8b-46b3ee87086d_i-philips-maszynka-do-makaronu-proextrude-hr2665-93.jpg",
+      "caption": "HR2665/93 — galeria wariantu czarny, 8 tarcz",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 261749,
+      "sha256": "2f4d6ec5c3124f1242a9f873ffbfab6c8f759585d668d15475bced9c036d6e1d"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/145296212/feb3a70a-030f-4e8f-9d05-eca5b213fe39_i-philips-maszynka-do-makaronu-proextrude-hr2665-93.jpg",
+      "caption": "HR2665/93 — galeria wariantu czarny, 8 tarcz",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 161791,
+      "sha256": "3a2564e636aac3656d0a4022edfee970b2cdc54a053ac72a6d7d6bf9c01adeee"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/145296212/3c2d5b17-d8e7-4500-8be3-e798823367af_i-philips-maszynka-do-makaronu-proextrude-hr2665-93.jpg",
+      "caption": "HR2665/93 — galeria wariantu czarny, 8 tarcz",
+      "width": 1355,
+      "height": 1282,
+      "bytes": 91975,
+      "sha256": "1d0ef43f59252820981c65cabb3f5e50cbb0ecf7cc1332b9b289a7b9b39ce2ad"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo:dropshipping/materiały/logo/Philips_logo małe1.png",
+      "width": 525,
+      "height": 105,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}
