@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-14T19:19:37.475Z",
+  "generatedAt": "2026-08-15T00:09:35.828Z",
   "sourcePage": "https://www.amazon.pl/ZWILLING-Kochtopf-Set-Induktionsgeeignet-Edelstahl-Classic/dp/B002DGTH26/ref=ci_mcx_mr_hp_d_hf_d_sccl_1_24/262-3287177-9583164?pd_rd_w=Qtm0F&content-id=amzn1.sym.12cc482d-1569-4d1b-95f8-9ab46a020f39%3Aamzn1.symc.e84bab3e-c088-44d1-843f-c5825ada6098&pf_rd_p=12cc482d-1569-4d1b-95f8-9ab46a020f39&pf_rd_r=DDH67Q7AF9Y1C7KSK71W&pd_rd_wg=jKvFG&pd_rd_r=28edb79f-dee1-4d00-85a9-d3a85ce0f741&pd_rd_i=B002DGTH26&th=1",
   "galleryOrder": [
     "produkt-01.jpg",
@@ -11,8 +11,6 @@
     "produkt-06.jpg",
     "produkt-07.jpg",
     "produkt-08.jpg",
-    "produkt-09.jpg",
-    "produkt-10.jpg",
     "logo-producenta.png"
   ],
   "files": [
@@ -20,26 +18,6 @@
       "file": "produkt-01.jpg",
       "kind": "product",
       "order": 1,
-      "sourceUrl": "https://m.media-amazon.com/images/I/31LVLzBCYmL.jpg",
-      "width": 650,
-      "height": 45,
-      "bytes": 14493,
-      "sha256": "ba4626ad2888efa8bd7fea26ed87fe8633c1cc33ce577ad6e17e03bcd295d0ad"
-    },
-    {
-      "file": "produkt-02.jpg",
-      "kind": "lifestyle",
-      "order": 2,
-      "sourceUrl": "https://m.media-amazon.com/images/I/51AnzYvwrQL.jpg",
-      "width": 1300,
-      "height": 90,
-      "bytes": 33016,
-      "sha256": "19f8b8a80d9a10a1aff4f147d1ebd26bddf709f9980c5bf4ac772ec2daa0c9b3"
-    },
-    {
-      "file": "produkt-03.jpg",
-      "kind": "lifestyle",
-      "order": 3,
       "sourceUrl": "https://m.media-amazon.com/images/I/41My+HRWcYL.jpg",
       "width": 500,
       "height": 389,
@@ -47,9 +25,9 @@
       "sha256": "f74743b8f6ed2f33326bb4e630a71f0321af992484add4b9a05d54dfc06b4b27"
     },
     {
-      "file": "produkt-04.jpg",
+      "file": "produkt-02.jpg",
       "kind": "lifestyle",
-      "order": 4,
+      "order": 2,
       "sourceUrl": "https://m.media-amazon.com/images/I/31BKogq7sUL._SL1500_.jpg",
       "width": 500,
       "height": 299,
@@ -57,9 +35,9 @@
       "sha256": "61e37b379a76b3a82991c71a716f44cb424ea387070f1979918e87a2eb59009d"
     },
     {
-      "file": "produkt-05.jpg",
+      "file": "produkt-03.jpg",
       "kind": "lifestyle",
-      "order": 5,
+      "order": 3,
       "sourceUrl": "https://m.media-amazon.com/images/I/31V5bCU2w9L._SL1500_.jpg",
       "width": 500,
       "height": 344,
@@ -67,9 +45,9 @@
       "sha256": "883eee960b86d8cd62b2420ad98c0ce9a171463c30a55142bb50554b993b0f9c"
     },
     {
-      "file": "produkt-06.jpg",
+      "file": "produkt-04.jpg",
       "kind": "lifestyle",
-      "order": 6,
+      "order": 4,
       "sourceUrl": "https://m.media-amazon.com/images/I/31pk0UrkbRL._SL1500_.jpg",
       "width": 500,
       "height": 351,
@@ -77,9 +55,9 @@
       "sha256": "cd26bc345ce5d0fb4b2bf1750f6b8c7427a0ff26957207e4cc84497f747e4ca8"
     },
     {
-      "file": "produkt-07.jpg",
+      "file": "produkt-05.jpg",
       "kind": "lifestyle",
-      "order": 7,
+      "order": 5,
       "sourceUrl": "https://m.media-amazon.com/images/I/310fhNmG37L._SL1500_.jpg",
       "width": 500,
       "height": 354,
@@ -87,9 +65,9 @@
       "sha256": "561cc379b699a5523f9878bb40e9787681ee09cf063e16e37d76e6a1219fadf1"
     },
     {
-      "file": "produkt-08.jpg",
+      "file": "produkt-06.jpg",
       "kind": "lifestyle",
-      "order": 8,
+      "order": 6,
       "sourceUrl": "https://m.media-amazon.com/images/I/41pc4B6FL5L._SL1500_.jpg",
       "width": 500,
       "height": 333,
@@ -97,9 +75,9 @@
       "sha256": "602ead7164c4238370114d5e825152ffe2294f90eae7995305d4112d04addd42"
     },
     {
-      "file": "produkt-09.jpg",
+      "file": "produkt-07.jpg",
       "kind": "lifestyle",
-      "order": 9,
+      "order": 7,
       "sourceUrl": "https://m.media-amazon.com/images/I/41w5VUC6xSL._SL1500_.jpg",
       "width": 500,
       "height": 376,
@@ -107,9 +85,9 @@
       "sha256": "e4f721b0b5d5394c17fbff1ab95fb43b616f894d0fd54c214dfaac22bb81cf83"
     },
     {
-      "file": "produkt-10.jpg",
+      "file": "produkt-08.jpg",
       "kind": "lifestyle",
-      "order": 10,
+      "order": 8,
       "sourceUrl": "https://m.media-amazon.com/images/I/511dgjboXkL._SL1500_.jpg",
       "width": 1000,
       "height": 778,
@@ -119,7 +97,7 @@
     {
       "file": "logo-producenta.png",
       "kind": "logo",
-      "order": 11,
+      "order": 9,
       "sourceUrl": "https://bleywaren.de/media/1d/be/6a/1603366202/zwilling_logo.png?ts=1611231265",
       "width": 2400,
       "height": 3067,
