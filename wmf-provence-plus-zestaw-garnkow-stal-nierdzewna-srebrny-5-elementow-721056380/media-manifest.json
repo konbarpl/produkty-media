@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T00:26:11.793Z",
+  "sourcePage": "https://www.amazon.pl/Provence-Garnk%C3%B3w-Nierdzewna-Srebrny-element%C3%B3w/dp/B0015Z57KW/ref=ci_mcx_mr_hp_d_hf_d_sccl_1_4/262-3287177-9583164?pd_rd_w=Qtm0F&content-id=amzn1.sym.12cc482d-1569-4d1b-95f8-9ab46a020f39%3Aamzn1.symc.e84bab3e-c088-44d1-843f-c5825ada6098&pf_rd_p=12cc482d-1569-4d1b-95f8-9ab46a020f39&pf_rd_r=DDH67Q7AF9Y1C7KSK71W&pd_rd_wg=jKvFG&pd_rd_r=28edb79f-dee1-4d00-85a9-d3a85ce0f741&pd_rd_i=B0015Z57KW&th=1",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-wmf-v2.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41cy1fUSYRL.jpg",
+      "width": 500,
+      "height": 368,
+      "bytes": 20331,
+      "sha256": "245ec1376456f56965303614427bb2254bee68bf258ee62d48ce4aae5d3621d4"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31p3ozYU-XL._SL1500_.jpg",
+      "width": 500,
+      "height": 376,
+      "bytes": 15254,
+      "sha256": "4d1723b8bbdfa41ea1160ab203b70122ef3c8d0ec09d71631b7e0a63bf967b30"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41BkGBJLOcL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 16506,
+      "sha256": "fbe834c2c9daecbb61ffd7b2c16010ca4331e5d4ae11dd52293843e548b16186"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41Zos0qwoXL._SL1500_.jpg",
+      "width": 500,
+      "height": 347,
+      "bytes": 16396,
+      "sha256": "d4843063def9b2ad5d210a7ceec0c689c5dc533da4157aac45e6c1204e54d6d8"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41jjxJtJTxL._SL1500_.jpg",
+      "width": 500,
+      "height": 403,
+      "bytes": 17446,
+      "sha256": "90b624365f825f4af42dbe97d17fe60e3c6985507aaa68bcb6d8b9ff1f40074c"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41Pa5TFTpDL._SL1500_.jpg",
+      "width": 500,
+      "height": 391,
+      "bytes": 17076,
+      "sha256": "d05e638ea350bd4f0bd266cb7929ab69bd5d416ac124442a3a0d3515d68fa5fa"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61ceHbKA+pL._SL1500_.jpg",
+      "width": 1500,
+      "height": 1103,
+      "bytes": 98951,
+      "sha256": "e720ef9ae06ef5c7f982b28469af32f7a4a3128426224ee42ce5b67550333b3f"
+    },
+    {
+      "file": "logo-wmf-v2.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "https://www.wmf.com/static/version1786515782/frontend/wmf/hyva/de_DE/images/logo.svg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 30203,
+      "sha256": "ca20ff5ccb3018775669d1c2ecbe6e8fd126a096196f46f88131281133635bb8"
+    }
+  ]
+}
