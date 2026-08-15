@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-14T19:19:35.422Z",
+  "sourcePage": "https://mirapolnext.pl/odkurzacz-bezworkowy-philips-xb1112-10-p-31568.html",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/144322/produkt/144322_01.jpg",
+      "width": 900,
+      "height": 900,
+      "bytes": 129412,
+      "sha256": "1d1a488b0bece7eb292807f506a7aa9ca642ad7f2eae251e0dc0fdc8ee8ae51d"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/144322/produkt/144322_02.jpg",
+      "width": 904,
+      "height": 1125,
+      "bytes": 94591,
+      "sha256": "9f477da043759314416527ec1a72c01e365e941fc8b8698bf8c8efda02cace27"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/144322/produkt/144322_03.jpg",
+      "width": 903,
+      "height": 836,
+      "bytes": 85346,
+      "sha256": "185b6a2b27655d284aa2329d3158caadf31a53e9ee5f784efd39d13220ed57ad"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/144322/produkt/144322_04.jpg",
+      "width": 1006,
+      "height": 1025,
+      "bytes": 57113,
+      "sha256": "cd7cf45691665b51ab94492b371bcea66b8417f5441b2f604e8b4fd2df5585bb"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/144322/produkt/144322_05.jpg",
+      "width": 681,
+      "height": 1125,
+      "bytes": 76464,
+      "sha256": "be6e518c7c8b29b7be29552d4cc20bdb0cb53ed587268e5ca2e72a99e8cb5dff"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/144322/10.jpg",
+      "width": 1013,
+      "height": 912,
+      "bytes": 93261,
+      "sha256": "bada796f2af0cc3a016e312e9a73c1211bbcef7c918ef064a8c4c587bba6d142"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/144322/11.jpg",
+      "width": 1205,
+      "height": 1125,
+      "bytes": 225232,
+      "sha256": "898c8e12aceb45a1073b4f6360ff24fcb2983cc9106f5cb77e44ff9c26a814d3"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/144322/12.jpg",
+      "width": 1137,
+      "height": 1125,
+      "bytes": 156211,
+      "sha256": "c13903617f9d9613d2ad1f14f8f14fc7c13046eb492c693bc2a3416cc688fe3f"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/144322/13.jpg",
+      "width": 943,
+      "height": 770,
+      "bytes": 84826,
+      "sha256": "7c74fdc9770c1ee5a8d0bd2d8f98c16020ef5369197edce0c01ebcb90ae7a430"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/144322/14.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 144608,
+      "sha256": "7f63069d707d645a33ddd0265c867e36282612f5c551a0176164adb4eff6f3dd"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "kopia zweryfikowanego logo philips-ep2334-10/logo-philips.png",
+      "width": 525,
+      "height": 105,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ]
+}
