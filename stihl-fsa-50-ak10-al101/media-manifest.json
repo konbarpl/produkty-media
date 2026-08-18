@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-18T10:32:02.858Z",
+  "sourcePage": "https://www.mediaexpert.pl/dom-i-ogrod/narzedzia-akumulatorowe/podkaszarki-akumulatorowe/podkaszarka-akumulatorowa-stihl-fsa-50-fa110115713",
+  "galleryOrder": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "logo-stihl.jpg"
+  ],
+  "files": [
+    {
+      "file": "01.jpg",
+      "kind": "packshot",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-1.jpg",
+      "finalUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-1.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 52477,
+      "sha256": "2a6f1fd686a566c06b6c924ca9529811cfe5e7090f3cb2067e6e34e975f40c2f"
+    },
+    {
+      "file": "02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-2.jpg",
+      "finalUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 38924,
+      "sha256": "ccac44f5b8ec87a958ea118ae29aa7416cf44996238b404bccfe6d20de7b95db"
+    },
+    {
+      "file": "03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-4.jpg",
+      "finalUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-4.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 60613,
+      "sha256": "c6fa85c09aed9f4d42f363abb77b0ec596270829d5e07f76900799deacb111de"
+    },
+    {
+      "file": "04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-lifestyle-1.jpg",
+      "finalUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-lifestyle-1.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 319542,
+      "sha256": "6470d76e31b6d1c14a3dc735e4c314b7257fdc56ccb6ae960f5fc318ee88d059"
+    },
+    {
+      "file": "05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-lifestyle-2.jpg",
+      "finalUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-lifestyle-2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 346807,
+      "sha256": "2b5e8961877e5e46c49dde2c71ada9ed34cf93be6d66b7be038cab40f07c1866"
+    },
+    {
+      "file": "06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-lifestyle-3.jpg",
+      "finalUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-lifestyle-3.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 310164,
+      "sha256": "f30aaf1538adfa6a51d177d9bfdb83524ec9b9c1f2dbc1d8d5cb4a73147cbe50"
+    },
+    {
+      "file": "07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-lifestyle-4.jpg",
+      "finalUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/79/7982061/Podkaszarka-akumulatorowa-STIHL-FSA-50-FA110115713-lifestyle-4.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 176636,
+      "sha256": "d6a57c9b529139f5ef5838a899a1d19c580ccdbcb5a0220811538661064ed026"
+    },
+    {
+      "file": "logo-stihl.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "dropshipping/materiały/logo/stihl logo.jpg",
+      "width": 1536,
+      "height": 505,
+      "bytes": 46019,
+      "sha256": "1443cec591f41c6b55fe30adab346c7f3fb8de433e2ca059d5582a031b9d3d8c"
+    }
+  ]
+}
