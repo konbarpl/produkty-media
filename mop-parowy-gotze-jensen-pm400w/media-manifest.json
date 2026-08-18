@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T09:59:40.835Z",
+  "sourcePage": "https://goetze-jensen.pl/sklep/dom/parownice-do-sprzatania/mop-parowy-gotze-jensen-pm400w",
+  "galleryOrder": [
+    "produkt-06.jpg",
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://api-products.sungroup.pl/files/products/gotzejensen/424800/content/Mop-parowy-GOTZEJENSEN-PM400W-6-zestaw.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 120989,
+      "sha256": "3f6f9ed30d874e75516ca8f7f69d8516361eb69c7374f5d1587598afc3c3f938"
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://api-products.sungroup.pl/files/products/gotzejensen/424800/content/Mop-parowy-GOTZEJENSEN-PM400W-1-wyglad.jpg",
+      "width": 1200,
+      "height": 800,
+      "bytes": 161285,
+      "sha256": "353e70f154c89f5a0e71ced5d87e2562e9e0295ddad805e615bc5a6318c7a569"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://api-products.sungroup.pl/files/products/gotzejensen/424800/content/Mop-parowy-GOTZEJENSEN-PM400W-2-zbiornik.jpg",
+      "width": 1200,
+      "height": 800,
+      "bytes": 138516,
+      "sha256": "643816007ffe1a9318847c87e1e8ff124912336a71b268f2272f6695854d7745"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://api-products.sungroup.pl/files/products/gotzejensen/424800/content/Mop-parowy-GOTZEJENSEN-PM400W-3-tryby.jpg",
+      "width": 1200,
+      "height": 800,
+      "bytes": 88153,
+      "sha256": "80b64e20ca408b321fd43760cf915ea960a77aa6873aea9b62669190fc2e58fb"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://api-products.sungroup.pl/files/products/gotzejensen/424800/content/Mop-parowy-GOTZEJENSEN-PM400W-4-filtr.jpg",
+      "width": 1200,
+      "height": 800,
+      "bytes": 126118,
+      "sha256": "5c23bd79e635892e08aa2c45ba0a1d98b7ca8905b8a5cc7dbcbb681f92ab8820"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://api-products.sungroup.pl/files/products/gotzejensen/424800/content/Mop-parowy-GOTZEJENSEN-PM400W-5-zasilanie.jpg",
+      "width": 1200,
+      "height": 800,
+      "bytes": 165606,
+      "sha256": "041fa4eb4b56451a1a0bf002f132d13fbcc807041a4c5a32b76612b17211c111"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "kopia zweryfikowanego logo gotze-jensen-spotclean-csc600/logo-gotze-jensen.jpg",
+      "width": 500,
+      "height": 74,
+      "bytes": 5999,
+      "sha256": "020add42cc816bba2129c6632dbd3f7b9e7ae19dc7c767b623ccda5570063c6f"
+    }
+  ],
+  "korektaWzrokowa": {
+    "data": "2026-08-15",
+    "powod": "Na pozycji 1 stał kadr z dłonią na kanapie. produkt-06 to packshot KOMPLETU (mop + nakładki + zbiornik) na białym tle — zgodnie z regułą miniaturki."
+  }
+}

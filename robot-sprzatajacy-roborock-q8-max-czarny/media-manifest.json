@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T10:00:36.033Z",
+  "sourcePage": null,
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2025/1/pr_2025_1_24_10_23_24_258_00.jpg",
+      "width": 2000,
+      "height": 1666,
+      "bytes": 87254,
+      "sha256": "0b6fdad0d56f65c09657552c5a83dfbbe8782d0535e38b53c07cc8cf7b3f8b02"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2025/1/pr_2025_1_24_10_23_26_196_01.jpg",
+      "width": 2000,
+      "height": 1666,
+      "bytes": 82420,
+      "sha256": "25927d85a14c98443c893097595f2f878c68e9e0ff583547293c1d5e413bb59b"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2025/1/pr_2025_1_24_10_23_28_164_02.jpg",
+      "width": 2000,
+      "height": 1666,
+      "bytes": 71744,
+      "sha256": "eafa0b6f766fda9a433d9ed190cead39a90c7bffc0eeec5748e45bfb279b62c3"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big-2x,,2025/1/pr_2025_1_24_10_23_30_196_03.jpg",
+      "width": 2000,
+      "height": 1666,
+      "bytes": 417132,
+      "sha256": "f40e4c16fe7215ec9de78a78f24adbe7628d61c293b5ff1ccaca0267df8f4d86"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 5,
+      "sourceUrl": "kopia zweryfikowanego logo roborock-f25-ace-combo/logo-roborock-01.jpg",
+      "width": 1408,
+      "height": 384,
+      "bytes": 37263,
+      "sha256": "3fa87e674bf1d4e19d67b2f931ba3b5dde9fc7c1da7b7bdfdb1984d611e45c30"
+    }
+  ]
+}

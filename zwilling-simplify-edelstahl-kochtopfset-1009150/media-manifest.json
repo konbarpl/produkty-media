@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T00:09:35.840Z",
+  "sourcePage": "https://www.amazon.pl/ZWILLING-Edelstahl-Kochtopfset-integriertem-Induktionsgeeignet-Silber-Schwarz/dp/B09HCGGDQD/ref=ci_mcx_mr_hp_d_hf_d_sccl_1_2/262-3287177-9583164?pd_rd_w=Qtm0F&content-id=amzn1.sym.12cc482d-1569-4d1b-95f8-9ab46a020f39%3Aamzn1.symc.e84bab3e-c088-44d1-843f-c5825ada6098&pf_rd_p=12cc482d-1569-4d1b-95f8-9ab46a020f39&pf_rd_r=DDH67Q7AF9Y1C7KSK71W&pd_rd_wg=jKvFG&pd_rd_r=28edb79f-dee1-4d00-85a9-d3a85ce0f741&pd_rd_i=B09HCGGDQD&th=1",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41Xv1Xap52L.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 17286,
+      "sha256": "ce13526e5f9c66938340fedca703ee2e0437edf0f7f5f9ceb4ed36a456745e57"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/318VW8eLXxL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 10089,
+      "sha256": "f046ed28716c735aaeacb4d3fe273d925130912a5b94e2284a36cd457c4a2650"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31aWO2l-XBL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 8932,
+      "sha256": "3f1f0e141b7b87afde2db5ac26460612ffa9c93a2fc40be9442eb2fe9ff1b977"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/317Y5lY16DL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 14349,
+      "sha256": "51c5a7990b1f844a2b40ee7b8e5edb6ae7728e6d2d77b09e19fb259a29450558"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/313z3Bw+tAL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 15573,
+      "sha256": "a37726772fc6994793af4d5fcf3e36fbf37fa6862e5e009a1b45a8718cf1b660"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31dVKc6C85L._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 11180,
+      "sha256": "19f105c0dd1bd9c5b197ca7202295d5d7dd972117dd6a872df0694e145a80736"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51qv4n5eNYL._SL1500_.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 49899,
+      "sha256": "0f287380b5fc1240da429dd106c1db2fa8d58388f3c62086e84a32f492782344"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41RBWqMz60L._SL1500_.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 28198,
+      "sha256": "4d59cb29227c77497e84c6ba9258d44c8d8ba55502f68e3f49ab372f53db1799"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "https://bleywaren.de/media/1d/be/6a/1603366202/zwilling_logo.png?ts=1611231265",
+      "width": 2400,
+      "height": 3067,
+      "bytes": 121919,
+      "sha256": "562b708c771fd928a720cd08c30027e86a4c1536dc0d2d6e3abadff7dc61e85e"
+    }
+  ]
+}

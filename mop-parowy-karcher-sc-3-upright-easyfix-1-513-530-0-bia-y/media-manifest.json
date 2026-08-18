@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-14T19:17:58.672Z",
+  "sourcePage": "https://www.kaercher.com/de/home-garden/dampfreiniger/sc-3-upright-15135300.html",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/15135300/mainproduct/a3d5475e-021b-48d7-8719-67a91324eea2/d2.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 78511,
+      "sha256": "e1c1044bfaa176396d0bf905f1642ba794d5082b8cf0883e7a59e4a38755fc03"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/15135300/mainproduct/a3d5475e-021b-48d7-8719-67a91324eea2/d0.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 170644,
+      "sha256": "957694ae531fbb26c9eb97cdac597441a2d58b441bbd1b52d46e841efdd6e6f3"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://d201jv09wbq6e1.cloudfront.net/product_information/deu/1.513-530.0_PI_de_DE.jpeg",
+      "width": 1190,
+      "height": 1683,
+      "bytes": 186757,
+      "sha256": "f5549dd562703011c2bb982fbee31788381a92b31f79319235ab30c77c4b558d"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/15135300/application/115270/d2.jpg",
+      "width": 800,
+      "height": 609,
+      "bytes": 186958,
+      "sha256": "d34eadffe9d605df6882b246f1c577b60e2233c564d9296b62b8b26addc9ff64"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/15135300/application/115270/d0.jpg",
+      "width": 1600,
+      "height": 1218,
+      "bytes": 535726,
+      "sha256": "81c5068f8a4d772fd9979f7ceb4b877d30d23b2b75a725fc19ca390b7a853f82"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/15135300/application/115923/d2.jpg",
+      "width": 800,
+      "height": 599,
+      "bytes": 139409,
+      "sha256": "970df432e3441b985ac9af593014c04f980a3a305feaaabeefabd5e9f8fed551"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/15135300/application/115923/d0.jpg",
+      "width": 1600,
+      "height": 1199,
+      "bytes": 396013,
+      "sha256": "f52f248dfa9904b9d23110327396a207089369765520220ae350ee272fc9060b"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/15135300/application/116209/d2.jpg",
+      "width": 800,
+      "height": 599,
+      "bytes": 147228,
+      "sha256": "24fa66ad7405b871019b058e84dc4319c01e4dbd5c7f05fbd334f3c6220977f5"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/15135300/application/116209/d0.jpg",
+      "width": 1600,
+      "height": 1199,
+      "bytes": 408600,
+      "sha256": "c3c90843ad1201e7d5f4585609047488b2113b85226e4df674c5f87265154689"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/15135300/application/196661/d2.jpg",
+      "width": 800,
+      "height": 531,
+      "bytes": 206470,
+      "sha256": "ecbb27821073c5c79974f51dff0e437585e5ab2db161d2d0912ee4e458ab86b4"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "kopia zweryfikowanego logo karcher-vc-6-cordless-ourfamily/logo-karcher.jpg",
+      "width": 467,
+      "height": 154,
+      "bytes": 8418,
+      "sha256": "5881b5bbeaf8745fcad096276322d75d0bc4dce4af578376f8bbac633013ac8d"
+    }
+  ]
+}

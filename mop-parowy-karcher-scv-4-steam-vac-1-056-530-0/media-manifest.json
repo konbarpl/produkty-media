@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-14T19:18:00.834Z",
+  "sourcePage": "https://www.karcher.com/de/de/home-and-garden/produkte/scv-4-steam-vac-p10565300",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/10565300/mainproduct/3fd9b092-442e-4dc0-bf43-bbad344a9dc4/d2.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 80264,
+      "sha256": "3077775a9ed7dffa5b3a76f10431d99ec69fb1cd4aa2eedb139c39a96a74af1c"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/10565300/mainproduct/3fd9b092-442e-4dc0-bf43-bbad344a9dc4/d0.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 151882,
+      "sha256": "7dab2eefbaf2069a3970a04104dca07f1d2d1acac6f329ed1d52c63875b979c0"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://d201jv09wbq6e1.cloudfront.net/product_information/deu/1.056-530.0_PI_de_DE.jpeg",
+      "width": 1190,
+      "height": 1683,
+      "bytes": 194290,
+      "sha256": "d190b43a9749286b4d5f703aa95dccaf3c6bfa7c4d7497bff0bd7a8de430d6c9"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/10565300/product/774cc58b-243f-4eda-b6e0-11685b6cceac/d2.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 42948,
+      "sha256": "96312bc2dac448ad23e3fba95207c484aa7d52c36ca6ecef3055570c5a99164a"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/10565300/product/774cc58b-243f-4eda-b6e0-11685b6cceac/d0.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 97896,
+      "sha256": "305a1890ff2787e8eab595ff37708f8b1d743d5ab98835f2f3875f6258dfd5bf"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/10565300/product/2674f536-9db2-49d8-85f6-33e5239a77cc/d2.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 41016,
+      "sha256": "5dc8d9058c0b2d7eea801dfd70cf32b04d87e6e4edd1a32116416f4a9cb63847"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://d1y4tv7o00gnfq.cloudfront.net/mam/10565300/product/2674f536-9db2-49d8-85f6-33e5239a77cc/d0.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 92969,
+      "sha256": "e9b12533acaa107b9731e3e028948f0d6997df0ebfc43d8e26211f69f9d4acff"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia zweryfikowanego logo karcher-vc-6-cordless-ourfamily/logo-karcher.jpg",
+      "width": 467,
+      "height": 154,
+      "bytes": 8418,
+      "sha256": "5881b5bbeaf8745fcad096276322d75d0bc4dce4af578376f8bbac633013ac8d"
+    }
+  ]
+}

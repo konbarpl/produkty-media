@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T10:00:12.081Z",
+  "sourcePage": "https://www.ariete.pl/odkurzacze/1062-odkurzacz-pioracy-mod-2482-spot-cleaner-heat-pro-750w.html",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.ariete.pl/3741-thickbox_default/odkurzacz-pioracy-mod-2482-spot-cleaner-heat-pro-750w.jpg",
+      "width": 1440,
+      "height": 900,
+      "bytes": 64579,
+      "sha256": "cc729af9c3f8208f2be442a6e65f135ea057f999596cf795eb0c47339eb412e3"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://www.ariete.pl/3742-thickbox_default/odkurzacz-pioracy-mod-2482-spot-cleaner-heat-pro-750w.jpg",
+      "width": 1440,
+      "height": 900,
+      "bytes": 121537,
+      "sha256": "1a95579fcb34120d1ba8baa139c23012ee361c6d44f987b7909d2a6d518f1b5c"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://www.ariete.pl/3743-thickbox_default/odkurzacz-pioracy-mod-2482-spot-cleaner-heat-pro-750w.jpg",
+      "width": 1440,
+      "height": 900,
+      "bytes": 191962,
+      "sha256": "605e57b429745f6cae2836399ba1699a22ab67fe7fcf09155bf21305e8c16d8d"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://www.ariete.pl/3744-thickbox_default/odkurzacz-pioracy-mod-2482-spot-cleaner-heat-pro-750w.jpg",
+      "width": 1440,
+      "height": 900,
+      "bytes": 132113,
+      "sha256": "96baaaa82891c86dfc08d734b06480544e7a775462524d9d8452451a4a51a657"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://www.ariete.pl/3745-thickbox_default/odkurzacz-pioracy-mod-2482-spot-cleaner-heat-pro-750w.jpg",
+      "width": 1440,
+      "height": 900,
+      "bytes": 264649,
+      "sha256": "a04dadedb4505c4136c09d8e286f8b9982bbc426b08c49b6e587ea61cdc24647"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://www.ariete.pl/3746-thickbox_default/odkurzacz-pioracy-mod-2482-spot-cleaner-heat-pro-750w.jpg",
+      "width": 1440,
+      "height": 900,
+      "bytes": 157434,
+      "sha256": "12e6620b99c17d6f8b2ecb1e589e2e5bf2d4beb5a6f1f0f706a9301c3f208d66"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "https://www.ariete.pl/img/logo.jpg",
+      "width": 350,
+      "height": 55,
+      "bytes": 9314,
+      "sha256": "bcd4b6ef88232be5cb273dd39c18dc227d42d4773fb056685991f14fa8d84f54"
+    }
+  ]
+}

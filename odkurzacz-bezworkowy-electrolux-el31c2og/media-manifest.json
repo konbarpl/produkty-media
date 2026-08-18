@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T00:09:35.816Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0DWT71DSG/?tag=ceneo0c-21&creative=380333&creativeASIN=B0DWT71DSG&linkCode=asn&utm_source=ceneo&utm_medium=referral&ascSubtag=039b5f56-24e2-13ef-191d-75f5c9691299&th=1",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41jWp9joqIL.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 19438,
+      "sha256": "9ed725bcc1bd587ea9fbb511567ccfd79f52d92bd474ffea7d514c7c0abfc95a"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41hpxWyP-lL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 22477,
+      "sha256": "007f92d5cd2c466caa0a54e56e42441a7b4dcada8cf3ddc6d5c37d18397814f7"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51X0aAFOrfL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 41843,
+      "sha256": "94eee40c21d0ed370da119a30ae4b2a5f06a28bee7dc5b998af7d9d4a53faf7c"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51H6Da-8ZsL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 37857,
+      "sha256": "228095483fbd653e5644d7b0f30ebbad8aad0ace273062dbc923359448e0da7a"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51gRPE4FiRL._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 37172,
+      "sha256": "9c3314db8dc6b62bd0ed99bb5c7eb9c2491f3bd83225a3a67b6211ab4ed2d1f4"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51Jxc22t52L._SL1500_.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 36514,
+      "sha256": "f44c2771b4da8e6cdf787f64232c6cc5f9de1b1160e239d606739643c91929a2"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71JyYKcBEoL._SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 106767,
+      "sha256": "0d5df3bbee71249b8d9e1b496fe419b6fe87cb6a722f83b15a9bc3a7099ac8f8"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71GFev+c5qL._SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 113695,
+      "sha256": "8176dea46ed45cfe4e40b3efc2eba2189694455102c61d4c10f77d773149de9e"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "kopia zweryfikowanego logo electrolux-power-hygienic-800-ep81hb25wu/logo-electrolux.jpg",
+      "width": 1360,
+      "height": 246,
+      "bytes": 36634,
+      "sha256": "2aa733c41cee3b733f1d25b04b941b11edee3b102284e3c1a40efc1302e9568f"
+    }
+  ]
+}

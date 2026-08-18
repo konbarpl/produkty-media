@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T00:20:53.492Z",
+  "sourcePage": "https://www.komputronik.pl/product/965892/robot-sprzatajacy-roborock-q10-vf-czarny.html",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://static.komputronik.pl/product-picture/11/ODKROBOROCKQ10VF5200-1.jpg",
+      "width": 730,
+      "height": 730,
+      "bytes": 16658,
+      "sha256": "225decbb6e6f5424766523b772b9c2ad7bc806400d4be12f12a77480f21175d7"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://static.komputronik.pl/product-picture/11/ODKROBOROCKQ10VF5200-2.jpg",
+      "width": 728,
+      "height": 410,
+      "bytes": 22786,
+      "sha256": "2c8eced78f389be9eb96dc7cadd5e98a0b4ebe4c53cdde9a4dd3f7a5403e1c1b"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://static.komputronik.pl/product-picture/11/ODKROBOROCKQ10VF5200-4.jpg",
+      "width": 726,
+      "height": 726,
+      "bytes": 21788,
+      "sha256": "16877532bdfd8dd5e018d0d7f4e6237be00fa71225f196091609341770f17997"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://static.komputronik.pl/product-picture/11/ODKROBOROCKQ10VF5200-5.jpg",
+      "width": 727,
+      "height": 727,
+      "bytes": 23592,
+      "sha256": "7c46f5f6b95a404df2113ef68e9ab4fc9d5815e8822cb608885c9785edecfb18"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://static.komputronik.pl/product-picture/6/ODKROBOROCKQ10VF5200-3.jpg",
+      "width": 650,
+      "height": 650,
+      "bytes": 11515,
+      "sha256": "676673a60c6cf17bf280f138311446675ddc6cf9604e09edd597c97e8884e184"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "kopia zweryfikowanego logo roborock-f25-ace-combo/logo-roborock-01.jpg",
+      "width": 1408,
+      "height": 384,
+      "bytes": 37263,
+      "sha256": "3fa87e674bf1d4e19d67b2f931ba3b5dde9fc7c1da7b7bdfdb1984d611e45c30"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T00:20:38.873Z",
+  "sourcePage": "https://www.robotworld.pl/roborock-qrevo-5ae-czarny",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.robotworld.pl/25400/foto_25463.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 110004,
+      "sha256": "d5382794827c6d873a8fc3fed7146a4a5571b8aee2586f2b92194cdbf05029d5"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.robotworld.pl/25400/foto_25460.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 114410,
+      "sha256": "ce27ae0686b129cbe0328c1f5462a97047ba292698656b1bda6e9d6496f4d141"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.robotworld.pl/25400/foto_25461.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 91495,
+      "sha256": "bb7e4d9abd497a7d88d78ec8659fe3017e80b61b7fa27b1445c1ac90043f5378"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.robotworld.pl/25400/foto_25458.jpg",
+      "width": 1000,
+      "height": 812,
+      "bytes": 249431,
+      "sha256": "88f46c300b32cc19b12cb6a790df23b46a80b6f7d8cb67a9ee9b4f9103c56975"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.robotworld.pl/25400/foto_25459.jpg",
+      "width": 908,
+      "height": 908,
+      "bytes": 190627,
+      "sha256": "caae9df6afb90ef37b58d57be37931ecb086412b44605cd7e5fd0218b5170f32"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://images.robotworld.pl/25400/foto_25462.jpg",
+      "width": 635,
+      "height": 434,
+      "bytes": 64767,
+      "sha256": "cc0e405f7ac683e485f45096f71a87e3e853cb842472be06755853722e8e54e0"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "kopia zweryfikowanego logo roborock-f25-ace-combo/logo-roborock-01.jpg",
+      "width": 1408,
+      "height": 384,
+      "bytes": 37263,
+      "sha256": "3fa87e674bf1d4e19d67b2f931ba3b5dde9fc7c1da7b7bdfdb1984d611e45c30"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-14T19:19:27.455Z",
+  "sourcePage": "https://mirapolnext.pl/odkurzacz-workowy-philips-powergo-fc8244-09-900w-p-28913.html",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/140593/produkt/140593-1.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 427216,
+      "sha256": "c9819d8bd2e59c21c74a225d6957ec8cf82fa622ca6beaaddfc482358cfbc2bb"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/140593/produkt/140593-2.jpg",
+      "width": 1252,
+      "height": 1208,
+      "bytes": 137002,
+      "sha256": "463ad52ee2514e698e236c8128c59c398b9885655c4d39c25b1c73cf8cd5a28c"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/140593/produkt/140593-3.jpg",
+      "width": 960,
+      "height": 754,
+      "bytes": 69106,
+      "sha256": "ff539416ce37e8e83dd62bd52119c797eb3b534637371cb7758dd0c82eedef80"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/140593/produkt/140593-4.jpg",
+      "width": 1024,
+      "height": 900,
+      "bytes": 97066,
+      "sha256": "96bb20cac5d160aa05c75e63a2775772c8ab698ccfff320d5a322db1b1c7ba7d"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/140593/11.jpg",
+      "width": 994,
+      "height": 834,
+      "bytes": 236648,
+      "sha256": "14975ec4886bf11301c06e89c25d7bbfe33f217f96f3d25a9363263d289ecdb2"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/140593/2.jpg",
+      "width": 647,
+      "height": 490,
+      "bytes": 77028,
+      "sha256": "eb5021169b9f44a19d3bf7f770fafb2866d04807b59183912d105ac582a83d27"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/140593/3.jpg",
+      "width": 647,
+      "height": 490,
+      "bytes": 80076,
+      "sha256": "48d1c0860d234a59e0489272b3039710911c79af907e9b6664bf7670118c0d3d"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/140593/14.jpg",
+      "width": 1000,
+      "height": 791,
+      "bytes": 282624,
+      "sha256": "cdaa2ecb663f503018aa0c2b93c3aae367c68ec16279ce9d6c221aca813fa366"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "kopia zweryfikowanego logo philips-ep2334-10/logo-philips.png",
+      "width": 525,
+      "height": 105,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ]
+}

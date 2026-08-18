@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T10:00:25.876Z",
+  "sourcePage": "https://mpm.pl/pl/odkurzacze/3846-odkurzacz-pioracy-z-funkcja-pary-mod-82-5903151097781.html",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mpm.pl/7302-large_default/odkurzacz-pioracy-z-funkcja-pary-mod-82.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 184093,
+      "sha256": "fa03b65b21800b4bcf7bc62f50c3b694eeacca3dc2c2b5fd6e3e1f8dca744c51"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mpm.pl/7283-large_default/odkurzacz-pioracy-z-funkcja-pary-mod-82.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 189306,
+      "sha256": "bb87b3b1d7d1149442ba1a963aad5a295628ec94b3785bf9f7ef92ef7e6667a1"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mpm.pl/7286-large_default/odkurzacz-pioracy-z-funkcja-pary-mod-82.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 206937,
+      "sha256": "804b4c3e229ccd3a87bafa8dee0557d5526ec58001cea36626ab92af101d25b1"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mpm.pl/7284-large_default/odkurzacz-pioracy-z-funkcja-pary-mod-82.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 120329,
+      "sha256": "65c3d2eb7b2d570338d19aa48caa2a6103c18f0ac7d9a9ccd6770c07bfaaf556"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mpm.pl/7285-large_default/odkurzacz-pioracy-z-funkcja-pary-mod-82.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 138533,
+      "sha256": "88f81acdbd1a3d23337fc1559a4ca15d08bb384607233dc97307162220b5a0fc"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mpm.pl/7287-large_default/odkurzacz-pioracy-z-funkcja-pary-mod-82.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 219009,
+      "sha256": "bd888a31db291b8f3a2f58ae31c77398e37de44b6e84df2cedfe72939a34b6ee"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mpm.pl/7300-large_default/odkurzacz-pioracy-z-funkcja-pary-mod-82.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 960614,
+      "sha256": "a1c0ed02fc62bfa55efc377075ae43341b6dcf2b59d342bce75d119c489f21df"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mpm.pl/7290-large_default/odkurzacz-pioracy-z-funkcja-pary-mod-82.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 140130,
+      "sha256": "dd0de8124a61c0abcade539448eaa9ca8c035d4d6d5910b0bab0146e42b70395"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mpm.pl/7291-large_default/odkurzacz-pioracy-z-funkcja-pary-mod-82.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 166836,
+      "sha256": "93e534f45ceaf32c55854e6d8b05ef431491e60ea1a1456cd7472e0dd25b7651"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "https://mpm.pl/img/logo-1763980420.jpg",
+      "width": 290,
+      "height": 99,
+      "bytes": 6121,
+      "sha256": "1ac779f066970d8d9d73b71ee7fad0e9f2ee24085a9aebe9c75339115c1b2a6a"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T09:59:59.609Z",
+  "sourcePage": "https://mpm.pl/pl/odkurzacze/3263-odkurzacz-pioracy-mod-48-5903151039262.html",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mpm.pl/6673-large_default/odkurzacz-pioracy-mod-48.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 309409,
+      "sha256": "eaaecad70f7dc943ce38b820025bd6f3ef33772028bec82fea307bfb9513f021"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mpm.pl/3601-large_default/odkurzacz-pioracy-mod-48.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 573539,
+      "sha256": "694d0815ca4e62b70dc4e2a6869e748aba6dd7c740ec55a51998e43103873323"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mpm.pl/3603-large_default/odkurzacz-pioracy-mod-48.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 351517,
+      "sha256": "2523d61df8be2786521ff516b5198b9f5831512e9f1175a7f7eb2e9473dc50d2"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mpm.pl/3604-large_default/odkurzacz-pioracy-mod-48.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 460364,
+      "sha256": "10ccfdc91f4fbc8559481cd4c5bebf40e444033c48e328433c4d654cca0ecb93"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mpm.pl/3605-large_default/odkurzacz-pioracy-mod-48.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 45551,
+      "sha256": "1caa7c8a5ccb14ab21bbfbdb6a5ce42886887d1800b445ff9380562d2a47b171"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mpm.pl/3606-large_default/odkurzacz-pioracy-mod-48.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 141692,
+      "sha256": "c96c5a44186fccac90b7622050e41d74abb6f232016b2a97f7529e5ca9584ed7"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mpm.pl/3614-large_default/odkurzacz-pioracy-mod-48.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 182442,
+      "sha256": "4396e93a400c467c1d216ccfbe27335b2996ba5c3cdbf51fe42afd62612fae6f"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mpm.pl/3615-large_default/odkurzacz-pioracy-mod-48.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 122293,
+      "sha256": "3fa8f4ab905ebeded58ceead1b3e3cc411b7a53ee6235b86b508b9e1dd0a6484"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mpm.pl/3616-large_default/odkurzacz-pioracy-mod-48.jpg",
+      "width": 846,
+      "height": 900,
+      "bytes": 118021,
+      "sha256": "acf05d0c66bc5a687f763c8f1022cc8dd81d4d1c4470383b6fe610c0055f9cd2"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "https://mpm.pl/img/logo-1763980420.jpg",
+      "width": 290,
+      "height": 99,
+      "bytes": 6121,
+      "sha256": "1ac779f066970d8d9d73b71ee7fad0e9f2ee24085a9aebe9c75339115c1b2a6a"
+    }
+  ]
+}

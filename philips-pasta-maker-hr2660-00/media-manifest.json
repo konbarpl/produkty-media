@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15",
+  "sourcePage": "https://www.ceneo.pl/145235109",
+  "slug": "philips-pasta-maker-hr2660-00",
+  "kod": "HR2660/00",
+  "eanStatus": "brak — Konrad poda EAN przed aktywacja oferty",
+  "variantGate": "bialy, 6 tarcz",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/145235109/i-philips-maszynka-do-makaronu-proextrude-hr2660-00.jpg",
+      "caption": "HR2660/00 — galeria wariantu bialy, 6 tarcz",
+      "width": 928,
+      "height": 1033,
+      "bytes": 55870,
+      "sha256": "bee80e2c0b22ba9eb91e484dc7af260ad3733f86fa4a708bba662456e19f38bb"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/145235109/bf1321f5-db97-421f-8681-b25e0a6d9825_i-philips-maszynka-do-makaronu-proextrude-hr2660-00.jpg",
+      "caption": "HR2660/00 — galeria wariantu bialy, 6 tarcz",
+      "width": 883,
+      "height": 980,
+      "bytes": 48997,
+      "sha256": "dca9e2fb68764f4cac06c11a9fea5ea3b21a9fd7dac9f633eceec9d7015f3b2a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/145235109/ae1cd93f-3ed7-48f0-aa67-19dc77fdeba9_i-philips-maszynka-do-makaronu-proextrude-hr2660-00.jpg",
+      "caption": "HR2660/00 — galeria wariantu bialy, 6 tarcz",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 72743,
+      "sha256": "4a15232de1f5c69bd35247b3e4b63da3696cc46cd927eb1ed50b3f7f74bbf8fb"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/145235109/49f9b515-b0c5-46dc-9a66-71b012871676_i-philips-maszynka-do-makaronu-proextrude-hr2660-00.jpg",
+      "caption": "HR2660/00 — galeria wariantu bialy, 6 tarcz",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 185784,
+      "sha256": "d54bd90000c0a5fb1207cd53e98b01eba7c8f3f58c1f73bab9ce94bcca76b4df"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/145235109/a453274a-dfdd-4655-8040-098c46d313cf_i-philips-maszynka-do-makaronu-proextrude-hr2660-00.jpg",
+      "caption": "HR2660/00 — galeria wariantu bialy, 6 tarcz",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 174027,
+      "sha256": "eaf6b2cf7c85e1f662a42fd9ef7b87613ce0303ec826a0c0bb9d27366f8143b0"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/145235109/d45fd195-229b-4c54-9576-3fe8c4c41de0_i-philips-maszynka-do-makaronu-proextrude-hr2660-00.jpg",
+      "caption": "HR2660/00 — galeria wariantu bialy, 6 tarcz",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 164746,
+      "sha256": "3aceb3e7f279fdfb9657b0b987f21b987b0c058e0a0fb2e0623f46c65d9b22e5"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/145235109/209a9971-98df-4aab-a68b-a8697e4e9051_i-philips-maszynka-do-makaronu-proextrude-hr2660-00.jpg",
+      "caption": "HR2660/00 — galeria wariantu bialy, 6 tarcz",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 256685,
+      "sha256": "a002da103efecc1d925715776599307d9341bd1457ef283c301f1f2dc583f757"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo:dropshipping/materiały/logo/Philips_logo małe1.png",
+      "width": 525,
+      "height": 105,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0,
+  "problemy": []
+}

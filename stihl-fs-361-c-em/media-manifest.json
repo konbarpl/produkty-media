@@ -33,7 +33,9 @@
       "order": 3,
       "sourceUrl": "repo-mediow: stihl-fsa-50-ak10-al101/logo-stihl.jpg (oryginal: dropshipping/materialy/logo/stihl logo.jpg)",
       "bytes": 46019,
-      "sha256": "1443cec591f41c6b55fe30adab346c7f3fb8de433e2ca059d5582a031b9d3d8c"
+      "sha256": "1443cec591f41c6b55fe30adab346c7f3fb8de433e2ca059d5582a031b9d3d8c",
+      "width": 1536,
+      "height": 505
     }
   ],
   "dropped": 0,

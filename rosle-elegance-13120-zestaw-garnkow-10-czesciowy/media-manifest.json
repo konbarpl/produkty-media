@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T09:17:25.995Z",
+  "sourcePage": "https://www.hausratplus.de/details/roesle-elegance-kochtopfset-topfset-mit-2-pfannen-10-tlg.-13120",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://hausratplus.de/media/38/4b/4b/1784655144/roesleelegancekochtopfsettopfsetmit2pfannen10tlg13120-20260721193224-1.jpg",
+      "width": 1252,
+      "height": 1306,
+      "bytes": 133180,
+      "sha256": "204409964d3fc4eb6c789625d18f40e017ee4a49a051d1b02417c7e8386bd92b"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://hausratplus.de/media/22/78/58/1784655145/roesleelegancekochtopfsettopfsetmit2pfannen10tlg13120-20260721193224-2.jpg",
+      "width": 1500,
+      "height": 790,
+      "bytes": 57644,
+      "sha256": "fa2f45686b1b362cd39f9e7ddb35c177719d3e8a97e4e45825ffdf6e25324735"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://hausratplus.de/media/71/c2/da/1784655145/roesleelegancekochtopfsettopfsetmit2pfannen10tlg13120-20260721193225-3.jpg",
+      "width": 1244,
+      "height": 939,
+      "bytes": 73987,
+      "sha256": "5ea4a676a0df2f335d6a3e256902a428622b2f21def1524f456f5cc7de607132"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://hausratplus.de/media/f5/be/97/1784655145/roesleelegancekochtopfsettopfsetmit2pfannen10tlg13120-20260721193225-4.jpg",
+      "width": 1459,
+      "height": 786,
+      "bytes": 68238,
+      "sha256": "9e9cdf3d431dc59751976d81de10c1cbfaad8e534dc31edc06664772566af809"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://hausratplus.de/media/54/86/19/1784655145/roesleelegancekochtopfsettopfsetmit2pfannen10tlg13120-20260721193225-5.jpg",
+      "width": 1200,
+      "height": 864,
+      "bytes": 70439,
+      "sha256": "d3074e5103b5323c1ea14b357c3de6502513870aadad493a4dc14ddbdf62249d"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://hausratplus.de/media/2e/f4/fc/1784655146/roesleelegancekochtopfsettopfsetmit2pfannen10tlg13120-20260721193226-6.jpg",
+      "width": 1179,
+      "height": 608,
+      "bytes": 50913,
+      "sha256": "c72244e4b2dde8c4a6494a2017fe9ba6fc850b6b7e7f2e2502174cfcb1a27d19"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "https://img.feinkosten.de/d7cad22e-b553-4dae-aeda-1e07c188ad7b/Roesle_Logo_800X600px_clr.png",
+      "width": 800,
+      "height": 600,
+      "bytes": 39402,
+      "sha256": "36773451d1a27153e9985f317d16d8056c066ce0851dcffafc8b2def079eb2de"
+    }
+  ]
+}

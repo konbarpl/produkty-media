@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-14T19:19:34.731Z",
+  "sourcePage": "https://mirapolnext.pl/odkurzacz-bezworkowy-electrolux-el51c2sw-p-31386.html",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/143925/produkt/143925_01.jpeg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 113387,
+      "sha256": "65e3c3421b3f4d8470b475535628ef61c94dd8071cb8bf0395ee1778bedc9075"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/143925/produkt/143925_02.jpg",
+      "width": 2024,
+      "height": 1822,
+      "bytes": 336342,
+      "sha256": "c687decf13084d1e24371de612185b01a33b29786eb3085c9e990d3417c84109"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/143925/produkt/143925_03.jpg",
+      "width": 3000,
+      "height": 2531,
+      "bytes": 771885,
+      "sha256": "45880421f0933f64ecc1ac6434bfa5dc12e2d7e7290002f44e033fd6a268688b"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/143925/produkt/143925_04.jpg",
+      "width": 634,
+      "height": 1000,
+      "bytes": 79111,
+      "sha256": "5821f2f8f5857e54364bb8c0de150d222349e32f21c86b259b76f872f6641749"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/143925/1.jpg",
+      "width": 1100,
+      "height": 888,
+      "bytes": 186607,
+      "sha256": "3349fd35f1bb5d29be636f9b1f6f8ad8f7508b8abf2380048c217663b6e9e587"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/143925/2.jpg",
+      "width": 1100,
+      "height": 818,
+      "bytes": 225798,
+      "sha256": "1ebfc48a0dbf5d31b6e0bf0b2b900978827a081f61417f03cb3b4a9317b171fb"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/143925/3.jpg",
+      "width": 1100,
+      "height": 767,
+      "bytes": 160180,
+      "sha256": "94a37f0f49cb4782e51ccdc99c27a9d478e06315439a672dc5e6bdc649e36aaa"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/143925/4.jpg",
+      "width": 1100,
+      "height": 765,
+      "bytes": 181007,
+      "sha256": "7e66e7e63b3b73f7925fc2aa93b2a4730c2b81dcfcc263fb4da275dba691a3f3"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/143925/5.jpg",
+      "width": 1100,
+      "height": 769,
+      "bytes": 230412,
+      "sha256": "3782aaadd857f6e38205ce59acedf9e3d892c3a67efd62e714a92034f7600334"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/143925/6.jpg",
+      "width": 1100,
+      "height": 765,
+      "bytes": 168485,
+      "sha256": "88227b2915812e88d85e59cba0a7edddd496696a232aae0e011d91b10428e08f"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "kopia zweryfikowanego logo electrolux-power-hygienic-800-ep81hb25wu/logo-electrolux.jpg",
+      "width": 1360,
+      "height": 246,
+      "bytes": 36634,
+      "sha256": "2aa733c41cee3b733f1d25b04b941b11edee3b102284e3c1a40efc1302e9568f"
+    }
+  ]
+}

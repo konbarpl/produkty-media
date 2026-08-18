@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-15T10:00:32.844Z",
+  "sourcePage": "https://www.bosch-home.pl/lista-produktow/BWD420HYG",
+  "galleryOrder": [
+    "produkt-06.webp",
+    "produkt-01.webp",
+    "produkt-02.png",
+    "produkt-05.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03053981_BWD420HYG_Power-Image_2000x2000_def.webp",
+      "width": 1520,
+      "height": 2000,
+      "bytes": 111054,
+      "sha256": "6089cbb2cd632d278daf7831f16fb624d3fa3bd8d7f65bfce050a6d4345b8a31"
+    },
+    {
+      "file": "produkt-01.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03003083_J2144_2318909_BWD420HYG_CMYK_def.webp",
+      "width": 2694,
+      "height": 3639,
+      "bytes": 311088,
+      "sha256": "7103ee478835ac077905a842b86525ccfc13fe227d89f1f1607d728047844336"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02992874_BO_T_11_BWD41_AquaWash_Clean_BWD420HYG_picture_KF1_perspective_ENG_110119_def.png",
+      "width": 4000,
+      "height": 2667,
+      "bytes": 3761093,
+      "sha256": "835e742cce928d046fd0ebd27e8e3ef4c5428f3728fa9a54ba404dd105b541ac"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03008252_BO_T_11_BWD41_AquaWash_Clean_BWD420HYG_powerimage_def.webp",
+      "width": 2813,
+      "height": 3857,
+      "bytes": 201552,
+      "sha256": "060a5cb1d166d9bdcdeda97bde79fb3667527bb64648225561783920c1827fe1"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03053985_BWD420HYG_Secondary-Image_2000x2000-04_def.webp",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 492482,
+      "sha256": "08920553017869d76fdeedab00b787a6a81b8003896d77594d65d350d1f85b85"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03053983_BWD420HYG_Secondary-Image_2000x2000-02_def.webp",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 233500,
+      "sha256": "f9d132049fe3cc4712fe25744306600e2163d845e1ab31b4fd523989ca80ad95"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03053982_BWD420HYG_Secondary-Image_2000x2000-01_def.webp",
+      "width": 1720,
+      "height": 2000,
+      "bytes": 154620,
+      "sha256": "4bfe8b89e9aef24e70ae8068190a13585a4fd9311a4d8a9d3870499396107bd2"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia zweryfikowanego logo bosch-advancedvac-20/logo-bosch.jpg",
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "korektaWzrokowa": {
+    "data": "2026-08-15",
+    "powod": "Pozycja 1 była packshotem zestawu na CZARNYM tle; produkt-06 pokazuje ten sam komplet na białym. produkt-03 to pikselowy bliźniak produkt-02 (Erli i tak nie nadaje internalUrl duplikatom), a produkt-04 to panorama 4000x1231 — kadr bannerowy, nie zdjęcie produktu."
+  }
+}
