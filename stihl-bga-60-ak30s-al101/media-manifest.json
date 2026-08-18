@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-18T10:41:03.878Z",
+  "sourcePage": "https://domitech.pl/product-pol-45630-Dmuchawa-Stihl-BGA-60-BA040115948.html",
+  "galleryOrder": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "logo-stihl.jpg"
+  ],
+  "files": [
+    {
+      "file": "01.jpg",
+      "kind": "packshot",
+      "order": 1,
+      "sourceUrl": "https://domitech.pl/hpeciai/b759fe66288f32add43ae80d691b2eef/pol_pl_Dmuchawa-Stihl-BGA-60-BA040115948-45630_1.jpg",
+      "finalUrl": "https://domitech.pl/hpeciai/b759fe66288f32add43ae80d691b2eef/pol_pl_Dmuchawa-Stihl-BGA-60-BA040115948-45630_1.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 96810,
+      "sha256": "3c459ceef3bc7dea08b6e6ded9b8e602c71df98bbd38c59c2ce8e3e5710fd2e9"
+    },
+    {
+      "file": "02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://domitech.pl/hpeciai/654cc6f4e88719ec524c2bdae2ed2037/pol_pl_Dmuchawa-Stihl-BGA-60-BA040115948-45630_2.jpg",
+      "finalUrl": "https://domitech.pl/hpeciai/654cc6f4e88719ec524c2bdae2ed2037/pol_pl_Dmuchawa-Stihl-BGA-60-BA040115948-45630_2.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 61395,
+      "sha256": "c582e9827c86b83cd8662424115336033c6ac246dcb06fc638e56341fb08b7eb"
+    },
+    {
+      "file": "03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://domitech.pl/hpeciai/2a575b78ac614cf270f5441f94841499/pol_pl_Dmuchawa-Stihl-BGA-60-BA040115948-45630_3.jpg",
+      "finalUrl": "https://domitech.pl/hpeciai/2a575b78ac614cf270f5441f94841499/pol_pl_Dmuchawa-Stihl-BGA-60-BA040115948-45630_3.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 412423,
+      "sha256": "4705ac8a6bb4298ae59de491e3770677793a9e31b5a9310a413749df30be0456"
+    },
+    {
+      "file": "logo-stihl.jpg",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "dropshipping/materiały/logo/stihl logo.jpg",
+      "width": 1536,
+      "height": 505,
+      "bytes": 46019,
+      "sha256": "1443cec591f41c6b55fe30adab346c7f3fb8de433e2ca059d5582a031b9d3d8c"
+    }
+  ]
+}
