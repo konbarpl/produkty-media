@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-18T12:25:32.347Z",
+  "sourcePage": "https://domitech.pl/product-pol-48020-Dmuchawa-akumulatorowa-Stihl-BGA-160.html",
+  "slug": "stihl-bga-160",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-stihl.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://domitech.pl/hpeciai/3e991d7b18683120a207bb31fc5ec826/pol_pl_Dmuchawa-akumulatorowa-Stihl-BGA-160-48020_1.jpg",
+      "width": 1420,
+      "bytes": 103084,
+      "sha256": "ef06537c9514d6e890779b97a3d789fe56b4157c9a58dfadf3b31e0a29bf5b06"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://domitech.pl/hpeciai/4fa1d894242bcfce62a555a564522a3a/pol_pl_Dmuchawa-akumulatorowa-Stihl-BGA-160-48020_2.jpg",
+      "width": 1420,
+      "bytes": 612951,
+      "sha256": "99a30a605e8b9a6f87680c27391679a73af66883bba8d7699304d76e63fad9a2"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://domitech.pl/hpeciai/5462d7355578801f21f554e7473aa3e4/pol_pl_Dmuchawa-akumulatorowa-Stihl-BGA-160-48020_3.jpg",
+      "width": 1420,
+      "bytes": 868998,
+      "sha256": "01644abe4b71cf5be0f2a49d1346acdc1cc682b1b3f98ccd22d3cc46ba77a6c5"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://domitech.pl/hpeciai/f0f3263b79ee8700cdb381bc3ce1b32a/pol_pl_Dmuchawa-akumulatorowa-Stihl-BGA-160-48020_4.jpg",
+      "width": 1420,
+      "bytes": 90185,
+      "sha256": "358e10d330d1ebe779a061085e219769931d9fbb0212f110dbebd07618b8deb0"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://domitech.pl/hpeciai/7ee298dfbd35ed025cfa5ae5ae6c878b/pol_pl_Dmuchawa-akumulatorowa-Stihl-BGA-160-48020_5.jpg",
+      "width": 1420,
+      "bytes": 149148,
+      "sha256": "300bf8a26767f4a0ad72a2ebd7892a54d4cb5117a333c0bb4ca7b13bf50b5339"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://domitech.pl/hpeciai/41c9fd2f0b8366ce9e3046fcfaa65ab7/pol_pl_Dmuchawa-akumulatorowa-Stihl-BGA-160-48020_6.jpg",
+      "width": 1420,
+      "bytes": 103646,
+      "sha256": "04811f0b2ed48cc41ca503fea943825cc8ba5b88e0ebc2c1769188409da8ff53"
+    },
+    {
+      "file": "logo-stihl.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "lokalny: dropshipping/materiały/logo/stihl logo.jpg",
+      "bytes": 46019,
+      "sha256": "1443cec591f41c6b55fe30adab346c7f3fb8de433e2ca059d5582a031b9d3d8c"
+    }
+  ],
+  "dropped": 0
+}
