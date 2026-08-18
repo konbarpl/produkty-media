@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-18T12:25:43.237Z",
+  "sourcePage": "https://domitech.pl/product-pol-41347-Kosa-spalinowa-Stihl-FS-361-0-C-EM-z-glowica-zylkowa-AC-46-2.html",
+  "slug": "stihl-fs-361-c-em",
+  "galleryOrder": [
+    "produkt-02.jpg",
+    "produkt-01.jpg",
+    "logo-stihl.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://domitech.pl/hpeciai/bfe9fd75ec497b8b14a9bc8d8bdcae46/pol_pl_Kosa-spalinowa-Stihl-FS-361-0-C-EM-z-glowica-zylkowa-AC-46-2-41347_1.jpg",
+      "width": 800,
+      "bytes": 65787,
+      "sha256": "5d02af58928ae66c1669a3aba0281b510d9e06fa7df5b6b849553f7fc5087bbe"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.stihl.pl/content/dam/stihl/media/pim/102909.jpg",
+      "width": 1360,
+      "bytes": 125722,
+      "sha256": "f4664d760c338f66ae9156e082bee218ce080fc550631e7629ca81a12d114eea"
+    },
+    {
+      "file": "logo-stihl.jpg",
+      "kind": "logo",
+      "order": 3,
+      "sourceUrl": "repo-mediow: stihl-fsa-50-ak10-al101/logo-stihl.jpg (oryginal: dropshipping/materialy/logo/stihl logo.jpg)",
+      "bytes": 46019,
+      "sha256": "1443cec591f41c6b55fe30adab346c7f3fb8de433e2ca059d5582a031b9d3d8c"
+    }
+  ],
+  "dropped": 0,
+  "note": "galleryOrder: packshot oficjalny stihl.pl (1360px) -> packshot domitech (800px) -> logo marki na koncu."
+}
