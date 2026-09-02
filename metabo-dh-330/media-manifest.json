@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-02T12:47:46.609Z",
+  "generatedAt": "2026-09-02T12:51:22.527Z",
   "sourcePage": "https://www.metabo.com/com/en/tools/semi-stationary-tools/bench-thicknesser-planer-thicknessers/dh-330-bench-thicknesser/0200033000",
   "slug": "metabo-dh-330",
   "galleryOrder": [
-    "produkt-01.png",
+    "produkt-01-v2.png",
     "produkt-02.png",
     "produkt-03.png",
     "logo-metabo.jpg"
   ],
   "files": [
     {
-      "file": "produkt-01.png",
+      "file": "produkt-01-v2.png",
       "kind": "product",
       "order": 1,
       "sourceUrl": "https://be.prod.metabo.com/product/products/0200033000s_51_m_website.png",
@@ -52,5 +52,5 @@
     }
   ],
   "dropped": 0,
-  "note": "Naprawa 2026-09-02: produkt-01 = packshot s_51 (byl detal d_01), wszystkie PNG splaszczone RGBA -> RGB na bialym tle."
+  "note": "Naprawa 2026-09-02: zdjecia z karty producenta splaszczone RGBA -> RGB na bialym tle; packshot pod nazwa produkt-01-v2.png (cache raw.githubusercontent trzymal stara zawartosc produkt-01.png, plik skasowany)."
 }
