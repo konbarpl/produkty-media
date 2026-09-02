@@ -1,11 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-11T18:15:08.922Z",
+  "generatedAt": "2026-09-02T12:47:46.609Z",
   "sourcePage": "https://www.metabo.com/com/en/tools/semi-stationary-tools/bench-thicknesser-planer-thicknessers/dh-330-bench-thicknesser/0200033000",
   "slug": "metabo-dh-330",
   "galleryOrder": [
     "produkt-01.png",
     "produkt-02.png",
+    "produkt-03.png",
     "logo-metabo.jpg"
   ],
   "files": [
@@ -13,29 +14,43 @@
       "file": "produkt-01.png",
       "kind": "product",
       "order": 1,
-      "sourceUrl": "https://be.prod.metabo.com/product/products/0200033000d_01_m_website.png",
+      "sourceUrl": "https://be.prod.metabo.com/product/products/0200033000s_51_m_website.png",
       "width": 1000,
-      "bytes": 1969863,
-      "sha256": "615c128431157580d0396a652a6657a4aa445f6f17ac5f96d605525da408c130"
+      "height": 1000,
+      "bytes": 1005886,
+      "sha256": "8971902fea317ae4b8cab8c67a32f9307fb044171409beeba341cc616704d3dd"
     },
     {
       "file": "produkt-02.png",
       "kind": "product",
       "order": 2,
+      "sourceUrl": "https://be.prod.metabo.com/product/products/0200033000d_01_m_website.png",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 877690,
+      "sha256": "e834a4329ee36b153dfe70493238da8f20648dc5fd01db8f0f593170d84969b7"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
       "sourceUrl": "https://be.prod.metabo.com/product/products/0200033000d_02_m_website.png",
       "width": 1000,
-      "bytes": 2278244,
-      "sha256": "d08514c1331fc7bd4a1f85ada422ab23af138c0895710db3a385f9174451dd54"
+      "height": 1000,
+      "bytes": 1176666,
+      "sha256": "1689687bcb93eae796f6bfd46050d2d3953b1e29d87dda3aee3d358e5c886630"
     },
     {
       "file": "logo-metabo.jpg",
       "kind": "logo",
-      "order": 3,
+      "order": 4,
       "sourceUrl": "dropshipping/materiały/logo/metabo.jpg",
       "width": 1200,
       "bytes": 31860,
-      "sha256": "be22f57a03918ed67c27edf8275197c5910c141d0c7f326bb44f1f238ed6a015"
+      "sha256": "be22f57a03918ed67c27edf8275197c5910c141d0c7f326bb44f1f238ed6a015",
+      "height": null
     }
   ],
-  "dropped": 0
+  "dropped": 0,
+  "note": "Naprawa 2026-09-02: produkt-01 = packshot s_51 (byl detal d_01), wszystkie PNG splaszczone RGBA -> RGB na bialym tle."
 }
