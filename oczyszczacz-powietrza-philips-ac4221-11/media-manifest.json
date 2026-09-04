@@ -15,7 +15,8 @@
     "produkt-09.webp",
     "produkt-10.webp",
     "produkt-11.webp",
-    "produkt-12.webp"
+    "produkt-12.webp",
+    "logo-producenta.png"
   ],
   "files": [
     {
@@ -125,6 +126,13 @@
       "width": 1200,
       "bytes": 49712,
       "sha256": "b709e34f708000c2d5ad12af7aa71711d41d8eaf4bfe60f5ebe8b5e3abf077b3"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 13,
+      "sourceUrl": "repo produkty-media/philips-ais6010-10/logo-philips.png",
+      "note": "logo marki Philips (kopia z repo mediow)"
     }
   ],
   "dropped": 0
