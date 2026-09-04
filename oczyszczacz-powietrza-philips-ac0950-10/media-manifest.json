@@ -8,7 +8,6 @@
   "produkt-02.webp",
   "produkt-03.webp",
   "produkt-04.webp",
-  "produkt-05.png",
   "produkt-06.webp",
   "produkt-07.webp",
   "produkt-08.webp",
@@ -52,15 +51,6 @@
    "width": 1200,
    "bytes": 34156,
    "sha256": "6caab6e9db958f77de22d358d67f25f5f761c36e42c7fd7889dc64e8ba094d80"
-  },
-  {
-   "file": "produkt-05.png",
-   "kind": "product",
-   "order": 5,
-   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_bb831e33_8945_4b40_b856e82e2af54668-1?wid=1200&hei=1200&$pnglarge$",
-   "width": 1200,
-   "bytes": 8503,
-   "sha256": "a802891fce9c00f0b990fb922ab5742fe3a82734406f5774e39ed73284afcb6c"
   },
   {
    "file": "produkt-06.webp",
