@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-04T13:25:13.728Z",
+  "sourcePage": "https://mi-store.pl/product-pol-1742-Oczyszczacz-Powietrza-z-jonizatorem-Xiaomi-Mi-Smart-Air-Purifier-4-Pro.html",
+  "slug": "xiaomi-mi-smart-air-purifier-4-pro",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "opis-01.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-13.jpg",
+    "opis-14.jpg",
+    "opis-15.jpg",
+    "opis-18.jpg",
+    "opis-19.jpg",
+    "logo-xiaomi.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/85c412c1de9a6454de2c40ff4558c02a/pol_pl_Oczyszczacz-Powietrza-z-jonizatorem-Xiaomi-Mi-Smart-Air-Purifier-4-Pro-1742_1.webp",
+      "width": 600,
+      "bytes": 49896,
+      "sha256": "94494ce85c5e4eb847f53426f88db721a6f59b8ea1657aa1f5e4acba66103993"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/8aa07f13793be18a08babb004bdcd671/pol_pl_Oczyszczacz-Powietrza-z-jonizatorem-Xiaomi-Mi-Smart-Air-Purifier-4-Pro-1742_2.webp",
+      "width": 600,
+      "bytes": 54532,
+      "sha256": "2abd736859996c675e1ec1c43951f3436fe700a2e446cee9419c60fd03d90701"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/e99ece7f1d95dabf096ff40f4f719f49/pol_pl_Oczyszczacz-Powietrza-z-jonizatorem-Xiaomi-Mi-Smart-Air-Purifier-4-Pro-1742_3.webp",
+      "width": 600,
+      "bytes": 45636,
+      "sha256": "a9083db12bf3c8d9a6ba48d0e6b7f1fd74bf76ed69441629b8262ab18f450f39"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/3443b62d1b6a35c123978bec207c7d30/pol_pl_Oczyszczacz-Powietrza-z-jonizatorem-Xiaomi-Mi-Smart-Air-Purifier-4-Pro-1742_4.webp",
+      "width": 600,
+      "bytes": 58862,
+      "sha256": "a8b0be9a41a77151878dd81d833b28758e3ac59c2379bd9d0e963193d3522cae"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1742-4pro/1.jpg",
+      "width": 1200,
+      "bytes": 109401,
+      "sha256": "b822b48fa8fbbaf14955a02465ca6a76afbe9403358f283f9cbf670ad3271071"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1742-4pro/5.jpg",
+      "width": 1200,
+      "bytes": 13474,
+      "sha256": "e38e73638fccd0b9f6f19d5fa9d33173380aa52f4196b6286aa77aa1eb09ba62"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1742-4pro/6.jpg",
+      "width": 1200,
+      "bytes": 79850,
+      "sha256": "756e5b2c3eee298aec3b708a77db1584211f0e05bbfdefd4554ab321e3bedb26"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1742-4pro/7.jpg",
+      "width": 1200,
+      "bytes": 149310,
+      "sha256": "ecc858fa16c029e870fce45e1f9c12cc32d1cf328892fff3e48a71c5989869b1"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1742-4pro/8.jpg",
+      "width": 1200,
+      "bytes": 122836,
+      "sha256": "337328a4fb71ca458dfc553f67c8f9f788b8013e940abab83cb8940bf7e6c55c"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1742-4pro/9.jpg",
+      "width": 1200,
+      "bytes": 88419,
+      "sha256": "d26ac3fceb807bc139b882b0ce2810d3de2b955d80390b4db32bd86f69cf1ef6"
+    },
+    {
+      "file": "opis-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1742-4pro/13.jpg",
+      "width": 1200,
+      "bytes": 46750,
+      "sha256": "fd150db1c0f112448fc4c515a7cd6c38d9fc883d189a1da64dbded4cadb1dfc4"
+    },
+    {
+      "file": "opis-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1742-4pro/14.jpg",
+      "width": 1200,
+      "bytes": 158836,
+      "sha256": "97f3a2dfeec313245de5fcc81c6a5085f0101184cfc22817048293e57a1d7f4a"
+    },
+    {
+      "file": "opis-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1742-4pro/15.jpg",
+      "width": 1200,
+      "bytes": 59649,
+      "sha256": "3897696fe4ef9296958d8b1f928cf4cf5507adf34aa6492a788fa123d5b4f2a4"
+    },
+    {
+      "file": "opis-18.jpg",
+      "kind": "lifestyle",
+      "order": 18,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1742-4pro/18.jpg",
+      "width": 1200,
+      "bytes": 147022,
+      "sha256": "f451b9c756393121c081e3ec31b7478d447dcdd483ba400d2985f4a976e8e2ea"
+    },
+    {
+      "file": "opis-19.jpg",
+      "kind": "lifestyle",
+      "order": 19,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1742-4pro/19.jpg",
+      "width": 1200,
+      "bytes": 65966,
+      "sha256": "f296917f41b7d2c44bd75f528bc93027d349569979e86d9512641a56453b8330"
+    },
+    {
+      "file": "logo-xiaomi.png",
+      "kind": "logo",
+      "order": 16,
+      "sourceUrl": "kopia _logo/logo-xiaomi.png (repo mediów)",
+      "width": 960,
+      "height": 256,
+      "bytes": 18651,
+      "sha256": "9cb8941a96b4520c9e5c36cbccd68d37f5dd64a1022147e1edf1a7bcb159c11b"
+    }
+  ],
+  "dropped": 8,
+  "curationNote": "Kuracja 2026-09-04 (wykonawca G57): odrzucone z galerii opis-02/03/04/10/11/12/16/17 (ciemne/diagram/instrukcja czyszczenia/dublujace uklad); tozsamosc: wszystkie zdjecia = Smart Air Purifier 4 Pro (opis-13 = ekran aplikacji z nazwa modelu)."
+}
