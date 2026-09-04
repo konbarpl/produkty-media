@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-04T13:37:32.737Z",
+  "sourcePage": "https://www.philips.pl/c-p/AMF870_15/",
+  "slug": "oczyszczacz-powietrza-philips-amf870-15",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "opis-07.webp",
+    "opis-08.webp",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2cbe3b2c_d80d_48c5_b37ecd4d19818a7d?wid=1200&hei=1200&$jpglarge$",
+      "width": 1200,
+      "bytes": 17306,
+      "sha256": "1a83caed9a34353b2dde7caaefa51f64fd38bbccf4600f3e457fa9b347d597db"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f15ca997_10ee_40cf_836227c2f86d8121?wid=1200&hei=1200&$jpglarge$",
+      "width": 1200,
+      "bytes": 18124,
+      "sha256": "ac7a5d16498b568961fa743e28cbd2648bb3cbca0728942c8dbbdd88d3f9553d"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e9d96605_3a4c_404f_98476c04de79500c?wid=1200&hei=1200&$jpglarge$",
+      "width": 1200,
+      "bytes": 54350,
+      "sha256": "fd7b93be7e41dcb09948a0e1b0e300c69eabd6be44a5d6764bf2031e7b461944"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8929f161_2f69_4b4e_b87a097d73240e7e?wid=1200&hei=1200&$jpglarge$",
+      "width": 1200,
+      "bytes": 51218,
+      "sha256": "d3516d7f7769d4cff5ab941781f582da564066bf3b8614fcb4ec8c9f2f948c76"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_9e657903_2d2a_4b8d_966cc3e829874e2b?wid=1200&hei=1200&$jpglarge$",
+      "width": 1200,
+      "bytes": 50412,
+      "sha256": "d0803f4dfb3fe8f5f50d53e627540c501c8eefa18eb19983abe3723c7a4d7d81"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_218d2f4a_445c_4d5a_9697e9d7d3b84bba?wid=1200&hei=1200&$jpglarge$",
+      "width": 1200,
+      "bytes": 34308,
+      "sha256": "99a59cb7a8e681a9cff0fa74f8388edb917b42cd44b7496cb067491a77379c29"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_96e30b67_fe87_42c8_adcea2dd5fd0d1d6?wid=1200&hei=1200&$jpglarge$",
+      "width": 1200,
+      "bytes": 29990,
+      "sha256": "b1bef2bc3b7f4f1d5694bbf8ed78e8060a688aa6b5e5c65eb691d76f46739337"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_96a4cbcf_7357_4264_94aeaf05cc292c6f?wid=1200&hei=1200&$jpglarge$",
+      "width": 1200,
+      "bytes": 39672,
+      "sha256": "1166180f911a863a79fbc010ce86f8f8919dd8c0ba157065d7285c5559590084"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_647e0da2_31ce_4b6d_b8fdf9798b71045f?wid=1200&hei=1200&$jpglarge$",
+      "width": 1200,
+      "bytes": 16606,
+      "sha256": "23cd0d7d64125e38e219b4e658d63e819154aa8b5fb728a1a7c7dd0cbedfcb4a"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_054bd69a_bb0d_43ca_9c85cdaa6e36a811?wid=1200&hei=1200&$jpglarge$",
+      "width": 1200,
+      "bytes": 20380,
+      "sha256": "b14ea92b793eba3d76dc9082f723e6b8c21681e3d03794ab92387cd99173df38"
+    },
+    {
+      "file": "opis-07.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e0c85753_e7e1_4a26_a649125bbec30b7d?wid=1200&hei=1200&$jpglarge$",
+      "width": 1200,
+      "bytes": 75892,
+      "sha256": "fa9172b35cbdc0cd2457349dc81faaade3d6cf8f9a0bdda185caf685119f36e0"
+    },
+    {
+      "file": "opis-08.webp",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_33988ced_69ea_46f2_b26c5b201f24f1ee?wid=1200&hei=1200&$jpglarge$",
+      "width": 1200,
+      "bytes": 38666,
+      "sha256": "8369a2b45c34114498ea7901bc479ea615376ab72bf95761ceebff9b67d52200"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo produkty-media/oczyszczacz-powietrza-philips-ac3737-10/logo-producenta.png",
+      "note": "logo marki Philips, na koniec galerii"
+    }
+  ],
+  "dropped": 0
+}
