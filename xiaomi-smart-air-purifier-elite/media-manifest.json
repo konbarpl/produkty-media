@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-04T13:29:32.649Z",
+  "sourcePage": "https://mi-store.pl/product-pol-2367-Oczyszczacz-Powietrza-Xiaomi-Smart-Air-Purifier-Elite.html",
+  "slug": "xiaomi-smart-air-purifier-elite",
+  "note": "Zdjecia produkt-01..04 = sceny z opisu karty (1280/900 px) zamiast 600 px z karuzeli (te same ujecia, wieksza rozdzielczosc); opis-01..05 = grafiki z opisu karty; pominieto 5.jpg (wykres widma UV, sam diagram bez produktu). Brak packshotu na bialym tle na karcie mi-store.",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.png",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2367-smartpurifierelite/7.jpg",
+      "width": 1280,
+      "height": 1059,
+      "bytes": 201762,
+      "sha256": "5a5e9bca5950031cd00ac2b917c525847d7e9371585c718b89e7c236007bb758"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2367-smartpurifierelite/8.jpg",
+      "width": 900,
+      "height": 590,
+      "bytes": 177665,
+      "sha256": "403f705f1e944c3de76de6e90611d4131bd29562522c20fbfc0f6741974869ac"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2367-smartpurifierelite/9.jpg",
+      "width": 900,
+      "height": 528,
+      "bytes": 76782,
+      "sha256": "fb4539d17927bad14745fc10b51f5c0e3d3327a8c1b5ba087797de43b5fdeb10"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2367-smartpurifierelite/10.jpg",
+      "width": 1280,
+      "height": 480,
+      "bytes": 114108,
+      "sha256": "963c8a37d93ddd6e0c837310204e3ec52cb4dd276f40b6412672f048317af0b6"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2367-smartpurifierelite/1.jpg",
+      "width": 1280,
+      "height": 560,
+      "bytes": 130760,
+      "sha256": "68424450dfc97f9a3f079870fb220d1cda4a097da4470e5c52e77867499f4e38"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2367-smartpurifierelite/2.jpg",
+      "width": 1280,
+      "height": 612,
+      "bytes": 71867,
+      "sha256": "2d81e2d2612a584d9caa0377e9ecacb108546574f3b670e172166d6f38df8099"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2367-smartpurifierelite/3.jpg",
+      "width": 1280,
+      "height": 1037,
+      "bytes": 248991,
+      "sha256": "862ccc1d10b013a64faccfcc86d373f7ca569c79f220ce631ad4de627f429645"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2367-smartpurifierelite/4.jpg",
+      "width": 901,
+      "height": 465,
+      "bytes": 96258,
+      "sha256": "9c4404318fc4af6eddea2bead2d82498f324c8d290b159ad315132f66cf0c3b4"
+    },
+    {
+      "file": "opis-05.png",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2367-smartpurifierelite/6.png",
+      "width": 900,
+      "height": 500,
+      "bytes": 359981,
+      "sha256": "76c2ae55b9341860845280d99bf471babbaa8f7caad9b55956072e2badb95e6e"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "dropshipping/produkty listy/produkty-media/_logo/logo-xiaomi.png",
+      "bytes": 18651,
+      "sha256": "9cb8941a96b4520c9e5c36cbccd68d37f5dd64a1022147e1edf1a7bcb159c11b"
+    }
+  ],
+  "dropped": 1
+}
