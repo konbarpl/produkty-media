@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-04T13:39:17.326Z",
+  "sourcePage": "https://www.philips.pl/c-p/AC2220_10/",
+  "slug": "oczyszczacz-powietrza-philips-ac2220-10",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "opis-01.png",
+    "opis-02.png",
+    "opis-03.png",
+    "opis-04.png",
+    "opis-05.png",
+    "opis-06.png",
+    "opis-07.png",
+    "opis-08.png",
+    "opis-09.png",
+    "opis-10.png",
+    "opis-11.png",
+    "opis-12.png",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_af8ba124_649f_460d_93bd16e1c4e59333?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 307739,
+      "sha256": "d53b02e09a22dc0e058a3b04374e22d16d75f535927f71f26e500684d14c44e6",
+      "assetType": "RTP"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_dd6bbae0_a105_4719_b97368a9cfe7e777?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 246414,
+      "sha256": "655070d570eb1b098feadc230349a307707ebfdb4238b94129d0560ad11e8072",
+      "assetType": "APP"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6e9e5551_6331_4e90_bd25df4a569f6a2e?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 263629,
+      "sha256": "86136f7d98077119c09420687ca6cbf40ae601fc3fef6ab98c0719f72e17ca85",
+      "assetType": "A1P"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_52893c74_5b26_48d4_9ceb9354e86e6845?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 454647,
+      "sha256": "d731c1617f76e72778b1514cb4ccfff737503e80a36b71e7b2083fc12d6cb640",
+      "assetType": "D1P"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_41fa16d2_8c8a_4f0e_b773678a93b75899?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 1542131,
+      "sha256": "09290a4712afad6d86024c62b0b065081bfddea5b8381a031a01ea8261339e5c",
+      "assetType": "D2P"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2de5e8b8_3c3a_41b4_bcfcd4d9786c4e3f?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 1622935,
+      "sha256": "f02db3328302a03f778ba3046785a18089d63334ee0b9fcfafce1fe027610bb1",
+      "assetType": "D3P"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_fd7f5cc9_2573_4a8b_ac32c1cd08616efb?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 1754884,
+      "sha256": "0704ded399a9b20a967616e8148186f418e0088af2ed757693c34a3aba89d265",
+      "assetType": "D4P"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c79e18eb_deb9_48b5_8934f033fcffac07?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 2092533,
+      "sha256": "69996dafc37153ecec03790e4f6b2e4a4bb25ced6fb1b4746a4abb064845526d",
+      "assetType": "D5P"
+    },
+    {
+      "file": "opis-01.png",
+      "kind": "feature",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_06a42146_c17b_4096_8adf525ad37df3f4?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 1114577,
+      "sha256": "f4c30a775ade57357cbcc77a868ca145f52332adfdb9670c2161a5ab3230dd60",
+      "assetType": "FIL"
+    },
+    {
+      "file": "opis-02.png",
+      "kind": "feature",
+      "order": 10,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5f2c4280_a8bc_43c7_bbcdac98b99ce7a5?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 998580,
+      "sha256": "eeb6761f9e459e2231bc747471d4be4a224b42a920b7d752294a25c7891cd588",
+      "assetType": "FIL"
+    },
+    {
+      "file": "opis-03.png",
+      "kind": "feature",
+      "order": 11,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7275c595_4449_4cde_96617de28e676740?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 1111485,
+      "sha256": "8d13bb54349573832c46fe9fd67def2f600a5dc870047e6891b12a436a4a1eab",
+      "assetType": "FIL"
+    },
+    {
+      "file": "opis-04.png",
+      "kind": "feature",
+      "order": 12,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8b719cfc_561b_4c10_85b6a78bc908071d?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 1012154,
+      "sha256": "5153169c183be0f12b6dce823a9edf190e8e673de8bd0995ea2d93ab819b2298",
+      "assetType": "FIL"
+    },
+    {
+      "file": "opis-05.png",
+      "kind": "feature",
+      "order": 13,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_30461634_cbe9_4c5f_8758f9d1688462c2?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 1203049,
+      "sha256": "d87722f5aa8342be0a60686bfe81192f3b048add6b221f9a16be46148a1a4150",
+      "assetType": "FIL"
+    },
+    {
+      "file": "opis-06.png",
+      "kind": "feature",
+      "order": 14,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_419adc49_632e_4cc5_995fb313c032d5bd?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 1307020,
+      "sha256": "3b2ac43d308e192efa77647a15b3e4a08ea2c834cfa78210cc6e0bad954f9e61",
+      "assetType": "FIL"
+    },
+    {
+      "file": "opis-07.png",
+      "kind": "feature",
+      "order": 15,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a603c1f8_208b_4ba2_b425ab5f96fab62e?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 1505533,
+      "sha256": "0615f0a22ee096a5ed8c2800e49aba1173035037d0aaba7b663a5a5a6a91c4d8",
+      "assetType": "FIL"
+    },
+    {
+      "file": "opis-08.png",
+      "kind": "feature",
+      "order": 16,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c8b94dfd_5e44_48b9_bf74e646f67d54b6?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 1025116,
+      "sha256": "d347fa3118f7534ad262c36a49010a17d62affc036f9d33af1614c5dfa86a46c",
+      "assetType": "FIL"
+    },
+    {
+      "file": "opis-09.png",
+      "kind": "feature",
+      "order": 17,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d7917222_215e_41d2_83a0bd498ad162a3?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 1166197,
+      "sha256": "6b9b75a1415063e1d57c78f5201df0ec21cd5460877c015a812b158fe2ce2232",
+      "assetType": "FIL"
+    },
+    {
+      "file": "opis-10.png",
+      "kind": "feature",
+      "order": 18,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d0abbb48_a445_4270_8bed43151724b2c5?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 1189083,
+      "sha256": "4c72a7839349bdbd8ee49dcc631d4608949cd637ffbe1116ee521e16b8a791ff",
+      "assetType": "FIL"
+    },
+    {
+      "file": "opis-11.png",
+      "kind": "feature",
+      "order": 19,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_002412ee_835c_4acd_931c84e17e645cbe?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 927606,
+      "sha256": "cabb092071056205ee253ef7e1d2a704db8bf8b68b8d19f880776b076c6dea72",
+      "assetType": "FIL"
+    },
+    {
+      "file": "opis-12.png",
+      "kind": "feature",
+      "order": 20,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_46a0826f_8d7b_45c6_9cb74b520342e232?wid=1200&hei=1200&$pnglarge$",
+      "bytes": 1196028,
+      "sha256": "5c6910eb3a1d2546aa7b257a3b5e97bfa4519ba59d2df20b95b79e485a794817",
+      "assetType": "FIL"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 21,
+      "sourceUrl": "repo:philips-ais6010-10/logo-philips.png",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "excludedFromGallery": [
+    {
+      "file": "produkt-04.png",
+      "reason": "packshot z gory w ciemnej kolorystyce - nie da sie potwierdzic wariantu Arctic White"
+    },
+    {
+      "file": "produkt-05.png",
+      "reason": "duplikat tresci opis-02.png (wykres poziomu halasu)"
+    },
+    {
+      "file": "produkt-06.png",
+      "reason": "duplikat tresci opis-03.png (schemat 3 warstw filtracji)"
+    }
+  ]
+}
