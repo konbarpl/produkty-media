@@ -121,7 +121,10 @@
    "file": "logo-producenta.png",
    "kind": "logo",
    "order": 99,
-   "sourceUrl": "repo-mediow/odkurzacz-bezworkowy-philips-xb1112-10/logo-producenta.png"
+   "sourceUrl": "repo-mediow/odkurzacz-bezworkowy-philips-xb1112-10/logo-producenta.png",
+   "width": 525,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
   }
  ],
  "dropped": 0

@@ -122,7 +122,10 @@
    "kind": "logo",
    "order": 99,
    "sourceUrl": "repo mediow: oczyszczacz-powietrza-philips-ac3220-10/logo-producenta.png",
-   "note": "logo marki Philips"
+   "note": "logo marki Philips",
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+   "bytes": 6882,
+   "width": 525
   }
  ],
  "dropped": 0
