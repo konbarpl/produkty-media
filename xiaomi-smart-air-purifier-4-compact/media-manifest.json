@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-04T13:24:42.522Z",
+  "sourcePage": "https://mi-store.pl/product-pol-2470-Oczyszczacz-Powietrza-Xiaomi-Smart-Air-Purifier-4-Compact.html",
+  "slug": "xiaomi-smart-air-purifier-4-compact",
+  "galleryOrder": [
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-04.webp",
+    "produkt-01.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/1aaefc8948231cb017e8e9248114d23b/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Smart-Air-Purifier-4-Compact-2470_2.webp",
+      "width": 600,
+      "bytes": 33718,
+      "sha256": "00adb71a8afbcbaf2b0e8528e0319d6433983d51ef06d828fac0fee19605ae0b"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/0e5c5c9471564a3d76aa0cdf43516147/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Smart-Air-Purifier-4-Compact-2470_3.webp",
+      "width": 600,
+      "bytes": 33612,
+      "sha256": "c7eceac16f2ab534ab8d7a3ac6bfa7159c2f9c3aab5947d6f7be2dc96f533337"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/60d35fdbbc6ecb801d297307c41feeb6/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Smart-Air-Purifier-4-Compact-2470_7.webp",
+      "width": 600,
+      "bytes": 29372,
+      "sha256": "8e41d7f64e08307a70ce9bbcd75dce3006b98a9116e184a74a92712cb9089275"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/0e52e62f4e6b8dec72481560092c545e/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Smart-Air-Purifier-4-Compact-2470_8.webp",
+      "width": 600,
+      "bytes": 30156,
+      "sha256": "262a1aa909ebe49ad8beab783a107773f20a80afa24422169d3755558a279524"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/hpeciai/616862471fd04686ce11529853d56390/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Smart-Air-Purifier-4-Compact-2470_4.webp",
+      "width": 600,
+      "bytes": 53938,
+      "sha256": "d5ebb9bb0efed474d6d33ebb6bfaf6765536a2729c1a7425c8588a5a61d6f771"
+    },
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/hpeciai/77fed72234c3e9d49d9fe6fa39d4ae92/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Smart-Air-Purifier-4-Compact-2470_1.webp",
+      "width": 600,
+      "bytes": 32672,
+      "sha256": "0a077a744a569f0c378a3c7c4556c89c87d6f44365833c9d39e39fcf5b7a7a8d"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2470-purifier4compact/1n.jpg",
+      "width": 1921,
+      "bytes": 1009533,
+      "sha256": "07397fdc7095f61720f168603bdeedb9ce97d5cde9a623d6c4b3b63ebd397751"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2470-purifier4compact/2.jpg",
+      "width": 1921,
+      "bytes": 583730,
+      "sha256": "3e9b67a3259947dd925bcd956f8b10c72eb0772282de2303556fd17867d99eab"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2470-purifier4compact/9.jpg",
+      "width": 1921,
+      "bytes": 958748,
+      "sha256": "1ea6ef1b8d76c3ab21d00f64a8ec766b10d255120faac4588dae6f266e40d43e"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2470-purifier4compact/11.jpg",
+      "width": 1921,
+      "bytes": 1460101,
+      "sha256": "3e4b2d3d7d37395f94ece03126dfea04a12849933449360069dbaed48624412c"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2470-purifier4compact/13.jpg",
+      "width": 1921,
+      "bytes": 461381,
+      "sha256": "c6207954c4de547334857a7af878d11c36eeb3181fb423b2de4f00367d805bf6"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2470-purifier4compact/15.jpg",
+      "width": 1921,
+      "bytes": 1331669,
+      "sha256": "bf827a8fac1df9b364325fa2210273525640e7271ba0f7228e3a46b8797a80ab"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2470-purifier4compact/16.jpg",
+      "width": 1908,
+      "bytes": 2083365,
+      "sha256": "41bb49bdf278752f4608b48a151323fc72299e8d4ddd2c884e2fb89b90150a4b"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 14,
+      "sourceUrl": "repo:_logo/logo-xiaomi.png",
+      "width": 960,
+      "height": 256,
+      "bytes": 18651
+    }
+  ],
+  "dropped": 12,
+  "curation": "2026-09-04 ETAP 1: packshot frontowy produkt-02 na 1. pozycji, spod (produkt-01) na koniec packshotow; 12 zdjec opisowych mi-store odrzucone przez filtr szerokosci (<900 px); logo Xiaomi na koncu"
+}
