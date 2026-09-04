@@ -1,0 +1,121 @@
+{
+ "version": 1,
+ "generatedAt": "2026-09-04T18:20:42.507Z",
+ "sourcePage": "https://www.philips.pl/c-p/AC0950_10/",
+ "slug": "oczyszczacz-powietrza-philips-ac0950-10",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.png",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "produkt-08.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "logo-producenta.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ca36dae9_2797_4864_b5d4a395cb8d93e5?wid=1200&hei=1200&$pnglarge$",
+   "width": 1200,
+   "bytes": 64554,
+   "sha256": "ea96ea3516964c0df2b8995f27eb76be7bb4e21ffbf865843eca22cfbea4eb53"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5e6a77b4_4100_47c5_a2cfcb041b7ba9ec?wid=1200&hei=1200&$pnglarge$",
+   "width": 1200,
+   "bytes": 166830,
+   "sha256": "ccc0f90f2746d72604962d71fc789dc16522c319deb757ca5c347c7e4cb3ba24"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a038d09e_5b82_4319_94e321b3dcfdec4e?wid=1200&hei=1200&$pnglarge$",
+   "width": 1200,
+   "bytes": 173408,
+   "sha256": "c31c52a4bde75434ba9247cefd0cf8148dc7418a89b8c897a74dd74a4ab81eaf"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_afd55685_b8b2_41d9_9fbfe8f62b850052?wid=1200&hei=1200&$pnglarge$",
+   "width": 1200,
+   "bytes": 34156,
+   "sha256": "6caab6e9db958f77de22d358d67f25f5f761c36e42c7fd7889dc64e8ba094d80"
+  },
+  {
+   "file": "produkt-05.png",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_bb831e33_8945_4b40_b856e82e2af54668-1?wid=1200&hei=1200&$pnglarge$",
+   "width": 1200,
+   "bytes": 8503,
+   "sha256": "a802891fce9c00f0b990fb922ab5742fe3a82734406f5774e39ed73284afcb6c"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_62463a2f_546f_45aa_a79ee1199a74fcd4?wid=1200&hei=1200&$pnglarge$",
+   "width": 1200,
+   "bytes": 181884,
+   "sha256": "9f1485e218ce3a70206dc6d69ee3604e9ee0c2671e458a57444ff70954a882c4"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_34556375_032f_47bf_bc3c48aeabc1523e?wid=1200&hei=1200&$pnglarge$",
+   "width": 1200,
+   "bytes": 68924,
+   "sha256": "ce07b58b234b53e5b6ffdca746c23c6c2c063249899a9cbf136fad00319e2f73"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_798c9713_36dc_4b89_a0238acfe7620fe1?wid=1200&hei=1200&$pnglarge$",
+   "width": 1200,
+   "bytes": 70250,
+   "sha256": "4e2266a69be8b1603b76018efb5dad0c2d8fe0058dd8b63b59a1f82e9b38dfbb"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_60ec08b2_952e_4706_9b1b730cfa0e66e4?wid=1200&hei=1200&$pnglarge$",
+   "width": 1200,
+   "bytes": 137144,
+   "sha256": "4f190130ab50a04e72575d911d64bf027bfedc67738d72949d9038e86d63d0de"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2d4c3ff8_5527_4b19_ad49875c97bb75a1?wid=1200&hei=1200&$pnglarge$",
+   "width": 1200,
+   "bytes": 100980,
+   "sha256": "174d38552430652bc2b389d6d1d8675351d35a512905df880e9f06ad411cbb58"
+  },
+  {
+   "file": "logo-producenta.png",
+   "kind": "logo",
+   "order": 99,
+   "sourceUrl": "repo-mediow/oczyszczacz-powietrza-philips-ac0650-10/logo-producenta.png",
+   "width": 525,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "dropped": 0
+}
