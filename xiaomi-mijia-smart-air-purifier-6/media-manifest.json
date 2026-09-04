@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-04T13:23:11.821Z",
+  "sourcePage": "https://mi-store.pl/product-pol-3674-Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-6.html",
+  "slug": "xiaomi-mijia-smart-air-purifier-6",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/56b5545d12db97b1f04acac4f04b5fce/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-6-3674_1.webp",
+      "width": 600,
+      "bytes": 24896,
+      "sha256": "69477729f354a7de6941e7c6d5125a911df9f55b626523a0460299ce72cdc1c7"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3674-Mijia-Smart-Air-Purifier-6/1.jpg",
+      "width": 1291,
+      "bytes": 553093,
+      "sha256": "848252ffdef698db9bad3089b172cc503f9b8ffbca7c39a5b95f9e3c06df2961"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3674-Mijia-Smart-Air-Purifier-6/2.jpg",
+      "width": 1291,
+      "bytes": 216856,
+      "sha256": "960f5a570fb23de6fef689df9ff97470014c159dfc320d9440642f244d37a06d"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3674-Mijia-Smart-Air-Purifier-6/3.jpg",
+      "width": 1291,
+      "bytes": 752695,
+      "sha256": "c13b107e0b001ae5077d6b45263e46b0010e44988e0348c171b764ab54821fd3"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3674-Mijia-Smart-Air-Purifier-6/4.jpg",
+      "width": 1238,
+      "bytes": 532502,
+      "sha256": "4eb80b6049eb4b5d1e8bf160fbaef3ad98d9054e8f96c94b3d79ddf05f2d0a88"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3674-Mijia-Smart-Air-Purifier-6/5.jpg",
+      "width": 1291,
+      "bytes": 487159,
+      "sha256": "e7ba60ce54f6a19f499a453032d48e36959dbd837f729f9d9ae54a9424655181"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3674-Mijia-Smart-Air-Purifier-6/6.jpg",
+      "width": 1291,
+      "bytes": 695379,
+      "sha256": "01c995e78a1a1416464c8a3592486117f347bbc1d8150aa6fbae9e414509f482"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3674-Mijia-Smart-Air-Purifier-6/7.jpg",
+      "width": 1291,
+      "bytes": 267800,
+      "sha256": "e2444d5565626bbabd2848a8fc525c8f7c2ba5614152dcc06c9e11a5880802da"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3674-Mijia-Smart-Air-Purifier-6/8.jpg",
+      "width": 1291,
+      "bytes": 663124,
+      "sha256": "a66726a5e6cb92594dfcdac0a47191f228a60de81a8bc4720142a32f5c7bb106"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "repo:_logo/logo-xiaomi.png",
+      "width": 960,
+      "height": 256,
+      "bytes": 18651
+    }
+  ],
+  "dropped": 0
+}
