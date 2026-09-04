@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-04T13:36:02.533Z",
+  "sourcePage": "https://www.philips.pl/c-p/AC3420_10/",
+  "slug": "oczyszczacz-powietrza-philips-ac3420-10",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "opis-07.webp",
+    "opis-08.webp",
+    "opis-09.webp",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3a83f7c9_4507_48c6_b8484886f2f2eedf?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 45086,
+      "sha256": "eb136e54fc23d64333a5d3f927364e77a75e82b8cf67ec5b35729a63441de0f7"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7673ded1_511d_4e79_b19fe839b0a8ef97?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 75432,
+      "sha256": "021daff281c243a2129eca5e5e5b6badd84596f64b61a74ab8cc2bb699a3c7b9"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_4696f6b1_af7b_4ade_bf754bc234ada720?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 137382,
+      "sha256": "174d5279c76db8ffcc651f042fa65c3b531397f70c1da9db2b061d112b76634d"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_acaf1c34_3c04_4a53_9b4aa76b8d0b2a30?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 102934,
+      "sha256": "b9d6c1afbe41684772749b64943efd39c8f491a2e04a93109708fd4ed4d151d2"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_fb6c32c5_a71a_4852_af81ceb263dd5fe6?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 155210,
+      "sha256": "9ed7e6107bdc1d794b26d52f087f1f4aa5c467b6597a773c8d075dfada28e6be"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_53e4507d_3834_4b93_8c89ff6c0b2760be?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 114706,
+      "sha256": "c037e7d027b125f9d038551ca25d5653d6fd6ba87fc5ecae7194bf3d1722e031"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_494d3c08_d984_4432_8b0c3d610a1d1880?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 87828,
+      "sha256": "5bc9409d19eaac529df1eae7c4c9b8424218d86c271195abb6da2d216ae57f36"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f07c719e_44c8_433c_9398ecd9bf9c73af?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 81148,
+      "sha256": "b607c8ca5434dd66b033a06bef4dcd533b5d583868bb744baa689618856c90fb"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cce9dd13_0ea0_4b5b_94bb032fb4cb4fb1?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 71518,
+      "sha256": "07d4ab3cb5626d260bbb29e437cccf5b871b7226d53806211a1c1f740913a1cd"
+    },
+    {
+      "file": "opis-07.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ba829a39_4338_496a_bee9f0483855fceb?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 145626,
+      "sha256": "3fa9c270d20bbb4c6827c4a624696fc728bcf4f3e303b4d275b96f7cf6748601"
+    },
+    {
+      "file": "opis-08.webp",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_bc57b2df_e098_4911_a8d9017759e387bd?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 74248,
+      "sha256": "fd7dd2ed79933d7b0701a684232ed10d67e3892bd91a66d3baf1db7609ac6022"
+    },
+    {
+      "file": "opis-09.webp",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ac1e55eb_075c_4c15_a490c77c40b2dd87?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 80804,
+      "sha256": "feb587e0371f0a6b37bd11fb3bd703b6d3893b92a2e96c4318fc5626de02f90c"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 13,
+      "sourceUrl": "repo-mediow: odkurzacz-bezworkowy-philips-xb1112-10/logo-producenta.png",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0
+}
