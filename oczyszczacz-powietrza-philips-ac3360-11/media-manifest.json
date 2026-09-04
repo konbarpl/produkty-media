@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-04T18:19:29.492Z",
+  "sourcePage": "https://www.philips.pl/c-p/AC3360_11/",
+  "slug": "oczyszczacz-powietrza-philips-ac3360-11",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8e0a3f2a_8952_43e8_9023b884b1798e6a?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 123272,
+      "sha256": "2adb044502ed53c9797cc567ca0f9cac22236bd9e54fd689922c20de6ba66ffd"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_4af38c59_3bad_4811_bf5860f76a2cb35a?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 19246,
+      "sha256": "81033b0ee5a6afaf3e8b137385bd6cd1d9533dd16343de95927995b5da57a678"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3fc9511b_4409_4e17_bc9ff80da20a23e9?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 40732,
+      "sha256": "615e6c82964f9128e1c87ae3bec162a7073acda745f912d0aa6db42664e05ae1"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a5dd1b34_69de_4502_8704c00267662e6d?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 84350,
+      "sha256": "d74dd48a74743d58eaae821f8d83facbbedd8db6f5ca521f38423c161725ad8a"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7795aaa3_9096_4f6d_8abbccfc781648b4?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 66840,
+      "sha256": "8f4ca7db296bc882cf6a722ab0134d71b1472effddeeb479630ce1f6db889efb"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ff3f79fd_a386_424f_988d6c885e2444ed?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 104060,
+      "sha256": "f5c56c9926289b5ec3dabd41f8251d221f2a403f468d5441a7f65195a0a35a0f"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_432cefe5_6902_477a_83f270c1af9e991b?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 145728,
+      "sha256": "b05f9cc3bea47f8feb041b4d97bca7fcc41000c9f583673b34317cf3190d9846"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "repo-mediow: oczyszczacz-powietrza-philips-ac3420-10/logo-producenta.png",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "width": 525
+    }
+  ],
+  "dropped": 0
+}
