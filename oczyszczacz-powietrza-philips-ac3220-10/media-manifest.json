@@ -1,0 +1,128 @@
+{
+ "version": 1,
+ "generatedAt": "2026-09-04T13:38:08.339Z",
+ "sourcePage": "https://www.philips.pl/c-p/AC3220_10/",
+ "slug": "oczyszczacz-powietrza-philips-ac3220-10",
+ "galleryOrder": [
+  "produkt-05.webp",
+  "produkt-01.webp",
+  "produkt-04.webp",
+  "produkt-07.webp",
+  "produkt-03.webp",
+  "produkt-06.webp",
+  "produkt-02.webp",
+  "produkt-11.webp",
+  "produkt-08.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "logo-producenta.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_40c85bc1_49cb_4ef3_8b1bdd4b4e93bc76?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 35006,
+   "sha256": "fb6701228c5484a4f73b46448ed8983fafd439558af8dca30a4b0cbe6530e65d"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_4377223e_227a_432b_bbb9a8eb3d652e30?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 45268,
+   "sha256": "1f6e683dade10ef7f6634efe867e01449a4ed4b54b46467198dfcc06e70cf503"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1a73020c_4398_43b5_aa38b381204ce948?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 81188,
+   "sha256": "c927a81fe4cf5d3187ed76c17a3ae3dee6fcff0ef334ab49d0351c7176a85529"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_eb446e57_4230_4704_91a353da211a1884?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 79900,
+   "sha256": "acfe6831c8e853a919febbd50ca2e37efc08dede14b82215416a572f590f347c"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ba15889f_321f_4a8c_be70af8046bbbdcd?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 38890,
+   "sha256": "370a5f0bbce258b5217656de3d2bee474dba8bb8a442b725562527430c666ee8"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7465742d_6734_4354_ba83fa0a0e3ab0cb?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 39178,
+   "sha256": "aef8ff2855896af15b8ca2760de9f9c7824b74f011f55d9c1ee81671de5aa4c3"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_28101cc5_f831_4266_919a86aea768f540?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 56182,
+   "sha256": "f59d435f850054189cf808cc66e3c5815f90f4d6bd77972c7628a133da86dca5"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ba35f8df_b72b_4271_96725ba813d86ed8?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 44586,
+   "sha256": "0ae680c523e9c9a2b2814b556b2d236922cb9983ff9add393b4c6e4949e31540"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ac9cc631_ec62_45ef_a7be2a1e7c786e05?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 78226,
+   "sha256": "b9bb50cc8a7dd2fd30efe85431117dadad6c085708f5fd5917514226963dc011"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_48e35428_24af_4874_98bdfb7cd7d98706?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 93928,
+   "sha256": "893ff8820cbc492a2090b27a365846f316ec073dfa368f9e247ddac8f7d15303"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d9d65770_4e3b_4bf2_a908cf4b250aa0eb?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 58442,
+   "sha256": "64a5197a0d4ff42a7c3a7a4136c29fdff14b0d5d88866dd915e2515c50209a8f"
+  },
+  {
+   "file": "logo-producenta.png",
+   "kind": "logo",
+   "order": 99,
+   "sourceUrl": "repo-mediow/odkurzacz-bezworkowy-philips-xb1112-10/logo-producenta.png"
+  }
+ ],
+ "dropped": 0
+}
