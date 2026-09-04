@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-04T13:36:57.061Z",
+  "sourcePage": "https://www.philips.pl/c-p/AC4221_11/",
+  "slug": "oczyszczacz-powietrza-philips-ac4221-11",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c89537bf_a5b1_4bac_90311ce32d84655d?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 31744,
+      "sha256": "98369373671a5ae44b9b97c739737d669b9a29db21b61f6b5e1a31d0a8bf0d97"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5b99f70f_048c_4f53_9019dc0d49d7ef65?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 41390,
+      "sha256": "b4517d41307016a11679103eba546559f67df7bec6471bb8ef1736debb05e668"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1b6b4bd5_1ac1_4b07_81c28526fc2c0adb?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 54974,
+      "sha256": "bd502507330dddc7d4cdf4ebe97038cbd585fd1db0e79c95411af6e9ded9b5b1"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_31e8b429_2ee8_470e_a935107dcaf0f5f7?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 43564,
+      "sha256": "7cb41b060802491bfa908121b7b5299a7f50717cb386bfd3b3a4713eb1d2104c"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_67e2cf1b_45d4_4416_8b8c8ba2259290da?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 76182,
+      "sha256": "28a645e95f2e96edf76d57879191b4bb9a3f499744f8b7e9c0684f026d312cac"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5d6dd8a8_70a4_436b_be2701fe0632ae4d?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 70490,
+      "sha256": "7385a884aedfa01500831558008aee6a008f186ba75f330206df02adcb97087b"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_18581e1a_b989_4066_9dd33a43c613ce92?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 30094,
+      "sha256": "38db5eb84c846ee872202e965b5452379d443148f57ca534f5e3ddbfdc08c4d5"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cd9c1d36_462c_4978_9755e532908ee9da?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 28176,
+      "sha256": "0b17c03d39756c19e47a774d874d93854c9602d331cd3869ee16d1994a41ff17"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1f271a2e_f0c0_48ed_9835b08de3ede91d?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 59374,
+      "sha256": "93cc5c22dd72a36a02a1d6d1a4a4858ea53c70561324df5e0ae8047b04f3ea7d"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_08f4b2dd_3d9d_4654_bd06e73fff79e388?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 84588,
+      "sha256": "7c13e06558141afc83b64834c270528b1c4eea786547fb2d7a200a708b59479c"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_41d1595d_d4fe_4406_8c8ada89c78b5a66?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 85476,
+      "sha256": "7d51759c170ae8378477a83b8a143f424f9f4948a66c2036748f56a214050bdb"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f537b05d_24a6_43a6_a348bcf200a14b17?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 49712,
+      "sha256": "b709e34f708000c2d5ad12af7aa71711d41d8eaf4bfe60f5ebe8b5e3abf077b3"
+    }
+  ],
+  "dropped": 0
+}
