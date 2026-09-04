@@ -113,7 +113,9 @@
       "order": 10,
       "sourceUrl": "dropshipping/produkty listy/produkty-media/_logo/logo-xiaomi.png",
       "bytes": 18651,
-      "sha256": "9cb8941a96b4520c9e5c36cbccd68d37f5dd64a1022147e1edf1a7bcb159c11b"
+      "sha256": "9cb8941a96b4520c9e5c36cbccd68d37f5dd64a1022147e1edf1a7bcb159c11b",
+      "width": 960,
+      "height": 256
     }
   ],
   "dropped": 1
