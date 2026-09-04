@@ -1,0 +1,181 @@
+{
+ "version": 1,
+ "generatedAt": "2026-09-04T18:20:13.475Z",
+ "sourcePage": "https://www.philips.pl/c-p/AC0650_10/",
+ "slug": "oczyszczacz-powietrza-philips-ac0650-10",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "opis-01.webp",
+  "opis-02.webp",
+  "opis-03.webp",
+  "opis-04.webp",
+  "opis-05.webp",
+  "opis-06.webp",
+  "opis-07.webp",
+  "opis-08.webp",
+  "opis-09.webp",
+  "logo-producenta.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1ba85074_404c_4204_8d32259b99e5b189?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 29232,
+   "sha256": "86c0c7e8ea9b568c03a25d800376c9d4e4551fd0d0c387a05e00c7f664404d8b"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_eb3ca3e2_1dd3_4e7e_aaacfd66525e3114?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 35200,
+   "sha256": "0d86ec27d505f0e92bb148a0e6b2484f29ed62dea0a9c3d46ee8ff858bdeef55"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_4c950daa_43c0_4e86_ab5e97dba25b79a4?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 45026,
+   "sha256": "70b9ddd5df4096914b60ca1be76925430c607bc0ac117bf7fa3733692ec3dae7"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_bbfb2200_2722_4982_98a7a114436d0396?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 50624,
+   "sha256": "6abc23e42ea4c07b435995ac461768f6411e837d62b58d8c992c722de3ca1d0d"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e3ccf367_7e60_4741_9e0af17bb408f4df?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 50234,
+   "sha256": "a539c5a719816ed32c86e1b43c65187ad7856bfacfe198eb134f66022f67c03c"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3afa0f25_359b_4061_b9ac78f415dcfe69?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 93808,
+   "sha256": "6bc78497038230d053ab7ea63629fdbe8196851eb0b3285bdb194c0454586ee3"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3ac8904a_561d_4ad7_865124989514bae8?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 67840,
+   "sha256": "4792adedf3d7c23de936972b197306b2f3b44fbbccbc98d0c4e76b0820c7e373"
+  },
+  {
+   "file": "opis-01.webp",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6b988c78_18b7_42e7_aeeedb24c1c4b36a?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 41964,
+   "sha256": "05ffe898a71fbfef33eda02aa48c9181d4bd14cfda9abe4e110ddf55de415e3f"
+  },
+  {
+   "file": "opis-02.webp",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_74156b8b_7840_4756_b0287b0e6252030c?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 50666,
+   "sha256": "2ce9c94dccf45610a6fd1ff74963636ce848c28f28b41f04ab8be286abe364a4"
+  },
+  {
+   "file": "opis-03.webp",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ae6f877e_5459_4cac_a085dba1077aa3ff?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 58340,
+   "sha256": "e13762c75327be81c87889f354a011190c09e841b794e2e7e00dbd3fd2cfdeb1"
+  },
+  {
+   "file": "opis-04.webp",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_61a09742_5968_41cb_866b8d52340c2cc2?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 49428,
+   "sha256": "fd0d28ba6d98fd67214fa05a03d9f4d22a9f286ffa9ac10b658ea686c8156a42"
+  },
+  {
+   "file": "opis-05.webp",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6624667d_5d6f_4637_ba996ad883900a0a?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 36160,
+   "sha256": "9e162d87ebdd0652a9a9be7ff4d1610fd25ddf5aebfcbc1ef4b550a999f3546d"
+  },
+  {
+   "file": "opis-06.webp",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e6d6c8d4_fece_4c6f_8ae370bdae996468?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 31114,
+   "sha256": "44f06790eef4278b14cede28d7a49d4d8b80dac727cfd3ade4072dde0cab58a2"
+  },
+  {
+   "file": "opis-07.webp",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_019bf5b3_5c92_4d23_b2dfe2e00bc66fd8?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 39536,
+   "sha256": "95ac92e22406b0961226eb79d05ae2d3fdb78e9707f665730246288e07515c82"
+  },
+  {
+   "file": "opis-08.webp",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8641533f_f9c3_407f_b23d4cecc224bb57?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 23398,
+   "sha256": "c03f2de328c3b7e49de1bde5673a78706c35568ce8ac2e5dc61732ae9bc12386"
+  },
+  {
+   "file": "opis-09.webp",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cba0ad31_534c_4bc9_9ba48c656a4265dc?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 34942,
+   "sha256": "74fe2c636a7a84dbba4aed587b1d8461b87cd23c83350c7e75000d54c67d3f86"
+  },
+  {
+   "file": "logo-producenta.png",
+   "kind": "logo",
+   "order": 99,
+   "sourceUrl": "repo mediow (dropshipping/produkty listy/produkty-media/oczyszczacz-powietrza-philips-ac3220-10/logo-producenta.png)",
+   "width": 1600,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "dropped": 0
+}
