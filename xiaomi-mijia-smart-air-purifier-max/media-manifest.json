@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-04T13:23:40.961Z",
+  "sourcePage": "https://mi-store.pl/product-pol-38632392-Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max.html",
+  "slug": "xiaomi-mijia-smart-air-purifier-max",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "opis-07.webp",
+    "logo-xiaomi.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/57d1c7aa6e6da9ac8872b60825d9d105/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max-38632392_1.webp",
+      "width": 600,
+      "bytes": 18798,
+      "sha256": "62fa37cf2298ef92473cfc2767be31787845fa8ac5d1414841e6b22d1822e4e5"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/05571d627abfa99e925fff0da8590cb9/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max-38632392_2.webp",
+      "width": 600,
+      "bytes": 19108,
+      "sha256": "5b0f35e2b14a44cbd21e111b20a93ea5dc61697e0ddb1dbd7ce459b1b0e5c938"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/07010c4d5e895579d8f8b066d617721e/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max-38632392_3.webp",
+      "width": 600,
+      "bytes": 30212,
+      "sha256": "44554b6d73cc0d2bfa2bbec1bbcc81c4de2ea8bfa6ae034e37122673befa02cd"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/01259b6c482bc74e60e162cfb98c5d3d/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max-38632392_4.webp",
+      "width": 600,
+      "bytes": 10890,
+      "sha256": "5d400ed8a93288599f80953b235f802070fb3a5cc1717fe3c95f6d521c3c2bce"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/hpeciai/9f03a70b91f61d39f85016cbbd961beb/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max-38632392_5.webp",
+      "width": 600,
+      "bytes": 11288,
+      "sha256": "4d51d5f6a00e15d09c841b938f5c332c27a70c8fef204d7cd1cb123b1ef51570"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/hpeciai/092dd7465e56540c2ad73d6f501e09de/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max-38632392_6.webp",
+      "width": 600,
+      "bytes": 5112,
+      "sha256": "d1d63071bd615a833890bfe99bfb6a1d6b02bcea30b82d3457e9aff9711d163b"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632392-Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max/1.webp",
+      "width": 1500,
+      "bytes": 51616,
+      "sha256": "a8ae659d2045e7eeac2a69133283c338033682b1ce51b15670531fe09a5533a3"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632392-Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max/2.webp",
+      "width": 1500,
+      "bytes": 75752,
+      "sha256": "0751aed48f9d5802f6b97ceffc7408e2a8ef99c969f2dcc260e629794fb5de62"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632392-Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max/3.webp",
+      "width": 1500,
+      "bytes": 62458,
+      "sha256": "6a27f74ddc96714b7c2ea47873f362030c2bde0450253eb461d2bbb95f9c0476"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632392-Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max/4.webp",
+      "width": 1500,
+      "bytes": 76234,
+      "sha256": "f9de48fbdd2e29e5eb279071f76271b9985fb4dd1c7667689997a75166182a48"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632392-Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max/5.webp",
+      "width": 1500,
+      "bytes": 52780,
+      "sha256": "37f28f3b2f25bf89a05aa79e28bd0896e9c6c591c6e2497f73da7cc741005bb4"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632392-Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max/6.webp",
+      "width": 1500,
+      "bytes": 130062,
+      "sha256": "d26bb078fa80b405339803489741514503ecfcd571028bf32fe6f890dac55cc2"
+    },
+    {
+      "file": "opis-07.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/38632392-Oczyszczacz-Powietrza-Xiaomi-Mijia-Smart-Air-Purifier-Max/7.webp",
+      "width": 1500,
+      "bytes": 40174,
+      "sha256": "1758099d17f923af57e62cbe31150f7b41785c3efffca47c81a07d8f85dcb762"
+    },
+    {
+      "file": "logo-xiaomi.png",
+      "kind": "logo",
+      "order": 14,
+      "sourceUrl": "kopia logo z repo mediow _logo/logo-xiaomi.png",
+      "width": 960,
+      "height": 256,
+      "bytes": 18651,
+      "sha256": "9cb8941a96b4520c9e5c36cbccd68d37f5dd64a1022147e1edf1a7bcb159c11b"
+    }
+  ],
+  "dropped": 0
+}
