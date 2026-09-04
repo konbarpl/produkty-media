@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-04T13:24:57.409Z",
+  "sourcePage": "https://mi-store.pl/product-pol-1774-Oczyszczacz-Powietrza-Xiaomi-Smart-Air-Purifier-4-Lite.html",
+  "slug": "xiaomi-smart-air-purifier-4-lite",
+  "galleryOrder": [
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-02.webp",
+    "produkt-01.webp",
+    "opis-01.jpg",
+    "opis-14.jpg",
+    "opis-04.jpg",
+    "opis-10.jpg",
+    "opis-16.jpg",
+    "opis-13.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-03.jpg",
+    "opis-11.jpg",
+    "opis-02.jpg",
+    "opis-08.jpg",
+    "opis-12.jpg",
+    "opis-15.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/a9c9f34caf81c8da256f4b77cc7a5b23/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Smart-Air-Purifier-4-Lite-1774_3.webp",
+      "width": 600,
+      "bytes": 44344,
+      "sha256": "a664e45cce8ad837d505f5f4258360dab0b1b0114c51b872baf4e6f9e610e8e9"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/1d03d182c1f6ec218f9cf13bea235c74/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Smart-Air-Purifier-4-Lite-1774_4.webp",
+      "width": 600,
+      "bytes": 43978,
+      "sha256": "0861c8d01233d0bd87fffcaae65db63bb629f3c68898417296d389febba36e03"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/15fe9c9a28acfb6ba578aabdd47520eb/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Smart-Air-Purifier-4-Lite-1774_2.webp",
+      "width": 600,
+      "bytes": 43236,
+      "sha256": "0ff151dfe843deecca792c26682e8822311722cd3729b9811ae684f749b987e5"
+    },
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/a1138f761e02ad8dfbc7f2c051afe453/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Smart-Air-Purifier-4-Lite-1774_1.webp",
+      "width": 600,
+      "bytes": 34734,
+      "sha256": "d79c4a5d1de0235ad78d4656e2de78c44214c0118f1a8c1fa3e43b5aedc55bf4"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/1.jpg",
+      "width": 1200,
+      "bytes": 66001,
+      "sha256": "75f4fda9f44abd09e132b6bf9bb958a084d0b34e5121ed83e5ddb1f630ef157d"
+    },
+    {
+      "file": "opis-14.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/15.jpg",
+      "width": 1200,
+      "bytes": 157346,
+      "sha256": "79cf6eb65200ec329b3aebabe97072d979b4aac7764002980c11d1f2e1b5ccbd"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/4.jpg",
+      "width": 1200,
+      "bytes": 37899,
+      "sha256": "4f05a7f494e141d74a66fb7b599d2417982866140f68e0854e5e63c6f97637b7"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/10.jpg",
+      "width": 1200,
+      "bytes": 163484,
+      "sha256": "2c6822e0cf4ea9296a78a93496dd06f1c9755072e513d8b87e2b1dda692d7e42"
+    },
+    {
+      "file": "opis-16.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/17.jpg",
+      "width": 1200,
+      "bytes": 76111,
+      "sha256": "935b22504b58c6bd27ffe1dbb44ad54ae8e3df23b5861883e337973527fb1676"
+    },
+    {
+      "file": "opis-13.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/14.jpg",
+      "width": 1200,
+      "bytes": 56225,
+      "sha256": "32cd24657641b0583b5acade9b7755386707cb264e1001f3d5e207ded4b1a81d"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/5.jpg",
+      "width": 1200,
+      "bytes": 112055,
+      "sha256": "fd9c9089ad067ba2084b5a4a2cc5d1c57a85506ab9f496be8bcbf9d089110d12"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/6.jpg",
+      "width": 1200,
+      "bytes": 83255,
+      "sha256": "92a76a55edb924acdc674aa312425e201836db2c46dc0fafdb1175e5c6043124"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/3.jpg",
+      "width": 1200,
+      "bytes": 128457,
+      "sha256": "77650563cf6ea64af03b115565b7e0c15fab9ce7139aaa9e35fe555580446820"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/11.jpg",
+      "width": 1200,
+      "bytes": 29132,
+      "sha256": "b0eefad7c5f1e9ec824e938196406f354403d253d6fa044c609b2b280259e933"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/2.jpg",
+      "width": 1200,
+      "bytes": 60358,
+      "sha256": "6358fbb37563c77d78c2c822f6e4c25162fb35e933c87282d86f48260ff9f68b"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 16,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/8.jpg",
+      "width": 1200,
+      "bytes": 34293,
+      "sha256": "3b6bbb9bd07883dc45be9575b3549670fadb726ed6ffcf62dadd1f427dcc549d"
+    },
+    {
+      "file": "opis-12.jpg",
+      "kind": "lifestyle",
+      "order": 17,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/13.jpg",
+      "width": 1200,
+      "bytes": 31232,
+      "sha256": "f77861fac40cdc663be70c9b9891b476b374448a917f98565694c3a1b56b5076"
+    },
+    {
+      "file": "opis-15.jpg",
+      "kind": "lifestyle",
+      "order": 18,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/1774-purifier4liteeu/16.jpg",
+      "width": 1200,
+      "bytes": 28540,
+      "sha256": "06b697c12bb86342431beaf7a07e91911f739156086e116773124d711f8f70d9"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 19,
+      "sourceUrl": "kopia _logo/logo-xiaomi.png (repo mediow)",
+      "width": 960,
+      "height": 256,
+      "bytes": 18651,
+      "sha256": "9cb8941a96b4520c9e5c36cbccd68d37f5dd64a1022147e1edf1a7bcb159c11b"
+    }
+  ],
+  "dropped": 3,
+  "curationNote": "Kuracja 2026-09-04 (wykonawca G57): przod z wyswietlaczem na 1. miejscu; usunieto opis-07 (sam filtr = komponent), opis-09 (ciemne zdjecie telefonu bez produktu), opis-17 (3 male panele wymiany filtra); logo Xiaomi na koncu."
+}
