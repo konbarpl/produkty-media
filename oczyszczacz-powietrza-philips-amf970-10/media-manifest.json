@@ -200,6 +200,14 @@
       "width": 1200,
       "bytes": 161188,
       "sha256": "a00b0d218a0e2da20a18b1f08f4b79f4bc0a2dc5a48b65e081563e302d1c41a7"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo mediow: philips-ais6010-10/logo-philips.png (kopia)",
+      "width": null,
+      "bytes": 6882
     }
   ],
   "dropped": 0,
