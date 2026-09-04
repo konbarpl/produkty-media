@@ -1,0 +1,129 @@
+{
+ "version": 1,
+ "generatedAt": "2026-09-04T18:21:41.251Z",
+ "sourcePage": "https://www.philips.pl/c-p/AC3221_13/",
+ "slug": "oczyszczacz-powietrza-philips-ac3221-13",
+ "galleryOrder": [
+  "produkt-05.webp",
+  "produkt-01.webp",
+  "produkt-08.webp",
+  "produkt-04.webp",
+  "produkt-07.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-11.webp",
+  "produkt-10.webp",
+  "produkt-09.webp",
+  "produkt-06.webp",
+  "logo-producenta.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b171bfd0_90f3_40ac_892ff201b0a54360?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 31100,
+   "sha256": "87a80179d2dd50da51e8f99aeaa4d711f4ffa8e7f1db135e8e3d1db8a16e60f9"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e50035bb_9e3b_4f41_8d85e20f5691e00d?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 42204,
+   "sha256": "15e434457a8924a831527b29f877bff686cc5a35e580dfca0f6ab95753f42443"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d5121e90_b62f_4c74_ae3a77705f5dbe3d?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 74964,
+   "sha256": "3674fbf7a6489873056bca3c23c6dadbd918000eeccf51285de6853d65dfed93"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e96df459_cbc0_4cd0_a8259c8d73d6c5c0?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 69096,
+   "sha256": "8992591faab4213e1d0a5ab2101aa7548c4916cca07c9ab524e49f10383b4df2"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f26c32e0_7fdf_46f8_ad2d237dd9fa7b67?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 30646,
+   "sha256": "0d4d0ab8d10b0b27ac7d68d5c296eb33c288b3be52f71dfac24b0fd75dcc44df"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_4370a9a5_3023_49b9_a3ed28ca71f15ae3?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 31080,
+   "sha256": "cf70950358cc825711cdc430525aa405b6b134fde004ba07c097862c9f47ff97"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_95fc627c_f09a_46e6_a5e3171c4f4cb94a?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 43028,
+   "sha256": "607afcd795ab10674a2d016f14981a057c1efe99ec29e2f73dc57cdd3dfc54d4"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_da87c380_2169_409e_a8a940c5ac244bcb?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 27758,
+   "sha256": "87a3618fb117a8f0aae403bdb2f8380902b6d3849e7b8a80867d612e96644379"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1ef0cd2c_69b0_4065_8f445633aef53fc5?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 40876,
+   "sha256": "1a7f2e42c90dd73d9ea13b304778ef64483936bbe87fc4d309ba87534ed21d92"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_232ed668_2a7d_488c_95a62ba7abc01860?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 84438,
+   "sha256": "f8289650c61ce672909fd8f17c72d07b4da27462c0ff88f5474396527a1a7cb0"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_9391212c_cafc_4e0a_b00c4782f5b632e7?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 62032,
+   "sha256": "cd01864d9da49ba972dc7ac15a1491e227090135427938e886d941ce6fafc16e"
+  },
+  {
+   "file": "logo-producenta.png",
+   "kind": "logo",
+   "order": 99,
+   "sourceUrl": "repo mediow: oczyszczacz-powietrza-philips-ac3220-10/logo-producenta.png",
+   "note": "logo marki Philips"
+  }
+ ],
+ "dropped": 0
+}
