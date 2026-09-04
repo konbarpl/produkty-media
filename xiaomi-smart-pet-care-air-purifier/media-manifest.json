@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-04T13:23:37.974Z",
+  "sourcePage": "https://mi-store.pl/product-pol-3303-Oczyszczacz-Powietrza-Xiaomi-Smart-Pet-Care-Air-Purifier.html",
+  "slug": "xiaomi-smart-pet-care-air-purifier",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-10.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/e699a0489822c18858372a4894fa0cdf/pol_pl_Oczyszczacz-Powietrza-Xiaomi-Smart-Pet-Care-Air-Purifier-3303_1.webp",
+      "width": 600,
+      "bytes": 12256,
+      "sha256": "51942eae164f0f305ce5d8a802781081a923e168e20924c17df88661a275d629"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3303-Smart-Pet-Care-Air-Purifier/1.jpg",
+      "width": 1329,
+      "bytes": 441911,
+      "sha256": "fda0a0e9f1d35a257d8e514b4bee8cb8122844c8368f343055d4a59c87e985cd"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3303-Smart-Pet-Care-Air-Purifier/2.jpg",
+      "width": 1329,
+      "bytes": 567211,
+      "sha256": "94112fdb41ea50a91dec80e68cb90d3a63496e872a526b475b0d6c532318f12f"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3303-Smart-Pet-Care-Air-Purifier/3.jpg",
+      "width": 1329,
+      "bytes": 815673,
+      "sha256": "5217057bc28357cb3bc7f9a8d3aa95bacd5a79d2abefa12ad48874e4992fa4f8"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3303-Smart-Pet-Care-Air-Purifier/4.jpg",
+      "width": 1299,
+      "bytes": 310441,
+      "sha256": "f2bc3170e67379bf77a272a5f4783868f0022c1e265828f563932a52fe8c506f"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3303-Smart-Pet-Care-Air-Purifier/5.jpg",
+      "width": 1329,
+      "bytes": 810134,
+      "sha256": "2ae96694eb27ddb076b9c14e8b4e2144af2873a3c1a7a91a6383abef69b438b0"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3303-Smart-Pet-Care-Air-Purifier/6.jpg",
+      "width": 1329,
+      "bytes": 322392,
+      "sha256": "d2fe1d88a878268bbc6ea832a660d1590a1cb85e5f6e01772816041ed038d8b7"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3303-Smart-Pet-Care-Air-Purifier/7.jpg",
+      "width": 1329,
+      "bytes": 480199,
+      "sha256": "62cd214714852c3941629c77da02806a8160874e59cca85369368a6e3441a658"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3303-Smart-Pet-Care-Air-Purifier/8.jpg",
+      "width": 1295,
+      "bytes": 543133,
+      "sha256": "e03a03dd255ba681c5d40ffa31c55c38f5e322af4ce5c119fe126f4be62acc4a"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3303-Smart-Pet-Care-Air-Purifier/9.jpg",
+      "width": 1299,
+      "bytes": 269895,
+      "sha256": "0acbf3573966c4c484a9f474fb4379703424af56690fde2877fdba64375c2814"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/3303-Smart-Pet-Care-Air-Purifier/10.jpg",
+      "width": 1328,
+      "bytes": 562862,
+      "sha256": "70ce0ed2ae536ca7211cf086b9588eb60124807809bab197496e87894f72f051"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "repo:_logo/logo-xiaomi.png",
+      "width": 960,
+      "height": 256,
+      "bytes": 18651,
+      "sha256": "9cb8941a96b4520c9e5c36cbccd68d37f5dd64a1022147e1edf1a7bcb159c11b"
+    }
+  ],
+  "dropped": 0
+}
