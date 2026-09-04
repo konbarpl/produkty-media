@@ -4,7 +4,6 @@
   "sourcePage": "https://www.kaercher.com/pl/home-garden/odkurzacze-piorace/se-3-18-compact-battery-set-10815090.html",
   "galleryOrder": [
     "produkt-01.jpg",
-    "produkt-04.jpg",
     "produkt-05.jpg",
     "produkt-06.jpg",
     "produkt-07.jpg",
@@ -25,14 +24,15 @@
     },
     {
       "file": "produkt-04.jpg",
-      "kind": "product",
+      "kind": "duplicate",
       "order": 4,
       "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/73/7323932/Odkurzacz-pioracy-KARCHER-SE-3-18-Battery-Set-1.081-509.0-front.jpg",
       "source": "Media Expert karta 1.081-509.0",
       "width": 1600,
       "height": 1600,
       "bytes": 338028,
-      "sha256": "0ca627d922383f0cbf7a4a27f30ec68ba22700f9858b6cb18cd039edc26b4b94"
+      "sha256": "0ca627d922383f0cbf7a4a27f30ec68ba22700f9858b6cb18cd039edc26b4b94",
+      "note": "to samo ujecie co produkt-01.jpg (packshot zestawu, zrodlo ME) — poza galleryOrder, plik zostaje"
     },
     {
       "file": "produkt-05.jpg",
@@ -123,5 +123,5 @@
     }
   ],
   "updatedAt": "2026-09-04T18:26:26Z",
-  "note": "2026-09-04: galeria przebudowana — 6 zdjec z karty Media Expert (SE 3-18 Battery Set 1.081-509.0); produkt-02.png (deklaracja/instrukcja) i produkt-03.jpg (baner czesci) usuniete z galleryOrder, pliki zostaja"
+  "note": "2026-09-04: galeria przebudowana — 5 zdjec z karty Media Expert (SE 3-18 Battery Set 1.081-509.0: produkt-05..09); produkt-04 = duplikat ujecia produkt-01 (poza galeria); produkt-02.png (deklaracja/instrukcja) i produkt-03.jpg (baner czesci) usuniete z galleryOrder, pliki zostaja"
 }
