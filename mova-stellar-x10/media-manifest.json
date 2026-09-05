@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T13:22:28.581Z",
+  "sourcePage": "https://pl.mova.tech/products/mova-stellar-x10-series-air-purifier",
+  "slug": "mova-stellar-x10",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "opis-01.jpg",
+    "opis-02.png",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.png",
+    "opis-08.png",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.mova.tech/cdn/shop/files/x10-version_-_Black.png?v=1767839070",
+      "width": 1440,
+      "bytes": 1532722,
+      "sha256": "2b6e296ea18ee999ef3516839e040a1f69bfc34eb5dcae2a01eb29c870664ae0",
+      "height": 1440
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.mova.tech/cdn/shop/files/x10-Good-air-quality.png?v=1767839070",
+      "width": 1440,
+      "bytes": 1550291,
+      "sha256": "67eeee94dd72d46065e23044d373656728cfd81fd7a7d07507a85b75bdf8b15f",
+      "height": 1440
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://pl.mova.tech/cdn/shop/files/x10-air-quality.png?v=1767839070",
+      "width": 1440,
+      "bytes": 1560333,
+      "sha256": "65eac13f8db4873c9dd9423590da5746d1cdd8ba041a1cb82332a789423be411",
+      "height": 1440
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://pl.mova.tech/cdn/shop/files/x10-air.png?v=1767839070",
+      "width": 1440,
+      "bytes": 1553414,
+      "sha256": "a4c08b868fea3caa340102b1806a634bd67e5e41f39b020cc236a3e7e526373d",
+      "height": 1440
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://pl.mova.tech/cdn/shop/files/x10-ksp-golden-01-pc.jpg?v=1767836283",
+      "width": 1440,
+      "bytes": 87651,
+      "sha256": "ba68348efdbb2021b5b58eb36b1c5df3aa9b1ed868dcaecc2e4fadfcf97f868d",
+      "height": 960
+    },
+    {
+      "file": "opis-02.png",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://pl.mova.tech/cdn/shop/files/x10-new-pc.png?v=1768961865",
+      "width": 2000,
+      "bytes": 1980056,
+      "sha256": "dcb4511170fcf5ba4684e8713266888f3839d40e2ba87ca0132b74fa09ecc2da",
+      "resized": "max 2000 px (PIL)",
+      "height": 1610
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://pl.mova.tech/cdn/shop/files/x10-ksp-anti-allergen-filter-03-pc.jpg?v=1767836282",
+      "width": 1440,
+      "bytes": 87227,
+      "sha256": "31a707005a91d91b3834324095a86af9c47ce2312096196c59090123dc819718",
+      "height": 960
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://pl.mova.tech/cdn/shop/files/x10-ksp-2-in-1-04-pc.jpg?v=1767836282",
+      "width": 1440,
+      "bytes": 146642,
+      "sha256": "3316f2621fc4dc7a497eef62d29bc4c7b2307a6de7b7aceece7cbaeaef7d60b9",
+      "height": 960
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://pl.mova.tech/cdn/shop/files/x10-ksp-stepless-05-pc.jpg?v=1767836282",
+      "width": 1440,
+      "bytes": 91207,
+      "sha256": "e91382245de56de6190fb8ba19bc2f60c6c14d948381a9eeb67184d217a98746",
+      "height": 960
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://pl.mova.tech/cdn/shop/files/x10-ksp-smart-06-pc.jpg?v=1767836281",
+      "width": 1440,
+      "bytes": 75247,
+      "sha256": "a70e2617d6dad07656bb6791951e7b61fa7684e8f7e96cbc31ab09d5913c2eb8",
+      "height": 960
+    },
+    {
+      "file": "opis-07.png",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://pl.mova.tech/cdn/shop/files/x10-smile-pc-text.png?v=1767855743",
+      "width": 1920,
+      "bytes": 1293782,
+      "sha256": "ccc26423582d5343003a4d9faa21664676ab0db931d33cf823ddef64a901634a",
+      "height": 1200
+    },
+    {
+      "file": "opis-08.png",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://pl.mova.tech/cdn/shop/files/x10-good-pc.png?v=1767836283",
+      "width": 1920,
+      "bytes": 825805,
+      "sha256": "1e97800bf694055f75063218bf68abd8baceeef2ec5c396c065422168eb68c88",
+      "height": 1200
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 13,
+      "sourceUrl": "dropshipping/materiały/logo/mova LOGO.jpg",
+      "width": 465,
+      "height": 93,
+      "bytes": 10729,
+      "sha256": "6b8f998719a788e8961f49e2a52b842cdc191818bc043342de49ef581515a541"
+    }
+  ],
+  "dropped": 0
+}
