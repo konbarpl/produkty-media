@@ -1,0 +1,100 @@
+{
+ "version": 1,
+ "generatedAt": "2026-09-05T15:57:40.117Z",
+ "sourcePage": "https://clinus.pl/pilarki/stiga/2275-stiga-pr-730-pilarka-spalinowa",
+ "slug": "stiga-pr-730",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "logo-stiga.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://clinus.pl/11757-large_default/stiga-pr-730-pilarka-spalinowa.webp",
+   "width": 800,
+   "bytes": 28686,
+   "sha256": "cb8a9771a5adfd6675d6e3ba4da47cc770b06c312813364a029527b49579469a",
+   "height": 800
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://clinus.pl/11758-large_default/stiga-pr-730-pilarka-spalinowa.webp",
+   "width": 800,
+   "bytes": 35030,
+   "sha256": "a712acd348dac5e76b0774713dbed14a798bc6bc6fd28d6a443597eb2de967c8",
+   "height": 800
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://clinus.pl/11759-large_default/stiga-pr-730-pilarka-spalinowa.webp",
+   "width": 800,
+   "bytes": 20048,
+   "sha256": "f79e0bf49a3053d548a8fa67b3dc5381fc7e88bd1b1b56af39d8258e5e0ff61b",
+   "height": 800
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://clinus.pl/11760-large_default/stiga-pr-730-pilarka-spalinowa.webp",
+   "width": 800,
+   "bytes": 28558,
+   "sha256": "636c64ef4e259d597507b9926a5af87f32d2b801bf2ff3986f6ae5760097b282",
+   "height": 800
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://clinus.pl/11761-large_default/stiga-pr-730-pilarka-spalinowa.webp",
+   "width": 800,
+   "bytes": 22378,
+   "sha256": "f9579a5cb7e537e3ca08bbd6b3816bfc2c87ddaf860e5012a229dca550ef9536",
+   "height": 800
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://clinus.pl/11762-large_default/stiga-pr-730-pilarka-spalinowa.webp",
+   "width": 800,
+   "bytes": 27758,
+   "sha256": "9879af0cd570c9b5dbfe98af760d2a6ead2b3a95dae97f41cc59b43d9fca1b98",
+   "height": 800
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://clinus.pl/11763-large_default/stiga-pr-730-pilarka-spalinowa.webp",
+   "width": 800,
+   "bytes": 32706,
+   "sha256": "0dccddf8ca4f5725da7ed7a2e4f77d5073301bee7e60da2c2f57651c773b4d49",
+   "height": 800
+  },
+  {
+   "file": "logo-stiga.jpg",
+   "kind": "logo",
+   "order": 8,
+   "sourceUrl": "dropshipping/materiały/logo/stiga logo.jpg",
+   "width": 425,
+   "height": 122,
+   "bytes": 7727,
+   "sha256": "1e6462ef9cb41437ad03723d1d4c5af7c78565f1f900bd6f76c9597449cb4e81"
+  }
+ ],
+ "dropped": 0,
+ "galleryOrderNote": " | logo-stiga.jpg na koncu (reguła logo marki w galerii, 2026-09-05)"
+}
