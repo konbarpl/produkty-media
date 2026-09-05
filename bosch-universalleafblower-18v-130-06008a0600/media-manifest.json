@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T12:58:57.342Z",
+  "sourcePage": "https://www.bosch-diy.com/pl/pl/p/universalleafblower-18v-130-06008a0600",
+  "slug": "bosch-universalleafblower-18v-130-06008a0600",
+  "galleryOrder": [
+    "produkt-11.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "produkt-09.png",
+    "produkt-10.png",
+    "produkt-12.png",
+    "opis-01.png",
+    "opis-02.png",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universalleafblower-18v-130-100057315-hires-png-rgb-oneux-402670_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 208498,
+      "sha256": "a6bce42b55f20640eb05552eb3a19f391fd48d72ef6d9d1c13ff1bc11ce29d27"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universalleafblower-18v-130-100057317-hires-png-rgb-oneux-407577_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 247722,
+      "sha256": "3f4880b50436b2fd948d1484982b9be22223a9e9baa489326ec1435c7bc06dd4"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universalleafblower-18v-130-100057317-hires-png-rgb-oneux-428616_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 1330800,
+      "sha256": "36fbe9119dcd738943fad429461d96e4c058edd0947a054ce127b79d7fc7fc07"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/narzedzia-akumulatorowe-18-v-2672555-hires-png-rgb-oneux-572089_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 1543122,
+      "sha256": "2671345be98593a3a1d6d6a121c1a9cf8c64c0a32f322ca074b66d21bef83160"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universalleafblower-18v-130-100057317-hires-png-rgb-oneux-433262_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 1877336,
+      "sha256": "265708db1a7b88283d4e8e94856ebf710b10e99df290a6bb7e554d98486ee074"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universalleafblower-18v-130-100057317-hires-png-rgb-oneux-404505_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 3690959,
+      "sha256": "bdbcf41759cf69cb786e9c0aef1e690c19f6c919e4fab83da2d567f6528a4aaf"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universalleafblower-18v-130-100057317-hires-png-rgb-oneux-404493_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 2080112,
+      "sha256": "dde889040c31bdf3b65a9bf49ed5946a940511c2992e60699412c6eca46d103d"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universalleafblower-18v-130-100057317-hires-png-rgb-oneux-404469_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 1972254,
+      "sha256": "7d4067d2fe9a02708a6f0a15d641ee9201e7414872b1519912089c05bc181424"
+    },
+    {
+      "file": "produkt-09.png",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universalleafblower-18v-130-100057317-hires-png-rgb-oneux-401468_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 2106500,
+      "sha256": "4b3ef9ca224f02549ba160ff35d00bfd2be5798bad3e403715d851d8399a5811"
+    },
+    {
+      "file": "produkt-10.png",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universalleafblower-18v-130-100057317-hires-png-rgb-oneux-404457_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 2701498,
+      "sha256": "df060537d9912912a4e42feab2d429519b61ec641a5e6f36123077593ac05861"
+    },
+    {
+      "file": "produkt-11.png",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/06008a0600-universalleafblower-18v-130-fcp-2000x2000px-v2-png-image-png_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 269728,
+      "sha256": "a0f3ddf9e59f937d527e7766d30f8cd517bb59c46139e265b4da20c8dd189ba3"
+    },
+    {
+      "file": "produkt-12.png",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universalleafblower18v-130-f016l79215-aa-3d-2000x2000px-png-image-png_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 558539,
+      "sha256": "8571aae2ee40ff01460a53bb8732360da5d4d0f8d38fc7d11592a4ef5860c353"
+    },
+    {
+      "file": "opis-01.png",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universalleafblower-18v-130-100057317-hires-png-rgb-oneux-404513_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 3078654,
+      "sha256": "ca9981ea994a09b92fab8154db741ddbdbcedcc9a14a1e2ad538744040607eee"
+    },
+    {
+      "file": "opis-02.png",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universalleafblower-18v-130-100057317-hires-png-rgb-oneux-404489_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 1997726,
+      "sha256": "64fb8ae91dd4d8ee1ad99f63534d062f6f488bfc63654652ee66f90e9062b2f9"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 15,
+      "sourceUrl": "repo mediów: bosch-advancedrotak-36v-44-750-06008b9g02/logo-bosch.jpg",
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "dropped": 0
+}
