@@ -28,7 +28,6 @@
   "opis-07.jpg",
   "opis-08.jpg",
   "opis-09.jpg",
-  "opis-10.jpg",
   "logo-01.jpg"
  ],
  "files": [
@@ -294,5 +293,11 @@
   }
  ],
  "dropped": 0,
- "galleryOrderNote": "Kuracja 2026-09-05 (ETAP 1): cale urzadzenie na start (produkt-09..12), baner CS 540 - 14 cali (opis-01), detale, lifestyle opis-02..10, logo Stiga na koncu. Wszystkie 25 zdjec zweryfikowane wzrokiem jako CS 540 (kontaktowka _tmp/stiga-cs-540/kontaktowka.jpg). height dopisane do kazdego pliku."
+ "galleryOrderNote": "Kuracja 2026-09-05 (ETAP 1): cale urzadzenie na start (produkt-09..12), baner CS 540 - 14 cali (opis-01), detale, lifestyle opis-02..10, logo Stiga na koncu. Wszystkie 25 zdjec zweryfikowane wzrokiem jako CS 540 (kontaktowka _tmp/stiga-cs-540/kontaktowka.jpg). height dopisane do kazdego pliku. | opis-10.jpg wyjete z galerii 2026-09-05: Erli odrzucil re-host.",
+ "droppedFiles": [
+  {
+   "file": "opis-10.jpg",
+   "reason": "Erli nie prze-hostowal (brak internalUrl >10 min po POST 2026-09-05) - usuniete z galerii, plik zostaje w repo"
+  }
+ ]
 }
