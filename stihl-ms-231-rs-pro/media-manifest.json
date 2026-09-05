@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T15:55:15.657Z",
+  "sourcePage": "https://clinus.pl/pilarki-spalinowe/stihl/6729-stihl-ms-231-pilarka-spalinowa-rs-pro",
+  "slug": "stihl-ms-231-rs-pro",
+  "galleryOrder": [
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-05.jpg",
+    "produkt-04.jpg",
+    "produkt-07.jpg",
+    "produkt-06.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-01.jpg",
+    "logo-stihl.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/STIHL/11432000678/3.jpg",
+      "width": 1000,
+      "bytes": 71042,
+      "sha256": "636556bba32473d014864ca608e0f11f2d0def78766cba5428a94bb0f5a4b960",
+      "height": 1000
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/STIHL/11432000678/5.jpg",
+      "width": 1000,
+      "bytes": 40892,
+      "sha256": "4ff2cd40b0d9319deef8843b1b9f89a12a7595212f9a7409955fcb7ea7067abc",
+      "height": 1000
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/STIHL/11432000678/7.jpg",
+      "width": 1000,
+      "bytes": 67594,
+      "sha256": "5923368033aea2e7794e384cb2ff9951726adce43399713a455052fe767f06e8",
+      "height": 1000
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/img/cms/STIHL/11432000678/6.jpg",
+      "width": 1000,
+      "bytes": 79516,
+      "sha256": "2814f8581335979ee9d5b460bb436daf78e23379f32dd44dbe4a48cfa33c271f",
+      "height": 1000
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/img/cms/STIHL/11432000678/9.jpg",
+      "width": 1000,
+      "bytes": 73387,
+      "sha256": "a192be6a7a7fec1a58e4bd20104c89e19da954a861c303e2a7a23fd9a45843d0",
+      "height": 1000
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/img/cms/STIHL/11432000678/wide-7.jpg",
+      "width": 1500,
+      "bytes": 278746,
+      "sha256": "5c8fa8d5e24aee3dcca8452f05615e92684d5354665cae1ff3f4dde39f686425",
+      "height": 1000
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/img/cms/STIHL/11432000678/10.jpg",
+      "width": 1000,
+      "bytes": 173175,
+      "sha256": "6d476a37bfe5bdba051de948010bbff1e9a08b1927b223cc6e92b8c245093008",
+      "height": 1000
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/img/cms/STIHL/11432000678/11.jpg",
+      "width": 1000,
+      "bytes": 181931,
+      "sha256": "f04154aa3e5813763aeffd71fbc7e3a55744330271a0380a75278ef3bdeb339b",
+      "height": 1000
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/img/cms/STIHL/11432000678/19.jpg",
+      "width": 1000,
+      "bytes": 186211,
+      "sha256": "a9bef9b9ee6b6d1f4eb9b67f69bf6529b8cb9c2bb1964305c160ad24ae88f722",
+      "height": 1000
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/img/cms/STIHL/11432000678/top-1.jpg",
+      "width": 1500,
+      "bytes": 195247,
+      "sha256": "2a8ce1d9d77c74f387c9d2cb3a74540e56650398923e565326bb2d06da08ed71",
+      "height": 1001
+    },
+    {
+      "file": "logo-stihl.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/stihl-fsa-50-ak10-al101/logo-stihl.jpg",
+      "width": 1536,
+      "height": 505,
+      "bytes": 46019,
+      "sha256": "1443cec591f41c6b55fe30adab346c7f3fb8de433e2ca059d5582a031b9d3d8c"
+    }
+  ],
+  "dropped": 0,
+  "note": "Kolejnosc galerii skurowana wzrokiem 2026-09-05 (kontaktowka): packshot 02 na czolo, baner 01 (nr kat.) na koniec przed logo; 4 zdjecia img/p/ karty to akcesoria - pominiete."
+}
