@@ -5,13 +5,17 @@
   "slug": "stihl-msa-220-tc-o",
   "galleryOrder": [
     "produkt-01.webp",
+    "produkt-16.webp",
+    "produkt-17.webp",
+    "produkt-18.webp",
     "produkt-02.webp",
+    "produkt-19.webp",
     "produkt-03.webp",
     "produkt-04.webp",
+    "produkt-08.webp",
     "produkt-05.webp",
     "produkt-06.webp",
     "produkt-07.webp",
-    "produkt-08.webp",
     "produkt-09.webp",
     "produkt-10.webp",
     "produkt-11.webp",
@@ -19,10 +23,6 @@
     "produkt-13.webp",
     "produkt-14.webp",
     "produkt-15.webp",
-    "produkt-16.webp",
-    "produkt-17.webp",
-    "produkt-18.webp",
-    "produkt-19.webp",
     "logo-stihl.jpg"
   ],
   "files": [
@@ -227,5 +227,6 @@
       "sha256": "1443cec591f41c6b55fe30adab346c7f3fb8de433e2ca059d5582a031b9d3d8c"
     }
   ],
-  "dropped": 0
+  "dropped": 0,
+  "galleryOrderNote": "Kuracja ETAP 1 (5.09.2026): 1 = packshot kompletu na bialym tle, dalej packshoty, potem detale i praca w koronie; logo marki na koncu."
 }
