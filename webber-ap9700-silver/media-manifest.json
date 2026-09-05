@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T13:40:16.378Z",
+  "sourcePage": "https://webber.com.pl/oczyszczacz-powietrza-webber-ap9700-wifi-silver,id53.html",
+  "slug": "webber-ap9700-silver",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "opis-15.jpg",
+    "opis-11.jpg",
+    "opis-14.jpg",
+    "opis-20.jpg",
+    "opis-16.jpg",
+    "opis-17.jpg",
+    "opis-18.jpg",
+    "opis-19.jpg",
+    "opis-25.jpg",
+    "opis-23.jpg",
+    "opis-01.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://webber.com.pl/img/products/53/1_max.jpg",
+      "width": 1200,
+      "bytes": 60710,
+      "sha256": "67125daa9992e192a334e2ac246982bb7720f2986bccefb0deb0fd1cde49323a"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://webber.com.pl/img/products/53/2_max.jpg",
+      "width": 1200,
+      "bytes": 70251,
+      "sha256": "f179f3479926bbbee0573cbb0fb6be6d9818ac7fcfde386684135c1e53c7e421"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://webber.com.pl/img/products/53/12_max.jpg",
+      "width": 1200,
+      "bytes": 122197,
+      "sha256": "40fc25c4128bcb0abc694f3c7ed055cce2f4b8954b53a18a939bd5a2a22ca7f4"
+    },
+    {
+      "file": "opis-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://webber.com.pl/img/products/53/15_max.jpg",
+      "width": 1200,
+      "bytes": 136726,
+      "sha256": "2c2d23ceeaa68fbb0ffa4d2da9152840dfdead6d452c7e5b6fe0e2d122a92b03"
+    },
+    {
+      "file": "opis-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://webber.com.pl/img/products/53/16_max.jpg",
+      "width": 1200,
+      "bytes": 70827,
+      "sha256": "34f49b6683e07c5c24a8fd867c25eefb26d29e8e6138d6f4017744b29b543b10"
+    },
+    {
+      "file": "opis-16.jpg",
+      "kind": "lifestyle",
+      "order": 16,
+      "sourceUrl": "https://webber.com.pl/img/products/53/17_max.jpg",
+      "width": 1200,
+      "bytes": 251412,
+      "sha256": "cebb9d3eb4958b435f58223d39deb74edc2bcbc42e006f7a3380a4219ab72e22"
+    },
+    {
+      "file": "opis-17.jpg",
+      "kind": "lifestyle",
+      "order": 17,
+      "sourceUrl": "https://webber.com.pl/img/products/53/18_max.jpg",
+      "width": 1200,
+      "bytes": 131029,
+      "sha256": "1bc160310dc634abda52826f105eec8a418ec3b43d6dc99c5e352441da4f9cb4"
+    },
+    {
+      "file": "opis-18.jpg",
+      "kind": "lifestyle",
+      "order": 18,
+      "sourceUrl": "https://webber.com.pl/img/products/53/19_max.jpg",
+      "width": 1200,
+      "bytes": 168034,
+      "sha256": "efe63302d62366c51f355fcc5aff7d6a71ff5473076fc8eb2915efe6a5f660ea"
+    },
+    {
+      "file": "opis-19.jpg",
+      "kind": "lifestyle",
+      "order": 19,
+      "sourceUrl": "https://webber.com.pl/img/products/53/20_max.jpg",
+      "width": 1200,
+      "bytes": 139559,
+      "sha256": "c1a23778ac1ac5e15e30e47b3f10a7820a669e2fe6d0d45d6dc8ca0794d33ec8"
+    },
+    {
+      "file": "opis-20.jpg",
+      "kind": "lifestyle",
+      "order": 20,
+      "sourceUrl": "https://webber.com.pl/img/products/53/21_max.jpg",
+      "width": 1200,
+      "bytes": 56260,
+      "sha256": "3649ae2feb0044583b3b6ec66dc394a2eb6c4f562783932eae1797d804cd5b10"
+    },
+    {
+      "file": "opis-23.jpg",
+      "kind": "lifestyle",
+      "order": 23,
+      "sourceUrl": "https://webber.com.pl/img/products/53/24_max.jpg",
+      "width": 1200,
+      "bytes": 81908,
+      "sha256": "f2c29276dd7b8401726de5e02fb294ee4a6ad75cf8d74e4fa5912be3c564140b"
+    },
+    {
+      "file": "opis-25.jpg",
+      "kind": "lifestyle",
+      "order": 25,
+      "sourceUrl": "https://webber.com.pl/img/products/53/26_max.jpg",
+      "width": 1200,
+      "bytes": 116816,
+      "sha256": "30c27eadc9bab493da1f58426cbfe33336e2655e222083b1e5b302a0a45c388e"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": null,
+      "order": null,
+      "sourceUrl": null,
+      "width": 396,
+      "bytes": null,
+      "sha256": null,
+      "height": 99,
+      "source": "dropshipping/materiały/logo/WEBBER LOGO.jpg",
+      "role": "logo"
+    }
+  ],
+  "dropped": 0,
+  "curatedAt": "2026-09-05",
+  "curationNote": "Usunięto 14 zdjęć: pokrywy Pop art/obrazy (akcesorium, nie w zestawie) i ujęcia białego wariantu WIFI (bramka koloru SILVER); logo Webber na końcu."
+}
