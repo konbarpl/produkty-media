@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T13:17:40.753Z",
+  "sourcePage": "https://www.kaercher.com/pl/home-garden/oczyszczacze-powietrza/af-50-10248220.html",
+  "slug": "karcher-af-50",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248220/mainproduct/194093/d0.jpg",
+      "width": 1600,
+      "bytes": 234428,
+      "sha256": "43defda47d765d0af1362ff6a400196b73ab13fb7c873b8ea0705ab4064e0030",
+      "height": 1600
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248220/detail/196794/d0.jpg",
+      "width": 1600,
+      "bytes": 269847,
+      "sha256": "8f00b23d4f0a3c86095f717c1a9a6e7ebe669b34e7957bbde8e74ca430cc2596",
+      "height": 2400
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248220/detail/196796/d0.jpg",
+      "width": 1600,
+      "bytes": 394360,
+      "sha256": "e9024f7106d3ae01efd5e41403aeb3198d3dd95f30022b7544d1527b392852ed",
+      "height": 1600
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248220/detail/196798/d0.jpg",
+      "width": 1600,
+      "bytes": 368212,
+      "sha256": "015836e8f71b2f767a8066f33adc2f4cd5725bd4c54593968766ee7e85316176",
+      "height": 1600
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248220/application/194095/d0.jpg",
+      "width": 1600,
+      "bytes": 361896,
+      "sha256": "5e1c2befcbef5e4060b11fa0f6e7e1bc727ebca860e910971735dcb504f34602",
+      "height": 1068
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248220/application/194096/d0.jpg",
+      "width": 1600,
+      "bytes": 708622,
+      "sha256": "fc8ec1a4a93f8890ff4fc3a5e766398593fdc334d4cc79c9beca2c86b19278c6",
+      "height": 1067
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248220/application/196417/d0.jpg",
+      "width": 1600,
+      "bytes": 530353,
+      "sha256": "ab88c4d71420e479e9519dec5b0327096331cd97bf5f7b26068680b5d51f507f",
+      "height": 1203
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248220/application/196418/d0.jpg",
+      "width": 1600,
+      "bytes": 573536,
+      "sha256": "b6f975c268fd64a696501ad5126d91ab07f5b0191bf310cb2edcfea1c735956b",
+      "height": 1200
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248220/application/197177/d0.jpg",
+      "width": 1600,
+      "bytes": 284494,
+      "sha256": "8ed911bca807b61ac6d3c689684b43a037aecf91fc0ebc423b92ae6584f9abae",
+      "height": 1200
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248220/application/197184/d0.jpg",
+      "width": 1600,
+      "bytes": 344905,
+      "sha256": "9fdf684c34e147c8754ce41a0184129874ca1ade28bd444e6766d4fab64c8490",
+      "height": 1200
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "dropshipping/materiały/logo/Karcher-Logo-2015-present.jpg",
+      "width": 467,
+      "height": 154,
+      "bytes": 12887
+    }
+  ],
+  "dropped": 0
+}
