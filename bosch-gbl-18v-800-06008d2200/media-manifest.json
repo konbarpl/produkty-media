@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T13:00:06.678Z",
+  "sourcePage": "https://www.bosch-professional.com/de/de/products/gbl-18v-800-06008D2200",
+  "slug": "bosch-gbl-18v-800-06008d2200",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-professional.com/de/de/ocsmedia/475829-54/application-image/full/akku-laubblaeser-pro-gbl-18v-800-06008d2200.png",
+      "width": 486,
+      "bytes": 37178,
+      "sha256": "2218d6fc05b0806942b098eb2d54408b2b7864d2ea3d9e52e79e58ad0d65f394"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-professional.com/de/de/ocsmedia/475807-54/application-image/full/akku-laubblaeser-pro-gbl-18v-800-06008d2200.png",
+      "width": 800,
+      "bytes": 33466,
+      "sha256": "d87a2d092c03af3b6b4a3a76d309fc37b9b740d4abf1576a91082340ff89a399"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-professional.com/de/de/ocsmedia/518178-117/application-image/full/akku-laubblaeser-pro-gbl-18v-800-06008d2200.jpg",
+      "width": 800,
+      "bytes": 92824,
+      "sha256": "bffeb1bcf075f01f786e234cfcb286dd9ed6674c57d03b780b060190eba6c374"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-professional.com/de/de/ocsmedia/518170-117/application-image/full/akku-laubblaeser-pro-gbl-18v-800-06008d2200.jpg",
+      "width": 800,
+      "bytes": 131351,
+      "sha256": "65274198a088c4c061301774e35b260ae5daac9bfc9cc476bd785150400a3ad8"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.bosch-professional.com/de/de/ocsmedia/518174-117/application-image/full/akku-laubblaeser-pro-gbl-18v-800-06008d2200.jpg",
+      "width": 800,
+      "bytes": 74391,
+      "sha256": "ab6f8aed895ae37c40d4a999bbe025c9014d7df15937a548c549b48f81501539"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.bosch-professional.com/de/de/ocsmedia/518166-117/application-image/full/akku-laubblaeser-pro-gbl-18v-800-06008d2200.jpg",
+      "width": 800,
+      "bytes": 49596,
+      "sha256": "b3255b8617f5edf5258676c1c28304aeb0ea52428433cd108822a9034d84a467"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.bosch-professional.com/de/de/ocsmedia/475804-117/dimensional-drawing-image/full/akku-laubblaeser-pro-gbl-18v-800-06008d2200.jpg",
+      "width": 800,
+      "bytes": 32234,
+      "sha256": "815cccba52fd5e86c7b718a43d7c85f690c13fc80d6926044d2e0cbf5fe2c4d5"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "repo mediów: bosch-advancedrotak-36v-44-750-06008b9g02/logo-bosch.jpg",
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "dropped": 0
+}
