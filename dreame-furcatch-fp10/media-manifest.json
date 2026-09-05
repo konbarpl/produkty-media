@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T13:17:22.635Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-58793-Oczyszczacz-powietrza-Dreame-Furcatch-FP10.html",
+  "slug": "dreame-furcatch-fp10",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/6b070d2ad584d63ebc2fd1651f61204b/pol_pl_Oczyszczacz-powietrza-Dreame-Furcatch-FP10-58793_6.webp",
+      "width": 800,
+      "bytes": 21770,
+      "sha256": "de8a405e2b7434c574e558b7187831b41a99326bdc4ea7a92728930eb7e840f4"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/47724cb0fb2593c165ef02542aec6ad4/pol_pl_Oczyszczacz-powietrza-Dreame-Furcatch-FP10-58793_7.webp",
+      "width": 800,
+      "bytes": 15950,
+      "sha256": "d0edbe4780ab7fcb91e37f08bbfaa0c825705db812ae637e577674f643a31f80"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/6f326bbf51935951b1a12e7a41c6dad5/pol_pl_Oczyszczacz-powietrza-Dreame-Furcatch-FP10-58793_8.webp",
+      "width": 800,
+      "bytes": 16570,
+      "sha256": "5c68759d9c7bb5c539f148a84949fee5422acd99b5870eb589273ddcd3709c6e"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/fb8d3cbdd1d0b3d52fc46582ab26578a/pol_pl_Oczyszczacz-powietrza-Dreame-Furcatch-FP10-58793_9.webp",
+      "width": 800,
+      "bytes": 16192,
+      "sha256": "86d8ad61a724492a6efd3f8ea8fb7cace0b42964d9ff8f83b6f3d5c691ad1fd3"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/949ad656fd5323e25e9852e934ec4264/pol_pl_Oczyszczacz-powietrza-Dreame-Furcatch-FP10-58793_10.webp",
+      "width": 800,
+      "bytes": 19806,
+      "sha256": "d71d7f472608b35e8b444ed469464fee17c2c284615817af094e59992a8dfd78"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/20114/26786/W%C5%82%C4%85czony%20oczyszczacz%20powietrza%20Dreame%20Furcatch%20FP10%20w%20pokoju.jpg",
+      "width": 1171,
+      "bytes": 92652,
+      "sha256": "3a608f8da3a65250062066ef9e796814354460dbadae3274740c2dbe633e7485"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/20114/26786/Kot%20i%20pies%20obok%20Oczyszczacza%20powietrza%20Dreame%20Furcatch%20FP10.jpg",
+      "width": 1171,
+      "bytes": 91916,
+      "sha256": "1b9839be2926d68f680abb54bd9f98ea4a9def6c59f98a9f8ced0b4cfb7e40c9"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/20114/26786/Rzut%20z%20g%C3%B3ry%20na%20pok%C3%B3j,%20w%20kt%C3%B3rym%20powietrze%20oczyszczane%20jest%20Oczyszczaczem%20powietrza%20Dreame%20Furcatch%20FP10.jpg",
+      "width": 1171,
+      "bytes": 68907,
+      "sha256": "7e67a638990fb0caf092991b921137d504cad6932ab44626796af96863b22655"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://assets.innpro.pl/20114/26786/Oczyszczacz%20powietrza%20Dreame%20Furcatch%20FP10%20w%20pokoju.jpg",
+      "width": 1171,
+      "bytes": 85618,
+      "sha256": "b2410621e430a091826b4a356e418eed328b32e96f4604b91d9375247593d384"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://assets.innpro.pl/20114/26786/baner_dreame_FP10.jpg",
+      "width": 1171,
+      "bytes": 98964,
+      "sha256": "237e4bc4fe908ef09e6a25e0908d04e0ad6dbe4489483f4b9bbcf60716484d1d"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "sourceUrl": "dropshipping/materiały/logo/1280px-Dreame_Logo.jpg",
+      "width": 775,
+      "bytes": 15201,
+      "name": "logo-producenta.jpg",
+      "role": "logo",
+      "height": 84,
+      "note": "logo marki Dreame - OSTATNIE zdjecie galerii (reguła G56)"
+    }
+  ],
+  "dropped": 6
+}
