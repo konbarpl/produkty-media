@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T12:58:33.515Z",
+  "sourcePage": "https://www.bosch-diy.com/pl/pl/p/universalgardentidy-3000-06008b1001",
+  "slug": "bosch-universalgardentidy-3000-06008b1001",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universal-gardentidy-3000-100052757-hires-png-rgb-oneux-339952_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 834130,
+      "sha256": "2a9ef3d57ff3297b93c46402f65819e6b3015aee3f3d385beabe3b053d6fe338"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universal-gardentidy-3000-100052757-hires-png-rgb-oneux-339962_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 784772,
+      "sha256": "3f3c6d5577d6029aa0ed1489eb8e4e547bd3d6f93f7e73a818c00b9d4716d874"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universal-gardentidy-3000-100052757-hires-png-rgb-oneux-300703_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 3030695,
+      "sha256": "3c726545a06d032994d32e4e0a8be22bf06bc244402fb1c8fc704a29d8717917"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universal-gardentidy-3000-100052757-hires-png-rgb-oneux-354948_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 3382531,
+      "sha256": "d7a2cf2a1966f4eb344afdd7fef14efa24f4de1c3f28a27fe446435fbcba399d"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universal-gardentidy-3000-100052757-hires-png-rgb-oneux-354955_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 3175422,
+      "sha256": "8239056d15bd67fcb7d8379debbb553cfd1fd8597e78d121ad71efe44d2d87bb"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universal-gardentidy-3000-100052757-hires-png-rgb-oneux-354949_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 3318705,
+      "sha256": "e11fe425d0d78b6866ab82c78fe53bbe597add72a9b074a622bb032a14c73b61"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/universalgardentidy3000-6082765jt0-aa-3d-2000x2000px-1-png-image-png_w_1500_h_1500.png",
+      "width": 2605,
+      "bytes": 518597,
+      "sha256": "d75e9ec050bfc3361312ff2554b89f9276ad4b6c05145b3c3b678c11f743cc3d"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "repo mediów: bosch-advancedrotak-36v-44-750-06008b9g02/logo-bosch.jpg",
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "dropped": 0
+}
