@@ -11,7 +11,8 @@
       "width": 800,
       "height": 800,
       "bytes": 30052,
-      "sourceUrl": "https://clinus.pl/31626-large_default/ladowarka-al-101-230-v.webp"
+      "sourceUrl": "https://clinus.pl/31626-large_default/ladowarka-al-101-230-v.webp",
+      "sha256": "193e874835a9f39181d9d1c3073a8a155a86fa23626971d04ecb00e2c35c0094"
     },
     {
       "file": "logo-stihl.jpg",
@@ -20,7 +21,8 @@
       "width": 1536,
       "height": 505,
       "bytes": 46019,
-      "sourceUrl": "dropshipping/produkty listy/produkty-media/stihl-ms-271/logo-stihl.jpg"
+      "sourceUrl": "dropshipping/produkty listy/produkty-media/stihl-ms-271/logo-stihl.jpg",
+      "sha256": "1443cec591f41c6b55fe30adab346c7f3fb8de433e2ca059d5582a031b9d3d8c"
     }
   ],
   "galleryOrder": [
