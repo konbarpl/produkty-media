@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T13:23:49.600474Z",
+  "sourcePage": "https://www.samsung.com/pl/air-care/air-purifier/ax5500-ap70f06103rgeu/",
+  "slug": "samsung-ap70f06103rgeu",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "produkt-09.png",
+    "produkt-10.png",
+    "produkt-11.png",
+    "produkt-12.png",
+    "produkt-13.png",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/ap70f06103rgeu/gallery/pl-ax5500-ap70f06103rgeu-549608196",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 1240685,
+      "sha256": "0956db3da2d805e18ad27d45258aad45779f4a6b6e63103ee4b17d4c1ccb599c"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/ap70f06103rgeu/gallery/pl-ax5500-ap70f06103rgeu-549608197",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 1247503,
+      "sha256": "5cd58594850ca28e57387622a7f3d6d85ce81a3d5d4654367b0c00857f4b5b8d"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/ap70f06103rgeu/gallery/pl-ax5500-ap70f06103rgeu-549608198",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 1222746,
+      "sha256": "eb00ab0c9e4e836a41801961223d8a8b04d49af6606464d669ea9aff11a1e5e0"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/ap70f06103rgeu/gallery/pl-ax5500-ap70f06103rgeu-549608199",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 598183,
+      "sha256": "2a6e3266540c56c451b63398738585ba9619ff69fdfd391a2f22653dad3633e8"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/ap70f06103rgeu/gallery/pl-ax5500-ap70f06103rgeu-549608200",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 1172321,
+      "sha256": "cc3d18f482418c8438277499e0cf529fb17d62665eb2a257fa2ba128fe7e127e"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/ap70f06103rgeu/gallery/pl-ax5500-ap70f06103rgeu-549608201",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 1192547,
+      "sha256": "30571662abc98ed8e9f610d840d85b5aa7237dbdfd52183ef29b6d6c77bddb09"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/ap70f06103rgeu/gallery/pl-ax5500-ap70f06103rgeu-549608202",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 1806764,
+      "sha256": "734f83394a194a8385dc48391b354da6378543f00dae3c50d9e71b06f9bd4c0b"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/ap70f06103rgeu/gallery/pl-ax5500-ap70f06103rgeu-549608203",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 1099504,
+      "sha256": "bb546f47d22e287356378f6aa01934fb911e87b2211105e3df4859735b6056eb"
+    },
+    {
+      "file": "produkt-09.png",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/ap70f06103rgeu/gallery/pl-ax5500-ap70f06103rgeu-549608204",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 1105616,
+      "sha256": "c842b8a3ec77a0d75c672534c1aac934179f13298682893f2c2897bd24eac9bc"
+    },
+    {
+      "file": "produkt-10.png",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/ap70f06103rgeu/gallery/pl-ax5500-ap70f06103rgeu-549608205",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 1105700,
+      "sha256": "01b152bbcdd8b1b3ed6deea86d0780b18291d4c459c454de2cd9a50234f1f36b"
+    },
+    {
+      "file": "produkt-11.png",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/ap70f06103rgeu/gallery/pl-ax5500-ap70f06103rgeu-549608206",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 1105785,
+      "sha256": "19b480193d8b2791ffadaaff01ce497c6b8b52d295c7e6346fa7249813bee83b"
+    },
+    {
+      "file": "produkt-12.png",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/ap70f06103rgeu/gallery/pl-ax5500-ap70f06103rgeu-549608207",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 1315566,
+      "sha256": "cb4d65831ca27779b3fc42e20b63b25278156c4b6277031c1511e10de97743fa"
+    },
+    {
+      "file": "produkt-13.png",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/ap70f06103rgeu/gallery/pl-ax5500-ap70f06103rgeu-549608221",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 1204323,
+      "sha256": "05d3adfa9b116858f061e2df5a784bae869703acb59f5e283c3800f81fafef74"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 14,
+      "sourceUrl": "repo mediów: samsung-jet-85s-vs70h25wpt/logo-samsung.jpg (dropshipping/materiały/logo/Samsung-Logo-2.png)",
+      "width": 1432,
+      "height": 577,
+      "bytes": 58906,
+      "sha256": "bcaf11800adb908c144fec0e1b7f5578fbd61a2da4de88fab71ae8955b6b3e71"
+    }
+  ],
+  "dropped": 0,
+  "note": "Scene7 PNG RGBA spłaszczone na białe tło (PIL) 2026-09-05; 13 packshotów producenta + logo marki na końcu."
+}
