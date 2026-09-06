@@ -16,7 +16,9 @@
       "order": 1,
       "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_32693_1200_1200/Sharp-KC-G60EUW-oczyszczacz-powietrza-przod.webp",
       "bytes": 18664,
-      "sha256": "d63ed1c56422e2e8e70f6f06b8a405a74907110eb03eda02aa0ff1893d5c0bd1"
+      "sha256": "d63ed1c56422e2e8e70f6f06b8a405a74907110eb03eda02aa0ff1893d5c0bd1",
+      "width": 1200,
+      "height": 1200
     },
     {
       "file": "produkt-02.webp",
@@ -24,7 +26,9 @@
       "order": 2,
       "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_32694_1200_1200/Sharp-KC-G60EUW-oczyszczacz-powietrza-widok-od-frontu.webp",
       "bytes": 12476,
-      "sha256": "1de3c66f4ecdafd80b1a7c5225d8c835dd296c61e1d381f2d55454a220457c1a"
+      "sha256": "1de3c66f4ecdafd80b1a7c5225d8c835dd296c61e1d381f2d55454a220457c1a",
+      "width": 1200,
+      "height": 1200
     },
     {
       "file": "produkt-03.webp",
@@ -32,7 +36,9 @@
       "order": 3,
       "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_32691_1200_1200/Sharp-KC-G60EUW-oczyszczacz-powietrza-filtry-powietrza.webp",
       "bytes": 56274,
-      "sha256": "380915740f748e97a0fbe0466be2a0676e60d39ef1858a5a49c66267379afaa2"
+      "sha256": "380915740f748e97a0fbe0466be2a0676e60d39ef1858a5a49c66267379afaa2",
+      "width": 1200,
+      "height": 1200
     },
     {
       "file": "logo-producenta.png",
@@ -40,7 +46,9 @@
       "order": 4,
       "sourceUrl": "repo lokalne: claude/erli-research/_tmp/g53-2026-09-06/logo-producenta.png",
       "bytes": 12109,
-      "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b"
+      "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b",
+      "width": 546,
+      "height": 161
     }
   ]
 }
