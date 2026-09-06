@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T12:05:47.691170Z",
+  "sourcePage": "https://www.sharpsklep.pl/oczyszczacz-sharp-iggc2eun-przenosny-p-212.html",
+  "slug": "sharp-ig-gc2eu-n",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "logo-producenta.png"
+  ],
+  "odrzucone": [
+    {
+      "file": "ceneo_2.jpg",
+      "powod": "baner marki Sharp z INNYM produktem (duzy oczyszczacz stacjonarny w salonie) - bramka tozsamosci"
+    },
+    {
+      "file": "ss_IGGC2EUN.jpg (sharpsklep 529x1037)",
+      "powod": "ten sam render packshotu co produkt-02, ciasniejszy kadr i nizsza rozdzielczosc - duplikat wizualny"
+    },
+    {
+      "file": "me_front_500.jpg",
+      "powod": "ten sam plik co produkt-01 w mniejszej rozdzielczosci"
+    }
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/72/7232908/Oczyszczacz-powietrza-SHARP-IGGC2EUN-front.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 59403,
+      "sha256": "7160e3f9cf7e370ce8fdb17012fa0c69fc7bf402c53ae5d6281111726c3aec60",
+      "note": "packshot na bialym tle, zlota obudowa wariantu -N, panel MODE z logo SHARP - miniaturka"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/120356826/i-sharp-samochodowy-oczyszczacz-powietrza-ig-gc2eu-n.jpg",
+      "width": 998,
+      "height": 1152,
+      "bytes": 52087,
+      "sha256": "eb3829f067fb7eb92e538857c1236da21e4ab062d73da921897018392ec8770d",
+      "note": "packshot z bliska pod katem - widoczne zebrowanie wlotu powietrza i okno Plasmacluster"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://image.ceneostatic.pl/data/products/120356826/675ed06b-412e-4c99-92fc-3c473a4ee3f1_i-sharp-samochodowy-oczyszczacz-powietrza-ig-gc2eu-n.jpg",
+      "width": 673,
+      "height": 985,
+      "bytes": 94176,
+      "sha256": "458c27933e62d42e6a8b75791d1f4345674c4e3d118ff3691fc200290bc25287",
+      "note": "plansza producenta PL: przeplyw powietrza, dwa katy nawiewu, zastosowania (samochod/praca/dom), filtr PM10"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "repo partii G53 (claude/erli-research/_tmp/g53-2026-09-06/logo-producenta.png)",
+      "width": 546,
+      "height": 161,
+      "bytes": 12109,
+      "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b",
+      "note": "logo marki Sharp - KONIEC galerii"
+    }
+  ],
+  "uwagi": [
+    "Zrodla sklepowe wariantu -N publikuja tylko JEDEN packshot studyjny (Media Expert, sharpsklep, Ceneo - ten sam render).",
+    "Avans.pl i idealnepowietrze.pl/4air.pl nie oddaly galerii (anti-bot / miekkie 404) - patrz raport ETAPU 1."
+  ]
+}
