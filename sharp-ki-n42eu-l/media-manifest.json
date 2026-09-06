@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T10:51:02.255427Z",
+  "sourcePage": "https://idealnepowietrze.pl/p/sharp-ki-n42eu-l/",
+  "slug": "sharp-ki-n42eu-l",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/KI-N42EU-L-1.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 9730,
+      "sha256": "ac0d451ae70ec0df20183c4a7cc2a8daad5ec8ddbd74fad6abfd151b7df12464"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/KI-N42EU-L-2.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 10218,
+      "sha256": "a5096b6e9d2b9c27951fba415d04074deb2182c011fcceb89736fb1cf7665b56"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/KI-N42EU-L-4.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 10745,
+      "sha256": "f7381b5917eab3faf5294bf591541e5464d4f73f8f6d481b9e8c319dc809255f"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/KI-N42EU-L-13.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 17903,
+      "sha256": "509418b0f76463c7a1c100114012c8821e6716be4ebf5c7a3ed8df332f7027b3"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/KI-N42EU-L-11.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 19941,
+      "sha256": "e4165665f325efe1beebaf62fea7f9b91877a6ac504c180199c6b4f0c873cfc9"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/KI-N42EU-L-12.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 14140,
+      "sha256": "6117decd2ecfa37b0367f0949001961254f265b6b165342029ed31eed457760d"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "lokalny plik logo Sharp (biale tlo) z paczki zwiadu G53",
+      "width": 546,
+      "height": 161,
+      "bytes": 12109,
+      "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b"
+    }
+  ]
+}
