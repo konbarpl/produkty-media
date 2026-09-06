@@ -1,0 +1,87 @@
+{
+ "version": 1,
+ "generatedAt": "2026-09-06T10:27:50.102544Z",
+ "sourcePage": "https://einhell.pl/produkt/dmuchawa-akumulatorowa-einhell-ge-lb-36-210-li-e-solo-3433620/",
+ "slug": "einhell-ge-lb-36-210-li-e-solo-3433620",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "logo-einhell.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433620_21021_001.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 66431,
+   "sha256": "f9b6c09f33cce00bb68c876fe9ab91cbf86f937ec553e5bb2d1eb93fe4402c1c"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433620_2.jpg",
+   "width": 1772,
+   "height": 1772,
+   "bytes": 342256,
+   "sha256": "1f5eee302afeb864d25a69f024242b146f00e6405ae21514a6e1a903659e50a7"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433620_5.jpg",
+   "width": 1772,
+   "height": 1772,
+   "bytes": 769859,
+   "sha256": "5590326e3bb79ae5315a8caed612d36692e2f3d777b92a95878ded63ab65f764"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433620_4.jpg",
+   "width": 1772,
+   "height": 1772,
+   "bytes": 122994,
+   "sha256": "bd56c461dc92bcd97bdd231a19dedc0fb75a4d9482f4a700d8f6718cc592d86f"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433620_6.jpg",
+   "width": 300,
+   "height": 225,
+   "bytes": 23531,
+   "sha256": "24c0560d48d6167432958f0fecddc470cd24ca959dc866426dc47b8709cfd176"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433620_3.jpg",
+   "width": 1772,
+   "height": 1558,
+   "bytes": 1444376,
+   "sha256": "55f6a37dbfb7f0f7ca1d463a6403fb40a8f5ec78ad75195def094d46d7e0b90d"
+  },
+  {
+   "file": "logo-einhell.jpg",
+   "kind": "logo",
+   "order": 7,
+   "sourceUrl": "dropshipping/materialy/logo/Einhell_Logo.png",
+   "width": 508,
+   "height": 98,
+   "bytes": 8310,
+   "sha256": "73927f032be5a1674cc0152acf3ff2b743d746f9b75eae76a65e2f335512fd0f"
+  }
+ ]
+}
