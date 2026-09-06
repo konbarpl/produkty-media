@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T10:43:42.431Z",
+  "sourcePage": "https://idealnepowietrze.pl/p/sharp-fp-s42eu-l/",
+  "slug": "sharp-fp-s42eu-l",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-05.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/FP-S42-正面.jpg",
+      "width": 1668,
+      "bytes": 2408792,
+      "sha256": "12f39ac6e8b8206e9ff8019cd1cc9601ddd3504dcc789f28f0cb199cf9e486e2"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/FP-S42-斜め.jpg",
+      "width": 1827,
+      "bytes": 2550534,
+      "sha256": "491b09a87f5b7588a016a8429a68fd6aedb903bcf224654917f46002fba4ca25"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/FPS42L-Hohe.jpg",
+      "width": 450,
+      "bytes": 76860,
+      "sha256": "9f47886a132ae10eb31df89addb5286d58a35167a3c4038baf1665d3e9c7d32d"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/FP-S42-CIS.jpg",
+      "width": 2304,
+      "bytes": 1476403,
+      "sha256": "2a088d44d0a69ceb641620d7e27a012546aef56b2b561c42a42271a024f728b0"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo mediow / logo Sharp na bialym tle (paczka G53 6.09.2026)",
+      "width": 0,
+      "bytes": 12109,
+      "sha256": ""
+    }
+  ],
+  "dropped": 5,
+  "note": "produkt-04.png (CU_42L transparent, 15 MB / 5543 px) usuniety - zbyt duzy plik na re-host Erli. Lifestyle z karty odrzucone przez harvester (ponizej 700 px)."
+}
