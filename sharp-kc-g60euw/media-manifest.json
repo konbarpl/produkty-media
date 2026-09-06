@@ -1,12 +1,17 @@
 {
-  "version": 1,
-  "generatedAt": "2026-09-06T13:59:19.397113+02:00",
-  "sourcePage": "https://4air.pl/oczyszczacz/sharp-kc-g60euw (+ euro.com.pl jako zapas)",
+  "version": 2,
+  "generatedAt": "2026-09-06T14:59:23.046074+02:00",
+  "sourcePage": "https://4air.pl/oczyszczacz/sharp-kc-g60euw (kadry 1-3) + https://www.euro.com.pl/oczyszczacze-powietrza/sharp-kc-g60euw.bhtml (kadry 4-8, CDN f00.esfr.pl, sufiks _5 = ORIGINAL_PHOTO)",
   "slug": "sharp-kc-g60euw",
   "galleryOrder": [
     "produkt-01.webp",
     "produkt-02.webp",
     "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
     "logo-producenta.png"
   ],
   "files": [
@@ -41,14 +46,91 @@
       "height": 1200
     },
     {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/7/37171866281/21cd0b1c64003e74a8574d2538679169/sharp-kc-g60euw,37171866281_5.webp",
+      "bytes": 6348,
+      "sha256": "3228a383b2caa555e90f2a7843f1282b4612715f268856581e52b76157f50880",
+      "width": 600,
+      "height": 600,
+      "note": "ujecie 3/4 z otwarta pokrywa zbiornika na wode"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/7/37171866281/deb134188fea2774e2b1150eb346fca5/sharp-kc-g60euw,37171866281_5.webp",
+      "bytes": 20772,
+      "sha256": "b0972df3871dfaf110137fc37a87372a1f4706fdc2427af43e4816b3824fac53",
+      "width": 600,
+      "height": 600,
+      "note": "zblizenie panelu sterowania z wyswietlaczem wilgotnosci"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/7/37171866281/9be88a6756e3071d29d1af37f55d4e7c/sharp-kc-g60euw,37171866281_5.webp",
+      "bytes": 16498,
+      "sha256": "db521d53b22465ab862f6d3251c130836d88842f9e919f24778509af96b63070",
+      "width": 600,
+      "height": 600,
+      "note": "tyl urzadzenia - wlot powietrza i tabliczka znamionowa"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/7/37171866281/3793e8c7646153d93e5de6028619a336/sharp-kc-g60euw,37171866281_5.webp",
+      "bytes": 34568,
+      "sha256": "0651e0214359256d4b5c0874d3042ee0cac581d6feb011746ed329146dce2d07",
+      "width": 600,
+      "height": 600,
+      "note": "filtr nawilzajacy (dysk) - element wymienny"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/7/37171866281/eb87db6f40eccec61676ba2a20604f3a/sharp-kc-g60euw,37171866281_5.webp",
+      "bytes": 11750,
+      "sha256": "a89c357c2725e992516cc777d7d8ea623c35f7b4bb5851ad7108dd5acf46b9df",
+      "width": 600,
+      "height": 600,
+      "note": "filtr HEPA + weglowy - wklad wymienny"
+    },
+    {
       "file": "logo-producenta.png",
       "kind": "logo",
-      "order": 4,
+      "order": 9,
       "sourceUrl": "repo lokalne: claude/erli-research/_tmp/g53-2026-09-06/logo-producenta.png",
       "bytes": 12109,
       "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b",
       "width": 546,
       "height": 161
+    }
+  ],
+  "odrzucone": [
+    {
+      "file": "4air productGfx_32692 (przod-jony-srebra, 1200x1200)",
+      "powod": "naklejka promocyjna sklepu \"JONY SREBRA GRATIS\" + plakietka atestu PZH na kadrze - bramka nr 2"
+    },
+    {
+      "file": "euro h1df7fd72... _5 (398x768)",
+      "powod": "nietypowy waski kadr o niskiej jakosci, produkt nieczytelny"
+    },
+    {
+      "file": "euro h5a7db95a... _5 (600x600)",
+      "powod": "filtr wstepny - trzeci kadr filtra z rzedu, powiela temat kadrow 7-8"
+    },
+    {
+      "file": "euro h8a5e69f7... _5 (600x600)",
+      "powod": "nieczytelne zblizenie zawiasu boku obudowy - nie niesie informacji"
+    },
+    {
+      "file": "euro hed18d2e2... _5 (600x600)",
+      "powod": "urzadzenie z wysunietymi filtrami - powiela temat kadru produkt-03"
     }
   ]
 }
