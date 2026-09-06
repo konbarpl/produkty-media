@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T10:25:17.378942Z",
+  "sourcePage": "https://einhell.pl/produkt/dmuchawa-uniwersalna-aku-ge-ub-18-250-li-e-1x40ah-3433560/",
+  "slug": "einhell-ge-ub-18-250-li-e-3433560",
+  "model": "GE-UB 18/250 Li E (3433560)",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-einhell.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://einhell.pl/wp-content/uploads/2025/09/3433560_1.jpg",
+      "width": 1772,
+      "height": 1772,
+      "bytes": 141175,
+      "sha256": "8f6e0df466e3a68ed24f262a3a067f79d19435e3664ee402a947cc5cc5f71fb9"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://einhell.pl/wp-content/uploads/2025/09/3433560_2.jpg",
+      "width": 1772,
+      "height": 1772,
+      "bytes": 197036,
+      "sha256": "390eb2548c2c33fe0a8e377e53bf08da1826cfb3381e234a9b97521d0e3a705a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://einhell.pl/wp-content/uploads/2025/09/3433560_3.jpg",
+      "width": 1772,
+      "height": 1772,
+      "bytes": 244442,
+      "sha256": "c9bd28a332b9240729a9bd7b1e894cb867a324794f185fa7e00f4e4dd422fc4c"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://einhell.pl/wp-content/uploads/2025/09/3433560_4.jpg",
+      "width": 1772,
+      "height": 1181,
+      "bytes": 3267436,
+      "sha256": "7ae09a7fcfbe526be06ee1a6bbe758cef0f62e7fcb8c76b8327245525b05f615"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://einhell.pl/wp-content/uploads/2025/09/3433560_5.jpg",
+      "width": 1772,
+      "height": 1181,
+      "bytes": 1754754,
+      "sha256": "a490d2248e0ebb996430053dc220e5c239274553bc3d539e90a59b7b916b457c"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://einhell.pl/wp-content/uploads/2025/09/3433560_6.jpg",
+      "width": 1772,
+      "height": 1181,
+      "bytes": 2502512,
+      "sha256": "13c6f34cd1968e8358e24fb36194cfdb4343125e48f55bcfcfa3c02c42af0f4b"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://einhell.pl/wp-content/uploads/2025/09/3433560_7.jpg",
+      "width": 1772,
+      "height": 1772,
+      "bytes": 124482,
+      "sha256": "0649dfd5dac4a8e247d90691bf2c8b7cdfd5ef679740ab54b566008c6f5aba76"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://einhell.pl/wp-content/uploads/2025/09/3433560_8.jpg",
+      "width": 1772,
+      "height": 1772,
+      "bytes": 102930,
+      "sha256": "60844dce6724fe30c60b1873f2116d8d94ab87b7bbf7d90140a40f54e74490ca"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://einhell.pl/wp-content/uploads/2025/09/3433560_9.jpg",
+      "width": 1772,
+      "height": 1772,
+      "bytes": 78318,
+      "sha256": "3fd4684f770bcc93062bb0a3cb77435b6a9a7426c17419bfe59b437dcf877687"
+    },
+    {
+      "file": "logo-einhell.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "local:dropshipping/materiały/logo/Einhell_Logo.png",
+      "width": 508,
+      "height": 98,
+      "bytes": 7259,
+      "sha256": "a23c52ae6d6745d70be36f79eb0a307d4b33c2e8a0d193a55ffcbddf38bed9a8"
+    }
+  ]
+}
