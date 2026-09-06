@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T10:58:33.993Z",
+  "sourcePage": "https://www.sharpconsumer.com/air-purifier/hd50el/ + https://4air.pl/oczyszczacz/sharp-ua-hd50e-l",
+  "slug": "sharp-ua-hd50e-l",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_16935_1500_1500/SHARP-UA-HD50E-L-oczyszczacz-powietrza.jpg",
+      "width": 1125,
+      "bytes": 40902,
+      "sha256": "855b6949c16b18c627ec14857e619de1f68011f13cb94b81538bed92095c84db"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_16937_1500_1500/SHARP-UA-HD50E-L-oczyszczacz-powietrza.jpg",
+      "width": 1125,
+      "bytes": 49194,
+      "sha256": "d74a2c7942d0e6355f8e2be56433abb05e2985452f764d196d5b4ccd70641a8b"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/f_auto,q_auto,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/03a14a14-e198-11ea-afe4-5a6a6b6d042a.jpg",
+      "width": 1600,
+      "bytes": 29580,
+      "sha256": "8f9ce401061969ddc680f4aa8decb30dd38281f52b717d9e18441f50d9d9eaba"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_16936_1500_1500/SHARP-UA-HD50E-L-oczyszczacz-powietrza.jpg",
+      "width": 1125,
+      "bytes": 118601,
+      "sha256": "0d152dedf938d4f3f76525bd9106c87278d2c1eb6e09d3412c11a6a5e3c5cbca"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_16939_1500_1500/SHARP-UA-HD50E-L-oczyszczacz-powietrza.jpg",
+      "width": 1125,
+      "bytes": 60868,
+      "sha256": "bd4f83430648b2ae023c1715bb8736cb901e0663e13628f1fda371a51886bafc"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_16941_1500_1500/SHARP-UA-HD50E-L-oczyszczacz-powietrza.jpg",
+      "width": 1125,
+      "bytes": 68180,
+      "sha256": "901b0507a394c7e442713702b1c8f1125a2791ee5654ee2e827e6e1498cda274"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_16942_1500_1500/SHARP-UA-HD50E-L-oczyszczacz-powietrza.jpg",
+      "width": 1125,
+      "bytes": 65579,
+      "sha256": "62bf11d8a970ecb273c3550e67b032cd2e970c6d798bfa52832e24cbb5b8d1a2"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_16944_1500_1500/SHARP-UA-HD50E-L-oczyszczacz-powietrza.jpg",
+      "width": 1125,
+      "bytes": 102683,
+      "sha256": "52c7c1b640187fd1fcfb91b8a955d34327284b97729b67f3c52e086c7be2fc76"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/f_auto,q_auto,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/4ecd755c-6926-11ea-8e3c-7ab40277f25b.jpg",
+      "width": 1600,
+      "bytes": 121550,
+      "sha256": "6ab96a998915e080bcaf5d7d8db7222300815012aa197936ed3facf0346c8257"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/f_auto,q_auto,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/54587b24-6926-11ea-b703-426ee1987265.jpg",
+      "width": 1600,
+      "bytes": 123501,
+      "sha256": "620c1f4e19fc445b164d70fe54f285dfdf61b9bc5be692fd57e26e44acadd5f0"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/f_auto,q_auto,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/406c1f02-6926-11ea-a5e9-426ee1987265.jpg",
+      "width": 1600,
+      "bytes": 77705,
+      "sha256": "97f4a7a1b3d442ad97c7a854c6ac84cbfb5159651abe88a731e1d242578015ee"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://sklep614906.shoparena.pl/userdata/public/gfx/16928.jpg",
+      "width": 2048,
+      "bytes": 168319,
+      "sha256": "36a12a33ebe3079e46e59b454442e3c372594223ada0af0f2192aa79e3b4b8b0"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://sklep614906.shoparena.pl/userdata/public/gfx/16929.jpg",
+      "width": 2048,
+      "bytes": 109994,
+      "sha256": "95702c3f0459d4530787a12e81a0f99fa4f6758a94f60cd938cb25893a4ac4db"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://sklep614906.shoparena.pl/userdata/public/gfx/16932.jpg",
+      "width": 2048,
+      "bytes": 157122,
+      "sha256": "1a75882d524eb9a07dff82ea3eb82baa6876832deb61d5cd298e3ff91b9b3d4b"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://sklep614906.shoparena.pl/userdata/public/gfx/16934.jpg",
+      "width": 2048,
+      "bytes": 198572,
+      "sha256": "68a4af179fd8d2e808563a68d17851d9415931a4d4c861dcc2c1b4056c368b6a"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/f_auto,q_auto,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/54a43050-6860-11ea-901f-9a88a1878046.jpg",
+      "width": 1600,
+      "bytes": 125963,
+      "sha256": "e5341e47cf66732e062bd68aff611a779cf55b4c0c7bfbc3aed723f5da199c07"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/f_auto,q_auto,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/e0f69af4-685f-11ea-bf2c-9a88a1878046.jpg",
+      "width": 1600,
+      "bytes": 102360,
+      "sha256": "3905ff47c67e990261c26f6965574c376e59b6615e6ff2343cbad646488d10c7"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "lokalne logo marki (zwiad G53 2026-09-06)",
+      "width": 0,
+      "bytes": 12109,
+      "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b"
+    }
+  ],
+  "dropped": 0
+}
