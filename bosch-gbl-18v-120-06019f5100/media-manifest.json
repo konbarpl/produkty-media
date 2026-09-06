@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T13:00:09.283Z",
+  "sourcePage": "https://www.bosch-professional.com/pl/pl/products/gbl-18v-120-06019F5100",
+  "slug": "bosch-gbl-18v-120-06019f5100",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/291710-54/application-image/full/dmuchawa-akumulatorowa-pro-gbl-18v-120-06019f5100.png",
+      "width": 800,
+      "bytes": 15066,
+      "sha256": "dc6aaaefdd7262c68bbbc641952f595037a4798f84e25bca0ea19ca0d057bd81"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/261436-54/application-image/full/dmuchawa-akumulatorowa-pro-gbl-18v-120-06019f5100.png",
+      "width": 667,
+      "bytes": 29960,
+      "sha256": "590b25e89146ea79f65979733b5fa47539bbb64ffc1beec8604f01e94cf9c189"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/479679-117/application-image/full/dmuchawa-akumulatorowa-pro-gbl-18v-120-06019f5100.jpg",
+      "width": 800,
+      "bytes": 60339,
+      "sha256": "fffcdd4ab7f673cc2d7db52c9368ad1e5f77caeece86fa29abc9ce2ee5b30255"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/261437-117/dimensional-drawing-image/full/dmuchawa-akumulatorowa-pro-gbl-18v-120-06019f5100.jpg",
+      "width": 458,
+      "bytes": 16397,
+      "sha256": "c99b83c7ae1a3f21fcb179158a7df333d064db0f7843082bfd6c68c2bee2b494"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 5,
+      "sourceUrl": "repo mediów: bosch-advancedrotak-36v-44-750-06008b9g02/logo-bosch.jpg",
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "dropped": 0
+}

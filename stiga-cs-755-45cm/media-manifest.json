@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T15:58:41.210Z",
+  "sourcePage": "https://clinus.pl/pilarki/stiga/2104-stiga-cs-755-pilarka-spalinowa-45-cm",
+  "slug": "stiga-cs-755-45cm",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "produkt-15.webp",
+    "produkt-16.webp",
+    "opis-01.png",
+    "opis-02.png",
+    "opis-03.png",
+    "opis-04.jpg",
+    "opis-05.png",
+    "opis-06.png",
+    "opis-07.png",
+    "opis-08.png",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/10292-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 23496,
+      "sha256": "a77f21acdbffcd41d5280ac4e8c2d22d206994e9a6c0013f7dc4d42c2de7325f",
+      "height": 800
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/10293-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 21224,
+      "sha256": "2937d36c4f130f65b5ba418a4c06aec8605d0ec69a6f99741b8dbfe986cf0281",
+      "height": 800
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/10294-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 25070,
+      "sha256": "fe310e8c5d2d74e1e0d426151838d8226a54ee074f6a6ce6e139f764978dbdaf",
+      "height": 800
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/10295-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 18740,
+      "sha256": "8bde450916aa1c9c4583b36edfa53b645d450019115ab3fcf21a28763b02f86e",
+      "height": 800
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/10296-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 29934,
+      "sha256": "e41510ffe7f845e37900ddd90e3ba6d9a2fb693e5ccef17dac33bd29e142ad24",
+      "height": 800
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/10297-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 20394,
+      "sha256": "729e215d1c9989d2e281352fed4aa11a580e4f93d3ba424baa1067dba9df5040",
+      "height": 800
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/10298-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 16992,
+      "sha256": "d605640898896b8787fc80f51a744f7459dd03296f0283dbc0819a24ff42525e",
+      "height": 800
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/10299-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 19774,
+      "sha256": "a75d91c07118f17176a71f8f70d536af8fe6f5becac3e96ea673170cb3e9a903",
+      "height": 800
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/10300-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 26872,
+      "sha256": "bd39852258c1cf667a540ad36e4fca720d74d679d83778f31cfd7467b801fa09",
+      "height": 800
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/10301-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 20924,
+      "sha256": "5c44afcd841d16b8be24d3890190b42951605c27ed467bc22874e0e4f2270b3f",
+      "height": 800
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/10302-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 18304,
+      "sha256": "b31cd929df66506a74c5fff4d7c8e1502862843ad313bf643bac3603aa1fe124",
+      "height": 800
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/10303-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 19504,
+      "sha256": "c21ca80a8dac7d5158a4b9605e1a2a895373de15ffe92d0e93d4439603a2598f",
+      "height": 800
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/10304-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 21948,
+      "sha256": "f253805c74726d1e28e0be185b6cdf45c716c4ec74d2c560256126ee771fb426",
+      "height": 800
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/10305-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 27542,
+      "sha256": "cc5a0b41898132f7e58fde320b97fc4eb4a059ed2cba4d5f6b297243158fe623",
+      "height": 800
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/10306-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 26372,
+      "sha256": "ba9adc1cbdfe6a8a6431d8c14735263dee184be628bd9ea71b924c8a3ef4d7b7",
+      "height": 800
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/10307-large_default/stiga-cs-755-pilarka-spalinowa-45-cm.webp",
+      "width": 800,
+      "bytes": 22912,
+      "sha256": "ae85086f7e4bc9cf3051a38528c9d66c8ee4e56719fc2945145bda8327ef4808",
+      "height": 800
+    },
+    {
+      "file": "opis-01.png",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/pilarka/240521802_st1/pilarka-stiga-baner.png",
+      "width": 1880,
+      "bytes": 366860,
+      "sha256": "33967aa20789727b4b1f1dae63a80606ebd308e128e2062f7e388e3ba3a37566",
+      "height": 325
+    },
+    {
+      "file": "opis-02.png",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/pilarka/240521802_st1/innowacyjna-pilarka-spalinowa-stiga.png",
+      "width": 940,
+      "bytes": 239332,
+      "sha256": "0cc41b350873d71d386b9c1ac1eb0096d743e7f004968c0a2b356331a9789c0c",
+      "height": 445
+    },
+    {
+      "file": "opis-03.png",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/pilarka/240521802_st1/mocna-pilarka-spalinowa-stiga.png",
+      "width": 940,
+      "bytes": 309738,
+      "sha256": "c6949fe05bb40f0a3fc4e388ebb2e0dae8a5ad17a7412bcf14edbe44bb662f04",
+      "height": 535
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/pilarka/240521802_st1/mocny-silnik-pilarki-stiga.jpg",
+      "width": 940,
+      "bytes": 51903,
+      "sha256": "8b80b64666bafcdc735d260ac1f07636167a439ed29bd15e7d9b597a6498271a",
+      "height": 627
+    },
+    {
+      "file": "opis-05.png",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/pilarka/240521802_st1/pilarka-stiga-hamulec-reczny.png",
+      "width": 940,
+      "bytes": 402817,
+      "sha256": "573922a7a820271e5364da54c7b944c2cb40494d7dc0a88c9d1e6cf7898c001b",
+      "height": 627
+    },
+    {
+      "file": "opis-06.png",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/pilarka/240521802_st1/miekki-ergonomiczny-uchwyt.png",
+      "width": 940,
+      "bytes": 404588,
+      "sha256": "f357a6db52d4d9a59046ec14db44a6694d23193dd688a96226783549c94ccbbf",
+      "height": 627
+    },
+    {
+      "file": "opis-07.png",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/pilarka/240521802_st1/stiga-system-szybkiego-zwalniania.png",
+      "width": 940,
+      "bytes": 429745,
+      "sha256": "ebb58e555140fe12bfb0b3cb7147c8c8b0fce22b4bc9e8343c43fb1001ad83f2",
+      "height": 627
+    },
+    {
+      "file": "opis-08.png",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/img/cms/clinus/urzadzenia-domowe/pilarka/240521802_st1/korek-wlewu-oleju-stiga.png",
+      "width": 940,
+      "bytes": 394499,
+      "sha256": "36449f9cc7bfb5db99b85dc11abffdbf27346ca50866006326e446a6e945ad1c",
+      "height": 627
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 25,
+      "sourceUrl": "dropshipping/materiały/logo/stiga logo.jpg (logo marki STIGA, wiedza/reference_logo_marek.md)",
+      "width": 425,
+      "height": 122,
+      "bytes": 5354,
+      "sha256": "7f23ef9d3a5e17cf081e5a2c45e47d9619ce994ad0030495f0d1e67db9892126"
+    }
+  ],
+  "dropped": 0
+}

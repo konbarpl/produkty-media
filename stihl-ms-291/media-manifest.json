@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T16:24:29.515Z",
+  "sourcePage": "https://clinus.pl/pilarki-spalinowe/stihl/9174-stihl-ms-291-pilarka-spalinowa",
+  "slug": "stihl-ms-291",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "logo-stihl.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/82182-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 36878,
+      "sha256": "6186909ad25b7e4dad7fec0eadf3296142a07b78a6204e827fbc06859249e525",
+      "height": 800
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/82183-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 75012,
+      "sha256": "381358d1f4c43e31702919de1bb30066b03b018b81527fe71858c0f0eeac8831",
+      "height": 800
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/82184-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 129336,
+      "sha256": "a9ce728d9f31ec8307623050da1ea2db25958caf651400a8a9424e09598d2775",
+      "height": 800
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/82185-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 195354,
+      "sha256": "f3b3f7b8260939a111e1847753d64be3ba2d9f0326d08be7b90225d1b76e1271",
+      "height": 800
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/82186-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 134822,
+      "sha256": "d71efe3f74ff039102c19890f428f40d24e8d34f5058c6315c52dd197209dc58",
+      "height": 800
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/82187-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 171458,
+      "sha256": "12c4611c073fe2acc81ecf7b569ec8ac33b3bdc90061bb0ad9fd7f59e83bdf0d",
+      "height": 800
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/82188-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 81884,
+      "sha256": "82691de7e0c0b890476681602b5e20d41905d2d2362954a875654739dfd61f6e",
+      "height": 800
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/82189-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 27926,
+      "sha256": "667a81086ec7f349063e56f6476c87e554cacca895fe6c1c9a5e4e0b75e8f0c5",
+      "height": 800
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/82190-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 24258,
+      "sha256": "2276a32d1c65bc5eeb119600a4748cf71518e1c909a8caf47895c5da33cb80d9",
+      "height": 800
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/82191-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 27878,
+      "sha256": "c20eb192ce0393e644546a094b1fc44821ec6b27664e697163cf515231161d70",
+      "height": 800
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/82192-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 31568,
+      "sha256": "b88c19a550ce9d9f85390a20b11119fb5dc36423f7ca64ef08c807ce68a2f75d",
+      "height": 800
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/82193-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 17758,
+      "sha256": "6060bce87bebd29413fd903c91b46b750dc751aff1ce0649cec10d2df5578b80",
+      "height": 800
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/82194-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 26878,
+      "sha256": "ed2b256dff282d357509fbf159657a976c37a10d523fb083c992199d90c0d4bd",
+      "height": 800
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/82195-large_default/stihl-ms-291-pilarka-spalinowa.webp",
+      "width": 800,
+      "bytes": 154868,
+      "sha256": "5a8f9dfeaf358e4050a7cadd5af78fe70fb0594c68e17317533840612f968d9f",
+      "height": 800
+    },
+    {
+      "file": "logo-stihl.jpg",
+      "kind": "logo",
+      "order": 15,
+      "sourceUrl": "kopia z dropshipping/produkty listy/produkty-media/stihl-ms-271/logo-stihl.jpg (repo mediow, logo marki STIHL)",
+      "width": 1536,
+      "height": 505,
+      "bytes": 46019,
+      "sha256": "1443cec591f41c6b55fe30adab346c7f3fb8de433e2ca059d5582a031b9d3d8c"
+    }
+  ],
+  "dropped": 0
+}

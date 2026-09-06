@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T13:18:16.909Z",
+  "sourcePage": "https://pl.mova.tech/products/mova-puris-p10-pet-air-purifier",
+  "slug": "mova-puris-p10",
+  "galleryOrder": [
+    "produkt-01.png",
+    "opis-01.png",
+    "opis-02.png",
+    "opis-03.png",
+    "opis-04.png",
+    "opis-05.png",
+    "opis-06.png",
+    "opis-07.png",
+    "opis-08.png",
+    "opis-09.png",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0884/2746/2949/files/P10-product-face.png?v=1771997645&width=2000",
+      "width": 1790,
+      "bytes": 1423577,
+      "sha256": "3a30821c478a1cb9537716cef6b936e1d07e0d373e6fbf18fa0c52eb375b47d6",
+      "height": 1790,
+      "note": "spłaszczone na białe tło + kadr do zawartości (PIL, 5.09.2026); źródło PNG z przezroczystością"
+    },
+    {
+      "file": "opis-01.png",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0884/2746/2949/files/P10-product-right-01.png?v=1771997645&width=2000",
+      "width": 1027,
+      "bytes": 453772,
+      "sha256": "7a1288832189e90ad4a9acdcabe4fbf4e50bfc144e796e6b55cc006adedefe01",
+      "height": 1027,
+      "note": "spłaszczone na białe tło + kadr do zawartości (PIL, 5.09.2026); źródło PNG z przezroczystością"
+    },
+    {
+      "file": "opis-02.png",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0884/2746/2949/files/P10-product-back.png?v=1771997645&width=2000",
+      "width": 1009,
+      "bytes": 433658,
+      "sha256": "5587d6624153f4be59732f7fe156b67e4bc7d94932f4d941044410712f08e547",
+      "height": 1009,
+      "note": "spłaszczone na białe tło + kadr do zawartości (PIL, 5.09.2026); źródło PNG z przezroczystością"
+    },
+    {
+      "file": "opis-03.png",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0884/2746/2949/files/P10-product-left-01.png?v=1771997644&width=2000",
+      "width": 1030,
+      "bytes": 436053,
+      "sha256": "5133155c839df6b28dbf994f3a287bfb6812f5d0a3d493286df15bca3884a9e8",
+      "height": 1030,
+      "note": "spłaszczone na białe tło + kadr do zawartości (PIL, 5.09.2026); źródło PNG z przezroczystością"
+    },
+    {
+      "file": "opis-04.png",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0884/2746/2949/files/P10-product-face-01.png?v=1771997645&width=2000",
+      "width": 1020,
+      "bytes": 433952,
+      "sha256": "0547f6f93c697186fc73156bbb116f2ca8301cf607d9dbfb421bd18f27dc5ccc",
+      "height": 1020,
+      "note": "spłaszczone na białe tło + kadr do zawartości (PIL, 5.09.2026); źródło PNG z przezroczystością"
+    },
+    {
+      "file": "opis-05.png",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0884/2746/2949/files/P10-product-back-01.png?v=1771997644&width=2000",
+      "width": 887,
+      "bytes": 353268,
+      "sha256": "a54433257f331bcf9e51eb0f4c619b457a3c1148435c6387d825e08a68a4a72d",
+      "height": 887,
+      "note": "spłaszczone na białe tło + kadr do zawartości (PIL, 5.09.2026); źródło PNG z przezroczystością"
+    },
+    {
+      "file": "opis-06.png",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0884/2746/2949/files/P10-product-detail-01.png?v=1771997640&width=2000",
+      "width": 959,
+      "bytes": 601118,
+      "sha256": "aab85afaaa59bbc17cf8a9d6f7b5bd7bee03fa93d11249c9a527950041baa8d0",
+      "height": 959,
+      "note": "spłaszczone na białe tło + kadr do zawartości (PIL, 5.09.2026); źródło PNG z przezroczystością"
+    },
+    {
+      "file": "opis-07.png",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0884/2746/2949/files/P10-product-detail-02.png?v=1771997642&width=2000",
+      "width": 1015,
+      "bytes": 820036,
+      "sha256": "402c1133b7d4bf58339cf9d6f69d9486f0dd4775aee23528cb789c521c50bb0a",
+      "height": 1015,
+      "note": "spłaszczone na białe tło + kadr do zawartości (PIL, 5.09.2026); źródło PNG z przezroczystością"
+    },
+    {
+      "file": "opis-08.png",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0884/2746/2949/files/P10-product-detail-light.png?v=1771997643&width=2000",
+      "width": 1072,
+      "bytes": 757549,
+      "sha256": "b605d7322055634527cae92578c77692a5e24c839dbe5c92a9890363312ebbde",
+      "height": 1072,
+      "note": "spłaszczone na białe tło + kadr do zawartości (PIL, 5.09.2026); źródło PNG z przezroczystością"
+    },
+    {
+      "file": "opis-09.png",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0884/2746/2949/files/P10-product-face-light.png?v=1771997645&width=2000",
+      "width": 1063,
+      "bytes": 448957,
+      "sha256": "aa5e5f4ff4d2300c7976833b85d1e9a57a854dd18c94a64e147b84c36f4902f5",
+      "height": 1063,
+      "note": "spłaszczone na białe tło + kadr do zawartości (PIL, 5.09.2026); źródło PNG z przezroczystością"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 1,
+      "sourceUrl": "dropshipping/materiały/logo/mova LOGO.jpg",
+      "width": 465,
+      "height": 93,
+      "bytes": 10729,
+      "sha256": "6b8f998719a788e8961f49e2a52b842cdc191818bc043342de49ef581515a541"
+    }
+  ],
+  "dropped": 0
+}

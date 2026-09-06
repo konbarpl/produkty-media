@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T16:24:14.097Z",
+  "sourcePage": "https://clinus.pl/pilarki-akumulatorowe/stihl/9170-stihl-msa-220-c-b-pilarka-akumulatorowa",
+  "slug": "stihl-msa-220-c-b",
+  "galleryOrder": [
+    "produkt-02.webp",
+    "produkt-01.webp",
+    "produkt-05.webp",
+    "produkt-04.webp",
+    "produkt-03.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "logo-stihl.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/82082-large_default/stihl-msa-220-c-b-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 35734,
+      "sha256": "6d0d3af9d04df00b9b19fca5fae97a6c137aa6d32bd6ea4289ee3b35b6ddc610",
+      "height": 800
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/82083-large_default/stihl-msa-220-c-b-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 24576,
+      "sha256": "cddbdb64da71097c641c580b2107eee43116921a2752bda49e7dd6096f54d9ca",
+      "height": 800
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/82084-large_default/stihl-msa-220-c-b-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 101624,
+      "sha256": "24f1f3948d252e062e0030f14a651dcfa3e2da222d7536d26293cf13ced00fca",
+      "height": 800
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/82085-large_default/stihl-msa-220-c-b-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 19594,
+      "sha256": "04f7fe51cb0dd18f264bfa97cf25ff94790048f89596e18a0cfd64eda10b8368",
+      "height": 800
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/82086-large_default/stihl-msa-220-c-b-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 17214,
+      "sha256": "ad8b5cc30d8eeb143559ae762decb47fd0aa616c3d93d350d281be340ff31a98",
+      "height": 800
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/82087-large_default/stihl-msa-220-c-b-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 152158,
+      "sha256": "161e594666a1477f671e531e6b4bd948bfad1857ed1d7d7c1688df59ec74c485",
+      "height": 800
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/82088-large_default/stihl-msa-220-c-b-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 88008,
+      "sha256": "99abe55c997cb3abd91ec2571ba4c990cc8d8d734eaf8adda11308d4e0957b87",
+      "height": 800
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/82089-large_default/stihl-msa-220-c-b-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 145020,
+      "sha256": "2911a186544796ec57212a98273e60dac336609486d45c69ecd586022414bc90",
+      "height": 800
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/82090-large_default/stihl-msa-220-c-b-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 190300,
+      "sha256": "de09540c255c5cba394bea514fe596c9a91613793f4266f2f98e56de1cb2e6ae",
+      "height": 800
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/82091-large_default/stihl-msa-220-c-b-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 172994,
+      "sha256": "452588cea7e86724d2ecb0d4a589e6d69924057180a19f680b28c49836e3f0c0",
+      "height": 800
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/82092-large_default/stihl-msa-220-c-b-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 181600,
+      "sha256": "40684d76e5dc0ea8f7732c03dc97d8542726b2f776537d67fab063c11a521510",
+      "height": 800
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/82093-large_default/stihl-msa-220-c-b-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 91886,
+      "sha256": "9188ebb8393ca54b99e5b25620943eaa505955d115e96773d6dc4f746547556c",
+      "height": 800
+    },
+    {
+      "file": "logo-stihl.jpg",
+      "kind": "logo",
+      "order": 13,
+      "sourceUrl": "repo: produkty-media/stihl-ms-271/logo-stihl.jpg",
+      "width": 1536,
+      "height": 505,
+      "bytes": 46019,
+      "sha256": "1443cec591f41c6b55fe30adab346c7f3fb8de433e2ca059d5582a031b9d3d8c"
+    }
+  ],
+  "dropped": 0
+}

@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T13:00:02.034Z",
+  "sourcePage": "https://www.bosch-professional.com/pl/pl/products/gbl-18v-750-06008D2000",
+  "slug": "bosch-gbl-18v-750-06008d2000",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.jpg",
+    "produkt-03.webp",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/588345-54/application-image/full/akumulatorowa-dmuchawa-do-lisci-pro-gbl-18v-750-06008d2000.png",
+      "width": 800,
+      "bytes": 216050,
+      "sha256": "916dd42172ce7989f3d502da6ed9c484ff3e4f8d2d6075f02492b62c69a12b35"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/412698-117/application-image/full/akumulatorowa-dmuchawa-do-lisci-pro-gbl-18v-750-06008d2000.jpg",
+      "width": 800,
+      "bytes": 96232,
+      "sha256": "bee7179472bf28dfede03bd535b81ac8183ea2f8f2ed6b7616919993cc18e15c"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/412703-117/application-image/full/akumulatorowa-dmuchawa-do-lisci-pro-gbl-18v-750-06008d2000.jpg",
+      "width": 800,
+      "bytes": 51086,
+      "sha256": "4e41d1a48ad637a7c13acbf6e1b68195ec721df73b4210fd4dc856c2bd53f313"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/412702-117/application-image/full/akumulatorowa-dmuchawa-do-lisci-pro-gbl-18v-750-06008d2000.jpg",
+      "width": 800,
+      "bytes": 67813,
+      "sha256": "e708b1aaa4bc54145a7f98c974f6f368c0495bd1f61d351654c320f1dc564f53"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/412701-117/application-image/full/akumulatorowa-dmuchawa-do-lisci-pro-gbl-18v-750-06008d2000.jpg",
+      "width": 800,
+      "bytes": 98634,
+      "sha256": "e765e90a311c9a0f69faec4d984630d9d76557e99ba52b3e575abbec86453720"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/412699-117/application-image/full/akumulatorowa-dmuchawa-do-lisci-pro-gbl-18v-750-06008d2000.jpg",
+      "width": 800,
+      "bytes": 82434,
+      "sha256": "bf61a2b7464c3c1e1953f271ae3ebc43bb0b799a59ca6c617776ae0b7a4fc461"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/412700-117/application-image/full/akumulatorowa-dmuchawa-do-lisci-pro-gbl-18v-750-06008d2000.jpg",
+      "width": 800,
+      "bytes": 76921,
+      "sha256": "87fdd40c6c1a6193ce4ec171dcd4d297fed4933ef89f4f4e20b902db51d73cc4"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/479679-117/application-image/full/akumulatorowa-dmuchawa-do-lisci-pro-gbl-18v-750-06008d2000.jpg",
+      "width": 800,
+      "bytes": 60339,
+      "sha256": "fffcdd4ab7f673cc2d7db52c9368ad1e5f77caeece86fa29abc9ce2ee5b30255"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.bosch-professional.com/pl/pl/ocsmedia/405914-117/dimensional-drawing-image/full/akumulatorowa-dmuchawa-do-lisci-pro-gbl-18v-750-06008d2000.jpg",
+      "width": 800,
+      "bytes": 28443,
+      "sha256": "7aa6291ea08a34797c5c47eb526a07a1923710da896f73a3f49501a6a828849e"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "repo mediów: bosch-advancedrotak-36v-44-750-06008b9g02/logo-bosch.jpg",
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "dropped": 0
+}

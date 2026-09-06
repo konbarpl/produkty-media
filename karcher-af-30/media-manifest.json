@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T13:19:15.476Z",
+  "sourcePage": "https://www.kaercher.com/pl/home-garden/oczyszczacze-powietrza/af-30-10248210.html",
+  "slug": "karcher-af-30",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-05.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248210/mainproduct/194091/d0.jpg",
+      "width": 1600,
+      "bytes": 223061,
+      "sha256": "ab10ba9883a95d72e496443280a5c8535b232f9c34014750dd65e8d8a275f015",
+      "height": 1600
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248210/detail/196794/d0.jpg",
+      "width": 1600,
+      "bytes": 269847,
+      "sha256": "8f00b23d4f0a3c86095f717c1a9a6e7ebe669b34e7957bbde8e74ca430cc2596",
+      "height": 2400
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248210/detail/196795/d0.jpg",
+      "width": 1600,
+      "bytes": 556968,
+      "sha256": "2385cb41e36eef6951644f78327db8aade4ddaf20dbb8ea7f858187fdc5bb52b",
+      "height": 1600
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248210/detail/196796/d0.jpg",
+      "width": 1600,
+      "bytes": 394360,
+      "sha256": "e9024f7106d3ae01efd5e41403aeb3198d3dd95f30022b7544d1527b392852ed",
+      "height": 1600
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248210/detail/196797/d0.jpg",
+      "width": 1600,
+      "bytes": 237304,
+      "sha256": "ce38136a6747a5879c92fcf7c8598991c0598bb792e88929610b33604a24f9cf",
+      "height": 1600
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248210/application/194095/d0.jpg",
+      "width": 1600,
+      "bytes": 361896,
+      "sha256": "5e1c2befcbef5e4060b11fa0f6e7e1bc727ebca860e910971735dcb504f34602",
+      "height": 1068
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248210/application/196413/d0.jpg",
+      "width": 1600,
+      "bytes": 531749,
+      "sha256": "11dd71df807ee22f6a36e780c5ebca9c65a67f92fc2d0b9412141f29bbe9835b",
+      "height": 1200
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248210/application/196414/d0.jpg",
+      "width": 1600,
+      "bytes": 506348,
+      "sha256": "065bba9fa32c485cc2965e51e173b50efdbd29bb13d5e5c98b372f4284134772",
+      "height": 1200
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/10248210/application/197152/d0.jpg",
+      "width": 1600,
+      "bytes": 230985,
+      "sha256": "fe9c208cb5d3c8fa98d14989ff842da192d3f07c2bf50027ab99b2cb98b99232",
+      "height": 1200
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "dropshipping/materiały/logo/Karcher-Logo-2015-present.jpg",
+      "width": 467,
+      "height": 154,
+      "bytes": 8418
+    }
+  ],
+  "dropped": 0,
+  "curation": "2026-09-05 wykonawca ETAP 1: usunieto opis-04.jpg (ta sama scena co opis-02, niemal-duplikat); logo Karcher na koncu galerii"
+}

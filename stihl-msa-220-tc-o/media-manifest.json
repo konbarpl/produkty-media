@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T16:24:44.053Z",
+  "sourcePage": "https://clinus.pl/pilarki-akumulatorowe/stihl/8175-stihl-msa-220-tc-o-pilarka-akumulatorowa",
+  "slug": "stihl-msa-220-tc-o",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-16.webp",
+    "produkt-17.webp",
+    "produkt-18.webp",
+    "produkt-02.webp",
+    "produkt-19.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-08.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "produkt-15.webp",
+    "logo-stihl.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/75932-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 38242,
+      "sha256": "05a1ca0efeeb141160be1a246769e7b32e74e685cfb307df12116a813404add0",
+      "height": 800
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/75933-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 47808,
+      "sha256": "cd7529a914077d4e62cca4eb5d44239ae482c158259359fd967fe1ea2b47c7aa",
+      "height": 800
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/75934-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 27898,
+      "sha256": "b1a39fb9758ac354219adfd3ce2c369e79d40c4875892ef8ccb16f3f2fca6259",
+      "height": 800
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/75935-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 41446,
+      "sha256": "8bc0d10892ac1514f582c5a5b315ebbe8e12358ba4ed4a6a6aed63c283e3c8f8",
+      "height": 800
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/75936-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 124742,
+      "sha256": "60d36dda608f59508b14686ddc0f06271845d19b30dbfdc00979068d2a941b52",
+      "height": 800
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/75937-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 102614,
+      "sha256": "c0fcc52adfd64c0b687e019e02d5fe137ff63c877145fcf233b7e4c1d85e9440",
+      "height": 800
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/75938-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 37344,
+      "sha256": "5c43824dc333378eec768ab6cca9cde5384ac2f867f670bed5b0a683385be60e",
+      "height": 800
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/75939-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 32274,
+      "sha256": "b464f40f68e1b6ad2daa18d84d47d060943d95b7d383667f8416c0fb4850f708",
+      "height": 800
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/75940-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 49252,
+      "sha256": "1c606cc9cf8931ff5e33e159a1de87957daf43824a4c49285a2d78563b2c008a",
+      "height": 800
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/75941-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 138968,
+      "sha256": "8fc287d1e0695279d31889b30034329d4bb65a55b66eae5a126e5ac6bffa5791",
+      "height": 800
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/75942-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 175972,
+      "sha256": "19f1051ea54c279777ef7008c511980b5835adea8499473148a098fbb9feffda",
+      "height": 800
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/75943-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 184140,
+      "sha256": "f7b685f8fd0badaedb6be5da79cabdf6cc4ed62373b5ab0d70beb74e24712177",
+      "height": 800
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/75944-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 202326,
+      "sha256": "165091c5f36f2227f1bba9fa24801f10314c80845e3197bc282879c2239b02bd",
+      "height": 800
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/75945-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 187448,
+      "sha256": "bdd72b965e9123ca4f882672a690b2df3a769022086b76148e6b8412d5a37ccf",
+      "height": 800
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/75946-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 119934,
+      "sha256": "3c777f9db54d6cb0f990a1450300cb126a2035fc9032d2d0af1a6654042c88b8",
+      "height": 800
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/75947-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 17968,
+      "sha256": "cc58bcb319d079b93bc7af41ae90c4f3bebabc54d389d4bd19d70331a32d6d5a",
+      "height": 800
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/75948-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 21928,
+      "sha256": "80d5c00609f349f563d767d8818756f2d52c7e1d4c51be900980f6e332a3de94",
+      "height": 800
+    },
+    {
+      "file": "produkt-18.webp",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://clinus.pl/75949-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 28516,
+      "sha256": "e315abc7d85b23f9beb2a5fa024c4de92602b0572fac1d74d2b600645ee3ef76",
+      "height": 800
+    },
+    {
+      "file": "produkt-19.webp",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://clinus.pl/75950-large_default/stihl-msa-220-tc-o-pilarka-akumulatorowa.webp",
+      "width": 800,
+      "bytes": 31084,
+      "sha256": "a0f1b95725053b408d78f83f209d99b9fbc4a1990b41a66c8c81fc4bafc4e113",
+      "height": 800
+    },
+    {
+      "file": "logo-stihl.jpg",
+      "kind": "logo",
+      "order": 20,
+      "sourceUrl": "repo-mediow: stihl-ms-271/logo-stihl.jpg",
+      "width": 1536,
+      "height": 505,
+      "bytes": 46019,
+      "sha256": "1443cec591f41c6b55fe30adab346c7f3fb8de433e2ca059d5582a031b9d3d8c"
+    }
+  ],
+  "dropped": 0,
+  "galleryOrderNote": "Kuracja ETAP 1 (5.09.2026): 1 = packshot kompletu na bialym tle, dalej packshoty, potem detale i praca w koronie; logo marki na koncu."
+}

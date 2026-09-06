@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T12:57:13.573Z",
+  "sourcePage": "https://www.bosch-diy.com/pl/pl/p/advancedleafblower-36v-750-06008c6000",
+  "slug": "bosch-advancedleafblower-36v-750-06008c6000",
+  "galleryOrder": [
+    "produkt-09.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "produkt-10.png",
+    "opis-01.png",
+    "opis-02.png",
+    "opis-03.png",
+    "opis-04.png",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/odkurzacze-ogrodowe-dmuchawy-do-lisci-2680160-hires-png-rgb-oneux-371562_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 764341,
+      "sha256": "a68c8e7c5248a0344beae5ff06849bf42daa17646ea82dd33c9d2fee445483e4"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedleafblower-36v-750-100053795-hires-png-rgb-oneux-371565_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 926476,
+      "sha256": "09ac2e1a162deffc73dd0f82e0031d0c3f7b5e029efceb21bf808a762b3b08ba"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedleafblower-36v-750-100053795-hires-png-rgb-oneux-376287_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 2603348,
+      "sha256": "ee50173c907340660e49943ce5547087fbd0ad26b74dc80c58b14232c2a92fd8"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedleafblower-36v-750-100053795-hires-png-rgb-oneux-376283_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 2720240,
+      "sha256": "eb7d79b7e187ce9f00cc0fc13e4a1a8c05eef94b20ba19d24b5f690059ef2b7a"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedleafblower-36v-750-100053795-hires-png-rgb-oneux-376279_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 3096232,
+      "sha256": "0077800ec5667d6bda1139e3f7771d57c74141713fb245d0f70d0adbf1dafbde"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedleafblower-36v-750-100053795-hires-png-rgb-oneux-376579_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 3707657,
+      "sha256": "11b509bf037fde1349d5d70d10df07e6c0eac9cfc71f54e830084f74fa97b1ba"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedleafblower-36v-750-100053795-hires-png-rgb-oneux-376308_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 2602597,
+      "sha256": "3d2ad49cc62d36af0d2d16ba1cb8d8b7e5c3cf4fb7137f128b3657e2b7205dae"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedleafblower-36v-750-100053795-hires-png-rgb-oneux-376519_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 2895715,
+      "sha256": "ba55c3cfbcf37fa706de672115cef74867713271782ea1ebe86d8a34c17d63cd"
+    },
+    {
+      "file": "produkt-09.png",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/06008c6801-advancedleafblower36v-750-fcp-2000x2000px-375197-png-image-png_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 328669,
+      "sha256": "4803135ba89a86fddf68e71c392294090c2fe9a13cd81eac347a71e7cf9c5dd1"
+    },
+    {
+      "file": "produkt-10.png",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedleafblower36v-750-6082765jc3-aa-3d-2000x2000px-375199-png-image-png_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 411249,
+      "sha256": "62989062b20a9e1e42cbe040afcf547baea2eb37197327671d65f815b52a56e7"
+    },
+    {
+      "file": "opis-01.png",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedleafblower-36v-750-100053795-hires-png-rgb-oneux-376524_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 2685615,
+      "sha256": "3eda890f0cef4f264559e30c0aa727e9e691a2040837f98b5dd38660cb3f76a6"
+    },
+    {
+      "file": "opis-02.png",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedleafblower-36v-750-100053795-hires-png-rgb-oneux-376509_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 2204438,
+      "sha256": "9b938dd8456f29d29742a262f31b854fe536988323c6434e0e0f6f7d6ae18ef1"
+    },
+    {
+      "file": "opis-03.png",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedleafblower-36v-750-100053795-hires-png-rgb-oneux-376291_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 3187328,
+      "sha256": "2d347bf9c4e361bc430947b50b8c750a641496e3a87f508d37c213eac25187f5"
+    },
+    {
+      "file": "opis-04.png",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-diy.com/imagestorage/pl-pl/advancedleafblower-36v-750-100053795-hires-png-rgb-oneux-376530_w_1500_h_1500.png",
+      "width": 3200,
+      "bytes": 3189956,
+      "sha256": "10e6137cdb53f3d9f078014fe68cd4fe0971cd20c722a06bec1c9665c6f94778"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 15,
+      "sourceUrl": "repo mediów: bosch-advancedrotak-36v-44-750-06008b9g02/logo-bosch.jpg",
+      "width": 1008,
+      "height": 226,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "dropped": 0
+}

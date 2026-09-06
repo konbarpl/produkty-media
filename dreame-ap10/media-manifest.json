@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T13:14:16.829Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-55709-Oczyszczacz-powietrza-Dreame-AP10-zloty.html",
+  "slug": "dreame-ap10",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/588b48c0652c20cb23e6648befcc1ae3/pol_pl_Oczyszczacz-powietrza-Dreame-AP10-zloty-55709_6.webp",
+      "width": 800,
+      "bytes": 28676,
+      "sha256": "82f2d6319c936b963d0d7d5b20642c28d9ac635aa1388ee72269bb030019431f",
+      "height": 800
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/76874c9ae5945448c9f81f8336a7a14c/pol_pl_Oczyszczacz-powietrza-Dreame-AP10-zloty-55709_7.webp",
+      "width": 800,
+      "bytes": 29632,
+      "sha256": "2f072465d40673368c9a24e58d36c9002758c243f0a5e1f5a2845124df79182a",
+      "height": 800
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/80ae86bc133409a12bbc5d09926ad160/pol_pl_Oczyszczacz-powietrza-Dreame-AP10-zloty-55709_8.webp",
+      "width": 800,
+      "bytes": 37994,
+      "sha256": "81b30d3a1200ad3d3305d71bf1fe480df0b4c1f9c601996c74bfc93434f912b1",
+      "height": 800
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/399f35c5c01a477d554b9ecd4f1e5c76/pol_pl_Oczyszczacz-powietrza-Dreame-AP10-zloty-55709_9.webp",
+      "width": 800,
+      "bytes": 31170,
+      "sha256": "aed9b3f5cf9648174c44aeba86c6fa387322cfe40ee05fd872d013cd8c6ebb3f",
+      "height": 800
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/df8f9fa33b3476af1195417d4991ced1/pol_pl_Oczyszczacz-powietrza-Dreame-AP10-zloty-55709_10.webp",
+      "width": 800,
+      "bytes": 30166,
+      "sha256": "55d0bdd67bd80bd88f64648a6a12f775710caf49b4dd40f46256fca404114c17",
+      "height": 800
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "dropshipping/materiały/logo/1280px-Dreame_Logo.jpg",
+      "width": 775,
+      "height": 84,
+      "bytes": 15201
+    }
+  ],
+  "dropped": 0
+}

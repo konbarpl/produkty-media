@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T13:40:25.488Z",
+  "sourcePage": "https://www.bosch-homecomfort.com/pl/pl/ocs/budynki-mieszkalne/air-2000-20619057-p/",
+  "slug": "bosch-air-2000",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o525504v389_Air_2000_v1.webp",
+      "width": 1600,
+      "bytes": 88758,
+      "sha256": "cf921e46a338a9047f771e7f244a192e0315878e2f040f8f480433a548c5d671",
+      "height": 2699
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o525506v389_Air_2000_v3.webp",
+      "width": 934,
+      "bytes": 60322,
+      "sha256": "17b33bc77cc29f346533b3293a3a4680f4a1a15986d47dfd9de4877dac2607da",
+      "height": 1321
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o526368v389_Air_2000_v4.webp",
+      "width": 1600,
+      "bytes": 43228,
+      "sha256": "dd3b4009571cd6cb8fce76094e8ab45e17656b0b47a2331403b066e8b2f79629",
+      "height": 900
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o525505v389_Air_2000_v2.webp",
+      "width": 1600,
+      "bytes": 87514,
+      "sha256": "d3dd20b1e32fa4a53de8c2e23a5159d29cf703da0981cad43abf37b256ad94cd",
+      "height": 900
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o526685v389_Air_2000_v5.webp",
+      "width": 1600,
+      "bytes": 107528,
+      "sha256": "5394543e73b109cb2962b4c9938e217fa3f98969865d0a456aedd6842aec27ef",
+      "height": 900
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o526686v389_Air_2000_v6.webp",
+      "width": 1600,
+      "bytes": 69100,
+      "sha256": "6cf89e92671331c1fdb887da12fab5348e9d82ee1705ac50f47fd4bf1d52e61b",
+      "height": 900
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 1,
+      "sourceUrl": "dropshipping/materiały/logo/Bosch_logo.png (repo; białe tło PIL)",
+      "width": 446,
+      "height": 105,
+      "bytes": 22473,
+      "sha256": "6760ac2ee997737fb61be9b017dc12ff7ec58c7a2ef060e2d719efa5f8324739"
+    }
+  ],
+  "dropped": 0,
+  "note": "Zdjecia v7-v13 z karty producenta ODRZUCONE: przedstawiaja Air 4000 (tekst 'Air 4000' na v9, wymiary 500x291x291 na v13); reddot = grafika nagrody, nie produkt."
+}

@@ -1,0 +1,300 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T16:45:12.262Z",
+  "sourcePage": "https://clinus.pl/pilarki/stiga/5502-stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem",
+  "slug": "stiga-cs-540-zestaw-kanister",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "opis-01.jpg",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-14.webp",
+    "produkt-15.webp",
+    "produkt-16.webp",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/51002-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 28764,
+      "sha256": "0b1cf7cf5ba096313050996455c8c0af2e85fe7ca2843c3f5994aff547a1e609",
+      "height": 800
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/50031-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 19430,
+      "sha256": "a86e709d7b0027b42e5e5c0cdf552513037ffa32d6472806b183d35574f586fb",
+      "height": 800
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/50032-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 23990,
+      "sha256": "cfa3a3165eaedb7e8cb905a2a4c9eb317f1ade2faae729a2db5e68672f3276c3",
+      "height": 800
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/50033-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 19228,
+      "sha256": "105af6fb19b819b331eb374dad6b30b8f989459128bf2b0da560a9d385c29fbf",
+      "height": 800
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/50034-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 25166,
+      "sha256": "46584a6704dfaa31f1fd44478e1a7f2c9ea529e223305ab21f745cd29ed85b5d",
+      "height": 800
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/50035-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 33142,
+      "sha256": "7b28450febc41085b7d7fda7b6d98af0d3dcf56172cdc520536b82cb284d112f",
+      "height": 800
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/50036-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 35638,
+      "sha256": "073c4c55e38146db5c5d1c87a2a40cf4f8c7f64a971d50150ec6d5515a67e423",
+      "height": 800
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/50037-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 19580,
+      "sha256": "13d23d61b6a925c7330efaee8486304f1cd3f872fa118c84dafa9687108050ce",
+      "height": 800
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/50038-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 32964,
+      "sha256": "6e3788b43daadf8a55e04e1f0f1e36f541c511f1c91834754241c5baca872f49",
+      "height": 800
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/50039-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 27966,
+      "sha256": "86f8511dd363718bb708e27a78f4fc66e02577663775e53d54e199acbaa114de",
+      "height": 800
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/50040-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 23176,
+      "sha256": "69cec854095d500c6acbd3e4aa6b204bf6e8c84182c3e1413003a171eb0d3815",
+      "height": 800
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/50041-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 16828,
+      "sha256": "819c0b6912e711bdcaf4756edf6a30ebd2e395c6334a910e1ea629583f478a3b",
+      "height": 800
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/50042-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 19938,
+      "sha256": "a6f8c08cb8ce79a50dd24aeae831a5617b3c927435db14801ee6c6b728c4d144",
+      "height": 800
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/50043-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 22130,
+      "sha256": "f5c45239e93257abdd691bc7ac14cc102dc57540662d97fae9eee9e929ac818b",
+      "height": 800
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/50044-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 24746,
+      "sha256": "789630db8e895f5435f2b7c4a0c4c01f0fe5e52d9c39d95819669b8585355823",
+      "height": 800
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/50045-large_default/stiga-cs-540-zestaw-rozszerzony-kanister-z-nalewakem.webp",
+      "width": 800,
+      "bytes": 25270,
+      "sha256": "f5df5a073af8c7cb08b114afe7f174d063d620d4a1ac240bdda687e375e8ae08",
+      "height": 800
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/240381402ST1/240381402ST1-top-1.jpg",
+      "width": 1500,
+      "bytes": 78260,
+      "sha256": "b2b6e45b83184dfcbdb249cc1816e4b04c0a53f91ca8b4741b40497ed1799b1b",
+      "height": 1001
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/240381402ST1/2.jpg",
+      "width": 1000,
+      "bytes": 58609,
+      "sha256": "16e3e9c988fcdffccf5620544394764238487770c698c33fe6e9f016df93d9ed",
+      "height": 1000
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/240381402ST1/5.jpg",
+      "width": 1000,
+      "bytes": 54855,
+      "sha256": "b8b7015485f770cb122402321479ca98fb4fcea58b01513d8cad1afef6883ffe",
+      "height": 1000
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/240381402ST1/6.jpg",
+      "width": 1000,
+      "bytes": 66437,
+      "sha256": "cb7822270277a55e1a75e7176274a25794f08c42c8d119edcb55b655fcc790eb",
+      "height": 1000
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/240381402ST1/8.jpg",
+      "width": 1000,
+      "bytes": 54189,
+      "sha256": "808d883ef7e005b0831b3552efe3771418fcb06a0b4230f078cb80d06b36e6f0",
+      "height": 1000
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/240381402ST1/11.jpg",
+      "width": 1000,
+      "bytes": 61367,
+      "sha256": "211f3892c8316008b2ae97f52dae3b792aa1a820629a2985673a3d7d0072198b",
+      "height": 1000
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/240381402ST1/13.jpg",
+      "width": 1000,
+      "bytes": 84614,
+      "sha256": "000bd238587dcf854d46b233072a1fa7c3e7bc28975bc5646b0f70123b759751",
+      "height": 1000
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/240381402ST1/14.jpg",
+      "width": 1000,
+      "bytes": 50992,
+      "sha256": "492b8d39557be6a496530c65f802dce1d451bda5b84bbee3a92442d7107cfee9",
+      "height": 1000
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/240381402ST1/15.jpg",
+      "width": 1000,
+      "bytes": 72994,
+      "sha256": "55235618f8b8a8cba6fab128c86d42c110b95702272f266f8886f5a92c30adab",
+      "height": 1000
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/img/cms/STIGA/240381402ST1/pion.jpg",
+      "width": 1000,
+      "bytes": 58609,
+      "sha256": "16e3e9c988fcdffccf5620544394764238487770c698c33fe6e9f016df93d9ed",
+      "height": 1000
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 27,
+      "sourceUrl": "local: dropshipping/materiały/logo/stiga logo.jpg (kopia z produkty-media/stiga-cs-540/logo-01.jpg)",
+      "width": 425,
+      "height": 122,
+      "bytes": 5354,
+      "sha256": "7f23ef9d3a5e17cf081e5a2c45e47d9619ce994ad0030495f0d1e67db9892126"
+    }
+  ],
+  "dropped": 0,
+  "galleryOrderNote": "Kuracja wykonawcy ETAP 1 (5.09.2026): 1 = produkt-01 (KOMPLET zestawu: pilarka CS 540 + kanister 5 L z nalewakiem), dalej ujecia calej pilarki, plakat opis-01 z nr katalogowym 240381402/ST1, detale, logo Stiga na koncu. opis-02..opis-10 zostaja w repo, ale NIE wchodza do galerii — to te same ujecia co produkt-* w innej rozdzielczosci (1000 px vs 800 px), czyli wizualne duplikaty. Kontrola wzrokowa 27/27 = CS 540 (kontaktowki _tmp/stiga-cs-540-zestaw-kanister/kontaktowka-produkt.jpg i kontaktowka-opis.jpg)."
+}

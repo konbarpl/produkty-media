@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T16:44:46.312Z",
+  "sourcePage": "https://clinus.pl/pilarki/stiga/5529-stiga-cs-545-zestaw-rozszerzony-oslona-twarzy",
+  "slug": "stiga-cs-545-40cm-zestaw-oslona",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "produkt-15.webp",
+    "produkt-16.webp",
+    "produkt-17.webp",
+    "produkt-18.webp",
+    "logo-stiga.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://clinus.pl/51006-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 27496,
+      "sha256": "56d584f61e03e73f2c876a452ff6300bd6b404f34c138e160cb8042ba8e428f1",
+      "height": 800
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://clinus.pl/50703-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 27628,
+      "sha256": "847c34d9052ef7603a0855dbea7d6f46b0f0e19a77aa3f82b53e5fef4582c3fe",
+      "height": 800
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://clinus.pl/50705-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 20684,
+      "sha256": "bd7200f9ebdc3d5f9d814df476e2473e184ac7329152a796df105588d9fe29a9",
+      "height": 800
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://clinus.pl/50700-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 24638,
+      "sha256": "2bc9d0de3dffa7093fd3f8c183d608f2e459fe553d2fc23977f8c4265b4fa089",
+      "height": 800
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://clinus.pl/50709-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 18030,
+      "sha256": "d12f71d0f3abfcf8443c7fb9021b3c37f9ba54bcd37fdbf036e134f30c49270b",
+      "height": 800
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://clinus.pl/50708-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 21362,
+      "sha256": "18ed7884755e1dfec9d1d6c90b054f40a265768524793aa1d0f71029070aed1d",
+      "height": 800
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://clinus.pl/50710-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 32100,
+      "sha256": "b96357cfd207b64696c7428ae8f1d2176890b9330528d8ea02d17857ea09d3a5",
+      "height": 800
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://clinus.pl/50704-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 19412,
+      "sha256": "c2d8bd67c90e70cf3f65fb7bf599b2a9a841cae34988c85d5fb7a18e969ae02d",
+      "height": 800
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://clinus.pl/50702-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 16848,
+      "sha256": "b48b72c0461aafb98adc0e139c108d8680d849b9c4cfe94c0a980a40bc959e3d",
+      "height": 800
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://clinus.pl/50715-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 30484,
+      "sha256": "12abcfaaa74942a977616ce34d9627afdb7ecd51b3207ab2183613f7b0e8b5d1",
+      "height": 800
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://clinus.pl/50713-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 18244,
+      "sha256": "1592a2b9b67426dbeb534ee27e93fb4974ca3f015ee27626051ea47d518ccf77",
+      "height": 800
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://clinus.pl/50711-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 22246,
+      "sha256": "0f116a131c98edc7b59089bd3f469983c1ce41bb1310855ff40fee78ec9903b2",
+      "height": 800
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://clinus.pl/50699-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 25982,
+      "sha256": "5ca1f11a73e4f58127cf68d07b8aab1ce712da9b39e687d7541ac26f02863737",
+      "height": 800
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://clinus.pl/50707-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 22680,
+      "sha256": "6aa04a106a0117905623168495f6069017889d1405ae341c2d9ce5c73c4cbcc3",
+      "height": 800
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://clinus.pl/50706-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 23802,
+      "sha256": "5dcc77ef0310bb7d1edd9158dc603be43d909a3974997041da4288c1c7cf64c7",
+      "height": 800
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://clinus.pl/50712-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 34720,
+      "sha256": "c0f9a2c7a25e158f859c52e5d120d5135d305244f7c7833b8498e8c368c92016",
+      "height": 800
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://clinus.pl/50714-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 19006,
+      "sha256": "b8f85f05f7e8b94605c3410345edaddb9b8dc4f24a0d54072fb71600e42ba086",
+      "height": 800
+    },
+    {
+      "file": "produkt-18.webp",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://clinus.pl/50701-large_default/stiga-cs-545-zestaw-rozszerzony-oslona-twarzy.webp",
+      "width": 800,
+      "bytes": 22380,
+      "sha256": "034c0d900419ee601bfc00d89877274b081ae5c6679c0d6099c25d7acbf6b9b7",
+      "height": 800
+    },
+    {
+      "file": "logo-stiga.jpg",
+      "kind": "logo",
+      "order": 19,
+      "sourceUrl": "dropshipping/materiały/logo/stiga logo.jpg",
+      "width": 425,
+      "height": 122,
+      "bytes": 5354,
+      "sha256": "7f23ef9d3a5e17cf081e5a2c45e47d9619ce994ad0030495f0d1e67db9892126"
+    }
+  ],
+  "dropped": 0
+}
