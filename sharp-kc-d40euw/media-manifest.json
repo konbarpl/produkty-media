@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T10:46:52.132997Z",
+  "sourcePage": "https://idealnepowietrze.pl/p/sharp-kc-d40euw/",
+  "slug": "sharp-kc-d40euw",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-producenta.png"
+  ],
+  "odrzucone": [
+    {
+      "file": "kcd40-3lata-jony.png",
+      "powod": "nadruki promocyjne sklepu: 'Wklad z jonami srebra GRATIS' i '3 ROK GWARANCJI GRATIS' - zakaz slowa gwarancja i cudzych promocji"
+    },
+    {
+      "file": "sharp-kcd40euw-09.png",
+      "powod": "kadr na czarnym tle, powiela tresc produkt-04 (rozstrzelenie filtrow)"
+    },
+    {
+      "file": "sharp-kcd40euw-08.jpg",
+      "powod": "ta sama fotografia panelu co produkt-02, mniejszy kadr - duplikat wizualny"
+    }
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/kcd40euw-02.jpg",
+      "width": 550,
+      "height": 550,
+      "bytes": 13526,
+      "sha256": "dcf204344ecc13b70264860244c4e86a3b44b8c74342ef15964db78f17d6cb87",
+      "note": "packshot front, biala obudowa"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/cont-kcd40-01.jpg",
+      "width": 750,
+      "height": 420,
+      "bytes": 35595,
+      "sha256": "1fcf61ba9aac9f5b0c123e8d6c51ccfd36375e9bc1f2bc1448feda8198729d4b",
+      "note": "panel sterowania z gory"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/sharp-kcd40euw-07.jpg",
+      "width": 550,
+      "height": 550,
+      "bytes": 18331,
+      "sha256": "d64e6d4b40fff1f93586ec7e5e1362f9e3ffc4c9fd7580ac8aaa68a3b83e80ee",
+      "note": "otwarta komora z filtrem nawilzajacym"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/cont-kcd40-09.jpg",
+      "width": 750,
+      "height": 480,
+      "bytes": 48411,
+      "sha256": "0385ddb463e837beaf8a51eaeb68f5755a81ee4fc0598bf9bdfc03fc33f5e548",
+      "note": "rozstrzelenie ukladu filtrow"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/sharp-kcd40euw-11.jpg",
+      "width": 550,
+      "height": 550,
+      "bytes": 9699,
+      "sha256": "3a5b1b50803907943c232b5226bffe9d821df764c521145fb67781d186d515cc",
+      "note": "wyjmowany zbiornik na wode"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/sharp-kcd40euw-16.jpg",
+      "width": 550,
+      "height": 550,
+      "bytes": 13460,
+      "sha256": "b066cd3ddf7d9916a60a1614bf358d0d0ae2dbd8a29621c8fb18878ca0e0f132",
+      "note": "zblizenie na kolka transportowe"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/cont-kcd40-03.jpg",
+      "width": 750,
+      "height": 420,
+      "bytes": 56654,
+      "sha256": "8528d1d52379f66614b30f6a491ec02ecf8796dd567bcebe76559c3fe252cb6c",
+      "note": "aranzacja w salonie"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "lokalny plik logo Sharp na bialym tle (claude/erli-research/_tmp/g53-2026-09-06/logo-producenta.png)",
+      "width": 546,
+      "height": 161,
+      "bytes": 12109,
+      "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b",
+      "note": "logo marki - ZAWSZE na koncu galerii"
+    }
+  ]
+}
