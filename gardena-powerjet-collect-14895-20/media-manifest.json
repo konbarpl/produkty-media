@@ -1,0 +1,179 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T10:43:07Z",
+  "sourcePage": "https://www.gardena.com/pl/produkty/uprawa-gleby/porzadki-wokol-domu-i-w-ogrodzie/dmuchawa-odkurzacz-powerjet-collect-z-akumulatorem-18-v-p4a---zestaw/970763601.html",
+  "slug": "gardena-powerjet-collect-14895-20",
+  "model": "GARDENA PowerJet Collect 18V P4A zestaw (nr kat. 14895-20)",
+  "note": "produkt-* = karuzela produktowa karty (JSON-LD), opis-* = ilustracje sekcji Cechy tej samej karty, logo na koncu galerii",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "logo-gardena.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/NY-969269.png?format=png&width=2000",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 125190,
+      "sha256": "2d1ce3daa2d07f730ca976ed99a1a713f928a0d652d225017099524a68994092",
+      "cdnId": "NY-969269"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/TO-066552.png?format=png&width=2000",
+      "width": 1600,
+      "height": 1392,
+      "bytes": 160718,
+      "sha256": "2b549208377c51bfad7c57c58017ec4f04b6f07ed7b91c201517f54cf8b69f23",
+      "cdnId": "TO-066552"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/SB-186532.png?format=png&width=2000",
+      "width": 1600,
+      "height": 1137,
+      "bytes": 173169,
+      "sha256": "e7c17a1a85ad5cf8fb23cee401bff8c5dd00bbf6a3111038523b5cfeb9a607c5",
+      "cdnId": "SB-186532"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/UF-103572.png?format=png&width=2000",
+      "width": 1600,
+      "height": 1282,
+      "bytes": 166438,
+      "sha256": "791e4454dd1f832b5dfc2176213132c8a855bd491a9fe2017765705c0eae9e74",
+      "cdnId": "UF-103572"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/MX-920766.png?format=png&width=2000",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 243012,
+      "sha256": "ceef3213c4d72d1cb60d4ea84666cdcc53127ee6be2a44bcfca3d49fdd8477d4",
+      "cdnId": "MX-920766"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/RQ-011998.png?format=png&width=2000",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 538544,
+      "sha256": "8859fc8d36782c0c5292c1fbf99f544e6aaecb86fdfa8e47044dbb44b25e40f7",
+      "cdnId": "RQ-011998"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/JI-518808.png?format=png&width=2000",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 399809,
+      "sha256": "1fe366da117669931ed714bcc059bcb20f2e3a656c2e5a5ae286391edafcb117",
+      "cdnId": "JI-518808"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/ED-798893.png?format=png&width=2000",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 479976,
+      "sha256": "8548836c7a517a4b5839dff9601d3d9f0e15ad3584959fa494b25da595164945",
+      "cdnId": "ED-798893"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "order": 9,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/LZ-604673.png?format=png&width=2000",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 512733,
+      "sha256": "3264b5c8ee7fc75fe929c512ef4cf7b40192d1784b5a8abd14e0f6393ec91371",
+      "cdnId": "LZ-604673"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "order": 10,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/AF-811535.png?format=png&width=2000",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 320567,
+      "sha256": "db66582f0e867262a4dfc7fe321d592038ab24b48c1371e109935020ca950018",
+      "cdnId": "AF-811535"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "order": 11,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/AX-688846.png?format=png&width=2000",
+      "width": 1600,
+      "height": 1095,
+      "bytes": 561794,
+      "sha256": "e688e099315ac44768b05bc8cf818ce39847cff74cc86340129cabb29951ea00",
+      "cdnId": "AX-688846"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "description",
+      "order": 12,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/QD-963308.png?format=png&width=2000",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 396200,
+      "sha256": "314c13abe1da005d0340cd8b78db7ed587fa9265e3253b4b9af08272102f3223",
+      "cdnId": "QD-963308"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "description",
+      "order": 13,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/JU-982344.png?format=png&width=2000",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 330282,
+      "sha256": "07496293956a494c32e4b610f2a27bff91ad22faafd56e75dcbcb75423c0bf87",
+      "cdnId": "JU-982344"
+    },
+    {
+      "file": "logo-gardena.jpg",
+      "kind": "logo",
+      "order": 14,
+      "sourceUrl": "local:dropshipping/materiały/logo/Gardena_Logo.jpg",
+      "width": 1200,
+      "height": 381,
+      "bytes": 58573,
+      "sha256": "a2eb60ac33cf5836d9d25b7e076f2be819814fd74f3fcd0360b55884917533cb"
+    }
+  ]
+}
