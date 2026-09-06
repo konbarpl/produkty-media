@@ -16,18 +16,18 @@
       "kind": "product",
       "order": 1,
       "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/FP-S42-正面.jpg",
-      "width": 1668,
-      "bytes": 2408792,
-      "sha256": "12f39ac6e8b8206e9ff8019cd1cc9601ddd3504dcc789f28f0cb199cf9e486e2"
+      "width": 1200,
+      "bytes": 215598,
+      "sha256": "36d378c8a226603c481840e2ad232aaae708f03772a4213d5bb349696001568d"
     },
     {
       "file": "produkt-02.jpg",
       "kind": "product",
       "order": 2,
       "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/FP-S42-斜め.jpg",
-      "width": 1827,
-      "bytes": 2550534,
-      "sha256": "491b09a87f5b7588a016a8429a68fd6aedb903bcf224654917f46002fba4ca25"
+      "width": 1200,
+      "bytes": 187867,
+      "sha256": "bf30158e89422a25f8374a8afe8888de87a5b0453fc4681f573cb962f8d1ff95"
     },
     {
       "file": "produkt-03.jpg",
@@ -54,9 +54,9 @@
       "sourceUrl": "repo mediow / logo Sharp na bialym tle (paczka G53 6.09.2026)",
       "width": 0,
       "bytes": 12109,
-      "sha256": ""
+      "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b"
     }
   ],
   "dropped": 5,
-  "note": "produkt-04.png (CU_42L transparent, 15 MB / 5543 px) usuniety - zbyt duzy plik na re-host Erli. Lifestyle z karty odrzucone przez harvester (ponizej 700 px)."
+  "note": "produkt-04.png (CU_42L transparent, 15 MB / 5543 px) usuniety - zbyt duzy plik na re-host Erli. Lifestyle z karty odrzucone przez harvester (ponizej 700 px). produkt-01/02 przeskalowane do 1200 px (ffmpeg) - GitHub Contents API odrzucalo pliki 2,4-2,5 MB bledem 401."
 }
