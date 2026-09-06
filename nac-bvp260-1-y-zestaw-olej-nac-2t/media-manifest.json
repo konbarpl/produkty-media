@@ -1,0 +1,205 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T10:41:00.000Z",
+  "sourcePage": "https://nac.com.pl/odkurzacz-spalinowy-ogrodowy-z-funkcja-dmuchawy-nac-bvp260-1-y/",
+  "sourcePageOlej": "https://nac.com.pl/olej-2-suw-01-litra-nac-oil-mix-01l/",
+  "slug": "nac-bvp260-1-y-zestaw-olej-nac-2t",
+  "galleryOrder": [
+    "produkt-12.webp",
+    "olej-01.jpg",
+    "produkt-14.webp",
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-13.webp",
+    "produkt-15.webp",
+    "produkt-16.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "olej-02.jpg",
+    "logo-nac.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_1.webp",
+      "width": 1080,
+      "bytes": 42444,
+      "sha256": "40f4d0b4ea70e469d27627d30d622ef78157c7c3b14164eeffe074a2ee025dd3"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_2.webp",
+      "width": 1080,
+      "bytes": 39938,
+      "sha256": "5a7b7eda6a90e8fd0f3ef6310846cdc594a21f6295637ca697de878094e79711"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_3.webp",
+      "width": 1080,
+      "bytes": 62172,
+      "sha256": "087a84ed48e233cd78c0b517925354e5daa1ab71369f3c30a3204726bdb2f70d"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_4.webp",
+      "width": 1080,
+      "bytes": 53308,
+      "sha256": "45e9255b2241cba32cf5061df29938a0eed00e8d5e03c00cb408d0db03d63c42"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_5.webp",
+      "width": 1080,
+      "bytes": 41810,
+      "sha256": "56048047ae6dfda34a7364f7b709dbfea6a72b525d063584d0096a76b70a76a7"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_6.webp",
+      "width": 1080,
+      "bytes": 57196,
+      "sha256": "065347f99ca6eddce1bb8d50152f932c603886ab602f22142b4c59e1ad8eba78"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_7.webp",
+      "width": 1080,
+      "bytes": 59576,
+      "sha256": "d575995a3076901772ac916168d913eba8e0cce7f817b0f804a44274dae95eba"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_8.webp",
+      "width": 1080,
+      "bytes": 145668,
+      "sha256": "4e8ebf37159b2377aaab3a86fbe00d920e0479b0fd1ee32e54114244c99c90fc"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_9.webp",
+      "width": 1080,
+      "bytes": 82822,
+      "sha256": "38ea5f2890f2b73ce0896d3fd41f991696675535ae96f661cff22b76f01de444"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_10.webp",
+      "width": 1080,
+      "bytes": 164512,
+      "sha256": "91a72bf43de0bfc4aef4ecbbde76c4215674d8601355fdf967a97f5f7a066eb1"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_11.webp",
+      "width": 1080,
+      "bytes": 278840,
+      "sha256": "b697124ebc3225898c6c8948c829396c81f088d2ead33f6b989409cdd0a28920"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_12.webp",
+      "width": 1080,
+      "bytes": 40054,
+      "sha256": "02db29c47758a6e3d4736f7bbf5fe7d1b897ca6aac2034a950062815d71139f1"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_13.webp",
+      "width": 1080,
+      "bytes": 65592,
+      "sha256": "1f2cfe0e2d6dc2487057e176d2a2501d15eb38332429bb5bff9d0c7ca55bc199"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_14.webp",
+      "width": 1080,
+      "bytes": 65418,
+      "sha256": "a5cde1477ee0de4b6f2e2d09bdc5b3da38c128dada204516fdb4edea5ad682d8"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_15.webp",
+      "width": 1080,
+      "bytes": 69934,
+      "sha256": "ce3cce40ad9b9e28041fa230cd3a101f745c130e6ddb1031f8d2f9155dd26370"
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/06/5907510481686_BVP260-1-Y-2026small_16.webp",
+      "width": 1080,
+      "bytes": 64660,
+      "sha256": "230f53198c4fa5a29e7032615a1dfce7361fc9748bc0d13e17791d37a72b0d75"
+    },
+    {
+      "file": "olej-01.jpg",
+      "kind": "product",
+      "order": 21,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/01/olej-MIX-NAC-OIL-100ML_2021_01-2-2048x1367.jpg",
+      "width": 2048,
+      "bytes": 106477,
+      "sha256": "225e8ba521a68d73a862fac7429d28dd51057bfdb62b50b7a89873973e969af7",
+      "note": "olej NAC OIL MIX 0,1 l - drugi element zestawu; karta https://nac.com.pl/olej-2-suw-01-litra-nac-oil-mix-01l/"
+    },
+    {
+      "file": "olej-02.jpg",
+      "kind": "product",
+      "order": 22,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/01/olej-MIX-NAC-OIL-100ML_2021_02-2048x1367.jpg",
+      "width": 2048,
+      "bytes": 99886,
+      "sha256": "849d3d3ac936935a08b4de3270d21d589d5ffb60c6868c1aa9eecd5b3037c29a",
+      "note": "olej NAC OIL MIX 0,1 l - drugi element zestawu; karta https://nac.com.pl/olej-2-suw-01-litra-nac-oil-mix-01l/"
+    },
+    {
+      "file": "logo-nac.jpg",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "lokalne: dropshipping/materiały/logo/NAC_Logo.jpg",
+      "width": 1200,
+      "bytes": 44219,
+      "sha256": "35f6a18bbecb8e0f6565f726e3544b39bb11549c97614f2257ba08f3fc747780"
+    }
+  ],
+  "dropped": 0,
+  "note": "ZESTAW: zdjecia odkurzacza skopiowane 1:1 z folderu nac-bvp260-1-y (te same pliki i sha256, wgrane 6.09.2026 przez wykonawce oferty solo); olej-01/02 pobrane z karty oleju. Kolejnosc: 1=komplet odkurzacza (silnik+rury+worek), 2=olej przod (drugi element zestawu), dalej ujecia odkurzacza, przedostatnie=olej tyl z kodem kreskowym, logo marki na koncu. BRAK zdjecia calego zestawu razem - do zlozenia przez Konrada."
+}
