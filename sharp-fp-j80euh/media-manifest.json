@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T12:02:12.230236Z",
+  "sourcePage": "https://4air.pl/oczyszczacz/sharp-fp-j80euh",
+  "slug": "sharp-fp-j80euh",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "logo-producenta.png"
+  ],
+  "odrzucone": [
+    {
+      "file": "me_desc_5.jpg",
+      "powod": "Media Expert oddaje 403 (strona bledu zamiast pliku) po 4 probach - grafiki nie da sie pobrac"
+    },
+    {
+      "file": "4air cache 500x500",
+      "powod": "wersja z cache 4air ma 500x500 px; uzyto oryginalow /userdata/public/gfx (1920x1920)"
+    }
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://4air.pl/userdata/public/gfx/32374/Sharp-FP-J80EUH-oczyszczacz-powietrza.webp",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 61149,
+      "sha256": "f450d4bd8667f062cb685bbcc185a1bd10b15697a4def3232e1cd69c7322643d",
+      "note": "packshot front 3/4, grafitowa obudowa z panelem champagne gold",
+      "origWidth": 1920,
+      "origHeight": 1920
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/72/7232900/Oczyszczacz-powietrza-SHARP-FP-J80EUH-front.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 77376,
+      "sha256": "4d752631de9f90711e6ece3d578cb10f5dbe81ba14ef4ad4140da3fd61f28b56",
+      "note": "packshot front, widoczny zloty panel gorny i logo Sharp",
+      "origWidth": 1500,
+      "origHeight": 1500
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://4air.pl/userdata/public/gfx/32372/Sharp-FP-J80EUH-oczyszczacz-powietrza-front.webp",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 70905,
+      "sha256": "be0f4080a84ae4bfd6184c71f3398ac33ee86b923cca732444572ea2bc708480",
+      "note": "packshot front na wprost",
+      "origWidth": 1920,
+      "origHeight": 1920
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/72/7232900/Oczyszczacz-powietrza-SHARP-FP-J80EUH-panel.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 68948,
+      "sha256": "dcd25f0da1a21c6411532724f51f96d4c77c1bb6665e9cbe90d8aedc20f73661",
+      "note": "zblizenie na dotykowy panel sterowania (champagne gold)",
+      "origWidth": 1500,
+      "origHeight": 1500
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "marketing",
+      "order": 5,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/72/7232900/storage_app_opisy2_sharp_2046620/1.jpg",
+      "width": 1100,
+      "height": 504,
+      "bytes": 94482,
+      "sha256": "243ecd3fe8d9d5ee8fb7352d19669cb09640723b64eab15739ba7792c973f5fa",
+      "note": "grafika producenta: Plasmacluster, 62 m2",
+      "origWidth": 1100,
+      "origHeight": 504
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "marketing",
+      "order": 6,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/72/7232900/storage_app_opisy2_sharp_2046620/2.jpg",
+      "width": 1100,
+      "height": 504,
+      "bytes": 118157,
+      "sha256": "ff2dafcad17832e6a72de185a3a4c4b6586574fa2fd2c3972567ed26747a5fdc",
+      "note": "grafika producenta: dzialanie jonow Plasmacluster",
+      "origWidth": 1100,
+      "origHeight": 504
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "marketing",
+      "order": 7,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/72/7232900/storage_app_opisy2_sharp_2046620/3.jpg",
+      "width": 1100,
+      "height": 504,
+      "bytes": 53841,
+      "sha256": "6b2c37de0b99c3f9e7a02ada1dbb58241be36dbb5c73f85cb1cb1195d4ce3be3",
+      "note": "grafika producenta: efekt Coanda, przeplyw pod katem 20 st.",
+      "origWidth": 1100,
+      "origHeight": 504
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "marketing",
+      "order": 8,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/72/7232900/storage_app_opisy2_sharp_2046620/4.jpg",
+      "width": 1100,
+      "height": 409,
+      "bytes": 56086,
+      "sha256": "c2cf379a0b1afbd0b3203a419669fca220d12b8fa2123c8e5a6bf7b2fea76d5b",
+      "note": "grafika producenta: trojstopniowa filtracja (wstepny, weglowy, HEPA)",
+      "origWidth": 1100,
+      "origHeight": 409
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "marketing",
+      "order": 9,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/72/7232900/storage_app_opisy2_sharp_2046620/6.jpg",
+      "width": 1100,
+      "height": 504,
+      "bytes": 66276,
+      "sha256": "319e6c2505f2ff48af75d5e80854452e2866bbb70d3d68c1807eff44fdb5a405",
+      "note": "grafika producenta: opis przyciskow panelu sterowania",
+      "origWidth": 1100,
+      "origHeight": 504
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "claude/erli-research/_tmp/g53-2026-09-06/logo-producenta.png (zwiad G53)",
+      "width": 546,
+      "height": 161,
+      "bytes": 12109,
+      "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b",
+      "note": "logo marki Sharp - zawsze na koncu galerii"
+    }
+  ]
+}

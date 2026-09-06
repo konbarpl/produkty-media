@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T14:20:37.606748+02:00",
+  "sourcePage": "https://www.euro.com.pl/oczyszczacze-powietrza/sharp-kc-a40eu-w.bhtml (galeria producencka na karcie sklepu; wariant ORIGINAL_PHOTO)",
+  "slug": "sharp-kc-a40euw",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/3434024372/e259f8050664e409b1cfe91312563a4b/sharp-kc-a40eu-w,3434024372_5.webp",
+      "sourcePage": "https://www.euro.com.pl/oczyszczacze-powietrza/sharp-kc-a40eu-w.bhtml",
+      "opis": "packshot frontu, bialy korpus z wyswietlaczem",
+      "width": 355,
+      "height": 550,
+      "bytes": 4574,
+      "sha256": "7577f8cab137a6586bcd79418922a273f28ab361eee04a46ff1248a32ca907d1"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/3434024372/445ab6a154ef44fc577ef9bf1e662154/sharp-kc-a40eu-w,3434024372_5.webp",
+      "sourcePage": "https://www.euro.com.pl/oczyszczacze-powietrza/sharp-kc-a40eu-w.bhtml",
+      "opis": "gorny panel sterowania i wylot Plasmacluster",
+      "width": 1049,
+      "height": 783,
+      "bytes": 14402,
+      "sha256": "04ef444c06d1c43d1f931dce691cbe4abe79f12f6ae092c80f8817c4dbfbd62d"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/3434024372/83e3cd7f917692c326f7a64517a6324b/sharp-kc-a40eu-w,3434024372_5.webp",
+      "sourcePage": "https://www.euro.com.pl/oczyszczacze-powietrza/sharp-kc-a40eu-w.bhtml",
+      "opis": "tyl obudowy z kratka wlotu powietrza",
+      "width": 499,
+      "height": 521,
+      "bytes": 10824,
+      "sha256": "b43b056516aec481aeb4a497e34bf75f13efe24eb4a67d7ebdd700dd60e58467"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/3434024372/14d16149e727966c43c111dc63e0e8/sharp-kc-a40eu-w,3434024372_5.webp",
+      "sourcePage": "https://www.euro.com.pl/oczyszczacze-powietrza/sharp-kc-a40eu-w.bhtml",
+      "opis": "otwarta obudowa: filtr nawilzajacy i zbiornik",
+      "width": 499,
+      "height": 521,
+      "bytes": 6554,
+      "sha256": "7f6beed6642a2f1c193419c7baa43b453db9e0f039caf0d29e195f0b967ec937"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/3434024372/ba269531df7c7002122c986879b7df9a/sharp-kc-a40eu-w,3434024372_3.webp",
+      "sourcePage": "https://www.euro.com.pl/oczyszczacze-powietrza/sharp-kc-a40eu-w.bhtml",
+      "opis": "bok z wysunietym zestawem filtracyjnym",
+      "width": 600,
+      "height": 532,
+      "bytes": 4268,
+      "sha256": "e536c391035ee34fc38d559edfb3bae521d1ab91e08858e477dab2e7ea1acbf6"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/3434024372/3a38e03404b9dd15b6aca0e87e4048f2/sharp-kc-a40eu-w,3434024372_5.webp",
+      "sourcePage": "https://www.euro.com.pl/oczyszczacze-powietrza/sharp-kc-a40eu-w.bhtml",
+      "opis": "wyjmowany zbiornik na wode z uchwytem",
+      "width": 499,
+      "height": 539,
+      "bytes": 3246,
+      "sha256": "0e1acc57368c8d6ac329e613f8356ad1d4bd673a856a69314beedc87a2a03502"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "repo lokalne: claude/erli-research/_tmp/g53-2026-09-06/logo-producenta.png",
+      "sourcePage": "logo marki Sharp (wiedza/reference_logo_marek.md)",
+      "width": 546,
+      "height": 161,
+      "bytes": 12109,
+      "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b"
+    }
+  ]
+}

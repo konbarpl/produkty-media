@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T10:43:54.160Z",
+  "sourcePageOdkurzacz": "https://dedra.pl/product-pol-23022-Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072.html",
+  "sourcePageAkumulator": "https://dedra.pl/product-pol-22990-Akumulator-4-0Ah-18V-Li-Ion-DED7034.html",
+  "sourcePageLadowarka": "https://dedra.pl/product-pol-22991-Ladowarka-18V-DED7038.html",
+  "slug": "dedra-ded7072-zestaw-aku-ladowarka",
+  "galleryOrder": [
+    "produkt-02.webp",
+    "produkt-04.webp",
+    "aku-01.webp",
+    "lad-01.webp",
+    "produkt-05.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "produkt-15.webp",
+    "produkt-17.webp",
+    "produkt-18.webp",
+    "produkt-20.webp",
+    "produkt-22.webp",
+    "produkt-23.webp",
+    "aku-03.webp",
+    "aku-05.webp",
+    "lad-02.webp",
+    "logo-dedra.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dedra.pl/hpeciai/4ba77c68510688b21a89267bcd1fe87d/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_2.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 73948,
+      "sha256": "a3365c514df57e67182e2fca4ba8aa8f0395227bb8feb61c6ce08ad868d8e86d"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dedra.pl/hpeciai/2cf00be00df507c4af05d23824d504d1/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_4.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 58728,
+      "sha256": "47b5ae022163c5d2e14edc987162e1723b3ed4064002d5ca8ed58074ad1872ae"
+    },
+    {
+      "file": "aku-01.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://dedra.pl/hpeciai/f74a065fe8cec24679e70b78018ec7fa/pol_pl_Akumulator-bateria-DEDRA-SAS-ALL-DED7034-4-0Ah-LI-ion-22990_1.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 67258,
+      "sha256": "a1ac0e2d700e6a4f3c5e4c922d64ac723114203ccc50eae7d2c4ab756d743ca3"
+    },
+    {
+      "file": "lad-01.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://dedra.pl/hpeciai/d749fa9c783028c381f5c12abcd1540e/pol_pl_Ladowarka-zasilacz-DEDRA-SAS-ALL-DED7038-pasuje-do-DED7032-DED7034-DED7035-DED6936-DED6937-22991_1.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 47014,
+      "sha256": "11648fd9ac3df7ed5f83794e7e7e2a1f800d333b325f66a7e4638628d6825431"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://dedra.pl/hpeciai/0f7a43e2e9b7e66ef1bc74be12c83f9f/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_5.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 22136,
+      "sha256": "5067c6d0b4f802b3881628f3503b94d96560d0e6e01cb2b9769cbb4f3267b5c8"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://dedra.pl/hpeciai/dc2052001684002ae6eb25995e0bf57c/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_10.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 71676,
+      "sha256": "a7c726a6c53386ddda9f6fd14b314a0177ca104ca705183a2257ed033082ccfa"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://dedra.pl/hpeciai/d092f33d4439029fb47bc02ddca6bf25/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_11.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 76794,
+      "sha256": "4c80970b81ea5589ec8fafd5827f0a0ca01a78062b275c8b24804e27b7b46fd2"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://dedra.pl/hpeciai/d94030e3d3f81754633c16fdd196e471/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_12.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 44842,
+      "sha256": "416dbc0cdf48bb731482bab980a1fe10362d9cfb07b2773fbf0020f13dbc975c"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://dedra.pl/hpeciai/ded34072f896b8f0f746c82618db645f/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_13.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 54662,
+      "sha256": "38c236cbd44249cf3407ddf35e9320ce2139f35afe942e3459f6bb58012956fd"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://dedra.pl/hpeciai/eb7b93b43b60ee6de9cd152385bf076a/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_14.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 58216,
+      "sha256": "d2cb9299f6e9c2ab69d025808c1d557f024a1fd8e6a0ef2e57c955ae64b2e997"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://dedra.pl/hpeciai/2c8507ce448e23877067be4af662ede3/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_15.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 64210,
+      "sha256": "5efd7d49d56b76a1b6b0daecb25a0261fcb49016b11a157b3fa49ecb18e03b77"
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://dedra.pl/hpeciai/fcf543ec2696bb253d8bf97114158cac/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_17.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 76572,
+      "sha256": "8de4546acce87e32291233d98d093f2828beec43c534e0977f4c7d22cec15957"
+    },
+    {
+      "file": "produkt-18.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://dedra.pl/hpeciai/3c5acc2671244d0bf78714fcfc95fd0c/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_18.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 65100,
+      "sha256": "4f13445b6f9bcf7051afbbab7ea91cd9f7449f618a4f1414ff14b4b3a38fda65"
+    },
+    {
+      "file": "produkt-20.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://dedra.pl/hpeciai/32100ed90bcdb13ac6c94c744fecd48e/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_20.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 75912,
+      "sha256": "ddbd7bd9f77a1d68e0d1a25b9f68bcbcdf9132a06a4a0c33034b31ea28116bb4"
+    },
+    {
+      "file": "produkt-22.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://dedra.pl/hpeciai/7310be5fdcead2876f4f0add3a8a02a5/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_22.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 94604,
+      "sha256": "63e17ded2ed68d9655c013379fcdfc1582abafa55f8cddb118a6cb6ad81138bf"
+    },
+    {
+      "file": "produkt-23.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://dedra.pl/hpeciai/8db655e70fcd0da328a1dd0489ca7ebd/pol_pl_Dmuchawa-odkurzacz-akumulatorowy-18V-DEDRA-SAS-ALL-DED7072-23022_23.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 41612,
+      "sha256": "899249bfe13a023a4e33e74f36228d5ae1983823f64815737d0f96b0c819602b"
+    },
+    {
+      "file": "aku-03.webp",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://dedra.pl/hpeciai/70cd359333daf5f3b33bd212b56a4cfa/pol_pl_Akumulator-bateria-DEDRA-SAS-ALL-DED7034-4-0Ah-LI-ion-22990_3.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 63078,
+      "sha256": "af780e996322f37d622932cdcf04a206fe92f5bdc92d9ce7b8cff41ab97b6905"
+    },
+    {
+      "file": "aku-05.webp",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://dedra.pl/hpeciai/399b2a6159d1235fd885247d40c50857/pol_pl_Akumulator-bateria-DEDRA-SAS-ALL-DED7034-4-0Ah-LI-ion-22990_5.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 48604,
+      "sha256": "978b151f50113692e1995785f8e20470da596a86e15b0861e18812f241dba18d"
+    },
+    {
+      "file": "lad-02.webp",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://dedra.pl/hpeciai/a50593db6b3b84d996e4740a885b3e9b/pol_pl_Ladowarka-zasilacz-DEDRA-SAS-ALL-DED7038-pasuje-do-DED7032-DED7034-DED7035-DED6936-DED6937-22991_2.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 36982,
+      "sha256": "35733c49c9c516388cc111bb802cf797cfb5b9792f72abfdb870c5bfd0f0b21b"
+    },
+    {
+      "file": "logo-dedra.jpg",
+      "kind": "logo",
+      "order": 20,
+      "sourceUrl": "lokalny: dropshipping/materiały/logo/Dedra_Logo.jpg",
+      "width": 1200,
+      "height": 407,
+      "bytes": 64319,
+      "sha256": "a4f96ff4d632599d0fdc22b1538a834b0d737efacc0d1528b4cb31a527087801"
+    }
+  ]
+}

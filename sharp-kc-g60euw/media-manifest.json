@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T13:59:19.397113+02:00",
+  "sourcePage": "https://4air.pl/oczyszczacz/sharp-kc-g60euw (+ euro.com.pl jako zapas)",
+  "slug": "sharp-kc-g60euw",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_32693_1200_1200/Sharp-KC-G60EUW-oczyszczacz-powietrza-przod.webp",
+      "bytes": 18664,
+      "sha256": "d63ed1c56422e2e8e70f6f06b8a405a74907110eb03eda02aa0ff1893d5c0bd1",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_32694_1200_1200/Sharp-KC-G60EUW-oczyszczacz-powietrza-widok-od-frontu.webp",
+      "bytes": 12476,
+      "sha256": "1de3c66f4ecdafd80b1a7c5225d8c835dd296c61e1d381f2d55454a220457c1a",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_32691_1200_1200/Sharp-KC-G60EUW-oczyszczacz-powietrza-filtry-powietrza.webp",
+      "bytes": 56274,
+      "sha256": "380915740f748e97a0fbe0466be2a0676e60d39ef1858a5a49c66267379afaa2",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "repo lokalne: claude/erli-research/_tmp/g53-2026-09-06/logo-producenta.png",
+      "bytes": 12109,
+      "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b",
+      "width": 546,
+      "height": 161
+    }
+  ]
+}

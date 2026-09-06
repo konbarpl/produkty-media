@@ -1,0 +1,131 @@
+{
+ "version": 1,
+ "generatedAt": "2026-09-06T10:25:58.636162Z",
+ "sourcePage": "https://einhell.pl/produkt/odkurzacz-dmuchawa-do-lisci-akumu-ge-cl-36-230-li-e-solo-3433630/",
+ "slug": "einhell-ge-cl-36-230-li-e-solo-3433630",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "logo-einhell.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433630_21021_001.jpg",
+   "width": 1692,
+   "height": 1692,
+   "bytes": 233742,
+   "sha256": "4d2a345a7bdd19f06f61827dab9ffc21a9b7eaa3ebc89628bddafaee0ad2fc3a"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433630_2-1.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 283298,
+   "sha256": "f147add38cba255e2c5f06e7a8e4af28b248f8332a2208117283eb092a5e26ac"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433630_3-1.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 151419,
+   "sha256": "0369a521234a5f91ee1ece05648ad74c0e6e39925aefb13fc2fdb2bbc2e642a7"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433630_4-1.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 213910,
+   "sha256": "f5dfc0d176dd7f362d0082f86f927b07ffd24d966ed3f1aa7a534ef40aaf95e1"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433630_5-1.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 165004,
+   "sha256": "1b2426e96c3fce348bb282911d1e2cde788fadca7ee296775cb16485feacf2f3"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433630_6-1.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 162586,
+   "sha256": "dd752bccd9397a9e7284eece42775b65d60a66b10c4165cb9486ab19c5a91593"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433630_7-scaled-1.jpg",
+   "width": 1600,
+   "height": 1067,
+   "bytes": 536344,
+   "sha256": "94c4628ac63fe9d66f7e9ca474be72b1663b39da7d05ed872c4be1defe00249a"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433630_8-1.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 291214,
+   "sha256": "585b089651e50a540da66f764fc0bc735e5fe8d441777f09bffe9d91182446d9"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433630_9-1.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 88006,
+   "sha256": "b9e3ce89da4b5d17bd0380c78b4b66d494b8a1694f8bcb21761d2b98c2c86e6e"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://einhell.pl/wp-content/uploads/2024/12/3433630_10-1.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 81872,
+   "sha256": "3f0ba7f5f61957851c2d47932ffd00bd59ec41cb97c3c2d48d4e3aa7df1bf4fb"
+  },
+  {
+   "file": "logo-einhell.jpg",
+   "kind": "logo",
+   "order": 11,
+   "sourceUrl": "dropshipping/materialy/logo/Einhell_Logo.png",
+   "width": 508,
+   "height": 98,
+   "bytes": 7259,
+   "sha256": "a23c52ae6d6745d70be36f79eb0a307d4b33c2e8a0d193a55ffcbddf38bed9a8"
+  }
+ ]
+}

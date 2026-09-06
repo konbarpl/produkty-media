@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T12:14:43.730879Z",
+  "sourcePage": "https://www.sharpsklep.pl/oczyszczacz-sharp-iggc2eup-przenosny-p-211.html",
+  "slug": "sharp-ig-gc2eu-p",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-producenta.png"
+  ],
+  "odrzucone": [
+    {
+      "file": "me_03_...-skos-2.jpg",
+      "powod": "ten sam render co produkt-02, minimalnie inny kat - duplikat wizualny"
+    },
+    {
+      "file": "me_05_...-bok-2.jpg",
+      "powod": "ten sam render co produkt-04 - duplikat wizualny"
+    },
+    {
+      "file": "ss_main.png (sharpsklep 291x462)",
+      "powod": "ten sam packshot co produkt-01 w duzo nizszej rozdzielczosci"
+    },
+    {
+      "file": "ss_1.jpg (sharpsklep 380x630)",
+      "powod": "kadr uzytkowy w rozdzielczosci ponizej progu jakosci galerii Erli"
+    }
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/72/7232912/Oczyszczacz-powietrza-SHARP-IGGC2EUP-front.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 124360,
+      "sha256": "ba69aa1f919ae6a6db1f89c234767602bd0e29760cd0777cc56be9d668542ee4",
+      "note": "packshot na bialym tle, obudowa rozowy metalik wariantu -P, panel z logo SHARP - miniaturka"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/72/7232912/Oczyszczacz-powietrza-SHARP-IGGC2EUP-skos.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 122187,
+      "sha256": "93dc1a7d71c28d8a3fccc09172f3389d2482e79916910797acbf32374d07b5a3",
+      "note": "ujecie pod katem - widoczne zebrowanie wlotu powietrza i okno Plasmacluster"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/72/7232912/Oczyszczacz-powietrza-SHARP-IGGC2EUP-gora.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 128136,
+      "sha256": "7709dee03eca039bba8caee7eb6bb383ee48237249fcd5e04b7e3dd32d38d901",
+      "note": "widok z gory na panel sterowania z wyswietlaczem (przyciski power i MODE, oznaczenia LOW/MED/HIGH)"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/72/7232912/Oczyszczacz-powietrza-SHARP-IGGC2EUP-bok.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 115879,
+      "sha256": "71f2b941a901b1f86e8ffaa270e3fc2c32eeddad22721f57e44d02f52a61c94d",
+      "note": "ujecie z boku - proporcje kubka i wysokosc 162 mm"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.sharpsklep.pl/images/IGGC2EUP%202.jpg",
+      "width": 720,
+      "height": 479,
+      "bytes": 69387,
+      "sha256": "410bf7d299dde98bbeb71754734288ec98e7c72ecc7b545682dca661e6da6202",
+      "note": "zdjecie uzytkowe: urzadzenie w uchwycie na kubek w samochodzie (kadr producenta z karty sharpsklep.pl)"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "repo partii G53 (claude/erli-research/_tmp/g53-2026-09-06/logo-producenta.png)",
+      "width": 546,
+      "height": 161,
+      "bytes": 12109,
+      "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b",
+      "note": "logo marki Sharp - KONIEC galerii"
+    }
+  ],
+  "uwagi": [
+    "Packshoty 1500x1500 pobrane z Media Expert nawigacja headful Playwright (curl i page.request dostaja 403).",
+    "CDN RTV Euro (f00.esfr.pl) oddaje 403 nawet z kontekstu headful - nie probowano drugi raz (ustalenie partii G53).",
+    "Wszystkie kadry przedstawiaja wariant -P (rozowy metalik) - sprawdzone wzrokowo na kontaktowce _tmp/sharp-ig-gc2eu-p/kontaktowka.jpg."
+  ]
+}

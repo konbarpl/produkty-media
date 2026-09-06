@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T12:47:19.931635+02:00",
+  "sourcePage": "https://naxpower.com/pl/odkurzacz-nax-950v/",
+  "sourcePageSecondary": "https://nac.com.pl/olej-2-suw-01-litra-nac-oil-mix-01l/",
+  "slug": "nax-950v-zestaw-olej-nac-2t",
+  "note": "ZESTAW: odkurzacz NAX 950V (karta naxpower.com) + olej NAC OIL MIX 0,1 l (karta nac.com.pl). Logo marki NAX (logo-nax.png) na KONCU galerii. Brak packshotu calego zestawu na bialym tle - miniaturka zestawu do zlozenia przez Konrada.",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-nax.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://naxpower.com/wp-content/uploads/2021/01/NAX950V-2020_01-amazon-1.jpg",
+      "width": 1800,
+      "height": 1800,
+      "bytes": 630202,
+      "sha256": "4fd103c5dfc18420498f2bdf05eed90099c8236497402bc7f8ab8f0293d6d2a7"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/01/olej-MIX-NAC-OIL-100ML_2021_01-2-2048x1367.jpg",
+      "width": 2048,
+      "height": 1367,
+      "bytes": 106477,
+      "sha256": "225e8ba521a68d73a862fac7429d28dd51057bfdb62b50b7a89873973e969af7"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://naxpower.com/wp-content/uploads/2021/01/NAX950V-2020_05-amazon-1.jpg",
+      "width": 1800,
+      "height": 1800,
+      "bytes": 367106,
+      "sha256": "61eb9a9e7380e6e00b31a4b8a8f95537341df69906852b3459be776b1bd6fff2"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://naxpower.com/wp-content/uploads/2021/01/NAX950V-2020_08-amazon-1.jpg",
+      "width": 1800,
+      "height": 1800,
+      "bytes": 385702,
+      "sha256": "7bd82491dc35f4346dfa8e5f66404e84e4237105ccb9807bd2a09405d5f6b515"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://naxpower.com/wp-content/uploads/2021/01/NAX950V-2020_09-amazon-1.jpg",
+      "width": 1800,
+      "height": 1800,
+      "bytes": 378873,
+      "sha256": "6d6300ae93a0544a5196488f4d5edcc698f3f4c8bc117a63b291427f79649322"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://naxpower.com/wp-content/uploads/2020/03/NAX950V-2020_14-small.jpg",
+      "width": 640,
+      "height": 427,
+      "bytes": 61917,
+      "sha256": "e8e62d86d1aface0a060c8f6b4489cddcc9ca63a5839f7a0b8f0be3f43d7fc6a"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://naxpower.com/wp-content/uploads/2020/03/NAX950V-2020_36-Edit-small.jpg",
+      "width": 640,
+      "height": 427,
+      "bytes": 50410,
+      "sha256": "6937db39fc6aaddc39f9572664d94f205b5f813d519ec7f9b826d052e23522da"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://naxpower.com/wp-content/uploads/2020/03/NAX950V-2020_39-Edit-small.jpg",
+      "width": 640,
+      "height": 427,
+      "bytes": 64200,
+      "sha256": "4149f2f1eb8809589aa0af2a7de005e94830e69dbfcffb185bfcb3c827d797eb"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://nac.com.pl/wp-content/uploads/2026/01/olej-MIX-NAC-OIL-100ML_2021_02-2048x1367.jpg",
+      "width": 2048,
+      "height": 1367,
+      "bytes": 99886,
+      "sha256": "849d3d3ac936935a08b4de3270d21d589d5ffb60c6868c1aa9eecd5b3037c29a"
+    },
+    {
+      "file": "logo-nax.png",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "https://naxpower.com/wp-content/uploads/2020/05/logo.png",
+      "width": 504,
+      "height": 177,
+      "bytes": 25831,
+      "sha256": "633c079b0c00376c1fca8784afc6017f8619581b0a61ed1658ff11071afbdcb9"
+    }
+  ]
+}
