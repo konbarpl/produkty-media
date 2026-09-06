@@ -64,12 +64,13 @@
       "file": "produkt-05.png",
       "kind": "lifestyle",
       "order": 5,
-      "sourceUrl": "https://media.husqvarnagroup.com/image/GA650-1837.png?format=png&width=2000",
-      "width": 2000,
-      "height": 3000,
-      "bytes": 8504320,
-      "sha256": "839af9cd3756b7f4d625715ccdf13f5ce582082aefb4ae31dff7837a1efca665",
-      "desc": "Praca na patio"
+      "sourceUrl": "https://media.husqvarnagroup.com/image/GA650-1837.png?format=png&width=1400",
+      "width": 1400,
+      "height": 2100,
+      "bytes": 4339680,
+      "sha256": "4bd47ec470e0a122784d9e5b53532cd70e6f5334822f30bed6e5b52d1bb0b68f",
+      "desc": "Praca na patio",
+      "note": "width=1400 zamiast 2000 - plik 2000px (8,5 MB) odbijal sie od GitHub Contents API (HTTP 401)"
     },
     {
       "file": "produkt-06.png",
