@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T12:49:18.692806+02:00",
+  "sourcePage": "https://idealnepowietrze.pl/p/sharp-kc-g50euw/ + https://4air.pl/oczyszczacz/sharp-kc-g50euw",
+  "slug": "sharp-kc-g50euw",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.webp",
+    "produkt-03.jpg",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/kcg50euw-01.jpg",
+      "width": 550,
+      "bytes": 15861,
+      "sha256": "c94ac4e235e9d9a28f57a5df04a197c02adb92314132394b276dc485b39f5559"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_32690_500_500/Sharp-KC-G50EUW-oczyszczacz-powietrza-widok-od-frontu.webp",
+      "width": 500,
+      "bytes": 3580,
+      "sha256": "fde25798d2da322f0c11e1915ee88fd0c283a219ab87908639d0203036264d71"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://idealnepowietrze.pl/wp-content/uploads/kcg50euw-02.jpg",
+      "width": 550,
+      "bytes": 14375,
+      "sha256": "7377a590f3699ab4f48e4f89756759bb3085167cb2c41c06856aa3b8496c2f79"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_32689_500_500/Sharp-KC-G50EUW-oczyszczacz-powietrza-przod.webp",
+      "width": 500,
+      "bytes": 5014,
+      "sha256": "daa03e81e33dcafd4c0fb24f13a188ed05aba842096f5b62396cb93312ebb912"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://4air.pl/environment/cache/images/productGfx_32687_500_500/Sharp-KC-G50EUW-oczyszczacz-powietrza-filtry-powietrza.webp",
+      "width": 500,
+      "bytes": 14138,
+      "sha256": "90a6349b795c2015e9a6f0631443fe288e1506981480f01aa82d8911c34dd89d"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "logo marki Sharp (repo projektu, biale tlo)",
+      "width": 546,
+      "bytes": 12109,
+      "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b"
+    }
+  ]
+}
