@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T12:30:00.000Z",
+  "sourcePage": "https://www.gardena.com/pl/produkty/uprawa-gleby/porzadki-wokol-domu-i-w-ogrodzie/dmuchawa-odkurzacz-ergojet-3000/966786101.html",
+  "note": "zdjecia z CDN Husqvarna Group, width=2000; tozsamosc potwierdzona title plikow 09332-20-* na karcie producenta",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "opis-01.png",
+    "logo-gardena.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/GA610-0773.png?format=png&width=2000",
+      "width": 2000,
+      "height": 2825,
+      "bytes": 2520511,
+      "sha256": "f2abc8ea1e9b551f106ae8aab1d6946981c5fd21fc8f348d3e6348b424102ea6",
+      "desc": "Widok z boku dmuchawy z dolaczonym workiem zbiorczym"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/GA610-0466.png?format=png&width=2000",
+      "width": 2000,
+      "height": 1332,
+      "bytes": 1276802,
+      "sha256": "31bf869b66d8a9ec526dc2c29a4f6be3eb479a96fdde9dd7243204cadba84884",
+      "desc": "Widok z boku, ergonomiczny uchwyt"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/GA620-0262.png?format=png&width=2000",
+      "width": 2000,
+      "height": 1333,
+      "bytes": 2804510,
+      "sha256": "0e65debcb8179bc8be21d9709c212396d2ae4fd137ea64d693d5917193550ecd",
+      "desc": "Metalowy wirnik w dloni"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/GA620-0264.png?format=png&width=2000",
+      "width": 2000,
+      "height": 1333,
+      "bytes": 3485683,
+      "sha256": "e5b30862b2887442a588bbbbe883cb9a86bf21edc45ea76dffd379eeb8b567c7",
+      "desc": "Montaz worka / ClickFit"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/GA650-1837.png?format=png&width=2000",
+      "width": 2000,
+      "height": 3000,
+      "bytes": 8504320,
+      "sha256": "839af9cd3756b7f4d625715ccdf13f5ce582082aefb4ae31dff7837a1efca665",
+      "desc": "Praca na patio"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/GA650-1839.png?format=png&width=2000",
+      "width": 2000,
+      "height": 1334,
+      "bytes": 4490165,
+      "sha256": "58ec001d9a964ac6c554f66558c09e7864fbc0f7094d59be9c7f018bc8345be9",
+      "desc": "Praca na sciezce ogrodowej"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/GA650-1840.png?format=png&width=2000",
+      "width": 2000,
+      "height": 3000,
+      "bytes": 8507899,
+      "sha256": "4c44114841d9cd7c8b8a6d1a3f79f5c8df2a0d0af114ffe1ae78558f8e1728e6",
+      "desc": "Praca na utwardzonej sciezce"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/GA650-1838.png?format=png&width=2000",
+      "width": 2000,
+      "height": 1333,
+      "bytes": 3850406,
+      "sha256": "be78cf5d79ba01ef03bcf307896ffa7b31e4f881606a175cf0df07631b0b7fb5",
+      "desc": "Odkurzanie lisci przy garazu"
+    },
+    {
+      "file": "opis-01.png",
+      "kind": "info",
+      "order": 9,
+      "sourceUrl": "https://media.husqvarnagroup.com/image/GA650-0798.png?format=png&width=2000",
+      "width": 1990,
+      "height": 1535,
+      "bytes": 2304077,
+      "sha256": "7ce8971a59fa3e7e7e80bc8761fe7e1ed99134559c5521bc38cc2920fa194724",
+      "desc": "Grafika redukcji objetosci odpadow 16:1"
+    },
+    {
+      "file": "logo-gardena.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "dropshipping/materiały/logo/Gardena_Logo.jpg",
+      "width": 1200,
+      "height": 381,
+      "bytes": 58573,
+      "sha256": "a2eb60ac33cf5836d9d25b7e076f2be819814fd74f3fcd0360b55884917533cb",
+      "desc": "Logo marki GARDENA na bialym tle"
+    }
+  ]
+}
