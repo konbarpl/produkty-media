@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T12:44:17.553710+02:00",
+  "sourcePage": "https://www.sharpconsumer.com/air-purifier/kin52ew/",
+  "slug": "sharp-ua-kin52e-w-bialy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/15c84ef6-ac0b-11eb-b9cd-9ec13eb6d26d.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 67794,
+      "sha256": "cb995cd1f6e2e1cd5500d82dbd18919f6440ec57bb41760ebbd6d68e26e08f0f",
+      "srcFormat": "JPEG"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/d3e503d8-ac0a-11eb-a76c-faeb43db131c.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 66918,
+      "sha256": "111981171607ca6a066fafd4e9e9d02f063933b8f762f43fae6c4b9001528240",
+      "srcFormat": "JPEG"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/d54df44a-ac0a-11eb-83a1-e6f72d65dac1.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 62792,
+      "sha256": "46be255bba1dadb176df72a5938717c81a1a1ce36d2f91adcf3b77393b8ff815",
+      "srcFormat": "JPEG"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/d25c138a-ac0a-11eb-a335-faeb43db131c.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 68928,
+      "sha256": "5261c0f8aa5e7538e7cd8d0a021022f6cf779fe8faf7739a8e583668bfd2abce",
+      "srcFormat": "JPEG"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/ede87072-a5a1-11ee-bb01-ee4821c7c95f.png",
+      "width": 1600,
+      "height": 2400,
+      "bytes": 140825,
+      "sha256": "6333710b1673edd934dbdf9c08352dba4cb27814db0a5b52e56541e24de8a3e2",
+      "srcFormat": "PNG"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/ce98937a-ac0a-11eb-96a4-e6f72d65dac1.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 163566,
+      "sha256": "4a9e8306bb27f9199535b9506fc6f6be45bcaa5ac5a13b79b17027df56c5828f",
+      "srcFormat": "JPEG"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/806ee5ba-d933-11ee-b05d-762372ce9183.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 140893,
+      "sha256": "f1a2bd0d15ac503851307ec9f8e6b9bd9af88015629a2e2e744c2fb9775ed94c",
+      "srcFormat": "JPEG"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/758a7d58-d933-11ee-aff4-b63971e5fe84.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 150743,
+      "sha256": "179601178d47e847dd23150d3692dc14b3b6cc799f5df7e35f1c63f699312fa1",
+      "srcFormat": "JPEG"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/cc2e71f0-ac0a-11eb-88e5-9ec13eb6d26d.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 78882,
+      "sha256": "1cd11fd10c456851d092506e108b354d0283bf72b72838bd613cd2d83ea64384",
+      "srcFormat": "JPEG"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/cb5d8b82-ac0a-11eb-b58f-9ec13eb6d26d.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 80502,
+      "sha256": "16ca4145d340fba5ef70c6f61cb4e349c5b31d083f945d3fba4a8f8fd57e9725",
+      "srcFormat": "JPEG"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/11631d78-ac0b-11eb-9261-faeb43db131c.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 216756,
+      "sha256": "45dabd5e905c4092c96563dab8600d1abd5f20ec86d841b23f54106ccb650b2f",
+      "srcFormat": "JPEG"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/d30c9bf4-ac0a-11eb-b7b8-faeb43db131c.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 78367,
+      "sha256": "78dd34b69c0fa9e829aac4fc7aafd05cb4463e4228095705bb394ee9c6419246",
+      "srcFormat": "JPEG"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/ab377322-8d78-11eb-9f72-2665af467933.png",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 58264,
+      "sha256": "4599e05b13a7c550f622771dbaa3c2eda36b5d55d7073220cf6f258b68319537",
+      "srcFormat": "PNG"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/cf13335a-8d78-11eb-bdab-52355f7f6196.png",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 58680,
+      "sha256": "e48875d8bf6fb7cda36b2f846edca700a3eb378952c6296bc19e2e5f692b9058",
+      "srcFormat": "PNG"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/baf509a2-8d78-11eb-9503-2665af467933.png",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 74088,
+      "sha256": "6dac60019237ec00b18a29019ebfa9fbd81385c7f0eed1551d9d1e904bcc8e23",
+      "srcFormat": "PNG"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "description",
+      "sourceUrl": "https://res.cloudinary.com/dnpkvlbae/image/fetch/c_auto,f_auto,q_auto:good,w_1600/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/af7e4f70-b43c-11ed-a533-4e2cbf5fdb5d.png",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 62693,
+      "sha256": "bc4d907979e996beb25845eacbc717e10720dec0b6840f7b33914c40dcea5b7c",
+      "srcFormat": "PNG"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "sourceUrl": "repo mediow / paczka G53 (logo Sharp na bialym tle)",
+      "width": 546,
+      "height": 161,
+      "bytes": 12109,
+      "sha256": "fe550e640b444ca3471b4cc927e48bcf558c99f222e26b9212b73a514ce3d01b"
+    }
+  ]
+}
