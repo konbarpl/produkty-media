@@ -13,7 +13,8 @@
     "opis-01.jpg",
     "opis-02.jpg",
     "opis-03.jpg",
-    "opis-04.jpg"
+    "opis-04.jpg",
+    "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-stadler-form.jpg"
   ],
   "files": [
     {
@@ -105,6 +106,13 @@
       "width": 2000,
       "bytes": 2334080,
       "sha256": "3009117cc5071da1e0c6cf258f2063e55b9cb62969de4afebf497ea1f2540d4e"
+    },
+    {
+      "file": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-stadler-form.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-stadler-form.jpg",
+      "note": "logo marki ze wspolnego katalogu _logo repo mediow - plik NIE kopiowany do katalogu modelu"
     }
   ],
   "dropped": 0
