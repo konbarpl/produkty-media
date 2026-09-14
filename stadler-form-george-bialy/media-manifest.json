@@ -11,7 +11,8 @@
     "produkt-05.png",
     "produkt-06.png",
     "opis-01.jpg",
-    "opis-02.jpg"
+    "opis-02.jpg",
+    "logo-producenta.jpg"
   ],
   "files": [
     {
@@ -85,6 +86,15 @@
       "width": 2000,
       "bytes": 434744,
       "sha256": "570e3232044eb23a173a268939f7da57bffdc99ea76702aef7ec375a55fb4424"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 1,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-stadler-form.jpg",
+      "width": 539,
+      "bytes": 9698,
+      "sha256": "6e7621ecb8647ffa150e86453afe5f04d0b8e7f84025d7bc380d931d3996cc53"
     }
   ],
   "dropped": 0
