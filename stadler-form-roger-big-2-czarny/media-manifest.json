@@ -11,7 +11,8 @@
     "produkt-05.png",
     "produkt-06.png",
     "opis-01.jpg",
-    "opis-02.jpg"
+    "opis-02.jpg",
+    "logo-producenta.jpg"
   ],
   "files": [
     {
@@ -85,6 +86,15 @@
       "width": 2000,
       "bytes": 1642613,
       "sha256": "b5daa2c794d424f51cbd7f6f36796e7d7c60738d4cf02be29c85019b1a6d8001"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-stadler-form.jpg",
+      "bytes": 9698,
+      "sha256": "6e7621ecb8647ffa150e86453afe5f04d0b8e7f84025d7bc380d931d3996cc53",
+      "note": "logo marki Stadler Form skopiowane z _logo/ repo mediow"
     }
   ],
   "dropped": 0
