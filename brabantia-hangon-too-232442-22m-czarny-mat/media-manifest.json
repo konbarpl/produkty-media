@@ -23,7 +23,8 @@
       "width": 1000,
       "height": 1000,
       "bytes": 54470,
-      "md5": "1409c4db30f04fb92d52557a4cb53367"
+      "md5": "1409c4db30f04fb92d52557a4cb53367",
+      "sha256": "6bff86e01c9e6929e58e84413d3d69b4dff97d364103270621302b2bb9bf0d59"
     },
     {
       "file": "produkt-02.jpg",
@@ -33,7 +34,8 @@
       "width": 1000,
       "height": 1000,
       "bytes": 38503,
-      "md5": "0cb93fd35ea10be86d60fe66ca0131a8"
+      "md5": "0cb93fd35ea10be86d60fe66ca0131a8",
+      "sha256": "4cbdf1fb360b65fc9fe516fd9a4efb2cd92aa24b6dfaa9cc9ea7e90b5c5c1ce7"
     },
     {
       "file": "produkt-03.jpg",
@@ -43,7 +45,8 @@
       "width": 1000,
       "height": 1000,
       "bytes": 42693,
-      "md5": "8b7694143ba0c1e4b5f43db90fe461ab"
+      "md5": "8b7694143ba0c1e4b5f43db90fe461ab",
+      "sha256": "ad9b5a4e69716b441444e1e629f5a4f8aebd2e6df5d77de4c124d1c49c578c31"
     },
     {
       "file": "produkt-04.jpg",
@@ -53,7 +56,8 @@
       "width": 1000,
       "height": 1000,
       "bytes": 81934,
-      "md5": "9cfa799d19364158d745d9233866910e"
+      "md5": "9cfa799d19364158d745d9233866910e",
+      "sha256": "4119f0884dcbbaeb4541da26d8a567383ae38b5d4eda842e12abbe34403ab4bf"
     },
     {
       "file": "produkt-05.jpg",
@@ -63,7 +67,8 @@
       "width": 1000,
       "height": 1000,
       "bytes": 65139,
-      "md5": "30b903ff82285c8db2d8388f78352ca2"
+      "md5": "30b903ff82285c8db2d8388f78352ca2",
+      "sha256": "f1e5fe099545d36e5191f797736db370570ab0b297ca40b64a61fbf86ff24bff"
     },
     {
       "file": "produkt-06.jpg",
@@ -73,7 +78,8 @@
       "width": 1000,
       "height": 1000,
       "bytes": 51735,
-      "md5": "3261fb322c3bb14f385b418c1447097e"
+      "md5": "3261fb322c3bb14f385b418c1447097e",
+      "sha256": "637bdd0676ed98cd2375a5593233499cec4569d3bc93e086081d6ff720b24029"
     },
     {
       "file": "produkt-07.jpg",
@@ -83,7 +89,8 @@
       "width": 1024,
       "height": 1024,
       "bytes": 31467,
-      "md5": "54877e4b5c7c379db96fb8a4c3ca94d3"
+      "md5": "54877e4b5c7c379db96fb8a4c3ca94d3",
+      "sha256": "49d1ca2020102d8db153c4dfc9016c93f2c74b3abe60c51cba7581ee4243e780"
     },
     {
       "file": "logo-brabantia.jpg",
@@ -93,7 +100,8 @@
       "width": 590,
       "height": 96,
       "bytes": 18870,
-      "md5": "c6cd2a07a464e27c6367aa99ff9da2c0"
+      "md5": "c6cd2a07a464e27c6367aa99ff9da2c0",
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
     }
   ],
   "identityCheck": "Wszystkie 7 zdjec obejrzane na kontaktowce: suszarka skrzydlowa w kolorze czarnym matowym; nazwy plikow zrodlowych zawieraja kod 232442 i 'matt-black'. Duplikatow pikselowych brak (md5 unikalne)."
