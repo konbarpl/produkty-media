@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-14T11:59:46.702Z",
+  "sourcePage": "https://www.stadlerform.com/en/air-purifier/roger-little-white-r-015",
+  "slug": "stadler-form-roger-little-2-bialy",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "opis-01.jpg",
+    "opis-02.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/c4/eb/84/1634885767/stadler-form-roger-little-air-purifier-white-iso.png",
+      "width": 2000,
+      "bytes": 2285383,
+      "sha256": "e188b37ccbb269cfef10832fb5ae59ad7189fd4f0282d037bf5d0eb1a3681511"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/50/df/27/1634885767/stadler-form-roger-little-air-purifier-white-front.png",
+      "width": 2000,
+      "bytes": 2406649,
+      "sha256": "4a43bc0ee411f6117be63575778514f1588a9b58d0944c2dcf6d0b6d96ec2010"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/13/44/41/1634885765/stadler-form-roger-little-air-purifier-white-side.png",
+      "width": 2000,
+      "bytes": 1150750,
+      "sha256": "ed46c25ee19e31ad594e8dc815c647b1de125986f763372976a399f3af04f762"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/af/39/3a/1692014451/stadler-form-roger-little-air-purifier-control-panel.png",
+      "width": 1120,
+      "bytes": 503597,
+      "sha256": "7255c942b391e9bb24c5d25d2cb4d7cac070c45798118931bcb9cd8306bfe29d"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.stadlerform.com/media/51/64/0c/1747988300/stadler-form-roger-little-air-purifier-air-quality-led.png",
+      "width": 1120,
+      "bytes": 289930,
+      "sha256": "dba54a960e0a6fddd6f90c926dd7d4ab08176f05cc89c5d630711d0a958593a6"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.stadlerform.com/media/1b/77/d3/1634887991/stadler-form-roger-filter-h12-accessory.png",
+      "width": 2000,
+      "bytes": 2335953,
+      "sha256": "f53485e382a8c178db381b5faea9752d689667fdbd24ecf2229abc6265ffa2d1"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/7b/29/0e/1634885767/stadler-form-roger-little-air-purifier-white-lifestyle1.jpg",
+      "width": 2000,
+      "bytes": 2104071,
+      "sha256": "d4471d6ffb012480fa6cc2294ad7c57c362294d0c86084f9bb62d60ef75f06e4"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/3d/9d/dc/1634885767/stadler-form-roger-little-air-purifier-white-lifestyle2.jpg",
+      "width": 2000,
+      "bytes": 1361655,
+      "sha256": "4becd453a9785b2bf90d971fc6aa610f465556aa4011ad5c835289843cab6626"
+    }
+  ],
+  "dropped": 0
+}
