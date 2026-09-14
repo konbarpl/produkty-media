@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-14T12:15:14.593646+00:00",
+  "sourcePage": "https://www.brabantia.com/pl/suszarka-hangon-too-18-metrow-matt-black/",
+  "slug": "brabantia-hangon-too-232404-18m-czarny-mat",
+  "model": "232404 HangOn Too 18 m Matt Black",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232404_product_shot_front_01-web_1.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 35566,
+      "sha256": "347d67b0cfb27e567f0bc72be5679d9949c7e84f896aa6950811cda41dbcd398"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232404_product_shot_front_02-web_1.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 72242,
+      "sha256": "66c4874cfdbbe392bcf6d0001f1c4b5f32aaad80de131bb1288c2b7a065251ed"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232404_product_shot_angle_01-web_1.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 52667,
+      "sha256": "ddf5c5b2087c65735923ee60ac33ef761c1cde9f20a6db0a85475d27ce0e03e4"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232404_product_shot_side-web_1.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 45297,
+      "sha256": "39bc2092ed0a98535bd1f19f674479bb76a47253908967ed3d4f640999f2c895"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232404_product_shot_01-web_1.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 76841,
+      "sha256": "3e41a9767a9414f600e41bb4496899d6447e3f1d9bf133c226e29d4b40f0894c"
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "repo projektu dropshipping/materialy/logo/Brabantia_Logo.jpg (logo marki Brabantia)",
+      "width": 590,
+      "height": 96,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ],
+  "dropped": 0,
+  "visualIdentityCheck": "PASS"
+}
