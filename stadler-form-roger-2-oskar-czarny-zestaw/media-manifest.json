@@ -114,7 +114,8 @@
       "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-stadler-form.jpg",
       "bytes": 9698,
       "sha256": "6e7621ecb8647ffa150e86453afe5f04d0b8e7f84025d7bc380d931d3996cc53",
-      "note": "kopia wspolnego logo marki z _logo/ - publish_erli.js skleja imageBase+nazwa, pelny URL w gallery nie dziala"
+      "note": "kopia wspolnego logo marki z _logo/ - publish_erli.js skleja imageBase+nazwa, pelny URL w gallery nie dziala",
+      "width": 539
     }
   ],
   "dropped": 0
