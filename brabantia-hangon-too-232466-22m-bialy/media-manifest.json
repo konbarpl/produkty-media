@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-14T12:15:25.223Z",
+  "sourcePage": "https://www.brabantia.com/pl/suszarka-hangon-too-22-metry-white/",
+  "slug": "brabantia-hangon-too-232466-22m-bialy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232466_product_shot_front_01_copy.jpg",
+      "width": 893,
+      "height": 1200,
+      "bytes": 17182,
+      "sha256": "9519c60cbda1481b3550a20e766d6d8f8bd6d0d9919e27ba6d0fc19f414d23ae"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232466_product_shot_front_02_copy.jpg",
+      "width": 893,
+      "height": 1200,
+      "bytes": 37419,
+      "sha256": "5510ea0e11593286a660b15aae8a543f92a52898e222c46d752884d1d102ec3e"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232466_product_shot_angle_02_copy.jpg",
+      "width": 893,
+      "height": 1200,
+      "bytes": 26844,
+      "sha256": "23b372fee894e38f74e89de026845793d9e7e68f8850f0da703fb98eaebc0bed"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232466_product_shot_angle_03_copy.jpg",
+      "width": 893,
+      "height": 1200,
+      "bytes": 30222,
+      "sha256": "fd9d568a98bf46e06ff39b8ab9b45b3dece111cbf6d2cacbd3a5cefea5c892b7"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232466_product_shot_side_copy.jpg",
+      "width": 893,
+      "height": 1200,
+      "bytes": 23325,
+      "sha256": "da4d4a3ce90e8cfe4a6a521417bcd7a44fb664d481880941458e3642e7c11f16"
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 1,
+      "sourceUrl": "lokalny plik repo projektu: dropshipping/materialy/logo/Brabantia_Logo.jpg",
+      "width": 590,
+      "height": 96,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ],
+  "dropped": 0
+}
