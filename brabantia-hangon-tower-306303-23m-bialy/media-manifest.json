@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-14T12:15:00.000Z",
+  "sourcePage": "https://www.brabantia.com/pl/suszarka-hangon-tower-23-metry-white/",
+  "slug": "brabantia-hangon-tower-306303-23m-bialy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/3/0/306303_product_shot_front_1.jpg",
+      "width": 1024,
+      "bytes": 25024,
+      "sha256": "c404510cbdc2b1cdc9b72680136e0f6ee65f79610e65dca08312f071dedfb3c0"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/3/0/306303_product_shot_angle_1.jpg",
+      "width": 1024,
+      "bytes": 60583,
+      "sha256": "fc7f5ebe84db20b95b2f3ee5cb19a2c664ed1966ed9a53726daeff314efb1b6d"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/3/0/306303_product_shot_angle_3.jpg",
+      "width": 1024,
+      "bytes": 38135,
+      "sha256": "c56a8c6e5af4afa989ba258fc3d8c7bf6d814078f667c82b48730efd77f6a82b"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/3/0/306303_product_shot_angle_5.jpg",
+      "width": 1024,
+      "bytes": 29889,
+      "sha256": "60dfd456759fbd4a0202bc30edffc6382a7415723c93db4f5ee9a587a353f106"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/3/0/306303_product_shot_angle_ho.jpg",
+      "width": 1024,
+      "bytes": 69388,
+      "sha256": "f59cb3da00d011073a0a815fd1303c1b2f5789e856e3b3e802b6c794e27dadae"
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 1,
+      "sourceUrl": "lokalny plik projektu: dropshipping/materialy/logo/Brabantia_Logo.jpg",
+      "width": 590,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ],
+  "dropped": 0
+}
