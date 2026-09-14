@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-14T12:00:04.478Z",
+  "sourcePage": "https://www.stadlerform.com/en/air-washer-2-in-1/george-white-g-005",
+  "slug": "stadler-form-george-bialy",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "opis-01.jpg",
+    "opis-02.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/23/8a/21/1634819096/stadler-form-george-air-washer-white-front.png",
+      "width": 2000,
+      "bytes": 1490872,
+      "sha256": "c7f76a88ad343081c151ab2ff86fe602ed8029f08513dbf546e3c651465d2cce"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/a6/09/21/1634819095/stadler-form-george-air-washer-white-iso.png",
+      "width": 2000,
+      "bytes": 1666419,
+      "sha256": "11e64fe7ecd1703a074f3bf67c2d310246e99b32003f9c7e5189a0e7f2ad9d8b"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/07/e1/10/1634819097/stadler-form-george-air-washer-white-side.png",
+      "width": 2000,
+      "bytes": 1064068,
+      "sha256": "887c220a15d39883d82bf4c66c0197b1b6d853250bea51aeb14609bbfd874717"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/cf/16/72/1701258973/stadler-form-george-air-washer-control-panel.png",
+      "width": 1120,
+      "bytes": 427445,
+      "sha256": "6e6a42d0472c4977301ec4442a0abb8d8b2cf424e4d94e523d392869c50c3ea9"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.stadlerform.com/media/af/67/78/1701165951/stadler-form-air-washer-george-cleaning.png",
+      "width": 1120,
+      "bytes": 1385371,
+      "sha256": "36adcbe79936d79938a27bdf66cfb40ad6e75962d2ddf53caa93bd52cb1491ed"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.stadlerform.com/media/c6/cb/cc/1701166060/stadler-form-air-washer-george-fragrance.png",
+      "width": 1120,
+      "bytes": 1278409,
+      "sha256": "c0f4d7729344be0a4f4c9889404e6d79d12519dcb815e65c2b5a12c53d378de3"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/af/41/0a/1634819089/stadler-form-george-air-washer-white-lifestyle1.jpg",
+      "width": 2000,
+      "bytes": 2271866,
+      "sha256": "4b517d9d677105091653e899b9cbf70be60aeff97e2a3bf025346c6d933442ef"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/fb/4d/30/1634819096/stadler-form-george-air-washer-white-lifestyle2.jpg",
+      "width": 2000,
+      "bytes": 434744,
+      "sha256": "570e3232044eb23a173a268939f7da57bffdc99ea76702aef7ec375a55fb4424"
+    }
+  ],
+  "dropped": 0
+}
