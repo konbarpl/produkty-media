@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-14T11:59:58.481Z",
+  "sourcePage": "https://www.stadlerform.com/en/air-purifier/roger-black-r-017",
+  "slug": "stadler-form-roger-2-wifi-czarny",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/71/e9/c2/1634885636/stadler-form-roger-air-purifieriso.png",
+      "width": 2000,
+      "bytes": 3023203,
+      "sha256": "0d5272bdd93cfe97a4514683c21734e74d9e74e05d70b38bbe3a58829e8dea34"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/69/f5/ba/1634885636/stadler-form-roger-air-purifierfront.png",
+      "width": 2000,
+      "bytes": 3270763,
+      "sha256": "36266ffc39671d421c2291b7af3a08061d85ec3ff851e617c66c9c9e534c7fe2"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/0b/d2/53/1634885636/stadler-form-roger-air-purifier-side.png",
+      "width": 2000,
+      "bytes": 1275525,
+      "sha256": "2cd7c15029112df2c1a7918a47afb22f09b124a833e577a96443abbb7f1799a7"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/53/dd/c3/1747988239/stadler-form-roger-air-purifier-air-quality-led.png",
+      "width": 1120,
+      "bytes": 325011,
+      "sha256": "ff7cff853ae7c1077509dc78b1e48b700cf16c19c2f467081efaab1b1d131092"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.stadlerform.com/media/1b/77/d3/1634887991/stadler-form-roger-filter-h12-accessory.png",
+      "width": 2000,
+      "bytes": 2025014,
+      "sha256": "ca59fe2930f13364b64dcb060e89e633c99e69fef03b129c8f3fe1035f73ee35"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/25/07/7d/1634885637/stadler-form-roger-air-purifierlifestyle1.jpg",
+      "width": 2000,
+      "bytes": 2121295,
+      "sha256": "de3687b9920611998e9aba09b419442f1cab462f10af9c334fbc62fcffb88385"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/29/26/ed/1634885636/stadler-form-roger-air-purifierlifestyle2.jpg",
+      "width": 2000,
+      "bytes": 1467375,
+      "sha256": "eaf5ef415f8c94798a9b05f2525e58c638449fe47ff7b13963d0146a5843a4c6"
+    },
+    {
+      "file": "opis-03.png",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/53/68/a9/1691744805/stadler-form-air-puifier-roger-roger-big-wifi-app.png",
+      "width": 1120,
+      "bytes": 465393,
+      "sha256": "626d10129f206382a819c122d70ea506b55877a2ea163c58b85595f5ce8917c9"
+    }
+  ],
+  "dropped": 0
+}
