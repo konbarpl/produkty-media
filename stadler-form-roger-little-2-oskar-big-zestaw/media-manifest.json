@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-14T12:00:31.533Z",
+  "sourcePage": "https://www.stadlerform.com/en/air-purifier/roger-little-white-r-015 + https://www.stadlerform.com/en/humidifier/oskar-big-white-o-040",
+  "slug": "stadler-form-roger-little-2-oskar-big-zestaw",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "opis-01.jpg",
+    "opis-02.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/c4/eb/84/1634885767/stadler-form-roger-little-air-purifier-white-iso.png",
+      "width": 2000,
+      "bytes": 1930462,
+      "sha256": "229c23c8c15891d5cf905dafcc9d5f3a235113f2154617d7b171f8b416ce754a"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/50/df/27/1634885767/stadler-form-roger-little-air-purifier-white-front.png",
+      "width": 2000,
+      "bytes": 2040853,
+      "sha256": "57c4f2f321b7a77f5c2a4bde2d62ff09fabf15e8963663b1934ab00c85a5b8e0"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/13/44/41/1634885765/stadler-form-roger-little-air-purifier-white-side.png",
+      "width": 2000,
+      "bytes": 984442,
+      "sha256": "69bb3fe20217ad0e897d83169331aed20de0e9c2d3a72b0946946dd44e25afec"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/af/39/3a/1692014451/stadler-form-roger-little-air-purifier-control-panel.png",
+      "width": 1120,
+      "bytes": 416895,
+      "sha256": "1d5f7eaedbf50541d1be786e1478899a9bf9df934ea0055ad453d4a7cdf1082f"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.stadlerform.com/media/51/64/0c/1747988300/stadler-form-roger-little-air-purifier-air-quality-led.png",
+      "width": 1120,
+      "bytes": 224322,
+      "sha256": "f3a7dcdc2c0620e034039080dbbc55626aaa7b437f2ee807fff23ee294f11ee0"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.stadlerform.com/media/a7/cb/42/1634883307/stadler-form-oskar-big-humidifier-white-iso.png",
+      "width": 2000,
+      "bytes": 2043441,
+      "sha256": "b84b7be7d7e08a15c74bbd266ac9fcf0319aa11132ea6e4f933d90123dc26367"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.stadlerform.com/media/b4/2c/cf/1634883316/stadler-form-oskar-big-humidifier-white-side.png",
+      "width": 2000,
+      "bytes": 1318135,
+      "sha256": "3d587fdb540f164eb3fc9b167f7e1f470a72e8fbafb49bbf5c70f0404bc53a3d"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.stadlerform.com/media/72/6c/e8/1758790670/stadler-form-oskar-big-humidifier-scope-of-delivery.png",
+      "width": 1120,
+      "bytes": 443511,
+      "sha256": "8349a279f122d0fe758354e6f8a000edf838cfaf8c109bfe39079af06c64ec46"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/7b/29/0e/1634885767/stadler-form-roger-little-air-purifier-white-lifestyle1.jpg",
+      "width": 2000,
+      "bytes": 348769,
+      "sha256": "a2ab38a2d469793ad28866581e67a0bab1c09d83fdb5ed934b429fcf6ed2133b"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/f8/d4/15/1634883309/stadler-form-oskar-big-humidifier-white-lifestyle1.jpg",
+      "width": 2000,
+      "bytes": 1881800,
+      "sha256": "03df17e84ee5ae3845120b1be50b43ee137d997f367a5072472d36287df018ad"
+    }
+  ],
+  "dropped": 0
+}
