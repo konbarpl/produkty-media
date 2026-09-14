@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-14T12:16:08.870764Z",
+  "sourcePage": "https://www.brabantia.com/pl/suszarka-hangon-too-18-metrow-white/",
+  "slug": "brabantia-hangon-too-232428-18m-bialy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232428_product_shot_front_01_copy.jpg",
+      "width": 893,
+      "height": 1200,
+      "bytes": 19607,
+      "sha256": "5b0606a360175b8b36712d35522453bca083884e4302101646add0b52a478f40"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232428_product_shot_angle_01.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 31782,
+      "sha256": "ff22bb5e7c87d513891fc1d1c670cfef5d4196577dcd76ff333115147d828054"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232428_product_shot_side.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 29478,
+      "sha256": "a229f0e0d79b443302880713784eec5a9205e36ecadb6b4ac877eb41c2ff5688"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232428_product_shot_angle_02_copy.jpg",
+      "width": 893,
+      "height": 1200,
+      "bytes": 31856,
+      "sha256": "632d4146c8e5d1cd063446d6898705b0a63cd35013453b2fd28780e56bba8f80"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232428_product_shot_front_02.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 48104,
+      "sha256": "35e28e54f23741eb654ada9c85bd4d7cee996fdf63c627d6874acbda1b815079"
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "dropshipping/materiały/logo/Brabantia_Logo.jpg",
+      "width": 590,
+      "height": 96,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ]
+}
