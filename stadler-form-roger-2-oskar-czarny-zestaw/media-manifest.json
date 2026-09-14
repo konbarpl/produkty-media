@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-14T12:00:16.637Z",
+  "sourcePage": "https://www.stadlerform.com/en/air-purifier/roger-black-r-017",
+  "slug": "stadler-form-roger-2-oskar-czarny-zestaw",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/71/e9/c2/1634885636/stadler-form-roger-air-purifieriso.png",
+      "width": 2000,
+      "bytes": 2447742,
+      "sha256": "242e50b91bac5533ecd961192f23271a7374aa6af72ca55186b6384fefd6b9cc"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/69/f5/ba/1634885636/stadler-form-roger-air-purifierfront.png",
+      "width": 2000,
+      "bytes": 2585082,
+      "sha256": "c62bc19874c97ca5ad3b7999246aab5a48469f2e4cfe9df733602b85343d3865"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/0b/d2/53/1634885636/stadler-form-roger-air-purifier-side.png",
+      "width": 2000,
+      "bytes": 1093646,
+      "sha256": "5a9ed4971d22ab51d4104c1391ed027e380a2f4c63f2baf3d2ec9ec773495b2b"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/37/29/96/1699424710/stadler-form-oskar-humidifier-black-iso.png",
+      "width": 2000,
+      "bytes": 1725872,
+      "sha256": "3035efb96722016c97d4acc345a76520c3e0dbdf51b3e8418e5e4dfcdb8d6af7"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.stadlerform.com/media/79/8b/5a/1634882894/stadler-form-oskar-humidifier-black-front.png",
+      "width": 2000,
+      "bytes": 2269280,
+      "sha256": "3b48ed02ca7dbb4e8f4ec37dd4ec98a6c4d9732b73d32a70a59da4cc0ebf43bc"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.stadlerform.com/media/27/19/c1/1634882893/stadler-form-oskar-humidifier-black-side.png",
+      "width": 2000,
+      "bytes": 838003,
+      "sha256": "45ce8c3d824e13344ac0b08513775113f207618f5fb1b74a23b02c9854af8ca1"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/25/07/7d/1634885637/stadler-form-roger-air-purifierlifestyle1.jpg",
+      "width": 2000,
+      "bytes": 353888,
+      "sha256": "554ff277f557828fd70f7d9790c1964b0652c192907520574f573a9e77d33384"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/29/26/ed/1634885636/stadler-form-roger-air-purifierlifestyle2.jpg",
+      "width": 2000,
+      "bytes": 247653,
+      "sha256": "bcb67e0fbb067fd548c3ccd475499fc5e29d44fe0fc4a735034aa7725374b8e5"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/4e/fa/1c/1634882894/stadler-form-oskar-humidifier-black-lifestyle1.jpg",
+      "width": 2000,
+      "bytes": 2375928,
+      "sha256": "5c4b1feff05baf0e056bce098ecfea394fd05ae23c04fe11684da413bea8d532"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/0e/55/d9/1634882894/stadler-form-oskar-humidifier-black-lifestyle2.jpg",
+      "width": 2000,
+      "bytes": 2334080,
+      "sha256": "3009117cc5071da1e0c6cf258f2063e55b9cb62969de4afebf497ea1f2540d4e"
+    }
+  ],
+  "dropped": 0
+}
