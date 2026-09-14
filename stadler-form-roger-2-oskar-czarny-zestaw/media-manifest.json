@@ -14,7 +14,7 @@
     "opis-02.jpg",
     "opis-03.jpg",
     "opis-04.jpg",
-    "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-stadler-form.jpg"
+    "logo-producenta.jpg"
   ],
   "files": [
     {
@@ -108,11 +108,13 @@
       "sha256": "3009117cc5071da1e0c6cf258f2063e55b9cb62969de4afebf497ea1f2540d4e"
     },
     {
-      "file": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-stadler-form.jpg",
+      "file": "logo-producenta.jpg",
       "kind": "logo",
       "order": 11,
       "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-stadler-form.jpg",
-      "note": "logo marki ze wspolnego katalogu _logo repo mediow - plik NIE kopiowany do katalogu modelu"
+      "bytes": 9698,
+      "sha256": "6e7621ecb8647ffa150e86453afe5f04d0b8e7f84025d7bc380d931d3996cc53",
+      "note": "kopia wspolnego logo marki z _logo/ - publish_erli.js skleja imageBase+nazwa, pelny URL w gallery nie dziala"
     }
   ],
   "dropped": 0
