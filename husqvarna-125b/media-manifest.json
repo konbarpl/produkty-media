@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-14T10:46:28.437Z",
+  "sourcePage": "https://www.husqvarna.com/pl/dmuchawy-do-lisci/125b/",
+  "slug": "husqvarna-125b",
+  "identityCheck": "Kazde zdjecie obejrzane wzrokowo 14.09.2026: packshoty 01/02/07 maja na obudowie tabliczke 125B; lifestyle i feature zgodne kolorystycznie i konstrukcyjnie z 125B. Zadnego zdjecia innego modelu.",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-07.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-06.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "logo-husqvarna.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www-static-nw.husqvarna.com/-/images/aprimo/husqvarna/blowers/photos/studio/h210-0194.webp",
+      "note": "packshot calego produktu na bialym tle (studio) - MINIATURKA",
+      "bytes": 31548,
+      "sha256": "acd3ed040acb57704f8d3372abe7a1e139b29373374fcf5b1a84e8905bea2f5d"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www-static-nw.husqvarna.com/-/images/aprimo/husqvarna/blowers/photos/studio/fa-963927.webp",
+      "note": "packshot studio - zblizenie na silnik i tabliczke 125B",
+      "bytes": 89460,
+      "sha256": "0818acf11c7bea66520260e5c7187d99e76c3085de7cd886ae0c795cef30f30b"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www-static-nw.husqvarna.com/-/images/aprimo/husqvarna/blowers/photos/studio/ll-208571.webp",
+      "note": "packshot studio - ujecie z drugiej strony",
+      "bytes": 67464,
+      "sha256": "fe10f87cc2ca1b14a38677b3184c0bf982dcde3b1836b7631aca2a44d1a687b5"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www-static-nw.husqvarna.com/-/images/aprimo/husqvarna/blowers/photos/action/h250-0532.webp",
+      "note": "lifestyle - praca w ogrodzie przy domu",
+      "bytes": 213940,
+      "sha256": "014d303229c8906c3159bd6ee3a0df138aa35a376af90c9c9de4161d4688a811"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www-static-nw.husqvarna.com/-/images/aprimo/husqvarna/blowers/photos/action/h250-0526.webp",
+      "note": "feature - panel sterowania, latwy rozruch",
+      "bytes": 68964,
+      "sha256": "c30f8fec7a6acf459b58983dbe2d701a4635e3dd98be7addaad44b5abec43d7d"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www-static-nw.husqvarna.com/-/images/aprimo/husqvarna/blowers/photos/action/h250-0525.webp",
+      "note": "feature - uchwyt i blokada obrotow",
+      "bytes": 88524,
+      "sha256": "968098ce14d5a4902a4db3ce3a59733239b03c82e02678194f5c5e51bc721fb6"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www-static-nw.husqvarna.com/-/images/aprimo/husqvarna/blowers/photos/feature/h225-0101.webp",
+      "note": "feature - regulowana dlugosc rury",
+      "bytes": 34380,
+      "sha256": "77711914b54f84c803c579811ecbfb172d3c2cbe42cfec95c05762c001dc924f"
+    },
+    {
+      "file": "logo-husqvarna.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Husqvarna_logo.svg?width=1200",
+      "note": "logo marki zlozone na bialym tle (Wikimedia Commons)",
+      "bytes": 50454,
+      "sha256": "d5644112e61dd8e7e4192c7a8d7b802398aee1c41b466b4c2acaed6ddc684c73"
+    }
+  ]
+}
