@@ -1,88 +1,113 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-14T12:16:09.000Z",
-  "sourcePage": "https://www.brabantia.com/pl/suszarka-na-pranie-hangon-25-m-403446-white/",
-  "sourcePageSecondary": "https://www.brabantia.com/pl/kompaktowy-worek-na-klamerki-grey/",
+  "generatedAt": "2026-09-15T07:24:38.243Z",
+  "sourcePage": "https://www.brodasystem.pl/brabantia-403446-hangon-suszarka-na-pranie-25-m-bialy-pojemnik-na-klamerki.html",
   "slug": "brabantia-hangon-403446-25m-bialy-zestaw",
   "galleryOrder": [
-    "zestaw-01.jpg",
     "produkt-01.jpg",
     "produkt-02.jpg",
     "produkt-03.jpg",
     "produkt-04.jpg",
     "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
     "logo-brabantia.jpg"
   ],
   "files": [
     {
-      "file": "zestaw-01.jpg",
-      "kind": "set",
-      "order": 1,
-      "sourceUrl": "LOKALNY packshot zestawu od Konrada (claude/erli-research/_tmp/zwiad-g52-2026-09-14/zestaw-403446-packshot.jpg)",
-      "width": 1000,
-      "height": 1000,
-      "bytes": 45019,
-      "sha256": "303bef22d115ef0f2d3ac126e9418bb5267a6341d6e69a7820d72c6bd6ec8a7f"
-    },
-    {
       "file": "produkt-01.jpg",
       "kind": "product",
-      "order": 2,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/h/a/hangon_drying_rack_25m_-_white_-_8710755403446.jpg",
-      "width": 1024,
-      "height": 1024,
-      "bytes": 251083,
-      "sha256": "14622f7416db579989e2f7a48a387448c8fa24c6c0594925d1b05e5e3174d429"
+      "order": 1,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3773ba009ea5e5074a0d1321dcdf5e34/images/brabantia-413445-suszarka-na-pranie-hangon-25m-white-plus-pojenik-na-klamerki.jpg",
+      "width": 1000,
+      "bytes": 54130,
+      "sha256": "9f499dd06fc848b0160862bf53f67876baed133cbfaaf9ce6aff212297c9e4b3"
     },
     {
       "file": "produkt-02.jpg",
       "kind": "product",
-      "order": 3,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/4/0/403446_product_shot_front_03-web.jpg",
-      "width": 1024,
-      "height": 1024,
-      "bytes": 149873,
-      "sha256": "0b4bf17f84a624097437606ae31f46b0746c18aa5f85bb1da844b1f0941e502e"
+      "order": 2,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3773ba009ea5e5074a0d1321dcdf5e34/images/brabantia-413445-suszarka-na-pranie-hangon-25m-white-plus-pojenik-na-klamerki-2.jpg",
+      "width": 1000,
+      "bytes": 30966,
+      "sha256": "c1eff8291eb81fa7743a18c00ea06a9436413cdc9ddf3a62e536b4ae16b5927d"
     },
     {
       "file": "produkt-03.jpg",
       "kind": "product",
-      "order": 4,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/4/0/403446_product_shot_angle_02-web_1.jpg",
-      "width": 1024,
-      "height": 1024,
-      "bytes": 153102,
-      "sha256": "8ec875586069dde3e103df453f9ef4c589c08a24d1bdb8385f937817ae8119b9"
+      "order": 3,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3773ba009ea5e5074a0d1321dcdf5e34/images/brabantia-413445-suszarka-na-pranie-hangon-25m-white-plus-pojenik-na-klamerki-3.jpg",
+      "width": 1000,
+      "bytes": 25651,
+      "sha256": "61b955ab1e4c230e015e42094bf3584ba1ad9e9a875f8c3725560d7e0e93482c"
     },
     {
       "file": "produkt-04.jpg",
       "kind": "product",
-      "order": 5,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/4/0/403446_product_shot_angle_04-web.jpg",
-      "width": 1024,
-      "height": 1024,
-      "bytes": 170507,
-      "sha256": "9633bd6c40384e5e73f432e2a16267631d4278475f51dc1445ede1482536c838"
+      "order": 4,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3773ba009ea5e5074a0d1321dcdf5e34/images/brabantia-413445-suszarka-na-pranie-hangon-25m-white-plus-pojenik-na-klamerki-4.jpg",
+      "width": 1000,
+      "bytes": 35475,
+      "sha256": "2aa2d0116b30a75ab7067b597986977af7b6b31f3afd733a8baaba39ed0aad95"
     },
     {
       "file": "produkt-05.jpg",
       "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3773ba009ea5e5074a0d1321dcdf5e34/images/brabantia-413445-suszarka-na-pranie-hangon-25m-white-plus-pojenik-na-klamerki-5.jpg",
+      "width": 1000,
+      "bytes": 20764,
+      "sha256": "495c5c3c93b3e66919f6b8fedb52d1d7c8c7733e120edf67b14332785342d6f8"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
       "order": 6,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/p/e/peg_bag_compact_-_grey_-_8710755149801.jpg",
-      "width": 1280,
-      "height": 853,
-      "bytes": 83145,
-      "sha256": "af5512b2d5444c93d9e0534213e726f1abbde0dac13dae76e67184776d5f935f"
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3773ba009ea5e5074a0d1321dcdf5e34/images/brabantia-413445-suszarka-na-pranie-hangon-25m-white-plus-pojenik-na-klamerki-6.jpg",
+      "width": 1000,
+      "bytes": 35618,
+      "sha256": "193475c6d2951dbc7ac16bd72effb44b7ec623642f14e055d612426815c053db"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3773ba009ea5e5074a0d1321dcdf5e34/images/brabantia-413445-suszarka-na-pranie-hangon-25m-white-plus-pojenik-na-klamerki-7.jpg",
+      "width": 1000,
+      "bytes": 34331,
+      "sha256": "eb689b0f7be624c5a5cfafcf5f5d99e6309e477e1747aea346055f1554496b51"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3773ba009ea5e5074a0d1321dcdf5e34/images/brabantia-413445-suszarka-na-pranie-hangon-25m-white-plus-pojenik-na-klamerki-8.jpg",
+      "width": 1000,
+      "bytes": 77668,
+      "sha256": "7171fc012bc7eebc758687f545bf326eb50805ae8e5e3e01f23c03b8a2437319"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3773ba009ea5e5074a0d1321dcdf5e34/images/brabantia-413445-suszarka-na-pranie-hangon-25m-white-plus-pojenik-na-klamerki-9.jpg",
+      "width": 1000,
+      "bytes": 137249,
+      "sha256": "6ee6ad8604acf67042d0a522c238c5c82a4d7bf9d000adaea5d533a4e80a7bf6"
     },
     {
       "file": "logo-brabantia.jpg",
       "kind": "logo",
-      "order": 7,
-      "sourceUrl": "dropshipping/materiały/logo/Brabantia_Logo.jpg (kopia z repo mediow)",
+      "order": 10,
+      "sourceUrl": "repo projektu dropshipping/materialy/logo/Brabantia_Logo.jpg (logo marki Brabantia)",
       "width": 590,
       "height": 96,
       "bytes": 18870,
       "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
     }
-  ]
+  ],
+  "dropped": 0,
+  "note": "Zdjęcia ze sklepu brodasystem.pl (link Konrada z formularza źródeł G52); wymiana 2026-09-15 po uwadze Konrada do zdjęć z brabantia.com."
 }

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-14T12:15:00.000Z",
-  "sourcePage": "https://www.brabantia.com/pl/suszarka-hangon-tower-23-metry-white/",
+  "generatedAt": "2026-09-15T07:24:36.694Z",
+  "sourcePage": "https://www.brodasystem.pl/brabantia-306303-hangon-tower-suszarka-na-pranie-23-m-bialy.html",
   "slug": "brabantia-hangon-tower-306303-23m-bialy",
   "galleryOrder": [
     "produkt-01.jpg",
@@ -9,6 +9,9 @@
     "produkt-03.jpg",
     "produkt-04.jpg",
     "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
     "logo-brabantia.jpg"
   ],
   "files": [
@@ -16,56 +19,85 @@
       "file": "produkt-01.jpg",
       "kind": "product",
       "order": 1,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/3/0/306303_product_shot_front_1.jpg",
-      "width": 1024,
-      "bytes": 25024,
-      "sha256": "c404510cbdc2b1cdc9b72680136e0f6ee65f79610e65dca08312f071dedfb3c0"
+      "sourceUrl": "https://www.brodasystem.pl/media/products/29e1f30ad5f4e88664052b948de13c9a/images/brabantia-306303-suszarka-hangon-tower-23m-white.jpg",
+      "width": 1000,
+      "bytes": 49754,
+      "sha256": "d7cba5b118e0ed36ed2b6d0e31b185b12d2e7510f4fe08f5ad68b2376f77dddf"
     },
     {
       "file": "produkt-02.jpg",
       "kind": "product",
       "order": 2,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/3/0/306303_product_shot_angle_1.jpg",
-      "width": 1024,
-      "bytes": 60583,
-      "sha256": "fc7f5ebe84db20b95b2f3ee5cb19a2c664ed1966ed9a53726daeff314efb1b6d"
+      "sourceUrl": "https://www.brodasystem.pl/media/products/29e1f30ad5f4e88664052b948de13c9a/images/brabantia-306303-suszarka-hangon-tower-23m-white-2.jpg",
+      "width": 1000,
+      "bytes": 69516,
+      "sha256": "2c6905a5cb03fd8414b0fc4fe6e144a5f03d3c36f1293d7cb46b3a37c3e3a803"
     },
     {
       "file": "produkt-03.jpg",
       "kind": "product",
       "order": 3,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/3/0/306303_product_shot_angle_3.jpg",
-      "width": 1024,
-      "bytes": 38135,
-      "sha256": "c56a8c6e5af4afa989ba258fc3d8c7bf6d814078f667c82b48730efd77f6a82b"
+      "sourceUrl": "https://www.brodasystem.pl/media/products/29e1f30ad5f4e88664052b948de13c9a/images/brabantia-306303-suszarka-hangon-tower-23m-white-3.jpg",
+      "width": 1000,
+      "bytes": 49220,
+      "sha256": "ead390d4b66f394a145fad0655ac56d15c6c061ce011f959f670682dc883d691"
     },
     {
       "file": "produkt-04.jpg",
       "kind": "product",
       "order": 4,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/3/0/306303_product_shot_angle_5.jpg",
-      "width": 1024,
-      "bytes": 29889,
-      "sha256": "60dfd456759fbd4a0202bc30edffc6382a7415723c93db4f5ee9a587a353f106"
+      "sourceUrl": "https://www.brodasystem.pl/media/products/29e1f30ad5f4e88664052b948de13c9a/images/brabantia-306303-suszarka-hangon-tower-23m-white-4.jpg",
+      "width": 1000,
+      "bytes": 44832,
+      "sha256": "bb4c319f7024180f5463092d5f0036e1c8159a0af90d4179cfc174bc71b7725e"
     },
     {
       "file": "produkt-05.jpg",
       "kind": "product",
       "order": 5,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/3/0/306303_product_shot_angle_ho.jpg",
-      "width": 1024,
-      "bytes": 69388,
-      "sha256": "f59cb3da00d011073a0a815fd1303c1b2f5789e856e3b3e802b6c794e27dadae"
+      "sourceUrl": "https://www.brodasystem.pl/media/products/29e1f30ad5f4e88664052b948de13c9a/images/brabantia-306303-suszarka-hangon-tower-23m-white-5.jpg",
+      "width": 1000,
+      "bytes": 34150,
+      "sha256": "b3c1248e9be755545bc4bb426f773755b42d0f6404392c135c6e4baac0a76a68"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/29e1f30ad5f4e88664052b948de13c9a/images/brabantia-306303-suszarka-hangon-tower-23m-white-7.jpg",
+      "width": 1000,
+      "bytes": 35866,
+      "sha256": "0b8033ffc984af6b9f33591fe862e624ff15ef7f1956323150d947a073c3dd38"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/29e1f30ad5f4e88664052b948de13c9a/images/brabantia-306303-suszarka-hangon-tower-23m-white-6.jpg",
+      "width": 1000,
+      "bytes": 57525,
+      "sha256": "18cc536cd9e223f87b0788d7d7c86b05016e2496d187df0954e7aec66482010c"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/29e1f30ad5f4e88664052b948de13c9a/images/brabantia-306303-suszarka-hangon-tower-23m-white-8.jpg",
+      "width": 1000,
+      "bytes": 67931,
+      "sha256": "b889155cfa91d652eb983bc320a01602f98153fdcf93c36845ffbffed9a9c55f"
     },
     {
       "file": "logo-brabantia.jpg",
       "kind": "logo",
-      "order": 1,
-      "sourceUrl": "lokalny plik projektu: dropshipping/materialy/logo/Brabantia_Logo.jpg",
+      "order": 9,
+      "sourceUrl": "repo projektu dropshipping/materialy/logo/Brabantia_Logo.jpg (logo marki Brabantia)",
       "width": 590,
+      "height": 96,
       "bytes": 18870,
       "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
     }
   ],
-  "dropped": 0
+  "dropped": 0,
+  "note": "Zdjęcia ze sklepu brodasystem.pl (link Konrada z formularza źródeł G52); wymiana 2026-09-15 po uwadze Konrada do zdjęć z brabantia.com."
 }

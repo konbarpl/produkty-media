@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-14T12:15:14.593646+00:00",
-  "sourcePage": "https://www.brabantia.com/pl/suszarka-hangon-too-18-metrow-matt-black/",
+  "generatedAt": "2026-09-15T07:24:32.856Z",
+  "sourcePage": "https://www.brodasystem.pl/brabantia-232404-hangon-too-suszarka-na-pranie-18-m-czarny-matowy.html",
   "slug": "brabantia-hangon-too-232404-18m-czarny-mat",
-  "model": "232404 HangOn Too 18 m Matt Black",
   "galleryOrder": [
     "produkt-01.jpg",
     "produkt-02.jpg",
     "produkt-03.jpg",
     "produkt-04.jpg",
     "produkt-05.jpg",
+    "produkt-06.jpg",
     "logo-brabantia.jpg"
   ],
   "files": [
@@ -17,56 +17,60 @@
       "file": "produkt-01.jpg",
       "kind": "product",
       "order": 1,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232404_product_shot_front_01-web_1.jpg",
-      "width": 1024,
-      "height": 1024,
-      "bytes": 35566,
-      "sha256": "347d67b0cfb27e567f0bc72be5679d9949c7e84f896aa6950811cda41dbcd398"
+      "sourceUrl": "https://www.brodasystem.pl/media/products/83231701d0c1506a8c4742e7ee13bff2/images/brabantia-232404-suszarka-hangon-too-18m-matt-black.jpg",
+      "width": 1000,
+      "bytes": 59656,
+      "sha256": "785a705c247089d7bfe16753b3428e4143ce3d981e8e88fe1e2d68de7884ff51"
     },
     {
       "file": "produkt-02.jpg",
       "kind": "product",
       "order": 2,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232404_product_shot_front_02-web_1.jpg",
-      "width": 1024,
-      "height": 1024,
-      "bytes": 72242,
-      "sha256": "66c4874cfdbbe392bcf6d0001f1c4b5f32aaad80de131bb1288c2b7a065251ed"
+      "sourceUrl": "https://www.brodasystem.pl/media/products/83231701d0c1506a8c4742e7ee13bff2/images/brabantia-232404-suszarka-hangon-too-18m-matt-black-1.jpg",
+      "width": 1000,
+      "bytes": 42241,
+      "sha256": "2ff7076be36b1fcae3c47982aff056bfa05d18c7c11c5f06df29306b76dd3e91"
     },
     {
       "file": "produkt-03.jpg",
       "kind": "product",
       "order": 3,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232404_product_shot_angle_01-web_1.jpg",
-      "width": 1024,
-      "height": 1024,
-      "bytes": 52667,
-      "sha256": "ddf5c5b2087c65735923ee60ac33ef761c1cde9f20a6db0a85475d27ce0e03e4"
+      "sourceUrl": "https://www.brodasystem.pl/media/products/83231701d0c1506a8c4742e7ee13bff2/images/brabantia-232404-suszarka-hangon-too-18m-matt-black-4.jpg",
+      "width": 1000,
+      "bytes": 53285,
+      "sha256": "17d587e47a93ba51b31f57c4002033dfcc332e594b49ea7fa17924b1232b8790"
     },
     {
       "file": "produkt-04.jpg",
       "kind": "product",
       "order": 4,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232404_product_shot_side-web_1.jpg",
-      "width": 1024,
-      "height": 1024,
-      "bytes": 45297,
-      "sha256": "39bc2092ed0a98535bd1f19f674479bb76a47253908967ed3d4f640999f2c895"
+      "sourceUrl": "https://www.brodasystem.pl/media/products/83231701d0c1506a8c4742e7ee13bff2/images/brabantia-232404-suszarka-hangon-too-18m-matt-black-5.jpg",
+      "width": 1000,
+      "bytes": 47231,
+      "sha256": "8b074e1e916100ae0fca70efb2ce7e9fb18d5d7bdd29f80d731e7e3dcdaa3a6a"
     },
     {
       "file": "produkt-05.jpg",
       "kind": "product",
       "order": 5,
-      "sourceUrl": "https://www.brabantia.com/media/catalog/product/2/3/232404_product_shot_01-web_1.jpg",
-      "width": 1024,
-      "height": 1024,
-      "bytes": 76841,
-      "sha256": "3e41a9767a9414f600e41bb4496899d6447e3f1d9bf133c226e29d4b40f0894c"
+      "sourceUrl": "https://www.brodasystem.pl/media/products/83231701d0c1506a8c4742e7ee13bff2/images/brabantia-232404-suszarka-hangon-too-18m-matt-black-2.jpg",
+      "width": 1000,
+      "bytes": 63580,
+      "sha256": "6c75daeeb4b7af24c67b3ef15a013c20bb26fc1aa910804fcbf7c5d62360ec79"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/83231701d0c1506a8c4742e7ee13bff2/images/brabantia-232404-suszarka-hangon-too-18m-matt-black-3.jpg",
+      "width": 1000,
+      "bytes": 82419,
+      "sha256": "537d54b11613fabb6a9bd21366eb44a3fbd003ea33bf793e30c6e45c1c9b24f4"
     },
     {
       "file": "logo-brabantia.jpg",
       "kind": "logo",
-      "order": 6,
+      "order": 7,
       "sourceUrl": "repo projektu dropshipping/materialy/logo/Brabantia_Logo.jpg (logo marki Brabantia)",
       "width": 590,
       "height": 96,
@@ -75,5 +79,5 @@
     }
   ],
   "dropped": 0,
-  "visualIdentityCheck": "PASS"
+  "note": "Zdjęcia ze sklepu brodasystem.pl (link Konrada z formularza źródeł G52); wymiana 2026-09-15 po uwadze Konrada do zdjęć z brabantia.com."
 }
