@@ -1,0 +1,111 @@
+{
+ "version": 1,
+ "generatedAt": "2026-09-15T12:45:33.548924Z",
+ "sourcePage": "https://www.kaercher.com/int/home-garden/robot-vacuums-and-mops/rvf-7-comfort-12696900.html",
+ "slug": "karcher-rvf-7-comfort-1-269-690-0",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "logo-producenta.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://s1.kaercher-media.com/mam/12696900/mainproduct/f07c19e7-1ad6-4f56-8b3e-f260fe7d5642/d0.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 187518,
+   "sha256": "fbb5305ac6d57d14a156e88b03fa5bcc8c9c0c62cb24be5b40224052cab32901"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://s1.kaercher-media.com/mam/12696900/detail/74207720-5db3-48c3-92a8-b33ce75df174/d0.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 207285,
+   "sha256": "7f4e2dd1ca5010dd250ba10637b7581a2213326e62e00674ef3489c3514b85a7"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://s1.kaercher-media.com/mam/12696900/application/59a38638-91a8-43bb-bcb5-a199d6b35404/d0.jpg",
+   "width": 1600,
+   "height": 1067,
+   "bytes": 343531,
+   "sha256": "eebae610ab3ec3327a3ba33647822eb6e823b236c0f093d4f5e2c34c3aa6923a"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://s1.kaercher-media.com/mam/12696900/application/7211c472-21d5-4cdf-9cc4-a54cfe40df5f/d0.jpg",
+   "width": 1600,
+   "height": 1067,
+   "bytes": 444357,
+   "sha256": "11ff619e501dd7edd282bfbc017d34150f9b94ae8a70755d78c1f4ae8b7aa4c2"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://s1.kaercher-media.com/mam/12696900/application/9e589c6a-9cbc-474b-b7a0-bd1834aa2d6d/d0.jpg",
+   "width": 1600,
+   "height": 1067,
+   "bytes": 459792,
+   "sha256": "41deb65ad7a4ddc36d77bd406c344012ee2d6da4b3c376fa24d47085ba1202cd"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://s1.kaercher-media.com/mam/12696900/application/a4ffa937-365b-4f63-ab9f-af6257a32bf7/d0.jpg",
+   "width": 1600,
+   "height": 1067,
+   "bytes": 265268,
+   "sha256": "d76b4034935e60e2443d8f025d5f014d1edf61f33a035bd52e5b15b97d24ec00"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://s1.kaercher-media.com/mam/12696900/application/c86d090f-421b-4485-8bdd-33216c2f1735/d0.jpg",
+   "width": 1600,
+   "height": 1067,
+   "bytes": 349722,
+   "sha256": "7ff901943c6ae9b3bd67895deefa44c01958bd0c502997a60af07c5cae1ea1ef"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://s1.kaercher-media.com/mam/12696900/application/fdd9eac1-04dd-4986-ae19-4d3863531482/d0.jpg",
+   "width": 1600,
+   "height": 1067,
+   "bytes": 230489,
+   "sha256": "f2cbc48b6ee202dbbe576aaa78b6f31b5b6dfc5aa26f46526f91f2121d0d1568"
+  },
+  {
+   "file": "logo-producenta.jpg",
+   "kind": "logo",
+   "order": 9,
+   "sourceUrl": "repo mediow: karcher-af-30/logo-producenta.jpg (logo marki Karcher)",
+   "width": 467,
+   "height": 154,
+   "bytes": 8418,
+   "sha256": "5881b5bbeaf8745fcad096276322d75d0bc4dce4af578376f8bbac633013ac8d"
+  }
+ ],
+ "dropped": 0,
+ "curation": "2026-09-15 wykonawca ETAP 1: zdjecia z folderu MAM 12696900 karty producenta (SKU 1.269-690.0) - mainproduct, detail, 6x application; logo Karcher na KONCU galerii."
+}
