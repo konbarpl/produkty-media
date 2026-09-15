@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-15T12:42:53.781Z",
+  "sourcePage": "https://www.bosch-home.pl/pl/mkt-product/odkurzanie/robot-sprzatajacy/BCRDW3BAB",
+  "slug": "bosch-spotless-max-bcrdw3bab",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "produkt-15.webp",
+    "produkt-16.webp",
+    "produkt-17.webp"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676243_BO_Robotics_General_Package_Power_Image_BCRDW3B_BCRDW3BAB__2000x2000_def.webp",
+      "width": 1943,
+      "bytes": 145220,
+      "sha256": "41de9fae5d719ae17693e10e05408147d3b45c19b3931716be7f04e4ffb10171"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676355_BO_Robotics_Secondaries_Website_Station_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 128320,
+      "sha256": "8df1a1d38648c1ad2b52b177bf0a2201bf4f975ec4a6341ce23f0cd9e6c84cf8"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676365_BO_Robotics_Sedcondaries_Website_Extended_Reach_Spinning_Mop_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 214270,
+      "sha256": "1fbd8c874ba580337412e56e66d12b427a3d7ab1acf096b611128cbc3d4be377"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676317_BO_Robotics_Secondaries_Website_Carbon_Power_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 298992,
+      "sha256": "255a36cc8ffd7908520af3a15ed62214c4d5b65297559c433a0811ea7505659a"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676361_BO_Robotics_Secondaries_Website_Suction_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 458580,
+      "sha256": "37c216ba9a15d1e0e9049259d827fc84fd20a003e94495daa3f5fc1f851fe9bf"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676356_BO_Robotics_Secondaries_Website_Smart_Vision_Structured_Light_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 271358,
+      "sha256": "cf8bdd07cb89118e53f9693f2788c46f2d6507f96e26a42f17cd5a36aaeb9df4"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676366_BO_Robotics_Secondaries_Website_Wall_Lidar_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 214022,
+      "sha256": "1b69bd0064738bd77ea7664f3d008f75bdc625d0168b1964493426d7b46ae432"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676349_BO_Robotics_Secondaries_Website_Reduced_Tangling_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 129212,
+      "sha256": "1a85f1bab9230c775a48950caf9fb45e064922067fb5e75fa45aee98ebbf9885"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676348_BO_Robotics_Secondaries_Website_Mopping_Vacuum_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 175728,
+      "sha256": "8ea1e6a547a1c263e54e8aa5256b3a669123c6afb248caa942538be968722d42"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676344_BO_Robotics_Secondaries_Website_Intelligent_Stain_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 450994,
+      "sha256": "e6808067f216950b4c0bccb3d0b3c7effcb220b695a4b505d5c1247d1ee0f956"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676360_BO_Robotics_Secondaries_Website_Surface_Detection_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3199,
+      "bytes": 241678,
+      "sha256": "e8d1c9ee9e01c496691bf7367250dd7987f0ebe6dad801c69042c534fbf7e8cf"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676362_BO_Robotics_Secondaries_Website_Threshold_Navigation_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 191528,
+      "sha256": "f6ed6352d0538c71dddad89164ee6bd5c17d44b1bf607cda13d962e8b26f4ad9"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676343_BO_Robotics_Secondaries_Website_Foot_Tap_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 356364,
+      "sha256": "f0ee071ff662b2567b1b851ef88c450ee91e40b7fc04e0f5e96847505e284661"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676350_BO_Robotics_Secondaries_Website_Loudspeaker_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 458912,
+      "sha256": "ec10f5a6144ed69de89f27a727f42537344880b93996738dfaf3d0d776b3c890"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676341_BO_Robotics_Secondaries_Website_Easy_Maintenance_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 229400,
+      "sha256": "f9cd86720d4d7d02c850b4ca34ada466f6bf4842759f92d983ddefda195c735e"
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676316_BO_Robotics_Secondaries_Website_Bosch_Home_Connect_App_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 234962,
+      "sha256": "52b1a568770188de5ae83403ebf967bab96362c05e08ea07b018918c7587ba4d"
+    },
+    {
+      "file": "produkt-17.webp",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26676353_BO_Robotics_Secondaries_Website_Security_BCRDW3B_BCRDW3BAB_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 278292,
+      "sha256": "49e7380089b7d4edfc2e9f706f390ba77348c014660b691f1ccd2721359d6361"
+    }
+  ],
+  "dropped": 0
+}
