@@ -153,7 +153,8 @@
       "order": 99,
       "sourceUrl": "repo mediow: bosch-advancedleafblower-36v-750-06008c6000/logo-bosch.jpg",
       "bytes": 51914,
-      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2",
+      "width": 1008
     }
   ],
   "dropped": 0
