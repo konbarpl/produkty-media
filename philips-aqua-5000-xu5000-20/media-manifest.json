@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-15T12:42:26.036Z",
+  "sourcePage": "https://www.philips.pl/c-p/XU5000_20/homerun-5000-series-vacuum-and-mop-robot",
+  "slug": "philips-aqua-5000-xu5000-20",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a9dc9964_d56e_4746_b97af6942cc511f2?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 33410,
+      "sha256": "7a0e40b5d6723967c06b0d05385ffeb8d8299d1db2f4b8298af0b71559998abb"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c7e0380c_cb4f_48cf_934dd860475984ea?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 144150,
+      "sha256": "cf4102a212049e5d8026b90b4a9e468bd0ca41639120265de41f7310d5120d84"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b0cff61f_756c_4a4b_836a0d374404a3ab?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 92028,
+      "sha256": "381f300c85c360c6f36c441a85a3c8537ce444a2e2f3b27f14a10286e6805ba5"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1badb95b_b16e_4678_8472ed96330f67d7?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 259088,
+      "sha256": "61f96cabfd6f9e3fcf25fec1cd3608527818218d9b7ee2f13974a2b8402cef17"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e9552e48_953e_453a_b92202e89fb025c8?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 186868,
+      "sha256": "ad5549cef70e0c7de8fd71b6522ecf3cf99b65c7a36f6351ab5c14052f0262cb"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_866a49bd_7a82_467e_a7c1eb8228fbe50a?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 144534,
+      "sha256": "3ba2db96f484bd7a60b89095fa98b8717a6abbc6b5a93e139c782e2cbe8f9741"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b127a971_7c50_4035_8ce4f43ae26755d5?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 179884,
+      "sha256": "0f9e397eb604cf0e89a7af5f7a50a892123e582b2a4f65e17b0dcdbd68320b7f"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5c5c878a_990b_4a1d_95e8b70c32ad1925?wid=1200&hei=1200&$pnglarge$",
+      "width": 1200,
+      "bytes": 107710,
+      "sha256": "75290cb96e4c26799d3ddcaa72ad2aaca2512209a0ae26d2d3ec4a43927fa510"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "repo-mediow/oczyszczacz-powietrza-philips-ac0650-10/logo-producenta.png",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0
+}
