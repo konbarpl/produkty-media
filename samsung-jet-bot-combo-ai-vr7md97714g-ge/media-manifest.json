@@ -366,6 +366,15 @@
       "width": 1300,
       "bytes": 369446,
       "sha256": "13b873cd6b8423d87d32eb6943eb5512f6e4a87f0a21c7fca966a2b98f9683a3"
+    },
+    {
+      "file": "logo-samsung.jpg",
+      "kind": "logo",
+      "order": 37,
+      "sourceUrl": "repo mediow: samsung-jet-85s-vs70h25wpt/logo-samsung.jpg (logo marki, kopia)",
+      "width": 1600,
+      "bytes": 58906,
+      "sha256": "bcaf11800adb908c144fec0e1b7f5578fbd61a2da4de88fab71ae8955b6b3e71"
     }
   ],
   "dropped": 0,

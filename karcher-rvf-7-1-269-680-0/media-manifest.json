@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-15T12:43:27.688Z",
+  "sourcePage": "https://www.karcher.com/pl/home-garden/roboty-sprzatajace/rvf-7-12696800.html",
+  "slug": "karcher-rvf-7-1-269-680-0",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/12696800/mainproduct/3a316980-8f5f-4827-b220-69c9e30180ba/d0.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 207318,
+      "sha256": "ff902d27b971f10cce518a51a01b63c35217c2b01170a644cc4201a41f38bc23"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/12696800/product/0e3046f8-ba9b-4ba7-b7c9-4c693e6ff57c/d0.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 187701,
+      "sha256": "2897fd7ee54ea3fc6d423141c92023d661faf2414581b8cac36acac455e69aa8"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/12696800/detail/74207720-5db3-48c3-92a8-b33ce75df174/d0.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 207285,
+      "sha256": "7f4e2dd1ca5010dd250ba10637b7581a2213326e62e00674ef3489c3514b85a7"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/12696800/application/2ce2d636-081f-419c-99a6-3154795a75b1/d0.jpg",
+      "width": 1600,
+      "height": 2400,
+      "bytes": 642757,
+      "sha256": "ae476858c601e93e4cbf8d63438060e5496bfc7e1f7c1df551d15a9034396a0a"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/12696800/application/59a38638-91a8-43bb-bcb5-a199d6b35404/d0.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 343531,
+      "sha256": "eebae610ab3ec3327a3ba33647822eb6e823b236c0f093d4f5e2c34c3aa6923a"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/12696800/application/9bd2bbd9-5740-4469-a866-a6ace31b9d61/d0.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 268897,
+      "sha256": "a1eabc834a097555fd31c6ff7887f8e9f80ed4b50881a5f537ae9dc768d0c68b"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/12696800/application/9e589c6a-9cbc-474b-b7a0-bd1834aa2d6d/d0.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 459792,
+      "sha256": "41deb65ad7a4ddc36d77bd406c344012ee2d6da4b3c376fa24d47085ba1202cd"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/12696800/application/a4ffa937-365b-4f63-ab9f-af6257a32bf7/d0.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 265268,
+      "sha256": "d76b4034935e60e2443d8f025d5f014d1edf61f33a035bd52e5b15b97d24ec00"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/12696800/application/aad5aa3a-b61b-4d55-a94c-470e1d8fc17e/d0.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 348775,
+      "sha256": "fe31a0360a5371b53bd6e8f477c0a42406b8954335221f1375406a4b61ab06f3"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "dropshipping/produkty listy/produkty-media/karcher-af-30/logo-producenta.jpg",
+      "width": 467,
+      "height": 154,
+      "bytes": 8418,
+      "sha256": "5881b5bbeaf8745fcad096276322d75d0bc4dce4af578376f8bbac633013ac8d"
+    }
+  ],
+  "dropped": 0,
+  "curation": "2026-09-15 wykonawca ETAP 1 (G61): galeria z karty producenta karcher.com dla nr kat. 1.269-680.0 (mam/12696800) - 3 packshoty + 6 zdjec aplikacyjnych, zero duplikatow (sha256 unikalne, kontaktowka obejrzana); pominieto piktogramy EN i turntable; logo Karcher skopiowane z karcher-af-30 na koniec galerii."
+}
