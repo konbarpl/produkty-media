@@ -20,7 +20,8 @@
     "produkt-14.webp",
     "produkt-15.webp",
     "produkt-16.webp",
-    "produkt-17.webp"
+    "produkt-17.webp",
+    "logo-bosch.jpg"
   ],
   "files": [
     {
@@ -175,6 +176,15 @@
       "width": 3200,
       "bytes": 278292,
       "sha256": "49e7380089b7d4edfc2e9f706f390ba77348c014660b691f1ccd2721359d6361"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 18,
+      "sourceUrl": "repo mediow: bosch-advancedleafblower-36v-750-06008c6000/logo-bosch.jpg (logo marki, kopia w katalogu slug-a)",
+      "width": 0,
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
     }
   ],
   "dropped": 0
