@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-15T12:44:04.350Z",
+  "sourcePage": "https://www.bosch-home.pl/lista-produktow/BCRC2W",
+  "slug": "bosch-spotless-advanced-bcrc2w",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "opis-07.webp",
+    "opis-08.webp",
+    "opis-09.webp",
+    "opis-10.webp",
+    "opis-11.webp",
+    "opis-12.webp",
+    "opis-13.webp",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677498_BO_Robotics_General_Package_Power_Image_BCRC2W_2000x2000_def.webp",
+      "width": 1805,
+      "bytes": 76046,
+      "sha256": "667e4078036405d1d761734f7293a1437656d9f98d8df70d7ccd5d8e7ad7702a"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677834_BO_Robotics_Secondaries_Website_Mopping_Vacuum_BCRC2W_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 168116,
+      "sha256": "16ec8b15c58a5f6f52dab5f63ccd79ebf128e7c44ef8ab3136d9b70508e1096a"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677843_BO_Robotics_Secondaries_Website_Suction_BCRC2W_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 505508,
+      "sha256": "2e84ac0eeffb415362c0758aa8f216b4f1e61231a3fed74065ca7711340e32e7"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677821_BO_Robotics_Secondaries_Website_Carbon_Power_BCRC2W_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 269788,
+      "sha256": "776d4260b97458c4775789d641e6a4df34fb12b336b5004fe512040199db7b5e"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677831_BO_Robotics_Secondaries_Website_Reduced_Tangling_BCRC2W_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 107756,
+      "sha256": "801e8a52bbf911ab10ee9042d4ea19017fbcb42809d6f94a5779a97eb5c8d320"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677847_BO_Robotics_Sedcondaries_Website_Vibrating_Mop_BCRC2W_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 141610,
+      "sha256": "c30989d5b37f86cf3a2d663a1cae5c5425b35b21308e666e32334ab780445414"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677837_BO_Robotics_Secondaries_Website_Smart_Vision_Infrared_BCRC2W_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 292584,
+      "sha256": "6a3ff48200f6ab08cbb73bd848ac7a57be4e0edce1eef19028b88d664d525fff"
+    },
+    {
+      "file": "opis-07.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677845_BO_Robotics_Sedcondaries_Website_Threshold_Navigation_BCRC2W_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 103110,
+      "sha256": "af813e2691fb07044d28e8b0565e9b30a2148edc8cab5d4ea6c15d99fbf47e2b"
+    },
+    {
+      "file": "opis-08.webp",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677844_BO_Robotics_Sedcondaries_Website_Surface_Detection_BCRC2W_3200x18001_def.webp",
+      "width": 3199,
+      "bytes": 341158,
+      "sha256": "955ec882440bc818c128a71df5c46ef7a38f740f70a343781509813b0e308db9"
+    },
+    {
+      "file": "opis-09.webp",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677828_BO_Robotics_Secondaries_Website_Charging_Station_BCRC2W_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 141678,
+      "sha256": "319a00bcec5542ecaf4b89238908885de9e7ca91fe88010239f6400c480a0678"
+    },
+    {
+      "file": "opis-10.webp",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677827_BO_Robotics_Secondaries_Website_Easy_Maintenance_BCRC2W_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 183736,
+      "sha256": "a87efcbbdd9d4b8fc1d35f105aeae12b3c6ed728c0559270c4f88e7cd13b5f3d"
+    },
+    {
+      "file": "opis-11.webp",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677822_BO_Robotics_Secondaries_Website_Bosch_Home_Connect_App_BCRC2W_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 194270,
+      "sha256": "70b7363d8dde65a37711a4b55a2ed0096022bafe11d5da3a15c94ddcbbb6adaf"
+    },
+    {
+      "file": "opis-12.webp",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677835_BO_Robotics_Secondaries_Website_Security_BCRC2W_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 276544,
+      "sha256": "1486a5d6033b7f7f8fd1f0e73c670972d6f8af11cabae26b4e39e08e0e28fdc2"
+    },
+    {
+      "file": "opis-13.webp",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/26677829_BO_Robotics_Secondaries_Website_Loudspeaker_BCRC2W_3200x1800_def.webp",
+      "width": 3200,
+      "bytes": 567588,
+      "sha256": "845463662753dfdd4b7e1f532611c8fd48732994cdb0709329c998c9f8ea39ad"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo mediow: bosch-advancedleafblower-36v-750-06008c6000/logo-bosch.jpg",
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "dropped": 0
+}
