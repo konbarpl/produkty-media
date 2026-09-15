@@ -1,0 +1,373 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-15T12:46:56.583Z",
+  "sourcePage": "https://www.samsung.com/pl/business/vacuum-cleaners/robot/jet-bot-combo-ai--ai-object-recognition-satin-greige-vr7md97714g-ge/",
+  "slug": "samsung-jet-bot-combo-ai-vr7md97714g-ge",
+  "galleryOrder": [
+    "produkt-17.png",
+    "produkt-18.png",
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-32.png",
+    "produkt-33.png",
+    "produkt-34.png",
+    "produkt-35.png",
+    "produkt-36.png",
+    "produkt-03.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "produkt-09.png",
+    "produkt-10.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-21.png",
+    "produkt-22.png",
+    "produkt-23.png",
+    "produkt-28.png",
+    "produkt-29.png",
+    "produkt-30.png",
+    "produkt-31.png",
+    "produkt-11.png",
+    "produkt-12.png",
+    "produkt-19.png",
+    "produkt-20.png",
+    "produkt-24.png",
+    "produkt-25.png",
+    "produkt-26.png",
+    "produkt-27.png",
+    "produkt-13.png",
+    "produkt-14.png",
+    "produkt-15.png",
+    "produkt-16.png",
+    "logo-samsung.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077419?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 441601,
+      "sha256": "c45c66c1113fa64e82ebbed20bf814a8a90d1a565b594d007e8ea5b5f142437d"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077420?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 381600,
+      "sha256": "c89904c3b2734177aff450c0487b58e637292bff1d9ef02d2be75ff7238775ba"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077421?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 783930,
+      "sha256": "6f1ba32f28f754ec4b4d781c0ab5a1726ac6c0f25335b27a6127d377ccea649f"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077422?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 736644,
+      "sha256": "6898fb986485e44d4fbff87562d1f5dd24f0ab4b1280f5b84e6438afb92ed65f"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077423?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 494582,
+      "sha256": "e4542c4390e33f1cf0e88784b5b784f9f9f5545ff5adadc1ad299ffc5d80935a"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077424?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 788431,
+      "sha256": "03427d6ef55b1fa21747b8946b29d6d86be8e2bcb4531e2a68c67fb02e029e15"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077425?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 712018,
+      "sha256": "5e1cd2d0a80302744396144da786ecc156adccddd7f20460afece18663ef58a6"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077426?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 861015,
+      "sha256": "026412af1fe006d34c0bd010b7dfacaad918f17aedb2a7047adf0d2a2460e232"
+    },
+    {
+      "file": "produkt-09.png",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077427?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 864362,
+      "sha256": "17435b8b827fb4b40d760f26bfb363761cf6a1d3035dc1d97c4c626c3ee01322"
+    },
+    {
+      "file": "produkt-10.png",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077428?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 634091,
+      "sha256": "f07abec335a38babf2608d9d46e51f3f2a03db54dcc02e5a40c6cebb54275b70"
+    },
+    {
+      "file": "produkt-11.png",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077429?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 240914,
+      "sha256": "272a1936fc03261a1102f261ac14e001ff91a170d1ec230b7f4321fa51e738d3"
+    },
+    {
+      "file": "produkt-12.png",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077430?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 265019,
+      "sha256": "7c4a06f16a0013510e42e77e5075d5f302944f99e9aefb255a0867ed330d1b8c"
+    },
+    {
+      "file": "produkt-13.png",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077431?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 330761,
+      "sha256": "9eb31b99b5b25081b1728826a4fd7b3ba30c9c36f73bdb72c0eb48b348f9ff80"
+    },
+    {
+      "file": "produkt-14.png",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077432?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 390474,
+      "sha256": "d1f5a71607daa531108a96638201b80f332b4ff39e8e684786f1f8a81d3eae1e"
+    },
+    {
+      "file": "produkt-15.png",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077433?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 396249,
+      "sha256": "1ba1b5f48c0901a4652abefe2aa91ee8d4bcc73c05629698f660edc95f156bf8"
+    },
+    {
+      "file": "produkt-16.png",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077434?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 234251,
+      "sha256": "d69cab8201098b7cf35454e1dcb7f5d4b899600a6fad0aa6d328e020dc1ab034"
+    },
+    {
+      "file": "produkt-17.png",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077435?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 351253,
+      "sha256": "d41a61aa6b0036993e957b2a7fcb47328a3698a085a9f056db269fafe15ec25c"
+    },
+    {
+      "file": "produkt-18.png",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077436?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 327576,
+      "sha256": "c7de35ae5420443dde681dee529b73d52807a0fa0d2dafda2e73823ece9468ff"
+    },
+    {
+      "file": "produkt-19.png",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077437?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 322845,
+      "sha256": "60b1c60566b92b04bfa40b526e1f1a202c75c169ed53e13e9d9b11ef935ab99d"
+    },
+    {
+      "file": "produkt-20.png",
+      "kind": "product",
+      "order": 20,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077438?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 333288,
+      "sha256": "7775080872a3039894ae15add5d1d5791e89736fb6299cb1ddb506b4af2c5a54"
+    },
+    {
+      "file": "produkt-21.png",
+      "kind": "product",
+      "order": 21,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077439?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 191944,
+      "sha256": "78cfaef1eb0cdcf1acbf8e97b8b79fdf081c96186f153825aedaf719e71106f7"
+    },
+    {
+      "file": "produkt-22.png",
+      "kind": "product",
+      "order": 22,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077440?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 870278,
+      "sha256": "0a2b82d7c11d3116a99564249f545e0219cb7389baf7522badfec21f352a0d35"
+    },
+    {
+      "file": "produkt-23.png",
+      "kind": "product",
+      "order": 23,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077441?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 736726,
+      "sha256": "6c01f413b6d4e338572e43c2c7ac29b48cbe2df6f3a5de8b141707eff3ace071"
+    },
+    {
+      "file": "produkt-24.png",
+      "kind": "product",
+      "order": 24,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077442?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 314186,
+      "sha256": "a4f82cffedb842af69daad3a3e845b953f4f676d664a785a80236d523426bc28"
+    },
+    {
+      "file": "produkt-25.png",
+      "kind": "product",
+      "order": 25,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077443?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 318982,
+      "sha256": "4f03748ebabe0944d3851a109c2092f492c8d020b12fb9dc49646909c11053a1"
+    },
+    {
+      "file": "produkt-26.png",
+      "kind": "product",
+      "order": 26,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077444?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 342044,
+      "sha256": "0578ed74819978b0217d926686f5e0c2161b32e5ba9e4fdeb0b337e883ca1958"
+    },
+    {
+      "file": "produkt-27.png",
+      "kind": "product",
+      "order": 27,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077445?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 336208,
+      "sha256": "07e2eb4f73799aa547dc0f1004e938d75986e79ed23033d098d263c021dc8fc1"
+    },
+    {
+      "file": "produkt-28.png",
+      "kind": "product",
+      "order": 28,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077446?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 262229,
+      "sha256": "f73e1b2fb91b98c0e6ed38aaa330375e4df1ddf4b5227a40f0a824b65d0f9712"
+    },
+    {
+      "file": "produkt-29.png",
+      "kind": "product",
+      "order": 29,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077447?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 418442,
+      "sha256": "6a47b5d25bed905ef6f9e5c9faf255a537fdff939356b1be2318ac01ad23b72a"
+    },
+    {
+      "file": "produkt-30.png",
+      "kind": "product",
+      "order": 30,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077448?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 243599,
+      "sha256": "fd9509b55fd5d47c6da6e9a098ace695237ad37573315dbc0ce75e37f86b446c"
+    },
+    {
+      "file": "produkt-31.png",
+      "kind": "product",
+      "order": 31,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077449?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 219930,
+      "sha256": "8fbe0261d8a9170da6a9bcfc1df7bca698d5ef401151d98ea334e49854207ff2"
+    },
+    {
+      "file": "produkt-32.png",
+      "kind": "product",
+      "order": 32,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077450?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 483695,
+      "sha256": "6999dd26d5ccef847ff5d4697a7ea42bd86e28e45006d66a5492bd0aafb7a1e1"
+    },
+    {
+      "file": "produkt-33.png",
+      "kind": "product",
+      "order": 33,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077451?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 506891,
+      "sha256": "2a2477a24e139bf367cc4e4d3ee63b3c0e18528de94f36b0bdc59a1bb0cefcf0"
+    },
+    {
+      "file": "produkt-34.png",
+      "kind": "product",
+      "order": 34,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077452?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 466173,
+      "sha256": "fd021387747224d498ad04ae491a892e54b6f476cd7de5b56a0ae5784e6f1337"
+    },
+    {
+      "file": "produkt-35.png",
+      "kind": "product",
+      "order": 35,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077453?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 466961,
+      "sha256": "fba8d5831a17d7ce3fdec4ec87b0d43b2fd65c326a30f4324801ecca638e968c"
+    },
+    {
+      "file": "produkt-36.png",
+      "kind": "product",
+      "order": 36,
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vr7md97714g-ge/gallery/pl-vr9700d-vr7md97714g-ge-542077490?$1300_1038_PNG$",
+      "width": 1300,
+      "bytes": 369446,
+      "sha256": "13b873cd6b8423d87d32eb6943eb5512f6e4a87f0a21c7fca966a2b98f9683a3"
+    }
+  ],
+  "dropped": 0,
+  "curationNote": "2026-09-15 ETAP 1 G61: produkt-37.png usuniete (kadr prawie pusty, ikonka na czarnym tle). Kolejnosc: komplet robot+stacja, robot, spod i mopy, akcesoria, stacja, logo Samsung na koncu. Zdjecia z galerii producenta samsung.com/pl (wariant vr7md97714g-ge) — tlo CZARNE, nie biale."
+}
