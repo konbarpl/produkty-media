@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T06:42:07.687Z",
+  "sourcePage": "https://www.sharkninja.pl/shark-stainstriker-hairpro-odkurzacz-pioracy-px250eut/PX250EUT.html?dwvar_PX250EUT_color=676B6E",
+  "slug": "odkurzacz-pioracy-shark-stainstriker-hairpro-px250eut",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/f_auto,q_auto/SharkNinja-EU/PX250EUT_01.jpg",
+      "width": 2070,
+      "height": 2070,
+      "bytes": 2779498,
+      "sha256": "821d3d4df48c5ca1129956b768f3bf00e0a346fc8d2af75d96737c91c0d9a952"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/f_auto,q_auto/storefront/products-PL/PX250EUT/PX250EUT_gallery_pl-PL_02.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 133951,
+      "sha256": "9bbd9704ff4f3aa071aed2b9872e5705d5b4f933a2eb403d2ce368f57b5d9f55"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/f_auto,q_auto/storefront/products-PL/PX250EUT/PX250EUT_gallery_pl-PL_03.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 240903,
+      "sha256": "86d7aea922aff158c5e009329f54aa4857a8115ee68af43ab9787957d35fd42c"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/f_auto,q_auto/storefront/products-PL/PX250EUT/PX250EUT_gallery_pl-PL_04.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 279054,
+      "sha256": "6d47f9070ed623586db52635c7fc2bdeb1606a7ab26e197ae62a1c6857371c83"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/f_auto,q_auto/storefront/products-PL/PX250EUT/PX250EUT_gallery_pl-PL_05.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 393848,
+      "sha256": "751ed0e8dcf5ad2a75c6bbbe909772a59f20d68e500f0f5655ce40374398317c"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/f_auto,q_auto/storefront/products-PL/PX250EUT/PX250EUT_gallery_pl-PL_06.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 318476,
+      "sha256": "cdfb23a14c88e13421a46db3f1f6c7563ea9c4878b784860fc28614eef9a7a35"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/f_auto,q_auto/storefront/products-PL/PX250EUT/PX250EUT_gallery_pl-PL_07.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 516863,
+      "sha256": "1cb1c1368b1c27d8e8219a520ebf4083ca3a6b49431771e7385244c888892a99"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/f_auto,q_auto/storefront/products-PL/PX250EUT/PX250EUT_gallery_pl-PL_08.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 128735,
+      "sha256": "0aff74580d4eb5508c11ad6efb9bb1abeefed77409fc14e25a98670e3de7c569"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/f_auto,q_auto/storefront/products-PL/PX250EUT/PX250EUT_gallery_pl-PL_09.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 197235,
+      "sha256": "a02141d57474b212d7492be308d9c584d4729f051f7fabaae98ff3935bf29649"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/f_auto,q_auto/storefront/products-PL/PX250EUT/PX250EUT_gallery_pl-PL_10.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 236971,
+      "sha256": "bdf3ad1de9a9b0ae2c18a4f0f704436e0c2eb9b4c3fc8fc59c5d2cc096f7f4ad"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/f_auto,q_auto/storefront/products-PL/PX250EUT/PX250EUT_gallery_pl-PL_11.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 137071,
+      "sha256": "ed818d7a94be60d5cd08b468a9bb23ec826d890c840e98b2aeea22a381926808"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "dropshipping/materiały/logo/Shark_Logo.jpg",
+      "width": 438,
+      "height": 104,
+      "bytes": 6447,
+      "sha256": "a44ddc56fbb4a5fe0b0ea23017849110b8e33566cb763dfceb7f9114dcd89386"
+    }
+  ],
+  "note": "produkt-12 (plakat TRZYLETNIA GWARANCJA) usuniety — zakaz gwarancji w ofertach (wiedza/feedback_zero_gwarancji_w_opisach.md)"
+}
