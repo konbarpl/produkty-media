@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T06:46:15.671Z",
+  "sourcePage": "https://www.bissell.pl/produkty/spotcleanr-c5-pro-3931n",
+  "galleryNote": "zdjecia z karty sklepu mediaexpert.pl (karta producenta bissell.pl nie oddaje galerii maszynowo); tozsamosc potwierdzona nazwami plikow 3931N",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6827705/Odkurzacz-pioracy-BISSELL-SpotClean-C5-Pro-3931N-front.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 110116,
+      "sha256": "bfbdf6c42900d1b1671902513f26d7b57eec5a7919d04631151a84444b9f3781"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6827705/Odkurzacz-pioracy-BISSELL-SpotClean-C5-Pro-3931N-life-1.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 357467,
+      "sha256": "8119dbd6b2bbdec2306cb0179b8667761f4f6d9db28125a9cc78d6fddfe2d3f6"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6827705/Odkurzacz-pioracy-BISSELL-SpotClean-C5-Pro-3931N-life-2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 188901,
+      "sha256": "7c77917cb03a341613c3bb173384f271851a2f7302d6fcbd56b4d22d15ed450a"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6827705/Odkurzacz-pioracy-BISSELL-SpotClean-C5-Pro-3931N-life-3.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 314153,
+      "sha256": "b71b7fc5ebf3bd2cefa81a591dd1cb0e5a5af3ccb32f51feef271c744ce7ca37"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6827705/Odkurzacz-pioracy-BISSELL-SpotClean-C5-Pro-3931N-life-4.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 252504,
+      "sha256": "2c6dd193f5a6d1c0962f8409648c9a07d58b57eab93eb03e8a57388ac3c26c4e"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6827705/Odkurzacz-pioracy-BISSELL-SpotClean-C5-Pro-3931N-life-6.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 207487,
+      "sha256": "56b9c46546cae0c03c2115940cd5a1f09c049bb6d4f96ab87cafa41f56a7d4e8"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6827705/Odkurzacz-pioracy-BISSELL-SpotClean-C5-Pro-3931N-life-7.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 259558,
+      "sha256": "eca0ac121b75e5c33ddecfd56b23db07614faa98a0cf3ff2eb1fcdb883c68f50"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/68/6827705/Odkurzacz-pioracy-BISSELL-SpotClean-C5-Pro-3931N-life-8.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 283222,
+      "sha256": "2bd90dda0e2d3d04f9ab2b85c9b84cd6c835f14356a86feee122d0453219ebe0"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "repo: dropshipping/materiały/logo/bissell-logo-banner.jpeg",
+      "width": 555,
+      "height": 127,
+      "bytes": 4781,
+      "sha256": "0daf19df4833657d18fcb0a0849e1ac92c672781ebc4b6a3e6f9631738ecff71"
+    }
+  ]
+}
