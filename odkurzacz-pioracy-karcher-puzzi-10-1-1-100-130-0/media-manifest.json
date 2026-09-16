@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T00:00:00Z",
+  "sourcePage": "https://www.karcher.com/pl/professional/urzadzenia-do-czyszczenia-wykladzin-tekstylnych/urzadzenia-ekstrakcyjne-puzzi/puzzi-10-1-11001300.html",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/11001300/mainproduct/d306ec1a-1aef-462c-90e9-5a99c134aef9/d0.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 225502,
+      "sha256": "ed8d4b6549ee30239217804f43e7bd0b654a151a25658cabef87d727dc1b96f5"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://s1.kaercher-media.com/images/pim/04d82c93-4107-4cf4-bb32-3c18b32cb559.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 618967,
+      "sha256": "5126b389fd2cacf1bdc2c19676c7bfa5acef38237daab94a66011ef3028db482"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://s1.kaercher-media.com/images/pim/f3dc3980-53ef-4445-a6d0-fcbba3818915.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 378186,
+      "sha256": "99ccc825f0e4365830a71b5c85be5c35db51f177f845e86c004ae0ec9629ea44"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://s1.kaercher-media.com/images/pim/280e85b9-c301-43b1-a1ac-a3323804ef3f.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 387109,
+      "sha256": "e9ea9df4410af29735d5b3bcde91889b26924b2739be80806353b9728e59fc8c"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 5,
+      "sourceUrl": "kopia zweryfikowanego logo odkurzacz-pioracy-karcher-se-3-18-battery-set-1-081-509-0/logo-producenta.jpg",
+      "width": 467,
+      "height": 154,
+      "bytes": 8418,
+      "sha256": "5881b5bbeaf8745fcad096276322d75d0bc4dce4af578376f8bbac633013ac8d"
+    }
+  ],
+  "note": "ETAP 1 G39 w469: 4 zdjecia z karty producenta Karcher (Puzzi 10/1, 1.100-130.0) zweryfikowane wzrokowo na kontaktowce; zdjecia z clinus.pl odrzucone (800 px + galeria miesza modele: 2 ujecia innej maszyny z rama do pchania)"
+}
