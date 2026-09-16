@@ -8,7 +8,8 @@
   "produkt-03.jpg",
   "produkt-04.jpg",
   "produkt-05.jpg",
-  "produkt-06.jpg"
+  "produkt-06.jpg",
+  "logo-producenta.jpg"
  ],
  "files": [
   {
@@ -70,6 +71,17 @@
    "height": 1500,
    "bytes": 68176,
    "sha256": "c78e0652dcaa7aac88812ba04e35bd455e468a97d4eabb8eb113363b80ad9c8f"
+  },
+  {
+   "file": "logo-producenta.jpg",
+   "kind": "logo",
+   "order": 7,
+   "sourceUrl": "https://uwant-poland.pl/wp-content/uploads/2025/11/Asset-8@4x.png",
+   "width": 813,
+   "height": 112,
+   "bytes": 17516,
+   "sha256": "19d9bcc015eeb18ff351eb2a39d879080d5124943f6d17c292bfe666c868bd92",
+   "note": "logotyp marki UWANT z oficjalnej polskiej strony marki uwant-poland.pl (dystrybutor 4cv Mobile); PNG z przezroczystoscia splaszczony na biale tlo"
   }
  ],
  "note": "Media Expert — karta wariantu UWANT B200 Szary (marka UWANT nie publikuje polskiej karty produktu); nazwy plikow nosza oznaczenie modelu = bramka tozsamosci"
