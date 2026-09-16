@@ -1,9 +1,12 @@
 {
+ "version": 1,
+ "generatedAt": "2026-09-16T07:10:57.130Z",
  "slug": "odkurzacz-pioracy-bear-sc-3",
  "produkt": "Odkurzacz piorący BEAR SC 3",
  "wariant": "SC 3 (kod Media Expert 2113057)",
- "zrodlo": "Media Expert — karta produktu BEAR SC 3 (marka BEAR nie ma polskiej karty producenta; nazwy plików niosą oznaczenie modelu = bramka tożsamości). Logo marki: zasób logo_producneta/bear_logo.JPG z tej samej karty.",
- "pobrano": "2026-09-16T07:10:57.130Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/sprzatanie/odkurzacze-piorace/odkurzacz-pioracy-bear-sc-3-do-usuwania-plam",
+ "sourceNote": "Media Expert — karta produktu BEAR SC 3 (marka BEAR nie ma polskiej karty producenta; nazwy plików niosą oznaczenie modelu = bramka tożsamości). Logo marki: zasób logo_producneta/bear_logo.JPG z tej samej karty.",
+ "kuracja": "Zero duplikatow (dedup po sha256). Kolejnosc jak na karcie: packshoty 01-03, aranzacje domowe 04-07, render wlokien 08, logo marki na koncu. Zadne zdjecie nie ma oznaczenia AI ani slowa GWARANCJA.",
  "galleryOrder": [
   "produkt-01.jpg",
   "produkt-02.jpg",
@@ -15,78 +18,105 @@
   "produkt-08.jpg",
   "logo-producenta.jpg"
  ],
- "pliki": [
+ "files": [
   {
    "file": "produkt-01.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-1-wer.jpg",
-   "sha256": "78ebd3782c3e17fe3d65348c4e2729bcedb0d2083577c6b983026d383a3b33ec",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-1-wer.jpg",
+   "sha1": "dd5506678137a1fee2be750968f246e5595c6ef3",
    "bytes": 96824,
-   "height": 1500,
-   "width": 1500
+   "sha256": "78ebd3782c3e17fe3d65348c4e2729bcedb0d2083577c6b983026d383a3b33ec",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-02.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-2.jpg",
-   "sha256": "abb70b664fed54bfa4ac61bcc3f30e8bb413d54b2f298466dee47b854c066820",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-2.jpg",
+   "sha1": "8b271d961f47422660816ade88067a6f0020bc67",
    "bytes": 129908,
-   "height": 1500,
-   "width": 1500
+   "sha256": "abb70b664fed54bfa4ac61bcc3f30e8bb413d54b2f298466dee47b854c066820",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-03.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-3.jpg",
-   "sha256": "31f26a9c0fbf3f586cc2b4c8ede2871783061f6e09db2bd9ac6f742e31427ccd",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-3.jpg",
+   "sha1": "9bd6187d11f0effaa39040705634727577e1b9cf",
    "bytes": 142000,
-   "height": 1500,
-   "width": 1500
+   "sha256": "31f26a9c0fbf3f586cc2b4c8ede2871783061f6e09db2bd9ac6f742e31427ccd",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-04.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-4.jpg",
-   "sha256": "d75ba3eb69ad68ec644564025236b89ec6de849dc4aead84a4a36d904171e7d9",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-4.jpg",
+   "sha1": "2f6d97bda8732a4503c334574864276432c99d06",
    "bytes": 191355,
-   "height": 1500,
-   "width": 1500
+   "sha256": "d75ba3eb69ad68ec644564025236b89ec6de849dc4aead84a4a36d904171e7d9",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-05.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-5.jpg",
-   "sha256": "5e754b5f726bfcd90df275cccc0bcd05174cfb72d116ef089ae2e2b6eb6c9cde",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-5.jpg",
+   "sha1": "176a644ccc56bc9ea9013b4f957c1aca620de03f",
    "bytes": 268405,
-   "height": 1500,
-   "width": 1500
+   "sha256": "5e754b5f726bfcd90df275cccc0bcd05174cfb72d116ef089ae2e2b6eb6c9cde",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-06.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-6.jpg",
-   "sha256": "0d3430e0fb444bc992e7035dabd2b33c0e5b95384828aef2285ac4f3de91f062",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-6.jpg",
+   "sha1": "d626209949a12c7dc68d0d0ba23d5326403de9ab",
    "bytes": 144928,
-   "height": 1500,
-   "width": 1500
+   "sha256": "0d3430e0fb444bc992e7035dabd2b33c0e5b95384828aef2285ac4f3de91f062",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-07.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-7.jpg",
-   "sha256": "4fbe97e23b76e7b5b8cf378626722e3eda0d7aba7809e8b097227bf19a959c6b",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-7.jpg",
+   "sha1": "c0e1bcfaa38ea83f6c0ffef9f25808295463392f",
    "bytes": 174597,
-   "height": 1500,
-   "width": 1500
+   "sha256": "4fbe97e23b76e7b5b8cf378626722e3eda0d7aba7809e8b097227bf19a959c6b",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-08.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-8.jpg",
-   "sha256": "16b019b984e28204d8aefcd23bff040c851aed132689b0d7935e7c171ece9bb6",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/94/9483264/Odkurzacz-pioracy-BEAR-SC-3-8.jpg",
+   "sha1": "330f05ec8d62b6151ba172078327f66444c6cb33",
    "bytes": 269855,
-   "height": 1500,
-   "width": 1500
+   "sha256": "16b019b984e28204d8aefcd23bff040c851aed132689b0d7935e7c171ece9bb6",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "logo-producenta.jpg",
-   "source": "https://prod-api.avans.pl/api/images/filemanager_original/thumbnails/images/logo_producneta/bear_logo.JPG",
-   "sha256": "88acdabe84de7cd6cdae32f81eb4c55a3cb42a07e2421bff77631cad9c9eb3e9",
+   "kind": "logo",
+   "order": 9,
+   "sourceUrl": "https://prod-api.avans.pl/api/images/filemanager_original/thumbnails/images/logo_producneta/bear_logo.JPG",
+   "sha1": "1ae62160c103cd1f5a64ca053ab973ea572cd74d",
    "bytes": 4382,
-   "height": 119,
-   "width": 284
+   "sha256": "88acdabe84de7cd6cdae32f81eb4c55a3cb42a07e2421bff77631cad9c9eb3e9",
+   "width": 284,
+   "height": 119
   }
  ]
 }
