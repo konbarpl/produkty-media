@@ -1,9 +1,12 @@
 {
+ "version": 1,
+ "generatedAt": "2026-09-16T07:15:33.169418+00:00",
  "slug": "odkurzacz-pioracy-uwant-y200s",
  "produkt": "Odkurzacz piorący UWANT Y200S z funkcją pary, szary",
  "wariant": "Y200S szary (kod ME 2113588, GTIN karty 6974230889343)",
- "zrodlo": "Media Expert — karta wariantu Y200S szary. Do galerii weszły WYŁĄCZNIE slajdy bez oznaczenia „Wygenerowane z AI\" (slajdy 0-6 z 25); 18 slajdów AI odrzucono (lista: _tmp/odkurzacz-pioracy-uwant-y200s/slajdy-galerii.json). Logo marki UWANT: BRAK w repo mediów i na zablokowanej stronie producenta (HTTP 436) — GAPS.",
- "pobrano": "2026-09-16T07:12:27.816428+00:00",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/sprzatanie/odkurzacze-piorace/odkurzacz-uwant-pioracy-z-funkcja-pary-y200s-szary",
+ "sourceNote": "Media Expert — karta wariantu Y200S szary. Do galerii weszły WYŁĄCZNIE slajdy bez oznaczenia „Wygenerowane z AI\" (slajdy 0-6 z 25); 18 slajdów AI odrzucono (lista: _tmp/odkurzacz-pioracy-uwant-y200s/slajdy-galerii.json). Logo marki UWANT: BRAK w repo mediów i na zablokowanej stronie producenta (HTTP 436) — GAPS.",
+ "kuracja": "Kolejność: komplet zestawu na białym tle (miniaturka), urządzenie z profilu, z wężem, ujęcia pod kątem, końcówki. Slajdy galerii ME oznaczone „Wygenerowane z AI\" (18 z 25) odrzucone. Logo marki UWANT: BRAK w repo mediów — GAPS.",
  "galleryOrder": [
   "produkt-01.jpg",
   "produkt-02.jpg",
@@ -13,62 +16,83 @@
   "produkt-06.jpg",
   "produkt-07.jpg"
  ],
- "pliki": [
+ "files": [
   {
    "file": "produkt-01.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-front.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-front.jpg",
+   "sha1": "b1dcd11339bff84aef798812921eb9c966059fb9",
+   "bytes": 124579,
    "sha256": "aaacab5bd59177ab6e12ec721f39ce7c977cf163a18142312f31bec7c2a1a08c",
    "width": 1500,
-   "height": 1500,
-   "bytes": 124579
+   "height": 1500
   },
   {
    "file": "produkt-02.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-1.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-1.jpg",
+   "sha1": "d81e6631f99a3a325f100db2c778c93d85a99a98",
+   "bytes": 105924,
    "sha256": "ebc868adf1293eeecadc0e7c5672d67888c09b400b8f0c95f288947f2dd9d036",
    "width": 1500,
-   "height": 1500,
-   "bytes": 105924
+   "height": 1500
   },
   {
    "file": "produkt-03.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-2.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-2.jpg",
+   "sha1": "0fbc3ca99ca6d2c2fda6fbcb3da446bf54f1c1ba",
+   "bytes": 149716,
    "sha256": "5ae38c0d32f2639ddb70c62ad4bc575aa9401ce71e23781733e2622d0a3a2792",
    "width": 1500,
-   "height": 1500,
-   "bytes": 149716
+   "height": 1500
   },
   {
    "file": "produkt-04.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-3.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-3.jpg",
+   "sha1": "5053f7a40c0fafc62c9c8ee18aeea34d127e0002",
+   "bytes": 120659,
    "sha256": "73a67e5c922ca859b39456a11fbc172bef91b8064594fb71c815240ffa5717c9",
    "width": 1500,
-   "height": 1500,
-   "bytes": 120659
+   "height": 1500
   },
   {
    "file": "produkt-05.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-4.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-4.jpg",
+   "sha1": "d28e955ab32ade6908e45e4d6a13eedb8daf9bb2",
+   "bytes": 87932,
    "sha256": "01c4f7601281f45ba0ed33a5d2ba19a00efd9c975ada03a1344afe2f3c1de315",
    "width": 1500,
-   "height": 1500,
-   "bytes": 87932
+   "height": 1500
   },
   {
    "file": "produkt-06.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-5.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-5.jpg",
+   "sha1": "c20f1a2382fe2b717583eb73493e5261e7afbf5b",
+   "bytes": 45456,
    "sha256": "60382eadddded053b3385de270373dcf2437ad65c38519221a285b3f507e6992",
    "width": 1500,
-   "height": 1500,
-   "bytes": 45456
+   "height": 1500
   },
   {
    "file": "produkt-07.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-6.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/95/9506216/Odkurzacz-UWANT-Y200S-Szary-6.jpg",
+   "sha1": "2435f59921534a00d236a75ffb12e8f0a3fb1394",
+   "bytes": 60190,
    "sha256": "0dfe5503a17f13d41229c6b8f583ccbe59a4683b0205b5cb0b1fdddcaf4e3d73",
    "width": 1500,
-   "height": 1500,
-   "bytes": 60190
+   "height": 1500
   }
  ]
 }
