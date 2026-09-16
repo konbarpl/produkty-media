@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T06:47:25.950Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/sprzatanie/odkurzacze-piorace/odkurzacz-eta-steam-clean-721490000",
+  "sourceNote": "Karta producenta ETA nie ma tego modelu (eta-polska.pl: 'Nie znaleziono', eta.cz: brak trafien) — fallback na karte sklepu ze zlecenia G39. Zdjecia lifestyle'owe ME oznaczone 'Wygenerowane z AI' pominiete swiadomie. Pliki przechwycone z ruchu przegladarki, bo CDN ME blokuje pobieranie bezposrednie.",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "rola": "packshot front",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/69/6955644/Odkurzacz-ETA-Steam-Clean-721490000-front-popr.jpg",
+      "source": "Media Expert, karta ETA Steam&Clean 721490000 (kod 2033714)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 117127,
+      "sha256": "4ce6860a4e67d8fdf2217af3d60bf220594cc117db8d76eecdc0d491ebca79ea"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "rola": "packshot skos",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/69/6955644/Odkurzacz-ETA-Steam-Clean-721490000-skos-popr.jpg",
+      "source": "Media Expert, karta ETA Steam&Clean 721490000 (kod 2033714)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 106808,
+      "sha256": "3def5dcf3b2036cdc99003cbfd202734b1f19c9f2178ee371265063e9c6c0c79"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "rola": "packshot skos 2",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/69/6955644/Odkurzacz-ETA-Steam-Clean-721490000-skos-2.jpg",
+      "source": "Media Expert, karta ETA Steam&Clean 721490000 (kod 2033714)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 121959,
+      "sha256": "aae14c25ba3c6edb7ca98f0600ca1c765a9103692a9e46020e713056f6c72755"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "rola": "packshot bok",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/69/6955644/Odkurzacz-ETA-Steam-Clean-721490000-bok-popr.jpg",
+      "source": "Media Expert, karta ETA Steam&Clean 721490000 (kod 2033714)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 73971,
+      "sha256": "a3e3ee94fface0d7690c2b8af025c6d94d6d5b901ef727827efdef11307c3cfe"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "rola": "pojemniki na wode",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/69/6955644/Odkurzacz-ETA-Steam-Clean-721490000-skos-pojemniki-popr.jpg",
+      "source": "Media Expert, karta ETA Steam&Clean 721490000 (kod 2033714)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 95422,
+      "sha256": "b5799361b607a97680128922b999aa44c7f834cda3515304be8e884dbb15a5c6"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "rola": "wyswietlacz sterowania",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/69/6955644/Odkurzacz-ETA-Steam-Clean-721490000-wyswietlacz-popr.jpg",
+      "source": "Media Expert, karta ETA Steam&Clean 721490000 (kod 2033714)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 119666,
+      "sha256": "dcea52aef1e17080dbc9528cd258d096b475f6a63ec31f70556c1d7f643bc24e"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "rola": "zestaw z akcesoriami",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/69/6955644/Odkurzacz-ETA-Steam-Clean-721490000-zestaw-popr-0.jpg",
+      "source": "Media Expert, karta ETA Steam&Clean 721490000 (kod 2033714)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 116157,
+      "sha256": "6da48e9fd6b6e29f0a66a4c8aaff41b0d0ffa9d7ab0ca5790ede5feb83e6e36e"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 99,
+      "rola": "logo marki ETA",
+      "sourceUrl": "https://www.eta-polska.pl/cdn/shop/files/1500x1500_orange-cropped.svg",
+      "source": "eta-polska.pl (oficjalny sklep ETA w Polsce); SVG przerysowany na PNG 1000 px na bialym tle",
+      "width": 1000,
+      "height": 423,
+      "bytes": 51409,
+      "sha256": "d99c2d3d7feda91078078bb4595679280a5253ababadef19df23e045de6e5571"
+    }
+  ]
+}
