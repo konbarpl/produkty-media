@@ -1,0 +1,128 @@
+{
+ "slug": "odkurzacz-pioracy-bissell-spotclean-mini-pro-4149n",
+ "produkt": "Odkurzacz pioracy BISSELL SpotClean Mini Pro 4149N",
+ "wariant": "4149N (granatowy/szary)",
+ "zrodlo": "Media Expert - katalog 8563737 (gallery_1500_1500); nazwy plikow niosa oznaczenie 4149N = bramka tozsamosci. Karta producenta bissell.pl/spotcleanr-mini potwierdza model i wyglad.",
+ "pobrano": "2026-09-16",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "logo-producenta.jpg"
+ ],
+ "pliki": [
+  {
+   "file": "produkt-01.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563737/Odkurzacz-BISSELL-SpotClean-Mini-Pro-4149N-wer-1-2026.jpg",
+   "sha256": "e43b4da8b6a1bcfa32474cbd4dc12f7eca16fc32fb50af726d1ea95de77bf425",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 140314
+  },
+  {
+   "file": "produkt-02.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563737/Odkurzacz-BISSELL-SpotClean-Mini-Pro-4149N-wer-1.jpg",
+   "sha256": "4c6c74fd11bcd2a2b8cd931ff6f1fcec2d7fcda296ac148492dced716ab77ccb",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 127051
+  },
+  {
+   "file": "produkt-03.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563737/Odkurzacz-BISSELL-SpotClean-Mini-Pro-4149N-wer-2.jpg",
+   "sha256": "bec00ad4a7d45b9918526d6ae800dcdb5c4f037c2a9fbfc63fa81bea8a556753",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 151212
+  },
+  {
+   "file": "produkt-04.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563737/Odkurzacz-BISSELL-SpotClean-Mini-Pro-4149N-wer-3.jpg",
+   "sha256": "481d92058332ad5e4e10779658ec2f9cf39574a54fe760dab35f776a619d4fc9",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 115572
+  },
+  {
+   "file": "produkt-05.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563737/Odkurzacz-BISSELL-SpotClean-Mini-Pro-4149N-lifestyle-3.jpg",
+   "sha256": "55e158ed83089661f59c0c6914ce0c06eb373876f801c8d7cdfd2c7d02130d0d",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 384073
+  },
+  {
+   "file": "produkt-06.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563737/Odkurzacz-BISSELL-SpotClean-Mini-Pro-4149N-lifestyle-2.jpg",
+   "sha256": "810228586c8c3c59a32dd9189cd814da7914ac404a116c5ed2b7bba811289859",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 197011
+  },
+  {
+   "file": "produkt-07.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563737/Odkurzacz-BISSELL-SpotClean-Mini-Pro-4149N-lifestyle-1.jpg",
+   "sha256": "934a322a7448eed6ff331123f11d89595cfb9accbd0a3f913cb1e98701b81629",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 210896
+  },
+  {
+   "file": "produkt-08.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563737/Odkurzacz-BISSELL-SpotClean-Mini-Pro-4149N-lifestyle-6.jpg",
+   "sha256": "4fb0aedec6c79290ed5d30e29c0b2011e9b5fc5bcf1efc69f83d28ba75276d3f",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 305472
+  },
+  {
+   "file": "produkt-09.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563737/Odkurzacz-BISSELL-SpotClean-Mini-Pro-4149N-lifestyle-5.jpg",
+   "sha256": "4df55c3d4e88e66b0106ddd1be1f634b895ec70860ae126c37bb815cbed6fc72",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 194265
+  },
+  {
+   "file": "produkt-10.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563737/Odkurzacz-BISSELL-SpotClean-Mini-Pro-4149N-lifestyle-7.jpg",
+   "sha256": "a15ef692d0cd60bac79591067aaec17e54d6941193fc9ad21f6ba1bbfac0af7d",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 167155
+  },
+  {
+   "file": "produkt-11.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563737/Odkurzacz-BISSELL-SpotClean-Mini-Pro-4149N-lifestyle-9.jpg",
+   "sha256": "f6b0bfeb4a9768bd3a7560d4d3af14867bfbf82cdca18ccaf6ae9bc8c9c8eb20",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 121234
+  },
+  {
+   "file": "produkt-12.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563737/Odkurzacz-BISSELL-SpotClean-Mini-Pro-4149N-lifestyle-10.jpg",
+   "sha256": "ef17267a84e648404ca6d12d4df3b834a9b2749dc1c6f4d5a734d506cc228d8b",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 170175
+  },
+  {
+   "file": "logo-producenta.jpg",
+   "source": "repo mediow: odkurzacz-pioracy-bissell-spotclean-c5-pro-3931n/logo-producenta.jpg (logo marki BISSELL)",
+   "sha256": "0daf19df4833657d18fcb0a0849e1ac92c672781ebc4b6a3e6f9631738ecff71",
+   "width": 555,
+   "height": 127,
+   "bytes": 4781
+  }
+ ]
+}
