@@ -1,0 +1,189 @@
+{
+ "version": 1,
+ "generatedAt": "2026-09-16T07:11:31.708Z",
+ "slug": "odkurzacz-pioracy-bissell-spotclean-c9-pro-3911n",
+ "produkt": "Odkurzacz pioracy BISSELL SpotClean C9 Pro 3911N",
+ "wariant": "3911N",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/sprzatanie/odkurzacze-piorace/odkurzacz-pioracy-bissell-spotclean-c9-pro-3911n",
+ "galleryNote": "zdjecia z karty sklepu mediaexpert.pl (karta producenta bissell.pl oddaje strone Human verification); tozsamosc potwierdzona nazwami plikow 3911N i ogladem kontaktowki; brak oznaczen AI i plakatow z GWARANCJA",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "produkt-14.jpg",
+  "produkt-15.jpg",
+  "logo-producenta.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-wer1.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 202936,
+   "sha256": "1655e0da344ee8278f25054c931b0cb2e7ad0f698b8b282a97aa5b84f0937988"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-wer2.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 198806,
+   "sha256": "dfb916ee72ebc1a58564e5d2827e3ea3f758ecfb32390020c65cd94fe5585c64"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-wer3.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 231120,
+   "sha256": "08694422147b87ea5f231917ec4a74b3c4b7c00d375580c9afb13b434a4c024b"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-wer4.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 216542,
+   "sha256": "5178eebd127b0c601161912c6d59ab05adad43c12275673c72584ac78ac9f5b6"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-lifestyle-1.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 188134,
+   "sha256": "0fdaa4572d3cb7cbd825a8dbe46088935665c8b81b46906c59f32245e8533f09"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-lifestyle-2.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 179328,
+   "sha256": "b15da47849f08431688fa3fd44e417a549bb5b73b8bbe8d54cf24b64426cc83a"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-lifestyle-3.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 388261,
+   "sha256": "b4179be2e1e614ba49ea0cb11cf24edd76e79f17537f6c854825eaa43a99736d"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-lifestyle-4.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 245364,
+   "sha256": "6a01e5fb563bf6d5bfecde78129376f9f32dfdc274b5fb67a8c2145127f44f87"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-lifestyle-5.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 228891,
+   "sha256": "7743364831e3702fdfb260d87d9afeeb6b2c76d4a6f53c059127e8252c55d749"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-lifestyle-6.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 197975,
+   "sha256": "27f52efe3eb2d7fd7abd8c4611a6d32ae982112a8876546e1e2c7f9ea86c3a17"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-lifestyle-7.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 201311,
+   "sha256": "82c676c31930139a8e445149b65a09d233570bb65b1658833ff0d9f20627726d"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-lifestyle-8.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 252443,
+   "sha256": "a4fa5d8ad28a34b1d36208584c73dbe8c496898faa6887513d8bff5172dc815d"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "lifestyle",
+   "order": 13,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-lifestyle-9.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 157445,
+   "sha256": "9fd7bab28c2c8efaff9142c8a148bc6ee638b7e705327bd90497d0104a1ad3e9"
+  },
+  {
+   "file": "produkt-14.jpg",
+   "kind": "lifestyle",
+   "order": 14,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-lifestyle-10.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 186434,
+   "sha256": "7e5b405a0165f0f5f3d360ff2156e271387be9bfd09306637e9ec50b6d1cb8d4"
+  },
+  {
+   "file": "produkt-15.jpg",
+   "kind": "lifestyle",
+   "order": 15,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/85/8563725/Odkurzacz-pioracy-BISSELL-SpotClean-C9-Pro-3911N-lifestyle-11.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 112752,
+   "sha256": "0d506a587d295c1991603b2977aa3ad89933158bc06ee50679e87d0a208c2db1"
+  },
+  {
+   "file": "logo-producenta.jpg",
+   "kind": "logo",
+   "order": 16,
+   "sourceUrl": "repo mediow: odkurzacz-pioracy-bissell-spotclean-c5-pro-3931n/logo-producenta.jpg (logo marki BISSELL)",
+   "width": 555,
+   "height": 127,
+   "bytes": 4781,
+   "sha256": "0daf19df4833657d18fcb0a0849e1ac92c672781ebc4b6a3e6f9631738ecff71"
+  }
+ ]
+}
