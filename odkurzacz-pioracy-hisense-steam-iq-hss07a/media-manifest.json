@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T06:44:32.057Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/sprzatanie/odkurzacze-piorace/odkurzacz-pioracy-hisense-steam-iq-hss07a",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/95/9506200/Odkurzacz-pioracy-HISENSE-Steam-IQ-HSS07A-1.jpg",
+      "width": 1826,
+      "height": 1200,
+      "bytes": 140145,
+      "sha256": "08d811d9ee0229aed0e4a1e1707f1a4bb7a4e7c300825522704993811b16c05d"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/95/9506200/Odkurzacz-pioracy-HISENSE-Steam-IQ-HSS07A-2.jpg",
+      "width": 1286,
+      "height": 1200,
+      "bytes": 130184,
+      "sha256": "19a8ed745d0496a351a77d27efc092f445bbb8dad53fb88bbb3eefda2f7bdb43"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/95/9506200/Odkurzacz-pioracy-HISENSE-Steam-IQ-HSS07A-3.jpg",
+      "width": 1248,
+      "height": 1200,
+      "bytes": 116439,
+      "sha256": "47311b7356d20e04136c78297006edb01b1c301d851899229d5499e5030b5a6c"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/95/9506200/Odkurzacz-pioracy-HISENSE-Steam-IQ-HSS07A-4.jpg",
+      "width": 1632,
+      "height": 1200,
+      "bytes": 113477,
+      "sha256": "e17c5a216a47f159edf90c4277343a609d81c43194858be8c33355a6c6011016"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/95/9506200/Odkurzacz-pioracy-HISENSE-Steam-IQ-HSS07A-5.jpg",
+      "width": 631,
+      "height": 1200,
+      "bytes": 57049,
+      "sha256": "d6d3bf4be7d359ec22fa283be066f788ac636e170ea1f57d5cc9bd4662fc0cc1"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/95/9506200/Odkurzacz-pioracy-HISENSE-Steam-IQ-HSS07A-6.jpg",
+      "width": 937,
+      "height": 1200,
+      "bytes": 114335,
+      "sha256": "a940384af38d8eb79319d6c5257355dcafcd1e85a59422ab511515caf416d342"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/95/9506200/Odkurzacz-pioracy-HISENSE-Steam-IQ-HSS07A-7.jpg",
+      "width": 927,
+      "height": 1200,
+      "bytes": 71834,
+      "sha256": "7993ae2fb4678080dbfcff5d86cbdaa87e9e6d67bb35f5d9c1137153bb9b7c71"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/95/9506200/Odkurzacz-pioracy-HISENSE-Steam-IQ-HSS07A-8.jpg",
+      "width": 1697,
+      "height": 1200,
+      "bytes": 192287,
+      "sha256": "00b1b0060a43852a9606e9c0ab3a05392e3664cb7e36e7fff2780df9d5d2fba8"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/filemanager_original/thumbnails/images/logo_producneta/hisense.JPG",
+      "width": 316,
+      "height": 91,
+      "bytes": 4860,
+      "sha256": "f6d9b83657fa2cf7d14338dec80230bd9b6c447291abfa594f3d2108d05c38d1"
+    }
+  ]
+}
