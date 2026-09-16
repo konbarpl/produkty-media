@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T06:41:56.910Z",
+  "sourcePage": "https://www.bosch-home.pl/lista-produktow/BWD421PRO",
+  "slug": "odkurzacz-pioracy-bosch-aquawash-clean-bwd421pro",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "logo-bosch.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03052985_BWD421PRO_Power-Image_2000x2000_def.webp",
+      "width": 1520,
+      "bytes": 117212,
+      "sha256": "8c1e2f9409443162401db0d377aaf732046dd15ea74d7bfab916659b05800a4b"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03052986_BWD421PRO_Secondary-Image_2000x2000-01_def.webp",
+      "width": 1720,
+      "bytes": 161626,
+      "sha256": "5e862fb1762f02c43b87302da4e317fdc88038b64f15109445b61e6e105ebefc"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03052987_BWD421PRO_Secondary-Image_2000x2000-02_def.webp",
+      "width": 2000,
+      "bytes": 235482,
+      "sha256": "8e0829d1e1a7866e4f0d71246fa26c26b916cd8c2aa01b863b8e6cf99978b74f"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03052988_BWD421PRO_Secondary-Image_2000x2000-03_def.webp",
+      "width": 2000,
+      "bytes": 296164,
+      "sha256": "a5e090ecadf018728b1923b29a28eda3225ced31230717251fffd437e6d915a6"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03052989_BWD421PRO_Secondary-Image_2000x2000-04_def.webp",
+      "width": 2000,
+      "bytes": 492482,
+      "sha256": "08920553017869d76fdeedab00b787a6a81b8003896d77594d65d350d1f85b85"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02992931_BO_T_11_BWD41_AquaWash_Clean_BWD421PRO_picture_KF1_perspective_ENG_110119_def.webp",
+      "width": 2850,
+      "bytes": 124954,
+      "sha256": "8856a814e330dde04a6e2a090277b0515b2af40c47118155d5a7fac023e5bc73"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02992950_BO_T_11_BWD41_AquaWash_Clean_BWD421PRO_picture_KF2_top_ENG_110119_def.webp",
+      "width": 2245,
+      "bytes": 155290,
+      "sha256": "d51a4e27e02012d38eda6a8e4a537b8ffb539b767957fe2a8ff81a0213f972af"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02993315_BO_T_11_BWD41_AquaWash_Clean_BWD421PRO_picture_nKF_accessories_compartment_ENG_110119_def.webp",
+      "width": 3543,
+      "bytes": 137280,
+      "sha256": "05765b9ee04b2945beb6778aeabdafa74a5daaa217549ea19b9422d66ef53509"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02993317_BO_T_11_BWD41_AquaWash_Clean_BWD421PRO_picture_nKF_digital_power_control_ENG_110119_def.webp",
+      "width": 3543,
+      "bytes": 85816,
+      "sha256": "8b81f5aaba8651d58fd38394d426b300454c5bf1a05bc735275eec0a5c67acbe"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA02993319_BO_T_11_BWD41_AquaWash_Clean_BWD421PRO_picture_nKF_turbo_brush_ENG_110119_def.webp",
+      "width": 3378,
+      "bytes": 107194,
+      "sha256": "3d407190b7b8699fb09c6378684b34bbfec8bd00050e4b7a7ae921c54626f6bd"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03008253_BO_T_11_BWD41_AquaWash_Clean_BWD421PRO_powerimage_def.webp",
+      "width": 2813,
+      "bytes": 199428,
+      "sha256": "afdebb8ba1d66fa5876d20fc5f78e4ba63a0e91222d89f4ba077053c9920b13f"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/MCSA03003095_J2146_2318924_BWD421PRO_CMYK_def.webp",
+      "width": 2788,
+      "bytes": 327422,
+      "sha256": "8a3edcc29bda4808a821a90bb55fca7fac50604c66ebadb13f4f3c339aadef9e"
+    },
+    {
+      "file": "logo-bosch.jpg",
+      "kind": "logo",
+      "order": 13,
+      "sourceUrl": "repo mediow (kopia z bosch-flexxo-bbh3k2800)",
+      "bytes": 51914,
+      "sha256": "52742ba32977adecf4f7bb990fd6378d1289d9e37e3f73ebeb6bd7d7be005ca2"
+    }
+  ],
+  "dropped": 0,
+  "note": "Zdjecia WYLACZNIE z plikow z kodem BWD421PRO w nazwie (karta bosch-home.pl); warianty BWD421PET odrzucone. Logo marki na koncu galerii."
+}
