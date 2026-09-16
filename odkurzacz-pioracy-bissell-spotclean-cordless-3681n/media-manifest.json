@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-16T07:09:11.371108Z",
+  "sourcePage": "https://mirapolnext.pl/odkurzacz-pioracy-bissell-spotclean-cordless-3681n-p-33729.html",
+  "galleryNote": "zdjecia z karty sklepu mirapolnext.pl (karta producenta bissell.pl oddaje curl-owi ekran Human verification); tozsamosc potwierdzona wzrokowo na kontaktowce - kazde zdjecie pokazuje SpotClean Cordless 3681N; zadne nie jest oznaczone jako AI ani nie zawiera slowa GWARANCJA",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/147111/produkt/147111_01.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 240714,
+      "sha256": "2123504a75337d3fc29d68f734b64fe10f289c5124416460a97a44839965dd4f"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/147111/produkt/147111_02.jpg",
+      "width": 2929,
+      "height": 2861,
+      "bytes": 959068,
+      "sha256": "2addee7761855ea4692f7ee64491aabf1b97d056b38681f540b9247d6d6ab3fc"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/147111/produkt/147111_03.jpg",
+      "width": 2725,
+      "height": 2917,
+      "bytes": 931975,
+      "sha256": "0719cef9c757e90befd486f1bb8f529013c03a6fb6e71d87c7d81d920a1908c2"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/147111/produkt/147111_04.jpg",
+      "width": 2241,
+      "height": 2929,
+      "bytes": 507426,
+      "sha256": "2bde881c4799843e193627b05a6d0577a97073e7ed6a2ea4668803cd8876ff5b"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/147111/01.jpg",
+      "width": 934,
+      "height": 1000,
+      "bytes": 225472,
+      "sha256": "bc7f364b0f845c78c1a14fb09e57f116608a992f70b5fa31f927f60253b2148d"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/147111/7.jpg",
+      "width": 1400,
+      "height": 1139,
+      "bytes": 211355,
+      "sha256": "9c8a40a416f3dbf4addfd87243f4ba41b93835d1be92b7246d7ad91b03586db5"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/147111/2.jpg",
+      "width": 1000,
+      "height": 634,
+      "bytes": 108476,
+      "sha256": "4325dd577fc4ea8fc2f2253a18848452091ddc777eceac09c38881fd2ca79a18"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/147111/3.jpg",
+      "width": 1000,
+      "height": 713,
+      "bytes": 113246,
+      "sha256": "6704dc5705b9549e1f0b034bfc2454913a4f3c548e7c761b2d9f4f043876be0e"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/147111/4.jpg",
+      "width": 790,
+      "height": 790,
+      "bytes": 77998,
+      "sha256": "469f47259292ab2bc1e40744c2ef567c397acd8c8a6b51a207a9d2bb79b9f4a2"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/147111/5.jpg",
+      "width": 790,
+      "height": 790,
+      "bytes": 750019,
+      "sha256": "6203aa4d773ca70ea98ccfece8a43e1233494aeb8df28fa59106a771f9c761e1"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://mirapolnext.pl/images/opisy_mirapolnext/147111/6.jpg",
+      "width": 790,
+      "height": 790,
+      "bytes": 1061114,
+      "sha256": "382fbe85b37545a94b4fce6ad6b53aeb7d6a297f73d8383b20a464dbcacf9a1b"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "kopia logo BISSELL z katalogu odkurzacz-pioracy-bissell-spotclean-c5-pro-3931n w repo mediow",
+      "width": 555,
+      "height": 127,
+      "bytes": 4781,
+      "sha256": "0daf19df4833657d18fcb0a0849e1ac92c672781ebc4b6a3e6f9631738ecff71"
+    }
+  ]
+}
