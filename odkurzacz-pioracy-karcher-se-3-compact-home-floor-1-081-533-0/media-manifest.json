@@ -1,9 +1,12 @@
 {
+ "version": 1,
+ "generatedAt": "2026-09-16T06:55:41.799Z",
  "slug": "odkurzacz-pioracy-karcher-se-3-compact-home-floor-1-081-533-0",
  "produkt": "Odkurzacz piorący KARCHER SE 3 Compact Home Floor 1.081-533.0",
  "wariant": "1.081-533.0",
- "zrodlo": "Media Expert / Avans — karta wariantu 1.081-533.0 (polski katalog Kärcher nie zawiera tego wariantu zestawu; nazwy plików niosą oznaczenie wariantu = bramka tożsamości)",
- "pobrano": "2026-09-16T06:55:41.799Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/sprzatanie/odkurzacze-piorace/odkurzacz-karcher-se-3-compact-home-floor-1-081-533-0",
+ "sourceNote": "Media Expert / Avans — karta wariantu 1.081-533.0 (polski katalog Kärcher nie zawiera tego wariantu zestawu; nazwy plików niosą oznaczenie wariantu = bramka tożsamości)",
+ "kuracja": "produkt-02.jpg usuniete: ten sam ujecie co produkt-04, ale tylko 500 px (gorszy wariant). Kolejnosc: komplet zestawu -> zestaw z rura natryskowa (ECARF) -> alternatywny komplet -> ujecia pod katem -> logo marki na koncu.",
  "galleryOrder": [
   "produkt-01.jpg",
   "produkt-04.jpg",
@@ -13,47 +16,83 @@
   "produkt-07.jpg",
   "logo-producenta.jpg"
  ],
- "pliki": [
+ "files": [
   {
    "file": "produkt-01.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/67/6760716/KARCHER-SE-3-Compact-Home-Floor-zestaw-1.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/67/6760716/KARCHER-SE-3-Compact-Home-Floor-zestaw-1.jpg",
    "sha1": "5cedc14c94197e4faaa2abec53e1bb2384df7f2a",
-   "bytes": 164188
-  },
-  {
-   "file": "produkt-03.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/67/6760752/KARCHER-SE-3-Compact-Home-Floor-zestaw.jpg",
-   "sha1": "e15c82862b3468c024960fd076c7f5c4a75789b1",
-   "bytes": 165598
+   "bytes": 164188,
+   "sha256": "09ab04040085b3d8a0f6193269a691032da90d1da6c7e1d5b39d7cfe2703e2a0",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-04.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/67/6760716/1081533_std_01-300_dpi.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/67/6760716/1081533_std_01-300_dpi.jpg",
    "sha1": "2aae97acc3575883337ee45f5cdf5ace133d625b",
-   "bytes": 110568
+   "bytes": 110568,
+   "sha256": "c0fffcbe2e781a171d4b30ab4a740473f5950e487cc3d6e151f6e8e014c1f1c0",
+   "width": 1500,
+   "height": 1500
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/67/6760752/KARCHER-SE-3-Compact-Home-Floor-zestaw.jpg",
+   "sha1": "e15c82862b3468c024960fd076c7f5c4a75789b1",
+   "bytes": 165598,
+   "sha256": "1770772ba9de90e28aacc8ab3e4afae6fdcbf1fbac3d5bcd89f190bd0204035f",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-05.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/67/6760716/KARCHER-SE-3-Compact-Home-Floor-skos.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/67/6760716/KARCHER-SE-3-Compact-Home-Floor-skos.jpg",
    "sha1": "cd619ea42803db6b829bd7a36f5cdd242fcffbfa",
-   "bytes": 108013
+   "bytes": 108013,
+   "sha256": "6010637816effeeb4797164ff06c092f01bdb5ab359a5f12191521be5e331371",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-06.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/67/6760716/KARCHER-SE-3-Compact-Home-Floor-skos1.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/67/6760716/KARCHER-SE-3-Compact-Home-Floor-skos1.jpg",
    "sha1": "440c4b9e301bd6a9556c57f34680dbe0cc93459c",
-   "bytes": 140567
+   "bytes": 140567,
+   "sha256": "c0364ccaac756d59d38e13d743450ff90e321b9598490508a7363d0618047fb4",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "produkt-07.jpg",
-   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/67/6760716/KARCHER-SE-3-Compact-Home-Floor-skos2.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/67/6760716/KARCHER-SE-3-Compact-Home-Floor-skos2.jpg",
    "sha1": "ef51243fd69bd1ab0fd6da576c359d0a8618fb2c",
-   "bytes": 195166
+   "bytes": 195166,
+   "sha256": "100977aa3405c7df2313b8cf563818c418f588785bc6a66d7e98ca3b91c5608d",
+   "width": 1500,
+   "height": 1500
   },
   {
    "file": "logo-producenta.jpg",
-   "source": "repo mediów: odkurzacz-pioracy-karcher-se-3-18-battery-set-1-081-509-0/logo-producenta.jpg (logo marki Kärcher)"
+   "kind": "logo",
+   "order": 7,
+   "sourceUrl": "repo mediów: odkurzacz-pioracy-karcher-se-3-18-battery-set-1-081-509-0/logo-producenta.jpg (logo marki Kärcher)",
+   "sha1": null,
+   "bytes": 8418,
+   "sha256": "5881b5bbeaf8745fcad096276322d75d0bc4dce4af578376f8bbac633013ac8d",
+   "width": 467,
+   "height": 154
   }
- ],
- "kuracja": "produkt-02.jpg usuniete: ten sam ujecie co produkt-04, ale tylko 500 px (gorszy wariant). Kolejnosc: komplet zestawu -> zestaw z rura natryskowa (ECARF) -> alternatywny komplet -> ujecia pod katem -> logo marki na koncu."
+ ]
 }
