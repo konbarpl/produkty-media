@@ -20,7 +20,9 @@
       "order": 1,
       "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_iz3020f0_clean-it-compact_h4.jpg",
       "bytes": 94378,
-      "sha256": "e62059525438b408f72939a72207b20c301e835a6bd6118cc208d8c40668c59a"
+      "sha256": "e62059525438b408f72939a72207b20c301e835a6bd6118cc208d8c40668c59a",
+      "width": 1200,
+      "height": 1200
     },
     {
       "file": "produkt-02.jpg",
@@ -28,7 +30,9 @@
       "order": 2,
       "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_iz3020f0_clean-it-compact_h2_.jpg",
       "bytes": 96652,
-      "sha256": "12d9eea51932f024536a57fc71fac42793d3703e68d74902736539e0595b4399"
+      "sha256": "12d9eea51932f024536a57fc71fac42793d3703e68d74902736539e0595b4399",
+      "width": 1200,
+      "height": 1200
     },
     {
       "file": "produkt-03.jpg",
@@ -36,7 +40,9 @@
       "order": 3,
       "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_iz3020_clean-it-compact_pwc1_pl.jpg",
       "bytes": 456897,
-      "sha256": "f5afbdb0d0574076fa5427ef8a3906302b1825cec991ab0263dd3576db613ba7"
+      "sha256": "f5afbdb0d0574076fa5427ef8a3906302b1825cec991ab0263dd3576db613ba7",
+      "width": 1200,
+      "height": 1200
     },
     {
       "file": "produkt-04.jpg",
@@ -44,7 +50,9 @@
       "order": 4,
       "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_iz3020_clean-it-compact_pwc2_pl.jpg",
       "bytes": 144145,
-      "sha256": "c90bcec774b37cf346f949909c0914a598d9684dcf9ca9c063f723d790ef70c4"
+      "sha256": "c90bcec774b37cf346f949909c0914a598d9684dcf9ca9c063f723d790ef70c4",
+      "width": 1200,
+      "height": 1200
     },
     {
       "file": "produkt-05.jpg",
@@ -52,7 +60,9 @@
       "order": 5,
       "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_iz3020_clean-it-compact_pwc3_pl_1_.jpg",
       "bytes": 151704,
-      "sha256": "4fcb90fa5399608efa1cb5ecf8685b3849c7487e7972a91bdbffea4105e27e40"
+      "sha256": "4fcb90fa5399608efa1cb5ecf8685b3849c7487e7972a91bdbffea4105e27e40",
+      "width": 1200,
+      "height": 1200
     },
     {
       "file": "produkt-06.jpg",
@@ -60,7 +70,9 @@
       "order": 6,
       "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_iz3020_clean-it-compact_pwc4_pl.jpg",
       "bytes": 154053,
-      "sha256": "99769f2229ca5a84749120494580b839f979b36b5d64b30e8ced155506113507"
+      "sha256": "99769f2229ca5a84749120494580b839f979b36b5d64b30e8ced155506113507",
+      "width": 1200,
+      "height": 1200
     },
     {
       "file": "produkt-07.jpg",
@@ -68,7 +80,9 @@
       "order": 7,
       "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_iz3020_clean-it-compact_pwc5_pl.jpg",
       "bytes": 224223,
-      "sha256": "5f8435b990cb18f3418c3744437b5bf45c8cc822a80011637747f72bb75e302c"
+      "sha256": "5f8435b990cb18f3418c3744437b5bf45c8cc822a80011637747f72bb75e302c",
+      "width": 1200,
+      "height": 1200
     },
     {
       "file": "logo-tefal.png",
@@ -76,7 +90,10 @@
       "order": 8,
       "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-tefal.png",
       "bytes": 12693,
-      "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+      "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6",
+      "width": 960,
+      "height": 206
     }
-  ]
+  ],
+  "dimensionsAddedAt": "2026-09-16T06:49:40.419Z"
 }
