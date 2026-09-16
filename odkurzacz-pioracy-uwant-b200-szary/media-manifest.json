@@ -1,0 +1,65 @@
+{
+ "slug": "odkurzacz-pioracy-uwant-b200-szary",
+ "produkt": "Odkurzacz piorący UWANT B200 Szary",
+ "wariant": "B200, kolor szary (SKU Media Expert 2081629)",
+ "zrodlo": "Media Expert — karta wariantu UWANT B200 Szary (marka UWANT nie publikuje polskiej karty produktu); nazwy plikow nosza oznaczenie modelu = bramka tozsamosci",
+ "pobrano": "2026-09-16T07:12:20.241Z",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg"
+ ],
+ "pliki": [
+  {
+   "file": "produkt-01.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/78/7883015/Odkurzacz-pioracy-UWANT-B200-Szary-1.jpg",
+   "sha256": "ae444d2b4266b60621866d0ee2e8a38f5b82427c620004f9949f889f9af0bf76",
+   "bytes": 50065,
+   "width": 1500,
+   "height": 1500
+  },
+  {
+   "file": "produkt-02.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/78/7883015/Odkurzacz-pioracy-UWANT-B200-Szary-2.jpg",
+   "sha256": "3fcb20b7f656d53c65605d5ad8c9bdbf1268f5665259d27b46f1491c20d222b7",
+   "bytes": 52039,
+   "width": 1500,
+   "height": 1500
+  },
+  {
+   "file": "produkt-03.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/78/7883015/Odkurzacz-pioracy-UWANT-B200-Szary-3.jpg",
+   "sha256": "0ce761c8d8e0b846fe0f5d3a6c1c1bee59e5f6358a90ce9fdaff4b4120eae18a",
+   "bytes": 49485,
+   "width": 1500,
+   "height": 1500
+  },
+  {
+   "file": "produkt-04.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/78/7883015/Odkurzacz-pioracy-UWANT-B200-Szary-4.jpg",
+   "sha256": "82073e667c5936ed55615794454ebb541a70dd41850293ae6f911e1db773ab0e",
+   "bytes": 54983,
+   "width": 1500,
+   "height": 1500
+  },
+  {
+   "file": "produkt-05.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/78/7883015/Odkurzacz-pioracy-UWANT-B200-Szary-5.jpg",
+   "sha256": "c0299a0598eabe181274d8a72b246de2eafda1aeb782f1792635210829810b33",
+   "bytes": 110028,
+   "width": 1500,
+   "height": 1500
+  },
+  {
+   "file": "produkt-06.jpg",
+   "source": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/78/7883015/Odkurzacz-pioracy-UWANT-B200-Szary-6.jpg",
+   "sha256": "c78e0652dcaa7aac88812ba04e35bd455e468a97d4eabb8eb113363b80ad9c8f",
+   "bytes": 68176,
+   "width": 1500,
+   "height": 1500
+  }
+ ]
+}
