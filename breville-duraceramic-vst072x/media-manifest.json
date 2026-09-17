@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-17T13:05:10.492Z",
+  "sourcePage": "Media Expert — karta produktu, dump 17.09.2026",
+  "slug": "breville-duraceramic-vst072x",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-breville.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/15/1577089/Gofrownica-BREVILLE-DuraCeramic-VST072X-front.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 149219,
+      "sha256": "27e5d00c4a8fd6bfe3a765fae26962e74288548c393f679dac7a5cb4831e6e73"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/15/1577089/Gofrownica-BREVILLE-DuraCeramic-VST072X-front-2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 221546,
+      "sha256": "ab8e9dc6d5fd7f761f1b7708fbb3fe2cb4089845ceb8c0ae3048107f1570c6d2"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/15/1577089/Gofrownica-BREVILLE-DuraCeramic-VST072X-bok.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 107487,
+      "sha256": "d832d61269d917e90cab785569837f184187e9044bf77a42959e75d532a4c260"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/15/1577089/Gofrownica-BREVILLE-DuraCeramic-VST072X-plyty.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 161157,
+      "sha256": "2becf3c3619d9abaa3bf64eac102cc739ee662400d7a050f5ee72c2285e43d41"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/15/1577089/Gofrownica-BREVILLE-DuraCeramic-VST072X-plyty-wyjmowanie__1.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 174153,
+      "sha256": "29a4e7623ae9911e1a218c79536512ef8b07fe0c4289931d9c72ebb94b669354"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/15/1577089/Gofrownica-BREVILLE-DuraCeramic-VST072X-dol.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 98371,
+      "sha256": "2f5484f66e7c3bfc3fde62dd5cc8b52f949fb73324b6b388e474a20fa1fdcdbc"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/15/1577089/VST072_CREATIVE_WAFFLES.jpg",
+      "width": 1450,
+      "height": 1678,
+      "bytes": 334376,
+      "sha256": "6c4df5c62bc4e747d9dcc52ca31b685edd29295046da90ac767035c9740478c2"
+    },
+    {
+      "file": "logo-breville.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "lokalny zbiór logo Konrada: dropshipping/materiały/logo/breville logo.jpg",
+      "width": 257,
+      "height": 64,
+      "bytes": 3925,
+      "sha256": "adf5b58f5b5aa57e4882c9301f5a88f87043aa98ac0cbf12f9a8a7135977a906"
+    }
+  ]
+}
