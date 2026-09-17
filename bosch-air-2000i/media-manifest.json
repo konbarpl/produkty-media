@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-17T12:37:10Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0DLKYMN5F",
+  "slug": "bosch-air-2000i",
+  "galleryOrder": [
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-01.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "sourceUrl": "https://m.media-amazon.com/images/I/711yJ6gJG-L._AC_SL1500_.jpg",
+      "width": 1273,
+      "height": 1500,
+      "bytes": 91704,
+      "sha256": "d9d60c8a6782676bcf668cbc9f07b65bfa4b0753ae125d2dc029a3a7c9d552d7"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81ePHmprBBL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1468,
+      "bytes": 193221,
+      "sha256": "9047b08b7c993a5b42339b3bdbd3f0a7628725f80ced47dbcec0348edfc39dd4"
+    },
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o582344v389_Air_2000i_v1.webp",
+      "width": 1600,
+      "height": 1867,
+      "bytes": 64666,
+      "sha256": "8256f1e6b79d05fd645a7466844b4d7b4c1e0a688327e94da762ecf29d531dd0"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81553SewpxL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1421,
+      "bytes": 148018,
+      "sha256": "c9b02266d7774272b2177d7b38141674898eb464444d73479d75d3e10b84f0d0"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81cbuL4WpiL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 147158,
+      "sha256": "8f2d60f8686bce71e3deb8136a25ac34869ef1f2411f7b6d1829ea0129f84668"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "sourceUrl": "https://m.media-amazon.com/images/I/710yQfgdYRL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1468,
+      "bytes": 122615,
+      "sha256": "fa5139adc851b209a8aa1d16d9ddb5ef996fc475f98bcd6bcca62d94268c94e9"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "description",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71OzCuugBaL._AC_SL1500_.jpg",
+      "width": 1400,
+      "height": 1500,
+      "bytes": 119785,
+      "sha256": "2492b23145f888d3feb0d01cbd10ad8f76aebed34758f06cc22e90c02fa40d6c"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "description",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71kdX4vTWvL._AC_SL1500_.jpg",
+      "width": 1092,
+      "height": 1500,
+      "bytes": 102334,
+      "sha256": "c3c369a0e3b26533c63b43543060cf9201f4ed5712579a80d74a0189d44979b7"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "description",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71tbrW-0j0L._AC_SL1500_.jpg",
+      "width": 1216,
+      "height": 1500,
+      "bytes": 91562,
+      "sha256": "ee52e51215a812c211124f3247d6f2d64c6befca07c96920d9ff6281266f6326"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "sourceUrl": "(zachowane z poprzedniego przebiegu)",
+      "width": 446,
+      "height": 105,
+      "bytes": 22473,
+      "sha256": "6760ac2ee997737fb61be9b017dc12ff7ec58c7a2ef060e2d719efa5f8324739"
+    }
+  ]
+}
