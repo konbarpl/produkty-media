@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-17T13:05:10.486Z",
+  "sourcePage": "Media Expert — karta produktu, dump 17.09.2026",
+  "slug": "gotze-jensen-dw901",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-gotze-jensen.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/79/7979177/Gofrownica-GOTZE-JENSEN-DW901-1.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 202702,
+      "sha256": "e78978edf662e8362d6b75bf7c828b4af0762b8e4949d08ec487fc2212f27f41"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/79/7979177/Gofrownica-GOTZE-JENSEN-DW901-3.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 91627,
+      "sha256": "0c8e2f917a3cc8f0954523830254ab784a1ece2c9bc6ed0222824d7130164015"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/79/7979177/Gofrownica-GOTZE-JENSEN-DW901-4.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 153907,
+      "sha256": "50ef639afcd698bdf7cc563bd7726b4e7e2023f31c17ad101409a8b5e638e562"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/79/7979177/Gofrownica-GOTZE-JENSEN-DW901-5.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 162183,
+      "sha256": "47799cbb02d5340630e194079490841532c81002f27eec1e34a67d40c851cc60"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/79/7979177/Gofrownica-GOTZE-JENSEN-DW901-6.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 189369,
+      "sha256": "0cdc0161dcfbf63f3b1121d5a7641bcedef37cdf1e9fc924ae6e6b1bb49d8886"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/79/7979177/Gofrownica-GOTZE-JENSEN-DW901-8.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 139330,
+      "sha256": "8952fb1fb6d1df3a368e94716dda38d7957c4626d2c8852bfc1ddc496e912b9e"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/79/7979177/Gofrownica-GOTZE-JENSEN-DW901-9.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 114379,
+      "sha256": "562b9ff4ada2bb6682b0f316617e7fd187fc2bb3fec58cedf8eb7f3923ef0f0d"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/79/7979177/Gofrownica-GOTZE-JENSEN-DW901-10.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 159113,
+      "sha256": "3daf15b4cd0314d027bf3dfcbada95cfd01668e7bc16e8e15604fdcf2a8b7c67"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/79/7979177/Gofrownica-GOTZE-JENSEN-DW901-11.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 178084,
+      "sha256": "787f306b68fcbf7ac58eae4f42429ee577d5ed1d257e2b4e268fef1f1c339c12"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/79/7979177/Gofrownica-GOTZE-JENSEN-DW901-12.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 145463,
+      "sha256": "6f683777ec758b9a32f3b2d8a726f4293a0b111ee54ce1174f4392e11c977e3b"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/79/7979177/Gofrownica-GOTZE-JENSEN-DW901-13.jpg",
+      "width": 2194,
+      "height": 1846,
+      "bytes": 430798,
+      "sha256": "6e6f6baa25d5e2a04d15f96351e8d7cd3fb7ddbc516977eb0dccfa70ea422bf4"
+    },
+    {
+      "file": "logo-gotze-jensen.jpg",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "lokalny zbiór logo Konrada: dropshipping/materiały/logo/gotze-and-jensen_logo.jpg",
+      "width": 500,
+      "height": 74,
+      "bytes": 5999,
+      "sha256": "020add42cc816bba2129c6632dbd3f7b9e7ae19dc7c767b623ccda5570063c6f"
+    }
+  ]
+}

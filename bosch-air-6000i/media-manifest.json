@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-17T12:34:54Z",
+  "sourcePage": "https://www.bosch-homecomfort.com/pl/pl/ocs/budynki-mieszkalne/air-6000i-20619056-p/",
+  "slug": "bosch-air-6000i",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "opis-07.webp",
+    "opis-08.webp",
+    "opis-09.webp",
+    "opis-10.webp",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o522950v389_Air_6000_v1.webp",
+      "width": 683,
+      "height": 1603,
+      "bytes": 45506,
+      "sha256": "11e598fa2ae0af2f3491f27e3b6577a4e407d93f92a32481f633b3bb68d50392"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o523365v389_Air_6000_v2.webp",
+      "width": 1600,
+      "height": 947,
+      "bytes": 77914,
+      "sha256": "e7119b52ec95ae048bc702cb9f0ae557bd89ff27f1e8a998d0f627ad0292ba16"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o522951v389_Air_6000_v3.webp",
+      "width": 1096,
+      "height": 1806,
+      "bytes": 82732,
+      "sha256": "cf6fc9f66c5b7d5649662cee88e3d03b6c9b18481fa609e8a42d20ce22ec7ff6"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o523366v389_Air_6000_v4.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 66420,
+      "sha256": "14e65bddb2435b5f0aad0e2430c161f466c3efa08845acdcc395cc0bb1accc4a"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o523367v389_Air_6000_v5.webp",
+      "width": 1600,
+      "height": 2451,
+      "bytes": 169226,
+      "sha256": "721152d2775566bc7ca96169d3c503ab026d4bb886b014c860cf3a0d3f0b2a1f"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o580969v389_Air_6000_v11.webp",
+      "width": 1160,
+      "height": 2963,
+      "bytes": 79482,
+      "sha256": "678e9dd0e15be3854ae756bf8617ec881524e7ac413302e8baebbf6a9d5acf37"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o580970v389_Air_6000_v12.webp",
+      "width": 1600,
+      "height": 990,
+      "bytes": 90292,
+      "sha256": "1d40c2aaeca077529fcdd0d2c0ac780d83cb4f8eae0c959e8a83c229e90a7143"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o580976v389_Air_6000_v13.webp",
+      "width": 1600,
+      "height": 990,
+      "bytes": 49506,
+      "sha256": "803dcfd37ffe4978720687107be3c2a0e29b2a240b5b8b0f3be76bab97a1b477"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o580971v389_Air_6000_v14.webp",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 122520,
+      "sha256": "bdd670e787ad0df9c682487c2f35b53b257050e2a30bcf38f6775cfbc8511298"
+    },
+    {
+      "file": "opis-07.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o580972v389_Air_6000_v15.webp",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 62280,
+      "sha256": "4bb6a9664cf2679b574748e2f1d3d1ab471f65ffbaffe8ba26f0d8a092ac10e0"
+    },
+    {
+      "file": "opis-08.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o580973v389_Air_6000_v16.webp",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 122904,
+      "sha256": "a07da317e16597700b868648dc8bc708c01024728dbc8b4c850b5688d96b06b2"
+    },
+    {
+      "file": "opis-09.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o580974v389_Air_6000_v17.webp",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 102820,
+      "sha256": "8ff05ddf1b0a97e38e1dc22247dba7be18e1846220c68e3335766305fae9d9f4"
+    },
+    {
+      "file": "opis-10.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o580975v389_Air_6000_v18.webp",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 118442,
+      "sha256": "aa55fdf17df33e289c864b74eb8e74b1aa7d7673b16b8599d00a182210e4bf88"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "sourceUrl": "bosch-air-2000/logo-producenta.png",
+      "width": 446,
+      "height": 105,
+      "bytes": 22473,
+      "sha256": "6760ac2ee997737fb61be9b017dc12ff7ec58c7a2ef060e2d719efa5f8324739"
+    }
+  ]
+}

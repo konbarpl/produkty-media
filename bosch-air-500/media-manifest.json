@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-17T12:34:28Z",
+  "sourcePage": "https://www.bosch-homecomfort.com/pl/pl/ocs/budynki-mieszkalne/air-500-21599812-p/",
+  "slug": "bosch-air-500",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "opis-07.webp",
+    "opis-08.webp",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o613669v389_Air_500_v1.webp",
+      "width": 1600,
+      "height": 2289,
+      "bytes": 76912,
+      "sha256": "018018aac482ffab2aa27a281a7a3a7aff63be460188e6f042efa303c43e64b4"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o627836v389_Air_500_v2.webp",
+      "width": 1600,
+      "height": 1093,
+      "bytes": 125768,
+      "sha256": "f1c7d6d3cc8b3748f9768f9fc543e32d486159c816892ba620aea974d7605973"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o627837v389_Air_500_v3.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 47974,
+      "sha256": "84e38cb9b0136543ec037e1b699cd6eed5c04d860b807e32ce24ded223811d72"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o627838v389_Air_500_v4.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 98880,
+      "sha256": "fdeb8bc9447fc338f4837caf10aa2c3afabccb29c9a24bb3c397fd3f21ef234e"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o627839v389_Air_500_v5.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 59000,
+      "sha256": "a5ff1abc08998d7048922fd0bda4ffb8c361354feaad09fda628dd038ce716e7"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o627840v389_Air_500_v6.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 65614,
+      "sha256": "38ef19646deb90edccc4dfa7b03a13fd2e4265f9421b00f9c6607b65ac1c9513"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o627841v389_Air_500_v7.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 38900,
+      "sha256": "5361ceae988599a2a1fa0238275c02152d24a4c0c4b2eb1efe55e502cc94b7f4"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o627842v389_Air_500_v8.webp",
+      "width": 1600,
+      "height": 1233,
+      "bytes": 32442,
+      "sha256": "bc70bf4d847ab496c4edb2f50466797e77b570c4ea94301bce8ee0c29098f5a0"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o627843v389_Air_500_v9.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 90138,
+      "sha256": "7eacd9cce5bb9d9ac898648ae4aad11e6d62c0a8adb5d48555630ffc7845243b"
+    },
+    {
+      "file": "opis-07.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o627844v389_Air_500_v10.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 27220,
+      "sha256": "7fb55b23070aa0b736da82a4160a72e8768866de4f742e3bc46f4676954c1c1b"
+    },
+    {
+      "file": "opis-08.webp",
+      "kind": "description",
+      "sourceUrl": "https://www.bosch-homecomfort.com/ocsmedia/optimized/1600x99999/o627845v389_Air_500_v11.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 35048,
+      "sha256": "7b34bd84c245f1a2b4e7e9372fdbc49666c9cdae673244d73d3db5ec66922775"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "sourceUrl": "bosch-air-2000/logo-producenta.png",
+      "width": 446,
+      "height": 105,
+      "bytes": 22473,
+      "sha256": "6760ac2ee997737fb61be9b017dc12ff7ec58c7a2ef060e2d719efa5f8324739"
+    }
+  ]
+}

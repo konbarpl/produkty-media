@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-17T13:05:10.469Z",
+  "sourcePage": "Media Expert — karta produktu, dump 17.09.2026",
+  "slug": "gastroback-42449",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "logo-gastroback.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/13/13405524/Gofrownica-GASTROBACK-42449-1.jpg",
+      "width": 1071,
+      "height": 652,
+      "bytes": 49371,
+      "sha256": "952f6aaebf0983aa842b880321b5f78cde7119f52021c1004f54e883f3e5a555"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/13/13405524/Gofrownica-GASTROBACK-42449-2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 141589,
+      "sha256": "b62914730626449060643d0dcf4e0f8e497be1a3c255ed3ad11a5734ea2b14b1"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/13/13405524/Gofrownica-GASTROBACK-42449-3.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 192872,
+      "sha256": "1539e4d4efeabdc08299dc73522c62f2d13f158665252e8f66fea42caeaae4f9"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/13/13405524/Gofrownica-GASTROBACK-42449-4.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 200005,
+      "sha256": "6382b41462c9e66e1e241c65524726502bf8bb6ff06f864ba7871e42c6ab7458"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/13/13405524/Gofrownica-GASTROBACK-42449-5.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 67105,
+      "sha256": "08917bac3c92110f41364431abb6c03fd3fb58d781860cae399d05b2a8c150a9"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/13/13405524/Gofrownica-GASTROBACK-42449-6.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 200322,
+      "sha256": "98cb123ffa4629966ac7d9eb442dbac1688a08ccc7f7bb2eb47b87c25c9072a9"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/13/13405524/Gofrownica-GASTROBACK-42449-7.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 15472,
+      "sha256": "fbd8674f0b7a928b4c135971ed71b226d7df725649c754888f1c584769cd6feb"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/13/13405524/Gofrownica-GASTROBACK-42449-8.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 150526,
+      "sha256": "67733d6485added38c01c81535f20e63136ed37c8b1aded0937b7cad0f7c550d"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/13/13405524/Gofrownica-GASTROBACK-42449-9.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 139006,
+      "sha256": "fdd040922bf1c68bfb5dc3b4364602b5cb9c53b7d40495cc28b2bc694da3c02f"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/13/13405524/Gofrownica-GASTROBACK-42449-10.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 192011,
+      "sha256": "dc01e03519d8ede0e94dfb5a6e3bb26f474f21cb45a0e61a20582200cdaa5f30"
+    },
+    {
+      "file": "logo-gastroback.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "https://gastroback.com.pl/ (cropped-gastroback-logo-clear.png, 17.09.2026)",
+      "width": 1160,
+      "height": 493,
+      "bytes": 33840,
+      "sha256": "9df79bcdd7c8ef3c4186992c3fe1d59ddd3dda4a41113ecb395535d1ff4b79f5"
+    }
+  ]
+}

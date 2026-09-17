@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-17T12:36:51Z",
+  "sourcePage": "https://winixeurope.eu/en/air-purifiers/air-purifier-winix-5300-2/",
+  "slug": "winix-5300-2",
+  "galleryOrder": [
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-01.png",
+    "opis-01.png",
+    "opis-02.png",
+    "opis-03.png",
+    "opis-04.png",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "sourceUrl": "https://winixeurope.eu/wp-content/uploads/2024/11/5300-2-right-side_1250x1250.png",
+      "width": 1250,
+      "height": 1250,
+      "bytes": 1080019,
+      "sha256": "be91d90064385b5dd12f066df8246b14252c73174f06f1b3001f911939f60fd0"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "sourceUrl": "https://winixeurope.eu/wp-content/uploads/2024/11/5300-2-top_1250x1250.png",
+      "width": 1250,
+      "height": 1250,
+      "bytes": 754155,
+      "sha256": "8fec5335d8391df1ab5bc44a0fb300cc8e3afc6248e91496fcd402c6616a83b8"
+    },
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "sourceUrl": "https://winixeurope.eu/wp-content/uploads/2024/11/5300-2-main_1250x1250.png",
+      "width": 1250,
+      "height": 1250,
+      "bytes": 333137,
+      "sha256": "ca0331fafa9212348e9fe1faa8dc6853b7a4f556cd7e787f1fc83e3448a6fad8"
+    },
+    {
+      "file": "opis-01.png",
+      "kind": "description",
+      "sourceUrl": "https://winixeurope.eu/wp-content/uploads/2024/11/5300-2-plasmawave-technology.png",
+      "width": 1250,
+      "height": 1250,
+      "bytes": 1499437,
+      "sha256": "755b485537220affe39467ad678b3e2f16cf70a6e11a65305660bb9bcd9826d8"
+    },
+    {
+      "file": "opis-02.png",
+      "kind": "description",
+      "sourceUrl": "https://winixeurope.eu/wp-content/uploads/2024/11/5300-2-filter-change_1250x1250.png",
+      "width": 1250,
+      "height": 1250,
+      "bytes": 1338049,
+      "sha256": "c40ecc9c8eb28993392c0d6ddce359561937d829a85498b8cef41218dbfcce13"
+    },
+    {
+      "file": "opis-03.png",
+      "kind": "description",
+      "sourceUrl": "https://winixeurope.eu/wp-content/uploads/2024/11/5300-2-pre-filter_1250x1250.png",
+      "width": 1250,
+      "height": 1250,
+      "bytes": 1028252,
+      "sha256": "5edab7d59437bb173f98a8c188218ec5aa1926ab72f9596367ed9ca76cecc812"
+    },
+    {
+      "file": "opis-04.png",
+      "kind": "description",
+      "sourceUrl": "https://winixeurope.eu/wp-content/uploads/2024/11/5300-2-living-room_1250x1250.png",
+      "width": 1250,
+      "height": 1250,
+      "bytes": 1992066,
+      "sha256": "cd28d5e6c69c4ae4bdcf71619325c27d50a541d02ad359541d5ecf9034f7c2c3"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "sourceUrl": "(zachowane z poprzedniego przebiegu)",
+      "width": 916,
+      "height": 194,
+      "bytes": 5262,
+      "sha256": "b244419cccc3a81bd6c55affcf7d1f2f9cbce0542b5283574ebc05d46bd2124a"
+    }
+  ]
+}

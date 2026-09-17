@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-17T13:05:10.478Z",
+  "sourcePage": "Media Expert — karta produktu, dump 17.09.2026",
+  "slug": "gotze-jensen-dw900",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-gotze-jensen.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/17/1764909/DW900.jpg",
+      "width": 2000,
+      "height": 1691,
+      "bytes": 472700,
+      "sha256": "7245c5c74234ace4cf2e2648dc4139b34663c1e983a776aba6d5bff5d047f28d"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/17/1764909/GOTZE-JENSEN-DW900-gofrownica-zamknieta.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 105562,
+      "sha256": "6a66a8bd31fc9dbc98eb178c814526ac7a97e76603b75a7fcc3d78dc1dfa96ed"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/17/1764909/GOTZE-JENSEN-DW900-gofrownica-front.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 218727,
+      "sha256": "ece426d86b802e432aee479d4c7ca3acf85439f14ef3813ab6ef7b00cc7237fa"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/17/1764909/GOTZE-JENSEN-DW900-gofrownica-otwarta-skos.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 153820,
+      "sha256": "57fc93d896c7e913a3b1cc82b6ee4a8296e1e8ebbdc2a544c23a7c72cebbd622"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/17/1764909/GOTZE-JENSEN-DW900-gofrownica-wyswietlacz.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 142091,
+      "sha256": "3f18be29158dbf83d9d46534d65f94f4590f050719bf98bb3b55b90e01c66bfe"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/17/1764909/GOETZE-JENSEN-DW900-894499-front.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 95724,
+      "sha256": "4f98895ed91a4bd4a32a4999ab5a68fda6dbf1e53d31df3c21ba3222f5315e1d"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/17/1764909/GOETZE-JENSEN-DW900-894499-front-skos.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 90184,
+      "sha256": "d546a1e09ad20649b973e329e2ecd8a312966355fb52ac62c3d49a18f957e205"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/17/1764909/GOETZE-JENSEN-DW900-894499-front-skos-otwarty.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 135406,
+      "sha256": "fa6e1b3d8c2f829e8aa494271cc9db83bbc924758c0ad09562bd8dc355be5151"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/17/1764909/GOTZE-JENSEN-DW900-gofrownica-lifestyle-1.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 286202,
+      "sha256": "54bca0e687e99845b22a478c56dd9602c534d43eab543bb0bd700ba084877564"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/17/1764909/GOTZE-JENSEN-DW900-gofrownica-lifestyle-2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 204782,
+      "sha256": "72e0ecdbb25192c096ef378eccb5daca1ae3c1466633217cf3628617ee1b865b"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/17/1764909/DW900-wymiary.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 205001,
+      "sha256": "52002af4837e3aeb3422d993e57a887318519bad8baba626bd5b768efc29d30a"
+    },
+    {
+      "file": "logo-gotze-jensen.jpg",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "lokalny zbiór logo Konrada: dropshipping/materiały/logo/gotze-and-jensen_logo.jpg",
+      "width": 500,
+      "height": 74,
+      "bytes": 5999,
+      "sha256": "020add42cc816bba2129c6632dbd3f7b9e7ae19dc7c767b623ccda5570063c6f"
+    }
+  ]
+}

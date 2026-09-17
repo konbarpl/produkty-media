@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-17T13:05:10.501Z",
+  "sourcePage": "Media Expert — karta produktu, dump 17.09.2026",
+  "slug": "dezal-301-7-1-lwn",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-dezal.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/78/7887927/Gofrownica-DEZAL-301.7.1-LWN-Czarny-1.jpg",
+      "width": 2044,
+      "height": 2544,
+      "bytes": 366202,
+      "sha256": "2ff2e934d4c4b4918b146f2ce41f543557cd23a6d0c1a986a2b99cb33fe4c8fd"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/78/7887927/Gofrownica-DEZAL-301.7.1-LWN-Czarny-2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 82187,
+      "sha256": "aa3e9f1941fd395bd1539b2c9ca3db57825d4c60fd623cfb7e6c133dfbf93c6b"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/78/7887927/Gofrownica-DEZAL-301.7.1-LWN-Czarny-3.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 216256,
+      "sha256": "34c6fddfafcf633c55f6907a5dea39dc807e58b89e3009957a9fdfb019797df5"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/78/7887927/Gofrownica-DEZAL-301.7.1-LWN-Czarny-4.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 374746,
+      "sha256": "f0004bddb6834d1cdff4f068c25e9fbd5d9bc47734a6e14f98b7bf8af2ad61b5"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/78/7887927/Gofrownica-DEZAL-301.7.1-LWN-Czarny-5.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 126778,
+      "sha256": "74c481072061bf65db7a63bd6827a95d3f05fe59bd47527041a55840249abf31"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/78/7887927/Gofrownica-DEZAL-301.7.1-LWN-Czarny-6.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 99722,
+      "sha256": "8e44a7847d2aeb32c3f89583f91b889d1e7e715b1f4e7b7397ec499386167bb5"
+    },
+    {
+      "file": "logo-dezal.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "https://dezal.com.pl/assets/img/site/logo.svg (17.09.2026)",
+      "width": 1160,
+      "height": 521,
+      "bytes": 54423,
+      "sha256": "ea6c7a24588aca1f9a5f2c2bd3d1362919e47aaf6299eaff1aaeb50f054a0611"
+    }
+  ]
+}
