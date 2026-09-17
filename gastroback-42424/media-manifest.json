@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-17T12:34:09.430Z",
+  "sourcePage": "Media Expert — karta produktu, dump 17.09.2026",
+  "slug": "gastroback-42424",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/20/2096109/Gofrownica-GASTROBACK-42424-1.jpg",
+      "width": 765,
+      "height": 760,
+      "bytes": 90155,
+      "sha256": "eb6436391e9afa29b5553bbe8863389c61a6b6cd7d742577ea6c78aa6114a1ae"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/20/2096109/Gofrownica_GASTROBACK-42424-front-1.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 97477,
+      "sha256": "1c817ecfa429ea341a81ca2a085ccdb851410c6f98d6d28c0cadf302b55e8147"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/20/2096109/Gofrownica_GASTROBACK-42424-front-2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 62135,
+      "sha256": "58ff51cdb0a688d4cce28b17032cb1cd3a8d4b785ef7cd73f53581fb7d99b7f4"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/20/2096109/Gofrownica_GASTROBACK-42424-wyswietlacz.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 83028,
+      "sha256": "843801b443d374ac9f6950104e850a333cecd78031ef5864b588adcdacbe64cc"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/20/2096109/Gofrownica_GASTROBACK-42424-plyta-grzejna.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 179648,
+      "sha256": "f913fa21a8c0da0e24a39488f368ced056631933edba8ca96ff5f371b2db021e"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/20/2096109/Gofrownica_GASTROBACK-42424-gofry.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 244166,
+      "sha256": "22301093aab6a52bf1b8c88250c7a8d756589a5b8a86c69d1aa53823634b5bef"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/20/2096109/Gofrownica_GASTROBACK-42424-life-1.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 96047,
+      "sha256": "7e3cfde5b14370bbc1092f9e8bb33c70e963a8d184c6a8ea1197baaf45be3635"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_150_150/thumbnails/images/20/2096109/Gofrownica_GASTROBACK-42424-life-2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 139462,
+      "sha256": "bcbe3e6d2f5883a50f4636052829329fe011c12f0612901a34f35745356c3ad6"
+    }
+  ]
+}
