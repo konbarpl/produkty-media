@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-17T13:04:09Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0CX92GNCX + https://www.amazon.de/dp/B0CX92GNCX + https://www.amazon.it/dp/B0CX92GNCX (ten sam ASIN = ten sam produkt; producent nie ma HP300EU w katalogu PL/UK)",
+  "slug": "shark-neverchange-max-hp300eu",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61QWAVJAorL._AC_SL1500_.jpg",
+      "bytes": 49909,
+      "sha256": "34ab317e032c630442f69609421bb6bc5870daf53ed0255587b4f22af7c28d4f"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61cMv7TcOXL._AC_SL1500_.jpg",
+      "bytes": 101640,
+      "sha256": "d5e0547a3919df01270e0c16a0b971eae7be9544afc9aa7dd065692c289b226f"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61DnSNxQDiL._AC_SL1490_.jpg",
+      "bytes": 79249,
+      "sha256": "b5012d34c1fe2a29c2b8065dcd4ddf6a1baff2493effa1fde80ffdd8886216ba"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "sourceUrl": "dropshipping/materiały/logo/Shark_Logo.jpg",
+      "bytes": 6447,
+      "sha256": "a44ddc56fbb4a5fe0b0ea23017849110b8e33566cb763dfceb7f9114dcd89386"
+    }
+  ],
+  "uwaga": "Z 28 zdjec z amazon.pl/de/it zostaly 3 packshoty bialego HP300EU. Odrzucone: infografiki z napisami DE i IT (obcy jezyk) oraz packshoty INNYCH wariantow kolorystycznych (lawenda, zielony, rozowy, srebrny) - bramka tozsamosci wariantu."
+}
