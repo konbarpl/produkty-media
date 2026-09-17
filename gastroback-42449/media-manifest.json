@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-17T12:34:09.438Z",
+  "generatedAt": "2026-09-17T13:05:10.469Z",
   "sourcePage": "Media Expert — karta produktu, dump 17.09.2026",
   "slug": "gastroback-42449",
   "galleryOrder": [
@@ -13,7 +13,8 @@
     "produkt-07.jpg",
     "produkt-08.jpg",
     "produkt-09.jpg",
-    "produkt-10.jpg"
+    "produkt-10.jpg",
+    "logo-gastroback.jpg"
   ],
   "files": [
     {
@@ -115,6 +116,16 @@
       "height": 1500,
       "bytes": 192011,
       "sha256": "dc01e03519d8ede0e94dfb5a6e3bb26f474f21cb45a0e61a20582200cdaa5f30"
+    },
+    {
+      "file": "logo-gastroback.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "https://gastroback.com.pl/ (cropped-gastroback-logo-clear.png, 17.09.2026)",
+      "width": 1160,
+      "height": 493,
+      "bytes": 33840,
+      "sha256": "9df79bcdd7c8ef3c4186992c3fe1d59ddd3dda4a41113ecb395535d1ff4b79f5"
     }
   ]
 }
