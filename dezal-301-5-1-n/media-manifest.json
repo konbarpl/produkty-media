@@ -9,7 +9,8 @@
     "produkt-03.jpg",
     "produkt-04.jpg",
     "produkt-05.jpg",
-    "produkt-06.jpg"
+    "produkt-06.jpg",
+    "logo-dezal.jpg"
   ],
   "files": [
     {
@@ -71,6 +72,16 @@
       "height": 1500,
       "bytes": 196582,
       "sha256": "4e1aca76bf3c38915fe00ac552d107643cb9ae70cab74e63699381da86127753"
+    },
+    {
+      "file": "logo-dezal.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "https://dezal.com.pl/assets/img/site/logo.svg (17.09.2026)",
+      "width": 1160,
+      "height": 521,
+      "bytes": 54423,
+      "sha256": "ea6c7a24588aca1f9a5f2c2bd3d1362919e47aaf6299eaff1aaeb50f054a0611"
     }
   ]
 }
