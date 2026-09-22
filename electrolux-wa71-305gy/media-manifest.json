@@ -1,0 +1,119 @@
+{
+ "slug": "electrolux-wa71-305gy",
+ "model": "Electrolux Well A7 WA71-305GY (szary)",
+ "source": "https://www.mediaexpert.pl/agd-male/do-domu/oczyszczacze-powietrza/oczyszczacz-powietrza-electrolux-wa71-305gy",
+ "collectedAt": "2026-09-22",
+ "note": "Zdjecia produktowe z galerii karty Media Expert (gallery_1500_1500, pobrane nawigacja Playwright). Tozsamosc: nazwa pliku zawiera WA71-305GY, kontaktowka 22.09: szary korpus z uchwytem, zgodny z WA71-305GY. POMINIETO 8 zdjec lifestyle (lifestyle..lifestyle7): karta ME ma 8 etykiet 'Wygenerowane z AI' w galerii (liczba = liczba lifestyle), a galeria oznaczona jako AI odpada. Logo Electrolux skopiowane z repo (folder electrolux-power-hygienic-800-ep81hb25wu).",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "logo-electrolux.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/32/3252418/Oczyszczacz-powietrza-ELECTROLUX-WA71-305GY-front.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 99783,
+   "sha256": "6781c2f74aa13230227b5e62826462da5e606d2b548d7e7a91d14e8ba124ca0f"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/32/3252418/ELECTROLUX-WA71-305GY-Front-Aplikacja.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 231759,
+   "sha256": "9934bf74199d308f11ae4c0435e43de31c08a9653cb384551745ac66a7681d40"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/32/3252418/Oczyszczacz-powietrza-ELECTROLUX-WA71-305GY-skos.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 302954,
+   "sha256": "5e8459228ebaa98c9536eb4e1e148eb3a255b3719ea7b81af4ada4e2007971c4"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/32/3252418/Oczyszczacz-powietrza-ELECTROLUX-WA71-305GY-przod.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 414351,
+   "sha256": "a12e7f5fe6a85249e07c59cbebcf77b63d6211e8b23985799caf83d0121f24ac"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/32/3252418/Oczyszczacz-powietrza-ELECTROLUX-WA71-305GY-przod1.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 169660,
+   "sha256": "c245ec9b03d2ead7ab78bcc8e7cc69096079e40392776a41599e5ffe004b7d7a"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/32/3252418/Oczyszczacz-powietrza-ELECTROLUX-WA71-305GY-bok.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 91213,
+   "sha256": "3a53c51d9d3f999faa9e9b80d93081ad9d7d9c3383a1bc6c6e502b53d7f774a6"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/32/3252418/Oczyszczacz-powietrza-ELECTROLUX-WA71-305GY-tyl.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 77961,
+   "sha256": "009114f78f90e8e66b2a9a3cbe1e0d09766df84703aff0e65ffe5e7366e77b26"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/32/3252418/Oczyszczacz-powietrza-ELECTROLUX-WA71-305GY-panel.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 86849,
+   "sha256": "df1061e3427ea80584975304565cbe247db88e79906ee526a5bdc73f1e0d3796"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/32/3252418/Oczyszczacz-powietrza-ELECTROLUX-WA71-305GY-ustawienia.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 296417,
+   "sha256": "61ff46f4512b63784f7ec29d5de6ffe47999d39ba995a4bddf23f0d1d5dd8521"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/32/3252418/Oczyszczacz-powietrza-ELECTROLUX-WA71-305GY-elementy.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 90935,
+   "sha256": "99d8625c5ab9f0fc30b79ab9c9e9765fc605ca8f64a9adfd210b838a858fd12e"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/32/3252418/Oczyszczacz-powietrza-ELECTROLUX-WA71-305GY-front1.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 107532,
+   "sha256": "dccd4ca2982b08c81124757dec4fab3d4ab58a32544cd78939fe9643ab5bc795"
+  },
+  {
+   "file": "logo-electrolux.jpg",
+   "sourceUrl": "kopia z repo: electrolux-power-hygienic-800-ep81hb25wu/logo-electrolux.jpg (Wikimedia Commons Electrolux_logo.svg)",
+   "width": 1360,
+   "height": 246,
+   "bytes": 36634,
+   "sha256": "2aa733c41cee3b733f1d25b04b941b11edee3b102284e3c1a40efc1302e9568f"
+  }
+ ]
+}
