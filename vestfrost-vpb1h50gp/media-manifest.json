@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-22T09:51:05.456239Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/do-domu/oczyszczacze-powietrza/oczyszczacz-powietrza-vestfrost-vpb1h50gp",
+  "slug": "vestfrost-vpb1h50gp",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537340/Oczyszczacz-powietrza-VESTFROST-VPB1H50GP-przod.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 110362,
+      "sha256": "4da9451a63745dc8e5e37f0e054c6aba7cfc2712d70cacb7942db74ef1a35afc"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537340/Oczyszczacz-powietrza-VESTFROST-VPB1H50GP-lewy-skos.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 99719,
+      "sha256": "0274c1473afb7d34be50830454cdbe38e169d7aa37da4ae486e4f698e36c0cbc"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537340/Oczyszczacz-powietrza-VESTFROST-VPB1H50GP-prawy-skos.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 101854,
+      "sha256": "6a85aba6821aced10b543517074090bd0051361e1ad481f0266272e5a189e213"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537340/Oczyszczacz-powietrza-VESTFROST-VPB1H50GP-tyl-prawy-skod.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 105150,
+      "sha256": "6df092c762a8087a24ff17cf4bb11e29fb25cea00e28517b63b29ef9045e9e7e"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537340/Oczyszczacz-powietrza-VESTFROST-VPB1H50GP-tyl-skos-lewy.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 109854,
+      "sha256": "921289d9696e864e9f0eaeb58a0116b301906b0d868534d409b6a169f0f9e1eb"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537340/Oczyszczacz-powietrza-VESTFROST-VPB1H50GP-z-smartfonem.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 123085,
+      "sha256": "78cb2c354000ec6a08a52871e4b855b78930ddd818f382b2f6dcd0ca6b248293"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "order": 7,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/55/5537340/storage_app_opisy2_vestfrost_542504/1.jpg",
+      "width": 1100,
+      "height": 504,
+      "bytes": 91157,
+      "sha256": "8b56e87dae823b9b10f34725f76be16c7c1b77f298a61d649f3129cf18f100af"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "order": 8,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/55/5537340/storage_app_opisy2_vestfrost_542504/2_1.jpg",
+      "width": 1000,
+      "height": 668,
+      "bytes": 147602,
+      "sha256": "63f44ea3e0253d013908efc44cd89ee91b1c16194b248ab929a0e360bc7ef218"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "order": 9,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/55/5537340/storage_app_opisy2_vestfrost_542504/3.jpg",
+      "width": 1100,
+      "height": 504,
+      "bytes": 66883,
+      "sha256": "0185227037389e721d391b12bc8309e66f21c13b8fc4a151f4a652b282c303c5"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "description",
+      "order": 10,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/55/5537340/storage_app_opisy2_vestfrost_542504/4.jpg",
+      "width": 1100,
+      "height": 504,
+      "bytes": 114868,
+      "sha256": "d761100a26b309e61a84b56582f244eacc0b6180b265df12acd4d9bd8686ef85"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "description",
+      "order": 11,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/55/5537340/storage_app_opisy2_vestfrost_542504/5.jpg",
+      "width": 1100,
+      "height": 504,
+      "bytes": 124380,
+      "sha256": "3e2837842f841e81a71101bff4a6b91397c805ae90261113f41e5657a2ef9e47"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "description",
+      "order": 12,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/55/5537340/storage_app_opisy2_vestfrost_542504/6_1.jpg",
+      "width": 1000,
+      "height": 574,
+      "bytes": 50372,
+      "sha256": "0e37bb7c3104cc79b8f0b85b188390feb451d1575ac5785506074e7e5d43236f"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "description",
+      "order": 13,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/55/5537340/storage_app_opisy2_vestfrost_542504/7.jpg",
+      "width": 1100,
+      "height": 504,
+      "bytes": 79010,
+      "sha256": "c2ef15454cc22b0b9dd5040f95f99ac436c89d026d9f94e11f21901f9941fc47"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "description",
+      "order": 14,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/55/5537340/storage_app_opisy2_vestfrost_542504/8.jpg",
+      "width": 1100,
+      "height": 504,
+      "bytes": 108304,
+      "sha256": "90738280591698253dfea03b0d23a234e0d27fad32b9de14c558ea5c107dda73"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 15,
+      "sourceUrl": "vestfrosthome.eu — nagłówek strony (zrzut Playwright 3x, złożenie na białym tle)",
+      "width": 616,
+      "height": 200,
+      "bytes": 16809,
+      "sha256": "a0f50aa05893b684a29e72d7eb1ec5bf32556e9e5f42a6717aa654bb0ff66297"
+    }
+  ]
+}

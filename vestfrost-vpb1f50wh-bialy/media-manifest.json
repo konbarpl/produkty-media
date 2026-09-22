@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-22T09:49:19.199168Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/do-domu/oczyszczacze-powietrza/oczyszczacz-powietrza-vestfrost-vpb1f50wh",
+  "slug": "vestfrost-vpb1f50wh-bialy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-przod.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 79040,
+      "sha256": "f858abb2dfe6bb5fb2216837321f35d8077f059a945fb0d590f79817bb6b5795"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-skos-lewy.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 70228,
+      "sha256": "57bd7d08072bbfeed9c58c0e1c2ef38f8a3bdb2bf49911337b9395e0eddf31a4"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-skos-prawy.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 67842,
+      "sha256": "51d4cf123ec948fd979317012c36d24edb6490964bb9bd199f457744cadac73e"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-lewy-skos.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 64426,
+      "sha256": "53240c02ef93fcd6c78188b5bd3eb949e4e7655f2db9d2c55bfcf964239e08e5"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-prawy-skos.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 68943,
+      "sha256": "1435fe0db406cc0e5d7fed4da3f12cc93cda4b09d7a14806d76cce8bbc596353"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-skos.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 110396,
+      "sha256": "8a5f4649d36d577e77c4197cabda9e21c59956990ed6b17f20a6d323ced461cc"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-tyl-skos-lewy.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 73338,
+      "sha256": "54ac454c03d6f06daeef273e2b6451e9f0516da5e7bf6dcaa903b9bd3aec3e52"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-tyl-skos-prawy.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 69910,
+      "sha256": "cc7fd7c3a1d0e4eb48f417ab6de34090269f97fb4742216dd069f98c07381bd0"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-gora.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 59323,
+      "sha256": "eb3e520a98c71f9122bbdddd2f76612471e48659033a2b9fb4813a58497ae93a"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-gora-skos.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 104616,
+      "sha256": "0b950690587c18c29155a5be94dd1cf4a1e2e76fad8651d298a2962acd6f9d11"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-gora-filtr.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 114201,
+      "sha256": "3ac6548ead052e6616f563d048dfd45f3d147e73aecd30f46a463fb821257582"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-z-smartfonem.jpg",
+      "width": 1817,
+      "height": 4753,
+      "bytes": 543174,
+      "sha256": "f96ed37031b2f8bcf7b970acc38b67ee0cece6ddabc8e4be2e930d467a7eb13c"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-lifestyle1.JPG",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 67983,
+      "sha256": "225b0333ea487eb51c8064c65c36822e65d50102b8b1e3328d5374e3fd0c13d8"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-lifestyle2.JPG",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 161132,
+      "sha256": "ecc9ba7af10fb907b000667f8a5028bc94a59f196dde65dbb1ddb35eceb39789"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-lifestyle3.JPG",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 169909,
+      "sha256": "bb3c787ef9ccf0ec4081edd8fd96094f0bae200cd740bc266dc68154c13fe1b2"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "description",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-lifestyle4.JPG",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 177475,
+      "sha256": "e53ba29ac980ad01e54318bcebcc8b9af6eb1ab1efe0a2379da8dfad3460a5f7"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "description",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-lifestyle5.JPG",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 104570,
+      "sha256": "ba8b965efdb1786fa80a211a63ffc11f1471ab7194276c185814407e0322dc9d"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "description",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-lifestyle6.JPG",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 71803,
+      "sha256": "07c90d8bf1f6a305073ad544defd340c5fb22f65d65a9b9fd5c8fbf772870272"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "description",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-lifestyle7.JPG",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 122223,
+      "sha256": "b8920ccf665c3295d8cd9858d044c8bf4dbdff3f0d19d73dae871713579c179f"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "description",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-lifestyle8.JPG",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 116663,
+      "sha256": "fc00688452ff709bb341fb9d1b89d83f738ac8334d881e2d96f312637ce6c130"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "description",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/55/5537336/Oczyszczacz-powietrza-VESTFROST-VPB1F50WH-lifestyle9.JPG",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 111527,
+      "sha256": "f352069f3466a0343f6a9f4b3cbda958b5def5230d65f03af2e16a0f513022ef"
+    }
+  ],
+  "note": "Pominieto drobnice (filtr x2, pilot) wg gotchas; logo marki BRAK w repo/Commons/ME - GAPS. Tozsamosc: ogladu kontaktowki 2026-09-22, wszystkie zdjecia = bialy VPB1F50WH."
+}
