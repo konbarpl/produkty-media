@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T06:40:48.929163Z",
+  "sourcePage": "https://www.lumie.com/products/bodyclock-rise-100",
+  "sourceJson": "https://www.lumie.com/products/bodyclock-rise-100.json",
+  "slug": "lumie-bodyclock-rise-100",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-lumie.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Rise100-01.png?v=1756910153",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 155344,
+      "sha256": "6cccf707972ed1284bc19bed8f4878824b55c431770d11216a6df59e3d8fe27e",
+      "note": "PNG przezroczysty spłaszczony na biel ; zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Rise100-02.png?v=1756911179",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 209488,
+      "sha256": "eda72d4bda486e3bf0ecc375e25574ff66e66c1e8760e128d09138d855f5a4e7",
+      "note": "PNG przezroczysty spłaszczony na biel ; zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Rise100-03.png?v=1756911179",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 239705,
+      "sha256": "8b103d6b45a7b4ddf265c3e159254c891e309f8b75f481e91ca38aabd7d65803",
+      "note": "PNG przezroczysty spłaszczony na biel ; zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Rise100-04.png?v=1756911179",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 270621,
+      "sha256": "6a19bf220c8b99922dfcf23cca861568f3e600a3a18c7afafadbf9f46981be91",
+      "note": "PNG przezroczysty spłaszczony na biel ; zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Rise_100_-_front_on_alt.jpg?v=1757515245",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 258275,
+      "sha256": "db9c122656636495445933a083cc210cd5475aa7a88b1d296b34b8557d94e878",
+      "note": ""
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/R100_0635.jpg?v=1757515245",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 132521,
+      "sha256": "88c6724722d0e4128436305d62585a8f774ea48a3fd91ba3e8c55253a0d1cc85",
+      "note": ""
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/R100_0645.jpg?v=1757515245",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 188710,
+      "sha256": "799988b4e969ff54e0667774d3e0ad6f767828e7d29d7c64cf8b28b924d5f86a",
+      "note": ""
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/R100_0655.jpg?v=1757515245",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 281261,
+      "sha256": "bb097085de14a96e66c35480a620a4a163c49cd7496765eaf0c9ef343ce79905",
+      "note": ""
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/R100_2250.jpg?v=1757515245",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 246310,
+      "sha256": "89d8bb6610dba56c778fdba9291d374d84154dffd1a0be8811c1ea523f7d3626",
+      "note": ""
+    },
+    {
+      "file": "logo-lumie.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "dropshipping/materiały/logo/lumie logo.png",
+      "width": 368,
+      "height": 144,
+      "bytes": 12572,
+      "sha256": "2a0ffb516d3ae15f6ccab552522f4de053944b5df993fbd8596e74899c33b59c",
+      "note": "logo marki z repo projektu, spłaszczone na biel"
+    }
+  ],
+  "note": "ETAP 1 SZKIELET 2026-09-23; packshoty PNG z przezroczystym tlem splaszczone na biel (Konrad: zdjecie 1 = packshot na bialym tle); 4 packshoty + 5 aranzacyjnych + logo"
+}
