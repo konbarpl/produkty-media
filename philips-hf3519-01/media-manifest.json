@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T07:13:16.848Z",
+  "sourcePage": "https://www.philips.co.uk/c-p/HF3519_01/smartsleep-wake-up-light",
+  "slug": "philips-hf3519-01",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/fb77362065d64f60b988adb900f17022?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 9946,
+      "sha256": "a99f2e8c2aedce0a19e15cc7fcb525931bfec72141ad759829cb340e1ad6f7bc"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/135bcd70b3c64904bfd8adb80113e964?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 10404,
+      "sha256": "35be9ec0cd247aaf51be702d6bffa6978ba33a39ee40653c510c25a03eaf3c50"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/7e55afda32e044d9a6b7adb8010e7499?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 9962,
+      "sha256": "0f0865d815ebc3da9773df08d8404102c06d6afad4a4d9532ab1b3e126da819a"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/0d36cc433f634396b5fcadb801135bfd?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 15562,
+      "sha256": "4e082681562dc75a5fd2b89f5d5cb73b85e935241b17b3fc3b6df27be350ddaf"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/96ee67c0a3e64b25b272adb900be7d33?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 13572,
+      "sha256": "f04722f83b22407f7790701506087d17d6d652e1c426b1b460921c22998cd949"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/8fb4d0bfe001442d907aadb900f15ca6?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 10086,
+      "sha256": "aa364623de60db25114433f08b894418c00f5bb9930b3ee54c6cadf6a8c3a118"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/eb7b46999bae42ed9916adb800d84fd1?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 16876,
+      "sha256": "085d29f37636a4bd9433df60efbc7ced096ad8687bd385220716e39eb51c4af8"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/4c187fc2fa554fd6864cadb800d7bc72?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 16476,
+      "sha256": "0e61f83b550903d6db3ef6f5a4560d00bc7fa1900a9ee6b521fdf57d4bca8db0"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/3a242dc68e414eeb9f17adb800e116df?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 40304,
+      "sha256": "d359982897adc60d4a76c1d730b503b0b2cf12dd7cebcfd84ee2e55290f2570a"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/1de3dcdc5c7f44b9a069adb800dcdb68?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 28806,
+      "sha256": "85081f307070c75d097cd60f7a4f93c4a9e6c4515931d5a570231cc643d4d622"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/82782ab98bcb439480e5adb800e10e68?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 29542,
+      "sha256": "8a3dcf0898165e2047a6cf213aebf3b0c174d71d684779491f78db175794fdee"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/82b9e94867624091a776adb800e4abdd?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 31232,
+      "sha256": "06d34d9aa48a75963135ad3bf76ab5f1e34e014c4eb62f6fe7dcb7cc30d5c596"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/0c8d67bbd6cb4edaac76adb800dd0e9c?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 26000,
+      "sha256": "75126b1be4c8fbb688250a3886434fcb8ffbdc9ec635a8775528608f55e59099"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/b747d0c74b214f77bc2fadb800e2d2a2?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 28322,
+      "sha256": "c68aa861e97a855420e84b42fbd40b68ef9c9b110cfd57ea30d91c6cffea2e36"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 15,
+      "type": "BRP",
+      "desc": "Logo marki Philips (kopia dropshipping/materiały/logo/Philips_logo małe1.png)",
+      "sourceUrl": "dropshipping/materiały/logo/Philips_logo małe1.png",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "width": 525,
+      "height": 105
+    }
+  ],
+  "dropped": 0
+}
