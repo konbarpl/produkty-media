@@ -69,9 +69,9 @@
       "kind": "product",
       "order": 6,
       "sourceUrl": "https://waterpikpolska.pl/1482/ultra-professional.jpg",
-      "width": 2500,
-      "bytes": 1966999,
-      "sha256": "dab0bd503d1cccb2d0288c0475112f0a08f1a1640fa0688855c7e1a099e00f80"
+      "width": 2000,
+      "bytes": 257061,
+      "sha256": "16b48472f3a2ea3ef629b9333fb3e242f4eeaa6a0fe70f352bcdfe028460f640"
     },
     {
       "file": "produkt-07.jpg",
@@ -79,8 +79,8 @@
       "order": 7,
       "sourceUrl": "https://waterpikpolska.pl/1483/ultra-professional.jpg",
       "width": 2000,
-      "bytes": 1590682,
-      "sha256": "ee0c2f0c74631d150dbd170da74bf7c62f01dbc5c5bc732ad6abb04bcf1f0818"
+      "bytes": 284656,
+      "sha256": "fc6b990c3d0b5263100c899f36a14c57f7192d1fc56de715c56df5e5fafa374a"
     },
     {
       "file": "produkt-08.jpg",
@@ -88,17 +88,17 @@
       "order": 8,
       "sourceUrl": "https://waterpikpolska.pl/1484/ultra-professional.jpg",
       "width": 2000,
-      "bytes": 1842713,
-      "sha256": "4195f8e3603e3b9d29c0398e7363a7aeede5e600af63d08094e4cff8e2401f88"
+      "bytes": 367671,
+      "sha256": "d876b1a9ca3cbe285e9cfc9096b2e323532dcd38ebcf0a5e61af38a00f6c0004"
     },
     {
       "file": "produkt-09.jpg",
       "kind": "product",
       "order": 9,
       "sourceUrl": "https://waterpikpolska.pl/1485/ultra-professional.jpg",
-      "width": 2500,
-      "bytes": 2001660,
-      "sha256": "a2afc81b9c94883687e37896e6e7112e5ebbdce10a3f3f2ef5bd711e400c5fde"
+      "width": 2000,
+      "bytes": 293782,
+      "sha256": "eb0941c7d59d0f1c0248e7405135a97b588687c2310d528b25327693477999c8"
     },
     {
       "file": "produkt-10.jpg",
@@ -115,8 +115,8 @@
       "order": 11,
       "sourceUrl": "https://waterpikpolska.pl/1487/ultra-professional.jpg",
       "width": 1200,
-      "bytes": 1843806,
-      "sha256": "92f5d578cbd8938cfaa10c2890463fbd41275cb30fc21685a995738102f912ce"
+      "bytes": 229533,
+      "sha256": "0c2b5e251ec57732841a3c36c537050ef47047e5e901530c738ca63a4989f22c"
     },
     {
       "file": "produkt-12.jpg",
