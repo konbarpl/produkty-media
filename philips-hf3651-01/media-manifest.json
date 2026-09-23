@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T07:13:00.657Z",
+  "sourcePage": "https://www.philips.co.uk/c-p/HF3651_01/smartsleep-sleep-and-wake-up-light-with-with-relaxbreath-for-sleep",
+  "slug": "philips-hf3651-01",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/51cd2062020741ccb332adb900a3a864?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 28276,
+      "sha256": "b13fda67841e1ae38703768092e935c9ba237e21c5b2d51c4c3f05c6ba9790ea"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/27e3c311ac3b4e03a5dbadb800d79ea6?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 26418,
+      "sha256": "98c36db59ac5a8f9ceb62313115eecc5f0e3848a27a73a91041bfca8fed04419"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/4772ecfed7a443eeaffaadb80117dd06?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 47168,
+      "sha256": "4d8aa0e3f8b33d8fb1bba80642495d5a430452541ebd39c6a94203007d2174aa"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "local: dropshipping/materiały/logo/Philips_logo małe1.png",
+      "width": 525,
+      "height": 105,
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0,
+  "note": "ETAP 1 SZKIELET G64 poz. 10 (2026-09-23); 3 zdjecia produktowe z PRX en_GB (RTP + 2x in-use), bez FIL; logo Philips na koncu."
+}
