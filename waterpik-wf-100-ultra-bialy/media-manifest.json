@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T07:26:16.489Z",
+  "sourcePage": "https://waterpikpolska.pl/irygatory-do-zebow/27-56-irygator-waterpik-wf-100-ultra-0073950336536.html#/8-kolor-bialy",
+  "slug": "waterpik-wf-100-ultra-bialy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "logo-waterpik.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://waterpikpolska.pl/80/ultra.jpg",
+      "width": 1000,
+      "bytes": 57872,
+      "sha256": "7be03d00e57cc0a34ffff9b165cf466ddb0cc185670e08f04b5d57a314a17e94",
+      "height": 1000
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://waterpikpolska.pl/81/ultra.jpg",
+      "width": 1000,
+      "bytes": 42907,
+      "sha256": "78bab5344081f744ca5d6edecf3a4325bd6700c2f0a124c27c627086c50094cb",
+      "height": 1000
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://waterpikpolska.pl/879/ultra.jpg",
+      "width": 1000,
+      "bytes": 841984,
+      "sha256": "7987a97d8c14e26e2b3c3e60d5198ab099231ff34818a76192ac97cf4ef38087",
+      "height": 1000,
+      "excludedFromGallery": "znak wodny \"3 LATA GWARANCJI\" (zakaz gwarancji; karta podaje 1 rok + 1)"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://waterpikpolska.pl/1449/ultra.jpg",
+      "width": 2000,
+      "bytes": 284347,
+      "sha256": "43d50dc40a1d9238d003574bfffa631414a05a875e37eaa405f38622167edfaf",
+      "height": 2000
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://waterpikpolska.pl/1450/ultra.jpg",
+      "width": 2000,
+      "bytes": 260945,
+      "sha256": "ff2f978305270f8d916f3f16c27083f03465493efd98f041e7e3487b42fef42c",
+      "height": 2000
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://waterpikpolska.pl/1451/ultra.jpg",
+      "width": 2000,
+      "bytes": 359561,
+      "sha256": "60a8560dcf7cff85e9883b6f1145d96cf1b23a08dddc9acf2579720d22b5c7d5",
+      "height": 2000
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://waterpikpolska.pl/1452/ultra.jpg",
+      "width": 1993,
+      "bytes": 524597,
+      "sha256": "7e31be840d6bc8e3518abbd05109492a8c7f9c85454efd0f91b336b6a415ebd9",
+      "height": 2000,
+      "excludedFromGallery": "claim bakteryjny \"usuwa do 99,9% bakterii\" (zakaz claimow bakteryjnych)"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://waterpikpolska.pl/1453/ultra.jpg",
+      "width": 2000,
+      "bytes": 372958,
+      "sha256": "f4aacdfa31e1ce3b895d4a3b31c9efa612e8cef48a4423c082a5efeedbfa8817",
+      "height": 2000
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://waterpikpolska.pl/1454/ultra.jpg",
+      "width": 2000,
+      "bytes": 355578,
+      "sha256": "18a049ee766d06ebfa4e716cdfd4dcaea925a645884a27cd21704ed37a61c1df",
+      "height": 2000
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://waterpikpolska.pl/1455/ultra.jpg",
+      "width": 2000,
+      "bytes": 389771,
+      "sha256": "c054468adb3e0154694b4727198c72122ac98bf933f88b172d2140de038f44ac",
+      "height": 2000
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://waterpikpolska.pl/1456/ultra.jpg",
+      "width": 2000,
+      "bytes": 325899,
+      "sha256": "d0758ca645eb16492c14a459793dbac253d3b1eb415a1c95d9f485f0f55212f4",
+      "height": 2000
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://waterpikpolska.pl/1457/ultra.jpg",
+      "width": 2000,
+      "bytes": 325650,
+      "sha256": "e5b4cb075cf9a1e3cd5819e2cb400abc9edfa1992404bef56aa388f73311c0d4",
+      "height": 2000
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://waterpikpolska.pl/1458/ultra.jpg",
+      "width": 2000,
+      "bytes": 278067,
+      "sha256": "06718c2a9048e51c5fe5a1e8c2f6bc97fedfc263a30c90ea68ce6dc074baf957",
+      "height": 2000
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://waterpikpolska.pl/1459/ultra.jpg",
+      "width": 800,
+      "bytes": 45150,
+      "sha256": "07abb7607d936d9c71c56a6aac57a492f44b0f009471e53bdf04cfd35a3cc02c",
+      "height": 800,
+      "excludedFromGallery": "grafika marki \"#1 marka irygatorow\", brak produktu, 800 px"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://waterpikpolska.pl/1460/ultra.jpg",
+      "width": 800,
+      "bytes": 103602,
+      "sha256": "2195c424ff0b1002353e93e26ac219f29c30d43517bf54fc25c7f3f6508a9dba",
+      "height": 800,
+      "excludedFromGallery": "reklama marki z innym modelem (bezprzewodowy irygator), 800 px"
+    },
+    {
+      "file": "logo-waterpik.jpg",
+      "kind": "logo",
+      "order": 16,
+      "sourceUrl": "local:dropshipping/materiały/logo/640px_Waterpik-logo.jpg",
+      "width": 403,
+      "height": 109,
+      "bytes": 13077,
+      "sha256": "1a772d67170b45ff058e62f5ed3ec1089898cb34eafe3351bf66dbd822a444bf"
+    }
+  ],
+  "dropped": 0,
+  "curation": "2026-09-23 wykonawca SZKIELET: wykluczone 03,07,14,15 (powody w files[].excludedFromGallery); zdjecia >2000 px zmniejszone do 2000 px (limit Contents API); logo na koncu."
+}
