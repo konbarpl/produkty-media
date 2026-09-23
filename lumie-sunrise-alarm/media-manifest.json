@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T00:00:00.000Z",
+  "sourcePage": "https://www.lumie.com/products/sunrise-alarm",
+  "slug": "lumie-sunrise-alarm",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-lumie.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Sunrise-01.png?v=1757410576",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 185138,
+      "sha256": "3d3de17dcd01461f404ca93dbcd33cf0f3af74c444fdadf463c3d2dba8bfe2a4",
+      "note": "PNG spłaszczony na białe tło"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Sunrise-02.png?v=1757410576",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 159567,
+      "sha256": "271ed06af1975fa37ddbeb2724eb1b2d9db0790300c5fd900f46b70a34d9aae7",
+      "note": "PNG spłaszczony na białe tło"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Sunrise-03.png?v=1757410285",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 124984,
+      "sha256": "49378ecd69b2c312c9235cfc2f1a6cf9d6238ee24a1a25d29ada8931fc949736",
+      "note": "PNG spłaszczony na białe tło"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Sunrise-04.png?v=1757410285",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 205758,
+      "sha256": "75a4f8254d291bbe555050ae36937fb2ef2e24b36e23146889f6fce412b85a9f",
+      "note": "PNG spłaszczony na białe tło"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/LumieSunriseAlarm-1x1_1.jpg?v=1757410462",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 200221,
+      "sha256": "c0edf649d17cb059f72ec2c611f8d29ee68a29e159e830a5a28cfaeea69e19fd",
+      "note": "JPG bez zmian (rekompresja)"
+    },
+    {
+      "file": "logo-lumie.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "local: dropshipping/materiały/logo/lumie logo.png",
+      "width": 368,
+      "height": 144,
+      "bytes": 12572,
+      "sha256": "2a0ffb516d3ae15f6ccab552522f4de053944b5df993fbd8596e74899c33b59c"
+    }
+  ],
+  "note": "ETAP 1 SZKIELET G64; packshoty PNG z przezroczystym tlem splaszczone na biel (PIL alpha_composite, JPG q=92), logo Lumie na koncu."
+}
