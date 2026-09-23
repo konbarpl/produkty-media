@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T07:28:11.113Z",
+  "sourcePage": "https://waterpikpolska.pl/irygatory-do-zebow/242-118-irygator-waterpik-wf-112-ultra-0073950336567.html#/11-kolor-czarny",
+  "slug": "waterpik-wf-112-ultra-czarny",
+  "galleryOrder": [
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-12.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-07.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-01.jpg",
+    "produkt-11.jpg",
+    "logo-waterpik.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://waterpikpolska.pl/860/ultra.jpg",
+      "width": 1000,
+      "bytes": 93420,
+      "sha256": "785cbbcc6ac0cf85672d64cf4d4a3d98144b989d0e88e0ae98caf5bd5e71d332"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://waterpikpolska.pl/861/ultra.jpg",
+      "width": 1000,
+      "bytes": 52938,
+      "sha256": "19e7fd33a0073ca8719d2a1566e6e375cca9b581cbfba3527a699251a609ee92"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://waterpikpolska.pl/863/ultra.jpg",
+      "width": 1000,
+      "bytes": 85978,
+      "sha256": "3008ffc69058af2e4323e79f973bea28aa457c8ddccc7d364401ef6ff94e94ed"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://waterpikpolska.pl/1463/ultra.jpg",
+      "width": 3000,
+      "bytes": 1656764,
+      "sha256": "7b0aa9aba2b94a2e0e5eaed2d7cd9e32b27748c5f4867c028673a4c2d532a8aa"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://waterpikpolska.pl/1464/ultra.jpg",
+      "width": 3000,
+      "bytes": 1826827,
+      "sha256": "a2fc0244ce0c963cafe909a25e98a74c3714ee8f236c14338dddeff946761a44"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://waterpikpolska.pl/1465/ultra.jpg",
+      "width": 3000,
+      "bytes": 1419626,
+      "sha256": "8398e03969e1ac732ab18e3ece94214456ac435237606c7a4909184e4c930f84"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://waterpikpolska.pl/1468/ultra.jpg",
+      "width": 3000,
+      "bytes": 3886266,
+      "sha256": "0e5df871f93b24a076e3d0d72d1cef35f56e90dd1ff6565cc108e8849160799d"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://waterpikpolska.pl/1469/ultra.jpg",
+      "width": 3000,
+      "bytes": 1874006,
+      "sha256": "0a4154adb6e60aa0c7482cfe3465c959b082e309c3ed31cd26b8df28b25fe1bb"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://waterpikpolska.pl/1470/ultra.jpg",
+      "width": 3000,
+      "bytes": 5108338,
+      "sha256": "4733ed7d648dd9cd30e95a6a6d9f34f72f8ed1bc7a362c2bed30ac7ff7080665"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://waterpikpolska.pl/1471/ultra.jpg",
+      "width": 3000,
+      "bytes": 5487685,
+      "sha256": "14b15a0f2dd3e21ccb9fd8b667ffdf763a60de10fce31e90050652657adee108"
+    },
+    {
+      "file": "logo-waterpik.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "local:dropshipping/materiały/logo/640px_Waterpik-logo.jpg",
+      "width": 403,
+      "height": 109,
+      "bytes": 13077,
+      "sha256": "1a772d67170b45ff058e62f5ed3ec1089898cb34eafe3351bf66dbd822a444bf"
+    }
+  ],
+  "dropped": 0,
+  "curation": {
+    "date": "2026-09-23",
+    "note": "kuracja wykonawcy ETAP 1; odrzucone w _tmp/<slug>/odrzucone",
+    "rejected": {
+      "produkt-04.jpg": "napis '3 lata gwarancji' na grafice (fraza gwarancji zakazana)",
+      "produkt-05.jpg": "sama grafika marki '#1 marka irygatorow' bez produktu",
+      "produkt-06.jpg": "grafika marki z osoba i rysunkiem innego irygatora (bezprzewodowy)",
+      "produkt-10.jpg": "claim '99,9% bakterii' na grafice (zakaz claimow bakteryjnych)"
+    }
+  }
+}
