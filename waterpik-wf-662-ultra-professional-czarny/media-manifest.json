@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T07:25:39.557Z",
+  "sourcePage": "https://waterpikpolska.pl/irygatory-do-zebow/87-100-irygator-waterpik-wf-662-ultra-professional.html#/11-kolor-czarny",
+  "slug": "waterpik-wf-662-ultra-professional-czarny",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-03.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-13.jpg",
+    "produkt-09.jpg",
+    "produkt-15.jpg",
+    "produkt-12.jpg",
+    "produkt-02.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-waterpik.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://waterpikpolska.pl/360/wf-662-ultra-professional.jpg",
+      "width": 1000,
+      "bytes": 43045,
+      "sha256": "0ffdcb12cccf5fde8c2a15168d09f4e9a6a2106510d1487f51aa4fb125cea52e",
+      "height": 1000
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://waterpikpolska.pl/366/wf-662-ultra-professional.jpg",
+      "width": 1000,
+      "bytes": 52949,
+      "sha256": "d93e23d86d07dfd600e4bcfa9d03d48b105ed7def101a2402cacf326f003b347",
+      "height": 1000
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://waterpikpolska.pl/1178/wf-662-ultra-professional.jpg",
+      "width": 1200,
+      "bytes": 173677,
+      "sha256": "1f26b5b5fd7698cbaacd460d8de271248ee40b9331340dc0e4bbb8616bc67852",
+      "height": 1200
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://waterpikpolska.pl/1490/wf-662-ultra-professional.jpg",
+      "width": 2000,
+      "bytes": 1368336,
+      "sha256": "c167fdd6415bfc685228d7aaf5cc49528979495f23e66626cdb96af319a347e0",
+      "height": 2000
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://waterpikpolska.pl/1492/wf-662-ultra-professional.jpg",
+      "width": 2000,
+      "bytes": 318329,
+      "sha256": "786891da662d88e46d23ab0f80cd4a53185342d1b9b70fe349b75b1527a3eb7a",
+      "height": 2000
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://waterpikpolska.pl/1493/wf-662-ultra-professional.jpg",
+      "width": 1500,
+      "bytes": 926409,
+      "sha256": "87e76c2d4b90ac5c96f7e2a06c52a0e7969b89f9c52f24f922c2aba184c90fc6",
+      "height": 1500
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://waterpikpolska.pl/1495/wf-662-ultra-professional.jpg",
+      "width": 1500,
+      "bytes": 1420765,
+      "sha256": "14b00cd3c48d48d9e6eaba73809a46f1787c045a41a01fbadac9c0fe40dd9ef2",
+      "height": 1500
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://waterpikpolska.pl/1491/wf-662-ultra-professional.jpg",
+      "width": 2000,
+      "bytes": 2081474,
+      "sha256": "bb4193516f14689d1dd8d5564e15d70ff73a6b262c90b4b5e44b81e3b5e2bcab",
+      "height": 2000
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://waterpikpolska.pl/1497/wf-662-ultra-professional.jpg",
+      "width": 1500,
+      "bytes": 1363829,
+      "sha256": "e94cc2fc75f2daa318e9c756ea745bae7e1e1fcacbec3dd09768c47169601d94",
+      "height": 1500
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://waterpikpolska.pl/1494/wf-662-ultra-professional.jpg",
+      "width": 1200,
+      "bytes": 1127433,
+      "sha256": "cfd15fd7594f80066fe719679d45baf0e5e52f6631d12d31a30df22521536bc8",
+      "height": 1200
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://waterpikpolska.pl/365/wf-662-ultra-professional.jpg",
+      "width": 1000,
+      "bytes": 96950,
+      "sha256": "a229d3d8af5bff3db83b5d518d59e150dbe4d4409e451173dfb44b02e8486421",
+      "height": 1000
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://waterpikpolska.pl/1167/wf-662-ultra-professional.jpg",
+      "width": 1200,
+      "bytes": 159260,
+      "sha256": "315d731d973f79111fccd478599f439640452921383cc55150e4c5b901a6f622",
+      "height": 1200
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://waterpikpolska.pl/1173/wf-662-ultra-professional.jpg",
+      "width": 1200,
+      "bytes": 80744,
+      "sha256": "15509847daa8b34caa763b45c3e7ae8e76f6b56dd05b6410a73fd92f14b52da6",
+      "height": 1200
+    },
+    {
+      "file": "logo-waterpik.jpg",
+      "kind": "logo",
+      "sourceUrl": "dropshipping/materiały/logo/640px_Waterpik-logo.jpg",
+      "order": 14,
+      "width": 403,
+      "height": 109,
+      "bytes": 13077,
+      "sha256": "1a772d67170b45ff058e62f5ed3ec1089898cb34eafe3351bf66dbd822a444bf"
+    }
+  ],
+  "dropped": 0,
+  "curation": "2026-09-23 wykonawca SZKIELET: odrzucone produkt-04 (grafika z innym modelem - bezprzewodowy, reklama) i produkt-14 (claim o bakteriach - zakaz); produkt-10 zmniejszone 2500->2000 px; logo na koncu"
+}
