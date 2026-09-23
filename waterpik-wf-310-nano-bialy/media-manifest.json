@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T07:27:04.147Z",
+  "sourcePage": "https://waterpikpolska.pl/irygatory-do-zebow/28-58-nano.html#/8-kolor-bialy",
+  "slug": "waterpik-wf-310-nano-bialy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-04.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-10.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-11.jpg",
+    "produkt-02.jpg",
+    "produkt-12.jpg",
+    "produkt-05.jpg",
+    "logo-waterpik.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://waterpikpolska.pl/290/nano.jpg",
+      "width": 3000,
+      "bytes": 476463,
+      "sha256": "beb6c7f7b267a82528108235f2b32885a449b4b3206188aca8f8d29d0e0f99b0"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://waterpikpolska.pl/293/nano.jpg",
+      "width": 3000,
+      "bytes": 334065,
+      "sha256": "bdfe228b5028c09fbdb55a68a1bcd992645800fbdf73f1f574f063aee53d8674"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://waterpikpolska.pl/1380/nano.jpg",
+      "width": 1530,
+      "bytes": 1841852,
+      "sha256": "3465f6f6b22ffeffc96edb78b53026f8f213d5bc4bb6a7484ae4cf3335373baf"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://waterpikpolska.pl/1385/nano.jpg",
+      "width": 1200,
+      "bytes": 175263,
+      "sha256": "e5cc7fc40af6e340307e15b739ecca9e9723d337a6a583687d2c82dd5fdb30cf"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://waterpikpolska.pl/1715/nano.jpg",
+      "width": 3000,
+      "bytes": 1618682,
+      "sha256": "af1a3e581cce54e502f2809f28c54bc70e5f84de11bfccd24175ba5278b844ee"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://waterpikpolska.pl/1716/nano.jpg",
+      "width": 3000,
+      "bytes": 1879883,
+      "sha256": "161e1bc23e62f9f5be0fffacd200a56eda119461ab4e1bd1de8092e131120fe8"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://waterpikpolska.pl/1719/nano.jpg",
+      "width": 3000,
+      "bytes": 2117958,
+      "sha256": "9c3341480929b68d81f9b1bf96ae245c135f3fb8439f85764c56eef61cd3ecb5"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://waterpikpolska.pl/1720/nano.jpg",
+      "width": 3000,
+      "bytes": 2043529,
+      "sha256": "5a3408690159f3d1c04e6613ce59a8a6f4a66613a885219cbc0470ce6fc8e01e"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://waterpikpolska.pl/1721/nano.jpg",
+      "width": 1200,
+      "bytes": 1636640,
+      "sha256": "a5bc76d492e3c789629d9f7c3cb72be4eb87cf7eea6e6c6ff71bc3e3f6d30efa"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://waterpikpolska.pl/1722/nano.jpg",
+      "width": 2000,
+      "bytes": 1767056,
+      "sha256": "2f50065cb00aa7248391937bc79729783873638e3e6ff9efc6b8e5ba03d490c6"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://waterpikpolska.pl/1723/nano.jpg",
+      "width": 2800,
+      "bytes": 2215182,
+      "sha256": "90bf86460b7b7a85589beb7bfb7b9a0220321879d07d584c2ce7aabd4c23c679"
+    },
+    {
+      "file": "logo-waterpik.jpg",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "local:dropshipping/materiały/logo/640px_Waterpik-logo.jpg",
+      "width": 403,
+      "height": 109,
+      "bytes": 13077,
+      "sha256": "1a772d67170b45ff058e62f5ed3ec1089898cb34eafe3351bf66dbd822a444bf"
+    }
+  ],
+  "dropped": [
+    {
+      "file": "produkt-03.jpg",
+      "reason": "near-duplikat produkt-01 w 600 px"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "reason": "grafika z claimem o bakteriach (zakaz claimow bakteryjnych)"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "reason": "grafika z napisem bezprzewodowy/akumulatorowy - niezgodne z modelem stacjonarnym WF-310"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "reason": "sam baner tekstowy 800 px, dubluje produkt-05"
+    }
+  ]
+}
