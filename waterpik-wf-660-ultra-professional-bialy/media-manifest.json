@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T07:26:58.640Z",
+  "sourcePage": "https://waterpikpolska.pl/irygatory-do-zebow/240-116-irygator-waterpik-wf-660-ultra-professional-0073950336802.html#/8-kolor-bialy",
+  "slug": "waterpik-wf-660-ultra-professional-bialy",
+  "galleryOrder": [
+    "produkt-02.jpg",
+    "produkt-01.jpg",
+    "produkt-08.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-13.jpg",
+    "produkt-09.jpg",
+    "produkt-15.jpg",
+    "produkt-12.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-07.jpg",
+    "produkt-06.jpg",
+    "produkt-05.jpg",
+    "produkt-14.jpg",
+    "produkt-17.jpg",
+    "logo-waterpik.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://waterpikpolska.pl/848/ultra-professional.jpg",
+      "width": 1000,
+      "bytes": 45859,
+      "sha256": "dac218ea199ad14657755b8559aedcc437c548c4de88892b049c616ee6285d37",
+      "height": 1000
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://waterpikpolska.pl/847/ultra-professional.jpg",
+      "width": 1000,
+      "bytes": 35996,
+      "sha256": "ce1a1a9a31d95a382fc66d9eb95d0ade5717531877fe494ad9915df9567fa669",
+      "height": 1000
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://waterpikpolska.pl/1163/ultra-professional.jpg",
+      "width": 1500,
+      "bytes": 198954,
+      "sha256": "200bfdbcbda40b93dbff7f4f63919f4d0d9a35c0a1cadcba52e66971acbf35d4",
+      "height": 1397
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://waterpikpolska.pl/1474/ultra-professional.jpg",
+      "width": 2000,
+      "bytes": 1586297,
+      "sha256": "797b9e6d2c8c4644d5b70abfc147f3cd9e5607b81361b164625a3cc7ef838f9c",
+      "height": 2000
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://waterpikpolska.pl/1475/ultra-professional.jpg",
+      "width": 2000,
+      "bytes": 307151,
+      "sha256": "c98b6472156c21b38683fcd656a4eeec35a3148db42747316dd5ee4448bb3fef",
+      "height": 2000
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://waterpikpolska.pl/1477/ultra-professional.jpg",
+      "width": 1500,
+      "bytes": 708358,
+      "sha256": "59af48718d497b567ea5b93170ac2b2b93f5a4681e5fb3673e0b1c88e7aba94f",
+      "height": 1500
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://waterpikpolska.pl/1473/ultra-professional.jpg",
+      "width": 2000,
+      "bytes": 286620,
+      "sha256": "ce9e73a2cbaf9c3966a0d9ddcc07daa5e3a075c197655e65db9881e791e34ab2",
+      "height": 2000
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://waterpikpolska.pl/1479/ultra-professional.jpg",
+      "width": 1500,
+      "bytes": 1671263,
+      "sha256": "31bb320fa4b4254198c487acac3586a826a3e715350e23e56bdd4de69468fb7a",
+      "height": 1500
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://waterpikpolska.pl/1476/ultra-professional.jpg",
+      "width": 1500,
+      "bytes": 1363829,
+      "sha256": "e94cc2fc75f2daa318e9c756ea745bae7e1e1fcacbec3dd09768c47169601d94",
+      "height": 1500
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://waterpikpolska.pl/850/ultra-professional.jpg",
+      "width": 1000,
+      "bytes": 85232,
+      "sha256": "cead7a017758d94b6021cd342cc7cdbc853bc8ea8992e61d9e3205cd3e02a168",
+      "height": 1000
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://waterpikpolska.pl/851/ultra-professional.jpg",
+      "width": 1000,
+      "bytes": 74879,
+      "sha256": "89f090c4ecf0abe5ca37d0d29554628fdd4f1b381da8bb64287ef361e5513347",
+      "height": 1000
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://waterpikpolska.pl/1156/ultra-professional.jpg",
+      "width": 1500,
+      "bytes": 117626,
+      "sha256": "7c21c60c002015af8b616080401820fb7b6f4ff0da8346a6d4d7a4d77204c065",
+      "height": 1500
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://waterpikpolska.pl/1151/ultra-professional.jpg",
+      "width": 1500,
+      "bytes": 208732,
+      "sha256": "8ca336e506fa62ff8f0cddaec5d125858dbc25c038d6758c3e4f0a928ce70db6",
+      "height": 1500
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://waterpikpolska.pl/1150/ultra-professional.jpg",
+      "width": 1500,
+      "bytes": 242251,
+      "sha256": "1e59e2a8c217c96b0164bd89fece39dad969b527c6a36920a0b59a433590a691",
+      "height": 1500
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://waterpikpolska.pl/1478/ultra-professional.jpg",
+      "width": 1200,
+      "bytes": 1856252,
+      "sha256": "c3dc5468cc2186ab8b5b528b67a171cc1821e4885ea1fd16df90b6231d8e132d",
+      "height": 1200
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://waterpikpolska.pl/1481/ultra-professional.jpg",
+      "width": 800,
+      "bytes": 45150,
+      "sha256": "07abb7607d936d9c71c56a6aac57a492f44b0f009471e53bdf04cfd35a3cc02c",
+      "height": 800
+    },
+    {
+      "file": "logo-waterpik.jpg",
+      "kind": "logo",
+      "sourceUrl": "dropshipping/materiały/logo/640px_Waterpik-logo.jpg",
+      "width": 403,
+      "height": 109,
+      "bytes": 13077,
+      "sha256": "1a772d67170b45ff058e62f5ed3ec1089898cb34eafe3351bf66dbd822a444bf",
+      "order": 17
+    }
+  ],
+  "dropped": 1,
+  "curation": "2026-09-23: usunięto produkt-16 (grafika z claimem bakteryjnym); packshot 848 na 1. miejscu; logo na końcu"
+}
