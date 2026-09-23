@@ -101,10 +101,11 @@
       "kind": "product",
       "order": 9,
       "sourceUrl": "https://waterpikpolska.pl/1424/cordless-enhanced.jpg",
-      "width": 3000,
-      "bytes": 4502616,
-      "sha256": "6eb21a9f72580f499c31f75727c76e93b0ba6f64ca908ac1b4588546650dc76b",
-      "height": 3000
+      "width": 2000,
+      "bytes": 304294,
+      "sha256": "84d02fab700cf50c00791952ad47c0632bd5ab4cde0817064f288da75a0fa3de",
+      "height": 2000,
+      "note": "przeskalowane 3000->2000 px (Contents API 401 przy 4,5 MB)"
     },
     {
       "file": "logo-waterpik.jpg",
