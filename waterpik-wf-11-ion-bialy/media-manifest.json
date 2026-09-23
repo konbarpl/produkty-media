@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T09:59:57.356Z",
+  "sourcePage": "https://waterpikpolska.pl/irygatory-do-zebow/73-85-irygator-bezprzewodowy-waterpik-wf-11-ion-0073950292429.html#/8-kolor-bialy",
+  "slug": "waterpik-wf-11-ion-bialy",
+  "galleryOrder": [
+    "produkt-05.jpg",
+    "produkt-08.jpg",
+    "produkt-07.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-14.jpg",
+    "produkt-16.jpg",
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-06.jpg",
+    "produkt-15.jpg",
+    "logo-waterpik.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://waterpikpolska.pl/255/ion.jpg",
+      "width": 1000,
+      "bytes": 45694,
+      "sha256": "e92739da7800e2ac170542fe389977b416bcd6378f29787591f97d2f3db8b9e2",
+      "height": 1000
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://waterpikpolska.pl/257/ion.jpg",
+      "width": 1000,
+      "bytes": 64985,
+      "sha256": "2228b086bfc422af7edd497a20c6979465e6f1d525a42ddd4475f5c2266597dd",
+      "height": 1000
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://waterpikpolska.pl/258/ion.jpg",
+      "width": 1000,
+      "bytes": 69759,
+      "sha256": "76503eff5cabdfae27f2570472b08c2f337260cc3558ccb97a986c57365e9590",
+      "height": 1000
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://waterpikpolska.pl/260/ion.jpg",
+      "width": 1000,
+      "bytes": 31394,
+      "sha256": "59551cd9a57e87ecfefe319303776343b7890c1cc0c3f4ff2e060539555f209a",
+      "height": 1000
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://waterpikpolska.pl/910/ion.jpg",
+      "width": 2000,
+      "bytes": 125854,
+      "sha256": "cd01335a5afbb11294ba481efe6dc4de139e5ed5f661f3c4b79905e8df1ae9f1",
+      "height": 1654
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://waterpikpolska.pl/1400/ion.jpg",
+      "width": 800,
+      "bytes": 45150,
+      "sha256": "07abb7607d936d9c71c56a6aac57a492f44b0f009471e53bdf04cfd35a3cc02c",
+      "height": 800
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://waterpikpolska.pl/1401/ion.jpg",
+      "width": 2000,
+      "bytes": 310965,
+      "sha256": "cea96fdc0c1cbdc008acc8fd1565204e9b56deb5b918dd302e11503577af67ed",
+      "height": 2000
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://waterpikpolska.pl/1402/ion.jpg",
+      "width": 2000,
+      "bytes": 301686,
+      "sha256": "cf2e20ffc2567f8643fd92c53e20d0fb5281037df3e51ce3645de789e600a88e",
+      "height": 2000
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://waterpikpolska.pl/1403/ion.jpg",
+      "width": 2000,
+      "bytes": 243044,
+      "sha256": "d8323efe9ad9fb4f2083cdaaa59bae60fcf92e0ba8ffac3cb217030412fde0ec",
+      "height": 2000
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://waterpikpolska.pl/1404/ion.jpg",
+      "width": 1500,
+      "bytes": 917987,
+      "sha256": "3dab5dbba60dc3ccbfbba55a2220060b5631973ff0e4f6d0f558358d2b7c2720",
+      "height": 1500
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://waterpikpolska.pl/1405/ion.jpg",
+      "width": 2000,
+      "bytes": 336593,
+      "sha256": "cb90b202068dcecc86911c12253d821bca96cf2735ba14ebb2a50ca9f9d45f07",
+      "height": 2000
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://waterpikpolska.pl/1406/ion.jpg",
+      "width": 2000,
+      "bytes": 410946,
+      "sha256": "22a77fafb51150381c49c0fa622d6096a62379ef7d1f054cb153cb84d6788e12",
+      "height": 2000
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://waterpikpolska.pl/1410/ion.jpg",
+      "width": 2000,
+      "bytes": 293673,
+      "sha256": "2215ea25c15a4c3a03334508ce6138295b01f575e822cb3cc42dcb131baddad8",
+      "height": 2000
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://waterpikpolska.pl/1411/ion.jpg",
+      "width": 800,
+      "bytes": 103602,
+      "sha256": "2195c424ff0b1002353e93e26ac219f29c30d43517bf54fc25c7f3f6508a9dba",
+      "height": 800
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://waterpikpolska.pl/1412/ion.jpg",
+      "width": 2000,
+      "bytes": 398525,
+      "sha256": "c6c4f5fff8c10a81d9a80868f8d414bc8769db587c2fccdd98c477510503dfa4",
+      "height": 2000
+    },
+    {
+      "file": "logo-waterpik.jpg",
+      "kind": "logo",
+      "sourceUrl": "dropshipping/materiały/logo/640px_Waterpik-logo.jpg",
+      "width": 403,
+      "height": 109,
+      "bytes": 13077,
+      "sha256": "1a772d67170b45ff058e62f5ed3ec1089898cb34eafe3351bf66dbd822a444bf",
+      "order": 16
+    }
+  ],
+  "dropped": 0,
+  "curation": {
+    "date": "2026-09-23",
+    "by": "wykonawca SZKIELET",
+    "excluded": {
+      "produkt-13.jpg": "grafika z claimem '99,9% bakterii' (zakaz claimow bakteryjnych) - przeniesiona do claude/erli-research/_tmp/waterpik-wf-11-ion-bialy/odrzucone/"
+    },
+    "doDecyzjiKonrada": [
+      "produkt-06.jpg (#1 marka irygatorow na swiecie)",
+      "produkt-15.jpg (#1 marka + rekomendowana przez stomatologow w USA, wizerunek dr Chris Strandburg)"
+    ],
+    "allImagesAssociatedToCombination": 85,
+    "resize": "maks 2000 px, pliki >1 MB przekompresowane"
+  }
+}
