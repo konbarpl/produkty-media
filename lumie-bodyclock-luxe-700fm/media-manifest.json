@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T06:41:51.702707Z",
+  "sourcePage": "https://www.lumie.com/products/bodyclock-luxe-700fm",
+  "slug": "lumie-bodyclock-luxe-700fm",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-lumie.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Luxe700FM-01.png?v=1756907806",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 514502,
+      "sha256": "bbaeaf254fcd4e9174f7b93fa64710d304b6f9dfe5a42e95ca1d3e01499894e6",
+      "note": "PNG spłaszczony na białe tło (PIL alpha_composite), JPG q=92, zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Luxe700FM-04.png?v=1756908109",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 617714,
+      "sha256": "362d7ac1b8f131523d638313c66bf98d05af7b521137ed8214f12575259f5a75",
+      "note": "PNG spłaszczony na białe tło (PIL alpha_composite), JPG q=92, zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Luxe700FM-02.png?v=1756908109",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 594703,
+      "sha256": "fdae44feebeb06d449e325137f875f0a1adac52c3f04ab01eea5e87d69efbc28",
+      "note": "PNG spłaszczony na białe tło (PIL alpha_composite), JPG q=92, zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Luxe700FM-03.png?v=1756908109",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 610129,
+      "sha256": "43f407d985827f6151143e015c606568d2b938a907987f714cbf06249fab2599",
+      "note": "PNG spłaszczony na białe tło (PIL alpha_composite), JPG q=92, zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/1x1_bodyclock_luxe_700fm_0710.jpg?v=1770134725",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 700177,
+      "sha256": "a583ca361d19170b717df7c76604e18bacce7c617b239ca568004170e995cbc7",
+      "note": "JPG (rekompresja q=92), zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/1x1_bodyclock_luxe_700fm_700.jpg?v=1770134725",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 774430,
+      "sha256": "add85a01f3bc3cc426165894d22f24cba2540d5bcee5e7fdc8cb7515e597d808",
+      "note": "JPG (rekompresja q=92)"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/1x1_bodyclock_luxe_700fm_0655.jpg?v=1770134725",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 678364,
+      "sha256": "e8bf7368ee912412315037b23c7e6483da226cfa42388846fa11fec5ff62b604",
+      "note": "JPG (rekompresja q=92), zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/1x1_bodyclock_luxe_700fm_2250.jpg?v=1770134725",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 663876,
+      "sha256": "d41e65a131da80b3fedf765f458a1e36ffce6cbbc7c6eabda722aed403cbceb4",
+      "note": "JPG (rekompresja q=92), zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/1x1_bodyclock_luxe_700fm_0645.jpg?v=1770134725",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 465688,
+      "sha256": "6660799467bba7e946dd1dd88e0baf0001bcf7a2a1ad3a0b655bfcaa39ec4bcc",
+      "note": "JPG (rekompresja q=92), zmniejszone do 2000 px"
+    },
+    {
+      "file": "logo-lumie.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "local: dropshipping/materiały/logo/lumie logo.png",
+      "width": 368,
+      "height": 144,
+      "bytes": 12572,
+      "sha256": "2a0ffb516d3ae15f6ccab552522f4de053944b5df993fbd8596e74899c33b59c",
+      "note": "logo marki, PNG spłaszczony na biel"
+    }
+  ],
+  "note": "ETAP 1 SZKIELET G64 (2026-09-23); packshoty PNG z przezroczystym tlem splaszczone na biel (PIL alpha_composite, JPG q=92), zdjecia >2000 px zmniejszone do 2000 px, logo Lumie na koncu."
+}

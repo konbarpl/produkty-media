@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T07:11:50.641733Z",
+  "sourcePage": "https://www.lumie.com/products/bodyclock-spark-100",
+  "slug": "lumie-bodyclock-spark-100",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-lumie.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Spark100-01.png?v=1756908754",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 163154,
+      "sha256": "be689c18ed3839dcd398eff01b91ddf915deb34c9898b36aca9db92f8784cf40",
+      "note": "PNG spłaszczony na białe tło, zmniejszony do 2000 px"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Spark100-04.png?v=1756910055",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 279377,
+      "sha256": "dc905344d33fb2815b9151d3f5f0bdf4d26d639f82eb1eb9cf6c0c9704b1e620",
+      "note": "PNG spłaszczony na białe tło, zmniejszony do 2000 px"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Spark100-02.png?v=1756910055",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 221273,
+      "sha256": "9a6f20536c041f9fe16392ee41df1df2b359fa158a986d926da145754b3750df",
+      "note": "PNG spłaszczony na białe tło, zmniejszony do 2000 px"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Spark100-03.png?v=1756910055",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 247787,
+      "sha256": "87eb4b6d3a1ab19a28447e401d0fff91760be5f1b6907619f14970309df68b4d",
+      "note": "PNG spłaszczony na białe tło, zmniejszony do 2000 px"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie_Bodyclock_Spark_100_-_1x1_1.jpg?v=1770134479",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 601307,
+      "sha256": "47209407a50a8be058a59ff71ff98f75e4be9e152c28123ac5c74647ec8f5522",
+      "note": "JPG bez zmian (rekompresja)"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie_Bodyclock_Spark_100_-_1x1_2.jpg?v=1770134479",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 690746,
+      "sha256": "df21b91f75f146468f16304191561cc2ea12dd3d74704bf812622eb06586e50a",
+      "note": "JPG bez zmian (rekompresja)"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie_Bodyclock_Spark_100_-_1x1_3.jpg?v=1770134479",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 862949,
+      "sha256": "3d3b92f33ce7a0a80706cd9f8a56916bf7c3f434a4420a7cc4cbf234dfba5bbb",
+      "note": "JPG bez zmian (rekompresja)"
+    },
+    {
+      "file": "logo-lumie.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "local: dropshipping/materiały/logo/lumie logo.png",
+      "width": 368,
+      "height": 144,
+      "bytes": 12572,
+      "sha256": "2a0ffb516d3ae15f6ccab552522f4de053944b5df993fbd8596e74899c33b59c",
+      "note": "logo marki na koniec galerii"
+    }
+  ],
+  "note": "ETAP 1 SZKIELET G64 poz. 6; packshoty PNG z przezroczystym tlem splaszczone na biel (PIL alpha_composite, JPG q=92), logo Lumie na koncu."
+}

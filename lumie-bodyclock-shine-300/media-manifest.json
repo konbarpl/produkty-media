@@ -1,0 +1,92 @@
+{
+ "slug": "lumie-bodyclock-shine-300",
+ "model": "Lumie Bodyclock Shine 300 (biały wg listy Konrada; karta nie nazywa koloru)",
+ "source": "https://www.lumie.com/products/bodyclock-shine-300",
+ "collectedAt": "2026-09-23",
+ "note": "8 zdjec z Shopify product JSON karty producenta (lumie.com): 4 packshoty PNG z przezroczystym tlem splaszczone na biale tlo (PIL alpha_composite) i zapisane jako JPG q=92, zmniejszone do 2000 px; 4 JPG aranzacyjne (1x1_bodyclock_shine_300_*, SHINE_06.*). Nazwy plikow zawieraja Shine300/shine_300 - tozsamosc modelu potwierdzona nazwa pliku. Logo Lumie z dropshipping/materialy/logo/lumie logo.png splaszczone na biel, na koncu galerii. Logo powiekszone 3x (368x144 -> 1104x432, LANCZOS).",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "logo-lumie.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Shine300-01.png?v=1756908486",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 528686,
+   "sha256": "c0ac0301d5e85ce21776e40728b601efe955d8ae1a3c6c0d03d119565e690e4d"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Shine300-04.png?v=1756908581",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 638301,
+   "sha256": "dc33df43004b063c405d71b29ce06130157a141834b48a1834d1c8095e11ef1b"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Shine300-02.png?v=1756908581",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 625669,
+   "sha256": "5564f547bc2e5762470d45e9dd124a2b32dc148bad0a167a39945b34f55011b8"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Shine300-03.png?v=1756908581",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 636154,
+   "sha256": "a782a08c21b4b45a1318f63c130ae974ea5b54b2032380f293424f3d70d846f7"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/1x1_bodyclock_shine_300_0710.jpg?v=1770134952",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 853715,
+   "sha256": "595c07c86cce1e753308faa8d839fdbb25e530a06266d612363340eafbb51b6c"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/1x1_bodyclock_shine_300_0700.jpg?v=1770134952",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 793957,
+   "sha256": "acd2e78b7ac961705fa1feedc3527b65398796dbfe9d9b34e4f55ecb4a4e61df"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/SHINE_06.35.jpg?v=1770134952",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 234940,
+   "sha256": "e4c2217d41adf298863afc97cb9b94547f633df2f42fa70b44a0b86ac4e71b5a"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/SHINE_06.55.jpg?v=1770134952",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 428196,
+   "sha256": "a64c610042425933a20911cf97f924d9fa18208d25bb6e6fa2a64ef7e4928ac1"
+  },
+  {
+   "file": "logo-lumie.jpg",
+   "sourceUrl": "dropshipping/materiały/logo/lumie logo.png (logo marki, plik Konrada)",
+   "width": 1104,
+   "height": 432,
+   "bytes": 39067,
+   "sha256": "f99d45dd94cd136991b401c2dc809f884479bddca83593a9716090705152b02a"
+  }
+ ]
+}

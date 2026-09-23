@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T06:44:00.867606Z",
+  "sourcePage": "https://www.lumie.com/products/bodyclock-glow-150 (zdjecia z JSON Shopify wersji EU: /de-de/products/bodyclock-glow-150-eu.json)",
+  "slug": "lumie-bodyclock-glow-150",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Glow150-01.png",
+      "sourceFile": "Lumie-Bodyclock-Glow150-01.png",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 220866,
+      "sha256": "cc195f2fd5d919d9a77f305fbb4338491995900bbd77ef8e47c7cd3d3f9add82",
+      "note": "PNG z przezroczystym tlem splaszczony na biel"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Glow150-04.png",
+      "sourceFile": "Lumie-Bodyclock-Glow150-04.png",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 341611,
+      "sha256": "7b1e0d322c4f9ba778266576891b796badc6d6c8d829aacece69b77111d77633",
+      "note": "PNG z przezroczystym tlem splaszczony na biel"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Glow150-02.png",
+      "sourceFile": "Lumie-Bodyclock-Glow150-02.png",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 284722,
+      "sha256": "d3015dee2ff93b0bebf8a23cc7a2c9c4d09ec7436d7f7b4fc6b73b0cac5d011f",
+      "note": "PNG z przezroczystym tlem splaszczony na biel"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Glow150-03.png",
+      "sourceFile": "Lumie-Bodyclock-Glow150-03.png",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 302485,
+      "sha256": "3a5086411546ff215053ead3ab5ab99794212dcb3eb06a6639977bb3debbb0aa",
+      "note": "PNG z przezroczystym tlem splaszczony na biel"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/1x1_bodyclock_glow_150_0710.jpg",
+      "sourceFile": "1x1_bodyclock_glow_150_0710.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 578434,
+      "sha256": "7a1bf8efa4c865f4d95f33e366ca761441e74794f4c35c6258f2ee731be3f710",
+      "note": "JPG aranzacyjny z karty producenta"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/GLOW_06.35.jpg",
+      "sourceFile": "GLOW_06.35.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 300855,
+      "sha256": "199ce198e73dea3f6f01341ba7e98b2b4ad8579a5d24b034feb658fa921a7df8",
+      "note": "JPG aranzacyjny z karty producenta"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/GLOW_06.55.jpg",
+      "sourceFile": "GLOW_06.55.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 606245,
+      "sha256": "ab4859a7ba4d9e6c5aaf7f2cda56370e29f907fd307f8cce7b605629e0ea3834",
+      "note": "JPG aranzacyjny z karty producenta"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/GLOW_07.00.jpg",
+      "sourceFile": "GLOW_07.00.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 825367,
+      "sha256": "5daf1d34abc9944b065a0c59e6be3dddd39e4dbd7cdc6fab0821265e934d0d06",
+      "note": "JPG aranzacyjny z karty producenta"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/GLOW_22.30.jpg",
+      "sourceFile": "GLOW_22.30.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 711829,
+      "sha256": "9e5a42747dc32549ecfd7a6664d67446aff326d0ed0b52a84b724a35410715e5",
+      "note": "JPG aranzacyjny z karty producenta"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "dropshipping/materiały/logo/lumie logo.png",
+      "width": 368,
+      "height": 144,
+      "bytes": 12572,
+      "sha256": "2a0ffb516d3ae15f6ccab552522f4de053944b5df993fbd8596e74899c33b59c"
+    }
+  ]
+}
