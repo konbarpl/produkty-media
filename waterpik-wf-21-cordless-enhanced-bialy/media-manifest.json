@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T07:29:46.874Z",
+  "sourcePage": "https://waterpikpolska.pl/irygatory-do-zebow/199-109-irygator-bezprzewodowy-waterpik-wf-21-cordless-enhanced.html",
+  "slug": "waterpik-wf-21-cordless-enhanced-bialy",
+  "galleryOrder": [
+    "produkt-02.jpg",
+    "produkt-06.jpg",
+    "produkt-05.jpg",
+    "produkt-01.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-03.jpg",
+    "produkt-13.jpg",
+    "logo-waterpik.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://waterpikpolska.pl/617/cordless-enhanced.jpg",
+      "width": 1800,
+      "bytes": 388497,
+      "sha256": "c5487f7fc382e6b6e6bceedaadd13556110612f40f8e8c44f154d15375722954",
+      "height": 1800
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://waterpikpolska.pl/1414/cordless-enhanced.jpg",
+      "width": 3000,
+      "bytes": 1508954,
+      "sha256": "607e83abd51421f16ed5263d7eb141ced4135c8c18cb7d60662dfd451b715daa",
+      "height": 3000
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://waterpikpolska.pl/1413/cordless-enhanced.jpg",
+      "width": 3000,
+      "bytes": 1362416,
+      "sha256": "f6f253cd8da57b0c4810d8272bc31e5a852d316e8c622694086a9496add890a8",
+      "height": 3000
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://waterpikpolska.pl/614/cordless-enhanced.jpg",
+      "width": 1800,
+      "bytes": 1061553,
+      "sha256": "0e2ebe745bfb7bb3565d7e9749db47d1b6633b9ffc5f1aecf7489989df5e6d89",
+      "height": 1800
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://waterpikpolska.pl/1416/cordless-enhanced.jpg",
+      "width": 3000,
+      "bytes": 2013951,
+      "sha256": "b3d153380246ef38a63267cff2ed050a2259e3c8e084f23de82173a94a09d2f1",
+      "height": 3000
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://waterpikpolska.pl/1417/cordless-enhanced.jpg",
+      "width": 3000,
+      "bytes": 1728189,
+      "sha256": "b9666c977675554b13f7654468686c46f2b1f2011d833c713eedb221c8cb628b",
+      "height": 3000
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://waterpikpolska.pl/1418/cordless-enhanced.jpg",
+      "width": 3000,
+      "bytes": 1256225,
+      "sha256": "c1818d70193a0ab04183ede1c7f0a83b4d401467da4878638f9accd2d601c86c",
+      "height": 3000
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://waterpikpolska.pl/619/cordless-enhanced.jpg",
+      "width": 1800,
+      "bytes": 560525,
+      "sha256": "8fdb0762b4c18b11d5c530cf08bb61b1bf8a6f7bea6af702fe790216f1bd7182",
+      "height": 1800
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://waterpikpolska.pl/1424/cordless-enhanced.jpg",
+      "width": 2000,
+      "bytes": 304294,
+      "sha256": "84d02fab700cf50c00791952ad47c0632bd5ab4cde0817064f288da75a0fa3de",
+      "height": 2000,
+      "note": "przeskalowane 3000->2000 px (Contents API 401 przy 4,5 MB)"
+    },
+    {
+      "file": "logo-waterpik.jpg",
+      "kind": "logo",
+      "sourceUrl": "dropshipping/materiały/logo/640px_Waterpik-logo.jpg",
+      "order": 10,
+      "width": 403,
+      "height": 109,
+      "bytes": 13077,
+      "sha256": "1a772d67170b45ff058e62f5ed3ec1089898cb34eafe3351bf66dbd822a444bf"
+    }
+  ],
+  "dropped": 0,
+  "curation": "2026-09-23 wykonawca ETAP 1: odrzucone produkt-04 (384x924 niska rozdzielczosc), produkt-07 (infografika z wymiarami sprzecznymi z karta), produkt-11 (reklama marki 800px, claim rekomendacji), produkt-12 (claim o bakteriach); logo marki na koncu"
+}

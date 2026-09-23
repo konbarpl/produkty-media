@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T07:28:11.113Z",
+  "sourcePage": "https://waterpikpolska.pl/irygatory-do-zebow/242-118-irygator-waterpik-wf-112-ultra-0073950336567.html#/11-kolor-czarny",
+  "slug": "waterpik-wf-112-ultra-czarny",
+  "galleryOrder": [
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-12.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-07.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-01.jpg",
+    "produkt-11.jpg",
+    "logo-waterpik.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://waterpikpolska.pl/860/ultra.jpg",
+      "width": 1000,
+      "bytes": 93420,
+      "sha256": "785cbbcc6ac0cf85672d64cf4d4a3d98144b989d0e88e0ae98caf5bd5e71d332"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://waterpikpolska.pl/861/ultra.jpg",
+      "width": 1000,
+      "bytes": 52938,
+      "sha256": "19e7fd33a0073ca8719d2a1566e6e375cca9b581cbfba3527a699251a609ee92"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://waterpikpolska.pl/863/ultra.jpg",
+      "width": 1000,
+      "bytes": 85978,
+      "sha256": "3008ffc69058af2e4323e79f973bea28aa457c8ddccc7d364401ef6ff94e94ed"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://waterpikpolska.pl/1463/ultra.jpg",
+      "width": 1600,
+      "bytes": 213845,
+      "sha256": "58356bd993e0ce995e13302f68ffc07e9fee01cc26d7352a3d7066ced85fbf6c",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://waterpikpolska.pl/1464/ultra.jpg",
+      "width": 1600,
+      "bytes": 178497,
+      "sha256": "746ec0fc0b55960a85a5dfd7ed849d9401c7b2e297043e414d1cc074ef930bda",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://waterpikpolska.pl/1465/ultra.jpg",
+      "width": 1600,
+      "bytes": 263641,
+      "sha256": "fa33bdd4d4bc0a130560a7500dccbaf21c909589c1cefe2632b9b7d8a9a33799",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://waterpikpolska.pl/1468/ultra.jpg",
+      "width": 1600,
+      "bytes": 256814,
+      "sha256": "bd12e16dd9e1f52f5a2049db01a8d821a102baa05ebdb6112f038c89cff3000e",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://waterpikpolska.pl/1469/ultra.jpg",
+      "width": 1600,
+      "bytes": 256752,
+      "sha256": "218b7054628cd006cd06bbd4dcc6f244f793a70c2809e6c7db6887eea6361cda",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://waterpikpolska.pl/1470/ultra.jpg",
+      "width": 1600,
+      "bytes": 342837,
+      "sha256": "7a8b88880272831578496e9a470d6776c630a00ea938c0c30789aa04593b535b",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://waterpikpolska.pl/1471/ultra.jpg",
+      "width": 1600,
+      "bytes": 263544,
+      "sha256": "95c4ffa0007823eae82529a0481032cbf6e6384aadedfb02cdece5e17233c07e",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
+    },
+    {
+      "file": "logo-waterpik.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "local:dropshipping/materiały/logo/640px_Waterpik-logo.jpg",
+      "width": 403,
+      "height": 109,
+      "bytes": 13077,
+      "sha256": "1a772d67170b45ff058e62f5ed3ec1089898cb34eafe3351bf66dbd822a444bf"
+    }
+  ],
+  "dropped": 0,
+  "curation": {
+    "date": "2026-09-23",
+    "note": "kuracja wykonawcy ETAP 1; odrzucone w _tmp/<slug>/odrzucone",
+    "rejected": {
+      "produkt-04.jpg": "napis '3 lata gwarancji' na grafice (fraza gwarancji zakazana)",
+      "produkt-05.jpg": "sama grafika marki '#1 marka irygatorow' bez produktu",
+      "produkt-06.jpg": "grafika marki z osoba i rysunkiem innego irygatora (bezprzewodowy)",
+      "produkt-10.jpg": "claim '99,9% bakterii' na grafice (zakaz claimow bakteryjnych)"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T10:02:22.367Z",
+  "sourcePage": "https://www.amazon.pl/dp/B07GBQ1XQF",
+  "slug": "waterpik-wp-663-ultra-professional-niebieski",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "logo-waterpik.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/715OhmKMQtL._AC_SL1500_.jpg",
+      "width": 1500,
+      "bytes": 146250,
+      "sha256": "2cc1d1f1314fd814b419151451c9b14add5a647bcd7f6cbf405bf5a0e8e71338",
+      "height": 1396
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71uxhoHD4VL._AC_SL1500_.jpg",
+      "width": 1500,
+      "bytes": 84976,
+      "sha256": "780ac3527d320d69a648f83814acad571a05e7767695fd6ab941baae469807d4",
+      "height": 1500
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81rxaGP-41L._AC_SL1500_.jpg",
+      "width": 1500,
+      "bytes": 200072,
+      "sha256": "0504edea290a9e89242e856c6b746f7a1ebaf309f4e9e000d6ac7e4358854842",
+      "height": 1500
+    },
+    {
+      "file": "logo-waterpik.jpg",
+      "kind": "logo",
+      "sourceUrl": "dropshipping/materiały/logo/640px_Waterpik-logo.jpg",
+      "width": 403,
+      "height": 109,
+      "bytes": 13077,
+      "sha256": "1a772d67170b45ff058e62f5ed3ec1089898cb34eafe3351bf66dbd822a444bf",
+      "order": 4
+    }
+  ],
+  "dropped": 0,
+  "curation": "2026-09-23: z 11 grafik karty Amazon B07GBQ1XQF wybrano 3 z niebieskim WP-663 (packshot z zestawem, packshot 6x glebiej, infografika #1 marka + parametry); odrzucono: claim bakteryjny, 2x gwarancja, bialy model/inny model, bez produktu; logo na koncu"
+}
