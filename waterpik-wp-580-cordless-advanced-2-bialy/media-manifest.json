@@ -1,0 +1,250 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T10:00:00.630Z",
+  "sourcePage": "https://waterpikpolska.pl/irygatory-do-zebow/201-110-irygator-bezprzewodowy-waterpik-wp-580-cordless-advanced-20.html#/8-kolor-bialy",
+  "slug": "waterpik-wp-580-cordless-advanced-2-bialy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-09.jpg",
+    "produkt-05.jpg",
+    "produkt-14.jpg",
+    "produkt-21.jpg",
+    "produkt-15.jpg",
+    "produkt-17.jpg",
+    "produkt-16.jpg",
+    "produkt-18.jpg",
+    "produkt-12.jpg",
+    "produkt-19.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-04.jpg",
+    "produkt-11.jpg",
+    "produkt-08.jpg",
+    "logo-waterpik.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://waterpikpolska.pl/654/cordless-advanced-20.jpg",
+      "width": 2000,
+      "bytes": 140309,
+      "sha256": "24dc653bde4099fd7891ee0fa36d21d4019956dc6d48dd548177f6af2e796929",
+      "height": 2000
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://waterpikpolska.pl/655/cordless-advanced-20.jpg",
+      "width": 1800,
+      "bytes": 53585,
+      "sha256": "711ece15b1417a402244fbc2292a18e28c3adc2d715eddcae91e1da1c9d05a2d",
+      "height": 1800
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://waterpikpolska.pl/656/cordless-advanced-20.jpg",
+      "width": 1800,
+      "bytes": 256768,
+      "sha256": "c87874ab84e109e89d012c7f1d01a6c5a5b9a08f83bd17734990d89c516f2502",
+      "height": 1800
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://waterpikpolska.pl/1336/cordless-advanced-20.jpg",
+      "width": 1500,
+      "bytes": 115146,
+      "sha256": "e787462a17e9e65011ae6db85abb54bfa84a467b9d9ca8126f027c562a61529e",
+      "height": 1500
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://waterpikpolska.pl/1338/cordless-advanced-20.jpg",
+      "width": 1600,
+      "bytes": 276964,
+      "sha256": "dbbb3377a1a1b68cd68b36f501f5f95800daf691de40b2e32941d8ecec0775e1",
+      "height": 1600
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://waterpikpolska.pl/1341/cordless-advanced-20.jpg",
+      "width": 1500,
+      "bytes": 177717,
+      "sha256": "36a019e01fe50d1d4bf6c3613b59feee8933c539dfc21cb159a53052ff6691f7",
+      "height": 1500
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://waterpikpolska.pl/1344/cordless-advanced-20.jpg",
+      "width": 1600,
+      "bytes": 285272,
+      "sha256": "200bf4da681679a33bd3d6aad42063a3c64b1e677384b0774551c51cefa9b9c1",
+      "height": 1600
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://waterpikpolska.pl/1345/cordless-advanced-20.jpg",
+      "width": 1500,
+      "bytes": 165561,
+      "sha256": "cbaffc970d998396bbb4e9bae2a34d2e38b6d168687c745bfe83a5f36b7c094e",
+      "height": 1500
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://waterpikpolska.pl/1346/cordless-advanced-20.jpg",
+      "width": 1600,
+      "bytes": 258906,
+      "sha256": "2b35daf3be62005fc0618e3cfb117de133d29ca6457525311a2332dad8eaab7a",
+      "height": 1600
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://waterpikpolska.pl/1349/cordless-advanced-20.jpg",
+      "width": 1500,
+      "bytes": 87903,
+      "sha256": "369b7332a5ae7e0d9206d5986e47503dff88132d0b6ec52a2a2710d80e570a5d",
+      "height": 1500
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://waterpikpolska.pl/1350/cordless-advanced-20.jpg",
+      "width": 1600,
+      "bytes": 278149,
+      "sha256": "5f68693f482c78d2421827a3bf410d8b7b317c7b2b9382f89c54a504ff4a5415",
+      "height": 1600
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://waterpikpolska.pl/1552/cordless-advanced-20.jpg",
+      "width": 1500,
+      "bytes": 306163,
+      "sha256": "5ac0ac1e454f5a26357182eec6ba47e6cf9149325681204b563b3f3a80342b03",
+      "height": 1500
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://waterpikpolska.pl/1553/cordless-advanced-20.jpg",
+      "width": 2000,
+      "bytes": 238190,
+      "sha256": "d4d3e8149e9726f037a1c87edc0cf584dbdf285eccb627e2baa4cda879253b6e",
+      "height": 2000
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://waterpikpolska.pl/1554/cordless-advanced-20.jpg",
+      "width": 2000,
+      "bytes": 343632,
+      "sha256": "f337b003970b65609b7f31399ca991451dac800b8f313e44b3f4533f762a2544",
+      "height": 2000
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://waterpikpolska.pl/1555/cordless-advanced-20.jpg",
+      "width": 2000,
+      "bytes": 217957,
+      "sha256": "3893baeaec26afa22acf9003def25b21fc532d9299ca144b02183400e370c761",
+      "height": 2000
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://waterpikpolska.pl/1556/cordless-advanced-20.jpg",
+      "width": 1500,
+      "bytes": 271289,
+      "sha256": "d24fd67079f461c0ab7b00643e1131e55d9b3422888d745d99f35890a522776c",
+      "height": 1500
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://waterpikpolska.pl/1557/cordless-advanced-20.jpg",
+      "width": 2000,
+      "bytes": 239626,
+      "sha256": "7bfbbb52b26dae879060e13ee3e45da31c0af880e277737e444636084c3ea9e3",
+      "height": 2000
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://waterpikpolska.pl/1558/cordless-advanced-20.jpg",
+      "width": 2000,
+      "bytes": 336253,
+      "sha256": "5952dd38d3048a6dd2f181c9ea8d6626f2c91f3b49c89299adb5d7df5c5d44fb",
+      "height": 2000
+    },
+    {
+      "file": "produkt-19.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://waterpikpolska.pl/1559/cordless-advanced-20.jpg",
+      "width": 1200,
+      "bytes": 197552,
+      "sha256": "52df2da0a31d5f3e9d04aba5c2f60f4c8a52b58cef2a0796ae83848de17be6f7",
+      "height": 1200
+    },
+    {
+      "file": "produkt-20.jpg",
+      "kind": "product",
+      "order": 20,
+      "sourceUrl": "https://waterpikpolska.pl/1560/cordless-advanced-20.jpg",
+      "width": 1500,
+      "bytes": 992418,
+      "sha256": "f47d2030fdd74d1742d928d4ac104147a446476313f9706554eddc276249ab9d",
+      "height": 1500
+    },
+    {
+      "file": "produkt-21.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://waterpikpolska.pl/1561/cordless-advanced-20.jpg",
+      "width": 1500,
+      "bytes": 757858,
+      "sha256": "dad4b25fd937fb295dc76721ff6f721abcb5ffc4bb1078008980befa8a8188d8",
+      "height": 1500
+    },
+    {
+      "file": "logo-waterpik.jpg",
+      "kind": "logo",
+      "sourceUrl": "dropshipping/materiały/logo/640px_Waterpik-logo.jpg",
+      "order": 18,
+      "width": 403,
+      "height": 109,
+      "bytes": 13077,
+      "sha256": "1a772d67170b45ff058e62f5ed3ec1089898cb34eafe3351bf66dbd822a444bf"
+    }
+  ],
+  "dropped": 4,
+  "curation": "2026-09-23 wykonawca ETAP 1: poza galeria produkt-03 (packshot z pudelkiem: napis '2 year limited warranty' na opakowaniu), produkt-10 (sama plansza '#1 marka' bez produktu, dubel tresci produkt-06), produkt-13 (infografika 'CORDLESS ADVANCED' bez '2.0' - wymiary 29,59x9,65x6,96 cm sprzeczne z karta 29,46x7,11x10,16 cm, prawdopodobnie WP-560), produkt-20 (claim '99,9% bakterii'); zdjecia >2000 px zmniejszone do 2000 px, pliki >1 MB przekompresowane; logo marki na koncu"
+}
