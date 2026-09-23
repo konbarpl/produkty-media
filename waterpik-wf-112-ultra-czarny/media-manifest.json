@@ -49,63 +49,77 @@
       "kind": "product",
       "order": 7,
       "sourceUrl": "https://waterpikpolska.pl/1463/ultra.jpg",
-      "width": 3000,
-      "bytes": 1656764,
-      "sha256": "7b0aa9aba2b94a2e0e5eaed2d7cd9e32b27748c5f4867c028673a4c2d532a8aa"
+      "width": 1600,
+      "bytes": 213845,
+      "sha256": "58356bd993e0ce995e13302f68ffc07e9fee01cc26d7352a3d7066ced85fbf6c",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
     },
     {
       "file": "produkt-08.jpg",
       "kind": "product",
       "order": 8,
       "sourceUrl": "https://waterpikpolska.pl/1464/ultra.jpg",
-      "width": 3000,
-      "bytes": 1826827,
-      "sha256": "a2fc0244ce0c963cafe909a25e98a74c3714ee8f236c14338dddeff946761a44"
+      "width": 1600,
+      "bytes": 178497,
+      "sha256": "746ec0fc0b55960a85a5dfd7ed849d9401c7b2e297043e414d1cc074ef930bda",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
     },
     {
       "file": "produkt-09.jpg",
       "kind": "product",
       "order": 9,
       "sourceUrl": "https://waterpikpolska.pl/1465/ultra.jpg",
-      "width": 3000,
-      "bytes": 1419626,
-      "sha256": "8398e03969e1ac732ab18e3ece94214456ac435237606c7a4909184e4c930f84"
+      "width": 1600,
+      "bytes": 263641,
+      "sha256": "fa33bdd4d4bc0a130560a7500dccbaf21c909589c1cefe2632b9b7d8a9a33799",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
     },
     {
       "file": "produkt-11.jpg",
       "kind": "product",
       "order": 11,
       "sourceUrl": "https://waterpikpolska.pl/1468/ultra.jpg",
-      "width": 3000,
-      "bytes": 3886266,
-      "sha256": "0e5df871f93b24a076e3d0d72d1cef35f56e90dd1ff6565cc108e8849160799d"
+      "width": 1600,
+      "bytes": 256814,
+      "sha256": "bd12e16dd9e1f52f5a2049db01a8d821a102baa05ebdb6112f038c89cff3000e",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
     },
     {
       "file": "produkt-12.jpg",
       "kind": "product",
       "order": 12,
       "sourceUrl": "https://waterpikpolska.pl/1469/ultra.jpg",
-      "width": 3000,
-      "bytes": 1874006,
-      "sha256": "0a4154adb6e60aa0c7482cfe3465c959b082e309c3ed31cd26b8df28b25fe1bb"
+      "width": 1600,
+      "bytes": 256752,
+      "sha256": "218b7054628cd006cd06bbd4dcc6f244f793a70c2809e6c7db6887eea6361cda",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
     },
     {
       "file": "produkt-13.jpg",
       "kind": "product",
       "order": 13,
       "sourceUrl": "https://waterpikpolska.pl/1470/ultra.jpg",
-      "width": 3000,
-      "bytes": 5108338,
-      "sha256": "4733ed7d648dd9cd30e95a6a6d9f34f72f8ed1bc7a362c2bed30ac7ff7080665"
+      "width": 1600,
+      "bytes": 342837,
+      "sha256": "7a8b88880272831578496e9a470d6776c630a00ea938c0c30789aa04593b535b",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
     },
     {
       "file": "produkt-14.jpg",
       "kind": "product",
       "order": 14,
       "sourceUrl": "https://waterpikpolska.pl/1471/ultra.jpg",
-      "width": 3000,
-      "bytes": 5487685,
-      "sha256": "14b15a0f2dd3e21ccb9fd8b667ffdf763a60de10fce31e90050652657adee108"
+      "width": 1600,
+      "bytes": 263544,
+      "sha256": "95c4ffa0007823eae82529a0481032cbf6e6384aadedfb02cdece5e17233c07e",
+      "height": 1600,
+      "note": "przeskalowane z oryginalu 3000 px do 1600 px (JPEG q88) — PUT 1,4–5,5 MB konczyl sie HTTP 401; oryginal w _tmp/<slug>/oryginaly-3000px"
     },
     {
       "file": "logo-waterpik.jpg",
