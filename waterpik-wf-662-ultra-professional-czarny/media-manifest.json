@@ -55,10 +55,10 @@
       "kind": "product",
       "order": 4,
       "sourceUrl": "https://waterpikpolska.pl/1490/wf-662-ultra-professional.jpg",
-      "width": 2000,
-      "bytes": 1368336,
-      "sha256": "c167fdd6415bfc685228d7aaf5cc49528979495f23e66626cdb96af319a347e0",
-      "height": 2000
+      "width": 1500,
+      "bytes": 181367,
+      "sha256": "3a0b279b2966a4f90d8e6b4f6faabe2946e202c82909f7ec7c3d20b861384d89",
+      "height": 1500
     },
     {
       "file": "produkt-10.jpg",
@@ -86,8 +86,8 @@
       "order": 7,
       "sourceUrl": "https://waterpikpolska.pl/1495/wf-662-ultra-professional.jpg",
       "width": 1500,
-      "bytes": 1420765,
-      "sha256": "14b00cd3c48d48d9e6eaba73809a46f1787c045a41a01fbadac9c0fe40dd9ef2",
+      "bytes": 273223,
+      "sha256": "47eabf202c9c069eb02ccdca741498e676732830bb92b59edaab18d658684a86",
       "height": 1500
     },
     {
@@ -95,10 +95,10 @@
       "kind": "product",
       "order": 8,
       "sourceUrl": "https://waterpikpolska.pl/1491/wf-662-ultra-professional.jpg",
-      "width": 2000,
-      "bytes": 2081474,
-      "sha256": "bb4193516f14689d1dd8d5564e15d70ff73a6b262c90b4b5e44b81e3b5e2bcab",
-      "height": 2000
+      "width": 1500,
+      "bytes": 204710,
+      "sha256": "5eca14769744981b2675800c58cff70ce295508044bc3c71df2b07bdbb9e53ae",
+      "height": 1500
     },
     {
       "file": "produkt-15.jpg",
@@ -106,8 +106,8 @@
       "order": 9,
       "sourceUrl": "https://waterpikpolska.pl/1497/wf-662-ultra-professional.jpg",
       "width": 1500,
-      "bytes": 1363829,
-      "sha256": "e94cc2fc75f2daa318e9c756ea745bae7e1e1fcacbec3dd09768c47169601d94",
+      "bytes": 237655,
+      "sha256": "8e06ee269fef28a0612fd50c8561048d4558fbb376e4e72bedd297e010a73cb7",
       "height": 1500
     },
     {
@@ -116,8 +116,8 @@
       "order": 10,
       "sourceUrl": "https://waterpikpolska.pl/1494/wf-662-ultra-professional.jpg",
       "width": 1200,
-      "bytes": 1127433,
-      "sha256": "cfd15fd7594f80066fe719679d45baf0e5e52f6631d12d31a30df22521536bc8",
+      "bytes": 208997,
+      "sha256": "c4c6f434f6b0f11d739a96bfaf53f7182f891fd01dbb89496ee4d7a21d369bba",
       "height": 1200
     },
     {
@@ -162,5 +162,5 @@
     }
   ],
   "dropped": 0,
-  "curation": "2026-09-23 wykonawca SZKIELET: odrzucone produkt-04 (grafika z innym modelem - bezprzewodowy, reklama) i produkt-14 (claim o bakteriach - zakaz); produkt-10 zmniejszone 2500->2000 px; logo na koncu"
+  "curation": "2026-09-23 wykonawca SZKIELET: odrzucone produkt-04 (grafika z innym modelem - bezprzewodowy, reklama) i produkt-14 (claim o bakteriach - zakaz); produkt-10 zmniejszone 2500->2000 px; logo na koncu; produkt-08/09/12/13/15 przekompresowane do 1500 px (<800 kB) - Contents API zwracal HTTP 401 na plikach >1 MB"
 }
