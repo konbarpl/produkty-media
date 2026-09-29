@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-29T07:32:44.723204Z",
+  "sourcePage": "https://www.lumie.com/products/bodyclock-luxe-750dab-charcoal",
+  "slug": "lumie-bodyclock-luxe-750dab",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-lumie.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Luxe750DAB-Charcoal-01.png",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 498676,
+      "sha256": "8ca1dc9ec2a56e9b6ce4917502a1637a832bd7bf9cbb52e72d546f4d75197d76",
+      "note": "PNG spłaszczony na białe tło (PIL alpha_composite), JPG q=92, zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Luxe750DAB-Charcoal-04.png",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 578137,
+      "sha256": "b800b5419a80e8fa249d8e9b2f4465268c97cc73c33e58473948e2fa12041d0a",
+      "note": "PNG spłaszczony na białe tło (PIL alpha_composite), JPG q=92, zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Luxe750DAB-Charcoal-02.png",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 580032,
+      "sha256": "616ae1c5bc1b734ad875a4f015c22f103c398ece229272307daf1c1468422748",
+      "note": "PNG spłaszczony na białe tło (PIL alpha_composite), JPG q=92, zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie-Bodyclock-Luxe750DAB-Charcoal-03.png",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 594266,
+      "sha256": "1d1fb5d1d0effd26c7799810c1186ddcf9a410be50d50394170c906f23449ae2",
+      "note": "PNG spłaszczony na białe tło (PIL alpha_composite), JPG q=92, zmniejszone do 2000 px"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/L750DAB_0710.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 407588,
+      "sha256": "f2e7266dcc7ec906b780e06907e3ed82b06d4dd713f3daaf2679acfcc51856a4",
+      "note": "JPG aranżacyjny (rekompresja q=92, maks. 2000 px)"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/L750DAB_0645_1x1_8d310b03-1d5e-43d8-b0e7-220ac4433c4e.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 329686,
+      "sha256": "c64607621a15450ae4a66d28c2835384d889b61b85f30ca2fa8000f447c981ee",
+      "note": "JPG aranżacyjny (rekompresja q=92, maks. 2000 px)"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie_Bodyclock_Luxe_750DAB_in_Charcoal_-_Middle_of_the_Night_Feed_-_Square_001.jpg",
+      "width": 1817,
+      "height": 1817,
+      "bytes": 676687,
+      "sha256": "c234ec511a230c75c2466bae77912bc38a8b74c1a420f7c52aec64dffea1752f",
+      "note": "JPG aranżacyjny (rekompresja q=92, maks. 2000 px)"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0957/2873/0441/files/Lumie_Bodyclock_Luxe_750DAB_in_Charcoal_-_Family_Morning_001_-_Square.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 897545,
+      "sha256": "4fa41439dfa9b2321d65acf46caed38b6801a50a8d2b34ba18a44f58da5c7e11",
+      "note": "JPG aranżacyjny (rekompresja q=92, maks. 2000 px)"
+    },
+    {
+      "file": "logo-lumie.jpg",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "local: dropshipping/materiały/logo/lumie logo.png",
+      "width": 368,
+      "height": 144,
+      "bytes": 12572,
+      "sha256": "2a0ffb516d3ae15f6ccab552522f4de053944b5df993fbd8596e74899c33b59c",
+      "note": "logo marki na koniec galerii"
+    }
+  ],
+  "note": "ETAP 1 SZKIELET G64 (29.09); karta Lumie 750DAB Charcoal (SKU UK NBCLU-D750; wersja EU NBCLE-D750); packshoty PNG splaszczone na biel, logo Lumie na koncu."
+}
