@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T12:59:02.641Z",
+  "sourcePage": "https://webber.com.pl/nawilzacz-powietrza-ewaporacyjny-webber-hh30002,id101.html",
+  "slug": "webber-hh3002",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://webber.com.pl/img/products/10/1/1_max.jpg",
+      "width": 2000,
+      "bytes": 308815,
+      "sha256": "0565ecc6d9b664caea7c3b1b9d9316fa3b8d308b32f3909dd13630601b762d5e"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://webber.com.pl/img/products/10/1/5_max.jpg",
+      "width": 2000,
+      "bytes": 98984,
+      "sha256": "e8e56f0c242582abe9f80242a213b7ee5593e57b00c775d9a697423f2fb50cca"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://webber.com.pl/img/products/10/1/6_max.jpg",
+      "width": 2000,
+      "bytes": 124278,
+      "sha256": "ed6e445618c3fabade9b1dedc54bf58d4f537ba8f877ecfde144b741b0de7fbd"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://webber.com.pl/img/products/10/1/7_max.jpg",
+      "width": 2000,
+      "bytes": 133844,
+      "sha256": "f0b7e39bac200e8baf0e3878ce99a11b4d2a88a6e5c75a80d9ac96acc8f11309"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://webber.com.pl/img/products/10/1/10_max.jpg",
+      "width": 2000,
+      "bytes": 156224,
+      "sha256": "9380a0f47fecf7e5845b2014afac682cacb4a1de203bebc10deb3e085b1c88ea"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://webber.com.pl/img/products/10/1/12_max.jpg",
+      "width": 2000,
+      "bytes": 222313,
+      "sha256": "19f1274b461dd92c563a283456a85f717be1209140da277827f7df434012738d"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://webber.com.pl/img/products/10/1/8_max.jpg",
+      "width": 2000,
+      "bytes": 328085,
+      "sha256": "56aa67615c7b68ca466f9106267f9aa5e548fea70ee9a5ba756aa0d7324bd027"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://webber.com.pl/img/products/10/1/2_max.jpg",
+      "width": 2000,
+      "bytes": 151946,
+      "sha256": "74e1849f4da62ccd18e7e9f4119e40e98d491e39aec5f1726c0fb01dfb575684"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://webber.com.pl/img/products/10/1/3_max.jpg",
+      "width": 2000,
+      "bytes": 150436,
+      "sha256": "7a9aee570a26be3d63d59c4ee060d9cec76d409d4a163624ed79214c29092e34"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://webber.com.pl/img/products/10/1/4_max.jpg",
+      "width": 2000,
+      "bytes": 192290,
+      "sha256": "42fd8303b0f785efe8b7173dbe4bcead63fef30e13751dbfe696c6765e2180fd"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://webber.com.pl/img/products/10/1/9_max.jpg",
+      "width": 2000,
+      "bytes": 168858,
+      "sha256": "4aee36b3d354f390bf183dc947a093257d1a11cb0a321b3f6aa08d4d6663b0b9"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://webber.com.pl/img/products/10/1/11_max.jpg",
+      "width": 2000,
+      "bytes": 189235,
+      "sha256": "91455a66410a68ac52e1bf45cfa41fa265faf8ae848a15b03f4bdcb03b14494b"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 1,
+      "sourceUrl": "produkty-media/webber-ap8550/logo-producenta.jpg (kopia; pierwotnie dropshipping/materiały/logo/WEBBER LOGO.jpg)",
+      "width": 396,
+      "height": 99,
+      "bytes": 13037,
+      "sha256": "be47468cb8f048a18e769a4ce68b1eee9adb2745ce8e50fdc577a4a542b2676c"
+    }
+  ],
+  "dropped": 0
+}
