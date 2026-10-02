@@ -163,7 +163,9 @@
       "order": 16,
       "sourceUrl": "repo produkty-media webber-ap8550/logo-producenta.jpg",
       "bytes": 13037,
-      "sha256": "be47468cb8f048a18e769a4ce68b1eee9adb2745ce8e50fdc577a4a542b2676c"
+      "sha256": "be47468cb8f048a18e769a4ce68b1eee9adb2745ce8e50fdc577a4a542b2676c",
+      "width": 396,
+      "height": 99
     }
   ],
   "dropped": 0
