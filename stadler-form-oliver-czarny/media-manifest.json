@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T12:13:27.687Z",
+  "sourcePage": "https://www.stadlerform.com/en/humidifier/oliver-black-o-015",
+  "slug": "stadler-form-oliver-czarny",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.png",
+    "opis-04.png",
+    "opis-05.png",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/3a/e3/36/1752216354/stadler-form-oliver-humidifier-black-iso.png",
+      "width": 2000,
+      "bytes": 1496719,
+      "sha256": "ccf339cb5e832f8126718287ac5bb4e287e77e87f38539676e7a2aca35e0ece1"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/51/2e/98/1752216354/stadler-form-oliver-humidifier-black-front.png",
+      "width": 2000,
+      "bytes": 1307860,
+      "sha256": "7a0401c67b53baad4dcfe3b8b886436ca50fee2fadc065eb4190e001c273dc78"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/5d/02/84/1752216354/stadler-form-oliver-humidifier-black-side.png",
+      "width": 2000,
+      "bytes": 1174123,
+      "sha256": "14c452b03aa042329329d5df6f0224195f6bcc730de4adf12ce55794fc4c2768"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/f3/9b/24/1760011216/stadler-form-oliver-black-humidifier-remote-control.png",
+      "width": 2000,
+      "bytes": 2231877,
+      "sha256": "9c1761537a3e283c117312d1d2d2149d03f8da4072dbabd0b25bcb76f5a8aa35"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/db/51/0e/1752216354/stadler-form-oliver-humidifier-black-lifestyle1.jpg",
+      "width": 2000,
+      "bytes": 2054916,
+      "sha256": "96eda1b05d1e1cd4768151f4e130c50eafc98d7eeb56a9bd817429fecff8d2ee"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/b5/24/23/1752216354/stadler-form-oliver-humidifier-black-lifestyle2.jpg",
+      "width": 2000,
+      "bytes": 1944127,
+      "sha256": "43ec0560e701acffc5d183ca83ddafcb9ce1f90171af1024e5f9edfc816b9048"
+    },
+    {
+      "file": "opis-03.png",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/78/e0/88/1753428058/stadler-form-oliver-humidifier-cleaning-mode.png",
+      "width": 4667,
+      "bytes": 2052810,
+      "sha256": "dedd536adf6ef7f2345ee086ff7d16baa20fcefff2c994cb0dd6144e534fbdbf"
+    },
+    {
+      "file": "opis-04.png",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/b4/bd/03/1753172862/stadler-form-oliver-humidifier-uv-light-technology.png",
+      "width": 1120,
+      "bytes": 595999,
+      "sha256": "df80fc2ca4b80f7e2c634f24715fe329d4ff5abd804d94c4a2bb018ba2354643"
+    },
+    {
+      "file": "opis-05.png",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.stadlerform.com/media/b9/05/98/1753950800/stadler-form-oliver-adaptive-humidity-graphic.png",
+      "width": 1120,
+      "bytes": 504946,
+      "sha256": "b431e1879129dc2b4fa090001cc7e9f5d851e621b01dfbf1896f2307e3303d3c"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-stadler-form.jpg",
+      "bytes": 9698,
+      "sha256": "6e7621ecb8647ffa150e86453afe5f04d0b8e7f84025d7bc380d931d3996cc53",
+      "note": "kopia wspolnego logo marki z _logo/ - publish_erli.js skleja imageBase+nazwa",
+      "width": 539
+    }
+  ],
+  "dropped": 0
+}
