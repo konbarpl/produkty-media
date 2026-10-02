@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T12:14:50.957421Z",
+  "sourcePage": "Media Expert — karta produktu nawilzacz-gotze-jensen-flame-ah220, dump 2.10.2026 (tylko pliki z 'AH220' w nazwie)",
+  "slug": "gotze-jensen-flame-ah220",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "produkt-19.jpg",
+    "logo-gotze-jensen.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-kolor-2-wer2.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 138782,
+      "sha256": "c30d7393d549557bacd4c912bfc67625f1966bf3f0e22a1579e9375661b82714"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-front-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 87969,
+      "sha256": "d8a36e0eac3b72b8f55bb2eb5e4dcd11f95217e9b44b9991f601a6c687efef7b"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-kolor-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 56603,
+      "sha256": "7548a81096d9ab840e92482c15a7068981ac7a44de4ea9a578c5b4b95fbd94a8"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-kolor4.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 105542,
+      "sha256": "11d051d77791e36f836f004a68c311c538b469e4a2a1710d58c876660fbdd456"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-zestaw-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 150690,
+      "sha256": "09dc3632c1786238cb3f0f9b5fb8ef695b64faff115a484c804ceb74f31d696a"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 109070,
+      "sha256": "4adc58513b12ee7bdc04f993357316326f9597980384813af90edf5268d60dd0"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-3-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 140104,
+      "sha256": "7e1131881e3c9ab3c846c2435a3b46b533fc61ec713949d08755801e7c0a8545"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-4-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 130780,
+      "sha256": "c018f62851611f7ddd379b3ab0191d0dfdd80175fa51ef787f2ebadacf3a0008"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-5-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 171045,
+      "sha256": "196c698585c505648c6da28938088ed9df73f544ebe863d432a2b979191c0a97"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-6-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 150107,
+      "sha256": "dbf676570ec72cf5598175f380760aee88b87b64b176c4dbc1f42d4dee9a3987"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-7-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 105411,
+      "sha256": "1082eb0133303b7b0db923fd723e24fcf5d249eefde7aecaa75623f9972f6173"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-8-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 150868,
+      "sha256": "0c1fa4d5ed9ecf86858d8b8cb819af88023cdbf69ce255bbdd8728febb0eae3b"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-9-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 150978,
+      "sha256": "aff88423d2f572416598387d2f62f340071fb392373811436ee99c2373b7cda0"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-10-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 150608,
+      "sha256": "ce06715482924891ecb790bdcd2992a6cdea36aa973453bb68184cdbb296ab64"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-11-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 154050,
+      "sha256": "5ed3d7a6a962628b1cd113d45f994534f17ee4876bcc9a7979100ea90bb00dd1"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "lifestyle",
+      "order": 16,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-12-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 152939,
+      "sha256": "afde9bc3e5010a50e5e50737ce8ce87d25eb67987060361a3ffa7ee6944eeb92"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "lifestyle",
+      "order": 17,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-13-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 160625,
+      "sha256": "e4b9b5d8b960540b02337ff1b285c72dfcca87c5814fd5fada6a6dfcdd0f02cd"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "lifestyle",
+      "order": 18,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-14-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 165672,
+      "sha256": "17a833557e130077e85db5d6bff45c1f097dea0320f6d3807b927a40f5521cf3"
+    },
+    {
+      "file": "produkt-19.jpg",
+      "kind": "lifestyle",
+      "order": 19,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/61/6176010/Nawilzacz-GOTZE-JENSEN-Flame-AH220-lifestyle-15-wer2.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 187466,
+      "sha256": "1d0a6eab874cc73935e8405dd009716a1d5b6c7c1e730c132226b0adf814d825"
+    },
+    {
+      "file": "logo-gotze-jensen.jpg",
+      "kind": "logo",
+      "order": 20,
+      "sourceUrl": "kopia z repo mediow gotze-jensen-dw900/logo-gotze-jensen.jpg (lokalny zbior logo Konrada: dropshipping/materiały/logo/gotze-and-jensen_logo.jpg)",
+      "width": 500,
+      "height": 74,
+      "bytes": 5999,
+      "sha256": "020add42cc816bba2129c6632dbd3f7b9e7ae19dc7c767b623ccda5570063c6f"
+    }
+  ]
+}
