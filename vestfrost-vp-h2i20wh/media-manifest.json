@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T12:59:53.861Z",
+  "sourcePage": "https://vestfrosthome.eu/pl/nawilzacze-powietrza/106-inteligentny-oczyszczacz-powietrza-5901138702987.html",
+  "slug": "vestfrost-vp-h2i20wh",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.png",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://vestfrosthome.eu/598-large_default/inteligentny-oczyszczacz-powietrza.jpg",
+      "width": 800,
+      "bytes": 42492,
+      "sha256": "bf040057dab94b8aaeac3b579e173d547c9e012ebc359616a66fb941e3ded16d"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://vestfrosthome.eu/599-large_default/inteligentny-oczyszczacz-powietrza.jpg",
+      "width": 800,
+      "bytes": 66990,
+      "sha256": "08d530e2bbfebf4cf4584548af9034340b4fb60af812a21161d5f74942cd2e13"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://vestfrosthome.eu/600-large_default/inteligentny-oczyszczacz-powietrza.jpg",
+      "width": 800,
+      "bytes": 30654,
+      "sha256": "f63e821d0d9cda5208ec509d8e1813d5aa9c674456639d3b9be68ced0133128d"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://vestfrosthome.eu/themes/vestfrosthome/assets/products/106/img/kolorowy-ekran.png",
+      "width": 568,
+      "bytes": 247603,
+      "sha256": "966701dd01f4a94cb8da5b474b96745ee0ed9696508696db30328fa7440c68cd"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://vestfrosthome.eu/themes/vestfrosthome/assets/products/106/img/VP-H2I20WH/img/tlo-80-3f365345.jpg",
+      "width": 779,
+      "bytes": 259920,
+      "sha256": "cb5be94d5c8fd13f7f812ec6160a8586f946055936f27dcc6af47e66c3647a35"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://vestfrosthome.eu/themes/vestfrosthome/assets/products/106/img/5.jpg",
+      "width": 420,
+      "bytes": 50432,
+      "sha256": "4c2f821f710109fae53344cc4899918d0814c5b7ce27574b1814f1857d7df75b"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://vestfrosthome.eu/themes/vestfrosthome/assets/products/106/img/tlo-rodzaje-zanieczyszczen.jpg",
+      "width": 1560,
+      "bytes": 550630,
+      "sha256": "104341371207dd172a3a7ae49c60b3674ca0c9c96730be9acdee638595e46c90"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://vestfrosthome.eu/themes/vestfrosthome/assets/products/106/img/VP-H2I20WH/img/intuicyjna-aplikacja-mobilna-a12aef06.jpg",
+      "width": 963,
+      "bytes": 85548,
+      "sha256": "efc659fb192b0be70f9a18086bac511eaad57577f272ebd3ca94aefa7f0b5743"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "repo produkty-media: vestfrost-vpb1h50gp/logo-producenta.jpg (kopia 1:1)",
+      "bytes": 16809,
+      "sha256": "a0f50aa05893b684a29e72d7eb1ec5bf32556e9e5f42a6717aa654bb0ff66297"
+    }
+  ],
+  "dropped": 0
+}
