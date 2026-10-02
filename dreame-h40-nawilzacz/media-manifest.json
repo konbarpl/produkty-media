@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T13:25:01.765Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-55948-Nawilzacz-powietrza-Dreame-H40.html",
+  "slug": "dreame-h40-nawilzacz",
+  "galleryOrder": [
+    "produkt-02.webp",
+    "produkt-01.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/2b355ef538ccf562156d659e86ff1168/pol_pl_Nawilzacz-powietrza-Dreame-H40-55948_7.webp",
+      "width": 800,
+      "bytes": 12464,
+      "sha256": "17795e64cf1c7db687576c341f714649a34c2979da72e1828bf224e40667c4d1"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/1329cffe9ac659a6727d2692b40caa5d/pol_pl_Nawilzacz-powietrza-Dreame-H40-55948_8.webp",
+      "width": 800,
+      "bytes": 12510,
+      "sha256": "f56dcfda474a17ae041d0375733eadfa90e17aa4d3d4c0590fc08956667f1f83"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/45b25243d99d2ce4934616daa15a2461/pol_pl_Nawilzacz-powietrza-Dreame-H40-55948_9.webp",
+      "width": 800,
+      "bytes": 28396,
+      "sha256": "3dcd993c7681961bb8978dddf1ba7a8d49f9f60f3696ab551973810f357553b4"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/5e658d75468bb1448e99720aa7bf362a/pol_pl_Nawilzacz-powietrza-Dreame-H40-55948_10.webp",
+      "width": 800,
+      "bytes": 8298,
+      "sha256": "30b857c99a96406d5042c915df12ea185fc86861bbb151f66b953bb7c0756d94"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/3b843e62e418cf38f7ab373706d442ac/pol_pl_Nawilzacz-powietrza-Dreame-H40-55948_11.webp",
+      "width": 800,
+      "bytes": 10568,
+      "sha256": "07e139d3a6ce60a0d060a882e8506e17f10040fa82ed0a994e6e96316dbbaab3"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/b117f26749f2612101e8ab1e5a7cf8dd/pol_pl_Nawilzacz-powietrza-Dreame-H40-55948_12.webp",
+      "width": 800,
+      "bytes": 20690,
+      "sha256": "b10f5c59f7b1f9aed07085e74d99b66c4465a0a1e1d0bfd16ea8e52cf65394c2"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/18596/24770/Kobieta%20czyta%20ksi%C4%85%C5%BCk%C4%99%20a%20obok%20stoi%20Nawil%C5%BCacz%20powietrza%20Dreame%20H40.jpg",
+      "width": 1171,
+      "bytes": 75150,
+      "sha256": "18278514dc5eee9d93a0a8f96d8afc2fb591e1fafe312dba2f4d050c32e0e8bd"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/18596/24770/System%20filtracji%20Nawil%C5%BCacza%20powietrza%20Dreame%20H40.jpg",
+      "width": 1171,
+      "bytes": 77972,
+      "sha256": "02738c20d5fd6f74ff01ad208ae3180ef6003a190763a9fa72b36f94864940a0"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/18596/24770/baner-Dreame-H40.jpg",
+      "width": 1171,
+      "bytes": 36697,
+      "sha256": "7c6f1b78af087bc060ff2e3fd3aee7fe5bc1c46a793b15eddca4ee1960bb55d8"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "repo produkty-media _logo/logo-dreame.jpg",
+      "bytes": 15201,
+      "sha256": "b608908598b2a6d35aabb1b1bf3cde97afb8e5b6e6aab49f8ca8723d53f6c376"
+    }
+  ],
+  "dropped": 8,
+  "galleryNote": "Kuracja 2.10: produkt-02 (_8, obraz główny z JSON-LD karty) na pozycji 1; logo Dreame z _logo na końcu."
+}
