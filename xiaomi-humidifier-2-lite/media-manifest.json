@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T12:34:40.308Z",
+  "sourcePage": "https://www.mi.com/pl/product/xiaomi-humidifier-2-lite/ + https://mi-store.pl/product-pol-2244-Ultradzwiekowy-Nawilzacz-Powietrza-Xiaomi-Humidifier-2-Lite.html",
+  "slug": "xiaomi-humidifier-2-lite",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "opis-01.png",
+    "opis-02.png",
+    "opis-03.png",
+    "opis-04.png",
+    "opis-05.png",
+    "opis-06.png",
+    "opis-07.png",
+    "opis-08.png",
+    "opis-09.jpg",
+    "opis-10.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://i05.appmifile.com/252_item_pl/16/01/2024/c3a1acfb140e1092444ad5c590322b2a.png",
+      "width": 1600,
+      "bytes": 346152,
+      "sha256": "b625e18c4fc5f948da890e38981ad9e3ef61a29656b02691d68814430b63694d"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/f929520563900c24ef4cfcc5632a22f2/pol_pl_Ultradzwiekowy-Nawilzacz-Powietrza-Xiaomi-Humidifier-2-Lite-2244_1.webp",
+      "width": 600,
+      "bytes": 19242,
+      "sha256": "4633ec72f1282568a658e6027711abe13a1ae221ad1d361544cc519aa8b2ad0f"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/bf8cbb0c02b7967e90bfdf4de56d69bd/pol_pl_Ultradzwiekowy-Nawilzacz-Powietrza-Xiaomi-Humidifier-2-Lite-2244_2.webp",
+      "width": 600,
+      "bytes": 9868,
+      "sha256": "0f8765045f795c0d97d562e666c587558e41a68fa72243e05a729eb7db086023"
+    },
+    {
+      "file": "opis-01.png",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/pc/xiaomi-humidifier-2-lite/1ebfeea6ea4695ca500ff7a7577a6385.jpg",
+      "width": 1800,
+      "bytes": 628978,
+      "sha256": "1d0914e80ecf3017aa4c9637ba557086bc7ca1f1bc3bcec4a2ae0ae7723c3be5"
+    },
+    {
+      "file": "opis-02.png",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/pc/xiaomi-humidifier-2-lite/21720af9109732d8028dd66929b5d76a.png",
+      "width": 2444,
+      "bytes": 1172981,
+      "sha256": "27d9265da667f0445358f237f9ff2e10f3e64b3eada41f093a1e6ff3703f2ee4"
+    },
+    {
+      "file": "opis-03.png",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/pc/xiaomi-humidifier-2-lite/2de1a81f60ad1b669e1ae6ad90370c59.jpg",
+      "width": 2560,
+      "bytes": 1106260,
+      "sha256": "5cd9a78d3e9638293d21fd437af03c5349b011eed3fe82888cc9facc33a1dcfe"
+    },
+    {
+      "file": "opis-04.png",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/pc/xiaomi-humidifier-2-lite/3dfe07b90651a4ee65f301b296a1022e.png",
+      "width": 1800,
+      "bytes": 1178401,
+      "sha256": "4d731c649e3ab0a2c798ffbc85025b76cfe8dd1d9d3942eee23b2d1bd034841c"
+    },
+    {
+      "file": "opis-05.png",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/pc/xiaomi-humidifier-2-lite/ceed00ef078fc62116eeffd787a6d081.jpg",
+      "width": 2560,
+      "bytes": 540940,
+      "sha256": "c08310e9617985537e9bd4eaefc8816ca6a20c6d9dbd2757c5314babede4c4d8"
+    },
+    {
+      "file": "opis-06.png",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/pc/xiaomi-humidifier-2-lite/d4f84639cdffde762c87e667807fadcf.jpg",
+      "width": 2560,
+      "bytes": 852118,
+      "sha256": "d27fadd10680440a851171fa47ce6ef2ca988d6a169da1a25ccef713519fa438"
+    },
+    {
+      "file": "opis-07.png",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/pc/xiaomi-humidifier-2-lite/def6fa20c5899012a9aa7e811a138f0c.jpg",
+      "width": 2560,
+      "bytes": 1092143,
+      "sha256": "e7df342eb0bdbf0c3ff80642fd1ca80d3908e3e2892934d0899965e7d07f53da"
+    },
+    {
+      "file": "opis-08.png",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/pc/xiaomi-humidifier-2-lite/e0548295dad8e486f7ceadad63fed829.jpg",
+      "width": 2560,
+      "bytes": 1208473,
+      "sha256": "41e6997ead78b8247d26aa595d1a4a9e8827cb38118ec7622a3b0e7fa19b0cef"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2244-humidifier/6.jpg",
+      "width": 1200,
+      "bytes": 103787,
+      "sha256": "1063749c53418d40b10ab985c3a285dd2f9e92b492f7863c40cb2281b6a6adfb"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2244-humidifier/13.jpg",
+      "width": 1200,
+      "bytes": 49207,
+      "sha256": "52e0f447b221fcdd99f4fa5fb1abd6de423ff70ed5f5496a27da3cac28722ee1"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 14,
+      "sourceUrl": "kopia _logo/logo-xiaomi.png (repo mediow)",
+      "width": 960,
+      "height": 256,
+      "bytes": 18651,
+      "sha256": "9cb8941a96b4520c9e5c36cbccd68d37f5dd64a1022147e1edf1a7bcb159c11b"
+    }
+  ],
+  "dropped": 7
+}
