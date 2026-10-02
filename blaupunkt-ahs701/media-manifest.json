@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T13:00:30.151733Z",
+  "sourcePage": "blaupunkt.com/cpl/produkt/ahs701/ — karta producenta, dump 2.10.2026 (tylko pliki z AHS701 w nazwie; AHS701.png 300x270 pominięte jako miniatura; download4 pominięte jako prawie duplikat AHS701_body)",
+  "slug": "blaupunkt-ahs701",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-blaupunkt.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHS-701.jpg",
+      "width": 2048,
+      "height": 1362,
+      "bytes": 47602,
+      "sha256": "578325c4c51eaa159552c87542a7c665f0290855d967816151137d9eb4f08192"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHS701.jpg",
+      "width": 1500,
+      "height": 1000,
+      "bytes": 33354,
+      "sha256": "23e2648296a50209c3f3a1170449eed16f7d0c61260f9ff7428559539cdab469"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHS701_download5_Zdjecie_produktu.jpg",
+      "width": 2048,
+      "height": 1365,
+      "bytes": 120190,
+      "sha256": "09bafc714782de78eaedd3054ff8b9a8ad7ec7f1242dc74ee6a907d8493793cd"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHS701_download6_Zdjecie_produktu.jpg",
+      "width": 2048,
+      "height": 1365,
+      "bytes": 135733,
+      "sha256": "11bc9e1fdc45f9298db42c006e3f4d806d6163f77926197eb93f2c2ceabf5137"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHS701_body.jpg",
+      "width": 2048,
+      "height": 1365,
+      "bytes": 173835,
+      "sha256": "7d92b9816560b1081ea8d66927896f5eecdb89b6466ccb23459ed7b63f1bb2a0"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHS701_download7_Zdjecie_produktu.jpg",
+      "width": 2048,
+      "height": 1365,
+      "bytes": 189430,
+      "sha256": "a9a1311f25292b71e53b51773c88f300d229c9a9e3aeddb234f1f2c0de79752a"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHS701_7.jpg",
+      "width": 1227,
+      "height": 818,
+      "bytes": 46915,
+      "sha256": "c63b9e09973224bdb90fd0174fa12ad2b5bc9152b3831b5f9f419706cc60e925"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHS701_6.jpg",
+      "width": 1202,
+      "height": 801,
+      "bytes": 45559,
+      "sha256": "8ab732b39c7201b0ea58e19c138bd26b03b4f8303046f06ba5c34fb75b413e29"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHS701_8.jpg",
+      "width": 1147,
+      "height": 764,
+      "bytes": 113689,
+      "sha256": "f255319cd69e03b5af1fd90d1b7072bc98ae63f1dc094f026d8282b45ba10137"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHS701_9.jpg",
+      "width": 785,
+      "height": 1178,
+      "bytes": 82033,
+      "sha256": "afd2edc2fb1a945d0a22791b8c194962d2aba1dab53d08728dbb94240f77d34f"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHS701_5.jpg",
+      "width": 818,
+      "height": 1227,
+      "bytes": 35001,
+      "sha256": "91d9367ed4ed830a2b1f5ea1705c23fe971fd6ef274c541ab23223e3d758ee18"
+    },
+    {
+      "file": "logo-blaupunkt.jpg",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "repo mediów _logo/logo-blaupunkt.jpg (wordmark z blaupunkt.com)",
+      "width": 1400,
+      "height": 356,
+      "bytes": 34673,
+      "sha256": "5f39564b93a7db918d42f40a6cd14411b83c01e44530156a695bf686d418c932"
+    }
+  ]
+}
