@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T13:00:10.570763Z",
+  "sourcePage": "https://blaupunkt.com/cpl/produkt/ahe601/",
+  "slug": "blaupunkt-ahe601",
+  "dropped": 3,
+  "note": "Odrzucone z karty: AHE601.png (300x270, za male), AHE601_body.jpg i AHE601_body2.jpg (duplikaty pikselowe download9 i download6). PNG z przezroczystoscia splaszczone na biale tlo i zapisane jako JPG; download5 zmniejszone do 2048 px. Wszystkie zdjecia z karty producenta blaupunkt.com, kazde z logo Blaupunkt i bryla AHE601 (bialy).",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHE601_download3_Zdjecie_produktu.png",
+      "width": 1357,
+      "height": 2048,
+      "bytes": 339973,
+      "sha256": "d209fc30c6208fceaf556fb127f5080a180856021035d2ee14229aab1ec8ee15"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHE601.jpg",
+      "width": 1500,
+      "height": 1000,
+      "bytes": 34284,
+      "sha256": "d7716aa74572e5c30cdd0764aa01acebdf16fb280685035650ac216e118bd455"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHE601_download7_Zdjecie_produktu.png",
+      "width": 2048,
+      "height": 2048,
+      "bytes": 413162,
+      "sha256": "fab102e6adbc3ff4f7500bbf053384a9119386867d06ff3f205d1e92bced020f"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHE601_download5_Zdjecie_produktu.png",
+      "width": 1505,
+      "height": 2048,
+      "bytes": 159805,
+      "sha256": "8953b7ad4cb771801df05f31b61e52a5ac81b9458f42c0ed3f85ce1027b25d21"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "infographic",
+      "order": 5,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHE601_download10_Zdjecie_produktu.jpg",
+      "width": 1080,
+      "height": 1987,
+      "bytes": 172387,
+      "sha256": "8a60c632780f1a1f9b195f6d9c688ac73ba881369c8ae6b65ca4f6981b7e1d13"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "detail",
+      "order": 6,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHE601_download4_Zdjecie_produktu.png",
+      "width": 929,
+      "height": 1141,
+      "bytes": 260057,
+      "sha256": "eadfc09e4f261d9711883cf5d0652a6f99acbff0d94bedf53a52e40d77a49b65"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHE601_download9_Zdjecie_produktu.jpg",
+      "width": 2048,
+      "height": 1706,
+      "bytes": 239451,
+      "sha256": "02a1f6f52c10d9e5a59a6df76c25cfe865f4cba8d88cbf47b5a8ce3390223e21"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHE601_download6_Zdjecie_produktu.jpg",
+      "width": 2048,
+      "height": 1720,
+      "bytes": 191893,
+      "sha256": "8e56f170e55ee40a9fe6c341ab9ea162ac8dd2bf98928fa70758914b3fa3cb95"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://www.blaupunkt.com/content/uploads/2026/06/AHE601_download8_Zdjecie_produktu.jpg",
+      "width": 2048,
+      "height": 1091,
+      "bytes": 170799,
+      "sha256": "f108218091bb9fac84cabcdf6aeeed597f17807cf9962be2ed9680aad61a366b"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-blaupunkt.jpg",
+      "width": 1400,
+      "height": 356,
+      "bytes": 34673,
+      "sha256": "5f39564b93a7db918d42f40a6cd14411b83c01e44530156a695bf686d418c932",
+      "note": "kopia wspolnego logo marki z _logo/ (wordmark z Wikimedia Commons File:Blaupunkt-brand.svg, zlozony na bialym tle)"
+    }
+  ]
+}
