@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T12:58:29.926Z",
+  "sourcePage": "https://webber.com.pl/uzdatniacz-nawilzacz-powietrza-ewaporacyjny-webber-hh1002,id117.html",
+  "slug": "webber-hh1002-bialy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://webber.com.pl/img/products/11/7/2_max.jpg",
+      "width": 1200,
+      "bytes": 108626,
+      "sha256": "c7d2133f995a7450302e335973e76d589875db0e7eb6180cf6fc9ee7d9ab6a76"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://webber.com.pl/img/products/11/7/3_max.jpg",
+      "width": 2000,
+      "bytes": 383427,
+      "sha256": "24df6dbd5c6c2827cf32322a30eedd777d6863e505ce8b25d2483932eebcd548"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://webber.com.pl/img/products/11/7/1_max.jpg",
+      "width": 1200,
+      "bytes": 114064,
+      "sha256": "5dfcd345eedb72c707c540c32a5f3e5d49886c3fae4373ef1d49e35d70c12037"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://webber.com.pl/img/products/11/7/4_max.jpg",
+      "width": 1200,
+      "bytes": 137211,
+      "sha256": "39ee4038d3c34c9f1d99d78a2635c02f9357bdfb7319d3ad9583e2d8e5c798e3"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/HH1002/2.jpg",
+      "width": 2203,
+      "bytes": 346737,
+      "sha256": "c6c79fb358f553ef5fc1b14f952b3b41b36d307e6f7ba5401c7d8c15676906ed"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/HH1002/12.jpg",
+      "width": 2203,
+      "bytes": 567899,
+      "sha256": "18e89460f44f35d44ce9d58d6ebe59a4cd3400d15299c9e1fa0c0ac140c48a86"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/HH1002/10.jpg",
+      "width": 2203,
+      "bytes": 159696,
+      "sha256": "157eb430e338024e4fed9179bb693d74987d6ee130da15d991ef9703a898d855"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/HH1002/11.jpg",
+      "width": 2203,
+      "bytes": 268558,
+      "sha256": "ee4f06a9cba12075a714f2f9363ab29bf89d70c0d57adf2d2b0f8278995bacfc"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/HH1002/9.jpg",
+      "width": 2203,
+      "bytes": 315236,
+      "sha256": "b1966b3291523b6ca722a564d62bf3f21ef297f03f0c99f560f2970699f188aa"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/HH1002/3.jpg",
+      "width": 2203,
+      "bytes": 795684,
+      "sha256": "5a5af789ab27bcc70cbadaee4a86749c1174daea6819162be747a6ab89704597"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "dropshipping/materiały/logo/WEBBER LOGO.jpg",
+      "width": 396,
+      "height": 99,
+      "bytes": 13037,
+      "sha256": "be47468cb8f048a18e769a4ce68b1eee9adb2745ce8e50fdc577a4a542b2676c"
+    }
+  ],
+  "dropped": 0
+}
