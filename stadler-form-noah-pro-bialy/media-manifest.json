@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T12:11:56.093Z",
+  "sourcePage": "https://www.stadlerform.com/en/humidifier/noah-pro-white-n-007",
+  "slug": "stadler-form-noah-pro-bialy",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "produkt-08.png",
+    "produkt-09.png",
+    "produkt-10.png",
+    "opis-01.png",
+    "opis-02.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/ee/29/b0/1759839043/stadler-form-noah-pro-humidifier-white-iso_new.png",
+      "width": 2000,
+      "bytes": 1317634,
+      "sha256": "68c6fef4ddeee0f8604264d66a58a44df5f081d694c1958296eb82deaf48b786"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/47/63/77/1745838015/stadler-form-noah-pro-humidifier-white-front.png",
+      "width": 2000,
+      "bytes": 2020601,
+      "sha256": "d6d0fd686539d119a0992b5df7da9b352e0bbf99dd79d52bf8d7e2b6ee9cc9d8"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/62/3f/27/1745838015/stadler-form-noah-pro-humidifier-white-side.png",
+      "width": 2000,
+      "bytes": 1196841,
+      "sha256": "1ec96f1042e30809f40e1622f4d623c7aecdf4e7e5564d31d37339566a179a5d"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/15/02/eb/1759835847/stadler-from-noah-pro-humidifier-top.png",
+      "width": 2000,
+      "bytes": 2394433,
+      "sha256": "48eb8f0c92a0a725a6097154aa39af7bb8a8ec2b844b1739aa37fab019760ee0"
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.stadlerform.com/media/d7/61/49/1758010138/stadler-form-noah-pro-humidifier-touchpanel.png",
+      "width": 1120,
+      "bytes": 541871,
+      "sha256": "6338cb16d83a8f558fd87634b5ced923438b22c42c19da1ca7c6c1641102678e"
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.stadlerform.com/media/65/ba/89/1757925414/stadler-form-noah-pro-humidifier-fragrance-container.png",
+      "width": 1120,
+      "bytes": 859118,
+      "sha256": "7f1b1fafa4a8f827947c796bfcf897a846f420abd4d50e3f0f6983eb2108e327"
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.stadlerform.com/media/45/43/f0/1757926691/stadler-form-noah-pro-humidifier-wifi.png",
+      "width": 1120,
+      "bytes": 990837,
+      "sha256": "d5896b5f8e285df61728f27fcfae4765dc39c38cde6fc3c700f523284063810f"
+    },
+    {
+      "file": "produkt-08.png",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.stadlerform.com/media/13/85/00/1757925414/stadler-form-noah-pro-humidifier-water-refill.png",
+      "width": 1120,
+      "bytes": 875199,
+      "sha256": "c1c6693d517fc688e4ef24993f5d534af8fab00f3d39862e9b5d4e82fca3190d"
+    },
+    {
+      "file": "produkt-09.png",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.stadlerform.com/media/ff/e3/0d/1759756783/stadler-form-noah-pro-humidification.png",
+      "width": 1120,
+      "bytes": 1187439,
+      "sha256": "e7ffd21971a4fedc1383ff3fd904afce22fa0a965ecb74cc4c2d8225e26d5cde"
+    },
+    {
+      "file": "produkt-10.png",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.stadlerform.com/media/e6/4a/36/1759754787/stadler-form-noah-pro-humidifier-scope-of-delivery.png",
+      "width": 1120,
+      "bytes": 464767,
+      "sha256": "b1a1215be97c0ee721b0fe083e47c6db0de819b1934f8afbda64735874723829"
+    },
+    {
+      "file": "opis-01.png",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/d6/c9/35/1759835985/stadler-form-noah-pro-humidifier-white-lifestyle1.png",
+      "width": 2000,
+      "bytes": 3632045,
+      "sha256": "c149cdf7d1dced32ab14afedb9437fc6d65f351bde71ff2fe621514df84a5c71"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/d5/f4/a8/1752049813/stadler-form-noah-pro-humidifier-white-lifestyle2.jpg",
+      "width": 2000,
+      "bytes": 1909967,
+      "sha256": "d49e07a509396f309b0612707ecb22ce6d482b80f40b7ad5c5f6d52c2db9acc9"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 13,
+      "sourceUrl": "repo: _logo/logo-stadler-form.jpg",
+      "width": 539,
+      "bytes": 9698,
+      "sha256": "6e7621ecb8647ffa150e86453afe5f04d0b8e7f84025d7bc380d931d3996cc53"
+    }
+  ],
+  "dropped": 0
+}
