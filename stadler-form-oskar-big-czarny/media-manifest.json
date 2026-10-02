@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T12:12:03.960Z",
+  "sourcePage": "https://www.stadlerform.com/en/humidifier/oskar-big-black-o-041",
+  "slug": "stadler-form-oskar-big-czarny",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/37/26/ab/1667221019/stadler-form-oskar-big-humidifier-black-iso.png",
+      "width": 2000,
+      "bytes": 2222404,
+      "sha256": "3671c1f532375ada8bf8d5bc8e795892574e49e15255276855ad02372cf5544f"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/8f/18/70/1634883306/stadler-form-oskar-big-humidifier-black-side.png",
+      "width": 2000,
+      "bytes": 1211581,
+      "sha256": "c0ed33ef209253fa9656fdb3927eb8b5f8b993f72798c5453410749555c50745"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/d0/0d/c7/1702546443/stadler-form-oskar-big-black-top-view.png",
+      "width": 1120,
+      "bytes": 565506,
+      "sha256": "8ea7adf9c3256b1953a598660876a685eaa45b4d8a3ac350618a91200a33322e"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/17/00/b3/1702546548/stadler-form-oskar-big-water-level.png",
+      "width": 1120,
+      "bytes": 361221,
+      "sha256": "63ab4997fa2a53c395132ece84897934730f841c6fc83f6943949495b65e10d0"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/34/5f/cd/1634883307/stadler-form-oskar-big-humidifier-black-lifestyle1.jpg",
+      "width": 2000,
+      "bytes": 2356126,
+      "sha256": "01510bb781e18ed53f36c3c0b9920e90986b7d69d4cef18803df549c3a41c47d"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/fb/13/be/1634883309/stadler-form-oskar-big-humidifier-black-lifestyle2.jpg",
+      "width": 2000,
+      "bytes": 2458077,
+      "sha256": "4d7c12145c244e71b022c8545862b251f9cac4dc7d579014019db231652623aa"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-stadler-form.jpg",
+      "bytes": 9698,
+      "sha256": "6e7621ecb8647ffa150e86453afe5f04d0b8e7f84025d7bc380d931d3996cc53",
+      "note": "kopia wspolnego logo marki z _logo/ (via stadler-form-roger-2-oskar-czarny-zestaw) - publish_erli.js skleja imageBase+nazwa",
+      "width": 539
+    }
+  ],
+  "dropped": 0
+}
