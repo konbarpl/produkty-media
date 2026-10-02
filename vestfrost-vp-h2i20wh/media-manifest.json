@@ -93,7 +93,9 @@
       "order": 9,
       "sourceUrl": "repo produkty-media: vestfrost-vpb1h50gp/logo-producenta.jpg (kopia 1:1)",
       "bytes": 16809,
-      "sha256": "a0f50aa05893b684a29e72d7eb1ec5bf32556e9e5f42a6717aa654bb0ff66297"
+      "sha256": "a0f50aa05893b684a29e72d7eb1ec5bf32556e9e5f42a6717aa654bb0ff66297",
+      "width": 616,
+      "height": 200
     }
   ],
   "dropped": 0
