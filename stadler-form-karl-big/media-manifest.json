@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T12:13:38.483Z",
+  "sourcePage": "https://www.stadlerform.com/en/humidifier/karl-big-black-k-006",
+  "slug": "stadler-form-karl-big",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.png",
+    "opis-04.png",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/77/c9/f6/1662711302/stadler-form-karl-big-humidifier-black-iso.png",
+      "width": 2000,
+      "bytes": 2989461,
+      "sha256": "26cc295301dcc9ceb4b149b6cb5d5f8ea16c56f5297edf55c58a7d6f2e0a8ad7"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/1d/97/77/1662711303/stadler-form-karl-big-humidifier-black-front.png",
+      "width": 2000,
+      "bytes": 2494878,
+      "sha256": "46700fc1558b54dc9ac89d9b3af68d19b8f8bf3d33e39d25b69281593cb59d46"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/e6/d1/bf/1662711301/stadler-form-karl-big-humidifier-black-side.png",
+      "width": 2000,
+      "bytes": 1773858,
+      "sha256": "6ed3711b4e21dca4f91a4ac42d1f320b3bb8338ee324ff1f25e802d27f149aac"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/ef/6f/65/1761813186/stadler-form-karl-big-humidifier-scope-of-delivery.png",
+      "width": 1120,
+      "bytes": 523134,
+      "sha256": "c400230310d02b3ff1f38f439e75a7c067c9119c181d79a18bf4ed34858e7d44"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/dd/2c/33/1662711301/stadler-form-karl-big-humidifier-lifestyle1.jpg",
+      "width": 2000,
+      "bytes": 354726,
+      "sha256": "449d6602721ebd34f6423f51fb5975b398954fb17b104a07d0d772a987624147"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/41/00/62/1662711301/stadler-form-karl-big-humidifier-lifestyle2.jpg",
+      "width": 2000,
+      "bytes": 297988,
+      "sha256": "12a8c1bc36c33baafa5dbcefbb7a19a865c25b97304d60406ca24ae7fb8a846f"
+    },
+    {
+      "file": "opis-03.png",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/d1/41/3f/1697016111/SF+_Karl-big-App.png",
+      "width": 1120,
+      "bytes": 630943,
+      "sha256": "7408bcef2e5971dee141fef91e037f0c49367289189fd8470f1c3a10677887e9"
+    },
+    {
+      "file": "opis-04.png",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/70/7c/11/1697016309/SF+_Karl-big_Bedienung.png",
+      "width": 1120,
+      "bytes": 214345,
+      "sha256": "f185c1df677086de2be53e108d4947a8e2904edc2d87ff759fe3ca4c626f3369"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-stadler-form.jpg",
+      "bytes": 9698,
+      "sha256": "6e7621ecb8647ffa150e86453afe5f04d0b8e7f84025d7bc380d931d3996cc53",
+      "note": "kopia wspolnego logo marki z _logo/ - publish_erli.js skleja imageBase+nazwa",
+      "width": 539
+    }
+  ],
+  "dropped": 0
+}
