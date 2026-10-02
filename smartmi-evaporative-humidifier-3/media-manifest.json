@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T13:32:33.722027Z",
+  "sourcePage": "https://eu.smartmiglobal.com/pages/smartmi-evaporative-humidifier-3",
+  "slug": "smartmi-evaporative-humidifier-3",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/02_453fcb80-586e-4dcc-9c0a-84b349e0882c.png",
+      "width": 2000,
+      "height": 1667,
+      "bytes": 299729,
+      "sha256": "7057d0ee182ca67aa4d3180976f2be36df8d2d6c14bb87e00c12922c0facdca9"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/03_6f463bf2-ec7f-47c1-9aaf-c9f33b7af363.png",
+      "width": 2000,
+      "height": 1667,
+      "bytes": 435047,
+      "sha256": "3fa325c14c5d5b599ddc15039e0995038a504bb95781522dead694ae424c2a63"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/04_49bde003-0e04-4765-bf7e-055d4c161788.png",
+      "width": 2000,
+      "height": 1667,
+      "bytes": 196667,
+      "sha256": "80fed290fbe5f993c86925d36f4d18870bd1d2a8ca8df72145dd00465bd09f3c"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/07_dea0bab9-666c-49b7-a3d1-d197792108c4.png",
+      "width": 2000,
+      "height": 1667,
+      "bytes": 177737,
+      "sha256": "40bc2991fe3fe260c2a7706018656103770e7075b09e6daf492246cadc973494"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/09_d40dc61e-eb8a-4706-9517-a5a104f45f0c.png",
+      "width": 2000,
+      "height": 1667,
+      "bytes": 261854,
+      "sha256": "f4be70f747982ad953f7550b00295e05bff5e76e2d6495367afd7b083c477e12"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/05_076d4167-7bdd-4b14-9a77-3ba1190ede94.png",
+      "width": 2000,
+      "height": 1667,
+      "bytes": 292833,
+      "sha256": "0cb5e217fa3b53f4dcb47468e43cca7db35188c3fdca9bd16268a293dc593730"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "order": 7,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/01_3025a890-c26b-44fb-bfbc-0f6ce7a9cc0b.png",
+      "width": 2000,
+      "height": 1667,
+      "bytes": 531716,
+      "sha256": "8fd773039654eaf5afafa9d2e73c9b687211e1be705819fb77342e2babe783f2"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "order": 8,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/Natural_Moisture_Diffusion_Nice_for_Sensitive_Groups.png",
+      "width": 2000,
+      "height": 990,
+      "bytes": 322623,
+      "sha256": "d376f5590e4849374c4cfd18353ba3575436527be64677c7f8824caf9b747ac9"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "order": 9,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/08_1ee58d9e-2e93-4887-8e83-1c1b1a36633d.png",
+      "width": 2000,
+      "height": 1667,
+      "bytes": 506760,
+      "sha256": "548b4c4cea2529515ae1ab82d6ddc71637601c537f3da2adcb55e96cb989adbd"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "description",
+      "order": 10,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/587fcb205744192ae53c5f89a016334f_a93a3fe6-0816-4d79-8bcf-73300943f784.png",
+      "width": 2000,
+      "height": 1429,
+      "bytes": 371030,
+      "sha256": "67b50be093be74ba7c9566ff1ad9b3353e1ea4806d1b69d01adc870feaf900f5"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "description",
+      "order": 11,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/359ML.png",
+      "width": 2000,
+      "height": 964,
+      "bytes": 201542,
+      "sha256": "bce5de25a91613dd4245ac0836e6b947a6d4a11756a6c7d66f8293e63d2ae25f"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "description",
+      "order": 12,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/01_e00a9442-0caf-451a-828d-9bc3bfcb4d5b.png",
+      "width": 2000,
+      "height": 729,
+      "bytes": 57394,
+      "sha256": "f76fad7b35075892b7da0e605baf133e96b4dc3ef935036eed7b7a68367f1a1e"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 13,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/Smartmi_logo_1_313158d8-2e9c-46f6-84f6-3a1913140dc1.webp (złożone na białym 800x300; kopia: produkty-media/_logo/logo-smartmi.jpg)",
+      "width": 800,
+      "height": 300,
+      "bytes": 15317,
+      "sha256": "a3dd099b077ca28c3ac3a2dff2a6b96aabfcc8f3a690d58cbaae4582a0218864"
+    }
+  ],
+  "note": "Zdjęcia z karty producenta Smartmi EU (strona modelu Evaporative Humidifier 3). Pominięte: wersje mobilne tych samych kadrów (duplikaty), kadry z logotypami nagród iF/red dot, kadr nocny z niebieskawym oświetleniem (niepewny kolor), ikony funkcji aplikacji."
+}
