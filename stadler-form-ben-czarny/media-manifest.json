@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T12:11:49.550Z",
+  "sourcePage": "https://www.stadlerform.com/en/humidifier/ben-black-b-002",
+  "slug": "stadler-form-ben-czarny",
+  "galleryOrder": [
+    "produkt-01.png",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "opis-01.jpg",
+    "opis-02.png",
+    "opis-03.png",
+    "opis-04.png",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.png",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/27/f7/d8/1669192858/stadler-form-ben-humidifier-black-iso.png",
+      "width": 2000,
+      "bytes": 1576429,
+      "sha256": "2e3bc0fd04afe8306c235969890dc5912e7755ae8d60881d20af7c0b5a31040e"
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/14/4c/b2/1634815864/stadler-form-ben-humidifier-black-front.png",
+      "width": 2000,
+      "bytes": 1549512,
+      "sha256": "d73dea3c5fcb9eafbb4ab25de3da30ef4fc15f1b27419248644c23e53d0a9459"
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/56/32/31/1634815863/stadler-form-ben-humidifier-black-side.png",
+      "width": 2000,
+      "bytes": 1199606,
+      "sha256": "875f635d4f64da54867e8dacac24c6bd89815ea4aa46617ea4f052a281027d82"
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/73/ea/f6/1773324231/stadler-form-ben-humidifier-scope-of-delivery.png",
+      "width": 1120,
+      "bytes": 187232,
+      "sha256": "b07f68fa86adbb36797b0c915514c1c479f0211d05d5a7dffd433f6baa88bf5d"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.stadlerform.com/media/7f/5e/c1/1634815863/stadler-form-ben-humidifier-black-lifestyle1.jpg",
+      "width": 2000,
+      "bytes": 206377,
+      "sha256": "0db58064f00c51f219e953f241ffdf75d8c82c3b15b035e2389c785ed7393973"
+    },
+    {
+      "file": "opis-02.png",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.stadlerform.com/media/71/04/9f/1702393725/stadler-form-ben-humidifer-lifestyle.png",
+      "width": 1120,
+      "bytes": 1033925,
+      "sha256": "87df84681f87d39a7480d5f4e577243135a4e3e125bbd23c2345367bc4ee72c7"
+    },
+    {
+      "file": "opis-03.png",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.stadlerform.com/media/f5/4d/db/1702391748/stadler-form-ben-humidifier-adjustable.png",
+      "width": 1120,
+      "bytes": 740917,
+      "sha256": "76db023b3430a1c0c00c29a08726ccf40555a493e7bef115775b2b0e30780090"
+    },
+    {
+      "file": "opis-04.png",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.stadlerform.com/media/e6/25/85/1702391625/stadler-form-ben-humidifier-buttons.png",
+      "width": 1120,
+      "bytes": 717398,
+      "sha256": "0c307f9baadd7a6d51cae8eefbaeb44ed899b3a2ec8a4f6c50a4f5d1310f2ad2"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-stadler-form.jpg",
+      "bytes": 9698,
+      "sha256": "6e7621ecb8647ffa150e86453afe5f04d0b8e7f84025d7bc380d931d3996cc53",
+      "note": "kopia wspolnego logo marki z _logo/ - publish_erli.js skleja imageBase+nazwa",
+      "width": 539
+    }
+  ],
+  "dropped": 0
+}
