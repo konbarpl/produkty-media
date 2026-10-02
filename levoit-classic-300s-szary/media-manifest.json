@@ -1,0 +1,219 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-02T13:29:00.479919Z",
+ "sourcePage": "https://levoit.pl/produkt/nawilzacz-powietrza-levoit-classic-300s/",
+ "slug": "levoit-classic-300s-szary",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "opis-08.jpg",
+  "opis-09.jpg",
+  "opis-10.jpg",
+  "opis-11.jpg",
+  "opis-12.jpg",
+  "opis-13.jpg",
+  "logo-producenta.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_OA1_Classic300S_02-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 384860,
+   "sha256": "25f61b4a2e5c56f2497087cad6599bb3451f954bb6011353de75e1236c582a22"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic300s-main-02.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 466347,
+   "sha256": "e993c0a3f8aee3ae8ed99cd14596bd4a01d52dd7891b73225cdad93df0d02e44"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic300s-main-01.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 426005,
+   "sha256": "eafb25a9384b477b87c5e44db0e021ea4d818dd49ca04e01d008d0e0e8ad2180"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-wizualizacja-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 554081,
+   "sha256": "964f555daac956fdab55d86ef48e0470f20e94744859b91e32d5188eb66c0304"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/91R9MWk71YL._AC_SL1500_.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 296865,
+   "sha256": "1b5a52d644820750396357f2d2acbbbfcf87ba642bb7c92a5866d0015ebb2dd9"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 6,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-napelnianie-od-gory-top-fill.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 1232405,
+   "sha256": "27463386fd702c7c64844a1b90ddea3ca580aad01b98e1864076c98325ad85ce"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 7,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-6l-do-60-godzin-ciaglej-pracy-wydajnyl.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 1141726,
+   "sha256": "4f0eaadfc202da45d5ff5a7c147a6b35015f70c2f09bd3bd9ea91186f6bd04cd"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "description",
+   "order": 8,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-przyjazndy-dla-snu-oswietlenie-nocne.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 1016925,
+   "sha256": "1f0a6574db1e5fa50df4fe1932f11cabbb64cf5414da5dfb830bb0bac3727b16"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "description",
+   "order": 9,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-od-gory-6l-nocne-podswietlenie-inteligentne-sterowanie-30db-olejki-eteryczne.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 462292,
+   "sha256": "ed26a3b3fa96c979bdbae75c34a33eb239f0e028c7cab0ab9bf65d3d78563e8c"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "description",
+   "order": 10,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-podwojny-zawor.jpg",
+   "width": 1845,
+   "height": 1176,
+   "bytes": 605359,
+   "sha256": "eab9947d6f1141a1c0982d44a085343adea264846c195fcf75a2af2a890593e8"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "description",
+   "order": 11,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-tryb-auto-inteligentne-sterowanie-60-godzin-pracy.jpg",
+   "width": 1500,
+   "height": 1412,
+   "bytes": 696343,
+   "sha256": "77d64420bce1d48bc856c0b117f9fb269a812754dbb57a0e5f6932b45819a7c8"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "description",
+   "order": 12,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-optymalny-poziom-wilgotnosci.jpg",
+   "width": 1500,
+   "height": 1493,
+   "bytes": 635541,
+   "sha256": "d43ed174c28960fb92500dfa1d6a2e078cc9abbf3ae237677050ba25977cae02"
+  },
+  {
+   "file": "opis-08.jpg",
+   "kind": "description",
+   "order": 13,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-szybszy-tryb-nocny-tryb-automatyczny.jpg",
+   "width": 1500,
+   "height": 1541,
+   "bytes": 578762,
+   "sha256": "00578afa1fffdcf9b652b59dbc3edff9cc941ae53cb4eaccbc54ddac4467c7f5"
+  },
+  {
+   "file": "opis-09.jpg",
+   "kind": "description",
+   "order": 14,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-olejki-eteryczne-aromaterapia.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 1260129,
+   "sha256": "6e1aab1cf18d5857bd2b8b18b97ea6db592e7f3c8220324491fb2cb9f17e3e35"
+  },
+  {
+   "file": "opis-10.jpg",
+   "kind": "description",
+   "order": 15,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-rosliny-tego-potrzebuja-skanowanie-i-identyfikacja-roslin-poradnik-upraw.jpg",
+   "width": 1500,
+   "height": 1412,
+   "bytes": 649427,
+   "sha256": "ded87f014936562e80be74e282d3f842cb310f5ed811e25cdda5c18d1a6f079f"
+  },
+  {
+   "file": "opis-11.jpg",
+   "kind": "description",
+   "order": 16,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-bezpieczenstwo-i-komfort-bpa-free.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 1265234,
+   "sha256": "09c20b5dfdea688ca45d04f8dbbae2a259110f43933cef4f0d56ee7564428316"
+  },
+  {
+   "file": "opis-12.jpg",
+   "kind": "description",
+   "order": 17,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-sterowanie-glosem-amazon-alexa-google-asystent.jpg",
+   "width": 1600,
+   "height": 1600,
+   "bytes": 1123450,
+   "sha256": "0d6f17d463d383661ab4386a036d988021b45f25fcff22bc161f11f0ccfe72db"
+  },
+  {
+   "file": "opis-13.jpg",
+   "kind": "description",
+   "order": 18,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/classic-300s-inteligentny-i-prosty.jpg",
+   "width": 1719,
+   "height": 603,
+   "bytes": 380988,
+   "sha256": "17cbdb13290db6fa3e959c42ec0dcfd8a93495289ece16947d5a461fbb6617b1"
+  },
+  {
+   "file": "logo-producenta.jpg",
+   "kind": "logo",
+   "order": 19,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/levoit-official-logo.svg (render PNG->JPG na bialym tle)",
+   "width": 1100,
+   "height": 489,
+   "bytes": 31791,
+   "sha256": "d17323eb004618e8cc2983df199a2734715df9b11e84a771a07bd5e3da53373c"
+  }
+ ]
+}
