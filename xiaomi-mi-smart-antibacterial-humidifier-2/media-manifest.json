@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T12:31:55.909Z",
+  "sourcePage": "https://mi-store.pl/product-pol-2220-Ultradzwiekowy-Nawilzacz-Powietrza-Mi-Smart-Antibacterial-Humidifier-2.html",
+  "slug": "xiaomi-mi-smart-antibacterial-humidifier-2",
+  "galleryOrder": [
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-01.webp",
+    "opis-01.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-10.jpg",
+    "opis-11.jpg",
+    "opis-12.jpg",
+    "opis-13.jpg",
+    "opis-02.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/c1cc68734e39b1da5ebd01e01d625652/pol_pl_Ultradzwiekowy-Nawilzacz-Powietrza-Mi-Smart-Antibacterial-Humidifier-2-2220_1.webp",
+      "width": 600,
+      "bytes": 17904,
+      "sha256": "28b6107fd07f7fb1a8017cfdcde74d581daae9259a746f1bd66d4a428ca66980"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/9c26f34911c15084ba86e90cd1368480/pol_pl_Ultradzwiekowy-Nawilzacz-Powietrza-Mi-Smart-Antibacterial-Humidifier-2-2220_2.webp",
+      "width": 600,
+      "bytes": 4992,
+      "sha256": "217525908965afaa8ae9539991f2262d6a245e28990161d6b6c91e14dea01796"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/c82d7d6d25a59c929e445db917f1e4b8/pol_pl_Ultradzwiekowy-Nawilzacz-Powietrza-Mi-Smart-Antibacterial-Humidifier-2-2220_3.webp",
+      "width": 600,
+      "bytes": 20528,
+      "sha256": "0e911bf635575aceef239049a0496021806c612207cc25ceb61ca0e04775f4d7"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2220-humidifier-2/1.jpg",
+      "width": 1080,
+      "bytes": 56746,
+      "sha256": "7bf3193e53b55f4f7c8786c01842553c4f810b78bbd620f1d5b5443d2c91736c"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2220-humidifier-2/2.jpg",
+      "width": 1080,
+      "bytes": 90254,
+      "sha256": "789019e4abb97480589cb145bfc73da6fcf49663793b52069fc2abb886aff291"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2220-humidifier-2/3.jpg",
+      "width": 1080,
+      "bytes": 101373,
+      "sha256": "d51aaeaf8345668f816d1f5203c241f7782745b17e35101fa45440a480f2f62e"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2220-humidifier-2/4.jpg",
+      "width": 1080,
+      "bytes": 50432,
+      "sha256": "a6cf647479bcdc6267a3aa9f2998f7cb8d7c072682b6d0c9312c5e5c8196a0a9"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2220-humidifier-2/5.jpg",
+      "width": 1080,
+      "bytes": 48607,
+      "sha256": "44e0b1e0d2de909f08176dca4084d9a306357c90a5f6a02cc14b6ac5e4215343"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2220-humidifier-2/6.jpg",
+      "width": 1080,
+      "bytes": 60932,
+      "sha256": "6a6315d33e46c3f7bdf2ffddca5f958b8ffb4463846f45acbab5e22bef65c52d"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2220-humidifier-2/7.jpg",
+      "width": 1080,
+      "bytes": 152999,
+      "sha256": "2b491f9f75de8aa4be6b5fbc357d06464d95463cab3c1d78fa5e73b4d88b74f7"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2220-humidifier-2/8.jpg",
+      "width": 1080,
+      "bytes": 85932,
+      "sha256": "22c50e10d59b979929caea62bb9aa815f3546defc87c0d5b2c76eecdc8a99f54"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2220-humidifier-2/9.jpg",
+      "width": 1080,
+      "bytes": 66005,
+      "sha256": "d38a353acc786a5013c7f9f1955135f1b88d11d344bf5feb401e1177b3e8f2ed"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2220-humidifier-2/10.jpg",
+      "width": 1080,
+      "bytes": 37220,
+      "sha256": "560b85168d7d475d1cb2ccb3e23d6e87294a0ca2994ca1472fd859c744e8ba4e"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2220-humidifier-2/11.jpg",
+      "width": 1080,
+      "bytes": 80474,
+      "sha256": "0dbf9bf31f398d1401ffbd5645e5d029490fb4a611135c2416a1d512aee365a0"
+    },
+    {
+      "file": "opis-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2220-humidifier-2/12.jpg",
+      "width": 1080,
+      "bytes": 56784,
+      "sha256": "306e36de525bb4c9f5ef53f53fffb62da8f5ab8d225e59161d7c53ff66f4c873"
+    },
+    {
+      "file": "opis-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://mi-store.pl/data/include/cms/mrozny/productsWebp/2220-humidifier-2/13.jpg",
+      "width": 1080,
+      "bytes": 55102,
+      "sha256": "7005e730a6cfe3b6b9f3c100bb1235bf802e9426c804efdf4bc91cf505d6e7aa"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 17,
+      "sourceUrl": "kopia _logo/logo-xiaomi.png (repo mediow)",
+      "width": 960,
+      "height": 256,
+      "bytes": 18651,
+      "sha256": "9cb8941a96b4520c9e5c36cbccd68d37f5dd64a1022147e1edf1a7bcb159c11b"
+    }
+  ],
+  "dropped": 0,
+  "curationNote": "Kuracja 2026-10-02 (wykonawca G67): czysty packshot frontu (produkt-02) na 1. miejscu; opisowe z folderu CMS mi-store 2220-humidifier-2 (desktop 1080 px, wersje mobile pominiete); kolaz opis-02 na koncu; logo Xiaomi na koncu."
+}
