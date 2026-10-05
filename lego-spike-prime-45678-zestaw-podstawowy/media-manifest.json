@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-05T06:47:23.611733Z",
+  "sourcePage": "folder Konrada: Downloads/Zestaw LEGO Education SPIKE Prime [45678] Alttab.pl (zdjecia samego zestawu podstawowego 45678)",
+  "slug": "lego-spike-prime-45678-zestaw-podstawowy",
+  "note": "Zdjecia od Konrada (nie z karty sklepu). Wykluczone: imgi_61_45678_alt4.webp (duplikat imgi_47 w mniejszej rozdzielczosci), imgi_56_45678_alt13.webp (kadr tego samego zdjecia co imgi_55). Plik .mhtml nieuzywany. Webp 800 px przekonwertowane do jpg (niska rozdzielczosc zrodla). Logo z galerii oferty Erli lego-spike-prime-komplet-a.",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "logo-lego-education.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceFile": "imgi_15_LEGO-Education-SPIKE-Prime-zestaw-podstawowy-45678.jpg",
+      "width": 2400,
+      "height": 1799,
+      "bytes": 510862,
+      "sha256": "5e86c26a51f6839b9271ca05f4e47171d5122db0d2b38a01e8e757c35d9b9b90"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceFile": "imgi_21_LEGO-Education-SPIKE-Prime-zestaw-podstawowy-45678-Stan-opakowania-oryginalne.jpg",
+      "width": 2400,
+      "height": 1800,
+      "bytes": 306127,
+      "sha256": "2fc7dd9a2ee2c5086422f1118443be5640fb88cae67587c979fd27097b0ee48a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceFile": "imgi_52_45678_alt9.webp",
+      "width": 800,
+      "height": 557,
+      "bytes": 47996,
+      "sha256": "fc88e42d98b707a8ac41acb958477575af1802c63253d4023448c2e481775ee4"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceFile": "imgi_54_45678_alt11.webp",
+      "width": 800,
+      "height": 771,
+      "bytes": 128810,
+      "sha256": "7f19fdc1054c6913e805a579bec00b75c05b7214cc02c0f299e97799c42eb611"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceFile": "imgi_44_45678_alt1.webp",
+      "width": 800,
+      "height": 616,
+      "bytes": 48375,
+      "sha256": "07f2a1cacf0d96191d9c3682d2d6ef66b70492316e953ed00c7cd37a47b75893"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceFile": "imgi_53_45678_alt10.webp",
+      "width": 800,
+      "height": 569,
+      "bytes": 41743,
+      "sha256": "9320100da8946bc1752e5a0e2813255c9ca636f751d17d008eb33301f467bf94"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "order": 7,
+      "sourceFile": "imgi_45_45678_alt2.webp",
+      "width": 800,
+      "height": 556,
+      "bytes": 57583,
+      "sha256": "6c487da425622d055b20e5f2dbd3ae1d29a8b76cc9c3704c2245501b54e0da8a"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "order": 8,
+      "sourceFile": "imgi_46_45678_alt3.webp",
+      "width": 800,
+      "height": 685,
+      "bytes": 70806,
+      "sha256": "35bafb7c987b9d012d6398051e338c47e232baed055cbc68a43f25fb415da59b"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "order": 9,
+      "sourceFile": "imgi_47_45678_alt4.webp",
+      "width": 800,
+      "height": 776,
+      "bytes": 69951,
+      "sha256": "0d9b9bd055fb6d08e59d6b6c201c7badeb4b04aeb04f798a2da5eb7e0f98e3c3"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "description",
+      "order": 10,
+      "sourceFile": "imgi_50_45678_alt7.webp",
+      "width": 800,
+      "height": 572,
+      "bytes": 109241,
+      "sha256": "39f1ceb2913080d93b13b4140ea6054bb00ed588ce6c45ff536f603c3af0949c"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "description",
+      "order": 11,
+      "sourceFile": "imgi_51_45678_alt8.webp",
+      "width": 697,
+      "height": 800,
+      "bytes": 96004,
+      "sha256": "76fae0fdfa3be7167d35c2774c76360e4d67a69458c84a5500af9a43ad6bc943"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "description",
+      "order": 12,
+      "sourceFile": "imgi_55_45678_alt12.webp",
+      "width": 800,
+      "height": 600,
+      "bytes": 105521,
+      "sha256": "821a045396c4632977387ea60143699aa60ab4a2f79d2ec7f8451289bedfc5ce"
+    },
+    {
+      "file": "logo-lego-education.jpg",
+      "kind": "logo",
+      "order": 13,
+      "sourceFile": "lego-spike-prime-komplet/logo-lego-education.jpg (ten sam plik co ostatnie zdjecie galerii oferty Erli lego-spike-prime-komplet-a, GET 2026-10-05)",
+      "width": 800,
+      "height": 258,
+      "bytes": 30548,
+      "sha256": "e38892dc2485e4a2950720bc90fd52e8cb6f97803cfe5de60afb32e20f9d45cf"
+    }
+  ]
+}
