@@ -1,0 +1,107 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T10:49:33.547408Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/HX9911_88.assets (PRX API, CTN HX9911/88)",
+ "slug": "philips-sonicare-hx9911-88",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/7def55d803c54cf19dccae68014301b6?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 46736,
+   "sha256": "60335e6bf103fe7185e22923b1df9acb7f48fb2ca1901215cdf5af63e0053002",
+   "type": "RTP",
+   "desc": "Standardowe zdjęcie produktu"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/882c834525924605abe4ae680142ef1f?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 36462,
+   "sha256": "6fa6df6920505c2e21047cc4ff53328ba19ad7e74cf9898ff108c8186957deef",
+   "type": "_FP",
+   "desc": "Zdjęcie prezentujące produkt z przodu"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/f382109ccb0e4b6f9e08adb801509fe4?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 39847,
+   "sha256": "49acb35d83727ed6de4c9b33801b49a34b58860b81223fee81f109c9a8fd0ac2",
+   "type": "DPP",
+   "desc": "Zdjęcie prezentujące szczegóły produktu"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/1af2e424c2a1412f8eaeb2c000f99cc9?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 78816,
+   "sha256": "5c5669834ad509dd440784d15128a465b9a14cbf1f2b8f20f76de707cd37014a",
+   "type": "E2P",
+   "desc": "Zdjęcie prezentujące korzyści emocjonalne"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/649b15c71fb044e9984bb2c000f9a296?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 79358,
+   "sha256": "a596698e21c526edc5c8f107630bfbcd6afc7d6e4063fc978e71d1db053fd9f4",
+   "type": "E3P",
+   "desc": "Zdjęcie prezentujące korzyści emocjonalne"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/5ab35d68cfc444b09cf5b2c000f997a1?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 88824,
+   "sha256": "97ef2c0091b70975748df9e9d45ea428d4177492280bb5abaa133cd595e4f29d",
+   "type": "E1P",
+   "desc": "Zdjęcie prezentujące korzyści emocjonalne"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 7,
+   "sourceUrl": "repo produkty-media/philips-shaver-5000-s5886-38/logo-philips.png (kopia z philips-bri984-00)",
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "rejected": {
+  "7": "IMS = pikselowy duplikat RTP (k08)",
+  "1": "A1P alternatywny produkt: inna koncowka (nie C3) — niezgodna kompletacja",
+  "9": "BRP logo PRX (logo z repo mediow zamiast)",
+  "10": "BRP logo PRX",
+  "11": "FIL Sonicare 5000/7000 Series App — inna seria",
+  "12": "FIL Brush Heads Portfolio — ogolna, koncowka niepotwierdzona jako C3",
+  "13": "FIL Sonicare 5000/7000 Cairo — inna seria",
+  "14": "FIL Brush Heads Portfolio — ogolna, koncowka niepotwierdzona"
+ }
+}
