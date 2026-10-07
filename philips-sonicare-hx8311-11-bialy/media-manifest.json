@@ -17,7 +17,8 @@
     "produkt-11.webp",
     "produkt-12.webp",
     "produkt-13.webp",
-    "produkt-14.webp"
+    "produkt-14.webp",
+    "logo-philips.png"
   ],
   "files": [
     {
@@ -145,6 +146,16 @@
       "width": 1200,
       "bytes": 21430,
       "sha256": "5c9abbf82f5248b71fa7629b0dbc8ae66179e4afadf253f79829e49e7a9b4fc2"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 15,
+      "sourceUrl": "repo produkty-media/logo/philips.png",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "width": 525,
+      "height": 105
     }
   ],
   "dropped": 0
