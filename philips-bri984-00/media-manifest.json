@@ -1,0 +1,165 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T09:56:05.670Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/BRI984_00.assets (PRX API, CTN BRI984/00; typy RTP,A1P,A2P,MI1,U1P,U2P,U3P,U4P,E1P,E2P,E3P,E4P)",
+ "slug": "philips-bri984-00",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-08.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/bf512486a8034545be84b40400b85a66?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 125944,
+   "sha256": "695bce38284d04bd9e66d9451dc6d1c61d8e2924c9f51913d79c76004244d9ee",
+   "height": 1200,
+   "type": "RTP"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/69f4cfe658ca4e4ba6bfb3af00c5361f?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 33327,
+   "sha256": "e3939923fbffbc943021a1c0be83bf80edaf28376d3094047af614c5e7d1bf78",
+   "height": 1200,
+   "type": "A1P"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/e2e9e6ff460d4bf0ae3cb3af00c54a43?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 59929,
+   "sha256": "892e77720078e65a26e41522ef4fedf02db3c2e7e8ef5e0a1f78f42f82a13a7c",
+   "height": 1200,
+   "type": "A2P"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/6d5b8c6f1f2d4c08b1fcb3fa00a4c5a2?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 115703,
+   "sha256": "492ca2354734543c74bde9bc754ab769e5a8bc1e8c90b43bfb837cf32d5d61e1",
+   "height": 1200,
+   "type": "MI1"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/43487d9bfdfc41c6952cb3fa00a4cd5c?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 210563,
+   "sha256": "48346cc7a0ef29afc9475e1d0730404ff353e29f2a2fa4b49d2a44e14b41c6d7",
+   "height": 1200,
+   "type": "U1P"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/656f1d480d874146a217b3fa00a4c7f5?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 64643,
+   "sha256": "12ccb9ebb0fbf3202ddf3bf20f579b2457cd2930ffd00a9a92193e889f08a8e5",
+   "height": 1200,
+   "type": "U2P"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/ffec8b4aaff6418bbe6fb3fa00a4b75d?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 110066,
+   "sha256": "f5cafa6b7e40e84528b3fee05b75d4b3782ea755fbbd503ffaadcb09826178ac",
+   "height": 1200,
+   "type": "U3P"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/fcb14bb34b1644acaeebb402007bc720?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 69769,
+   "sha256": "a5e98b4e198a234e58fabba4937034e11c9f55b1132f90197afb1cb747cdd02b",
+   "height": 1200,
+   "type": "U4P"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/a6f4cf4e4b9a4cbc98f7b3bc00f7aead?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 163790,
+   "sha256": "f87a4a53a1649c5c8dc4d84e45af94297557231a6d0788108ee63b33e8af0f35",
+   "height": 1200,
+   "type": "E1P"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/2cf11d65de5249b3844db3bc00f7a99a?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 108798,
+   "sha256": "678e686f4789122639df8a1af605955d8a5d6dd255203e40e0bfb201526a3cc1",
+   "height": 1200,
+   "type": "E2P"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/a9a6da4acb204010b59cb3bc00f7a34e?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 112419,
+   "sha256": "e924521ecc8c8f525ff010b34ee84ef3656f0eca2db9a58b1c83a3c98cf16ef8",
+   "height": 1200,
+   "type": "E3P"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/93013a2e7be04f99b5bbb3bc00f79f3f?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 116003,
+   "sha256": "329ec1d09c7f5515782056becbdf9c4bbd5c9faca2ffcb8e1deb362ac34ebd99",
+   "height": 1200,
+   "type": "E4P"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 13,
+   "desc": "Logo marki Philips (skopiowane z philips-bri940-00)",
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "dropped": 0,
+ "note": "Zdjecia wylacznie z assets PRX dla CTN BRI984/00 (typy produktowe RTP/A*P/MI1/U*P/E*P); FIL serii pominiete (wspolne dla serii, czesc z modelu 9900). Logo na koncu."
+}
