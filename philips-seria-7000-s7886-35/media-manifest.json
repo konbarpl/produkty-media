@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-07T10:10:48.753Z",
+  "sourcePage": "https://www.philips.pl/c-p/S7886_35/golarka-elektryczna-na-mokro-i-sucho-serii-7000",
+  "slug": "philips-seria-7000-s7886-35",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/fdf495c9760c4cf7a4a1af3f00bd1a88?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 89158,
+      "sha256": "7f4cda556a2e8baadc5d570a3455e09e504fa5e568642c1f3085ee0e828f7f47"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/086dbbb274bc4954a729af11007e8086?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 32806,
+      "sha256": "9103c0bed033c93ea8e594dd2cae3110a6ed4cc0269d77d0bef4f0747055de23"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/58b02623c9b945f0b25faf5e00ccce43?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 30144,
+      "sha256": "c5a7740e8428f2119d9cc89efb3df0d1c56c9d0a0a051291c68da5c45bfbc484"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/d047b7b14e674257b811af260100d40d?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 31828,
+      "sha256": "05604bb28214d664b51656b37ac9d5d69cad8af17487f7d2e307e41c34983206"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/7078987f11f64c85abf0af320113503c?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 67222,
+      "sha256": "3ca925c3d7d841ccfae32f6b9e2ae402a3e41cc80a2ace391894bf58e9f04d3a"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/43a604095b5d4b089074b26000b0541d?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 70372,
+      "sha256": "8bdb8ca430aa7328517011cea87e7848a7020c245617f8f5a72e46958ab84bc1"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/c52d8b37a83641188291b25f00c9214d?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 77690,
+      "sha256": "09cf47d90a9feaa5635521d45f98da5525aa243ae55e858a18bea9f0b29e355c"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/21c4d5723b054c27a67fb331009cd190?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 94522,
+      "sha256": "2e56023df436deeff8002e04748ba8fd88eba0a1f95ea5cbb4953921bc072bc6"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "repo: philips-hu5710-00/logo-producenta.png (logo Philips)",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0
+}
