@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-07T10:47:56.777Z",
+  "sourcePage": "https://www.philips.pl/c-p/HX7421_01/szczoteczka-do-zebow-sonicare-z-mozliwoscia-ladowania",
+  "slug": "philips-sonicare-hx7421-01",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "opis-07.webp",
+    "opis-08.webp",
+    "opis-09.webp",
+    "opis-10.webp",
+    "logo-philips.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/42938e4803e64257b378b137012def64?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 14732,
+      "sha256": "77fb2a02b9bd9d4d45a2af7b4310a6f4edba3356fe847c20488cb9c642799a56"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/e39e20d90e524244ac8ab132013d4c5d?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 26129,
+      "sha256": "c53c727a734775768f97add1296a5835f7118aedbada6e37485373d49db426e9"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/6bd3aeafad754562b33bb132012e0c5c?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 23084,
+      "sha256": "8cc9fd1ca947097697fa62ebb760fc434de2d9cf79c6557f8e687e08fd15ac1f"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/54a501eac6864a768e5fb132014f24ad?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 25401,
+      "sha256": "3eb09eb53afe1ea0a9b0b8df583acf8e2039c7438de30a775686a4f6e235940b"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/57e07f59b1b546c6ac81b22e00b484a2?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 26944,
+      "sha256": "7ac89dba2319cb8d33fda872eac31912f221370c9686a16dd18aed61626ed374"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/f864689c72674ce1adedb2cd0140d5ab?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 27146,
+      "sha256": "e97c4fb2fa0b3e9d8361fb0eee28859cff89a697d050134edb9c6e575d3f973e"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/671ac990f7844821981ab2cd0140d984?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 11280,
+      "sha256": "5963f6607377825a5084b209f80fb4045651e37ed83faa4c912fd4797f8c6b8c"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/927eb66a639c4a2ebfe3b2cd0140dea5?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 11964,
+      "sha256": "d9dfc3593edfaad194da37a1f485b2ee22bdff650eea5b4be52ea83d1b0692dd"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/c53e2bf409854f449885b2cd0140d740?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 11328,
+      "sha256": "2d25c17d7b1a6940de8c0ac1999b977b79ddfbb02989ed146cdff8d754c7d10f"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/d4bd8566ae554c9680e3b2cd0140d1e3?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 21358,
+      "sha256": "a0a6909337b93cec01ca2f990732d006842783b97b8067f4a02b6f480061b48c"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/6c863a25f61e4794ba29b2b2014982f0?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 14308,
+      "sha256": "2871968723b5edcf57116efe6c5bdff93c7f77aa444076f9ac7cc62ced7b144c"
+    },
+    {
+      "file": "opis-07.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/76ab17a8f99f4d5e89a7b2cd0140db88?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 11512,
+      "sha256": "d84b7449ec4184878d5e606d860a0d7421638f2478a3f8a9b5e9b28cf4369307"
+    },
+    {
+      "file": "opis-08.webp",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/338563aed3db42269839b2d500e06572?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 11832,
+      "sha256": "9a6d57915bd359c1e8b9e2124db237f238f0ce95503278b795a8478070aa8cb5"
+    },
+    {
+      "file": "opis-09.webp",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/8a3798f8787642dc9d73b2b2014a560b?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 26240,
+      "sha256": "99e332f7deec51a5a5b4be1afed39e17620d8f58d8cac73db5daeace4178c6c6"
+    },
+    {
+      "file": "opis-10.webp",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/4a311bfb297649359ac1b2ce00c8e5cf?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 18848,
+      "sha256": "756b5f868b7e0c356c2949128bcf2bbd5a19f3870aab8e72fc84afee40220356"
+    },
+    {
+      "file": "logo-philips.png",
+      "kind": "logo",
+      "order": 16,
+      "sourceUrl": "repo: philips-shaver-5000-s5886-38/logo-philips.png",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+    }
+  ],
+  "dropped": 0
+}
