@@ -1,0 +1,113 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T13:05:18.044Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie-i-uroda/golarki/golarka-braun-seria-9-9675cc-pro-na-mokro-i-sucho (galeria ME, id 7996473, gallery_1000_1000; odrzucone: -4 [c05] plakietka 5 lat gwarancji)",
+ "slug": "braun-seria-9-pro-plus-9675cc",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "logo-braun.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/79/7996473/Golarka-BRAUN-Seria-9-9675CC-PRO-Na-mokro-i-sucho-1.jpg",
+   "width": 1000,
+   "bytes": 102904,
+   "sha256": "19a54f8ea55a89d4b620c03a4d6a2c63005102845419e299129e41eef25a4685"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/79/7996473/Golarka-BRAUN-Seria-9-9675CC-PRO-front-ikony.jpg",
+   "width": 1000,
+   "bytes": 137606,
+   "sha256": "6b13b2a0f39ef57a93fa7dc2815e2f0ac0d0c1dd235b07ff477aaf0cbe4dcaf8"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/79/7996473/Golarka-BRAUN-Seria-9-9675CC-PRO-Na-mokro-i-sucho-2.jpg",
+   "width": 1000,
+   "bytes": 94687,
+   "sha256": "042cd9c09b50c5a604cc8e5b1445b075e1ae0b542370959d2bfc98ab0ed81a47"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/79/7996473/Golarka-BRAUN-Seria-9-9675CC-PRO-Na-mokro-i-sucho-3.jpg",
+   "width": 1000,
+   "bytes": 123293,
+   "sha256": "bdfea11267f7a19bd639e8e13bcd58fb72a06c1fd33ad4cb79ccddb6bec9efd0"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/79/7996473/Golarka-BRAUN-Seria-9-9675CC-PRO-Na-mokro-i-sucho-5.jpg",
+   "width": 1000,
+   "bytes": 195829,
+   "sha256": "8ff3e05cbdf8afcccbf7496b4eb6f5d5b316b560b90adb5e93c92c93d6e9031c"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/79/7996473/Golarka-BRAUN-Seria-9-9675CC-PRO-Na-mokro-i-sucho-6.jpg",
+   "width": 1000,
+   "bytes": 122959,
+   "sha256": "cc31a7a57b6cc8c2e7c1ed74777ad3037f2bb1fa94126030b5453aff34fd4f2c"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/79/7996473/Golarka-BRAUN-Seria-9-9675CC-PRO-Na-mokro-i-sucho-7.jpg",
+   "width": 1000,
+   "bytes": 76023,
+   "sha256": "050a0d86b1bd7c57bb64693bf1f2c217d969d50d49ed7b2c247de9ed9e4d9311"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/79/7996473/Golarka-BRAUN-Seria-9-9675CC-PRO-Na-mokro-i-sucho-8.jpg",
+   "width": 1000,
+   "bytes": 104927,
+   "sha256": "2ccda5de0a4f48714111bf8175ab5b8ae5e0f2254b196424c56b998699a57c87"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/79/7996473/Golarka-BRAUN-Seria-9-9675CC-PRO-Na-mokro-i-sucho-9.jpg",
+   "width": 1000,
+   "bytes": 142599,
+   "sha256": "35f231e247a39f5f4131dd44d80d4369d84c1db08ca624f3e7f3f3685a465b69"
+  },
+  {
+   "file": "logo-braun.png",
+   "kind": "logo",
+   "order": 10,
+   "desc": "Logo marki Braun (skopiowane z braun-si9682db/99-logo-braun.png)",
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/braun-si9682db/99-logo-braun.png",
+   "width": 1200,
+   "height": 504,
+   "bytes": 19329,
+   "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a"
+  }
+ ],
+ "dropped": 0
+}
