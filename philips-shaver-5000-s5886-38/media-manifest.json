@@ -1,0 +1,171 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T10:08:18.771887Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/S5886_38.assets (PRX API, CTN S5886/38)",
+ "slug": "philips-shaver-5000-s5886-38",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/9e181d3ca388451e8373af3f00bc22db?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 152334,
+   "sha256": "8ff4ccccc888c497c4809bbbeb4b30417361a9ce12b52aa04baf564bb41280e2",
+   "type": "RTP",
+   "desc": "Standardowe zdjęcie produktu"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/9d857576477c4ee08dcdaf5e00728444?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 63928,
+   "sha256": "977dfe12f0399f546c7b63132adc21bd85fbbeddf64e9254a02f55e06fddcb22",
+   "type": "A2P",
+   "desc": "Zdjęcie prezentujące alternatywny produkt"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/1036121afcdd4c1e9ee5aee400ee8185?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 120491,
+   "sha256": "2797337e6ec179d2af7a8c7210c643c98d8392447a3a6f8b3b63b9b027d8798c",
+   "type": "FIL",
+   "desc": "FIM S5886 Sustainable Shaving"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/5ec1f4255d5941188032aee400ee7e75?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 124818,
+   "sha256": "3455833084d2fd42897d05b527d3fb54582d5a120dd541e9c29e8ffd0947523e",
+   "type": "FIL",
+   "desc": "FIM S5886 One Touch Open"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/006b95a1abf341fe8496aefc00baa2b6?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 135671,
+   "sha256": "1000e36e96b800677fba4d476fc1b857287612168120ef7f4c531741e1f7e17b",
+   "type": "FIL",
+   "desc": "FIM S5886_USBA"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/3e213d09ebaf4776b3e4aeed00f020f3?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 82326,
+   "sha256": "38866cc12b6682f2484a7a041e64798b27ec7a925e0872f3fd79d1c4cd862235",
+   "type": "FIL",
+   "desc": "FIM S5886 1 Hour Charge"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/1a2ae619e91f43488e29af24010312d0?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 113560,
+   "sha256": "107d179d2d8855c7a8fe4b5323ebd267a31760655511ab2819f314c2da1c6824",
+   "type": "FIL",
+   "desc": "FIM S5886 Cordless Shaving"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/369606f6372e47a4b092af1100bee94f?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 91820,
+   "sha256": "c975946d76e3cd0caa714987487eca87bea42c9f355b651e1e21e54d6bb41d0a",
+   "type": "MI1",
+   "desc": "Główne zdjęcie produktu w użyciu"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/8e01478f94524732952daf1200e1457b?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 90972,
+   "sha256": "7a1ced26eda4502f8d2e0676e01f46ae89f94a2598a6e24da2908cf0fa06ac00",
+   "type": "U2P",
+   "desc": "Zdjęcie prezentujące produkt w użyciu"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/35ae0250e2fc4ee49215af1200ee84e5?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 86803,
+   "sha256": "10cae5cd4c2e7c4547038f03482a3b3c51c1b1d141b42bbaaa713d77f502ddbb",
+   "type": "U1P",
+   "desc": "Zdjęcie prezentujące produkt w użyciu"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/8bc4d9aae2084a8dbbf8b41300353269?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 155463,
+   "sha256": "baeefb8986bedbd0e3d24b0b6cc510214f81d22c56636df0e361a54e2fa6cd3f",
+   "type": "FIL",
+   "desc": "Shaving ME PDP Refresh Product Detail Photograph (PPL) 0"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 12,
+   "sourceUrl": "repo produkty-media/philips-bri984-00/logo-philips.png",
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "rejected": {
+  "1": "A1P: plakietka 5 years warranty (zakaz gwarancji w warstwie obrazu)",
+  "18": "FIL plakietka 5-year warranty",
+  "11": "FIL FIM S5880 — nazwa pliku z innego modelu (S5880)",
+  "10": "FIL PPL seria: korpus niebieski = inny wariant kolorystyczny",
+  "7": "FIL PPL seria: kolor korpusu niepewny",
+  "9": "FIL PPL seria: korpus niebieskawy, kolor niepewny",
+  "14": "FIL PPL seria: kolor korpusu niepewny"
+ }
+}
