@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-07T11:38:54.024Z",
+  "sourcePage": "https://www.braun.pl/pl-pl/female-hair-removal/silk-expert-pro-ipl/silk-expert-pro-5/silk-expert-pro-5-pl5221 (galeria pdp-* karty producenta, Contentful; odrzucone: psp-shelf (duplikat tresci hero w nizszej rozdzielczosci), lifestyle bez produktu (right-for-you, fastest-and-powerful), miniatura wideo, pasek compare-witb, zestawienia innych modeli PL5xxx)",
+  "slug": "braun-pl5221",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "logo-braun.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/6ieWhcz3xHhsvtMLMYxHpG/71aca9319bdd9560ee6ea76b1ee55c6b/pdp-fehr-silk-expert-5-pl5221-hero-image.jpg?fm=jpg&w=1600&q=90",
+      "width": 1600,
+      "bytes": 297738,
+      "sha256": "324de54081a58cb041a21f67437c3dbe093dc667919c59fe49676d1e93f480d7"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/4YtlpNnkfUV3AkSIm98U0H/6040c60ee10e360e3db0cb7af507558f/pdp-fehr-silk-expert-5-pl5221-witb.jpg?fm=jpg&w=1600&q=90",
+      "width": 1600,
+      "bytes": 199949,
+      "sha256": "f791590c0e88d17588d7f53938eb7a168308c92c7f8230704564b19c7ad0753c"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/2MypMbMiruZj1W1DpvbiqE/7757a21da75f6f64a936a3a8f7f726c5/pdp-fehr-silk-expert-5-pl5221-packaging.jpg?fm=jpg&w=1600&q=90",
+      "width": 1600,
+      "bytes": 248346,
+      "sha256": "55de08905c1b7b105c88d9f732d31a5cbf8d7354b85ce4058c5d3706ac23e8e0"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/2ohQCqX1je7lTBMA0lDtrX/2efcf18e2756f4498e2d162a43b2de84/pdp-fehr-highlights-silk-expert-pl5-smart-skinprotect-sensor.jpg?fm=jpg&w=1600&q=90",
+      "width": 1473,
+      "bytes": 92607,
+      "sha256": "c1bff7da16f01a5ef672112f2af3b536845efffc047eef6c0ef3e82dc36b3674"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/1dNGMHE21N7GtiDsp8bYHW/9551fbfc97c5ad477b7ddc39b06250a9/pdp-fehr-silk-expert-pl5-benefits-pl.jpg?fm=jpg&w=1600&q=90",
+      "width": 1600,
+      "bytes": 226241,
+      "sha256": "3e99f69e9261ccd85fda96a58b31878ca90ed7487e5134fdaba41c8403e7d25a"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/3dDW7cO5Rz4PLoUsWbFoQO/e430876130fb4adc1c57867857322363/pdp-fehr-silk-expert-pl5-smart-flex-head-sfh-ph-pl.jpg?fm=jpg&w=1600&q=90",
+      "width": 1600,
+      "bytes": 400615,
+      "sha256": "085f75255edc196a4cb7909a004c45734c620be6690a4a7b9b86e0ff7cbe9c98"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/6PFHdxgF6JXXFUKCALZjge/d83218f0bba080c5d098ef35bbb8ab0e/pdp-fehr-silk-expert-pl5-shair-reduction-in-3-sessions-pl.jpg?fm=jpg&w=1600&q=90",
+      "width": 1600,
+      "bytes": 497842,
+      "sha256": "0e55b6881b2366d27e0d92ad5e5924f4bb8b2f711aaf1f05ab10ec3dc20322a3"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/6Wth8AdyAu7HSEyfSVck5f/f4993ce694cf746a331c3e2e1f20cde7/pdp-fehr-silk-expert-pl5-visible-results-pl.jpg?fm=jpg&w=1600&q=90",
+      "width": 1600,
+      "bytes": 302023,
+      "sha256": "20b528375cd53bb44bd5d896cf6ea894c2165f07c6b3c53761b74c849f692a39"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/2dUlO6ZozF34qUyCN5ybD0/5ea9f9671638e93007db812f8ac36a82/pdp-fehr-silk-expert-pl5-2-years-smooth-skin-pl.jpg?fm=jpg&w=1600&q=90",
+      "width": 1600,
+      "bytes": 462753,
+      "sha256": "2a2dc71dea269756671942799bfec078fa64d87759d323c86c9632a6a3ebcb41"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/2i2j00f7x5VivdRay2zNpb/ab9667725928474ff8c9cef0ac0beb0e/pdp-fehr-silk-expert-pl5-video.jpg?fm=jpg&w=1600&q=90",
+      "width": 1600,
+      "bytes": 277683,
+      "sha256": "cd3241a20a19fc8b1c9f7a685f3ecfde99c4438cdcc45f8dc88462361f1b9058"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/GFFO5uZzMA2ZpH0mtHOtk/dd9461ccbdf92c61d127bfae1eaee5b4/pdp-fehr-highlights-silk-expert-pl5-tailored-attachments.jpg?fm=jpg&w=1600&q=90",
+      "width": 1473,
+      "bytes": 255700,
+      "sha256": "2ff7de4c708b1264a3be16f9ae382622feebd2d4cf07feb982c18a0f3086e433"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/5lsp4UcRwP7L58nolONjS3/59176aae0122785c30d436a3a04d399e/pdp-fehr-silk-expert-pl5-built-to-last-pl.jpg?fm=jpg&w=1600&q=90",
+      "width": 1600,
+      "bytes": 132398,
+      "sha256": "3e68dcebc5dba1fe26a3573b7232e56e33d2542c71d88e0fb1d89c8c314926bd"
+    },
+    {
+      "file": "logo-braun.png",
+      "kind": "logo",
+      "order": 13,
+      "desc": "Logo marki Braun (skopiowane z braun-si9682db/99-logo-braun.png)",
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/braun-si9682db/99-logo-braun.png",
+      "width": 1200,
+      "height": 504,
+      "bytes": 19329,
+      "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a"
+    }
+  ],
+  "dropped": 0
+}
