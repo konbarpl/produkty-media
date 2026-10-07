@@ -1,168 +1,171 @@
 {
- "version": 1,
- "generatedAt": "2026-10-07T10:19:53.474Z",
- "sourcePage": "https://www.braun.pl/pl-pl/male-grooming/shavers-for-men/series-5/series-5-52-b7000cc (oficjalna karta Braun, galeria pdp-* modelu 52-B7000cc; odrzucone: porownanie mega-* innych modeli, turbo-mode-black (wariant czarny), waterproof-warranty (plakietka gwarancji), easy-and-fast x2 (lifestyle bez produktu))",
- "slug": "braun-seria-5-52-b7000cc",
- "galleryOrder": [
-  "produkt-01.jpg",
-  "produkt-02.jpg",
-  "produkt-03.jpg",
-  "produkt-04.jpg",
-  "produkt-08.jpg",
-  "produkt-09.jpg",
-  "produkt-10.jpg",
-  "produkt-11.jpg",
-  "produkt-12.jpg",
-  "produkt-13.jpg",
-  "produkt-14.jpg",
-  "produkt-15.jpg",
-  "logo-braun.png"
- ],
- "files": [
-  {
-   "file": "produkt-01.jpg",
-   "kind": "product",
-   "order": 1,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/5KPyyTWvCvsOqcxR7JoiUT/88bf4731e57304f3e9b2ae27aaa30f9d/Braun_52-B7000cc_Secondary_Image_WITB.jpg?w=1200&fm=jpg&q=90",
-   "width": 1200,
-   "bytes": 188360,
-   "sha256": "2c17f8123933f37a37a7fde377b8b347d10e53494b0a5745d9ada3f9698f11f1"
-  },
-  {
-   "file": "produkt-02.jpg",
-   "kind": "product",
-   "order": 2,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/1z6NeJ4H5EMFfNLZ6qKMCR/8cf6abaddcc95073eb234c68b5730dc9/pdp-mpg-series-5-52-b7000cc-hero-image.jpg?w=1200&fm=jpg&q=90",
-   "width": 1200,
-   "bytes": 201557,
-   "sha256": "f8fa38b0e3d1a2e726637b69aa941cd3326209487d1eeeda66f1dc738a22ff4d"
-  },
-  {
-   "file": "produkt-03.jpg",
-   "kind": "product",
-   "order": 3,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/25wSQWuexCliwxeJN9p4rF/56e21e5505abbaa3b53dc614c35bfbef/pdp-witb-mpg-shavers-series-5-blue.jpg?w=1200&fm=jpg&q=90",
-   "width": 720,
-   "bytes": 109167,
-   "sha256": "f65b748345517c7cf1d9ed06771034f6d86e738934aea0edfe2c339b4924432a"
-  },
-  {
-   "file": "produkt-04.jpg",
-   "kind": "product",
-   "order": 4,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/6A3rASVOfjVv9BSpsk9ljR/c701d526778332955727cf45ba15a6ca/pdp-witb-mpg-shavers-smartcare-center-4in1.jpg?w=1200&fm=jpg&q=90",
-   "width": 720,
-   "bytes": 43261,
-   "sha256": "175f8eb6dbf0effbf754716ad0dccd97d1d9d64c2014b0e0b5a9bccad031b09e"
-  },
-  {
-   "file": "produkt-05.jpg",
-   "kind": "product",
-   "order": 5,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/g3fkeGfrFuILcISZ9cfFS/e9fb96ba69373cfee63bc3ab9e530433/pdp-witb-mpg-shavers-shavecare-refill-catridge-1x.jpg?w=1200&fm=jpg&q=90",
-   "width": 720,
-   "bytes": 52404,
-   "sha256": "15d009b0c9bb0771cf2a47daa923e0bd749e29e968ada86bd1f081576bdd7e92"
-  },
-  {
-   "file": "produkt-06.jpg",
-   "kind": "product",
-   "order": 6,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/23c5D4oaI9ic47GHkBhERB/d6326e84f5c8b1eaac9090b93c695e84/pdp-mpg-shaver-smartplug.jpg?w=1200&fm=jpg&q=90",
-   "width": 720,
-   "bytes": 36966,
-   "sha256": "3003936a5e9219130e8ecd43ea508709866783447cffec9f48821ae8c8e3470f"
-  },
-  {
-   "file": "produkt-07.jpg",
-   "kind": "product",
-   "order": 7,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/6yfxE1LAtBeZRUrExsjdcz/90c639977bf0cbd080df8bb912930bf0/pdp-mpg-series-shaver-cleaning-brush.jpg?w=1200&fm=jpg&q=90",
-   "width": 720,
-   "bytes": 17625,
-   "sha256": "d57f10d68c92f48b9f7327c98a5983a2b088a6f52676b9b90591c6715a624da7"
-  },
-  {
-   "file": "produkt-08.jpg",
-   "kind": "product",
-   "order": 8,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/6XSl4qTBRDQ2QX0k96eIIO/4d9b4de448a1e6a716556f143935fa59/pdp-mpg-series-5-52-b7000cc-packaging.jpg?w=1200&fm=jpg&q=90",
-   "width": 1200,
-   "bytes": 158478,
-   "sha256": "8e89684ed02f0878a9256c1446b071054e98e588b3948d09407237c630c2dc7b"
-  },
-  {
-   "file": "produkt-09.jpg",
-   "kind": "product",
-   "order": 9,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/1SylPeB2kIbHGNOyDCXaJU/ece31942cdc5777ba54ba95d6df671f2/pdp-mpg-highlights-series-5-shaving-head-blue.jpg?w=1200&fm=jpg&q=90",
-   "width": 1200,
-   "bytes": 234640,
-   "sha256": "75ccce4d55f8b27b7e6d53e27abeb0307a440447c4cdd4675c18c80f2250d79e"
-  },
-  {
-   "file": "produkt-10.jpg",
-   "kind": "product",
-   "order": 10,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/bNF2GGljBbv52YavmeStJ/b6f106cb1600afa9742c4ad67d2f85cd/pdp-mpg-series-5-shaver-fexible-blades-pl.jpg?w=1200&fm=jpg&q=90",
-   "width": 1200,
-   "bytes": 228691,
-   "sha256": "ceca28133d9b7d921135ae2934a78625d80e883bddc963c499287ed2e95d9d66"
-  },
-  {
-   "file": "produkt-11.jpg",
-   "kind": "product",
-   "order": 11,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/5gYOmgG0GvaBiN5c7aI3bO/0bff466952bb4f2fad383e5e5979d1f3/pdp-mpg-highlights-series-5-2-shave-modes-blue.jpg?w=1200&fm=jpg&q=90",
-   "width": 1200,
-   "bytes": 235707,
-   "sha256": "3f676a763d8ee93467b55f19258065bd5710a6a9ceefc9b19fdc2779cec0a96c"
-  },
-  {
-   "file": "produkt-12.jpg",
-   "kind": "product",
-   "order": 12,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/1VX81sT1guobQxACVnAvAQ/0a89c8ea53c51c0fe96cc8a16b297da1/pdp-mpg-series-5-shaver-smartcare-center-blue-pl.jpg?w=1200&fm=jpg&q=90",
-   "width": 1200,
-   "bytes": 187120,
-   "sha256": "a500065137a78f24b4bc8ddf44b8a5bf65622d77925e43c67fb4ae5242c884f1"
-  },
-  {
-   "file": "produkt-13.jpg",
-   "kind": "product",
-   "order": 13,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/6eZ6mdn0MlT6AKlUFvraVp/c3b981fd768fb0170b785ec68dd83638/pdp-mpg-highlights-series-5-smartcare-center-blue.jpg?w=1200&fm=jpg&q=90",
-   "width": 1200,
-   "bytes": 111288,
-   "sha256": "cb717ce65a1937277d8a7651218ff60e0184c1654a0994fbe835c36d2bb93cef"
-  },
-  {
-   "file": "produkt-14.jpg",
-   "kind": "product",
-   "order": 14,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/2eTNB5xs3XYSEmaxU8CRX3/4a8ec180ae95fdc56bfdb301a3bfbc2c/pdp-mpg-highlights-series-5-waterproof-blue.jpg?w=1200&fm=jpg&q=90",
-   "width": 1200,
-   "bytes": 324539,
-   "sha256": "cfbd11e533e392b1784e4c5ff55c2840659b5d172cf54f15cca84c03e10ce640"
-  },
-  {
-   "file": "produkt-15.jpg",
-   "kind": "product",
-   "order": 15,
-   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/2tTuXdQUOkxE8SkvR8Yw3b/82729ba04ab082383785c1e5ad7dbeb4/pdp-mpg-series-5-shaver-in-use-shave-blue-pl.jpg?w=1200&fm=jpg&q=90",
-   "width": 1200,
-   "bytes": 364258,
-   "sha256": "90f0f1721eb989026295140481bbbeddb05a754c310f4c7c604bc411da176da9"
-  },
-  {
-   "file": "logo-braun.png",
-   "kind": "logo",
-   "order": 16,
-   "desc": "Logo marki Braun (skopiowane z braun-si9682db/99-logo-braun.png)",
-   "bytes": 19329,
-   "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a"
-  }
- ],
- "dropped": 0,
- "note": "Galeria wylacznie z oficjalnej karty braun.pl modelu 52-B7000cc (euro.com.pl blokuje po IP 403, Media Expert nie ma modelu). Zdjecie 1 = packshot kompletu zestawu na bialym tle. Logo na koncu. Poza galeria (drobnica zestawu, gotchas: komponenty jako tekst W ZESTAWIE): produkt-05 wklad, produkt-06 wtyczka, produkt-07 szczoteczka."
+  "version": 1,
+  "generatedAt": "2026-10-07T10:19:53.474Z",
+  "sourcePage": "https://www.braun.pl/pl-pl/male-grooming/shavers-for-men/series-5/series-5-52-b7000cc (oficjalna karta Braun, galeria pdp-* modelu 52-B7000cc; odrzucone: porownanie mega-* innych modeli, turbo-mode-black (wariant czarny), waterproof-warranty (plakietka gwarancji), easy-and-fast x2 (lifestyle bez produktu))",
+  "slug": "braun-seria-5-52-b7000cc",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "logo-braun.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/5KPyyTWvCvsOqcxR7JoiUT/88bf4731e57304f3e9b2ae27aaa30f9d/Braun_52-B7000cc_Secondary_Image_WITB.jpg?w=1200&fm=jpg&q=90",
+      "width": 1200,
+      "bytes": 188360,
+      "sha256": "2c17f8123933f37a37a7fde377b8b347d10e53494b0a5745d9ada3f9698f11f1"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/1z6NeJ4H5EMFfNLZ6qKMCR/8cf6abaddcc95073eb234c68b5730dc9/pdp-mpg-series-5-52-b7000cc-hero-image.jpg?w=1200&fm=jpg&q=90",
+      "width": 1200,
+      "bytes": 201557,
+      "sha256": "f8fa38b0e3d1a2e726637b69aa941cd3326209487d1eeeda66f1dc738a22ff4d"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/25wSQWuexCliwxeJN9p4rF/56e21e5505abbaa3b53dc614c35bfbef/pdp-witb-mpg-shavers-series-5-blue.jpg?w=1200&fm=jpg&q=90",
+      "width": 720,
+      "bytes": 109167,
+      "sha256": "f65b748345517c7cf1d9ed06771034f6d86e738934aea0edfe2c339b4924432a"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/6A3rASVOfjVv9BSpsk9ljR/c701d526778332955727cf45ba15a6ca/pdp-witb-mpg-shavers-smartcare-center-4in1.jpg?w=1200&fm=jpg&q=90",
+      "width": 720,
+      "bytes": 43261,
+      "sha256": "175f8eb6dbf0effbf754716ad0dccd97d1d9d64c2014b0e0b5a9bccad031b09e"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/g3fkeGfrFuILcISZ9cfFS/e9fb96ba69373cfee63bc3ab9e530433/pdp-witb-mpg-shavers-shavecare-refill-catridge-1x.jpg?w=1200&fm=jpg&q=90",
+      "width": 720,
+      "bytes": 52404,
+      "sha256": "15d009b0c9bb0771cf2a47daa923e0bd749e29e968ada86bd1f081576bdd7e92"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/23c5D4oaI9ic47GHkBhERB/d6326e84f5c8b1eaac9090b93c695e84/pdp-mpg-shaver-smartplug.jpg?w=1200&fm=jpg&q=90",
+      "width": 720,
+      "bytes": 36966,
+      "sha256": "3003936a5e9219130e8ecd43ea508709866783447cffec9f48821ae8c8e3470f"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/6yfxE1LAtBeZRUrExsjdcz/90c639977bf0cbd080df8bb912930bf0/pdp-mpg-series-shaver-cleaning-brush.jpg?w=1200&fm=jpg&q=90",
+      "width": 720,
+      "bytes": 17625,
+      "sha256": "d57f10d68c92f48b9f7327c98a5983a2b088a6f52676b9b90591c6715a624da7"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/6XSl4qTBRDQ2QX0k96eIIO/4d9b4de448a1e6a716556f143935fa59/pdp-mpg-series-5-52-b7000cc-packaging.jpg?w=1200&fm=jpg&q=90",
+      "width": 1200,
+      "bytes": 158478,
+      "sha256": "8e89684ed02f0878a9256c1446b071054e98e588b3948d09407237c630c2dc7b"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/1SylPeB2kIbHGNOyDCXaJU/ece31942cdc5777ba54ba95d6df671f2/pdp-mpg-highlights-series-5-shaving-head-blue.jpg?w=1200&fm=jpg&q=90",
+      "width": 1200,
+      "bytes": 234640,
+      "sha256": "75ccce4d55f8b27b7e6d53e27abeb0307a440447c4cdd4675c18c80f2250d79e"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/bNF2GGljBbv52YavmeStJ/b6f106cb1600afa9742c4ad67d2f85cd/pdp-mpg-series-5-shaver-fexible-blades-pl.jpg?w=1200&fm=jpg&q=90",
+      "width": 1200,
+      "bytes": 228691,
+      "sha256": "ceca28133d9b7d921135ae2934a78625d80e883bddc963c499287ed2e95d9d66"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/5gYOmgG0GvaBiN5c7aI3bO/0bff466952bb4f2fad383e5e5979d1f3/pdp-mpg-highlights-series-5-2-shave-modes-blue.jpg?w=1200&fm=jpg&q=90",
+      "width": 1200,
+      "bytes": 235707,
+      "sha256": "3f676a763d8ee93467b55f19258065bd5710a6a9ceefc9b19fdc2779cec0a96c"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/1VX81sT1guobQxACVnAvAQ/0a89c8ea53c51c0fe96cc8a16b297da1/pdp-mpg-series-5-shaver-smartcare-center-blue-pl.jpg?w=1200&fm=jpg&q=90",
+      "width": 1200,
+      "bytes": 187120,
+      "sha256": "a500065137a78f24b4bc8ddf44b8a5bf65622d77925e43c67fb4ae5242c884f1"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/6eZ6mdn0MlT6AKlUFvraVp/c3b981fd768fb0170b785ec68dd83638/pdp-mpg-highlights-series-5-smartcare-center-blue.jpg?w=1200&fm=jpg&q=90",
+      "width": 1200,
+      "bytes": 111288,
+      "sha256": "cb717ce65a1937277d8a7651218ff60e0184c1654a0994fbe835c36d2bb93cef"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/2eTNB5xs3XYSEmaxU8CRX3/4a8ec180ae95fdc56bfdb301a3bfbc2c/pdp-mpg-highlights-series-5-waterproof-blue.jpg?w=1200&fm=jpg&q=90",
+      "width": 1200,
+      "bytes": 324539,
+      "sha256": "cfbd11e533e392b1784e4c5ff55c2840659b5d172cf54f15cca84c03e10ce640"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/2tTuXdQUOkxE8SkvR8Yw3b/82729ba04ab082383785c1e5ad7dbeb4/pdp-mpg-series-5-shaver-in-use-shave-blue-pl.jpg?w=1200&fm=jpg&q=90",
+      "width": 1200,
+      "bytes": 364258,
+      "sha256": "90f0f1721eb989026295140481bbbeddb05a754c310f4c7c604bc411da176da9"
+    },
+    {
+      "file": "logo-braun.png",
+      "kind": "logo",
+      "order": 16,
+      "desc": "Logo marki Braun (skopiowane z braun-si9682db/99-logo-braun.png)",
+      "bytes": 19329,
+      "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a",
+      "sourceUrl": "repo produkty-media/braun-si9682db/99-logo-braun.png",
+      "width": 1200,
+      "height": 504
+    }
+  ],
+  "dropped": 0,
+  "note": "Galeria wylacznie z oficjalnej karty braun.pl modelu 52-B7000cc (euro.com.pl blokuje po IP 403, Media Expert nie ma modelu). Zdjecie 1 = packshot kompletu zestawu na bialym tle. Logo na koncu. Poza galeria (drobnica zestawu, gotchas: komponenty jako tekst W ZESTAWIE): produkt-05 wklad, produkt-06 wtyczka, produkt-07 szczoteczka."
 }
