@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-07T10:49:53.094Z",
+  "sourcePage": "https://www.philips.pl/c-p/HX9914_57/bielsze-zeby-zdrowsze-dziasla",
+  "slug": "philips-sonicare-hx9914-57-zestaw-2-szt",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.jpg",
+    "produkt-03.webp",
+    "produkt-04.jpg",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "opis-07.webp",
+    "opis-08.webp",
+    "opis-09.webp",
+    "opis-10.webp",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/e15258b6ba0340e3bda9ac6100067d24?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 22412,
+      "sha256": "1b0b9b344642ba266abdae8e78890ecf8505b7c66a65be1d93bc02bba2910a19"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/504d421f8cc94b76b496ac600184a809?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 27422,
+      "sha256": "343f82fc8fcba98e8fffd0b1ef021d6f858ccc4dd23ecc8a614293719dd2fbe3"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/1804b1e3c52a441a8d70ac600177b1d4?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 12132,
+      "sha256": "44aa98fad87d32544eb8a2349d268648a405a79cf98beec3027509fb4559ac51"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/252774c83e584595aeeaac600184d0b6?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 18136,
+      "sha256": "6eda008b3c6af783e02c40e3d5597fc5d689b88777da49402ecd2f3fe35f2117"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/517ff11e5b0343f6a810b2ec0068c170?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 11020,
+      "sha256": "26bd83d08962808338fe793f1a456e2a6501ebb38e0bfdc2860e07df6d28475f"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/b9ae67cf1f3145d0bea8b30000ded322?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 16810,
+      "sha256": "da0cc6c6a7a4a95ae9a8ad10f4549fa19263773326edd2e68bd2814dc940d6b8"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/a52f77b576f74837a9c9b2ec0068b302?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 18016,
+      "sha256": "00f742a1940054b7e2ea2353a03543d762719f1388d24991fd7ab61c90ee9437"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/87e36949243e4b3c85bbb2ec006996e4?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 24168,
+      "sha256": "eaac3a4d542a1cc1792d63f0f10a2f41eadb78166494db4862fd43cf95dea288"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/9c7dcb4b6b144d09b047b2c000f9ae75?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 20316,
+      "sha256": "986839183e673aad5b314aab723218bdff0ec0779b0a78326d19bf314767abbb"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/504c0eb2ff684effa24eb2c000f9abcd?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 21656,
+      "sha256": "7a67d7d5b03aa5563ca648cfbb9dda0d71560a80965efbaa9a77904d1c2cb6e4"
+    },
+    {
+      "file": "opis-07.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/7fff1c26dda74a4ca525b2c000f95201?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 26452,
+      "sha256": "009e4e62c53c437582bfdf2d25279ef91faf5e52fdef6cda2ab45bf335d73e3b"
+    },
+    {
+      "file": "opis-08.webp",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/20e673c23b374d67aa0db2ec0068ae68?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 16466,
+      "sha256": "437ebdee754774b0358d6b9c36892d7e5ffc3fe36c4f243e58769ab6ee7db0e4"
+    },
+    {
+      "file": "opis-09.webp",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/d33f22c909fe49ed93f3b30200e83ea6?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 18104,
+      "sha256": "0f418aeb6a6c434ef66b5bf834db4019c92e06019ccbf831af3575d871a7156e"
+    },
+    {
+      "file": "opis-10.webp",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/5ab35d68cfc444b09cf5b2c000f997a1?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 25796,
+      "sha256": "6fe5423faead5d821df245fbb0104853fafe0881c3222b5485ca3e97d9788ea7"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 15,
+      "sourceUrl": "repo: philips-hu5710-00/logo-producenta.png (logo Philips)",
+      "bytes": 6882,
+      "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+      "note": "logo Philips skopiowane z philips-hu5710-00 (ETAP 1)"
+    }
+  ],
+  "dropped": 0
+}
