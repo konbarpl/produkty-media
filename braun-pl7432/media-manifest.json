@@ -1,0 +1,124 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T11:38:13.751Z",
+ "sourcePage": "https://www.braun.pl/pl-pl/female-hair-removal/silk-expert-pro-ipl/skin-i-expert-ipl/skin-i-expert-pl7432 (oficjalna karta Braun P&G, galeria productImageVideo modelu PL7432; odrzucone: idx 8 built-to-last (plakietka gwarancji), idx 11 wideo, karty witb-* pojedynczych akcesoriow)",
+ "slug": "braun-pl7432",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "logo-braun.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/5bhp0wl2qBBYaVUsgLAkSZ/ab93e2e6e7861b275cf5422730594e69/pdp-fehr-skin-i-expert-pl7432-hero-image.jpg?w=1600&fm=jpg&q=90",
+   "width": 1600,
+   "bytes": 295388,
+   "sha256": "7566f04b8c2b46c4873e9d6595cf85388ae8923d19a97628b1e965193b0c0c1f"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/m6QAZDcas4r0M9xDFlYA2/bf12508a1aa37d249afce2cd4782015d/pdp-fehr-skin-i-expert-pl7432-witb.jpg?w=1600&fm=jpg&q=90",
+   "width": 1600,
+   "bytes": 234417,
+   "sha256": "1b87181737e05c9918c1010aaa3065e8482e0e38f9a38dba2d58bed9e7687827"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/42CKnUDO5N48IF02HoVKQ6/3d44ff5660ea028bbd0a6636162e2446/pdp-fehr-skin-i-expert-pl7-smart-connected-ipl-pl.jpg?w=1600&fm=jpg&q=90",
+   "width": 1600,
+   "bytes": 294884,
+   "sha256": "c7125ca32ba3f86ccd7379d2f359b4cff82bb28b970e5e670a2fd58ed5056a1d"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/7akWeR9rT3Fz48AiBabF6d/816bbd741985f60ee7a6b4fd0edc3045/pdp-fehr-skin-i-expert-pl7-visible-results-pl.jpg?w=1600&fm=jpg&q=90",
+   "width": 1600,
+   "bytes": 320487,
+   "sha256": "30a8bcab2c6d829511a98b5071d015cfb55021b436b3776cdfc4e8d0deefab81"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/scnYgzM4DgvR3APR0nfU1/0d27b8ee607d637fef6464e1ca18617c/pdp-fehr-skin-i-expert-pl7-shair-reduction-in-3-sessions-pl.jpg?w=1600&fm=jpg&q=90",
+   "width": 1600,
+   "bytes": 489477,
+   "sha256": "61b342416ecf7c20614b245b7e73588ddf834caf05b7afd08cd4a167e7d250da"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/5C2XPhPmhOmdc7QrBalR49/cb0281c396de5d3c5820dd11e0a22fc3/pdp-fehr-skin-i-expert-pl7-smart-flex-head-sfh-mph-sh-ph-pl.jpg?w=1600&fm=jpg&q=90",
+   "width": 1600,
+   "bytes": 312449,
+   "sha256": "e3cee88be9bab79db945ea7eb636a24557e1cabf3c4e70d6e11755a92da670ff"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/2MDEWVTQmLlAAO604VgnbH/d874ab394869dcda608ff58d811d26ba/pdp-fehr-skin-i-expert-pl7-benefits-pl.jpg?w=1600&fm=jpg&q=90",
+   "width": 1600,
+   "bytes": 256328,
+   "sha256": "e5391515f1019ca357da6d107178f3816e420a973eaaea192e90ff33ffcbd664"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/1nfjw8eQPcLbSf7fTjEDdk/7f6223bb834b5b0868b31a0700f5c6a6/pdp-fehr-skin-i-expert-pl7-skin-and-hair-tones-pl.jpg?w=1600&fm=jpg&q=90",
+   "width": 1600,
+   "bytes": 318631,
+   "sha256": "a16964679e5358a87998c93e35eb9a00a1c3c59e213dfd7b0dfd2f6e55be398a"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/4v7slbjHFbsXX6lQ6vifo0/b4b5ff8d2c924d1d3c01d2be948cb2b1/pdp-fehr-skin-i-expert-pl7-2-years-smooth-skin-pl.jpg?w=1600&fm=jpg&q=90",
+   "width": 1600,
+   "bytes": 472839,
+   "sha256": "a0abb44c2c403187dd0fe3e0e0111c9514479ccb62fdbb692d16bd78f44dae86"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/2Z0r6fWm5LPgZQsB47kG9k/3eae0adfb8c5e74eb778715cbc9b8aad/pdp-fehr-skin-i-expert-pl7432-packaging.jpg?w=1600&fm=jpg&q=90",
+   "width": 1600,
+   "bytes": 315365,
+   "sha256": "4b069db94cb659c9ee042310a3b7b9ea77779170b359dec5fd4a1fb3d315de06"
+  },
+  {
+   "file": "logo-braun.png",
+   "kind": "logo",
+   "order": 11,
+   "desc": "Logo marki Braun (skopiowane z braun-si9682db/99-logo-braun.png, to samo co braun-seria-5-52-b7000cc)",
+   "bytes": 19329,
+   "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a",
+   "type": "LOGO",
+   "sourceUrl": "repo produkty-media/braun-si9682db/99-logo-braun.png",
+   "width": 1200,
+   "height": 504
+  }
+ ],
+ "dropped": 0
+}
