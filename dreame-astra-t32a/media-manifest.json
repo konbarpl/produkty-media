@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-07T09:56:46.399Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-62957-Depilator-IPL-Dreame-Astra.html",
+  "slug": "dreame-astra-t32a",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "opis-01.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/fdcb2c34dd52d794af23fee28a070e0f/pol_pl_Depilator-IPL-Dreame-Astra-62957_1.webp",
+      "width": 800,
+      "bytes": 20732,
+      "sha256": "3f6119ea8a3b56082f4959f7dc88346992b4d0cffcebe99e6505549e44a86b4c"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/b1eccca0d0b66df7dcf8f69bfb361ce3/pol_pl_Depilator-IPL-Dreame-Astra-62957_2.webp",
+      "width": 800,
+      "bytes": 26364,
+      "sha256": "7110fa0d3f720b7d6ce6c2c36013b8edebee238389d6e888c87b3e61d5af328d"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/80df966820ffde7a8de7df4d2dcbb912/pol_pl_Depilator-IPL-Dreame-Astra-62957_3.webp",
+      "width": 800,
+      "bytes": 21062,
+      "sha256": "e182eaa034038d60bec2f16353013e666b5dc5344907cc26676088e690d009be"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/1d0c8dcdd9792aa888081cbe90c42aa1/pol_pl_Depilator-IPL-Dreame-Astra-62957_4.webp",
+      "width": 800,
+      "bytes": 16034,
+      "sha256": "1bbbda0a6899969a1a2f47da15928a63f446d7c4f1733f35cccc62797cfcadeb"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/23528/30932/baner_dreame_Astra_IPL.jpg",
+      "width": 1171,
+      "bytes": 74631,
+      "sha256": "5a6b018a5e46b5d6a3ad34f427c75cd1617895a26032a31205d67857ed9b5b8d"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "dropshipping/materiały/logo/1280px-Dreame_Logo.jpg (kopia z produkty-media/dreame-ap10/logo-producenta.jpg)",
+      "width": 775,
+      "height": 84,
+      "bytes": 15201,
+      "sha256": "b608908598b2a6d35aabb1b1bf3cde97afb8e5b6e6aab49f8ca8723d53f6c376"
+    }
+  ],
+  "dropped": 1,
+  "identityCheck": "2026-10-07: 4 packshoty + baner innpro baner_dreame_Astra_IPL.jpg obejrzane wzrokiem — wszystkie przedstawiaja Dreame Astra (T32A); depilator.jpg odrzucony przez harvester (800 px)."
+}
