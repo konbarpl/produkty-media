@@ -21,4 +21,6 @@ Aplikacja służy wyłącznie właścicielowi konta sprzedawcy Super_Zakupy_PL d
 - odczyt własnych ofert, zamówień i rozliczeń (billing, prowizje) do raportów sprzedaży,
 - zmiany cen własnych ofert po zatwierdzeniu przez właściciela konta.
 
+Nagłówek wysyłany w każdym zapytaniu: `User-Agent: analiza-sprzedazy/1.0 (+https://github.com/konbarpl/produkty-media)` (nazwa zarejestrowana w Allegro Developer Portal: „analiza sprzedazy”).
+
 Aplikacja nie pobiera ofert innych sprzedawców i nie przenosi treści z Allegro na inne platformy. Kontakt: właściciel konta Super_Zakupy_PL przez wiadomości Allegro.
