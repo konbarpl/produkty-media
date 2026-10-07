@@ -1,116 +1,120 @@
 {
- "version": 1,
- "generatedAt": "2026-10-07T10:10:55.590Z",
- "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie-i-uroda/golarki/golarka-braun-72-g1200s-na-mokro-i-sucho (karta zastepcza; euro.com.pl zablokowane po IP 7.10)",
- "slug": "braun-seria-7-72-g1200s",
- "galleryOrder": [
-  "produkt-02.jpg",
-  "produkt-01.jpg",
-  "produkt-03.jpg",
-  "produkt-04.jpg",
-  "produkt-05.jpg",
-  "produkt-09.jpg",
-  "produkt-06.jpg",
-  "produkt-07.jpg",
-  "produkt-08.jpg",
-  "logo-braun.png"
- ],
- "files": [
-  {
-   "file": "produkt-01.jpg",
-   "kind": "product",
-   "order": 2,
-   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-zestaw-wer-1.jpg",
-   "width": 2000,
-   "height": 2000,
-   "bytes": 695816,
-   "sha256": "d8634875a7abedff314d031ca661e208f03aab7737d707f6374647bd1ad2ea5c"
-  },
-  {
-   "file": "produkt-02.jpg",
-   "kind": "product",
-   "order": 1,
-   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-1.jpg",
-   "width": 2718,
-   "height": 2459,
-   "bytes": 605501,
-   "sha256": "d24a96d2ec284764c03b659117fd33ed3060a3201aed6e8f1af4e0a6f19db8fd"
-  },
-  {
-   "file": "produkt-03.jpg",
-   "kind": "product",
-   "order": 3,
-   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-2.jpg",
-   "width": 2406,
-   "height": 2863,
-   "bytes": 463873,
-   "sha256": "18781f3f79ef949e5d9894d1b130f6a464e017de78942569aa498b1e825728ee"
-  },
-  {
-   "file": "produkt-04.jpg",
-   "kind": "product",
-   "order": 4,
-   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-3.jpg",
-   "width": 2890,
-   "height": 2850,
-   "bytes": 581677,
-   "sha256": "d2a33bb3c06be1ed94236ac52818bda6215654b5b3344ea6a60f8c92c8ac935f"
-  },
-  {
-   "file": "produkt-05.jpg",
-   "kind": "product",
-   "order": 5,
-   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-4.jpg",
-   "width": 3000,
-   "height": 3000,
-   "bytes": 904983,
-   "sha256": "673f41518e68ca6171a8c326d3836de4c2dd592fb421b1fa995bbbdade4e6084"
-  },
-  {
-   "file": "produkt-06.jpg",
-   "kind": "product",
-   "order": 7,
-   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-5.jpg",
-   "width": 3000,
-   "height": 3000,
-   "bytes": 687511,
-   "sha256": "521924b2d1a5442392e47feb8f3993289f02855d12a1b011e8f1fbc7890c8c71"
-  },
-  {
-   "file": "produkt-07.jpg",
-   "kind": "product",
-   "order": 8,
-   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-6.jpg",
-   "width": 3000,
-   "height": 3000,
-   "bytes": 928213,
-   "sha256": "90eef79ea419dc680b772efb3b305d8275bff08781615bad74b8adb6c8348bf1"
-  },
-  {
-   "file": "produkt-08.jpg",
-   "kind": "product",
-   "order": 9,
-   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-7-nowe.jpg",
-   "width": 3000,
-   "height": 3000,
-   "bytes": 1140270,
-   "sha256": "e6adb9be9d109ebba159d10d7cedbc619514a06f8a3edc2c9a08e38728dd25ab"
-  },
-  {
-   "file": "produkt-09.jpg",
-   "kind": "product",
-   "order": 6,
-   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-8.jpg",
-   "width": 3000,
-   "height": 3000,
-   "bytes": 1079313,
-   "sha256": "42b70f0e3abbc8fdd21b4abfa1f64b80a6712f4ed10f9db5b8d6ba9c0209fec8"
-  },
-  {
-   "file": "logo-braun.png",
-   "kind": "logo",
-   "order": 10,
-   "sourceUrl": "repo produkty-media/braun-si9682db/99-logo-braun.png"
-  }
- ]
+  "version": 1,
+  "generatedAt": "2026-10-07T10:10:55.590Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie-i-uroda/golarki/golarka-braun-72-g1200s-na-mokro-i-sucho (karta zastepcza; euro.com.pl zablokowane po IP 7.10)",
+  "slug": "braun-seria-7-72-g1200s",
+  "galleryOrder": [
+    "produkt-02.jpg",
+    "produkt-01.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-09.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-braun.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-zestaw-wer-1.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 695816,
+      "sha256": "d8634875a7abedff314d031ca661e208f03aab7737d707f6374647bd1ad2ea5c"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-1.jpg",
+      "width": 2718,
+      "height": 2459,
+      "bytes": 605501,
+      "sha256": "d24a96d2ec284764c03b659117fd33ed3060a3201aed6e8f1af4e0a6f19db8fd"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-2.jpg",
+      "width": 2406,
+      "height": 2863,
+      "bytes": 463873,
+      "sha256": "18781f3f79ef949e5d9894d1b130f6a464e017de78942569aa498b1e825728ee"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-3.jpg",
+      "width": 2890,
+      "height": 2850,
+      "bytes": 581677,
+      "sha256": "d2a33bb3c06be1ed94236ac52818bda6215654b5b3344ea6a60f8c92c8ac935f"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-4.jpg",
+      "width": 3000,
+      "height": 3000,
+      "bytes": 904983,
+      "sha256": "673f41518e68ca6171a8c326d3836de4c2dd592fb421b1fa995bbbdade4e6084"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-5.jpg",
+      "width": 3000,
+      "height": 3000,
+      "bytes": 687511,
+      "sha256": "521924b2d1a5442392e47feb8f3993289f02855d12a1b011e8f1fbc7890c8c71"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-6.jpg",
+      "width": 3000,
+      "height": 3000,
+      "bytes": 928213,
+      "sha256": "90eef79ea419dc680b772efb3b305d8275bff08781615bad74b8adb6c8348bf1"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-7-nowe.jpg",
+      "width": 3000,
+      "height": 3000,
+      "bytes": 1140270,
+      "sha256": "e6adb9be9d109ebba159d10d7cedbc619514a06f8a3edc2c9a08e38728dd25ab"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/79/7996497/Golarka-BRAUN-72-G1200S-Na-mokro-i-sucho-8.jpg",
+      "width": 3000,
+      "height": 3000,
+      "bytes": 1079313,
+      "sha256": "42b70f0e3abbc8fdd21b4abfa1f64b80a6712f4ed10f9db5b8d6ba9c0209fec8"
+    },
+    {
+      "file": "logo-braun.png",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "repo produkty-media/braun-si9682db/99-logo-braun.png",
+      "bytes": 19329,
+      "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a",
+      "width": 1200,
+      "height": 504
+    }
+  ]
 }
