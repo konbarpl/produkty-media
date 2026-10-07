@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-07T10:52:26.138Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie-i-uroda/golarki/golarka-meska-dreame-s9 (galeria ME, id 14337348, gallery_1000_1000)",
+  "slug": "dreame-s9-golarka",
+  "galleryOrder": [
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-01.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-dreame.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14337348/Golarka-DREAME-S9-Na-mokro-i-sucho-1.jpg",
+      "width": 1000,
+      "bytes": 46805,
+      "sha256": "75b5fea70939c76abdcba4fc16707b476bd762c8168aa984b9292f66465e3bd2"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14337348/Golarka-DREAME-S9-Na-mokro-i-sucho-2.jpg",
+      "width": 1000,
+      "bytes": 31582,
+      "sha256": "dc593b983c2f3cb35c21821539becd33ac42321a013b0b7cc22f5e89c67c4db7"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14337348/Golarka-DREAME-S9-Na-mokro-i-sucho-3.jpg",
+      "width": 1000,
+      "bytes": 37083,
+      "sha256": "b6313c614c6298961bf0d0f268cb0e3319a56fab49a74333a454ffaee53cc998"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14337348/Golarka-DREAME-S9-Na-mokro-i-sucho-4.jpg",
+      "width": 1000,
+      "bytes": 27955,
+      "sha256": "37bebc65350c3314cf41d4276e98816e08f8d6883b12561f980bb5443a0faab6"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14337348/Golarka-DREAME-S9-Na-mokro-i-sucho-5.jpg",
+      "width": 1000,
+      "bytes": 31268,
+      "sha256": "c33d377c6a0a23492753a41d360d2380fb3f02b239f8fd8c2bbfe1942f642468"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14337348/Golarka-DREAME-S9-Na-mokro-i-sucho-6.jpg",
+      "width": 1000,
+      "bytes": 28229,
+      "sha256": "237b8dc106400087670880a3aa5595407f728628da6e2b10a481d3ce4bbdd308"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14337348/Golarka-DREAME-S9-Na-mokro-i-sucho-7.jpg",
+      "width": 1000,
+      "bytes": 27158,
+      "sha256": "29ed9dbf2dde472de308c21266f46542a1221037a9f1b56c85d30f172435d78f"
+    },
+    {
+      "file": "logo-dreame.jpg",
+      "kind": "logo",
+      "order": 8,
+      "desc": "Logo marki Dreame (skopiowane z dreame-ap10/logo-producenta.jpg, 775x84)",
+      "width": 775,
+      "bytes": 15201,
+      "sha256": "b608908598b2a6d35aabb1b1bf3cde97afb8e5b6e6aab49f8ca8723d53f6c376"
+    }
+  ],
+  "dropped": 0,
+  "note": "Kolejnosc galerii: front (02) jako miniatura, potem 3/4 (03), zestaw z baza i etui (01), reszta wg ME; logo Dreame na koncu. Wykonawca T54 G76 7.10.2026."
+}
