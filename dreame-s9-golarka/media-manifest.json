@@ -84,7 +84,8 @@
       "desc": "Logo marki Dreame (skopiowane z dreame-ap10/logo-producenta.jpg, 775x84)",
       "width": 775,
       "bytes": 15201,
-      "sha256": "b608908598b2a6d35aabb1b1bf3cde97afb8e5b6e6aab49f8ca8723d53f6c376"
+      "sha256": "b608908598b2a6d35aabb1b1bf3cde97afb8e5b6e6aab49f8ca8723d53f6c376",
+      "sourceUrl": "repo produkty-media/dreame-ap10/logo-producenta.jpg"
     }
   ],
   "dropped": 0,
