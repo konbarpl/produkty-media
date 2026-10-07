@@ -1,0 +1,225 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T09:56:08.735Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/BRI938_00.assets (PRX API, CTN BRI938/00)",
+ "slug": "philips-bri938-00",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-03.jpg",
+  "produkt-02.jpg",
+  "produkt-13.webp",
+  "produkt-08.webp",
+  "produkt-17.webp",
+  "produkt-16.webp",
+  "produkt-18.webp",
+  "produkt-15.webp",
+  "produkt-04.webp",
+  "produkt-06.webp",
+  "produkt-05.webp",
+  "produkt-07.webp",
+  "produkt-11.webp",
+  "produkt-12.webp",
+  "produkt-14.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/25263b209355409c8c9ab40400b8351b?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 25916,
+   "sha256": "01feeccdc5f3227ecdd43f5ddbe68c03b085a49bb0ec2fcff35d7701006be81e",
+   "prxType": "RTP"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/5a4157fa25334679814ab3aa0101c238?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 32931,
+   "sha256": "556ef3de359b926b96af11dcf4ac0eb9acc29e3e97de35fda5b00d620f89b9ad",
+   "prxType": "A1P"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/7c935240722b4e02b5eab3aa01024a42?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 31020,
+   "sha256": "997835be637e8c0e2c4df39dbf306f7f86dd8019b63e41f998718b2cd53ea0b7",
+   "prxType": "A2P"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/75580daa988f40238e1eb3fa00e21e65?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 39036,
+   "sha256": "73bd7e3e00d4786f9ce6e2fde1b623a3071669038e8bb7fd66a88e4fb0c9b5ea",
+   "prxType": "MI1"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/632181b4d0d74146b1f1b3fa00e239be?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 105680,
+   "sha256": "b2c0fb284e1a2e647d7875de0761f3f0929ae6697a1a4afe5704fbe2c8608476",
+   "prxType": "U1P"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/06f33aa04eb94f4ba857b3fa00e23eca?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 18522,
+   "sha256": "1350072204db43b445f3f1b9eeaf4b22c42889355ec963ce1acdd53b5e7173fe",
+   "prxType": "U2P"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/b548bfdd3fa349208b72b3fa00e221fc?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 31598,
+   "sha256": "f90758c968a11fe9773f2964daca1a8b2fe90de5e98e7d552e7d031c9bfd29e0",
+   "prxType": "U3P"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/c835d69287674f13a0adb402007aa155?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 15310,
+   "sha256": "b58a5d8d6e632a3ae7f371d978f3278057171c7439ea9bcd5d54bde1cc1eabc5",
+   "prxType": "U4P (FIL Sunstone Core 9000 Unique Curved Attachments)"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/a6f4cf4e4b9a4cbc98f7b3bc00f7aead?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 55416,
+   "sha256": "d5528afbf482a402d8861e58e50760e60ca76f858725a17c5f393dbfe4c4b149",
+   "prxType": "E1P"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/2cf11d65de5249b3844db3bc00f7a99a?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 33962,
+   "sha256": "424b810cef75ea2c9dcf9acbd11c8bd93a73fef736d49a7775c4ecc984d35f83",
+   "prxType": "E2P"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/a9a6da4acb204010b59cb3bc00f7a34e?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 40238,
+   "sha256": "4f82ac45bba7acfaac44301e8764af2258484f53764123e9988a37e1aa33e89c",
+   "prxType": "E3P"
+  },
+  {
+   "file": "produkt-12.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/93013a2e7be04f99b5bbb3bc00f79f3f?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 40274,
+   "sha256": "0db5cfc4e0b9e6231a3c283ed3f625e0a79fda05bb71359d0b43414dfcceea2e",
+   "prxType": "E4P"
+  },
+  {
+   "file": "produkt-13.webp",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/720ded137d9e4f67bac8b409011ee10b?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 71314,
+   "sha256": "b30f4b83c094746f0e7035535fb2d71661dfdab3dd1f3c3dd0a1f3378094a3b5",
+   "prxType": "FIL Core Range PIS"
+  },
+  {
+   "file": "produkt-14.webp",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/990fa1181a8747829480b3e200abde30?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 26406,
+   "sha256": "a18e7185f8ebdc850821aa47eaf8012833040caa04c1734ef3bf8705438026df",
+   "prxType": "FIL Core Range Clinically tested"
+  },
+  {
+   "file": "produkt-15.webp",
+   "kind": "product",
+   "order": 15,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/c74a316c346845f585c1b3ca009372e8?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 45602,
+   "sha256": "e135d51f519a59ccf0eadbb39175b339abb7d9a3b4404a3b4c457e284e7051da",
+   "prxType": "FIL Core Range IPL app"
+  },
+  {
+   "file": "produkt-16.webp",
+   "kind": "product",
+   "order": 16,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/687606d5bd4d4d0c9cf9b3bc00f444a5?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 30488,
+   "sha256": "897ead77fd77d1037ec444b50a0122eac58f8981a4348e285137f91514ca8ce0",
+   "prxType": "FIL Core Range Skin tones"
+  },
+  {
+   "file": "produkt-17.webp",
+   "kind": "product",
+   "order": 17,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/b27ee88d9cb24b36a4e6b40b008671d2?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 28614,
+   "sha256": "4c3962a2611f6768838278d089843455a5728a9669029748e835f1e4d4fded3d",
+   "prxType": "FIL SenseIQ Tech"
+  },
+  {
+   "file": "produkt-18.webp",
+   "kind": "product",
+   "order": 18,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/b5f23326d8004428ae6bb3fa00e2328f?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 33910,
+   "sha256": "7a811995cc2eb947b565fd5798d1b234123667fb1991c0ce71b816b3e424c5cf",
+   "prxType": "FIL Core Range Medical-Grade Safety"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 99,
+   "sourceUrl": "kopia z produkty-media/philips-bri940-00/logo-philips.png (logo marki Philips, repo mediów)",
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "dropped": 0,
+ "identityCheck": "Wszystkie 18 zdjęć z PRX .assets CTN BRI938/00; obejrzane na kontaktówce — ten sam depilator Lumea 9000 (różowo-biały, 3 nasadki, etui). Pominięto 2 obrazy FIL „Sunstone Smart 9900” (inny model) i FIL „5 year Warranty” (treść gwarancyjna).",
+ "excluded": [
+  "5d23382dc44a44e688d4b39f0148c4cb (FIL Sunstone Smart 9900 B&A Legs — inny model)",
+  "51773b47567d4137b63fb3a1014e9ab8 (FIL Sunstone Smart 9900 Fast Results — inny model)",
+  "1bf94d1dabc447bcadd1b3fa00e224dd (FIL 5 year Warranty — treść gwarancyjna)",
+  "BRP logo PRX — zastąpione logo-philips.png z repo"
+ ]
+}
