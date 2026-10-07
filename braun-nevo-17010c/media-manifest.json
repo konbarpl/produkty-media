@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-07T13:20:16.455Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie-i-uroda/golarki/golarka-braun-nevo-1710 (galeria ME 13545424, gallery_1000_1000, wszystkie 14 plikow z kodem 17010C) + kontrola https://www.braun.pl/pl-pl/male-grooming/shavers-for-men/nevo/nevo-17010c; odrzucone: braun.pl hero 17010c (plakietka '5 Years Warranty'), braun.pl witb 17010c (ta sama kompozycja co ME -1), braun.pl packaging 17010c (dubluje ME -4), pliki braun.pl bez kodu modelu ('*-graphite-pl', wspolne z 15010c), mega-* (porownania)",
+  "slug": "braun-nevo-17010c",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "logo-braun.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-1.jpg",
+      "width": 1000,
+      "bytes": 91270,
+      "sha256": "ae5db01193ddb3a9d2af512de171d51734f1b665e7d8aa99e3f0d3c275911fcf"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-2.jpg",
+      "width": 1000,
+      "bytes": 91024,
+      "sha256": "836a3cba98af2a1ce6d70b65ddbdda95738177bafa3f99d66af4f7f92f81af05"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-3.jpg",
+      "width": 1000,
+      "bytes": 110208,
+      "sha256": "d34263918076949efd3e0f66f1fe7021284265bf04c147094117704712fa0263"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-9.jpg",
+      "width": 1000,
+      "bytes": 127805,
+      "sha256": "9d82658c5bf2116df0584ac86e48920976024b97334f47a47aeac711a8abee0b"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-11.jpg",
+      "width": 1000,
+      "bytes": 88234,
+      "sha256": "1c6a6fdbc223fc53669f47735ceee290261241e3d264efae9abe147e67084669"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-14.jpg",
+      "width": 1000,
+      "bytes": 117286,
+      "sha256": "c0cb90746c64a8a3990df4f4c93359b8510f2c364884bbf6ae5cc73149086741"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-6.jpg",
+      "width": 1000,
+      "bytes": 111322,
+      "sha256": "9e6276ad431d378329d6a51f4cd97c1edb1ee27dd0cbd5ca55484d2836279c54"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-10.jpg",
+      "width": 1000,
+      "bytes": 125285,
+      "sha256": "36773da0e50ce5b75cb06e847851034adcc304552cf0453cce9f4c7403a923ea"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-13.jpg",
+      "width": 1000,
+      "bytes": 118313,
+      "sha256": "48fda7b5129fa7e8f33d64d312f96a398a34cd8d3f7d367734934662ab1240bf"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-8.jpg",
+      "width": 1000,
+      "bytes": 91997,
+      "sha256": "effbd256f464c48918b7b9251ac2d05b092668f59761dbd8299e0a4c54f15be7"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-5.jpg",
+      "width": 1000,
+      "bytes": 159215,
+      "sha256": "a1cc025cd6bcb4dc2a214c859b1927169db387d6ec72dc79e89d613380020ecd"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-7.jpg",
+      "width": 1000,
+      "bytes": 149975,
+      "sha256": "fb4f0b5c0f38c7efb85381f7ed5d870284413df65870e7ba2706635422375152"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-12.jpg",
+      "width": 1000,
+      "bytes": 134071,
+      "sha256": "917c0473ef00a4ec9e0abb9de5f29e99ba0a4c344af2fb81eaf9216a36f59d63"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/media/cache/gallery_1000_1000/images/13/13545424/Golarka-BRAUN-Nevo-17010C-4.jpg",
+      "width": 1000,
+      "bytes": 79479,
+      "sha256": "3b7bae860a32a89b6e90b46a8bb8707e84e92eb0736e0f7abc19559b67387611"
+    },
+    {
+      "file": "logo-braun.png",
+      "kind": "logo",
+      "order": 15,
+      "sourceUrl": "repo produkty-media/braun-si9682db/99-logo-braun.png",
+      "width": 1200,
+      "bytes": 19329,
+      "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a"
+    }
+  ],
+  "dropped": [
+    {
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/3QAbbu3qrABuSEGuhibZcj/e100c4d4121b95911feb6051e95a09d8/pdp-mpg-nevo-17010c-hero-image.jpg",
+      "reason": "plakietka gwarancji 5 lat"
+    },
+    {
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/30Nn1y8iW8WGcwapoGwaxu/2e4ced4770508314d47179bf1c5e7c27/pdp-mpg-nevo-17010c-witb.jpg",
+      "reason": "ta sama kompozycja co ME -1"
+    },
+    {
+      "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/4r0Df62Stn5gY3I3wl1Lz3/4d0d2dcced8768ff131ec42e856181f8/pdp-mpg-nevo-17010c-packaging.jpg",
+      "reason": "opakowanie — wystarczy ME -4"
+    }
+  ],
+  "note": "ETAP 1 SZKIELET T54 G76 nr 27; logo marki na koncu galerii (kopia z braun-si9682db/99-logo-braun.png, 1200x504)."
+}
