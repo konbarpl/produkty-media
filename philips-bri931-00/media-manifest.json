@@ -177,12 +177,15 @@
   },
   {
    "file": "logo-philips.png",
-   "kind": "product",
+   "kind": "logo",
    "order": 15,
    "type": "LOGO",
    "desc": "logo marki Philips (z repo mediów: philips-bri940-00/logo-philips.png)",
    "bytes": 6882,
-   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+   "sourceUrl": "repo produkty-media/philips-ep2331-10/logo-philips.png",
+   "width": 525,
+   "height": 105
   }
  ],
  "dropped": 0
