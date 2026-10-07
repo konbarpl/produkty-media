@@ -1,0 +1,189 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T09:57:22.502Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/BRI931_00.assets (PRX API, CTN BRI931/00)",
+ "slug": "philips-bri931-00",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "produkt-08.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "produkt-11.webp",
+  "produkt-12.webp",
+  "produkt-13.webp",
+  "produkt-14.webp",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/88f7772014f347d59d86b18100dc343c?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 13872,
+   "sha256": "12616feec32c5e5d5701c2ab884adfbc59cb379d72595d8778c26e5567c04775",
+   "type": "RTP",
+   "desc": "Standardowe zdjęcie produktu"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/6bc5fda57d1b4b03ab4bb3aa0101aab8?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 31959,
+   "sha256": "928907b287834fd0bdc671a14b1f2cd96564fc1dd0967ee3db0e015970498a84",
+   "type": "A1P",
+   "desc": "Zdjęcie prezentujące alternatywny produkt"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/43d357c29dc04288b843b3aa010239ca?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 31484,
+   "sha256": "c3588bd1b44af3b947aa421ec8ee1e0c5b8ec29352b37ee8e3e8ee89bea02f04",
+   "type": "A2P",
+   "desc": "Zdjęcie prezentujące alternatywny produkt"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/96ffd86d63a7472185b0b409011edbfb?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 67748,
+   "sha256": "53b826264c2b64f32defac8ad5cf132f626fccb30af283a808207d3353a52b38",
+   "type": "FIL",
+   "desc": "Lumea Sunstone Core Range Feature Image (PPL) PIS"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/52247d79a25d41bdb1e7b40b00866e31?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 28828,
+   "sha256": "78e0e441e187143a0170753115b609c30c2fcc43eaf6c7dfbf879fbc3079cd50",
+   "type": "FIL",
+   "desc": "Lumea Sunstone Feature Image (PPL) Sense IQ Tech Chromline Silver Arctic White"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/687606d5bd4d4d0c9cf9b3bc00f444a5?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 30488,
+   "sha256": "897ead77fd77d1037ec444b50a0122eac58f8981a4348e285137f91514ca8ce0",
+   "type": "FIL",
+   "desc": "Lumea Sunstone Core Range Feature Image (PPL) Skin tones"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/6bc2fa12fbec4409bdb9b401015921f5?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 6156,
+   "sha256": "32684491f640549ffe5df496ca721111b724ff1e1b54d94d54d9481a851277e6",
+   "type": "U3P",
+   "desc": "Zdjęcie prezentujące produkt w użyciu"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/44925b7207024fcc9b02b3fa00c2b9da?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 33918,
+   "sha256": "126f8e21b9ecd911f287fd06dcf0556cbddcf168dbf6da50bd8d13530e68408e",
+   "type": "MI1",
+   "desc": "Główne zdjęcie produktu w użyciu"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/2baa2493a42c46c8a11bb3fa00c2ae58?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 21428,
+   "sha256": "2f02c11594694a39f65aaaa785b0c19836853c525e1690aadfc416d2b768de44",
+   "type": "U1P",
+   "desc": "Zdjęcie prezentujące produkt w użyciu"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/d4aa1b0e7f354b73b0c1b3fa00c2b4ee?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 27882,
+   "sha256": "32ccb51478ae6e75b5bf4dcb81937d6127fd6e753698c536f86ec9b34b883ae1",
+   "type": "U2P",
+   "desc": "Zdjęcie prezentujące produkt w użyciu"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/6c7f098b6df94d19aba1b3c400904194?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 39076,
+   "sha256": "258c275468066a094e014421c3e2559b03ed5d031198d96284d84df4517df129",
+   "type": "FIL",
+   "desc": "Lumea Sunstone Core Range Feature Image (PPL) High effectiveness legs"
+  },
+  {
+   "file": "produkt-12.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/c74a316c346845f585c1b3ca009372e8?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 45602,
+   "sha256": "e135d51f519a59ccf0eadbb39175b339abb7d9a3b4404a3b4c457e284e7051da",
+   "type": "FIL",
+   "desc": "Lumea Sunstone Core Range Feature Image (PPL) IPL app"
+  },
+  {
+   "file": "produkt-13.webp",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/37758f092dbe4ce5b17bb3fa00c2b28d?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 19974,
+   "sha256": "90f0874cffe8e0ea20a530ada24de79b31c9643edd6f5368193b532e45bf3d16",
+   "type": "FIL",
+   "desc": "Lumea Sunstone Core Range Feature Image (PPL) 5 year Warranty, Chromline Silver"
+  },
+  {
+   "file": "produkt-14.webp",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/990fa1181a8747829480b3e200abde30?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 26406,
+   "sha256": "a18e7185f8ebdc850821aa47eaf8012833040caa04c1734ef3bf8705438026df",
+   "type": "FIL",
+   "desc": "Lumea Sunstone Core Range Feature Image (PPL) Cincally tested"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "product",
+   "order": 15,
+   "type": "LOGO",
+   "desc": "logo marki Philips (z repo mediów: philips-bri940-00/logo-philips.png)",
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "dropped": 0
+}
