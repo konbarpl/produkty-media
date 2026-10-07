@@ -1,0 +1,165 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T10:49:13.987Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/HX9997_32.assets (PRX API, CTN HX9997/32; kolejnosc: RTP/IMS komplet, A1P raczka, A2P raczka+etui, D2P etui otwarte, D3P etui, L1P, MI1, FIL tryby, FIL czujnik nacisku, FIL aplikacja, FIL akumulator, FIL SenseIQ; pominiete: E1P/E2P twarze bez produktu, VIM probka koloru, FIL Premium Design = duplikat L1P, FIL Sonicare 5000/7000 A3 = inna seria, 2x FIL Brush Heads Portfolio = zdjecia ogolne koncowek)",
+ "slug": "philips-sonicare-hx9997-32",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/90de87c5e9714c5c901cadba00a84d3a?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 57471,
+   "sha256": "39167c36cae6a08bf0ec36a3f06a062076f4ef48afaa9c60b511988155998707",
+   "height": 1200,
+   "type": "RTP/IMS komplet: raczka, etui podrozne z ladowaniem, podstawa ladowarki"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/b5f83078775d4fc0a18aadba00c7527d?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 17534,
+   "sha256": "348f9fc19000d6019d588cac43503c3c993aac32bb31e1b37e6dd4fd61473d65",
+   "height": 1200,
+   "type": "A1P raczka (przod)"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/3a4a7cdcf44a4af79963adbb01053974?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 67070,
+   "sha256": "838129ae381cc043a35058a8d0921ea3ae7221b4c25da2bd98d3e346c822083b",
+   "height": 1200,
+   "type": "A2P raczka + etui"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/f3dcc020ca994bebb41cadb90048b7e8?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 61052,
+   "sha256": "8a599e99708ef4cfd954910a81eb3a3aeb92702eb93610ce34a8d5547976d708",
+   "height": 1200,
+   "type": "D2P etui otwarte z raczka"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/3d3a7a5fadf448c1b7e5adb9011506d8?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 61403,
+   "sha256": "b7550a9bdd1b6b0aea4b126f6a7bc23088fb7797ef759ad6d865bddd72b4b1ab",
+   "height": 1200,
+   "type": "D3P etui zamkniete"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/4b409106c21740799db9b2d500c89f81?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 82327,
+   "sha256": "69257d76242ab038611962c292a66f597bea78535eb3231c77cf2ad5ea5bba3e",
+   "height": 1200,
+   "type": "L1P raczka na ladowarce + etui"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/c7479cff3e7d49ee8594b2d500c89c7c?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 86821,
+   "sha256": "e3be0d9821379828a22c8304d7b4571de02b1d6f68610aff8804c5d37507a51b",
+   "height": 1200,
+   "type": "MI1 szczotkowanie"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/1d213fa6bc5a42fdbc9db2d7008580cd?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 86089,
+   "sha256": "6a6f3735f86014917b4b17555053accca31b61a5710e4262212afc43df2cce71",
+   "height": 1200,
+   "type": "FIL tryby i intensywnosc w aplikacji"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/b0d6ea26465747ceb0f0b2d70085831b?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 80339,
+   "sha256": "8bdb74f6befe4326e024a6e3196681b627c268cc65712dc1c34a861563ca2c16",
+   "height": 1200,
+   "type": "FIL wizualny czujnik nacisku"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/b91c5aa571524c4a9862b2b900e75153?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 80407,
+   "sha256": "bd8540f21a7104309f3b070c51d3350f93e78342e27e1e4f1be4b1385cd42b58",
+   "height": 1200,
+   "type": "FIL aplikacja Sonicare"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/12994750d64d47b4bbf2b2d7008597d9?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 80684,
+   "sha256": "d2f09907a52e722f63d0a7a179c80cbc5d586de5fe15cc396d6e52885465a212",
+   "height": 1200,
+   "type": "FIL akumulator 14 dni"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/71ae2b48ab1b49739ddcb2d500c872d6?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "bytes": 117968,
+   "sha256": "83b5bb25a89f53134699ff8a79c36cf2ad8ab2ae8492c88811383fae5f1f1dff",
+   "height": 1200,
+   "type": "FIL SenseIQ"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 13,
+   "desc": "Logo marki Philips (skopiowane z philips-seria-7000-s7885-50)",
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "dropped": 0,
+ "note": "Zdjecia wylacznie z assets PRX dla CTN HX9997/32 (kolor jasnoniebieski); nr 1 = RTP z kompletem (raczka, etui z ladowaniem USB, podstawa ladowarki). Pominiete: E1P/E2P (twarze bez produktu), VIM (probka koloru), FIL Premium Design (duplikat L1P), FIL Sonicare 5000/7000 A3 (inna seria), FIL Brush Heads Portfolio x2 (ogolne). Logo na koncu."
+}
