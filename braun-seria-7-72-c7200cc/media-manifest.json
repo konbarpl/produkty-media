@@ -1,0 +1,121 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T10:06:11.431Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie-i-uroda/golarki/golarka-braun-seria-7-72-c7200cc-na-mokro-i-sucho (galeria ME, id 7996469, gallery_1000_1000)",
+ "slug": "braun-seria-7-72-c7200cc",
+ "galleryOrder": [
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-01.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "logo-braun.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996469/Golarka-BRAUN-72-C7200CC-1.jpg",
+   "width": 1000,
+   "bytes": 91822,
+   "sha256": "edecd2c7a573c7f25637bb8b219626d9ff6498ec3ef74d1b491e33f8b78edb46"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996469/Golarka-BRAUN-72-C7200CC-2.jpg",
+   "width": 1000,
+   "bytes": 102499,
+   "sha256": "12bd660c0c22261df4dfccd98f98c48ec62b833666c8362bbc3363b70137c9b0"
+  },
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996469/Golarka-BRAUN-72-C7200CC-front-ikony.jpg",
+   "width": 1000,
+   "bytes": 110503,
+   "sha256": "737bf8520bb9e6c2b32d74c20469a1dc4a3956ce8bf2fc41403c9b2a3928cc3c"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996469/Golarka-BRAUN-72-C7200CC-3.jpg",
+   "width": 1000,
+   "bytes": 101188,
+   "sha256": "ec773fd27a6d066de21e221834d70a890e82511ff8f3d1fcc65c5870791ab74b"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996469/Golarka-BRAUN-72-C7200CC-5.jpg",
+   "width": 1000,
+   "bytes": 110842,
+   "sha256": "b152d1e1889a64af0fb92e6111b89b7c9a2aa3fce0a0fc0d0657da7fe66fbaed"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996469/Golarka-BRAUN-72-C7200CC-6.jpg",
+   "width": 1000,
+   "bytes": 84927,
+   "sha256": "c10e0363a673b8a79a3b2e1728b213a0ee5bcd5765350cfe52991dfdaca94dc6"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996469/Golarka-BRAUN-72-C7200CC-7.jpg",
+   "width": 1000,
+   "bytes": 98691,
+   "sha256": "b358d971f553c1b69b6d284e0eed50527e603dc27a4238df701b7ba02e5d865e"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996469/Golarka-BRAUN-72-C7200CC-8.jpg",
+   "width": 1000,
+   "bytes": 127893,
+   "sha256": "07f463f900a77e989229ea8336ccea510f5c76f7f14f3a164fe01f373672d63a"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996469/Golarka-BRAUN-72-C7200CC-9-1.jpg",
+   "width": 1000,
+   "bytes": 141360,
+   "sha256": "8b3a85820e086d3b27bba5fce98a10db41cc4f25efb039ee547f57e9d80d9e41"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996469/Golarka-BRAUN-72-C7200CC-10.jpg",
+   "width": 1000,
+   "bytes": 130838,
+   "sha256": "8860f5d3445c24fd7b8595caaf1bb1c74c30ccc267c635b490d9b2058c4857d6"
+  },
+  {
+   "file": "logo-braun.png",
+   "kind": "logo",
+   "order": 11,
+   "desc": "Logo marki Braun (skopiowane z braun-si9682db/99-logo-braun.png)",
+   "bytes": 19329,
+   "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a"
+  }
+ ],
+ "dropped": 0,
+ "note": "Galeria wylacznie z karty Media Expert produktu 7996469 (Golarka BRAUN Seria 7 72-C7200CC, kolor czarny). Logo na koncu."
+}
