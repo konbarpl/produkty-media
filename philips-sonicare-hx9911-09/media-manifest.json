@@ -1,0 +1,141 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T10:49:21.530127Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/HX9911_09.assets (PRX API, CTN HX9911/09)",
+ "slug": "philips-sonicare-hx9911-09",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/1d62f26f7d3f4b72938eac6001493368?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 59268,
+   "sha256": "e5e49f5bac12e01df57bb9b01c8ab74541129d0decf28e61de7ad7d8ba7d5984",
+   "type": "RTP",
+   "desc": "Standardowe zdjęcie produktu"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/19619ce78c9c4af9bd30ac6001494de3?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 46368,
+   "sha256": "85145b10248f346767bfbb43e3432a306ac4eff7f93c82742ee0468899c105a4",
+   "type": "A1P",
+   "desc": "Zdjęcie prezentujące alternatywny produkt"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/ba47a7eefc624fe38727b2ec008173b8?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 65571,
+   "sha256": "f671744388ae646c95a624498c9dab44c69cacb9f5a7efe001a44541efe0bc18",
+   "type": "FIL",
+   "desc": "Philips_Sonicare_9000 series Feature Image (PPL) Premium design and accessories"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/7fff1c26dda74a4ca525b2c000f95201?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 93895,
+   "sha256": "eaca09cde219b4af23837b94c154775434f5128976a7f174d8b9699775288930",
+   "type": "FIL",
+   "desc": "Philips_Sonicare_9000 series Feature Image (PPL) Pressure_sensor_pulses_C3"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/517ff11e5b0343f6a810b2ec0068c170?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 59954,
+   "sha256": "1f1068430a71bdec93d36d040d6b30b78c689cc641f49d45af9623d115e6225b",
+   "type": "FIL",
+   "desc": "Philips_Sonicare_9000 series Feature Image (PPL) Setting_mode_and_intensity"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/a52f77b576f74837a9c9b2ec0068b302?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 65856,
+   "sha256": "57304bb14fc9c98ae9d1d8c4471ac2cbfc2782e94c17647d087e707c11da0184",
+   "type": "FIL",
+   "desc": "Philips_Sonicare_9000 series Feature Image (PPL) Battery_life"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/9c7dcb4b6b144d09b047b2c000f9ae75?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 78157,
+   "sha256": "20e5bde2e75985b54f120ae7a7ccf20cd3079e6b6cfd876ca0712877b986c022",
+   "type": "MI1",
+   "desc": "Główne zdjęcie produktu w użyciu"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/6f0d230b0fa146d0a8c7b2c000f9a942?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 89493,
+   "sha256": "039dc51a462343a3379234089db2d2695d0a588b20655b0da89ffa39068c77b8",
+   "type": "U2P",
+   "desc": "Zdjęcie prezentujące produkt w użyciu"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/504c0eb2ff684effa24eb2c000f9abcd?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 83926,
+   "sha256": "202f415533e5c840a98fb33d8fa783d21c05ed5747e927f7aeebc0ed40988d14",
+   "type": "U1P",
+   "desc": "Zdjęcie prezentujące produkt w użyciu"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 10,
+   "sourceUrl": "repo produkty-media/philips-bri984-00/logo-philips.png",
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "rejected": {
+  "8": "FIL Brush Heads Portfolio: ogolna grafika koncowek, typ koncowki niepewny (zestaw = C3 Premium Plaque Control)",
+  "12": "FIL Brush Heads Portfolio: biala koncowka innego typu",
+  "9": "FIL Sonicare 5000 7000_Cairo: nazwa pliku z innej serii"
+ }
+}
