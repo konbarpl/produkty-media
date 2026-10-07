@@ -1,0 +1,144 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T11:39:47.185482Z",
+ "sourcePage": "https://www.braun.pl/pl-pl/female-hair-removal/silk-expert-pro-ipl/silk-expert-mini/silk-expert-mini-pl1115 (Contentful images.ctfassets.net, oryginaly 3000/1473 px -> JPEG max 2000 px; odrzucone: warianty blush/rozowe PL1111/PL1100 (04,06,11,14,15,16,19), duplikat packshotu shelf (12), pasek porownania 1080x240 (13), grafika bez urzadzenia (20))",
+ "slug": "braun-pl1115",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "logo-braun.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "desc": "packshot: urzadzenie bialo-srebrne + zestaw + pudelko",
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/18obBfMLatoSHQ551WWaOn/b4e9c59d10fd5443f54bed7ef58767c9/pdp-fehr-silk-expert-mini-pl1115-hero-image.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 263898,
+   "sha256": "64a1cd88061d264b3a696287acf3fe07ddd73d8bbe6869b325ef70f90b03413f"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "desc": "co w zestawie: urzadzenie, trymer bikini z nasadkami, Face Mini, Venus, kosmetyczka",
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/2RuLJAw42loWJf5Fy8nLMc/e36368a0a4ecfd89c71d614e55f01067/pdp-fehr-silk-expert-mini-pl1115-witb.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 251906,
+   "sha256": "0f3d913cde634576fd690e31a87d4bfb953dfdd95fa92de86c302e0db3def2a1"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "desc": "opakowanie PL1115",
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/4iqtoD7Vj03kpt8HnjPqQG/e3db0803835892419b7402cee179340e/pdp-fehr-silk-expert-mini-pl1115-packaging.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 201772,
+   "sha256": "cbbad0b75164927650f4df6052c3d86c3a821f02339699bb3e33d64a063f34da"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "desc": "grafika: domowa alternatywa dla depilacji laserowej",
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/5gPzJTpgO5eE5GfeFngT9r/b367b5fdbf84e7f93151a5ca8b427776/pdp-fehr-silk-expert-mini-benefits-white-pl.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 447244,
+   "sha256": "238550cc0ed9cbc048efcdb94261a99a36fb2c279270d430d97281a1ac71987e"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "desc": "grafika: widoczne rezultaty po 3 sesjach",
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/173hT47bGQfnhnLiblxRiq/73b39bdbe1a78b81f50b4dd93a79b28e/pdp-fehr-silk-expert-mini-visible-results-white-pl.jpeg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 541629,
+   "sha256": "cd2363975a0604ad0138b247f737b742162bfc3ab9125f80a0968c9c24e3e081"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "desc": "grafika: 3 latwe kroki",
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/P3aAC2Dj73eKSr8de3AD3/c01308f356b554036e0897fa7c7709c0/pdp-fehr-silk-expert-mini-3-easy-steps-white-pl.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 325207,
+   "sha256": "f5ee870a2c464d158f32aa5bad21bc8241334dfbc8c27071e0fa3d0ee0cada60"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "desc": "grafika: odpowiednie odcienie skory i kolory wlosow",
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/1nfMEOVV8ZXfli6jNj5buK/4461e6ee86a09b1eeb86a1934aafe40c/pdp-fehr-silk-expert-mini-skin-and-hair-tones-pl.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 355865,
+   "sha256": "ce6577546e02307cbb77fc43a4b732f83032a55b32b9ad7c3aa40160e8342c5f"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "desc": "lifestyle: zabieg na nodze, urzadzenie biale",
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/3CnbWpvgo16SjAzm2Ho4ap/957bdeff905b6d05b4a433b95a5cd4d7/pdp-fehr-highlights-silk-expert-mini-invest-once-white.jpg",
+   "width": 1473,
+   "height": 1473,
+   "bytes": 305702,
+   "sha256": "885e6e6f2da7ced30522e1e9198f2354ab4479bbce86378013b422dd4c35b3ea"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "desc": "lifestyle: zabieg pod pacha, urzadzenie biale",
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/cx1Yo1LVqLpqCgRKzcjMm/1fed3bf6140c923121ad2bfc95169342/pdp-fehr-highlights-silk-expert-mini-skin-protect-sensor-white.jpg",
+   "width": 1473,
+   "height": 1473,
+   "bytes": 281520,
+   "sha256": "2da12706a04de656c67c6dcc8f739fe19886f14f99c52f17f060f4c002417ab9"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "desc": "grafika marki: stworzony na lata, 18 lat zabiegow, zaprojektowano w Niemczech",
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/1KEJj9vaGQG5nH8Qm8SH3Q/f3fec0ce6ed2863388e82d2f88933e1c/pdp-fehr-silk-expert-mini-built-to-last-pl.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 145462,
+   "sha256": "6eb2831300b5b2c3c0527789017e5d9895c373d4371478dd116984afdff72f8b"
+  },
+  {
+   "file": "logo-braun.png",
+   "kind": "logo",
+   "order": 11,
+   "type": "LOGO",
+   "desc": "logo marki Braun (z repo mediow: braun-seria-9-9110s-sport/logo-braun.png)",
+   "sourceUrl": "repo produkty-media/braun-seria-9-9110s-sport/logo-braun.png",
+   "width": 1200,
+   "height": 504,
+   "bytes": 19329,
+   "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a"
+  }
+ ],
+ "dropped": 0
+}
