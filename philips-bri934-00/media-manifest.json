@@ -1,0 +1,157 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T09:56:15.986Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/BRI934_00.assets (PRX API, CTN BRI934/00)",
+ "slug": "philips-bri934-00",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.jpg",
+  "produkt-03.webp",
+  "produkt-08.webp",
+  "produkt-05.webp",
+  "produkt-07.webp",
+  "produkt-04.webp",
+  "produkt-06.webp",
+  "produkt-11.webp",
+  "produkt-12.webp",
+  "produkt-09.webp",
+  "produkt-10.webp",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/18b08eecd2d74a33ba3eb40400b81e8e?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 46694,
+   "sha256": "6aeb140b003841694c7e324c1888ba8493fb25dbecba5d07dfa48045d12ec522",
+   "type": "RTP"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/ee81e090b82e474b82a9b3af00c5266b?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 52855,
+   "sha256": "1988bd6f42090651046e4f556d3c4c55d878da5abe7856003e1cf94a573ca63e",
+   "type": "A1P"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/a0b0cea2450d46348255b3af00c54085?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 21664,
+   "sha256": "9574e420608f4bc1139115d91a698cc418435425da959798724574de12d4e909",
+   "type": "A2P"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/3d20a3ed17e14c1c9ccdb3fa00846c14?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 35558,
+   "sha256": "b612a94eaa88b75f793c8aa2adb7faa2a43d2552a82e3a7be9f492a2dd539645",
+   "type": "MI1"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/040563f5cef34dc78af0b3fa0084f361?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 35346,
+   "sha256": "ab406b787bb6234cf5b401eb024ddd56c1860fad5b9fc55e40f7d8cf138d0605",
+   "type": "U1P"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/bd0b28c2735f4c73a334b3fa0084835a?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 49434,
+   "sha256": "308a2f9b577809e82aa08cae1af113f4ba1fa4507811a61062ae4257b36cec85",
+   "type": "U2P"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/7fe928682a0348a2810ab3fa0084de0e?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 44852,
+   "sha256": "090393c5f104737220feccf2475b88a5e974958f4facfb1f17c6a18360182592",
+   "type": "U3P"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/21af058c39964c34973bb4010155896f?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 13318,
+   "sha256": "2a6337f3ee67c3e5f22d1a5a0c80e6071cb75eed3d01c561a86775baf7c8d94b",
+   "type": "U4P"
+  },
+  {
+   "file": "produkt-09.webp",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/a6f4cf4e4b9a4cbc98f7b3bc00f7aead?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 93238,
+   "sha256": "843dfdd528306127449c3e7fcf3a1c44c0db9e3bdd06477cd56374bff3013326",
+   "type": "E1P"
+  },
+  {
+   "file": "produkt-10.webp",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/2cf11d65de5249b3844db3bc00f7a99a?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 54342,
+   "sha256": "a24e86591907bb293c3028749251c0b51e92b9008618dec8f804f4e9625e5ff4",
+   "type": "E2P"
+  },
+  {
+   "file": "produkt-11.webp",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/a9a6da4acb204010b59cb3bc00f7a34e?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 59538,
+   "sha256": "ef7df67439b97f8b270b69365a9f90f7ae5201b6a0c3da3519ddadb8ca81dad3",
+   "type": "E3P"
+  },
+  {
+   "file": "produkt-12.webp",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/93013a2e7be04f99b5bbb3bc00f79f3f?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 63252,
+   "sha256": "d6d3f484abb5a06190f15aa21e3c9ee4c23578680441968ba7ea2979041742ce",
+   "type": "E4P"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 13,
+   "type": "LOGO",
+   "desc": "logo marki Philips",
+   "sourceUrl": "repo produkty-media/philips-bri940-00/logo-philips.png",
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+   "width": 525,
+   "height": 105
+  }
+ ],
+ "dropped": 0,
+ "curation": "2026-10-07 wykonawca T54: kolejnosc = packshoty, nasadki, zdjecia w uzyciu, lifestyle, logo; wszystkie zdjecia z listy assets CTN BRI934/00; zdjecia FIL wspolne dla serii (w tym 9000, SenseIQ Pro, aplikacja, gwarancja) pominiete; tozsamosc obejrzana na kontaktowce"
+}
