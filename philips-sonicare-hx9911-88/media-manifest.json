@@ -91,7 +91,9 @@
    "order": 7,
    "sourceUrl": "repo produkty-media/philips-shaver-5000-s5886-38/logo-philips.png (kopia z philips-bri984-00)",
    "bytes": 6882,
-   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+   "width": 525,
+   "height": 105
   }
  ],
  "rejected": {
