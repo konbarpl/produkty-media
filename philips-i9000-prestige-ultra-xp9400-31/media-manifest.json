@@ -1,0 +1,356 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T13:06:43.230Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/XP9400_31.assets (PRX API, CTN XP9400/31; kandydaci cand_idx.txt, kontaktowka.jpg w claude/erli-research/_tmp/philips-i9000-prestige-ultra-xp9400-31/)",
+ "slug": "philips-i9000-prestige-ultra-xp9400-31",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "produkt-14.jpg",
+  "produkt-15.jpg",
+  "produkt-16.jpg",
+  "produkt-17.jpg",
+  "produkt-18.jpg",
+  "produkt-19.jpg",
+  "produkt-20.jpg",
+  "produkt-21.jpg",
+  "produkt-22.jpg",
+  "produkt-23.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/03bc1ea5546a41578cb5b236009da382?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 110388,
+   "sha256": "f41126699cd1f2d0c13beb839c35ad30ae06b250aec56babe619a1a6e8b2bbad",
+   "type": "RTP Standardowe zdjęcie produktu",
+   "kandydat": "c06"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/02b143aa2c094709ad92b23401123176?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 56985,
+   "sha256": "c4300acff183aaf639a0e904e8bebf81fa1c06f4fe27947483c6008c0eae69a6",
+   "type": "A1P Zdjęcie prezentujące alternatywny produkt",
+   "kandydat": "c01"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/0da56e71e5b94196afa4b23401125a73?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 57708,
+   "sha256": "8a1cb6a7abb6181f2d99cab3a7ad6bad134716538c121500e66f3557c77604ec",
+   "type": "A2P Zdjęcie prezentujące alternatywny produkt",
+   "kandydat": "c12"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/87e3c80a4e3d4344aa30b23401124c03?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 50472,
+   "sha256": "12f0d9a3b099d12787ede11d4c6de4591cc1a00fa9f59d9b0b63fead14b7e867",
+   "type": "A3P Zdjęcie prezentujące alternatywny produkt",
+   "kandydat": "c16"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/cd10b7bab7534a55893db23401124a19?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 53322,
+   "sha256": "da04a9f87458f1a35816bd7747c3ccf1a8ac141c6d85305c2808f0eba6e5eb4d",
+   "type": "A4P Zdjęcie prezentujące alternatywny produkt",
+   "kandydat": "c11"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/4fe0d3a871ab4bc0a8ddb2520083d4a4?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 676,
+   "bytes": 53403,
+   "sha256": "e9e8a68157a57aa8baf373191b7da6d2ee77efdc3d8e176ed520cfdc33a0d0a2",
+   "type": "MI1 Główne zdjęcie produktu w użyciu",
+   "kandydat": "c09"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/47516cac53464ae5b592b23300b5d1e0?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 676,
+   "bytes": 83483,
+   "sha256": "9145c16d66507808d6d7afeb44430fa210ac082d41f550ad41ae3cd7b2ec17b5",
+   "type": "DPP Zdjęcie prezentujące szczegóły produktu",
+   "kandydat": "c04"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/352ab17a36a74fb98c33b22900ff2484?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 676,
+   "bytes": 79358,
+   "sha256": "5917b7c9e74edbed45062e2ceea2fe1d2e1bfecd1210b837a5cb4206da5e1287",
+   "type": "FIL i9000P Ultra Phoenix Feature Image (PPL) Triple Action Lift & Cut System",
+   "kandydat": "c17"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/c9d133e7a8894153b480b2520080e5a8?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 675,
+   "bytes": 57989,
+   "sha256": "99e20a3fef72f87620062f829a1c5a0f80c8cad6535ca37fbb7cd687c223de2d",
+   "type": "FIL i9000P Ultra Phoenix Feature Image (PPL) 360 Precision Flexing Head",
+   "kandydat": "c18"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/c6c8592d6a65479bb3d3b2520080f6c7?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 675,
+   "bytes": 86298,
+   "sha256": "b5f72ca8de80132db0d0cff8f0fc8cb1899966018028beadecf2dbb720a8edce",
+   "type": "FIL i9000P Ultra Phoenix Feature Image (PPL) Hydro SkinGlide Coating",
+   "kandydat": "c30"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/aeccb0eb0a5a4e5984d3b228010caad2?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 675,
+   "bytes": 171526,
+   "sha256": "a8f440c4810cecc702ed7cd65017c8f787fe25aa8191d90e2fc092f95209ba0c",
+   "type": "FIL i9000P Ultra Phoenix Feature Image (PPL) Active Pressure & Motion Guidance",
+   "kandydat": "c29"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/b672090074ca431fa963b2520081090a?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 675,
+   "bytes": 97025,
+   "sha256": "30877e1b238ac93ce44cf00c5fce11118c4b985ef2600aef731a38d6d48e43b7",
+   "type": "FIL i9000P Ultra Phoenix Feature Image (PPL) Power Adapt Sensor",
+   "kandydat": "c27"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/215066670d6740a59b2ab25200813c84?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 675,
+   "bytes": 40925,
+   "sha256": "491abfe315aed04da6769bfc5f03615569d658883a36ebba5603be08cd252b16",
+   "type": "U5P Zdjęcie prezentujące produkt w użyciu",
+   "kandydat": "c07"
+  },
+  {
+   "file": "produkt-14.jpg",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/48fee94314734e6e88a5b2520081a659?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 676,
+   "bytes": 37483,
+   "sha256": "2d2f6ad5ec7756e5c6a372bdbee0aec9d44e594bdcee63aa046e810c11be930b",
+   "type": "FIL i9000P Ultra Phoenix Feature Image (PPL) Cable-free Quick Clean Pod",
+   "kandydat": "c19"
+  },
+  {
+   "file": "produkt-15.jpg",
+   "kind": "product",
+   "order": 15,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/18316a736e1545cf9b51b25200824f2c?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 675,
+   "bytes": 58484,
+   "sha256": "47d101f60559d6fecf228379176fc0916ac02870b702752a8e1e2b5ee585de07",
+   "type": "FIL i9000P Ultra Phoenix Feature Image (PPL) Precision Trimmer Attachment",
+   "kandydat": "c22"
+  },
+  {
+   "file": "produkt-16.jpg",
+   "kind": "product",
+   "order": 16,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/25f47feaeea8483e9c9db2520082afc0?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 675,
+   "bytes": 44588,
+   "sha256": "35831a6834e76dce3dcaacaca1a156aa2319d8882593610e1a77512b42c9f538",
+   "type": "FIL i9000P Ultra Phoenix Feature Image (PPL) Charging Stand",
+   "kandydat": "c25"
+  },
+  {
+   "file": "produkt-17.jpg",
+   "kind": "product",
+   "order": 17,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/af3f449c3054427b910ab25200838af6?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 675,
+   "bytes": 58660,
+   "sha256": "6b8e9fafdd3c904d290bf2bfeb45eafd6bfb9546128e94ba596d7610644281dd",
+   "type": "FIL i9000P Ultra Phoenix Feature Image (PPL) Pouch",
+   "kandydat": "c26"
+  },
+  {
+   "file": "produkt-18.jpg",
+   "kind": "product",
+   "order": 18,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/a572369264814df498dab2520082d9a2?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 675,
+   "bytes": 95878,
+   "sha256": "020fe7360548e6e737cbc51a48b5bc03b4177bf19c2bcb8b206b6b81029fa3f1",
+   "type": "FIL i9000P Ultra Phoenix Feature Image (PPL) Wet & Dry East",
+   "kandydat": "c20"
+  },
+  {
+   "file": "produkt-19.jpg",
+   "kind": "product",
+   "order": 19,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/90e1dbd66fec456e9981b25200835264?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 676,
+   "bytes": 58777,
+   "sha256": "5299fe4ff5229558120e47ee8fee619468c7f8042a19369e826cae5b2c2c826d",
+   "type": "FIL i9000P Ultra Phoenix Feature Image (PPL) One-touch open",
+   "kandydat": "c21"
+  },
+  {
+   "file": "produkt-20.jpg",
+   "kind": "product",
+   "order": 20,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/fc81e5cd165d412881b1b25200816f91?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 675,
+   "bytes": 57458,
+   "sha256": "6ab6903a528fc09b2ef72d5504d7d1bcbde2d6dc447adf682ae8128ebe0d5afd",
+   "type": "FIL i9000P Ultra Phoenix Feature Image (PPL) App",
+   "kandydat": "c28"
+  },
+  {
+   "file": "produkt-21.jpg",
+   "kind": "product",
+   "order": 21,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/8ae96c8f713e4ea9b90cb25200836189?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 675,
+   "bytes": 85136,
+   "sha256": "0bf1d3698c6fe7f33113f887a9f0d435e177b75aa9945df8d68b52326b144958",
+   "type": "U6P Zdjęcie prezentujące produkt w użyciu",
+   "kandydat": "c13"
+  },
+  {
+   "file": "produkt-22.jpg",
+   "kind": "product",
+   "order": 22,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/614c2f75e4904200800fb25200846030?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 675,
+   "bytes": 49071,
+   "sha256": "6486dc209988aeb13e0789de5035900e4d2efdc5539d767ce486a867d989b1df",
+   "type": "U1P Zdjęcie prezentujące produkt w użyciu",
+   "kandydat": "c10"
+  },
+  {
+   "file": "produkt-23.jpg",
+   "kind": "product",
+   "order": 23,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/b3bad9fed7814f5b93bdb2520081d03c?$jpglarge$&wid=1200",
+   "width": 1200,
+   "height": 676,
+   "bytes": 45663,
+   "sha256": "dd7158f024a3934489165cf2e3dd753b77de1072830cd15b152d97397cc2d61c",
+   "type": "U3P Zdjęcie prezentujące produkt w użyciu",
+   "kandydat": "c08"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 24,
+   "desc": "Logo marki Philips (skopiowane z philips-i9000-prestige-xp9200-30, pierwotnie philips-bri984-00)",
+   "sourceUrl": "repo produkty-media/philips-i9000-prestige-xp9200-30/logo-philips.png",
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f",
+   "width": 525,
+   "height": 105
+  }
+ ],
+ "dropped": [
+  {
+   "kandydat": "c02 APP",
+   "powod": "plakietka gwarancji 7 lat"
+  },
+  {
+   "kandydat": "c23 FIL 7yr Warranty",
+   "powod": "plakietka gwarancji"
+  },
+  {
+   "kandydat": "c05 L1P",
+   "powod": "plakietki nagrod iF / red dot"
+  },
+  {
+   "kandydat": "c03 E1P",
+   "powod": "portret bez produktu"
+  },
+  {
+   "kandydat": "c24 FIL Sustainability",
+   "powod": "duplikat pikselowy c10 U1P"
+  },
+  {
+   "kandydat": "c14 U4P, c15 U2P",
+   "powod": "nadmiar ujec golenia"
+  },
+  {
+   "kandydat": "IMS",
+   "powod": "duplikat RTP"
+  },
+  {
+   "kandydat": "AWP/BRP/SV*",
+   "powod": "nagrody, logo PRX, wideo"
+  }
+ ],
+ "note": "Wszystkie zdjecia z .assets CTN XP9400/31 (FIL = i9000P Ultra). Pobrane z ?$jpglarge$&wid=1200 (wariant &hei=1200&fmt=jpg oddawal puste obrazy dla czesci assetow)."
+}
