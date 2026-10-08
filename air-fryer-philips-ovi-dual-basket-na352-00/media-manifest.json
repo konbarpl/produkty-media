@@ -1,0 +1,113 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:44:09.392679Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/NA352_00.assets (PRX API, CTN NA352/00)",
+ "slug": "air-fryer-philips-ovi-dual-basket-na352-00",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f3adf0fd_facf_44f4_9a4dc22cb87b7426?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 65133,
+   "sha256": "48695e0fbb3437243a68ed0d4d90b5ffe521b531b5f5eaee183a18c01038cde9",
+   "type": "RTP",
+   "desc": "RFT NA352_00_16x9"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_9bc2c19d_aed7_4840_9324ad26c7fabe83?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 62383,
+   "sha256": "f0b6002588198d18dc5563d3acf5c7755caa88d7bc578f1d40b7fd17abf6e734",
+   "type": "A2P",
+   "desc": "F NA352_00_16x9"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_63b1296e_7a39_4ad1_b996d63f67ad64d7?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 55258,
+   "sha256": "b039d4efb681671d20ff9010369cd989eb4023108eabb83c534400d5f4aa532b",
+   "type": "A4P",
+   "desc": "NA352_00 NA352_08 Black dual basket airfryer"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_74730bb8_91b3_4346_bfd1350d618bb85d?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 106051,
+   "sha256": "c177e39b9e405193f4caaa5f19d73e71e4c7edf349dbbc0f062a7a6df5e43442",
+   "type": "FIL",
+   "desc": "FIM_NA352_00_Broccolini_Salmon_16x9_SRGB."
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_062562c6_1f58_4824_9190893e8a36d2f5?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 111594,
+   "sha256": "a9844f7dc8080956ac1b0166e32c42347d8e0e9604aff25727471ca0198d90dd",
+   "type": "FIL",
+   "desc": "F3_NA352_00_Icon_1x1_SRGB"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_70c8e688_594f_44bb_a23e4864682ae0f2?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 130843,
+   "sha256": "e184ec7d0a019b43a1af2ed3cce74ae40a092201e33b5e067383b3cf5d2d58ba",
+   "type": "FIL",
+   "desc": "HomeID_AppScreens_all_logos_16-9_non_connected.tif"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 7,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-na462-80/logo-philips.png",
+   "width": 525,
+   "height": 105,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "rejected": {
+  "4": "IMS = pikselowy duplikat RTP (k01)",
+  "2": "_FP (NA352_00/_08/_10) - ten sam kadr co FIM k07 (brokuly + losos), zbedny duplikat wizualny",
+  "5": "BRP logo PRX (logo z repo mediow zamiast)",
+  "6": "FIL F1_NA350_00 - plik innego modelu (NA350)",
+  "8": "FIL F2_NA350_00 - inny model NA350, czarne uchwyty (NA352/00 ma miedziane)",
+  "9": "FIL F6_NA350_00 - inny model NA350, czarne uchwyty",
+  "11": "FIL F6_NA350_00 (panel) - plik innego modelu (NA350)",
+  "12": "FIL -90% tluszczu - zdjecie ogolne bez urzadzenia",
+  "13": "FIL kula ziemska (oszczednosc energii) - zdjecie ogolne bez urzadzenia",
+  "14": "FIL F7_NA350_00 (timer) - plik innego modelu (NA350)",
+  "15": "FIL KA_2023_HR2764 zmywarka - inny produkt, bez urzadzenia",
+  "17": "A3P (NA352_00/_08/_10) - srebrne uchwyty = inny wariant koloru"
+ }
+}
