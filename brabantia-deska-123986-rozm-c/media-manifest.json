@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T05:52:44.088Z",
+  "sourcePage": "https://www.brodasystem.pl/brabantia-deska-do-prasowania-podstawa-na-generator-pary-rozmiar-c-morning-breeze.html",
+  "slug": "brabantia-deska-123986-rozm-c",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/bc6fba6c4d6fb1099e7f8f5a2b32c1c4/images/brabantia-deska-do-prasowania-123986.jpg",
+      "width": 1000,
+      "bytes": 71423,
+      "sha256": "e7211e611f6fb8c0a74b8f8bae526ef16a58621652727f43987878ff11750a68"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/bc6fba6c4d6fb1099e7f8f5a2b32c1c4/images/brabantia-deska-do-prasowania-1239860morning-breezw.jpg",
+      "width": 1000,
+      "bytes": 289503,
+      "sha256": "f5f2bf3e5135bfd23addf00fb959828e3e755184e8c891023228b18960840d13"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/bc6fba6c4d6fb1099e7f8f5a2b32c1c4/images/brabantia-deska-do-prasowania-c-moving-circles-wymiary.jpg",
+      "width": 1000,
+      "bytes": 45872,
+      "sha256": "555054a65eed73dcb82a8fcc11a9a3396e6c2a78d9ec8ccd86626e5160b43ce7"
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "repo mediów _logo/logo-brabantia.jpg (logo marki Brabantia)",
+      "width": 590,
+      "height": 96,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ],
+  "dropped": 0,
+  "note": "Zdjęcia ze sklepu brodasystem.pl (link KOSZT A, T54 GRUPA 70 P04, 2026-10-08). Galeria sklepu ma 3 zdjęcia: packshot Morning Breeze z góry na białym tle, deska rozłożona pod kątem (Morning Breeze), rysunek wymiarów rozmiaru C 124 x 45 cm / 75-98 cm (sylwetka bez wzoru; nazwa pliku u źródła „c-moving-circles-wymiary” — wymiary zgodne z kartą 123986). Logo z _logo/."
+}
