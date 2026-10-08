@@ -1,0 +1,57 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:23:54.606Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie/szczoteczki-elektryczne/szczoteczka-magnetyczna-oral-b-io-9-czarny (galeria ME, id 3054092, gallery_1000_1000)",
+ "slug": "oral-b-io-9-czarny-black-onyx",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "logo-oral-b.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/30/3054092/Szczoteczka-magnetyczna-ORAL-B-iO-9-Czarny-zestaw-smartfon-2-wer2.jpg",
+   "width": 1000,
+   "bytes": 94600,
+   "sha256": "e58e7197a0493cc1bb8416541cdf5365e27c8e07d251ee01f56644c66021322d"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/30/3054092/Szczoteczka-magnetyczna-ORAL-B-iO-9-Czarny-lifestyle-1.jpg",
+   "width": 1000,
+   "bytes": 164786,
+   "sha256": "babb7bee95b0b66563c694e9ded07cae76fef042922cb102a2a421ab419d5863"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/30/3054092/Szczoteczka-magnetyczna-ORAL-B-iO-9-Czarny-lifestyle-2.jpg",
+   "width": 1000,
+   "bytes": 137077,
+   "sha256": "61045084d5c4bb910c1d2c30214c82469765441dcfd3b7447552f347883b6588"
+  },
+  {
+   "file": "logo-oral-b.png",
+   "kind": "logo",
+   "order": 4,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-oral-b.png (z dropshipping/materialy/logo/640px-Oral-B_logo.svg.png, Wikimedia Commons, na bialym tle)",
+   "width": 720,
+   "height": 273,
+   "bytes": 17867,
+   "sha256": "ab88c17ab2f1bbd8cab46cae51c498ab8beb77c11b975da85d1eaddd77a6fcc3"
+  }
+ ],
+ "dropped": 0,
+ "rejected": {
+  "k02 zestaw-3-wer2": "infografika miesza kolory: biale etui, rozowa i szara raczka obok czarnej — galeria miesza kolory",
+  "k05 lifestyle-3": "porownanie z innym modelem (Oral-B Sonic vs iO) — odrzucone jako porownanie modeli"
+ },
+ "kolejnosc": "produkt-01=k01 zestaw (packshot kompletu na bialym tle z pudelkiem BLACK ONYX), 02=k03 cechy technologii iO (czarne raczki), 03=k04 czujnik sily nacisku (czarne raczki)"
+}
