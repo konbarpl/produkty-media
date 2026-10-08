@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T06:51:03.626810Z",
+  "sourcePage": "https://webber.com.pl/oczyszczacz-powietrza-webber-apeh11003-wifi-hepa-12-uv-jonizator-nawilzacz,id413.html",
+  "slug": "webber-apeh11003",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-10.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/14_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 316495,
+      "sha256": "c20c4e7de3155fc2096d9c981fe5768f2a66ae22e74b150aa9a1f81007073b53"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/1_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 481331,
+      "sha256": "68d8b2115f18805bce83eac1a02459e3fc3079f95aa1f6cec0fc0b25172a17d6"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/13_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 279945,
+      "sha256": "2bb7a407a87bb19502330fd9b08cd94b13551b0a21f5bf3ef1b2d62a43ff41bb"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/2_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 293055,
+      "sha256": "0d5a8d4842619586d61d762a1b9f8e9ffed536c2c9b92edd747f6cf48af23ae0"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/7_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 218481,
+      "sha256": "4881001d2752362f1be19abaeab9e67d3034903530d540301cd655ed93ea5fb4"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/3_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 212787,
+      "sha256": "cb1faff9edd0c0437165a6dfaf7ba4582e062979031c016bf617f44e4fdc3b38"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/6_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 226776,
+      "sha256": "ea8eca41f851dbdf59b08c13b26130da8d07225577603a991bc84df3f875c3b1"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/5_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 424232,
+      "sha256": "d69bfd4bfa2be5628920821f2101161a6a05954e75099eb604e46b3b80e1fdf3"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/12_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 381442,
+      "sha256": "17472b5c1cfe7850657e9d052f246f273daac5575c230e99c586b72b98a4a7f9"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/4_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 205529,
+      "sha256": "61b0fb319b972ee28ff859609f18025639dc4d69ad557ad1bea5a324a8ec2587"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/18_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 266355,
+      "sha256": "479c5d33590fe676f7099c43593070dad318c17296796cee3a32933374bc86c2"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/10_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 162927,
+      "sha256": "770f434b8dd77df0aebe9150b316020367caf6f6500aeacf37f9ae0fea08df08"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/9_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 182255,
+      "sha256": "eaad9466d8e65beab0636e7c4799b50ba544561394794c83cb688a726b0a40d0"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/8_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 293691,
+      "sha256": "72824f35eddb073c7d0a857bf23331abab8b965c976fc297bd4df8caf3bd02ba"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/15_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 436211,
+      "sha256": "b198966e0acf86fd13db4b85998887d08ab22cc0eccb06ee484e03ec5e16a3a1"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://webber.com.pl/img/products/41/3/16_max.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 403689,
+      "sha256": "3e734a72333b13456f7200bd8e44fa478821607ac75c7c58d6a18e315c6c7c8f"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 1,
+      "sourceUrl": "produkty-media/webber-ap8550/logo-producenta.jpg (kopia; jak webber-hh3002)",
+      "width": 396,
+      "height": 99,
+      "bytes": 13037,
+      "sha256": "be47468cb8f048a18e769a4ce68b1eee9adb2745ce8e50fdc577a4a542b2676c"
+    }
+  ],
+  "dropped": 1,
+  "droppedNote": "f11 (11_max.jpg) = sam pilot na białym tle, zdjęcie komponentu; 9_max.webp = ten sam kadr co 9_max.jpg"
+}
