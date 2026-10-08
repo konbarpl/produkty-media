@@ -1,0 +1,140 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:42:42.552Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie/szczoteczki-elektryczne/szczoteczka-magnetyczna-oral-b-io-10-zloty-etui (galeria ME, id 8110205, gallery_1000_1000)",
+ "slug": "oral-b-io-10-zloty-etui",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "logo-oral-b.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8110205/Szczoteczka-magnetyczna-ORAL-B-iO-10-3.jpg",
+   "width": 1000,
+   "bytes": 43871,
+   "sha256": "13db7da6884f423daded1253ad43896dfc8076afa0f5d46da367c38f5a47cf88"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8110205/Szczoteczka-magnetyczna-ORAL-B-iO-10-1.jpg",
+   "width": 1000,
+   "bytes": 92733,
+   "sha256": "01b286b4056145c5120a6fad1f28c83c1d9dfd7209902de3175321517451d7df"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8110205/Szczoteczka-magnetyczna-ORAL-B-iO-10-2.jpg",
+   "width": 1000,
+   "bytes": 71429,
+   "sha256": "67617ef80237ad3f149092d64f54745a8534c23bb50eb1f5807553d95241b993"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8110205/Szczoteczka-magnetyczna-ORAL-B-iO-10-4.jpg",
+   "width": 1000,
+   "bytes": 150397,
+   "sha256": "abfce78a79cee1e5908cc55acd95533486332eda223b2a1212e33a08fe330df2"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8110205/Szczoteczka-magnetyczna-ORAL-B-iO-10-6.jpg",
+   "width": 1000,
+   "bytes": 131041,
+   "sha256": "321b6386f964bc8628dda9d05d580e86d7b24c7ead94b24b576e3171b339a65a"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8110205/Szczoteczka-magnetyczna-ORAL-B-iO-10-7.jpg",
+   "width": 1000,
+   "bytes": 79807,
+   "sha256": "fcec0e08deeb3c33a4a2b4cf92caf644033bb6b34926b9b6fd9eebc4b50d5d68"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8110205/Szczoteczka-magnetyczna-ORAL-B-iO-10-8.jpg",
+   "width": 1000,
+   "bytes": 139590,
+   "sha256": "11c02d49e74de4a3699038b0de703a9700080108e74cd9cca40dea43a3f66f87"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8110205/Szczoteczka-magnetyczna-ORAL-B-iO-10-9.jpg",
+   "width": 1000,
+   "bytes": 137661,
+   "sha256": "25d616615cc1587f2b16d2c82087d246d14154649d280bd3b025db7c4002c830"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8110205/Szczoteczka-magnetyczna-ORAL-B-iO-10-11.jpg",
+   "width": 1000,
+   "bytes": 113638,
+   "sha256": "44eeb3e25b45fbcb32ac59432e56fb85f42854433a7910d0c9cb66a009e22e11"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8110205/Szczoteczka-magnetyczna-ORAL-B-iO-10-12.jpg",
+   "width": 1000,
+   "bytes": 111652,
+   "sha256": "25e38efb02fafe634131c64559b78e2464e4e01d5d39bad2a591f5b7dd486f34"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8110205/Szczoteczka-magnetyczna-ORAL-B-iO-10-15.jpg",
+   "width": 1000,
+   "bytes": 113290,
+   "sha256": "8fbe10bb24db4214af9873ec29aa190c5f8668ecbca412bf58bb5055e1990b8b"
+  },
+  {
+   "file": "logo-oral-b.png",
+   "kind": "logo",
+   "order": 12,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-oral-b.png (z dropshipping/materialy/logo/640px-Oral-B_logo.svg.png, Wikimedia Commons, na bialym tle)",
+   "width": 720,
+   "height": 273,
+   "bytes": 17867,
+   "sha256": "ab88c17ab2f1bbd8cab46cae51c498ab8beb77c11b975da85d1eaddd77a6fcc3"
+  }
+ ],
+ "dropped": 0,
+ "rejected": {
+  "k05 (-5.jpg)": "infografika z czarnymi raczkami (inny kolor) + porownanie z Oral-B Pro",
+  "k10 (-10.jpg)": "czujnik nacisku na czarnych raczkach (inny kolor)",
+  "k13 (-13.jpg)": "porownanie ze zwykla szczoteczka manualna (plakat 100% wiecej plytki)",
+  "k14 (-14.jpg)": "porownanie modeli: Oral-B Sonic vs Oral-B iO",
+  "k16 (-16.jpg)": "lifestyle bez widocznej raczki (nie da sie zweryfikowac modelu/koloru) + plakietka #1 dentystow"
+ },
+ "kolejnosc": "produkt-01=k03 packshot kompletu na bialym tle (raczka zlota na ladowarce, etui, uchwyt na koncowki), 02=k01 komplet z pudelkiem LUNAR GOLD, 03=k02 komplet z pudelkiem (inny kadr), 04=k04 infografika iO 10 Ultimate (zlota raczka), 05=k06 iO sense (zlota), 06=k07 wyswietlacz (zlota), 07=k08 ladowarka + etui (zlota), 08=k09 czujnik nacisku (zlote raczki) + aplikacja + 7 trybow, 09=k11 7 trybow, 10=k12 Smart Adapt (glowka), 11=k15 aplikacja Apple Health"
+}
