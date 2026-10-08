@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T06:00:00Z",
+  "sourcePage": "https://www.laurastar.pl/deski-do-prasowania/452-deska-do-prasowania-comfort-glasses-0790776000884.html",
+  "slug": "deska-laurastar-comfort-glasses",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-03.jpg",
+    "produkt-02.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-laurastar.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.laurastar.pl/2939/deska-do-prasowania-comfort-glasses.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 38926,
+      "sha256": "5963b524f0f4daf0c9f2276d3af3323f8e824740e4fea3442cf19e9c2853495d",
+      "format": "JPEG"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.laurastar.pl/2941/deska-do-prasowania-comfort-glasses.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 66990,
+      "sha256": "7f8433a7539d5134f859f41b6c06a331f4f34d928217a3b0fa7cd6658ae2631d",
+      "format": "JPEG"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.laurastar.pl/2940/deska-do-prasowania-comfort-glasses.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 59689,
+      "sha256": "c28caf099b11d57558e07658723269a213d95a484772062de7e0497f0e37698c",
+      "format": "JPEG"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.laurastar.pl/7834/deska-do-prasowania-comfort-glasses.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 98184,
+      "sha256": "14c0b8b5c679c286f3e90303fb6e56be59ffa2d11c7f1d239d791e9b108a2ae1",
+      "format": "JPEG"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.laurastar.pl/8505/deska-do-prasowania-comfort-glasses.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 53601,
+      "sha256": "da58e79e81a68484f580a6d26176a5efb7dabd6402c91f84bd5330a8a4182031",
+      "format": "JPEG"
+    },
+    {
+      "file": "logo-laurastar.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-laurastar.jpg",
+      "sourceOrigin": "dropshipping/materiały/logo/laurastar_logo_og.jpg (folder logo Konrada, wiedza/reference_logo_marek.md)",
+      "width": 502,
+      "height": 73,
+      "bytes": 11784,
+      "sha256": "d7658a3389e13d1f90e10d24cf6d4b87df1b7e04e98f4717a316140ad93a3b36",
+      "format": "JPEG"
+    }
+  ],
+  "dropped": 0,
+  "galleryNote": "Kolejnosc jak siostra deska-laurastar-comfort: nr 1 = packshot na bialym tle (2939). Wszystkie 5 zdjec = wariant Comfort Glasses (czarny pokrowiec z motywem okularow - kolor tylko ze zdjec). 7834 i 8505 to PNG z przezroczystoscia na karcie: 7834 splaszczony na czarne tlo (jak siostra 7833), 8505 (rysunek wymiarow, wzor Glasses, wymiary zgodne z karta: 45/162 cm, 55-94 cm, 39x28 cm) na biale tlo, zapis JPEG q92. Logo na koncu."
+}
