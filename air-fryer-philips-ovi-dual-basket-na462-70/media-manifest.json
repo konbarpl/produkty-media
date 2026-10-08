@@ -1,0 +1,160 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T05:49:20.894758Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/NA462_70.assets (PRX API, CTN NA462/70)",
+ "slug": "air-fryer-philips-ovi-dual-basket-na462-70",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_25c215ef_51c2_44d6_96ec3486dc1b2f7e?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 91626,
+   "sha256": "9835b07d5e5edf94245b452b1659ba61e01bad1b172c16c52773b1f26f87e598",
+   "type": "RTP",
+   "desc": "Philips Airfryer 4000 Series Dual Stack, vertical dual basket, NA462, NA462/00, NA462/09, Otter"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_811838b0_6ed8_4fe2_b167e2bb42a3addb?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 103639,
+   "sha256": "ce128d4b6abca0557375a99a5a99d36e2ff5557f791265a78bebb2b104e784ab",
+   "type": "FIL",
+   "desc": "Philips Airfryer 4000 Series Dual Stack, vertical dual basket, Otter, Philips Airfryer, Dual Basket, 4000 Series, NA462, NA462/70, NA462/80"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3ec35474_9edb_40ea_b2853e7ac0696c52?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 135036,
+   "sha256": "e0434d6fe60a0316158c7f33a812251b872c142e9ef68091251e73e5f03228f4",
+   "type": "FIL",
+   "desc": "Philips Airfryer 4000 Series Dual Stack, vertical dual basket, Otter, Philips Airfryer, Dual Basket, 4000 Series, NA462, NA462/70, NA462/80"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f6e15f81_406c_4478_8f3101b828dc3040?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 165075,
+   "sha256": "98bc88baaaca73682fc63b5eea16cc3b99343fa667d996076e46e6a6fa858e9a",
+   "type": "FIL",
+   "desc": "Philips Airfryer 4000 Series Dual Stack, vertical dual basket, Otter, Philips Airfryer, Dual Basket, 4000 Series, NA462, NA462/70, NA462/80"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a81078f7_cd75_4427_a626485b4d232412?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 90788,
+   "sha256": "0245533bc5deb302103d321ab2b7bd75849647adf8a7fe7922e9e502b688b4d8",
+   "type": "FIL",
+   "desc": "Philips Airfryer 4000 Series Dual Stack, vertical dual basket, Otter, Philips Airfryer, Dual Basket, 4000 Series, NA462, NA462/70, NA462/80"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f7c19e06_315c_4bd5_9e6497b42e4a1488?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 127856,
+   "sha256": "29fd94bd906017bee5af193c296c81b9a0ac2d9df8f31c80f4150f4ac5c83b75",
+   "type": "FIL",
+   "desc": "Philips Airfryer 4000 Series Dual Stack, vertical dual basket, Otter, Philips Airfryer, Dual Basket, 4000 Series, NA460, NA461, NA462, NA460/00, NA461/00, NA462/70, NA462/80"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6bebc257_0158_4145_95ddbd08ec7f0a7c?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 98789,
+   "sha256": "a040d46199bc8662d8ae22adb6fca4ce95dcda0d550632930d44dccab0a80dee",
+   "type": "FIL",
+   "desc": "Philips Airfryer 4000 Series Dual Stack, vertical dual basket, Otter, Philips Airfryer, Dual Basket, 4000 Series, NA462, NA462/70, NA462/80"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ad11dfb2_13c6_41e3_a30fe275c65a5d55?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 100641,
+   "sha256": "70cc481cfc5a57a5929f003c0bdb4cb2ee5814c78eecea47428bd16c410322e6",
+   "type": "FIL",
+   "desc": "Philips Airfryer 4000 Series Dual Stack, vertical dual basket, Otter, Philips Airfryer, Dual Basket, 4000 Series, NA460, NA461, NA462, NA460/00, NA461/00, NA462/70, NA462/80"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2d3bb29d_20e5_42f5_9d32f6c4e4292295?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 91367,
+   "sha256": "ef1ac8bc63f3dc452190b521f94aead98e6705aeae1754580c5c1ff10ce1b53f",
+   "type": "FIL",
+   "desc": "Philips Airfryer 4000 Series Dual Stack, vertical dual basket, Otter, Philips Airfryer, Dual Basket, 4000 Series, NA460, NA461, NA462"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_169fba64_9385_4f88_9583a5e5fc214697?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 130843,
+   "sha256": "e184ec7d0a019b43a1af2ed3cce74ae40a092201e33b5e067383b3cf5d2d58ba",
+   "type": "FIL",
+   "desc": ""
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 11,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-na462-80/logo-philips.png",
+   "width": 525,
+   "height": 105,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "rejected": {
+  "4": "IMS = pikselowy duplikat RTP (k01)",
+  "2": "A1P Amazon A+ z napisem \"Synchronizacja gotowania\" - ten sam kadr co FIL k09",
+  "3": "A2P Amazon A+ aplikacja HomeID - duplikat tresci FIL k10",
+  "5": "BRP logo PRX (logo z repo mediow zamiast)",
+  "13": "FIL przypomnienie o potrzasaniu - zdjecie ogolne bez urzadzenia",
+  "16": "FIL kula ziemska (oszczednosc energii) - zdjecie ogolne bez urzadzenia",
+  "17": "FIL zmywarka - zdjecie ogolne bez urzadzenia"
+ }
+}
