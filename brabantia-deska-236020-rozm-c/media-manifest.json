@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T06:11:40.470Z",
+  "sourcePage": "https://www.brodasystem.pl/brabantia-236020-deska-do-prasowania-podstawa-na-generator-pary-rozmiar-c-soothing-sea.html",
+  "slug": "brabantia-deska-236020-rozm-c",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/35c078d43f6da5f05200dd1c424dc492/images/brabantia-236020-deska-do-prasowania-rozmiar-c-soothing-sea-glowne.jpg",
+      "width": 1000,
+      "bytes": 83762,
+      "sha256": "7fa4aaf2c4b508188bf477ed43856383bf4aff1902651f0327ef87c78c3fac6b"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/35c078d43f6da5f05200dd1c424dc492/images/brabantia-236020-deska-do-prasowania-rozmiar-c-soothing-sea-bok.jpg",
+      "width": 1000,
+      "bytes": 61276,
+      "sha256": "fefbce81f54e98f5edfc424710ccf7cc5d23d37dfabab92f94ea5bd0b1df0d3a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/35c078d43f6da5f05200dd1c424dc492/images/brabantia-236020-deska-do-prasowania-rozmiar-c-soothing-sea-wymiary.jpg",
+      "width": 1000,
+      "bytes": 45872,
+      "sha256": "555054a65eed73dcb82a8fcc11a9a3396e6c2a78d9ec8ccd86626e5160b43ce7"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/35c078d43f6da5f05200dd1c424dc492/images/brabantia-236020-deska-do-prasowania-rozmiar-c-soothing-sea-uchwyt-na-zelazko.jpg",
+      "width": 1000,
+      "bytes": 106828,
+      "sha256": "b127e29a486482f8f3a46399f82f0618fb7c83d0547d84de2303ff3d5f18571a"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/35c078d43f6da5f05200dd1c424dc492/images/brabantia-236020-deska-do-prasowania-rozmiar-c-soothing-sea-baner.jpg",
+      "width": 1500,
+      "bytes": 160534,
+      "sha256": "fe2a0a4dd8af87b140e4a7e320351f24dd4a476b93140a0b3f5ddcd39c48954e"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/35c078d43f6da5f05200dd1c424dc492/images/brabantia-236020-deska-do-prasowania-rozmiar-c-soothing-sea-prasowanie.jpg",
+      "width": 1000,
+      "bytes": 128793,
+      "sha256": "7b5bb79f6d78d9814e730f50feea22682c8904febe21b1aaea4e0f063cd332b2"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/35c078d43f6da5f05200dd1c424dc492/images/brabantia-236020-deska-do-prasowania-rozmiar-c-soothing-sea-wyglad.jpg",
+      "width": 1314,
+      "bytes": 224064,
+      "sha256": "f6bfb19c0836fafae0209ec5f2dcee22d651ee43e23c483596b06ce1ad0704bd"
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "repo mediów dropshipping/produkty listy/produkty-media/_logo/logo-brabantia.jpg (logo marki Brabantia)",
+      "width": 590,
+      "height": 96,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ],
+  "dropped": 0,
+  "note": "T54 GRUPA 70 P14 ETAP 1 (2026-10-08): 7 zdjęć z galerii brodasystem.pl (oryginały /images/, kolejność data-src big_*), zweryfikowane wzrokowo jako deska 236020 rozmiar C z podstawą na generator pary i pokrowcem Soothing Sea (gradient zielono-niebieski na wszystkich zdjęciach); produkt-01 packshot z przodu na białym tle, 02 packshot w perspektywie, 03 rysunek wymiarów (124x45 cm, 75-98 cm; pikselowo identyczny z rysunkiem innych desek C, wymiary zgodne z kartą 236020), 04 podstawa z generatorem pary (urządzenie innej marki jako rekwizyt), 05 baner - przenoszenie deski, 06 prasowanie, 07 deska oparta o ścianę. Logo na końcu."
+}
