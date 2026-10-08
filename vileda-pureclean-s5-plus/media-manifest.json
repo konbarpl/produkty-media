@@ -1,0 +1,132 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:57:46.542388Z",
+ "updatedAt": "2026-10-08",
+ "sourcePage": "https://www.sklep.vileda.pl/produkt/bezprzewodowy-odkurzacz-myjacy-vileda-pureclean-s5.php",
+ "slug": "vileda-pureclean-s5-plus",
+ "note": "9 zdjec z JSON-LD Product.image karty S5 Plus (sklep.vileda.pl, jedyna karta PureClean w kategorii); wszystkie przedstawiaja ten model/jego wyposazenie; zdjecia _mid z sekcji 'Inni klienci kupili' pominiete (inne produkty); logo na koncu.",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "logo-vileda.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.sklep.vileda.pl/img/8f86706e_large.jpg",
+   "width": 800,
+   "height": 800,
+   "bytes": 58199,
+   "sha256": "acb90305c33236490f8892183fa607601f90a9ffabb1885d4e4a54bed50aaf84",
+   "note": "packshot: odkurzacz + stacja ladujaca z zapasowym walkiem i szczotka, biale tlo"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://www.sklep.vileda.pl/img/904ecc28_large.jpg",
+   "width": 800,
+   "height": 800,
+   "bytes": 127619,
+   "sha256": "f7e19559f17a5aa474c43d0ec0839fda57d273351345d601fbaa9fde945deb42",
+   "note": "grafika zestawu PURECLEAN S5 PLUS: odkurzacz + 2 walki + 2 filtry (napisy marketingowe producenta)"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://www.sklep.vileda.pl/img/1f62f4fc_large.jpg",
+   "width": 800,
+   "height": 800,
+   "bytes": 40827,
+   "sha256": "e9fff7a52da34859cced2aab032262d2bb4568868a2b804bc0a9d84141574473",
+   "note": "odkurzacz, widok z boku"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://www.sklep.vileda.pl/img/b793a123_large.jpg",
+   "width": 800,
+   "height": 800,
+   "bytes": 39809,
+   "sha256": "c01c4bee98eee72c041405b33b18127b55e773a2ac60000c0d362775da3073d4",
+   "note": "odkurzacz, widok z przodu"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://www.sklep.vileda.pl/img/b7a39a1d_large.jpg",
+   "width": 800,
+   "height": 800,
+   "bytes": 44296,
+   "sha256": "0676d4e1c87f305fc5c981199952e129896a599a236e3cdbba28218dfdda51e7",
+   "note": "uchwyt z przyciskami i wyswietlacz LED"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://www.sklep.vileda.pl/img/ca9968f1_large.jpg",
+   "width": 800,
+   "height": 800,
+   "bytes": 79881,
+   "sha256": "9bc1f93684f65d0ffa690a8bbdcc4d129a654efff53db5c93a49dfc8d1cc22c7",
+   "note": "stacja ladujaca z walkiem i szczotka do czyszczenia"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://www.sklep.vileda.pl/img/fe8b9588_large.jpg",
+   "width": 800,
+   "height": 800,
+   "bytes": 71814,
+   "sha256": "66751d6f77915b4ff4437f1b14e32d6bd09a79c0ffe105d989c02524b757a69a",
+   "note": "filtr"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://www.sklep.vileda.pl/img/4c548ffe_large.jpg",
+   "width": 800,
+   "height": 800,
+   "bytes": 31486,
+   "sha256": "0c8050ae818094a99d56bd07b3ee6f225d42e28efb3ffdaec474781352550d1f",
+   "note": "szczotka do czyszczenia z nozem do wlosow"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://www.sklep.vileda.pl/img/49c4e00c_large.jpg",
+   "width": 800,
+   "height": 709,
+   "bytes": 51156,
+   "sha256": "ee6638f5f0d06ec1758ff8c707629ca5acc2ec17a9e7c6cfe6377b363be63a8b",
+   "note": "zasilacz"
+  },
+  {
+   "file": "logo-vileda.jpg",
+   "kind": "logo",
+   "order": 10,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-vileda.jpg",
+   "width": 481,
+   "height": 125,
+   "bytes": 13125,
+   "sha256": "cc05ad632c77d2c3cdb8cc13ae84c57742bd9b97c0720c46a55c2faa0043a06f",
+   "note": "logo marki z repo mediow (_logo/logo-vileda.jpg)"
+  }
+ ]
+}
