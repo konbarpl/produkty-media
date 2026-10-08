@@ -1,0 +1,167 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:51:28.902074Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-tefal-ey922de0-flex-dual-easy-fry (galeria ME id 8116173, gallery_1000_1000)",
+ "slug": "air-fryer-tefal-flex-dual-easy-fry-ey922de0",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116173/Frytkownica-beztluszczowa-TEFAL-EY922DE0-4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 80838,
+   "sha256": "e7c8c4007a95a8c536992e8f81292eb1b6415b6693d521cae98b2ab644c6909a"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116173/Frytkownica-beztluszczowa-TEFAL-EY922DE0-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 99451,
+   "sha256": "51e151a073d1ae6209d41a90851c1fdd0fa3e61123c5be65f1ccfd1b08173d0b"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116173/Frytkownica-beztluszczowa-TEFAL-EY922DE0-3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 98557,
+   "sha256": "7891767657d3b46dba9a27577ee8a2e3405f8e9336c05ccc5202d4d105302b19"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116173/Frytkownica-beztluszczowa-TEFAL-EY922DE0-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 103701,
+   "sha256": "7cb45b92f997646acde53a5e463662c9e964610f4e9abb548f9e67326f5c9335"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116173/Frytkownica-beztluszczowa-TEFAL-EY922DE0-5.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 89801,
+   "sha256": "cd89fc968fb6de3eb856fa33eab3c938c4e50e62844ee28c3680d361aad88d01"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116173/Frytkownica-beztluszczowa-TEFAL-EY922DE0-9.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 318709,
+   "sha256": "543e0aba01bc09f5964c1c5813e73913febda7cf21bb4bbc7a4d940b7d895383"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116173/Frytkownica-beztluszczowa-TEFAL-EY922DE0-12.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 198310,
+   "sha256": "5952e898d605b017009eea3c792b859a953e086b7c937291ab3dd372dd26448e"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116173/Frytkownica-beztluszczowa-TEFAL-EY922DE0-13.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 208093,
+   "sha256": "4c31180c2d80d084bc084b1ffab90f0878d87c98db71bd3c25cc429bc1667c0c"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116173/Frytkownica-beztluszczowa-TEFAL-EY922DE0-8.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 236738,
+   "sha256": "ea94e97c3768e476d2acd336464e5117f14e07fa3fef74f8aedd7664224a3b65"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116173/Frytkownica-beztluszczowa-TEFAL-EY922DE0-10.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 160797,
+   "sha256": "3eb93e74b6eea6d8412d0963d340ae0dd91cacad916fd562bcd6400f785ca397"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116173/Frytkownica-beztluszczowa-TEFAL-EY922DE0-11.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 109756,
+   "sha256": "8419f4a282d185d047ca208b7507ec644e9432ffa6308442217519fe14b18a3e"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116173/Frytkownica-beztluszczowa-TEFAL-EY922DE0-7.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 145369,
+   "sha256": "92ad8251c47b0e117765facc8822a717bd972f85db98050968a359721e363a6b"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116173/Frytkownica-beztluszczowa-TEFAL-EY922DE0-6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 137244,
+   "sha256": "e8f94d8db1e90142026e604c2d7483fef9d699abd2bc512fa8bc33a7c29fe07b"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 14,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "rejected": {
+  "uwaga": "wszystkie 13 zdjec galerii ME (id 8116173) maja kod TEFAL-EY922DE0 w nazwie pliku i pokazuja ten sam czarno-srebrny model z napisem DUAL EASY FRY FLEX; zadne nie odrzucone. k02 (komplet: urzadzenie + szuflada + separator + kratka) na pozycji 1; k01 (packshot z grafika telefonu myTefal) przesuniety na 4. k06/k07 to dwa ujecia lifestyle (komora zgaszona/podswietlona) - nie sa duplikatem pikselowym."
+ }
+}
