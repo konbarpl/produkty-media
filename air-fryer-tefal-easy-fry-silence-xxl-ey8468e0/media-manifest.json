@@ -1,0 +1,123 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:34:21.655458Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-tefal-ey8468e0-easy-fry-silence-xxl-vision (galeria ME id 8116177, gallery_1000_1000)",
+ "slug": "air-fryer-tefal-easy-fry-silence-xxl-ey8468e0",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116177/2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 88789,
+   "sha256": "1e26439c7f526f0f32e6d88c9408edbeacf20ba10065cf85223be3214ddae359"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116177/3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 97034,
+   "sha256": "ca864b4699780c157717552ae63d468ae8a0875cb33e22eca13f8b7f062b56cc"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116177/4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 83553,
+   "sha256": "2bd38199bee93dd0c6f838bda0cb83bc7383526d32aa7bec55042f76bdfd0d4e"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116177/packshot_EY8468.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 117245,
+   "sha256": "e28258159dec4582466577a5df3343d34b8858134f746f023f40f859a16ed2dd"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116177/5.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 174860,
+   "sha256": "3d743f7656402b45a10c8ac84f2b958ec6c930b00b4df2a12516057c6d3c42ae"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116177/6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 222449,
+   "sha256": "164d1ea55b8d75df3684bf8517b9376e938a35d3d3713dacfac8e381920ced1c"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116177/7.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 211404,
+   "sha256": "a0ac7f340a118683c9ee433a3331cf376745b33ada400c98ff5fe6eb8beefb2d"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116177/8.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 169981,
+   "sha256": "a51bec1417131d38696f6491b384d6c561f152d96c1ef9cc5b08b135880fad24"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8116177/9.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 137406,
+   "sha256": "453624f14a4492c1700705b0a4fed5a619ba89a761e4d736d39a0855bbdac27b"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 10,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "rejected": {
+  "brak": "galeria ME ma 9 zdjec, wszystkie tego modelu (packshot_EY8468.jpg + 2-9 w galerii karty EY8468E0; panel Easy Fry Silence z napisem Silent Technology, okienko podgladu) i tego koloru (czarny); k01-ME (front z grafika telefonu myTefal) przesuniety na pozycje 4, bo zdjecie 1 ma byc czystym packshotem; k09 = szeroka infografika (zdejmowany front, kratka, pokrywka) na koncu przed logo"
+ }
+}
