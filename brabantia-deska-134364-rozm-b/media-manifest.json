@@ -18,7 +18,8 @@
       "sourceUrl": "https://www.brodasystem.pl/media/products/dd5590f06388fca98625d539f0905f7b/images/brabantia-deska-do-prasowania-1344364-denim.jpg",
       "width": 1000,
       "bytes": 75118,
-      "sha256": "9a51980a6fcdc1241cb1845eb5f26782aba36b5a2f262ff91e962a2e35559f04"
+      "sha256": "9a51980a6fcdc1241cb1845eb5f26782aba36b5a2f262ff91e962a2e35559f04",
+      "height": 1000
     },
     {
       "file": "produkt-02.jpg",
@@ -27,7 +28,8 @@
       "sourceUrl": "https://www.brodasystem.pl/media/products/dd5590f06388fca98625d539f0905f7b/images/brabantia-deska-do-prasowania-1344364.jpg",
       "width": 1000,
       "bytes": 76359,
-      "sha256": "3ab7d1c0ac1e441ff76644ef2501590cffa254f08bcc7c00bec3a912f57d3cf1"
+      "sha256": "3ab7d1c0ac1e441ff76644ef2501590cffa254f08bcc7c00bec3a912f57d3cf1",
+      "height": 1000
     },
     {
       "file": "produkt-03.jpg",
@@ -36,7 +38,8 @@
       "sourceUrl": "https://www.brodasystem.pl/media/products/dd5590f06388fca98625d539f0905f7b/images/brabantia-deska-do-prasowania-1344364-jeans.jpg",
       "width": 934,
       "bytes": 127888,
-      "sha256": "d0851c0b6a89a4e1f3cfc2f9455d850c549fa088abe5f4f6559f35c707f38726"
+      "sha256": "d0851c0b6a89a4e1f3cfc2f9455d850c549fa088abe5f4f6559f35c707f38726",
+      "height": 1000
     },
     {
       "file": "produkt-04.jpg",
@@ -45,7 +48,8 @@
       "sourceUrl": "https://www.brodasystem.pl/media/products/dd5590f06388fca98625d539f0905f7b/images/brabantia-deska-do-prasowania-b-moving-circles-346460-wymiary.jpg",
       "width": 1000,
       "bytes": 44940,
-      "sha256": "7082834073ea55fd244e1233e5aa119c2f6d24efb9c7d1d100d51b316086a69f"
+      "sha256": "7082834073ea55fd244e1233e5aa119c2f6d24efb9c7d1d100d51b316086a69f",
+      "height": 1000
     },
     {
       "file": "logo-brabantia.jpg",
