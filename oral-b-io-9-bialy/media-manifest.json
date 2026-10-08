@@ -1,0 +1,94 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:31:43.932Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie/szczoteczki-elektryczne/szczoteczka-magnetyczna-oral-b-io-9-bialy (galeria ME, id 3960898, gallery_1000_1000)",
+ "slug": "oral-b-io-9-bialy",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "logo-oral-b.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3960898/Szczoteczka-magnetyczna-ORAL-B-IO-9-Bialy-zestaw.jpg",
+   "width": 1000,
+   "bytes": 31483,
+   "sha256": "ecdbd85fc8ee8348176276cb9866afd93d77f737dbe1f8ceeb3ec3cec6f3aecb"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3960898/Szczoteczka-magnetyczna-ORAL-B-IO-9-Bialy-zestaw-ze-smartfonem.jpg",
+   "width": 1000,
+   "bytes": 46973,
+   "sha256": "a7d5158aba8e9f78b2363082dda753f92d04ebbf0e5ef522c595ed42f64fa2f9"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3960898/Szczoteczka-magnetyczna-ORAL-B-IO-9-Bialy-front.jpg",
+   "width": 1000,
+   "bytes": 18799,
+   "sha256": "877e7f6a834888ac6541d49a1f0383e44736f03b23e479d34203ebac2db46fb6"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3960898/Szczoteczka-magnetyczna-ORAL-B-IO-9-Bialy-lifestyle2.jpg",
+   "width": 1000,
+   "bytes": 69073,
+   "sha256": "239bbb4fe6911416a42d8af261f177cc883da93ec901a01d60088edf6dbb0b42"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3960898/Szczoteczka-magnetyczna-ORAL-B-IO-9-Bialy-lifestyle3.jpg",
+   "width": 1000,
+   "bytes": 79818,
+   "sha256": "7bd792bf717402c5631a2b65b53280115c7e71e3c61d80806cf678ba735c61ee"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3960898/Szczoteczka-magnetyczna-ORAL-B-IO-9-Bialy-lifestyle1.jpg",
+   "width": 1000,
+   "bytes": 62342,
+   "sha256": "ea9bcff360948b7bd85a01d754ab4760fa70b4226310fbb99305c08f8958d163"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3960898/Szczoteczka-magnetyczna-ORAL-B-IO-9-Bialy-lifestyle4.jpg",
+   "width": 1000,
+   "bytes": 104599,
+   "sha256": "4327e0b63c536d7b66904e9900a88385f89c587099686264973bf1d62803dd98"
+  },
+  {
+   "file": "logo-oral-b.png",
+   "kind": "logo",
+   "order": 8,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-oral-b.png (z dropshipping/materialy/logo/640px-Oral-B_logo.svg.png, Wikimedia Commons, na bialym tle)",
+   "width": 720,
+   "height": 273,
+   "bytes": 17867,
+   "sha256": "ab88c17ab2f1bbd8cab46cae51c498ab8beb77c11b975da85d1eaddd77a6fcc3"
+  }
+ ],
+ "dropped": 0,
+ "rejected": {},
+ "kolejnosc": "produkt-01=k02 zestaw (packshot kompletu na bialym tle: raczka na stacji, etui, pojemnik na koncowki, ladowarka), 02=k01 zestaw ze smartfonem (aplikacja), 03=k03 front raczki, 04=k05 podswietlenie czujnika nacisku (dwie biale raczki), 05=k06 etui podrozne, 06=k04 stacja ladujaca, 07=k07 lifestyle; wszystkie raczki biale"
+}
