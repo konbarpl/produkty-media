@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T08:00:00Z",
+  "sourcePage": "https://www.laurastar.pl/deski-do-prasowania/453-deska-do-prasowania-comfort-lips-0790776000891.html",
+  "slug": "deska-laurastar-comfort-lips",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-laurastar.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.laurastar.pl/1947/deska-do-prasowania-comfort-lips.jpg",
+      "width": 1600,
+      "height": 1515,
+      "bytes": 68972,
+      "sha256": "f350fa19d61369a664efa4512423a007ab86c00deacca16b215ec9cd737215e2",
+      "format": "JPEG",
+      "sourceFormat": "JPEG"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.laurastar.pl/1950/deska-do-prasowania-comfort-lips.jpg",
+      "width": 1600,
+      "height": 1378,
+      "bytes": 60878,
+      "sha256": "e292e89f4121b2f21ae81c1b044432debb3f3d23c6661d1a6255ed9617a44c26",
+      "format": "JPEG",
+      "sourceFormat": "JPEG"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.laurastar.pl/1949/deska-do-prasowania-comfort-lips.jpg",
+      "width": 1600,
+      "height": 1095,
+      "bytes": 36916,
+      "sha256": "44628ab98b0e249dd5a4e861c00ac967b413c74fca1feb3ffe22dac56dcd3fc1",
+      "format": "JPEG",
+      "sourceFormat": "JPEG"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.laurastar.pl/7835/deska-do-prasowania-comfort-lips.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 114695,
+      "sha256": "d74d5368c44a2a3b0887db9fbd5471db0751d9cafeb6284f80256c156ab6fa59",
+      "format": "JPEG",
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.laurastar.pl/8503/deska-do-prasowania-comfort-lips.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 57951,
+      "sha256": "2cad39ed59886a752dc563e226425433f87b5ee420993080c588c7bddfd30c17",
+      "format": "JPEG",
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "logo-laurastar.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-laurastar.jpg",
+      "sourceOrigin": "dropshipping/materiały/logo/laurastar_logo_og.jpg (folder logo Konrada, wiedza/reference_logo_marek.md)",
+      "width": 502,
+      "height": 73,
+      "bytes": 11784,
+      "sha256": "d7658a3389e13d1f90e10d24cf6d4b87df1b7e04e98f4717a316140ad93a3b36",
+      "format": "JPEG"
+    }
+  ],
+  "dropped": 0,
+  "galleryNote": "Wszystkie 5 zdjec z karty laurastar.pl 453 = wariant Comfort Lips (ciemny pokrowiec z motywem ust - kolor tylko ze zdjec, karta nie podaje slownie). Nr 1 = packshot 3/4 na bialym tle (1947), potem 1950 (3/4 z druga strona), 1949 (bok), 7835 (widok z gory, PNG z przezroczystoscia -> biale tlo, JPEG q92), 8503 (rysunek wymiarow we wzorze Lips: ~45/~162 cm, 55-94 cm, 39x28 cm - zgodny z karta; PNG RGBA -> biale tlo, JPEG q92). Logo na koncu."
+}
