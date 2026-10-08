@@ -1,0 +1,116 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T05:42:03.052Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie/szczoteczki-elektryczne/szczoteczka-magnetyczna-oral-b-io-9-rozowy (galeria ME, id 5572612, gallery_1000_1000)",
+ "slug": "oral-b-io-9-rozowy-rose-quartz",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "logo-oral-b.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/55/5572612/Szczoteczka-magnetyczna-ORAL-B-iO-9-Rozowy-zestaw.jpg",
+   "width": 1000,
+   "bytes": 64492,
+   "sha256": "a2939107f3e46327b4675e865c3f4147fe7ebffdc79ae94e7b653b248aca278e"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/55/5572612/Szczoteczka-magnetyczna-ORAL-B-iO-9-Rozowy-FrontZestawWer2.jpg",
+   "width": 1000,
+   "bytes": 81976,
+   "sha256": "1a9e58788bb6bd552d9d4add59c84c6f68b53c1e1874ab61372e1ed0af0c7776"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/55/5572612/Szczoteczka-magnetyczna-ORAL-B-iO-9-Rozowy-front.jpg",
+   "width": 1000,
+   "bytes": 19102,
+   "sha256": "680d022a2a6e4fa8d12a8a76f2057aabe6179dec635e808bd99451197feac107"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/55/5572612/Szczoteczka-magnetyczna-ORAL-B-iO-9-Rozowy-zestaw2.jpg",
+   "width": 1000,
+   "bytes": 50125,
+   "sha256": "4e06031e503c3db81575376bdc72c1704a3431de6c9d0664ea3317613245d724"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/55/5572612/Szczoteczka-magnetyczna-ORAL-B-iO-9-Rozowy-obraz-lifestyle-2.jpg",
+   "width": 1000,
+   "bytes": 62159,
+   "sha256": "09317507ba5578abe0390211bb6ad8aece103e3364fcedaf022b732bde8a7706"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/55/5572612/Szczoteczka-magnetyczna-ORAL-B-iO-9-Rozowy-obraz-lifestyle-3.jpg",
+   "width": 1000,
+   "bytes": 43539,
+   "sha256": "d92fce9bb70262853b1bf9c227a5ac3dcdb1b12b1d5e3ac7289ac459d49e5664"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/55/5572612/Szczoteczka-magnetyczna-ORAL-B-iO-9-Rozowy-obraz-lifestyle-4.jpg",
+   "width": 1000,
+   "bytes": 85209,
+   "sha256": "cca46f0ef340ac28f35e63696c3ffd75ea27134c17b4cd032cdd2ca14b31994e"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/55/5572612/Szczoteczka-magnetyczna-ORAL-B-iO-9-Rozowy-obraz-lifestyle-5.jpg",
+   "width": 1000,
+   "bytes": 120211,
+   "sha256": "e906a6fe454e8f7e90b4c1cf3ea33e55e5f9be44adf428ed95dcd2ea54d5b6dd"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/55/5572612/Szczoteczka-magnetyczna-ORAL-B-iO-9-Rozowy-obraz-lifestyle-6.jpg",
+   "width": 1000,
+   "bytes": 104241,
+   "sha256": "5b7306994207832cc4f8ba35fa5817456ea54fac71cf69c72c6bd2e4c5338896"
+  },
+  {
+   "file": "logo-oral-b.png",
+   "kind": "logo",
+   "order": 10,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-oral-b.png (z dropshipping/materialy/logo/640px-Oral-B_logo.svg.png, Wikimedia Commons, na bialym tle)",
+   "width": 720,
+   "height": 273,
+   "bytes": 17867,
+   "sha256": "ab88c17ab2f1bbd8cab46cae51c498ab8beb77c11b975da85d1eaddd77a6fcc3"
+  }
+ ],
+ "dropped": 0,
+ "rejected": {
+  "k10 obraz-lifestyle-1": "w kadrze druga szczoteczka w innym kolorze (szaro-zielona) — galeria miesza kolory"
+ },
+ "kolejnosc": "produkt-01=k02 zestaw (packshot kompletu na bialym tle, bez smartfona), 02=k01 FrontZestawWer2 (z pudelkiem ROSE QUARTZ i smartfonem), 03=k03 front, 04=k04 zestaw2, 05-09=k05-k09 lifestyle"
+}
