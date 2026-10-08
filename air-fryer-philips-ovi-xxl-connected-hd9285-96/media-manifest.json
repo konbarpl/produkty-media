@@ -1,0 +1,166 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:44:25.146761Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/HD9285_96.assets (PRX API, CTN HD9285/96) + galeria Media Expert HD9285/96 (zdjecia 2-4: komplet i akcesoria)",
+ "slug": "air-fryer-philips-ovi-xxl-connected-hd9285-96",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_62e76a38_eca3_46ae_91eb36eb20938391?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 102470,
+   "sha256": "ed59ab433c7b1a0bcf5538f65b6aba4736fba3f28d95af7f91047bc0cf531f40",
+   "desc": "PRX RTP RFT HD9285"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/58/5803772/Frytkownica-beztluszczowa-PHILIPS-XXL-Connected-HD9285-96-Czarny-Air-Fryer-new-aplikacja.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 232825,
+   "sha256": "c588e2b55712ffa961673983aaf70e2f4f83ebfa53a25c9cfdae3d702c776a9f",
+   "desc": "Media Expert new-aplikacja"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/58/5803772/Frytkownica-beztluszczowa-PHILIPS-XXL-Connected-HD9285-96-Czarny-Air-Fryer-misa.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 124300,
+   "sha256": "a282b6fae0095d2274db7e9ac59aa1b7a6407e87013a7fc6ffa47564a780d858",
+   "desc": "Media Expert misa"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/58/5803772/Frytkownica-beztluszczowa-PHILIPS-XXL-Connected-HD9285-96-Czarny-Air-Fryer-plyta-grilowa.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 282389,
+   "sha256": "0147820cbbad1318c6b6d53dda3bee3575a8f099bce924008f3e0e379c6bcdb5",
+   "desc": "Media Expert plyta-grilowa"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_9c611788_6950_489a_93fce8489bf10764?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 116562,
+   "sha256": "891f88dffa85d2f9d31eefdff47614a8fc6132214ea4370194f7bfe4475a2043",
+   "desc": "PRX U1P U6 HD9285"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_eb6aea40_a1a7_497b_99cd593ae4abfd15?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 133662,
+   "sha256": "85abc5f2ddd84c5644e67da525794c49658545df1a8a46212f5bb186998d3051",
+   "desc": "PRX FIL FIM HD9285_XXL_Size_for_whole_family_16x9"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_4325146c_d9fc_4071_9d76f1bd7581e3b7?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 136092,
+   "sha256": "b5bd0509aba23f49ee7d123c25dcedd7986de8c04a522da1c0b133b971c55f7d",
+   "desc": "PRX FIL FIM HD9285_16_in_1_Cooking functions_16x9"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_28796f4f_fd9c_4ed9_b7341d3f942d4454?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 134039,
+   "sha256": "20dc80a0908845ee15b08a7a8308eed8e01e038b7c1461bef90be2d9bd4d4bf8",
+   "desc": "PRX FIL FIM HD9285_CTX_RapidAir_Technology_16x9"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_33a47a93_f336_4df9_900dc0b4a63eb7b1?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 99914,
+   "sha256": "75fa9d799c4110ec845cee2fb48bb03a5285e9f38a2548555a44105b9cd7196e",
+   "desc": "PRX FIL HomeID_AppScreens_wifi_only_16-9 w icon_connected.tif"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a55e8905_5d81_4ceb_bda5248b63082863?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 138524,
+   "sha256": "59ae84a2dd275d810a7d817d053933f87e38e4544c7066b93541524efba9bc76",
+   "desc": "PRX D1P D1 HD9285_uncropped update"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_64970e28_8462_406d_b561661bae92b2cb?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 142125,
+   "sha256": "5ac9a99b8fa44684bc79578141a3e24ec0776c2307b8b30369fdca0d1bdda793",
+   "desc": "PRX FIL FIM KA_Fries_90% less fat_16x9 upd 2"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 12,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-na462-80/logo-philips.png",
+   "width": 525,
+   "height": 105,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "rejected": {
+  "PRX 3 D2P": "ten sam kadr co FIL 8 (16 w 1) bez ikony - duplikat wizualny",
+  "PRX 5 D3P": "ten sam kadr co FIL 11 (RapidAir) - duplikat wizualny",
+  "PRX 6 IMS": "duplikat RTP (k01)",
+  "PRX 7 FIL": "ten sam kadr co D1P k02 - duplikat",
+  "PRX 9 FIL HomeID_AppScreens_all_logos_non_con": "wersja ekranow aplikacji dla modeli bez lacznosci (non connected) - zamiast niej k10 wifi_only",
+  "PRX 14 FIL Energy_saving": "kula ziemska - zdjecie ogolne bez urzadzenia",
+  "PRX 15 FIL HD9255_Easy_to_clean": "nazwa pliku wskazuje INNY model HD9255 - bramka tozsamosci",
+  "PRX 16 HQ1": "nie pobralo sie (nie obraz)",
+  "ME 2 front1, 3 skos": "packshoty urzadzenia - dubluja RTP PRX",
+  "ME 6 opakowanie": "pudelko - zbedne",
+  "ME 7-12 lifestyle": "dubluja zdjecia PRX (U1P, D1P, XXL)"
+ }
+}
