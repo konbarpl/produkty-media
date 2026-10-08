@@ -1,0 +1,121 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T05:48:43.737901Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-frytkownica-beztluszczowa-ninja-af200eu-z-podwojnym-koszem (galeria ME, id 7443578, gallery_1000_1000)",
+ "slug": "air-fryer-ninja-af200eu-podwojny-kosz",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "logo-ninja.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443578/Air-Fryer-Frytkownica-beztluszczowa-NINJA-AF200EU-z-podwojnym-koszem-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 94709,
+   "sha256": "22d85cd3c3e12767014ac43b152e42c0469f30129270a0eb086a19b114d4f5bd"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443578/Air-Fryer-Frytkownica-beztluszczowa-NINJA-AF200EU-z-podwojnym-koszem-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 90663,
+   "sha256": "cb0f933815b561a7f5851f6508156359e745b847f5f504c6c93506a346bfd83e"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443578/Air-Fryer-Frytkownica-beztluszczowa-NINJA-AF200EU-z-podwojnym-koszem-3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 106084,
+   "sha256": "c5b871580881d08b0c60b01498a43adc5f82124e5bb920147f8db1955f89fff6"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443578/Air-Fryer-Frytkownica-beztluszczowa-NINJA-AF200EU-z-podwojnym-koszem-lifestyle6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 106158,
+   "sha256": "b7bccd55c2ce563b26dcf6df61091ceaa817f3fc36c58757a274cbede79f6a01"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443578/Air-Fryer-Frytkownica-beztluszczowa-NINJA-AF200EU-z-podwojnym-koszem-lifestyle1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 125995,
+   "sha256": "a5367e08037e590f897c980d42fce3817aa4b7a08e1b8edb17ef8bcb815b01cc"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443578/Air-Fryer-Frytkownica-beztluszczowa-NINJA-AF200EU-z-podwojnym-koszem-lifestyle2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 153127,
+   "sha256": "5610dbf9a8c867b56f9096882e7fd5136c5bb4bbfb069bb93766c42f2adfd773"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443578/Air-Fryer-Frytkownica-beztluszczowa-NINJA-AF200EU-z-podwojnym-koszem-lifestyle3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 149172,
+   "sha256": "ca1bc1672a633c3fba04e097e3f85e9648ab557834cea41adb2cdc0b230caa09"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443578/Air-Fryer-Frytkownica-beztluszczowa-NINJA-AF200EU-z-podwojnym-koszem-lifestyle4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 151366,
+   "sha256": "539db4e0603466584c14500a317b6c65d626a17c532abd5eec20937ab1aac944"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443578/Air-Fryer-Frytkownica-beztluszczowa-NINJA-AF200EU-z-podwojnym-koszem-lifestyle5.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 161427,
+   "sha256": "3daca3bf2e3d610548102ee2cc19a52457b745b08c43f11a000818effaf8a662"
+  },
+  {
+   "file": "logo-ninja.jpg",
+   "kind": "logo",
+   "order": 10,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/ninja-fn101eugy/logo-ninja.jpg",
+   "width": 1008,
+   "height": 470,
+   "bytes": 49308,
+   "sha256": "6582c0ad0f51c41f1fd3814dcece75134baf029470d8fa8eaab2b86dfecb729e"
+  }
+ ],
+ "rejected": {}
+}
