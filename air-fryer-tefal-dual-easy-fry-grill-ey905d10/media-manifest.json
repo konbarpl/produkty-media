@@ -1,0 +1,145 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:52:49.133818Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/frytkownica-beztluszczowa-tefal-dual-easy-fry-grill-ey905d10-air-fryer (galeria ME id 5670016, gallery_1000_1000)",
+ "slug": "air-fryer-tefal-dual-easy-fry-grill-ey905d10",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/56/5670016/Frytkownica-beztluszczowa-TEFAL-Dual-Easy-Fry-Grill-EY905D10-Air-Fryer-FrontV3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 111621,
+   "sha256": "df9d9762608a2a9887cebc79cd32bf1a165cc72b8bf8bac7f0be6f442c8d017e"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/56/5670016/Frytkownica-beztluszczowa-TEFAL-Dual-Easy-Fry-Grill-EY905D10-Air-Fryer-zestaw-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 93117,
+   "sha256": "91e9283eda4f31500fd982042ad03a4e03c3dcef888523a3f6661220b02c81a5"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/56/5670016/Frytkownica-beztluszczowa-TEFAL-Dual-Easy-Fry-Grill-EY905D10-Air-Fryer-front.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 96288,
+   "sha256": "06f84948ba3e9d67c8666724f0b6182278987f3851c0afa583ac1afc2fd20b2b"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/56/5670016/Frytkownica-beztluszczowa-TEFAL-Dual-Easy-Fry-Grill-EY905D10-Air-Fryer-skos-kratka.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 99552,
+   "sha256": "46196d66e3f8652425820c8ef57244ffed6533c0f0f3e0f9f86c7e4417b6d075"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/56/5670016/EY905D-Front_Smartfon.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 123684,
+   "sha256": "3a3448e3054cfbfac59ef683aa8c5959ba761f412febb0a42b3493dd58c11909"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/56/5670016/Frytkownica-beztluszczowa-TEFAL-Dual-Easy-Fry-Grill-EY905D10-Air-Fryer-obraz-lifestyle-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 156771,
+   "sha256": "a9de85f128808b30724da779b226a1a9e2f93670d76ac94653bb38e102143046"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/56/5670016/Frytkownica-beztluszczowa-TEFAL-Dual-Easy-Fry-Grill-EY905D10-Air-Fryer-obraz-lifestyle-3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 231315,
+   "sha256": "74d04a6a3eb7ea75ce185ade2b0bd6d279cfd118e717e13cf3f4461b1bb39d84"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/56/5670016/Frytkownica-beztluszczowa-TEFAL-Dual-Easy-Fry-Grill-EY905D10-Air-Fryer-obraz-lifestyle-7.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 193905,
+   "sha256": "aacb0f4876c86a7d372175451cad1030b6b14aa56b01438bdbbd0378ea085ae9"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/56/5670016/Frytkownica-beztluszczowa-TEFAL-Dual-Easy-Fry-Grill-EY905D10-Air-Fryer-obraz-lifestyle-5.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 170596,
+   "sha256": "a6bf0917e6564d854e7f50494f6b504e685ad641b2a73874b181966e86f90590"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/56/5670016/Frytkownica-beztluszczowa-TEFAL-Dual-Easy-Fry-Grill-EY905D10-Air-Fryer-obraz-lifestyle-4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 149821,
+   "sha256": "ecd0525b94306faba9d3609b17c4dcdbd50ee9c9f5daa920fbaa4897115c2b17"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/56/5670016/Frytkownica-beztluszczowa-TEFAL-Dual-Easy-Fry-Grill-EY905D10-Air-Fryer-obraz-lifestyle-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 109158,
+   "sha256": "8f9b7e307ab2a1a73201c6a6ccb0d7bd7195ac47430881358b0a68df6d74c7c7"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 12,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "rejected": {
+  "uwaga": "zadne zdjecie nie odrzucone: 11/11 zdjec galerii ME (id 5670016) ma w nazwie EY905D10 lub EY905D i pokazuje ten sam czarno-srebrny model z dwiema szufladami; brak plakietek gwarancji, zdjec serii i porownan modeli. k02 (urzadzenie + kratka + ruszt) na pozycji 1 jako packshot z kompletem; k01 (z grafika telefonu myTefal) przesuniety na pozycje 5."
+ }
+}
