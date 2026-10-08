@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T05:45:11.960Z",
+  "sourcePage": "https://www.brodasystem.pl/brabantia-deska-do-prasowania-rozmiar-b-metaliczna-szara-rama-system-perfectflow-bubbles-17897.html",
+  "slug": "brabantia-deska-103629-rozm-b",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/bb233707de6c31215cc8a25da32472e6/images/brabantia-deska-do-prasowania-103629.jpg",
+      "width": 1000,
+      "bytes": 215244,
+      "sha256": "c84eab4a636fae4c2344e5dee77af85f9b0667784bb2e81174950bbd2987ed98",
+      "height": 1000
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/bb233707de6c31215cc8a25da32472e6/images/brabantia-deska-do-prasownaia-bubbles-103629.jpg",
+      "width": 1000,
+      "bytes": 77522,
+      "sha256": "ce63c094daea594f8882049bfdd8a8f3ee0512b49ceb3ce5f53ba877b44783e4",
+      "height": 1000
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/bb233707de6c31215cc8a25da32472e6/images/brabantia-deska-do-prasownaia-bubbles-103629-rozlozona.jpg",
+      "width": 1000,
+      "bytes": 85899,
+      "sha256": "03729c72a5f979779cdc2083357adc7cb28ae53bde864fe78cf4685548455506",
+      "height": 1000
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/bb233707de6c31215cc8a25da32472e6/images/Ironing-Board-B-SSUH-PerfectFlow-Bubbles-8710755103629-Brabantia-3840x5760px-6-NR-2166.JPG",
+      "width": 3840,
+      "bytes": 1964612,
+      "sha256": "6d851ebdcc2c0b5fb3db5d1330ab895ea9fe6eed5aaf74f358869ee3c0e49a9d",
+      "height": 3824
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/bb233707de6c31215cc8a25da32472e6/images/Ironing-Board-B-SSUH-PerfectFlow-Bubbles-8710755103629-Brabantia-5760x3840px-6-NR-2168.JPG",
+      "width": 1000,
+      "bytes": 138641,
+      "sha256": "82a3f09fe6e742abfeef40cff9fcd5a8b62a4d91ba22ffaa9560f196388e5ab8",
+      "height": 775
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "repo mediów dropshipping/produkty listy/produkty-media/_logo/logo-brabantia.jpg (logo marki Brabantia)",
+      "width": 590,
+      "height": 96,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ],
+  "dropped": 0,
+  "note": "T54 GRUPA 70 P03 ETAP 1 (2026-10-08): 5 zdjęć z galerii brodasystem.pl (oryginały /images/, kolejność data-src big_*), wszystkie zweryfikowane wzrokowo jako deska 103629 Bubbles z podstawą na generator pary; odrzucone 1 zdjęcie z galerii karty: big_brabantia-deska-do-prasowania-b-moving-circles-346460-wymiary.jpg (inny kod i wzór pokrowca). Logo na końcu."
+}
