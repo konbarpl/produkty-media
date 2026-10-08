@@ -1,0 +1,107 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:32:49.094Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie/szczoteczki-elektryczne/szczoteczka-magnetyczna-oral-b-io9-sapphire-z-etui-podrozne (galeria ME, id 9859965, gallery_1000_1000)",
+ "slug": "oral-b-io-9-ciemnoniebieski",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "logo-oral-b.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/98/9859965/Szczoteczka-magnetyczna-ORAL-B-iO-9-Ciemnoniebieski-1.jpg",
+   "width": 1000,
+   "bytes": 75194,
+   "sha256": "0c8a134d281f73c89f60023efb47020b315e168a103ae74a091575068722c643"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/98/9859965/Szczoteczka-magnetyczna-ORAL-B-iO-9-Ciemnoniebieski-2.jpg",
+   "width": 1000,
+   "bytes": 136306,
+   "sha256": "e23980d0c8e82089ebed837bcc43744f24cb7549e8cca671d74961e4840a2686"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/98/9859965/Szczoteczka-magnetyczna-ORAL-B-iO-9-Ciemnoniebieski-Lifestyle-1.jpg",
+   "width": 1000,
+   "bytes": 158842,
+   "sha256": "120e6de1a56cff15527ee1283eb20a356265f3fcff0d71d41cd16353d97e391e"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/98/9859965/Szczoteczka-magnetyczna-ORAL-B-iO-9-Ciemnoniebieski-Lifestyle-5.jpg",
+   "width": 1000,
+   "bytes": 139441,
+   "sha256": "e27b1244a10f177f1686c740735bf11a27c18ab6c8de48fa6e0d7b585c8a6687"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/98/9859965/Szczoteczka-magnetyczna-ORAL-B-iO-9-Ciemnoniebieski-Lifestyle-4.jpg",
+   "width": 1000,
+   "bytes": 104280,
+   "sha256": "2b85cbabde4c5becd192d181cf3a32b010d84738a16dd5ad8d92cc123ba278d8"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/98/9859965/Szczoteczka-magnetyczna-ORAL-B-iO-9-Ciemnoniebieski-Lifestyle-6.jpg",
+   "width": 1000,
+   "bytes": 132176,
+   "sha256": "8824a581050ac4f6fd07982dda089448af06588f0f02564652e074f2b971cb03"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/98/9859965/Szczoteczka-magnetyczna-ORAL-B-iO-9-Ciemnoniebieski-Lifestyle-8.jpg",
+   "width": 1000,
+   "bytes": 158923,
+   "sha256": "201f5544e167e9430b19c850894e8e417d3123c81a58e509f355d1e9f5c9b49a"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/98/9859965/Szczoteczka-magnetyczna-ORAL-B-iO-9-Ciemnoniebieski-Lifestyle-7.jpg",
+   "width": 1000,
+   "bytes": 102869,
+   "sha256": "1d4723b1be92db566ed945a2469bf890e33d2b72257f51e6802e78ce08bc0cf5"
+  },
+  {
+   "file": "logo-oral-b.png",
+   "kind": "logo",
+   "order": 9,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-oral-b.png (z dropshipping/materialy/logo/640px-Oral-B_logo.svg.png, Wikimedia Commons, na bialym tle)",
+   "width": 720,
+   "height": 273,
+   "bytes": 17867,
+   "sha256": "ab88c17ab2f1bbd8cab46cae51c498ab8beb77c11b975da85d1eaddd77a6fcc3"
+  }
+ ],
+ "dropped": 0,
+ "rejected": {
+  "k04 Lifestyle-2": "infografika pokazuje BIALE etui ladujace, a zestaw z karty (k01, k02) ma czarne etui — mylace co do kompletacji",
+  "k05 Lifestyle-3": "porownanie z szczoteczka manualna (100% czystsze zeby*) i render samej koncowki — odrzucone jako porownanie"
+ },
+ "kolejnosc": "produkt-01=k01 packshot kompletu na bialym tle z pudelkiem iO9, 02=k02 zestaw (raczka na stacji, etui, pojemnik), 03=k03 GENIUS cechy, 04=k07 7 trybow + czujnik nacisku, 05=k06 wyswietlacz, 06=k08 Smart Adapt, 07=k10 aplikacja, 08=k09 lifestyle; wszystkie raczki ciemnoniebieskie (sprawdzone wzrokowo, zoom.jpg)"
+}
