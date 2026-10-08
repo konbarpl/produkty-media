@@ -1,0 +1,156 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:15:54.124321Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-frytkownica-beztluszczowa-bosch-serii-6-mafd661b4-12l-z-podwojnym-koszem (galeria ME id 12736775 gallery_1000_1000 + zdjecia opisu storage_app_opisy2_bosch_2137402a_img)",
+ "slug": "air-fryer-bosch-serie-6-mafd661b4-podwojny-kosz",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "logo-producenta.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12736775/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serii-6-MAFD661B4-12l-z-podwojnym-koszem-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 85260,
+   "sha256": "14cbcdc4bf19dd38db64098d7fa731481af8151c86b5ade9c50e117445fff239"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12736775/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serii-6-MAFD661B4-12l-z-podwojnym-koszem-7.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 145788,
+   "sha256": "a4729d5c90e707b0ef6d9646b567861ea365f5b8adbaece1fb147dbb978eafb6"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12736775/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serii-6-MAFD661B4-12l-z-podwojnym-koszem-6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 142442,
+   "sha256": "e15784ea2fc15115bc2cd0160a6b09e9800f6bacbe6953ea9e356994ff276ee2"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12736775/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serii-6-MAFD661B4-12l-z-podwojnym-koszem-3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 128328,
+   "sha256": "4fbfb0518ff87f0e9a924e10aa1b6063f2deaca15a7411de8464fe92ddc81848"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12736775/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serii-6-MAFD661B4-12l-z-podwojnym-koszem-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 109454,
+   "sha256": "8cb18e8bde5216ac1a265a6a3d8c7dc362714e03d21f32657525d2630f947a20"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12736775/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serii-6-MAFD661B4-12l-z-podwojnym-koszem-5.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 127648,
+   "sha256": "9fbd7aa13fa12e8a5b56787644634bc38cde032cb9b452242e83fc199829bf71"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12736775/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serii-6-MAFD661B4-12l-z-podwojnym-koszem-8.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 156989,
+   "sha256": "b3dfb9ce294300ffd94092af38c1d8c76c76b4a5f5698840931c33db64830196"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12736775/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serii-6-MAFD661B4-12l-z-podwojnym-koszem-11.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 240327,
+   "sha256": "dbef10eb74ec733f89b81a506a07f45e3419a337f0072cfd8b51a0c3fde248c9"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 9,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/12/12736775/storage_app_opisy2_bosch_2137402a_img/7.jpg",
+   "width": 500,
+   "height": 333,
+   "bytes": 54070,
+   "sha256": "e042cab9f0ed1fc71be41e7375bd042b537b710b095f6b5f631602b53ba287fe"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "description",
+   "order": 10,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/12/12736775/storage_app_opisy2_bosch_2137402a_img/8.jpg",
+   "width": 500,
+   "height": 333,
+   "bytes": 28074,
+   "sha256": "710f1b42640a3f0cb57a337efa0d889d5ecf8cce6979cf79bc3b1c2a44727450"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "description",
+   "order": 11,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/12/12736775/storage_app_opisy2_bosch_2137402a_img/9.jpg",
+   "width": 500,
+   "height": 333,
+   "bytes": 43018,
+   "sha256": "54666208cb3fe8acf0eb8e4597e03285a96cd608ef8d02c88f1e0f877e82d7b9"
+  },
+  {
+   "file": "logo-producenta.png",
+   "kind": "logo",
+   "order": 12,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/bosch-air-1000/logo-producenta.png",
+   "width": 446,
+   "height": 105,
+   "bytes": 22473,
+   "sha256": "6760ac2ee997737fb61be9b017dc12ff7ec58c7a2ef060e2d719efa5f8324739"
+  }
+ ],
+ "rejected": {
+  "4": "g4 = plakietka 80% energii, a tekst karty mowi o 70% — sprzeczny claim",
+  "9": "g9 = aplikacja w telefonie, frytkownice w tle nieczytelne (ME: Lacznosc z aplikacja: Nie)",
+  "10": "g10 = kolaz innych urzadzen Bosch (piekarnik, plyta) — zdjecie serii",
+  "12": "otop = baner Bosch, nie zdjecie produktu",
+  "13": "o1 = kadr g7",
+  "14": "o2 = kadr g3 (wersja PL)",
+  "15": "o3 = kadr g2 (wersja PL)",
+  "16": "o4 = kadr g6 (wersja PL)",
+  "17": "o5 = kadr g11",
+  "18": "o6 = kadr g5",
+  "22": "o10 = kadr g8",
+  "23": "o11 = kadr g9"
+ }
+}
