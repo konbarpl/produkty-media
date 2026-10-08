@@ -1,0 +1,159 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T05:54:13.782548Z",
+ "sourcePage": "https://www.sharkninja.pl/ninja-crispi-pro-szklany-air-fryer-7-w-1-cyberprzestrzen-as101eucy/AS101EUCY.html (assety producenta AS101EUCY)",
+ "slug": "air-fryer-ninja-crispi-pro-as101eucy",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "logo-ninja.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/SharkNinja-EU/AS101EUCY_01.jpg (PNG RGBA splaszczony na bialym tle)",
+   "width": 2070,
+   "height": 2070,
+   "bytes": 602850,
+   "sha256": "4bf79c795d2b4184be1a976e3220c1cc027e32ca89586ee341bbfde17dcb8d63"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EUCY/AS101EUCY_gallery_pl-PL_03.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 239980,
+   "sha256": "3196ed1055d8d4fe815ec27b1b91d88e58131f6a4825fa1ff4cc7b4e58762e50"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EUCY/AS101EUCY_gallery_pl-PL_02.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 210042,
+   "sha256": "ec37ac1d426ecc6104d4e30bd1b437848808c90bf9902e38ff023a03bade8966"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EUCY/AS101EUCY_gallery_pl-PL_07.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 687592,
+   "sha256": "60e130378985c1adba6a68a10bd4f578c8502c319b02cf03f03cab0a9fc52a19"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EUCY/AS101EUCY_gallery_pl-PL_06.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 196966,
+   "sha256": "19a612a2fea7d6d6eb615f8c895642380195f47ade1d640dd64bc9501068239b"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EUCY/AS101EUCY_gallery_pl-PL_04.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 363654,
+   "sha256": "590adf6ad06666f364f47313312eb778676072081da2cffc998cef9c92707087"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EUCY/AS101EUCY_gallery_pl-PL_08.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 321371,
+   "sha256": "5859a924bb9b87f02a5ca4cc5f6adfdca26dfe6f510487262f66ad787e68fe84"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EUCY/AS101EUCY_gallery_pl-PL_09.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 401985,
+   "sha256": "f3e924fce8761cd3c99530457bc14cbaad6d62225ca88d1858a9f82829034a3a"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EUCY/AS101EUCY_gallery_pl-PL_11.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 317479,
+   "sha256": "ebd1916447d3cd06deedaa8db4fa8198d6abe99ab2c187c41f2b40d64981ac26"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EUCY/AS101EUCY_gallery_pl-PL_12.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 568754,
+   "sha256": "1205ce8332621f14e310e43b74e772a838f150cb467d815f5ba754dc9dba75e6"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EUCY/AS101EUCY_gallery_pl-PL_13.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 526357,
+   "sha256": "6a9f224aeb43fdbc8a15ad8422647613eb3c7bfa250c7cbce160cc84ad25c9b2"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EUCY/AS101EUCY_gallery_pl-PL_14.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 171095,
+   "sha256": "9a77e892fdc7bf5709774788b94820186399bff29a6bd8f54c9d6f95e6868df0"
+  },
+  {
+   "file": "logo-ninja.jpg",
+   "kind": "logo",
+   "order": 13,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/ninja-fn101eugy/logo-ninja.jpg",
+   "width": 1008,
+   "height": 470,
+   "bytes": 49308,
+   "sha256": "6582c0ad0f51c41f1fd3814dcece75134baf029470d8fa8eaab2b86dfecb729e"
+  }
+ ],
+ "rejected": {
+  "k01..k04-ME": "galeria Media Expert AS101EUCY pokazuje kolor szaro-zielony identyczny z packshotem producenta AS101EUGY (inny wariant kolorystyczny) — niezgodny kolor",
+  "k05-SN": "ten sam packshot co p01, zle zdekodowana przezroczystosc (czarne tlo)",
+  "k17-SNPL": "infografika z naczyniem 3,8 l oznaczonym jako sprzedawane osobno — mylaca kompletacja",
+  "k22-SNPL": "infografika z trzema naczyniami 2,3/3,8/5,7 l (3,8 l sprzedawane osobno) — mylaca kompletacja"
+ }
+}
