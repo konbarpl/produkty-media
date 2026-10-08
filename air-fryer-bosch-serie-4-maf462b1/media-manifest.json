@@ -1,0 +1,149 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T05:49:27.782781Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-frytkownica-beztluszczowa-bosch-serie-4-maf462b1-z-dwoma-grzalkami-7-automatycznymi-programami (galeria ME id 8112977 gallery_1000_1000 + zdjecia opisu storage_app_opisy2_bosch_2094457)",
+ "slug": "air-fryer-bosch-serie-4-maf462b1",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "logo-producenta.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8112977/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-4-MAF462B1-z-dwoma-grzalkami-i-7-automatycznymi-programami-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 61576,
+   "sha256": "25da1e73272d3ab1c749dfa49d1c5fc4b880779b83d21fcc453a23497fc137fc"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8112977/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-4-MAF462B1-z-dwoma-grzalkami-i-7-automatycznymi-programami-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 118148,
+   "sha256": "5f035fa5fd0f4afe17277e2bfe043a1849d1fbdf98f47b6096dba7a7676a5d21"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8112977/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-4-MAF462B1-z-dwoma-grzalkami-i-7-automatycznymi-programami-3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 139487,
+   "sha256": "2f0bb59c04fa4c930a9963ee371d4e5c825c9fd241ce8d55ab5eebf049603f3d"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8112977/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-4-MAF462B1-z-dwoma-grzalkami-i-7-automatycznymi-programami-4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 150632,
+   "sha256": "1e869b951cbe52cde092e31b1ee128ddff58b9cd5304ec327302f426dd53da8b"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8112977/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-4-MAF462B1-z-dwoma-grzalkami-i-7-automatycznymi-programami-5.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 104795,
+   "sha256": "83db3acc09cdb30aa97eaebf02d24322b6f53c41477db3832903dcea2e2e44f1"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/81/8112977/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-4-MAF462B1-z-dwoma-grzalkami-i-7-automatycznymi-programami-6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 102894,
+   "sha256": "851935cf528310c97a8e328b0e8fe4c148c714a07187a350f97ae76ca42f8006"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 7,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/81/8112977/storage_app_opisy2_bosch_2094457/1.jpg",
+   "width": 1000,
+   "height": 494,
+   "bytes": 98018,
+   "sha256": "ee7fd92a65850d9314fbf40efda8ad446322a7a12cf300c193a20aedcb3ee031"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 8,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/81/8112977/storage_app_opisy2_bosch_2094457/5.jpg",
+   "width": 1000,
+   "height": 562,
+   "bytes": 93611,
+   "sha256": "0d425965d6e8068684eb851b68163547de94578fdcf828fba3c43dc6a10d9639"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "description",
+   "order": 9,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/81/8112977/storage_app_opisy2_bosch_2094457/8.jpg",
+   "width": 1000,
+   "height": 567,
+   "bytes": 73614,
+   "sha256": "76ec75b99cca40a838d3355809d4772004c29c9edddf2663f543a59e96435de4"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "description",
+   "order": 10,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/81/8112977/storage_app_opisy2_bosch_2094457/9.jpg",
+   "width": 1000,
+   "height": 563,
+   "bytes": 119858,
+   "sha256": "a986c7c632e70747518c7706b3314e0104b1505f56a48bd4b6df96d3e2c1623e"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "description",
+   "order": 11,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/81/8112977/storage_app_opisy2_bosch_2094457/3.jpg",
+   "width": 1000,
+   "height": 563,
+   "bytes": 120192,
+   "sha256": "7a596eb7c87c49155b1004a4e42bb47932ab0f893a770dfc18c13caf4dfd6984"
+  },
+  {
+   "file": "logo-producenta.png",
+   "kind": "logo",
+   "order": 12,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/bosch-air-1000/logo-producenta.png",
+   "width": 446,
+   "height": 105,
+   "bytes": 22473,
+   "sha256": "6760ac2ee997737fb61be9b017dc12ff7ec58c7a2ef060e2d719efa5f8324739"
+  }
+ ],
+ "rejected": {
+  "8": "o2 = kadr zdjecia galerii g2 (ta sama scena)",
+  "10": "o4 = kadr g4",
+  "12": "o6 = kadr g5 (wymiary)",
+  "13": "o7 = kadr g6",
+  "16": "o10 = kadr g3 (zmywarka/zlew)"
+ }
+}
