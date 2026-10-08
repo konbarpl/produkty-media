@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T05:45:30.195Z",
+  "sourcePage": "https://www.laurastar.pl/deski-do-prasowania/451-deska-do-prasowania-comfort-bezowa-0790776004974.html",
+  "slug": "deska-laurastar-comfort",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-03.jpg",
+    "produkt-02.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-laurastar.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.laurastar.pl/1940/deska-do-prasowania-comfort-bezowa.jpg",
+      "width": 1168,
+      "bytes": 26555,
+      "sha256": "109e5f871b22f5fc35916c662f67dea0fc90880452e203a8e81b2752a09733c3",
+      "height": 1600
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.laurastar.pl/1942/deska-do-prasowania-comfort-bezowa.jpg",
+      "width": 1600,
+      "bytes": 51911,
+      "sha256": "019aa2ba897a84913e2570991039a41313be5ed97b7c66504f91f3156eaa1b94",
+      "height": 1600
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.laurastar.pl/1941/deska-do-prasowania-comfort-bezowa.jpg",
+      "width": 1600,
+      "bytes": 39764,
+      "sha256": "a744e4f3ff2483e35820cc9da229adcd47a734870b5cd0c03966b603de58714a",
+      "height": 1527
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.laurastar.pl/7833/deska-do-prasowania-comfort-bezowa.jpg",
+      "width": 1600,
+      "bytes": 215267,
+      "sha256": "83bbee0e68e75c26b466ec797d38039b451987fe504c886e3e2b75f333a82007",
+      "height": 1600
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.laurastar.pl/8504/deska-do-prasowania-comfort-bezowa.jpg",
+      "width": 800,
+      "bytes": 49509,
+      "sha256": "dab4ceb0c4e2b69f53695a52a4dfde7648acf37170749330bc33719b47c4a1e1",
+      "height": 800
+    },
+    {
+      "file": "logo-laurastar.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-laurastar.jpg",
+      "sourceOrigin": "dropshipping/materiały/logo/laurastar_logo_og.jpg (folder logo Konrada, wiedza/reference_logo_marek.md)",
+      "width": 502,
+      "height": 73,
+      "bytes": 11784,
+      "sha256": "d7658a3389e13d1f90e10d24cf6d4b87df1b7e04e98f4717a316140ad93a3b36"
+    }
+  ],
+  "dropped": 0,
+  "galleryNote": "Kolejnosc karty laurastar.pl: 7833 (czarne tlo), 8504 (wymiary), 1940, 1941, 1942; zmieniona tak, by nr 1 byl packshotem na bialym tle (1940). Wszystkie 5 zdjec = wariant Comfort bezowa (bezowy pokrowiec, grafitowy stelaz). Logo na koncu."
+}
