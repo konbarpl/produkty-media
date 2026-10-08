@@ -1,0 +1,156 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:34:52.752799Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-tefal-ey2468e0-easy-fry-max-5l-czarny (galeria ME id 14753554, gallery_1000_1000)",
+ "slug": "air-fryer-tefal-easy-fry-max-ey2468",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14753554/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-Easy-Fry-Max-EY2468E0-5.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 60943,
+   "sha256": "e08b5d6412793e59e557e380eb2dace7abd8956e906a2994783f7852ec095f20"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14753554/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-Easy-Fry-Max-EY2468E0-3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 84879,
+   "sha256": "0077dd0a25ed82892aa54fd5c10e516a9bcc2abae791a53e4206ce31f165c8e3"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14753554/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-Easy-Fry-Max-EY2468E0-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 102091,
+   "sha256": "60311f47eabd63427325a215242dc16be81941a22c00954a8ec52f826c96091d"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14753554/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-Easy-Fry-Max-EY2468E0-4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 74545,
+   "sha256": "e4667ad2229d51cf235cf5a889e0307d9d0cbbced35dccbc1717589dff024c24"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14753554/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-Easy-Fry-Max-EY2468E0-12.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 142158,
+   "sha256": "291b0a66e23afcd690dda217fcca197c44364d6e4790727f847b2fa62534940d"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14753554/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-Easy-Fry-Max-EY2468E0-7.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 155914,
+   "sha256": "240abd07456c28b03f19a4f30e8622ebe226181d77c99c94464391607ad1324a"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14753554/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-Easy-Fry-Max-EY2468E0-8.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 179507,
+   "sha256": "78a879eba9bec9ba8544c965554f764a0fe72d19e1acfe98ee1d62a609ef781f"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14753554/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-Easy-Fry-Max-EY2468E0-6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 136797,
+   "sha256": "bc43065a298e89db766b226ad7541347ded65bd2ff102d62b6c1595ad6318e69"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14753554/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-Easy-Fry-Max-EY2468E0-9.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 340362,
+   "sha256": "c220599459a72d8d5ee9cac2d099cc44a00cbe302d58e57dcf976465fa87102e"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14753554/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-Easy-Fry-Max-EY2468E0-10.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 294338,
+   "sha256": "ce40c6ab32533869a243dc8489b60c5ba9c97d5dd7c199991bd2257856f06589"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14753554/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-Easy-Fry-Max-EY2468E0-11.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 182910,
+   "sha256": "982312b169cbe6bb86b9131a02c7220e48e14715ea741a89301e06963223bb60"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/14/14753554/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-Easy-Fry-Max-EY2468E0-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 81330,
+   "sha256": "87a00e543549782d5a88935e37c4d6375a0fc98d34dceeae1e405a76899a6e9e"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 13,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "rejected": {
+  "brak": "galeria ME ma 12 zdjec, wszystkie tego kodu (nazwy plikow ...-TEFAL-Easy-Fry-Max-EY2468E0-N) i tego koloru (czarny, jeden kosz); k05 (czysty front bez naklejki) na pozycji 1, k01 (front z naklejka Easy Cleaning i grafika telefonu myTefal) na koniec"
+ }
+}
