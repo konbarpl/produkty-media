@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T06:05:05.012Z",
+  "sourcePage": "https://www.brodasystem.pl/brabantia-deska-do-prasowania-podstawa-na-generator-pary-rozmiar-c-spring-bubbles.html",
+  "slug": "brabantia-deska-134722-rozm-c",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/063baa1a320c1eba9e6fddba7ac0538d/images/brabantia-deska-do-prasowania-134722-springbubbles.jpg",
+      "width": 1000,
+      "bytes": 36457,
+      "sha256": "e1d47b437a59900660c3ef4519f52ede81ce284834922b4ad2cd6fd8fef126c8",
+      "height": 1000
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/063baa1a320c1eba9e6fddba7ac0538d/images/brabantia-deska-do-prasowania-134722-springbubble-s.jpg",
+      "width": 903,
+      "bytes": 144667,
+      "sha256": "889c487be31ea7789399ef189de35c50a661ad29e94915f2277bebf2364ee740",
+      "height": 1000
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/063baa1a320c1eba9e6fddba7ac0538d/images/brabantia-deska-do-prasowania-134722-spring-bubbles.jpg",
+      "width": 1000,
+      "bytes": 234449,
+      "sha256": "67955f370d35a8b2ccd2ed1287393ee453dadedaf49e810912cd058d5221060e",
+      "height": 1000
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/063baa1a320c1eba9e6fddba7ac0538d/images/brabantia-deska-do-prasowania-c-moving-circles-wymiary.jpg",
+      "width": 1000,
+      "bytes": 45872,
+      "sha256": "555054a65eed73dcb82a8fcc11a9a3396e6c2a78d9ec8ccd86626e5160b43ce7",
+      "height": 1000
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 5,
+      "sourceUrl": "repo mediów dropshipping/produkty listy/produkty-media/_logo/logo-brabantia.jpg (logo marki Brabantia)",
+      "width": 590,
+      "height": 96,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ],
+  "dropped": 0,
+  "note": "T54 GRUPA 70 P10 ETAP 1 (2026-10-08): 4 zdjęcia z galerii brodasystem.pl (oryginały /images/, kolejność data-src big_*), zweryfikowane wzrokowo jako deska 134722 rozmiar C Spring Bubbles z podstawą na generator pary (plakietka C na pokrowcu); produkt-01 packshot z przodu na białym tle, 02 aranżacja przy ścianie, 03 packshot w perspektywie, 04 rysunek wymiarów z nazwą pliku innego wzoru (c-moving-circles-wymiary), zostawiony, bo wymiary 124x45 cm i 75-98 cm zgadzają się z kartą 134722. Logo na końcu."
+}
