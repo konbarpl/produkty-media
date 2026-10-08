@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T06:10:41.232Z",
+  "sourcePage": "https://www.brodasystem.pl/brabantia-deska-do-prasowania-podstawa-na-generator-pary-rozmiar-c-fresh-breeze.html",
+  "slug": "brabantia-deska-219702-rozm-c",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.png",
+    "produkt-03.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/8360998cb03a9c82414684f10cbd5740/images/brabantia-deska-do-prasowania-rozmiar-c-21-97-02-glowne.jpg",
+      "width": 1000,
+      "bytes": 63242,
+      "sha256": "9cfbd8a1bac7ba01f096a8ad04333cc54316f7f520ccd729b9b0e3ae1dd7d016",
+      "height": 1000
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/8360998cb03a9c82414684f10cbd5740/images/brabantia-deska-do-prasowania-rozmiar-c-21-97-02-wyglad.PNG",
+      "width": 1000,
+      "bytes": 202342,
+      "sha256": "58b7d7ceffc39cf18dde68f6e36dbab61408edeb059c5dc467f9eb9e25eb19b3",
+      "height": 1000
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/8360998cb03a9c82414684f10cbd5740/images/brabantia-deska-do-prasowania-rozmiar-c-21-97-02-wymiary.jpg",
+      "width": 1000,
+      "bytes": 38952,
+      "sha256": "f786b210299684a0186919212bebac0ed7ff56a0f4ee6238e3c1ae4ec6167726",
+      "height": 1000
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "repo mediów dropshipping/produkty listy/produkty-media/_logo/logo-brabantia.jpg (logo marki Brabantia)",
+      "width": 590,
+      "height": 96,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ],
+  "dropped": 0,
+  "note": "T54 GRUPA 70 P13 ETAP 1 (2026-10-08): 3 zdjęcia z galerii brodasystem.pl (oryginały /images/, kolejność data-src big_*; nazwy plików z kodem 21-97-02), zweryfikowane wzrokowo jako deska 219702 rozmiar C Fresh Breeze (plakietka C na pokrowcu) z podstawą na generator pary; produkt-01 packshot z przodu na białym tle, 02 packshot w perspektywie (PNG, białe tło), 03 rysunek wymiarów 124x45 cm i 75-98 cm (nazwa pliku z kodem 21-97-02, zgodny z kartą). Logo na końcu."
+}
