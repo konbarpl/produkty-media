@@ -468,7 +468,10 @@
       "order": 36,
       "note": "logo marki Samsung (kopia z samsung-jet-95s-vs70h28gfc)",
       "bytes": 45760,
-      "sha256": "cc1a2d6843bab101b93f07a715a618b3f38abeaa8d2e995d452f949deb8acd64"
+      "sha256": "cc1a2d6843bab101b93f07a715a618b3f38abeaa8d2e995d452f949deb8acd64",
+      "sourceUrl": "repo: samsung-jet-95s-vs70h28gfc/logo-samsung.jpg",
+      "width": 1360,
+      "height": 317
     }
   ],
   "rejected": [
