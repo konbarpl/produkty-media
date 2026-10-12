@@ -1,0 +1,610 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-12T10:21:13.770857Z",
+  "sourcePage": "https://www.samsung.com/pl/vacuum-cleaners/stick/vs9500al-stick-more-advance-cleaning-performance-hexajet-motor-jet-cyclone-green-vs20c9542tn-ge/",
+  "slug": "samsung-jet-95-pet-vs20c9542tn",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "produkt-19.jpg",
+    "produkt-20.jpg",
+    "produkt-21.jpg",
+    "produkt-22.jpg",
+    "produkt-23.jpg",
+    "produkt-24.jpg",
+    "produkt-25.jpg",
+    "produkt-26.jpg",
+    "produkt-27.jpg",
+    "produkt-28.jpg",
+    "produkt-29.jpg",
+    "produkt-30.jpg",
+    "produkt-31.jpg",
+    "produkt-32.jpg",
+    "produkt-33.jpg",
+    "logo-samsung.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "note": "zestaw: odkurzacz z elektroszczotka Jet Dual, mini elektroszczotka Pet Tool+, szczotka do kurzu, szczelinowka, koncowka elastyczna, akumulator, stacja Z Station",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-538986106?$ORIGIN_JPG$",
+      "bytes": 138954,
+      "sha256": "0c490546f22b187cdbd345e1cdae74e638e4bb6939e178e04662e8aff73044ba",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "note": "odkurzacz zlozony z elektroszczotka Jet Dual, z przodu",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680744?$ORIGIN_JPG$",
+      "bytes": 72945,
+      "sha256": "ce001c9f4613708f51e0a99c2fb9ff53e534e59dd0b0b5e8ed3caa6957b9ecbb",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "note": "odkurzacz zlozony",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680699?$ORIGIN_JPG$",
+      "bytes": 77049,
+      "sha256": "12d271d304d5f6790602024d084a93d0cbb07703ea3045319f59f7d89b65f2dd",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "note": "odkurzacz zlozony, ujecie z boku",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680700?$ORIGIN_JPG$",
+      "bytes": 83182,
+      "sha256": "aa2fb0a23de71f4b76444ecea5f8f73a57b7cab3dbd5799bd0b226168c87b62d",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "note": "odkurzacz zlozony, pochylony",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680701?$ORIGIN_JPG$",
+      "bytes": 92445,
+      "sha256": "1938a61625a8b3d12912e3e881f016fe4ef257d630ff07119923f94646c3dc0b",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "note": "odkurzacz w stacji Z Station",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680691?$ORIGIN_JPG$",
+      "bytes": 101224,
+      "sha256": "f63a110186c8990a1eb50acef644f8f518de25efb4d3523286e50931eb4d2e09",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "note": "odkurzacz w stacji Z Station, ujecie z boku",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680692?$ORIGIN_JPG$",
+      "bytes": 107629,
+      "sha256": "a8d20bf7d4d581348c27d74319b649f90e70d402ed1ea049cc05ede225ec6d4a",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "note": "stacja Z Station z akcesoriami, z przodu",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680693?$ORIGIN_JPG$",
+      "bytes": 77370,
+      "sha256": "6fafd61ce35cd2cf3301d5721cedd53270a98805ef475e690eb95eb8ac1ca3fd",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "note": "stacja Z Station z akcesoriami, z boku",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680694?$ORIGIN_JPG$",
+      "bytes": 97753,
+      "sha256": "8e950bc62da7b6337fd372f029d2773280e4b8f7ec0693cc9ccf5b1e9391f0d8",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "note": "odkurzacz reczny z pojemnikiem",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680706?$ORIGIN_JPG$",
+      "bytes": 130004,
+      "sha256": "fe103837096cf5ddbd5e70af3bc59c23ef9f185b0d1a92662f29f070d3c37c42",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "note": "korpus z oslonka filtra w kolorze butelkowej zieleni",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680695?$ORIGIN_JPG$",
+      "bytes": 149924,
+      "sha256": "f570051da088f80dc81c096e2552e38c77e38d3749a4f18e48fade7364e24e0a",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "note": "odkurzacz reczny, rekojesc",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680696?$ORIGIN_JPG$",
+      "bytes": 255732,
+      "sha256": "d7b9989f10dc12c0a0607ab75d34475f7e22f287df1bfc6fc858c8148ae2f810",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "note": "odkurzacz reczny z mini elektroszczotka Pet Tool+",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680709?$ORIGIN_JPG$",
+      "bytes": 166520,
+      "sha256": "135cb1375e91b3c7a55db7135ae08f19b4168f09db33de2762714481f172822f",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "note": "pojemnik na kurz z cyklonem",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680702?$ORIGIN_JPG$",
+      "bytes": 173259,
+      "sha256": "12dc9f921b5ec1124e9cc84e520f1b843a4a2d90b199c556d70596d7b93353c0",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 15,
+      "note": "pusty pojemnik na kurz",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680703?$ORIGIN_JPG$",
+      "bytes": 109584,
+      "sha256": "0b5cd6bf3f1c5a903d94e31696ad6cceba2f751826744f775c367a5a38a988bf",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "product",
+      "order": 16,
+      "note": "modul cyklonu Jet Cyclone",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680704?$ORIGIN_JPG$",
+      "bytes": 170472,
+      "sha256": "b3681af6158dc167bc9bd1cecc53021deb171264f2ff78e11fffc32a99877d07",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "product",
+      "order": 17,
+      "note": "pojemnik na kurz zdejmowany z korpusu",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680697?$ORIGIN_JPG$",
+      "bytes": 130050,
+      "sha256": "8cd72c6352afdb08017c24af70dd25e1ff5c398072f0d131cbe1e5c4c058043d",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "product",
+      "order": 18,
+      "note": "filtr ultra drobnego pylu",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680698?$ORIGIN_JPG$",
+      "bytes": 465474,
+      "sha256": "e82fbbc1ce9231f2c0a8aeb3a278deac6c1cbd2f3426ed709452ccf9d97da4da",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-19.jpg",
+      "kind": "product",
+      "order": 19,
+      "note": "oslonka filtra w kolorze butelkowej zieleni",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680705?$ORIGIN_JPG$",
+      "bytes": 304005,
+      "sha256": "24f7be398c658f83882b51c77c6a13277b088ec6ee871a4fc8a78d5478f38e75",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-20.jpg",
+      "kind": "product",
+      "order": 20,
+      "note": "elektroszczotka Jet Dual z przodu",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680715?$ORIGIN_JPG$",
+      "bytes": 134872,
+      "sha256": "979266e0a814a65192e8b59f4cb84b77fb9baf9d67279bd8319d573416297a33",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-21.jpg",
+      "kind": "product",
+      "order": 21,
+      "note": "elektroszczotka Jet Dual z wysunietym walkiem",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680716?$ORIGIN_JPG$",
+      "bytes": 140387,
+      "sha256": "68398de3c934bd36680d06a0ff499630ee334ea268a5ade658f71e5b6b41647c",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-22.jpg",
+      "kind": "product",
+      "order": 22,
+      "note": "mini elektroszczotka Pet Tool+",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680708?$ORIGIN_JPG$",
+      "bytes": 165376,
+      "sha256": "125b2190803641004f6e0b933a7493ee55bde9bade3e88a8bb3ada9e3fca37c9",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-23.jpg",
+      "kind": "product",
+      "order": 23,
+      "note": "koncowka elastyczna",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680710?$ORIGIN_JPG$",
+      "bytes": 124063,
+      "sha256": "a7176283a37c68742db33d9e77ebeab759c77def956d03c9bfd8aa0e138d3098",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-24.jpg",
+      "kind": "product",
+      "order": 24,
+      "note": "szczotka do kurzu (koncowka kombinowana)",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680711?$ORIGIN_JPG$",
+      "bytes": 95734,
+      "sha256": "874bc0a28b39050fddb452ead37b74ca5fb668fef0c16fab0d361ef9fe741b61",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-25.jpg",
+      "kind": "product",
+      "order": 25,
+      "note": "szczotka do kurzu z wysunietym wlosiem",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680712?$ORIGIN_JPG$",
+      "bytes": 102021,
+      "sha256": "ba0d352a661f73ef3bbf8c38f3f07ecf3650d346a8b1ad83920129c34ffd02a0",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-26.jpg",
+      "kind": "product",
+      "order": 26,
+      "note": "szczelinowka o dalekim zasiegu",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680713?$ORIGIN_JPG$",
+      "bytes": 59113,
+      "sha256": "cdc3cdbd895861f3a55cccd6da099301b7c63ccd7901f709488647138a0d1850",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-27.jpg",
+      "kind": "product",
+      "order": 27,
+      "note": "szczelinowka wydluzona",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680714?$ORIGIN_JPG$",
+      "bytes": 65715,
+      "sha256": "586a46fceab3ec634bb90bf8894d40951b9c9076ed00284c749d32dc49468596",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-28.jpg",
+      "kind": "product",
+      "order": 28,
+      "note": "akumulator",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-537680707?$ORIGIN_JPG$",
+      "bytes": 124516,
+      "sha256": "cd96f1445649f4946e1b4e90d7bc18a417017e18d83d91b7dab19a0952a1a2e8",
+      "width": 1920,
+      "height": 1280,
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-29.jpg",
+      "kind": "lifestyle",
+      "order": 29,
+      "note": "lifestyle: odkurzacz w salonie",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-538624201?$ORIGIN_JPG$",
+      "bytes": 125457,
+      "sha256": "55f33de32ea50c31e6c2581fafbf080e27e55ffb7290516054d4fd7cf1683df2",
+      "width": 720,
+      "height": 576,
+      "sourceFormat": "JPEG"
+    },
+    {
+      "file": "produkt-30.jpg",
+      "kind": "lifestyle",
+      "order": 30,
+      "note": "lifestyle: elektroszczotka Jet Dual na dywanie i podlodze, napis Elektroszczotka Jet Dual",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-538624217?$ORIGIN_JPG$",
+      "bytes": 205029,
+      "sha256": "e000bb955d96aab54454e699dd08e46a520a7eb08e8d443be77204d06100bedf",
+      "width": 720,
+      "height": 576,
+      "sourceFormat": "JPEG"
+    },
+    {
+      "file": "produkt-31.jpg",
+      "kind": "lifestyle",
+      "order": 31,
+      "note": "lifestyle: odkurzanie wysoko",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-538624244?$ORIGIN_JPG$",
+      "bytes": 119885,
+      "sha256": "9cc02aff9dd1057f445235f2c43d5732d4fc1fedd7ff13ae11ff29a9008805ab",
+      "width": 720,
+      "height": 576,
+      "sourceFormat": "JPEG"
+    },
+    {
+      "file": "produkt-32.jpg",
+      "kind": "lifestyle",
+      "order": 32,
+      "note": "lifestyle: odkurzanie sofy z Pet Tool+",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-538624260?$ORIGIN_JPG$",
+      "bytes": 215351,
+      "sha256": "ca43025551b52f2b40e967a7cb4668bede883eb00c1166e9faa3deab1b2f1ad0",
+      "width": 720,
+      "height": 576,
+      "sourceFormat": "JPEG"
+    },
+    {
+      "file": "produkt-33.jpg",
+      "kind": "lifestyle",
+      "order": 33,
+      "note": "lifestyle: odkurzacz w stacji w pokoju",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs20c9542tn-ge/gallery/pl-jet95-vs9500al-473675-vs20c9542tn-ge-538624300?$ORIGIN_JPG$",
+      "bytes": 99992,
+      "sha256": "04d177c47b95cf9e0cf55ac870c761324d981e8b3672e385343d46117be1dedd",
+      "width": 720,
+      "height": 576,
+      "sourceFormat": "JPEG"
+    },
+    {
+      "file": "logo-samsung.jpg",
+      "kind": "logo",
+      "order": 34,
+      "note": "logo marki Samsung (kopia z samsung-jet-95s-vs70h28gfc)",
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/samsung-jet-95s-vs70h28gfc/logo-samsung.jpg",
+      "bytes": 45760,
+      "sha256": "cc1a2d6843bab101b93f07a715a618b3f38abeaa8d2e995d452f949deb8acd64",
+      "width": 1360,
+      "height": 317
+    }
+  ],
+  "rejected": [
+    {
+      "id": "539068044",
+      "reason": "logo z karty 568x320 - zastapione logo z repo"
+    },
+    {
+      "id": "551793661",
+      "reason": "zdjecie grupowe kilku roznych odkurzaczy Jet"
+    },
+    {
+      "id": "551805704",
+      "reason": "zdjecie grupowe kilku roznych odkurzaczy Jet"
+    },
+    {
+      "id": "537680717",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680718",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680719",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680720",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680721",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680722",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680723",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680724",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680725",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680726",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680727",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680728",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680729",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680730",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680731",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680732",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680733",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680734",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680735",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680736",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680737",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680738",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680739",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680740",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680741",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680742",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "537680745",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "538624204",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "538624219",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "538624259",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "538624293",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "538624299",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "538970859",
+      "reason": "miniatura 330x330 (thumb-) kadru z galerii glownej"
+    },
+    {
+      "id": "539068045",
+      "reason": "duplikat pikselowy 539068044"
+    },
+    {
+      "id": "551793642",
+      "reason": "duplikat pikselowy 551793661"
+    },
+    {
+      "id": "551805712",
+      "reason": "duplikat pikselowy 551805704"
+    }
+  ],
+  "note": "Wszystkie zdjecia z p6pim/pl/vs20c9542tn-ge/gallery/ (kod w sciezce, 72 adresy); PNG splaszczone na biale tlo do JPEG; 33 przyjete po kontroli wzrokowej kontaktowki; miniatury thumb- 330x330, logo karty i 2 zdjecia grupowe odrzucone."
+}
