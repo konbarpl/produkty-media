@@ -14,7 +14,7 @@
   "produkt-08.jpg",
   "produkt-09.jpg",
   "produkt-10.jpg",
-  "logo-braun.png"
+  "logo-braun-male.png"
  ],
  "files": [
   {
@@ -128,16 +128,16 @@
    "sha256": "6eb2831300b5b2c3c0527789017e5d9895c373d4371478dd116984afdff72f8b"
   },
   {
-   "file": "logo-braun.png",
+   "file": "logo-braun-male.png",
    "kind": "logo",
    "order": 11,
    "type": "LOGO",
-   "desc": "logo marki Braun (z repo mediow: braun-seria-9-9110s-sport/logo-braun.png)",
+   "desc": "małe logo Braun: białe płótno 1200×220, znak 357×150 (z logo-braun.png; podmiana 12.10.2026 — stare 1200×504 rozciągało się na pół ekranu)",
    "sourceUrl": "repo produkty-media/braun-seria-9-9110s-sport/logo-braun.png",
    "width": 1200,
-   "height": 504,
-   "bytes": 19329,
-   "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a"
+   "height": 220,
+   "bytes": 10100,
+   "sha256": "a4262419f1dea8b0e3f306f8f034c7b240868b68705ef9e8dc599832e08cc0fa"
   }
  ],
  "dropped": 0
