@@ -1,0 +1,407 @@
+{
+  "slug": "samsung-jet-85s-pro-vs70h25wht",
+  "product": "Samsung Jet 85S pro VS70H25WHT/GE (korpus czarny, oslonka filtra ciemna zielen)",
+  "sourceCard": "https://www.samsung.com/pl/vacuum-cleaners/stick/jet-85s-stick-vacuum-cleaner-jet-85s-stick-vacuum-cleaner-phantom-green-vs70h25wht-ge/",
+  "harvestedAt": "2026-10-12",
+  "note": "Galeria producenta ograniczona do plikow ze sciezki p6pim/pl/vs70h25wht-ge/gallery/ (bez miniatur thumb), PNG RGBA splaszczone na biale tlo do JPEG q90. 46 unikalnych adresow: 1 HTTP 404 (nr 45), 2 kadry 1920x1769 z czarnymi pasami po bokach (nr 44 i 46, powtorzenie widoku z przodu) odrzucone, 0 duplikatow pikselowych w reszcie. Kolejnosc jak na karcie: zestaw, produkt w calosci, detale, akcesoria, mop, stacja. Logo Samsung na KONCU galerii.",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "produkt-19.jpg",
+    "produkt-20.jpg",
+    "produkt-21.jpg",
+    "produkt-22.jpg",
+    "produkt-23.jpg",
+    "produkt-24.jpg",
+    "produkt-25.jpg",
+    "produkt-26.jpg",
+    "produkt-27.jpg",
+    "produkt-28.jpg",
+    "produkt-29.jpg",
+    "produkt-30.jpg",
+    "produkt-31.jpg",
+    "produkt-32.jpg",
+    "produkt-33.jpg",
+    "produkt-34.jpg",
+    "produkt-35.jpg",
+    "produkt-36.jpg",
+    "produkt-37.jpg",
+    "produkt-38.jpg",
+    "produkt-39.jpg",
+    "produkt-40.jpg",
+    "produkt-41.jpg",
+    "produkt-42.jpg",
+    "produkt-43.jpg",
+    "logo-samsung.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 137688,
+      "sha256": "597bd35c8c2dee9b496c5f8f3e854e26caf153465fb50a2135faeff98918cc11",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172132"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 61878,
+      "sha256": "89ebca83fd0cd95471e423821033d9ae297134e2382355591e78ecac61d64e3c",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172047"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 62559,
+      "sha256": "f30651b88355a4ccd1632f4b1168e31192789c877876c3e0f63aeb90e416c194",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172048"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 65351,
+      "sha256": "8aa51cfb1acbf2e3982f8f844bec419d364703a78fed0e64112d296f87414de7",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172049"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 71563,
+      "sha256": "51fea383fcfcdbaa72358ac867dde9dcd11094c285d85f10ccaac9464bc91ad3",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172050"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 69801,
+      "sha256": "5be6e47caf2e97fb4a66cefcd8bb93d44095b22ce57c8876cb66365a930280c9",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172051"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 79121,
+      "sha256": "78e697165270f03ab38bac3d2662a27397a77e1ca8d468d49424b4ccac8b4b13",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172052"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 78122,
+      "sha256": "9d937c76799d851d90a6c7147fc498ddfcb666f7ee60e2e0db128eda8867d9a5",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172053"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 118362,
+      "sha256": "9aff304cc2504845a9ec5e43aa2237159ad10e7ffa32c2abd7b3bc32fde59a98",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172054"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 157661,
+      "sha256": "98c2ab31546c03da850a9b728a16d283295ac3d3e268edb2af4cdf98bf040676",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172055"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 100965,
+      "sha256": "beab5e316eab4e8adae51800b99a471043de6a0521db510b0b99cd70a93d905f",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172056"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 155568,
+      "sha256": "4cb0fd9e7e8262da0fcffde86fb8d2b2b41b16417503da475669adce275697aa",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172057"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 371370,
+      "sha256": "0810732afd55dee7a7d853c9338e0ad24a98f9d811b250eb82c28f3bce071c60",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172058"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 152870,
+      "sha256": "c94d9d26b7e7121185621375db1bc480455fd353fb070873a70a2a66eaaeeae1",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172059"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 143294,
+      "sha256": "3e40e3333fa3ae5ce6a1c83371fc7cc41833adb756d8c6570ebfc4d2dee0a46c",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172060"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 117535,
+      "sha256": "f609102081632cf2c1a49fd8a99750233fc3d409ff10eb691d96fcb7a239086c",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172061"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 97521,
+      "sha256": "6d1fb4a18d05f76d765413de87484814c8e5d029a1f88193e0903db1cf889a30",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172062"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 113525,
+      "sha256": "4376c511f82bb98cbb0778b5e063ad8f4ce0c3d6aea0e3f0b3d245ceec142122",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172063"
+    },
+    {
+      "file": "produkt-19.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 89202,
+      "sha256": "c0e0028823d5c7734a88c052fe7bb77c4894e318de4878c06649e6d1167f8f8b",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172064"
+    },
+    {
+      "file": "produkt-20.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 94396,
+      "sha256": "c42ea7f96f7669aa43d1b2e2d829af30102b465f755068e67e8867deee942a39",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172065"
+    },
+    {
+      "file": "produkt-21.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 57119,
+      "sha256": "df8889d6d4f62c5b6f598b77d35a5998d19ed68fd8685551aef170b3a68e06b0",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172066"
+    },
+    {
+      "file": "produkt-22.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 62783,
+      "sha256": "82d0d1ecd1d2298d485c72673bd8952952fca3b3f433e67afc05dcdd60a1e935",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172067"
+    },
+    {
+      "file": "produkt-23.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 200024,
+      "sha256": "695f0956386c7704f5310065bd56202b3edc79e8611dd5a8a395e48b9c1b3860",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172068"
+    },
+    {
+      "file": "produkt-24.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 140012,
+      "sha256": "636609f0f57612b4d3033a978dc5263b64c53830c932e9f60d83b8862924a19c",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172069"
+    },
+    {
+      "file": "produkt-25.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 331251,
+      "sha256": "17a2d4968a0d334cf6396c17161bfe285c99036fe40619f912e8e16011dcdaab",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172070"
+    },
+    {
+      "file": "produkt-26.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 108224,
+      "sha256": "c5c0c004fcf74726456b68f9e9d1a4acaeb73c7e26544db3eca148bab52104b0",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172071"
+    },
+    {
+      "file": "produkt-27.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 130886,
+      "sha256": "eed983562a6eff8a0ce7b76e8861de76338cd44e6c59d77cfb9e122b1252141d",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172072"
+    },
+    {
+      "file": "produkt-28.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 183358,
+      "sha256": "07fa01dbcd14b42bddf5be23ac39cb750be1058606127cfffed169be1d28e709",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172073"
+    },
+    {
+      "file": "produkt-29.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 327226,
+      "sha256": "9683ef837bed2ee27c7818f5319489e0fce114bfb900264d1614819abdb8b726",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172074"
+    },
+    {
+      "file": "produkt-30.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 120029,
+      "sha256": "658f193299cf613cc70937434034e0f110fa9d544ca044c66f832e33b1e185bc",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172075"
+    },
+    {
+      "file": "produkt-31.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 123695,
+      "sha256": "a69a7a3f7687d07e7699bba53ca49f3ea13d7a792c3a88c05035efeb6e352e3c",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172076"
+    },
+    {
+      "file": "produkt-32.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 95636,
+      "sha256": "3f7b79f8f39a5510cd29344b97e0a951bf5f7e8d130007d10bd247cc91de4892",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172077"
+    },
+    {
+      "file": "produkt-33.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 89823,
+      "sha256": "1f553d46e51d02f96ead2f17a551ef1298452fa2f0df95a58a48f2009f2122c4",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172078"
+    },
+    {
+      "file": "produkt-34.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 86621,
+      "sha256": "4cfb6873cba8eea66406dc05937ade4b52056df85df1067a3b70ce96506f0507",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172079"
+    },
+    {
+      "file": "produkt-35.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 68910,
+      "sha256": "e8dcaab4a4952cd21be09e6a4bf4761d63ec275b60547e8a923504f9a8403fde",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172080"
+    },
+    {
+      "file": "produkt-36.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 71593,
+      "sha256": "d4be63259e959b7b3f9e13c63d63db7f1ee0bc2be97e4254478d71bd84cadca7",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172081"
+    },
+    {
+      "file": "produkt-37.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 71131,
+      "sha256": "205c143257cf0c6d1ac5094c67d0c53415d06b958701651b42ba34bf1c4068b2",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172082"
+    },
+    {
+      "file": "produkt-38.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 112800,
+      "sha256": "01bbd40080858e18bd028a14cf565b4b1729233d2935e57e9429e16d20e5c1ca",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172083"
+    },
+    {
+      "file": "produkt-39.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 152103,
+      "sha256": "779bf896d417b1ae861b69b3ab6e91abf20b330f908d9181f75ba885d13b7bbe",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172084"
+    },
+    {
+      "file": "produkt-40.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 234199,
+      "sha256": "eec70255456f89b678f20194c3278a48daac7f5910f646c4e44592ce1a1ec809",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172085"
+    },
+    {
+      "file": "produkt-41.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 119435,
+      "sha256": "b6b635969252733f00628bce4ff4164bf2fec32931ce9c8d0e22bfef2230ee3e",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172086"
+    },
+    {
+      "file": "produkt-42.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 430925,
+      "sha256": "a9bc819ec6171d7f877f00f68a6890e5621c7cb1a1af0c062b3bc223f7c33ec8",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172087"
+    },
+    {
+      "file": "produkt-43.jpg",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 113934,
+      "sha256": "bab84dae761493a8deb23a22bb7770bc54dd7f7f3234790fee93ebabade4a6ec",
+      "sourceUrl": "https://images.samsung.com/is/image/samsung/p6pim/pl/vs70h25wht-ge/gallery/pl-jet-85s-stick-vacuum-cleaner-581310-vs70h25wht-ge-551172088"
+    },
+    {
+      "file": "logo-samsung.jpg",
+      "width": 1360,
+      "height": 317,
+      "bytes": 45760,
+      "sha256": "cc1a2d6843bab101b93f07a715a618b3f38abeaa8d2e995d452f949deb8acd64",
+      "sourceUrl": "repo produkty-media: samsung-jet-95s-vs70h28gfc/logo-samsung.jpg (kopia z samsung-jet-85s-pet-vs70h25wlg)"
+    }
+  ]
+}
