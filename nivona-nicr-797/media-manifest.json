@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-18T11:44:09.787636Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/ekspresy-i-kawa/ekspresy-cisnieniowe/ekspres-nivona-cafe-romatica-797",
+  "slug": "nivona-nicr-797",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/75/7587877/Ekspres-NIVONA-Cafe-Romatica-797-1.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 58376,
+      "sha256": "87919baaf24c2762e09e476b146ee075a7cee5437266d8e2154d6c0eb30c8b26"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/75/7587877/Ekspres-NIVONA-Cafe-Romatica-797-2.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 39950,
+      "sha256": "32e60f7654eb6b81907fae2856400fbaa8121b6a9541b492e86e449d5fc0b135"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/75/7587877/Ekspres-NIVONA-Cafe-Romatica-797-3.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 62648,
+      "sha256": "53ff759fc73ac9ec909d1a564680c3cf89d937744ae43673a2d1cd01afa68c8f"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/75/7587877/Ekspres-NIVONA-Cafe-Romatica-797-4.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 87816,
+      "sha256": "ac6477fb8cb0fc2a4243ae53bcaaf787964dba1b7d2fd27606de0c22c9f26491"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/75/7587877/Ekspres-NIVONA-Cafe-Romatica-797-5.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 77575,
+      "sha256": "324455b3d0205f08f8ff08a01db23cc3a09d01c04323310a6cb871a8552266e5"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/75/7587877/Ekspres-NIVONA-Cafe-Romatica-797-6.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 73653,
+      "sha256": "cef8bb855c9f911d28b232c733776bb3e237f204212b0433e56fc4d1bf8cda8b"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/75/7587877/Ekspres-NIVONA-Cafe-Romatica-797-7.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 81368,
+      "sha256": "5a0786fa58480c4c3e76f14a9a81982b8b1f8fc148343c0364cad08441932772"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "https://nivona.com/pl/ (wordmark SVG z naglowka strony producenta, render 1200x300)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 14234,
+      "sha256": "1da5bd749b7bd106cd56015814f88f8f44af599b851b48ba79ab5e83e3d6b043"
+    }
+  ],
+  "note": "Karta producenta nivona.com/pl/product/nicr797 zwraca \"Nie znaleziono produktu\" (18.10.2026) - zdjecia z karty Media Expert (nazwy plikow z kodem 797). Logo NIVONA na koncu galerii."
+}
