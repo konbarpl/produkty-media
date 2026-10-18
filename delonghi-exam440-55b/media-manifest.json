@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-18T11:41:31.137Z",
+  "sourcePage": "https://www.delonghi.com/pl-pl/p/rivelia-automatyczny-ekspres-do-kawy-rivelia-exam440.55.b/EXAM440.55.B.html",
+  "slug": "delonghi-exam440-55b",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/380683",
+      "width": 902,
+      "bytes": 32153,
+      "sha256": "1dd8bdd01d5c71f29c07bcf263ba4e7cad60a57d2fcdc5a8c35a03f6c4c33b1e"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/269789",
+      "width": 902,
+      "bytes": 37118,
+      "sha256": "ab6067a03fb2ba0ebcdea9931c8369f2374278da2f0baa2b1476d3edeefb19e6"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/268674",
+      "width": 902,
+      "bytes": 57815,
+      "sha256": "9b7a848f7bd6b34b3edbd3ce6d59eecea9684270de046885ff16bc94d5feaf95"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/268754",
+      "width": 902,
+      "bytes": 63544,
+      "sha256": "03fcd4130d3c1ed47ebdb5eb5983c334487993406e8408d80c960fa80bf8c95b"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/273414",
+      "width": 902,
+      "bytes": 32014,
+      "sha256": "ea4473168d864e9052c86ed1fb9a68449f8fee0aec4834d6ced558a570c70ced"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/287012",
+      "width": 902,
+      "bytes": 16970,
+      "sha256": "8fd46c61405d0a33c6053176059f414295ac7f7c79942cd24bed324c7120f72b"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/289050",
+      "width": 902,
+      "bytes": 28206,
+      "sha256": "ad11c70a1ab51d493a76e19a5ba0763a40f8a00397814dc69a668d4b501732ea"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/269724",
+      "width": 902,
+      "bytes": 36654,
+      "sha256": "7af8dde84540e05249198d5fc80213fdf7eaba142d1a94b53f3f37af035698e4"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "kopia zweryfikowanego logo De'Longhi z delonghi-exam440-55bg",
+      "width": 1000,
+      "height": 310,
+      "bytes": 39830,
+      "sha256": "11f97fb6327d0343ca4574a5b26866a58d4e4ea3a264ae21e23b3070b4959702"
+    }
+  ],
+  "dropped": 0
+}
