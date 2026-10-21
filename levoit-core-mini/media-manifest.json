@@ -1,0 +1,170 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T10:50:32.388Z",
+ "sourcePage": "https://levoit.pl/produkt/oczyszczacz-powietrza-levoit-core-mini/",
+ "slug": "levoit-core-mini",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "opis-01.png",
+  "opis-02.png",
+  "opis-03.png",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.png",
+  "logo-producenta.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_A1_Core-Mini_mainA_2021-12-01.jpg",
+   "width": 2000,
+   "bytes": 467499,
+   "sha256": "bd91e24b9dda8fb96e37633fe17f817b1d39fa71e7e0082c92c07154db08c98f"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_WA1_LAP-C161-WUS_Lifestyle__2021-10-266-scaled.jpg",
+   "width": 2560,
+   "bytes": 572076,
+   "sha256": "ea58eef6c21c218227357101dda22dfceba9fff2adefef5d1b4d2bfd0fd0832a"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/719T99FoFkL._AC_SL1500_.jpg",
+   "width": 1500,
+   "bytes": 148676,
+   "sha256": "2e52774b4f7c233c3d4396968323bae1c1b3bee69ec50cdc23d4c99e4ec4e4bd"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/61ppNUgw2yL._AC_SL1406_-2-scaled.jpg",
+   "width": 2560,
+   "bytes": 565981,
+   "sha256": "0dffed82ff9956fdab11865bfd8643d5a370b7d5f88ff27aca28e52ec18b1136"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_WA1_LAP-C161-WUS_Lifestyle__2021-10-2656-scaled.jpg",
+   "width": 2560,
+   "bytes": 524678,
+   "sha256": "43d2ff470de02b79ef9133518700a68cf6eaf0e7c4c65174d4834e157d8bb58c"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/71UXX0pbnxL._AC_SL1500_.jpg",
+   "width": 1500,
+   "bytes": 108005,
+   "sha256": "a5d3ae86d896a82b69abe512ea98c5e31ca0c0ed8dd3150a3d4ac70e2afd4ca4"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/71NeUFXLqML._AC_SL1500_.jpg",
+   "width": 1500,
+   "bytes": 132812,
+   "sha256": "bd396a352aff25897d7be876ef520cd2fdb70d581e087bb1777cb706bde5abf2"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/8.jpg",
+   "width": 2000,
+   "bytes": 3615723,
+   "sha256": "c01aaaa056c911f647503ed02e09b8e9f064ce0a46c99d400ce78c4a738e9b21"
+  },
+  {
+   "file": "opis-01.png",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Mini.poprawione-1.png",
+   "width": 1536,
+   "bytes": 1470364,
+   "sha256": "7b66f6b05f8686e1a070f886001414b280083ac5abd465cff527b0cb384b24a2"
+  },
+  {
+   "file": "opis-02.png",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Mini3.png",
+   "width": 1500,
+   "bytes": 1456585,
+   "sha256": "0cef3a64366ed9553d1539edd265a3c2e8eaf52586a20e57b08209299f33294e"
+  },
+  {
+   "file": "opis-03.png",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Mini6.png",
+   "width": 2000,
+   "bytes": 1028290,
+   "sha256": "80799303838ad1419ec0e3d5ec59e44bab79624d8d1245352e03d9c20c55b9b5"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/core-mini-olejki-eteryczne-aromaterapia.jpg",
+   "width": 2000,
+   "bytes": 1887905,
+   "sha256": "88d8fe8ffeae6ab25265841825d38dcaab9dad5fa383473795580098db2f1e5c"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/core-mini-prosta-obsluga-jeden-przycisk.jpg",
+   "width": 2000,
+   "bytes": 2078212,
+   "sha256": "20684dad11e157b5bf59cc754420377bf9349a7607590f316dc4c98bd8238dfa"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/core-mini-obudz-sie-wypoczety-bez-objawow-alergii-scaled.jpg",
+   "width": 2560,
+   "bytes": 673234,
+   "sha256": "519cece9467ae91ed4991b1363b0b47dfa21291cfca98588391b17c7659b3f77"
+  },
+  {
+   "file": "opis-07.png",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Mini8.png",
+   "width": 2000,
+   "bytes": 2165383,
+   "sha256": "8e6af9aeb46f59b43a7c8e1747c297fc4e6a6f7f49dee2aa39d4ed7cd381f658"
+  },
+  {
+   "file": "logo-producenta.jpg",
+   "kind": "logo",
+   "order": 16,
+   "sourceUrl": "repo: levoit-classic-300s-szary/logo-producenta.jpg (render levoit-official-logo.svg z levoit.pl)",
+   "bytes": 31791,
+   "sha256": "d17323eb004618e8cc2983df199a2734715df9b11e84a771a07bd5e3da53373c"
+  }
+ ],
+ "dropped": 0
+}
