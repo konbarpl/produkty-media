@@ -1,0 +1,156 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T15:52:07.505898Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/prasowanie-i-pielegnacja-ubran/zelazka/zelazko-tefal-fv9852e0-steam-iron-ultimate-3 (KARTA ZASTEPCZA — tefal.pl nie ma karty sprzedazowej modelu; galeria JSON-LD image, pelna rozdzielczosc gallery_1500_1500)",
+ "slug": "tefal-fv9852",
+ "kod": "FV9852E0",
+ "ean": "",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/80/8043187/Zelazko-TEFAL-Steam-Iron-Ultimate-3-1.jpg",
+   "note": "kandydat k01 Zelazko-TEFAL-Steam-Iron-Ultimate-3-1.jpg — packshot 3/4 na bialym tle — bezowo-zlota obudowa z czarnymi elementami, nadruk Tefal Ultimate Pure",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 144455,
+   "sha256": "9e1bd97f6a47840ba12eaea63c4fd08c80fd55c4e1e1bd6865acac0597cdf848"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/80/8043187/Zelazko-TEFAL-Steam-Iron-Ultimate-3-2.jpg",
+   "note": "kandydat k02 Zelazko-TEFAL-Steam-Iron-Ultimate-3-2.jpg — stopa Durilium AutoClean od dolu, zelazko pionowo na pietce (biale tlo)",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 78944,
+   "sha256": "b4e5da76c916dfff8497d2a39dcb625d2d116473a6904b8106d5e739494782ba"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/80/8043187/Zelazko-TEFAL-Steam-Iron-Ultimate-3-5.jpg",
+   "note": "kandydat k05 Zelazko-TEFAL-Steam-Iron-Ultimate-3-5.jpg — stopa AutoClean w ujeciu skosnym (szare tlo)",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 138213,
+   "sha256": "993ad7bba356a05ad0c4b2f3ec732ff35105206773a8b3051571fe32988b970a"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/80/8043187/Zelazko-TEFAL-Steam-Iron-Ultimate-3-3.jpg",
+   "note": "kandydat k03 Zelazko-TEFAL-Steam-Iron-Ultimate-3-3.jpg — infografika wymiarow 32 x 15,2 x 15,5 cm (biale tlo)",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 140378,
+   "sha256": "c9cf4d0e91ef1a994b4dfec08b0f05517d12cd6af531b3a5fa9e1a45ecd9e8f3"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/80/8043187/Zelazko-TEFAL-Steam-Iron-Ultimate-3-10.jpg",
+   "note": "kandydat k10 Zelazko-TEFAL-Steam-Iron-Ultimate-3-10.jpg — widok z gory na tkaninie (pokretlo, przyciski)",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 423731,
+   "sha256": "30df376ae5d5aee7db2d980b5d6512223efafe9dc7b697733b10a5e86d9a21e2"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/80/8043187/Zelazko-TEFAL-Steam-Iron-Ultimate-3-11.jpg",
+   "note": "kandydat k11 Zelazko-TEFAL-Steam-Iron-Ultimate-3-11.jpg — wyjety filtr Micro Calc obok zelazka postawionego na pietce",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 220219,
+   "sha256": "09f1fba4f819f56cf3968708d9aafac06830d45b79d0a058a1d0a6f87ab13faa"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/80/8043187/Zelazko-TEFAL-Steam-Iron-Ultimate-3-8.jpg",
+   "note": "kandydat k08 Zelazko-TEFAL-Steam-Iron-Ultimate-3-8.jpg — lifestyle: kleby pary spod stopy",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 181828,
+   "sha256": "72623d937261a6d2c5599b244f51ac8b460d0736738e53dcf6ccce7aeb86579e"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/80/8043187/Zelazko-TEFAL-Steam-Iron-Ultimate-3-4.jpg",
+   "note": "kandydat k04 Zelazko-TEFAL-Steam-Iron-Ultimate-3-4.jpg — lifestyle: prasowanie w pionie koszul na wieszaku",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 248579,
+   "sha256": "235098b67f86fe2683f5b83d2787e440a68874bfdbecbccc0360e730f0a9f90c"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "description",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/80/8043187/Zelazko-TEFAL-Steam-Iron-Ultimate-3-7.jpg",
+   "note": "kandydat k07 Zelazko-TEFAL-Steam-Iron-Ultimate-3-7.jpg — lifestyle: blokada kapania (ikona kropli)",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 297449,
+   "sha256": "54cfd4db9e5c94b1d2a7567025d7fb826507feb3b6484d79cbdafae6c454a6a7"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "description",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/80/8043187/Zelazko-TEFAL-Steam-Iron-Ultimate-3-9.jpg",
+   "note": "kandydat k09 Zelazko-TEFAL-Steam-Iron-Ultimate-3-9.jpg — lifestyle: prasowanie kolnierzyka koszuli (czubek stopy)",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 842110,
+   "sha256": "894fabf9d24f5fa9d6d7221456b9645986699e9d82b462cbf6835150dc954366"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "description",
+   "order": 11,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/80/8043187/Zelazko-TEFAL-Steam-Iron-Ultimate-3-6.jpg",
+   "note": "kandydat k06 Zelazko-TEFAL-Steam-Iron-Ultimate-3-6.jpg — lifestyle: zelazko na desce w salonie",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 204707,
+   "sha256": "68342261b321a5dd8d374e3fa23dcda1df1ac950392fda8ef05844006a18a920"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 12,
+   "sourceUrl": "repo produkty-media/_logo/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "rejected": {}
+}
