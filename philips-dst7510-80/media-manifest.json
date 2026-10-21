@@ -1,0 +1,79 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T15:17:08.298632Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/DST7510_80.assets (PRX API, CTN DST7510/80)",
+ "slug": "philips-dst7510-80",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_4c8c6cc0_d202_4ed4_9de421ffeec8ad32?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 106176,
+   "sha256": "5ca3a79454105940b2e9fbd25b0b04a66c436a05e952f554f13949e218783eb8",
+   "type": "RTP",
+   "desc": "DST7510 RFT"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_77fa9f0c_fccf_4aa3_958576f4db79a404?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 167913,
+   "sha256": "c8d93d9d7a1011267815c78a93d7c29cc9b51b9d6e8f0ab6abe672eab1d64b66",
+   "type": "D1P",
+   "desc": "DST7510_PIS_1x1"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ee13d200_7e48_4f8b_8f19d0ffe7c0ca37?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 246681,
+   "sha256": "d9e0fa90e862fc748198c7591e50b070dc484673f2f62cbe2f97f225e50004d4",
+   "type": "D2P",
+   "desc": "DST7510_Watertank_1x1"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_58466772_7caf_476f_b83663d77ae21194?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 154991,
+   "sha256": "eb8a66262a086e0803752dd33f90e81c002316fc4ca10cff66b4ca4c49ebf408",
+   "type": "D3P",
+   "desc": "DST7510_SteamOutput_16x9"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 5,
+   "sourceUrl": "repo produkty-media/logo/philips.png",
+   "note": "logo marki Philips - OBOWIAZKOWO na koncu galerii",
+   "width": 525,
+   "height": 105,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "rejected": {
+  "5": "IMS = pikselowy duplikat RTP (k01)",
+  "6": "BRP logo PRX 1200x1200 (logo z repo mediow logo/philips.png zamiast)"
+ },
+ "note": "PRX .assets zawiera tylko 4 unikalne zdjecia produktu (RTP + D1P/D2P/D3P); wszystkie z kodem DST7510 w opisie assetu."
+}
