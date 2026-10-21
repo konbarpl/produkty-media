@@ -1,0 +1,152 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T10:50:11.111Z",
+ "sourcePage": "https://levoit.pl/produkt/oczyszczacz-powietrza-levoit-vital-200s-pro/",
+ "slug": "levoit-vital-200s",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "opis-08.jpg",
+  "opis-09.jpg",
+  "logo-producenta.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/01-scaled.jpg",
+   "width": 2560,
+   "bytes": 363898,
+   "sha256": "1d0f1fa2aabaa3f32c57ef0a10026c736f6a82ff9a4dad65720114ba27a0528d"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/02-scaled.jpg",
+   "width": 2560,
+   "bytes": 335573,
+   "sha256": "dac914151f790cda4d435ae6aad73a6a28b7ba6645a4b6b5290aebd39759d53e"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Levoit-Vital-200S-Pro-0810123670420-GALERIA-1-scaled.jpg",
+   "width": 2560,
+   "bytes": 416984,
+   "sha256": "840f61c49fcfe3b92bcdb297389425ec5ea6612c0f8796f94cb585a1dd177175"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/01.00_AK1_LAP-V201S-AUSR_13-scaled.jpg",
+   "width": 2560,
+   "bytes": 319512,
+   "sha256": "e871a0e851e1ec753f3e08f10c97269eab25d14a5d98538904de3d15cd458d8d"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Obraz1.jpg",
+   "width": 1421,
+   "bytes": 191464,
+   "sha256": "845f71bbeea44e0e631f274cce309259b3db9a02f227dae1a20b2883692d788d"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/esdrfghjnkm.jpg",
+   "width": 1562,
+   "bytes": 347149,
+   "sha256": "610dd591f5f252fb35bbf22e4bcde245bd6d34b0525cd941298607253d396e7f"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/01.00_AK1_LAP-V201S-AUSR_02-scaled.jpg",
+   "width": 2560,
+   "bytes": 646752,
+   "sha256": "fea4f95108ecf3f9e8ce7917401c21c0f4d70914c2f1a6aa686bff0106e0bd9e"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/01.00_AK1_LAP-V201S-AUSR_04-scaled.jpg",
+   "width": 2560,
+   "bytes": 905483,
+   "sha256": "59cc1d743a05cc3db9e57cfeec3b0d30dc6299b0cb49a31fbdf353387ec885d7"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/01.00_A2_Vtial-200S_Module-06b.jpg",
+   "width": 1464,
+   "bytes": 661905,
+   "sha256": "a3b25f5138e0137599727496bb19bf2581dbdfd75a6eafce46034c16f37f7641"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Vital200smyciefiltra.jpg",
+   "width": 2048,
+   "bytes": 1285611,
+   "sha256": "48a260c9b73447efd5df5fd24fc6bf9b46a9cbe3a0bd1133980259fc084a2877"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/01.00_AK1_LAP-V201S-AUSR_03.jpg",
+   "width": 2970,
+   "bytes": 1265709,
+   "sha256": "1c34340d143b56cefb7584931747ab5210e2b00c5acdb230efc2d237cd11af02"
+  },
+  {
+   "file": "opis-08.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/01.00_A2_Vtial-200S_Module-07b.jpg",
+   "width": 1464,
+   "bytes": 528724,
+   "sha256": "ab8ba5dace580a9cc0d3d5a4cd4b6d8bbb8110725e6121b9e66b41c4b446735e"
+  },
+  {
+   "file": "opis-09.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/budowa-15.jpg",
+   "width": 1668,
+   "bytes": 588966,
+   "sha256": "2a74a0f7c5084fe6a730f64e40431c35fd44b94110d7135f34b1cca1588c48ac"
+  },
+  {
+   "file": "logo-producenta.jpg",
+   "kind": "logo",
+   "order": 14,
+   "sourceUrl": "kopia z levoit-classic-300s-szary/logo-producenta.jpg (render levoit-official-logo.svg z levoit.pl)",
+   "width": 1100,
+   "height": 489,
+   "bytes": 31791,
+   "sha256": "d17323eb004618e8cc2983df199a2734715df9b11e84a771a07bd5e3da53373c"
+  }
+ ],
+ "dropped": 0
+}
