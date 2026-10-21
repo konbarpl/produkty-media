@@ -1,0 +1,230 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T10:50:26.634366Z",
+ "sourcePage": "https://levoit.pl/produkt/oczyszczacz-levoit-core-300s-smart-hepa/",
+ "slug": "levoit-core-300s",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "opis-08.jpg",
+  "opis-09.jpg",
+  "opis-10.jpg",
+  "opis-11.jpg",
+  "opis-12.jpg",
+  "opis-13.jpg",
+  "logo-producenta.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/levoit_core_300s_ean_0810043373814_galeria_10.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 368508,
+   "sha256": "7a39c7ca2f41a94d111cc6f37f955920ad92b1efeae29494f4c5b8735c22313d"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/core-300s-new-main-strona.jpg",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 448858,
+   "sha256": "a7e3bd64cfaa778cd0ce52776bd963e47a14feaf2b0a8b8b807ab3a4aa4aa345"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Core-300S-Back.png",
+   "width": 1858,
+   "height": 1858,
+   "bytes": 271207,
+   "sha256": "1a155bdeb65302d2494112481077721d98f0b53ab986999efecf3385670ccc2c"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_A1_Core-300S_03.png",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 635199,
+   "sha256": "61904b2c2ea1555bd1b47db3957b0e34f9ad9670cf619c7b3e117eadcdf4d35e"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Core-300S-1-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 715049,
+   "sha256": "b49e5d0a68ebd16df655ee91a0f1e939ff8cf847fdc4de372be7ce02fe42bfa0"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Core-300S_02-1-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 779748,
+   "sha256": "57c09f08f0958deca142d03a4caf57397610217fe123896d4eb2f9388102ebcc"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_A1_Core-300S_09a-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 803370,
+   "sha256": "bd6c74bdf260d475d6b1ce7cc4eaf393e5629fa539765a20cf01899afa966ec1"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_A1_Core-300S_09c-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 855997,
+   "sha256": "8cf0418a012bcfaad62e51d6866f5a47d02639f16ebfb72fbf771439d9d5caf5"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_A1_Core-300S_09b-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 499498,
+   "sha256": "08b13fca9d198d0758c1ed8ac2e85782ef1ad2ebc09ffaa66d05c214c62b2760"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_A1_Core-300S_02b.jpg",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 371082,
+   "sha256": "04a3972d2721e1d45c0ad5b0343c9cee27c7fd3fe42ca7a3ada3ded82954849d"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/levoit_core_300s_ean_0810043373814_opis_2-scaled.jpg",
+   "width": 2560,
+   "height": 1301,
+   "bytes": 558608,
+   "sha256": "ee5ca9b605b64f99b8a7f01dc4705254904700e64c1dc710f1a0927baa81603e"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/levoit_core_300s_ean_0810043373814_opis123.jpg",
+   "width": 1086,
+   "height": 900,
+   "bytes": 212223,
+   "sha256": "670b48c26661a9619dccc76a3f5a906df6ca36cb4ecca906c3a6099ac34e254d"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 13,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/potrojny-filtr-hepa13.jpg",
+   "width": 1348,
+   "height": 996,
+   "bytes": 196548,
+   "sha256": "de78cc238033e501b48f2b24afa0258e941e6f8327aada69d9f9c3a57bbfb269"
+  },
+  {
+   "file": "opis-08.jpg",
+   "kind": "lifestyle",
+   "order": 14,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/levoit_core_300s_wyborfiltrow.jpg",
+   "width": 1900,
+   "height": 800,
+   "bytes": 376548,
+   "sha256": "e2c556440311740adb0d0465e43f05a80b9330cf170092d10f0cb53c80f1f1a9"
+  },
+  {
+   "file": "opis-09.jpg",
+   "kind": "lifestyle",
+   "order": 15,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/levoit_core_300s_ean_0810043373814_opis_cichapraca.jpg",
+   "width": 1307,
+   "height": 916,
+   "bytes": 154141,
+   "sha256": "f284aa4482fc90ae6d429d4868d99cce23b3b88bd482382a907ee36656417759"
+  },
+  {
+   "file": "opis-10.jpg",
+   "kind": "lifestyle",
+   "order": 16,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/levoit_core_300s_ean_0810043373814_opis_energystar-scaled.jpg",
+   "width": 2560,
+   "height": 1829,
+   "bytes": 409657,
+   "sha256": "2084712464331513866d33f493039f086e33aff369f42d2b38496f90d850f3da"
+  },
+  {
+   "file": "opis-11.jpg",
+   "kind": "lifestyle",
+   "order": 17,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/levoit_core_300s_ean_0810043373814_czujnik-scaled.jpg",
+   "width": 2560,
+   "height": 1886,
+   "bytes": 364145,
+   "sha256": "f979156205a7aa88c25b981d7511227ea2b485716ee5074332763a7b3d54e763"
+  },
+  {
+   "file": "opis-12.jpg",
+   "kind": "lifestyle",
+   "order": 18,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/levoit_core_300s_ean_0810043373814_vortexair.jpg",
+   "width": 1086,
+   "height": 800,
+   "bytes": 280197,
+   "sha256": "793ce26ee50f6cee230f365f16973a127ea0c3c039c5aa4095ab70ea2d621c8f"
+  },
+  {
+   "file": "opis-13.jpg",
+   "kind": "lifestyle",
+   "order": 19,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/levoit_core_300s_ean_0810043373814_sterowanie.jpg",
+   "width": 1561,
+   "height": 1150,
+   "bytes": 294509,
+   "sha256": "09fc099b9a7b82c491b4b49300d2e5b66801f8de9e8388870a86808f0a6e6a7f"
+  },
+  {
+   "file": "logo-producenta.jpg",
+   "kind": "logo",
+   "order": 20,
+   "sourceUrl": "kopia z produkty-media/levoit-classic-300s-szary/logo-producenta.jpg (render levoit-official-logo.svg z levoit.pl)",
+   "width": 1100,
+   "height": 489,
+   "bytes": 31791,
+   "sha256": "d17323eb004618e8cc2983df199a2734715df9b11e84a771a07bd5e3da53373c"
+  }
+ ]
+}
