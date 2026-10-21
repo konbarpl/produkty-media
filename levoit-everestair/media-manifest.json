@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-21T10:50:28.794Z",
+  "sourcePage": "https://levoit.pl/produkt/oczyszczacz-powietrza-levoit-everestair/",
+  "slug": "levoit-everestair",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/03/everestair.jpg",
+      "width": 1000,
+      "bytes": 167712,
+      "sha256": "b7919c997299d3c01a594fd4a8f59abb11c61c42720a298dff1b78516fab4e52"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/03/Levoit-EverestAir-0810123670970-GALERIA-1.jpg",
+      "width": 1500,
+      "bytes": 298088,
+      "sha256": "72ab01c21796b5b4601f5f4c13d06f98a14a8dbd2338e95785112ad977032f2d"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/03/Levoit-EverestAir-0810123670970-GALERIA-4.jpg",
+      "width": 1500,
+      "bytes": 317101,
+      "sha256": "34599e16a3249fe03f4c0c65274de0be743ba155babb94ba8f90b297aa2b8d6b"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/03/Levoit-EverestAir-0810123670970-GALERIA-8.jpg",
+      "width": 1170,
+      "bytes": 104204,
+      "sha256": "21f052c7ddc6ae8bfa03e281fed1e4512c3c404f24b570dee630920f004ecda4"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/03/Levoit-EverestAir-0810123670970-GALERIA-11.jpg",
+      "width": 1432,
+      "bytes": 212308,
+      "sha256": "922c6e350a26d9a2c14640d0756e2fea033328602b5ba79f12e35ae53ef0ba39"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/03/Levoit-EverestAir-0810123670970-GALERIA-2.jpg",
+      "width": 1080,
+      "bytes": 65752,
+      "sha256": "14e4cf0082b5b8bec0897b1487b69a8a7e827c4d526ef3221e3900de5a5f67a0"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/03/Levoit-EverestAir-0810123670970-GALERIA-6.jpg",
+      "width": 1800,
+      "bytes": 181250,
+      "sha256": "3bf30959c5b20ceaa4b0d8549d074374280bf70604ea85231b4604aca6dfe9b2"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/03/Levoit-EverestAir-0810123670970-GALERIA-7.jpg",
+      "width": 1500,
+      "bytes": 128623,
+      "sha256": "72407f14cca050edea92ae4b0632cbef155d035baf9a7d5942e44c11945d6a1b"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/03/Levoit-EverestAir-0810123670970-GALERIA-10.jpg",
+      "width": 2000,
+      "bytes": 337370,
+      "sha256": "5a61f26078403e6f389794a10497e64cb16f3f927174fd518deb182569f87743"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/03/Levoit-EverestAir-0810123670970-GALERIA-9.jpg",
+      "width": 1500,
+      "bytes": 94405,
+      "sha256": "4ec08845707be4ffea41be61404bffc12601b8127dde215bf8571504eb369236"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/03/Levoit-EverestAir-0810123670970-GALERIA-3.jpg",
+      "width": 1500,
+      "bytes": 157534,
+      "sha256": "a819a78e5f6186244ba6ab93925be2f34de1bc470baf73c3109183fe93c83aed"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "kopia z levoit-classic-300s-szary/logo-producenta.jpg (render levoit-official-logo.svg z levoit.pl)",
+      "width": 1100,
+      "height": 489,
+      "bytes": 31791,
+      "sha256": "d17323eb004618e8cc2983df199a2734715df9b11e84a771a07bd5e3da53373c"
+    }
+  ],
+  "dropped": 0
+}
