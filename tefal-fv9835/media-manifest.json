@@ -1,0 +1,144 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T15:39:08.037710Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/prasowanie-i-pielegnacja-ubran/zelazka/zelazko-tefal-ultimate-pure-fv9835 (KARTA ZASTEPCZA — tefal.pl nie ma karty sprzedazowej modelu; galeria JSON-LD image, pelna rozdzielczosc gallery_1500_1500)",
+ "slug": "tefal-fv9835",
+ "kod": "FV9835E0",
+ "ean": "",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/36/3675840/Zelazko-TEFAL-Ultimate-Pure-FV9835-front-2.jpg",
+   "note": "kandydat k01 Zelazko-TEFAL-Ultimate-Pure-FV9835-front-2.jpg — packshot 3/4 na bialym tle (front-2), przyciety do produktu z marginesem — fioletowo-czarna obudowa, nadruk Tefal",
+   "width": 768,
+   "height": 768,
+   "bytes": 79602,
+   "sha256": "99606fa9713b13237217a6cf0763b9e34eb4526f3520ee74e533a455770dc449"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/36/3675840/Zelazko-TEFAL-Ultimate-Pure-FV9835-pionowo.jpg",
+   "note": "kandydat k02 Zelazko-TEFAL-Ultimate-Pure-FV9835-pionowo.jpg — zelazko w pozycji pionowej, stopa Durilium",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 139301,
+   "sha256": "1abee758509f8e7f8ff77f6e03f4d400df1b67c6538ad2205815ddfa05c16c2f"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/36/3675840/Zelazko-TEFAL-Ultimate-Pure-FV9835-skos.jpg",
+   "note": "kandydat k03 Zelazko-TEFAL-Ultimate-Pure-FV9835-skos.jpg — widok skosny od strony stopy",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 121562,
+   "sha256": "ff3777df784dc628316f614f7c3c5daced6a63b9b2c653c680341173575c884e"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/36/3675840/Zelazko-TEFAL-Ultimate-Pure-FV9835-stopa-gora.jpg",
+   "note": "kandydat k04 Zelazko-TEFAL-Ultimate-Pure-FV9835-stopa-gora.jpg — stopa Durilium od dolu + widok z gory (wlew XL)",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 185969,
+   "sha256": "a942b7c11f86c910298b2b1909d77801ec3d2cd9c49e55b0318212715c5216fc"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/36/3675840/Zelazko-TEFAL-Ultimate-Pure-FV9835-tyl.jpg",
+   "note": "kandydat k05 Zelazko-TEFAL-Ultimate-Pure-FV9835-tyl.jpg — tyl: kaseta MICRO CALC FILTER",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 180190,
+   "sha256": "251f2177b9b0fd2e6209e2fb037522d802e542b99182e37036339caedfcb971d"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/36/3675840/Zelazko-TEFAL-Ultimate-Pure-FV9835-wyjety-filtr.jpg",
+   "note": "kandydat k06 Zelazko-TEFAL-Ultimate-Pure-FV9835-wyjety-filtr.jpg — wyjety filtr Micro-Calc obok zelazka",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 116480,
+   "sha256": "9bea66295aac64e0ad5410fbac988daa3f6ec8a4c8b77806fe51aa83ca8fecd4"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/36/3675840/Zelazko-TEFAL-Ultimate-Pure-FV9835-Micro-Calc-Filter.jpg",
+   "note": "kandydat k07 Zelazko-TEFAL-Ultimate-Pure-FV9835-Micro-Calc-Filter.jpg — filtr Micro-Calc (zblizenie, sam wklad)",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 106032,
+   "sha256": "508e29742143f8f909c99a8ae4f0632dae881d3a1b37d85d5fe1c924146e4412"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/36/3675840/Zelazko-TEFAL-Ultimate-Pure-FV9835-obraz-lifestyle-1.jpg",
+   "note": "kandydat k08 Zelazko-TEFAL-Ultimate-Pure-FV9835-obraz-lifestyle-1.jpg — lifestyle: kleby pary spod stopy",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 93563,
+   "sha256": "b8e317af880fc4de095e67ed6a9975f1b0a49ffdf37fdcbd37de937681e31f9d"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/36/3675840/Zelazko-TEFAL-Ultimate-Pure-FV9835-obraz-lifestyle-2.jpg",
+   "note": "kandydat k09 Zelazko-TEFAL-Ultimate-Pure-FV9835-obraz-lifestyle-2.jpg — lifestyle: strumien pary na koszule",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 96813,
+   "sha256": "431f5a7aa6f1a4d76607bc4a2bfbbe31d53dce9cf9f8a85b87ae5d6328a62694"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "description",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/36/3675840/Zelazko-TEFAL-Ultimate-Pure-FV9835-obraz-lifestyle-3.jpg",
+   "note": "kandydat k10 Zelazko-TEFAL-Ultimate-Pure-FV9835-obraz-lifestyle-3.jpg — lifestyle: zelazko pionowo na desce, koszule na wieszakach",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 143416,
+   "sha256": "82272ab09bc2fd224b0f6c87ae028915b6a012fe75df3247a2606c313445af3a"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 11,
+   "sourceUrl": "repo produkty-media/_logo/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "rejected": {}
+}
