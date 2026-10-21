@@ -1,0 +1,110 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T15:49:58.229550+00:00",
+ "sourcePage": "https://www.braunhousehold.com/pl-pl/p/texstyle-7-pro-zelazko-parowe-texstyle-7-pro-si-7149--bialo-czarne/12770008-SI7149WB.html?pid=0127403108",
+ "slug": "braun-si7149wb",
+ "kod": "SI7149WB",
+ "ean": "",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "logo-braun.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/219755",
+   "note": "packshot 3/4 na bialym tle, bialo-czarno-srebrna obudowa, nadruk Braun TexStyle 7 Pro (= JSON-LD image karty)",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 89470,
+   "sha256": "abdcc02cff1c7f323a797d9f89352db3a9ab9c739e73f80af4d8af86c12ac08b"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/219756",
+   "note": "zelazko w pozycji pionowej, widok boczny, napis TexStyle 7 Pro",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 81636,
+   "sha256": "b4e41ade93175a035a218f50d71331bb89a637ef41818cc1f36cf2766c26ba82"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/219757",
+   "note": "stopa FreeGlide 3D EloxalPlus z bliska",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 138920,
+   "sha256": "6e31b0d6e39f13a30444eb39ef854a50300e7a9c64d4edb88d3ac039846f60d8"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/219758",
+   "note": "prasowanie koszuli na desce, zblizenie dloni i zelazka",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 125785,
+   "sha256": "06370318cddb49752c84c0b2afb340440903621b6e3552be58877fb09521f97f"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/219759",
+   "note": "kobieta prasuje na desce, kleby pary",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 142405,
+   "sha256": "c61379e173d0054c6403c41a770ef7f43d3da5e304d797494ff774f736568018"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/219760",
+   "note": "kobieta odswieza wiszace ubranie strumieniem pary",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 158206,
+   "sha256": "9325231d27100f120a30b66026cbd3cb1094a712638c27e83f3dcb90f2fe7839"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/219761",
+   "note": "zelazko stoi pionowo na desce obok zlozonych koszul",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 106314,
+   "sha256": "4ce15381ee089dd596cc52d7d938f4b0fb1284b399f63889d6cc7478e40d7cb8"
+  },
+  {
+   "file": "logo-braun.jpg",
+   "kind": "logo",
+   "order": 8,
+   "sourceUrl": "repo produkty-media/braun-pl5431/logo-braun-male-v2.jpg (plaskie plotno 1200x300, regula 12.10)",
+   "width": 1200,
+   "height": 300,
+   "bytes": 15589,
+   "sha256": "3d601c32ca014e44583fe71c990644f4a289861be2a3f28c0bf810aa7de1b318"
+  }
+ ],
+ "dropped": 0,
+ "rejected": {},
+ "uwagi": "Karta ma 7 zdjec DAM (219755-219761), wszystkie pokazuja bialo-czarny wariant TexStyle 7 Pro; brak plansz serii, plakietek i innych kolorow. Logo z repo mediow zamiast 99-logo-braun.png (1200x504)."
+}
