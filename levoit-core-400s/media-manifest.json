@@ -1,0 +1,197 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T11:08:57.165728Z",
+ "sourcePage": "https://levoit.pl/produkt/oczyszczacz-levoit-core-400s-smart-hepa/",
+ "slug": "levoit-core-400s",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "opis-08.jpg",
+  "opis-09.jpg",
+  "opis-10.jpg",
+  "opis-11.jpg",
+  "opis-12.jpg",
+  "opis-13.jpg",
+  "opis-14.jpg",
+  "logo-producenta.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/D2_01.00_A1_Core-400S_main_b_2021-03-09-1-1-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 515560,
+   "sha256": "e493455f47f4d5ce3dc93ec9aad2b246c88cc16335f2f874b2fc889a1bae8a84"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Core_400s_wyswietlacz.jpg",
+   "width": 1536,
+   "height": 1236,
+   "bytes": 274338,
+   "sha256": "d5bf08afeb1b2b1178815df9134b45c0fbe2a4c1277a85884e618aa04486e690"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/D2_01.00_S1_Core400S_Lifestyle_2021-03-05_02-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 781184,
+   "sha256": "52e7fdaee05455a61f43798bac8d41296b943fdd68757cb30c5f5c673b616b3c"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/inteligentne-oczyszczanie-airsight-plus-pm25-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 550784,
+   "sha256": "1f037e02c663da963977f7dab91337194b04b0891ef10f60299a007e78d2642e"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/wskaznik-stanu-jakosci-powietrza-core-400s.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 193363,
+   "sha256": "2de1468812bf94de6630d3aca61f886ad6dbd09a399563cb94902dfa4fb24483"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/potrojna-filtracja-HEPA-H13-filtr-wstepny.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 215384,
+   "sha256": "fd849d0dc36196c125448756697a577ccadfd4863030b6fb977a1b0d96654f42"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/quietKEAP-technology-cisza-podkladki-pochlaniajace-energie-kinetyczna.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 203435,
+   "sha256": "0e4f8fa74cb0347b3c5402917ec1f87beecc4e1223604337da78599bc5a977ae"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/cichy-projekt-inspiracja-24db.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 186264,
+   "sha256": "800c0b020736111581f9beb5b147400d8309da050017440fcae75100b3ca0976"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/airsight-plus-korzysci-jak-dziala.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 186715,
+   "sha256": "57e6960a6c6a7b955e10e7d8ae09f160ac2d28577e708299d6ca72c8e5ab2618"
+  },
+  {
+   "file": "opis-08.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/VortexAir-Technology-testowany-na40-m2.jpg",
+   "width": 1500,
+   "height": 1445,
+   "bytes": 580052,
+   "sha256": "c5b04c44dd2f6714327610e2b94ceaa57d38cd4ce9038a60ee4adfe11ed95595"
+  },
+  {
+   "file": "opis-09.jpg",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/skuteczn-cyrkulacja-szybki-rezultat-vortexAir-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 835288,
+   "sha256": "8a48e4062ebd4644d4886caa406d97cd5e60cdd19dc1616d4b1611625052d80d"
+  },
+  {
+   "file": "opis-10.jpg",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/VeSync-Smart-Scene-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 1043102,
+   "sha256": "8c3dd0bf87ac45151c6966c9c4a10730e2bcbe7f2df4d424d7610e22cc3bed25"
+  },
+  {
+   "file": "opis-11.jpg",
+   "kind": "lifestyle",
+   "order": 13,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/veSync-core-400s-ulatw-sobie-zycie.jpg",
+   "width": 1452,
+   "height": 474,
+   "bytes": 55665,
+   "sha256": "5b46869db5c415a9215c3764c46180e5e7c25a26ff8ae9c4034bfd0f5c59167b"
+  },
+  {
+   "file": "opis-12.jpg",
+   "kind": "lifestyle",
+   "order": 14,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/arc-formula-core-dzialanie-porownanie-do-konkurncji.jpg",
+   "width": 1465,
+   "height": 1111,
+   "bytes": 325851,
+   "sha256": "575ea03fbab422a6fd4318e6438c841d8c69ff132abb856292461145b877fbe8"
+  },
+  {
+   "file": "opis-13.jpg",
+   "kind": "lifestyle",
+   "order": 15,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/pylki.jpg",
+   "width": 1720,
+   "height": 532,
+   "bytes": 111493,
+   "sha256": "62345156b2c3df28815a62bd9cec803f45275cd9118dec80d443f18f8f3c386c"
+  },
+  {
+   "file": "opis-14.jpg",
+   "kind": "lifestyle",
+   "order": 16,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/dlaczego-levoit.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 171965,
+   "sha256": "6846f4b48e340329524d359548ceaf8ea2dc52ed10e41d62898d65c45dc6d10b"
+  },
+  {
+   "file": "logo-producenta.jpg",
+   "kind": "logo",
+   "order": 17,
+   "sourceUrl": "kopia z produkty-media/levoit-classic-300s-szary/logo-producenta.jpg (render levoit-official-logo.svg z levoit.pl)",
+   "width": 1100,
+   "height": 489,
+   "bytes": 31791,
+   "sha256": "d17323eb004618e8cc2983df199a2734715df9b11e84a771a07bd5e3da53373c"
+  }
+ ]
+}
