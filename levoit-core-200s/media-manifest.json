@@ -1,0 +1,186 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T11:23:35.747240Z",
+ "sourcePage": "https://levoit.pl/produkt/oczyszczacz-powietrza-levoit-core-200s-smart-hepa/",
+ "slug": "levoit-core-200s",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "opis-08.jpg",
+  "opis-09.jpg",
+  "opis-10.jpg",
+  "opis-11.jpg",
+  "logo-producenta.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Core_200s_packshot5-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 285172,
+   "sha256": "e90dc77a858391e57338544dc272535a4ee1f24c5d66bf5d3b0f167c9db98f24"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Levoit_Core_200s_tyl-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 329356,
+   "sha256": "fc5e832219d6e881b98557034fd06479bdf5d299f244edf3674c03b43131b02e"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Levoit_Core_200s_smart-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 424089,
+   "sha256": "ac98783d8a13d8f671c1d72b801a96aa80d28e0d1ad186d5ea9d032e1368c9ec"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Levoit_Core_200s_panel-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 442136,
+   "sha256": "fda4506090ecb9d9a6ce9f68f2cb7883ed3bff3ad430085e7fef5adcdf1beed2"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/CORE-200S-8.jpg",
+   "width": 1471,
+   "height": 1471,
+   "bytes": 199410,
+   "sha256": "f6999cf28796d2b8b30c833f0d63ad1cefa10f2c99afeb068fc024ab8d343902"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Core-200s-potrojna-filtracja.jpg",
+   "width": 1467,
+   "height": 1901,
+   "bytes": 780666,
+   "sha256": "e16996d44a56fb4f505da5f1a7eb135b13f6ec393572ab365d27ff6604841996"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Oczyszczacz-Levoit-funkcje.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 227672,
+   "sha256": "ab3efeb98f07bacec49ed563ead4a4f54910f40de9c08ae4174410ea122c4105"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/core-200s-glosnosc-pracy-scaled.jpg",
+   "width": 2560,
+   "height": 1940,
+   "bytes": 403420,
+   "sha256": "42d7498d6f705c1f48ff6139c9a986547b456201036f7349f3dc4c055591f388"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/core-200s-oczyszczacz-sterowanie-glosem-2.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 193031,
+   "sha256": "270da9f5a39ed6910f982b66d3ccc0c0ac89d373b8c22b1f6a2265628fa6e140"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/core-200s-oczyszczacz-sterowanie-glosem.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 181396,
+   "sha256": "347d1b03b13789ff1056ccc61b96bebdd58b47fc0db3f2e3e7d38ea662aa8dc1"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/core-200s-tryb-nocny.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 73989,
+   "sha256": "98382b745fc0218ac0fb2e312b0ddce91e620a1799e67aeaa82af650186b9a0f"
+  },
+  {
+   "file": "opis-08.jpg",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/maksymalna-cyrkulacja-powietrza-200s-core-oczyszczacz.jpg",
+   "width": 1500,
+   "height": 1444,
+   "bytes": 547647,
+   "sha256": "add14d056fd3de1d580e88d69a14f46ba03386bb18c7c8b2526f405e92007ec0"
+  },
+  {
+   "file": "opis-09.jpg",
+   "kind": "lifestyle",
+   "order": 13,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/oczyszczacz-core-200s-stan-filtra-aplikacja.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 147339,
+   "sha256": "655fa5ebf196f5fc32f9e969e19ccdb9e1b96955cc00bbfd9160c946f82a77a7"
+  },
+  {
+   "file": "opis-10.jpg",
+   "kind": "lifestyle",
+   "order": 14,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/panel-sterowania-core-200s-oczyszczacz-powietrza.jpg",
+   "width": 1436,
+   "height": 1500,
+   "bytes": 289583,
+   "sha256": "3e37487f036b4ba24c7ce149edf3e435b3b97bb7955d38cb43d4842d1ec300df"
+  },
+  {
+   "file": "opis-11.jpg",
+   "kind": "lifestyle",
+   "order": 15,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/vesync-app.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 222354,
+   "sha256": "d6667df34ed2adf434c368e12030ece138cd62ce20f819b7f04ea31e7e2f43f9"
+  },
+  {
+   "file": "logo-producenta.jpg",
+   "kind": "logo",
+   "order": 16,
+   "sourceUrl": "kopia z produkty-media/levoit-classic-300s-szary/logo-producenta.jpg (render levoit-official-logo.svg z levoit.pl)",
+   "width": 1100,
+   "height": 489,
+   "bytes": 31791,
+   "sha256": "d17323eb004618e8cc2983df199a2734715df9b11e84a771a07bd5e3da53373c"
+  }
+ ]
+}
