@@ -12,7 +12,7 @@
     "opis-05.jpg",
     "opis-06.jpg",
     "opis-07.jpg",
-    "logo-01.jpg"
+    "logo-delonghi-male.jpg"
   ],
   "files": [
     {
@@ -88,14 +88,15 @@
       "sha256": "7af8dde84540e05249198d5fc80213fdf7eaba142d1a94b53f3f37af035698e4"
     },
     {
-      "file": "logo-01.jpg",
+      "file": "logo-delonghi-male.jpg",
       "kind": "logo",
       "order": 9,
-      "sourceUrl": "kopia zweryfikowanego logo De'Longhi z delonghi-exam440-55bg",
-      "width": 1000,
-      "height": 310,
-      "bytes": 39830,
-      "sha256": "11f97fb6327d0343ca4574a5b26866a58d4e4ea3a264ae21e23b3070b4959702"
+      "sourceUrl": "dropshipping/materiały/logo/de longhi logo.jpg (płótno logo_plotno.py 23.10.2026)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 23588,
+      "sha256": "f5d924f6f24b10e4b40d2d3948566dff7d98f56219efa477c7f20c16d620311a",
+      "inkRatio": 0.301
     }
   ],
   "dropped": 0
