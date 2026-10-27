@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T05:53:16.694Z",
+  "sourcePage": "https://www.brodasystem.pl/brabantia-deska-do-prasowania-podstawa-na-generator-pary-rozmiar-b-morning-breeze.html",
+  "slug": "brabantia-deska-134340-rozm-b",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/fbff79f20d638e712676e4db11062539/images/brabantia-deska-do-prasowania-134340.jpg",
+      "width": 1000,
+      "bytes": 68032,
+      "sha256": "213037957bb6fe4767249619495e25881ceadb7c1ae68b42cc5d7c7a8d4d27cd"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/fbff79f20d638e712676e4db11062539/images/brabantia-deska-do-prasowania-134340-colours.jpg",
+      "width": 1000,
+      "bytes": 219202,
+      "sha256": "2391e9667bd5b55f4013bb3c4ed3b38ff8e5087e9b7060ce2e819f0c846e42af"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/fbff79f20d638e712676e4db11062539/images/brabantia-deska-do-prasowania-b-moving-circles-346460-wymiary.jpg",
+      "width": 1000,
+      "bytes": 44940,
+      "sha256": "7082834073ea55fd244e1233e5aa119c2f6d24efb9c7d1d100d51b316086a69f"
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "repo mediów dropshipping/produkty listy/produkty-media/_logo/logo-brabantia.jpg (logo marki Brabantia)",
+      "width": 590,
+      "height": 96,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ],
+  "dropped": 0,
+  "note": "Zdjęcia ze sklepu brodasystem.pl (link KOSZT A Konrada, T54 GRUPA 70 P05, 8.10.2026), oryginały /images/ w kolejności big_* z karty. produkt-03 = big_brabantia-deska-do-prasowania-b-moving-circles-346460-wymiary.jpg: rysunek wymiarów bez wzoru pokrowca, nazwa pliku z innym wzorem (346460 Moving Circles), ale wymiary 124 x 38 cm i 75-98 cm zgodne z kartą 134340 - zostawiony wg lekcji fali 1 (pkt 11)."
+}

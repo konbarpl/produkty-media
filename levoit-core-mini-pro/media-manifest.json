@@ -1,0 +1,180 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T14:11:44.873Z",
+ "sourcePage": "https://allegro.pl/produkt/oczyszczacz-powietrza-levoit-core-mini-pro-hepa-78-m3-h-do-17-m2-82e31d1b-7878-4f7a-9b45-ebe5b37aa940?offerId=18838850730",
+ "slug": "levoit-core-mini-pro",
+ "galleryOrder": [
+  "produkt-al-01.jpg",
+  "produkt-al-02.jpg",
+  "produkt-al-03.jpg",
+  "produkt-al-04.jpg",
+  "opis-al-01.jpg",
+  "opis-al-02.jpg",
+  "opis-al-03.jpg",
+  "opis-al-04.jpg",
+  "opis-al-05.jpg",
+  "opis-al-06.jpg",
+  "logo-producenta.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-al-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://a.allegroimg.com/original/1171a9/a517eb41404790ef7de64ca97f05",
+   "sourcePage": "https://allegro.pl/produkt/oczyszczacz-powietrza-levoit-core-mini-pro-hepa-78-m3-h-do-17-m2-82e31d1b-7878-4f7a-9b45-ebe5b37aa940?offerId=18838850730",
+   "opis": "packshot na białym tle z wstawkami: widok z góry, podkładka/olejek, filtr (zdjęcie główne Allegro)",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 749390,
+   "sha256": "82b0d4848ed47d328d04545a0a6587b914c6facf219838df9b27a8cf0d87cc40"
+  },
+  {
+   "file": "produkt-al-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://a.allegroimg.com/original/1120ec/940d8e7d49779ba456e85427e76a",
+   "sourcePage": "https://allegro.pl/produkt/oczyszczacz-powietrza-levoit-core-mini-pro-hepa-78-m3-h-do-17-m2-82e31d1b-7878-4f7a-9b45-ebe5b37aa940?offerId=18838850730",
+   "opis": "packshot na białym tle, sam oczyszczacz",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 691345,
+   "sha256": "8758442015ae3aed7873c29db66a4bbf6e6ddf23aae651dfc481fbe743c7ebe4"
+  },
+  {
+   "file": "produkt-al-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://a.allegroimg.com/original/11915b/c7e0845243baae59d213d56dec53",
+   "sourcePage": "https://allegro.pl/produkt/oczyszczacz-powietrza-levoit-core-mini-pro-hepa-78-m3-h-do-17-m2-82e31d1b-7878-4f7a-9b45-ebe5b37aa940?offerId=18838850730",
+   "opis": "widok z góry: wylot i panel dotykowy",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 952266,
+   "sha256": "f46d29d288e8610d273c39f3e4aec438126904dca600a1836565dfffa8f7643b"
+  },
+  {
+   "file": "produkt-al-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://a.allegroimg.com/original/11fbc7/e119284342488db5617a07f9ade8",
+   "sourcePage": "https://allegro.pl/produkt/oczyszczacz-powietrza-levoit-core-mini-pro-hepa-78-m3-h-do-17-m2-82e31d1b-7878-4f7a-9b45-ebe5b37aa940?offerId=18838850730",
+   "opis": "oczyszczacz na stoliku nocnym (galeria Allegro)",
+   "width": 2532,
+   "height": 2532,
+   "bytes": 634002,
+   "sha256": "463e0d7e973dd66c3364c370357238ddec294fb7f300a10767d8de4bf411fcc1"
+  },
+  {
+   "file": "opis-al-01.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://a.allegroimg.com/original/112f43/9d9f956b440686c25a010074e1fb",
+   "sourcePage": "https://allegro.pl/produkt/oczyszczacz-powietrza-levoit-core-mini-pro-hepa-78-m3-h-do-17-m2-82e31d1b-7878-4f7a-9b45-ebe5b37aa940?offerId=18838850730",
+   "opis": "opis sprzedawcy 1: oczyszczacz na stoliku w salonie",
+   "width": 2560,
+   "height": 1731,
+   "bytes": 900714,
+   "sha256": "b8a3c2ed6e8677c7ea9fedd92f322b8b0da526857653abbb207dd60c4c17fb26"
+  },
+  {
+   "file": "opis-al-02.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://a.allegroimg.com/original/1110ba/99d9f20c4cbd81fbbd24e2b417f7",
+   "sourcePage": "https://allegro.pl/produkt/oczyszczacz-powietrza-levoit-core-mini-pro-hepa-78-m3-h-do-17-m2-82e31d1b-7878-4f7a-9b45-ebe5b37aa940?offerId=18838850730",
+   "opis": "opis sprzedawcy 2: przekrój — trzystopniowa filtracja",
+   "width": 877,
+   "height": 600,
+   "bytes": 197720,
+   "sha256": "0af6fa72f9e5369e70b568d8f6639a81c3943f133a5efbe7b5c2ea730955040f"
+  },
+  {
+   "file": "opis-al-03.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://a.allegroimg.com/original/11df34/3b332c9749f8b768cb4163a8c113",
+   "sourcePage": "https://allegro.pl/produkt/oczyszczacz-powietrza-levoit-core-mini-pro-hepa-78-m3-h-do-17-m2-82e31d1b-7878-4f7a-9b45-ebe5b37aa940?offerId=18838850730",
+   "opis": "opis sprzedawcy 3: praca w małym biurze",
+   "width": 1464,
+   "height": 600,
+   "bytes": 273856,
+   "sha256": "ed8629b7a15cb4ce00b418eb321ded138b2b859dba82e68ecb5bc6c77d1b6eeb"
+  },
+  {
+   "file": "opis-al-04.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://a.allegroimg.com/original/118e85/d8815d9849acb6011838946a8d5d",
+   "sourcePage": "https://allegro.pl/produkt/oczyszczacz-powietrza-levoit-core-mini-pro-hepa-78-m3-h-do-17-m2-82e31d1b-7878-4f7a-9b45-ebe5b37aa940?offerId=18838850730",
+   "opis": "opis sprzedawcy 4: aromaterapia — olejek na podkładce",
+   "width": 1464,
+   "height": 600,
+   "bytes": 336054,
+   "sha256": "e06123d2b32a3f08736da0137eb3986c2514de4cf2f81e23189f6c04d8d15f5e"
+  },
+  {
+   "file": "opis-al-05.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://a.allegroimg.com/original/11c109/257939984963a609e861bdd31422",
+   "sourcePage": "https://allegro.pl/produkt/oczyszczacz-powietrza-levoit-core-mini-pro-hepa-78-m3-h-do-17-m2-82e31d1b-7878-4f7a-9b45-ebe5b37aa940?offerId=18838850730",
+   "opis": "opis sprzedawcy 5: praca w sypialni podczas snu",
+   "width": 1464,
+   "height": 600,
+   "bytes": 352135,
+   "sha256": "fcc0bf9de9f37dfdd3afcbe9eba86b3de31a5698b25bb4524bfbfe4a9a0cd564"
+  },
+  {
+   "file": "opis-al-06.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://a.allegroimg.com/original/110e19/8967a20645efb3833503324a04e5",
+   "sourcePage": "https://allegro.pl/produkt/oczyszczacz-powietrza-levoit-core-mini-pro-hepa-78-m3-h-do-17-m2-82e31d1b-7878-4f7a-9b45-ebe5b37aa940?offerId=18838850730",
+   "opis": "opis sprzedawcy 7: obsługa panelu dotykowego",
+   "width": 2560,
+   "height": 1343,
+   "bytes": 1202319,
+   "sha256": "f2aea788f095158ba977a5515856d7c91dbdd470b9cda07e6494073b33ce7612"
+  },
+  {
+   "file": "logo-producenta.jpg",
+   "kind": "logo",
+   "order": 11,
+   "sourceUrl": "repo: levoit-classic-300s-szary/logo-producenta.jpg (render levoit-official-logo.svg z levoit.pl)",
+   "bytes": 31791,
+   "sha256": "d17323eb004618e8cc2983df199a2734715df9b11e84a771a07bd5e3da53373c",
+   "width": 1100,
+   "height": 489
+  }
+ ],
+ "dropped": 3,
+ "droppedFiles": [
+  {
+   "sourceUrl": "https://a.allegroimg.com/original/112214/f4a1657a4e529ade3971e40bd362",
+   "powod": "sam znak ENERGY STAR (opis sprzedawcy 6) — logo programu certyfikacji, nie zdjęcie produktu"
+  },
+  {
+   "sourceUrl": "https://a.allegroimg.com/original/114c77/cb6f96c04ca7a167313666c28bc0",
+   "powod": "baner „Nagrody i certyfikaty” z innymi produktami Levoit (inne oczyszczacze, odkurzacz) — bramka tożsamości"
+  },
+  {
+   "sourceUrl": "https://a.allegroimg.com/original/1188da/376933f6479bbadfc051f23b78b4",
+   "powod": "pasek-separator 1080×50 z napisem levoit (przerywnik w opisie sprzedawcy)"
+  }
+ ],
+ "wycofaneZGalerii": {
+  "data": "2026-10-21",
+  "powod": "zamiana źródła na stronę Allegro (polecenie Konrada 21.10); pliki levoit.fr z francuskimi napisami zostają w repo, poza galerią",
+  "pliki": [
+   "produkt-01.png",
+   "opis-01.jpg",
+   "opis-02.jpg",
+   "opis-03.jpg",
+   "opis-04.jpg",
+   "opis-05.jpg",
+   "opis-06.jpg",
+   "opis-07.jpg"
+  ]
+ }
+}

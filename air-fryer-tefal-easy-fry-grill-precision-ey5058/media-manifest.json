@@ -1,0 +1,91 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:27:27.803580Z",
+ "sourcePage": "https://www.tefal.pl/frytkownica-beztluszczowa-tefal-easy-fry-grill-ey5058-pojemnosc-4-2-l (karta producenta; galeria + zdjecia sekcji opisowej, DAM groupeseb). Media Expert nie ma kodu EY5058.",
+ "slug": "air-fryer-tefal-easy-fry-grill-precision-ey5058",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/n/o/noweey5058.png",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 196457,
+   "sha256": "a87537817e85ea8eb133a11f8aa4d2f0f63bfa6470fe2fcd333d741e3b9e52b6"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/5b471620a5cb224b/Digital-Easyfry_digital_black_2-1.jpg?twic=v1/quality=90/resize=2000",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 754004,
+   "sha256": "cf52bf0a79d186aafac8d9087fd0971086c025009728a899e383a5cd624a29ba"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/3c9c4fe1281bc9e0/Digital-TEFAL_EASY-FRY-GRILL-PRECISION_EY5058_CAPACITY-copy.png?twic=v1/quality=90/resize=2000",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 583772,
+   "sha256": "4286e6c0ed05b091598e1c04e18a4f5d06550efd4c12c50dbcb930e51bd8cacf"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/4d6a05736b08b9d4/Digital-Easyfry_3-1.jpg?twic=v1/quality=90/resize=2000",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 826527,
+   "sha256": "8bfa24332b2d3cbe16d4f7ff0a89879a2d6c6458b87fa2713e70d5a4a5051db2"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/0b8d6d57b4bd6b93/Digital-SS-997725_grid.tif?twic=v1/quality=90/resize=2000/output=jpeg",
+   "width": 2000,
+   "height": 1335,
+   "bytes": 489385,
+   "sha256": "fdc2118edb281771990605d5b29364f2b10cd4dd89e9df4427d019f94daa953f"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://twicpics.tefal.pl/https://dam.groupeseb.com/m/8848d5cecb41086b/Digital-SS-204811_panier_complet.tif?twic=v1/quality=90/resize=2000/output=jpeg",
+   "width": 2000,
+   "height": 1335,
+   "bytes": 214630,
+   "sha256": "64bb78b434b1e75f0d35bd7bbbe6e5b495fd7c599adbf8f0e639caee882d29ea"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 7,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "rejected": {
+  "k04-DAM": "Easyfry_digital_black_2-1 (id 6a9a3a6cb0cc075f) — urzadzenie ze stalowa, szczotkowana pokrywa gorna; EY505815 na packshocie producenta ma czarna gore (prawdopodobnie wariant inox EY505D) — bramka wariantu niezaliczona",
+  "k06-DAM": "zestaw akcesoriow XA112010 (forma, ruszty) — sprzedawany osobno, NIE ma go w zestawie EY505815"
+ }
+}

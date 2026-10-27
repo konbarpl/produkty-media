@@ -1,0 +1,182 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:44:22.281825Z",
+ "sourcePage": "https://www.tefal.pl/frytkownica-beztluszczowa-tefal-ever-fry-dual-flex-ey9278e0-9l (galeria karty producenta; Media Expert nie ma kodu EY9278)",
+ "slug": "air-fryer-tefal-ever-fry-dual-flex-ey9278",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "produkt-14.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/m/e/medium-tfl_ey9278-ey9288_duo-fry-flex-plus_h1bis.jpg",
+   "width": 945,
+   "height": 945,
+   "bytes": 74052,
+   "sha256": "9f79005a1d1655f155b2d432fe41fbe96f693ab3cb4e310393d18ff3d410b69d"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/m/e/medium-tfl_ey9278-ey9288_duo-fry-flex-plus_witb.jpg",
+   "width": 945,
+   "height": 945,
+   "bytes": 71404,
+   "sha256": "473a037590dcb3a7e095ded32ad0af35da766779f214326f4ca42e167d49f16e"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/m/e/medium-tfl_ey9278-ey9288_duo-fry-flex-plus_h1.jpg",
+   "width": 945,
+   "height": 945,
+   "bytes": 66509,
+   "sha256": "4bf398daf1796d3776087739d14e502397d95e675f6af84f630bde2766cb5f15"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey9278e0_ever_fry_dual_flex_pwcd_lv-lv.jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 171434,
+   "sha256": "ac5fc62f519904463053581fd052af5da1312628d593543d237c0710010aa6fb"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey928_ever_fry_dual_flex_pxp_mobile_dual_zone_pl-pl-1.jpg",
+   "width": 1575,
+   "height": 1181,
+   "bytes": 284659,
+   "sha256": "289bb3927bbfe68410bf8cc0d835c00cb8aefab4718fcbcb8869f0ed3d1dc126"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey928_ever_fry_dual_flex_pxp_mobile_dual_zone_pl-pl.jpg",
+   "width": 1575,
+   "height": 1181,
+   "bytes": 309040,
+   "sha256": "2e06d88d9cf69a4082120eee704a900d344d2074133879bf7bc6f68a0f62a48a"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey928_ever_fry_dual_flex_pxp_mobile_banner_pl-pl.jpg",
+   "width": 1575,
+   "height": 1181,
+   "bytes": 232020,
+   "sha256": "159824a892451132a166744a2f9b41eecedce8690d0d4dc7f906290772d4a2c3"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey928_ever_fry_dual_flex_pxp_mobile_genius_pl-pl-1.jpg",
+   "width": 1575,
+   "height": 1181,
+   "bytes": 304844,
+   "sha256": "ed3586adcce5888db2a497c09f930c46998055f0601b8420fd20144c00cd1c86"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey928_ever_fry_dual_flex_pxp_mobile_genius_pl-pl.jpg",
+   "width": 1575,
+   "height": 1181,
+   "bytes": 285332,
+   "sha256": "b0d74c120906ba46dd11766308db95664adc35f192b9f6f48f1c23c1e2e78eb0"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey9278e0_ever_fry_dual_flex_pwc_programs_pl-pl.jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 491713,
+   "sha256": "1dd3d0b1525a134a5374ccfc378474c58d9d430b812ec8ad294212c30e288b95"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey928_ever_fry_dual_flex_pxp_mobile_dual_zone_pl-pl-2.jpg",
+   "width": 1575,
+   "height": 1181,
+   "bytes": 249716,
+   "sha256": "0cc9aee34ad1b9f10f82cce84bdc4b7125a9ce275a82b514e96d135e5ae42178"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_ey9278_duo-fry-flex-plus_b5.jpg",
+   "width": 1575,
+   "height": 886,
+   "bytes": 175281,
+   "sha256": "11b5979ca93f879dab288cb7ac88852f9436489779dfa92409791000c9177e23"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/m/e/medium-tfl_ey927_928_ef_flex_ir_hotspot_mobile-3.jpg",
+   "width": 945,
+   "height": 709,
+   "bytes": 88530,
+   "sha256": "96ec7ca22dd82243c308b6fde517a030b6014d5b687cd40e9ab119112a862b76"
+  },
+  {
+   "file": "produkt-14.jpg",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/m/e/medium-tfl_ey927_928_ef_flex_ir_hotspot_mobile-1.jpg",
+   "width": 945,
+   "height": 709,
+   "bytes": 236459,
+   "sha256": "a2d633c001209ea3281762d7751f2ef82844cbdd69a0f3d2df401746663ac6a6"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 15,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "rejected": {
+  "k01-PL.jpg": "packshot frontu z naklejona grafika telefonu myTefal — prawie duplikat k13 (czysty packshot)",
+  "k03-PL.jpg": "plansza System Genius z tekstem po slowacku (cs-cz_sk-sk); polska wersja = k11",
+  "k17-PL.jpg": "plik ey927_see_me_cook — panel z napisem Start/Stop inny niz panel EY9278E0 (1/2/SYNC/MANUAL); niepewny wariant",
+  "k18-PL.jpg": "plik ey927_ever_fry_flex_flexcook — seria Ever Fry Flex, niepewny wariant",
+  "k19-PL.jpg": "grafika technologii Infra Heat calej serii frytkownic na podczerwien (nie ten model)"
+ }
+}

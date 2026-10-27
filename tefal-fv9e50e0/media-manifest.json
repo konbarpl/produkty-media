@@ -1,0 +1,163 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T15:36:31.955817Z",
+ "sourcePage": "https://www.tefal.pl/zelazko-parowe-tefal-ultimate-power-pro (karta producenta; galeria z JSON \"img\" 1200x1200 + grafiki opisowe media/wysiwyg/GABI_WORKSHOP/Linen_Care z kodem FV9E50/FV9E50E0)",
+ "slug": "tefal-fv9e50e0",
+ "kod": "FV9E50E0",
+ "ean": "",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_fv9e50e0_ultimate-power-pro_h1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "note": "kandydat k02 large-tfl_fv9e50e0_ultimate-power-pro_h1.jpg — packshot 3/4 na bialym tle (h1), czarna obudowa z miedzianorozowymi akcentami, nadruk Tefal Ultimate Power Pro",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 86597,
+   "sha256": "612e9dae4424a252c4157151a7eb68aff1130ee8af0362dfdc6900135b8c7bb0"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/1/8/1830008904_ps_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "note": "kandydat k01 1830008904_ps_1_.jpg — packshot karty 1830008904_ps (SKU modelu): zelazko + widok z tylu + kaseta antywapienna + stopa",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 90310,
+   "sha256": "56c409a6e47435c47107ea51390de06abcb9b91e43dda292ff67d0ce93d1324f"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_fv9e50_ultimate-power-pro_h2.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "note": "kandydat k03 large-tfl_fv9e50_ultimate-power-pro_h2.jpg — stopa Durilium w pozycji pionowej (h2)",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 86750,
+   "sha256": "f77f9ee336d490e4b0797411f21f85bddb8cfb0dd6c45512afb07fa9524a5970"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://www.tefal.pl/media/wysiwyg/GABI_WORKSHOP/Linen_Care/Large-TFL_FV9E50E0_ULTIMATE-POWER-PRO_EDITO.jpg",
+   "note": "kandydat k14 Large-TFL_FV9E50E0_ULTIMATE-POWER-PRO_EDITO.jpg — EDITO: zelazko z wyrzutem pary",
+   "width": 1575,
+   "height": 1575,
+   "bytes": 146005,
+   "sha256": "9ad37c494fea6e668c949ba16ee643fecfac9e53cb85269ad14c8910262eed57"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://www.tefal.pl/media/wysiwyg/GABI_WORKSHOP/Linen_Care/Digital-TFL_FV9E50_ULTIMATE-POWER-PRO_PACK.jpg",
+   "note": "kandydat k15 Digital-TFL_FV9E50_ULTIMATE-POWER-PRO_PACK.jpg — PACK: prasowanie w pionie, wyrzut pary",
+   "width": 1214,
+   "height": 1214,
+   "bytes": 205149,
+   "sha256": "377f43d1983a6bd826429afa52fadbbe3790cb1a385a8f2a9d0a622e9761d4cc"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://www.tefal.pl/media/wysiwyg/GABI_WORKSHOP/Linen_Care/Large-TFL_FV9E50E0_ULTIMATE-POWER-PRO_PERFECT-RESULTS_B3_.jpg",
+   "note": "kandydat k10 Large-TFL_FV9E50E0_ULTIMATE-POWER-PRO_PERFECT-RESULTS_B3_.jpg — B3 prasowanie na desce w klebach pary",
+   "width": 1575,
+   "height": 1575,
+   "bytes": 318990,
+   "sha256": "ab6cafd757ae3897cf81963204eb8dc3e4de4073bd97efa71bdee95f5c59505f"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 7,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/f/v/fv9e50e0_storytelling_pl_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "note": "kandydat k04 fv9e50e0_storytelling_pl_1_.jpg — storytelling PL: PELNE BEZPIECZENSTWO (automatyczne wylaczanie)",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 170783,
+   "sha256": "caf9b58c50ff8fbc9a503ed65a9aff80b0ea1afe260b38a47e13402fc2366855"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 8,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/f/v/fv9e50e0_storytelling_pl_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "note": "kandydat k05 fv9e50e0_storytelling_pl_2_.jpg — storytelling PL: INTELIGENTNE FUNKCJE (wybor tkaniny na ekranie)",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 358909,
+   "sha256": "dbec0526f15461a218a9991a0bb74f6b0d77489a911e4a8475a38106de9e4449"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "description",
+   "order": 9,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/f/v/fv9e50e0_storytelling_pl_3_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "note": "kandydat k06 fv9e50e0_storytelling_pl_3_.jpg — storytelling PL: IDEALNY SLIZG (stopa Durilium AirGlide Autoclean)",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 278212,
+   "sha256": "4e7d284bd7c43f96b39fd6b57438ed679c4fbb2d64f97c9dc9bafb8957b27fce"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "description",
+   "order": 10,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/f/v/fv9e50e0_storytelling_pl_4_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "note": "kandydat k07 fv9e50e0_storytelling_pl_4_.jpg — storytelling PL: POTEZNA MOC (3200 W, 85 g/min, 300 g/min)",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 133974,
+   "sha256": "09f889a1c799e9ad890c38ec771440ab6e5355a5e1638d738bf227f0ce5f0ef3"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "description",
+   "order": 11,
+   "sourceUrl": "https://www.tefal.pl/media/catalog/product/f/v/fv9e50e0_storytelling_pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+   "note": "kandydat k08 fv9e50e0_storytelling_pl.jpg — storytelling PL: OCHRONA TKANIN (Micro Calc Filter)",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 146754,
+   "sha256": "3237bc9c2f769273e25d71da9f75a79f66db75fd5f4659f7310d061bb1aa4c6b"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 12,
+   "sourceUrl": "repo produkty-media/_logo/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "rejected": {
+  "9": "B2 SMART-TECHNOLOGY = to samo zdjecie co k05 bez napisu (dubel wizualny)",
+  "11": "B4 ANTI-STAIN = to samo zdjecie co k08 bez napisu (dubel wizualny)",
+  "12": "HIGH-QUALITY-SOLEPLATE = to samo zdjecie co k07 bez napisu (dubel wizualny)",
+  "13": "B7 SAFETY-AUTO-OFF = to samo zdjecie co k04 bez napisu (dubel wizualny)",
+  "wysiwyg Digital-CAL_FV9E50C0_FCBU": "nie pobrane — kod FV9E50C0 (inny wariant niz zlecony E0)",
+  "wysiwyg MADE_IN_FRANCE_PICTO": "nie pobrane — piktogram, nie zdjecie produktu"
+ }
+}

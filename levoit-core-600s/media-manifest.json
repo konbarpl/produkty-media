@@ -1,0 +1,252 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T11:09:34.770120Z",
+ "sourcePage": "https://levoit.pl/produkt/oczyszczacz-powietrza-levoit-core-600s-smart-hepa/",
+ "slug": "levoit-core-600s",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "opis-08.jpg",
+  "opis-09.jpg",
+  "opis-10.jpg",
+  "opis-11.jpg",
+  "opis-12.jpg",
+  "opis-13.jpg",
+  "opis-14.jpg",
+  "opis-15.jpg",
+  "opis-16.jpg",
+  "logo-producenta.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_OA1_Core600_02.png",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 369114,
+   "sha256": "f8819641790bad10ff62e10ccf86269fdcda74a6b1074d3ee48cc193ac635fee"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_A1_Core-600S_main00a-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 432712,
+   "sha256": "2671f35c0df01b1c2d4fbca9474f4ec71a36f1b18fcb8295080d2160a0dfa07e"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01_Core600S.png",
+   "width": 1124,
+   "height": 1928,
+   "bytes": 377682,
+   "sha256": "6391ec6e2887d2d0d81969a3f7488096bf25c583070ada81111dfe102e7b99df"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_OA1_Core600_03.png",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 417329,
+   "sha256": "ab4afed1072b1de9cf0bf9849108cd30b9a8a50217bd1dae1656c5159b50d46c"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_OA1_Core600_04.png",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 881421,
+   "sha256": "8bab41ddf5c7629529aaf8d96e577bca14794e898b29f7374b57fdfdbc8a16d6"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_A1_Core-600S-5-1-1-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 840806,
+   "sha256": "257cbff611540a8c7c88124d511063ed159480a5313263f0e633fa608154ff75"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_OA1_Core600_05-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 798019,
+   "sha256": "562927801a81866cefb268754d1aa204b20d610cbae544bf09caa0bd3c066ee5"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_OA1_Core600_06-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 719210,
+   "sha256": "284cb40740c0fc16dd51dfea0b9d09bfa5f50d8fce1d8143bd86d682831ca65a"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/01.00_OA1_Core600_07-scaled.jpg",
+   "width": 2560,
+   "height": 2560,
+   "bytes": 670749,
+   "sha256": "d8477d7a531ac781812a11f53ce2f20633538f570c266fa67fb7bd911cfc4e5e"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Levoit-core-600s-podsumowanie.jpg",
+   "width": 1768,
+   "height": 884,
+   "bytes": 280767,
+   "sha256": "e4bcb9fe8864d26ff69e272b707b1e6b0bbc17b5230763a7ec72fad0ce9f170e"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/core-600s-aplikacja-vesync-i-jej-funkcje-scaled.jpg",
+   "width": 2560,
+   "height": 1987,
+   "bytes": 853055,
+   "sha256": "56286bb48e84e15975202a1eb27ec8bc4787bafa265f07358714429d191797b6"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/core-600s-zalety-i-funkcje.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 167918,
+   "sha256": "b8cb456ab14b6cc41db993160491418929ef961e5abfe51a0cdceb1db757d795"
+  },
+  {
+   "file": "opis-08.jpg",
+   "kind": "lifestyle",
+   "order": 13,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/core-600s-wyswietlacz-i-jego-funkcje-scaled.jpg",
+   "width": 2560,
+   "height": 1961,
+   "bytes": 617550,
+   "sha256": "2e7f731090616e3ff58fb515924ef506c0d2f780fe7f50943154f6b0014bf6c4"
+  },
+  {
+   "file": "opis-09.jpg",
+   "kind": "lifestyle",
+   "order": 14,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Core-600s-potrojna-filtracja.jpg",
+   "width": 1467,
+   "height": 1901,
+   "bytes": 780666,
+   "sha256": "e16996d44a56fb4f505da5f1a7eb135b13f6ec393572ab365d27ff6604841996"
+  },
+  {
+   "file": "opis-10.jpg",
+   "kind": "lifestyle",
+   "order": 15,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Core-600s-tryb-nocny-quiet-keap.jpg",
+   "width": 2000,
+   "height": 1125,
+   "bytes": 240001,
+   "sha256": "8a2dff94ee9b738722541d496e806f4b1bd0198b06c7e0f123d9bb473199787d"
+  },
+  {
+   "file": "opis-11.jpg",
+   "kind": "lifestyle",
+   "order": 16,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/stezenie-pylu-PM25-czujnik-laserowy-technologia-airsight-PLUS.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 185406,
+   "sha256": "3869c6983b6c41d5a7a95344507d6aa34e37cabb1058f3b27126fd23b681b5e1"
+  },
+  {
+   "file": "opis-12.jpg",
+   "kind": "lifestyle",
+   "order": 17,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/Levoit-core-600s-airsight-plus-technology-scaled.jpg",
+   "width": 2560,
+   "height": 1883,
+   "bytes": 531375,
+   "sha256": "54b6b1a36086442ba7ef3c6cd03e07584383f2b8fab4897158c71e44204cd7ea"
+  },
+  {
+   "file": "opis-13.jpg",
+   "kind": "lifestyle",
+   "order": 18,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/1e52dbba-a657-4ff2-8d6e-93479a8722e3.__CR001464600_PT0_SX1464_V1___.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 111004,
+   "sha256": "a54d99856645998eb37032c1eda08194475802b0b20cbfb412f9650683a2a394"
+  },
+  {
+   "file": "opis-14.jpg",
+   "kind": "lifestyle",
+   "order": 19,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/inteligentny-czujnik-swiatla-levoit-core-600s.jpg",
+   "width": 1464,
+   "height": 600,
+   "bytes": 139893,
+   "sha256": "db82c8ca9245308e4b91bc8e21699564979a5664737a1e06cd2ddeb5b6ab0d59"
+  },
+  {
+   "file": "opis-15.jpg",
+   "kind": "lifestyle",
+   "order": 20,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/core-600s-duza-powierzchnia-oczyszczania.jpg",
+   "width": 2000,
+   "height": 1497,
+   "bytes": 336042,
+   "sha256": "5ac0ed4da09d3062251b0c65fe562c5e61392f37ec95c64283bd8d1c9797e6d1"
+  },
+  {
+   "file": "opis-16.jpg",
+   "kind": "lifestyle",
+   "order": 21,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2022/08/sterowanie_glosem.jpg",
+   "width": 1382,
+   "height": 731,
+   "bytes": 82457,
+   "sha256": "c3bd2327348a48aeb0246f6382ccd264247005808f61584f9fc8c9feddb0e747"
+  },
+  {
+   "file": "logo-producenta.jpg",
+   "kind": "logo",
+   "order": 22,
+   "sourceUrl": "kopia z produkty-media/levoit-classic-300s-szary/logo-producenta.jpg (render levoit-official-logo.svg z levoit.pl)",
+   "width": 1100,
+   "height": 489,
+   "bytes": 31791,
+   "sha256": "d17323eb004618e8cc2983df199a2734715df9b11e84a771a07bd5e3da53373c"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T15:50:32.098910Z",
+ "sourcePage": "https://www.tefal.nl/p/puregliss-fv8066-stoomstrijkijzer/1830008649 (KARTA PRODUCENTA Z INNEGO KRAJU — tefal.pl nie ma karty sprzedazowej modelu; JSON-LD mpn FV8066E0, sku 1830008649 = ten sam id co akcesoria.tefal.pl) + https://www.tefal.de/Zubehör-Shop/waeschepflege/dampfbuegeleisen/puregliss-fv8066/csp/1830008649 (PWC2)",
+ "slug": "tefal-fv8066",
+ "kod": "FV8066E0",
+ "ean": "",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://dam.groupeseb.com/m/3592ad270e26bffe/Digital-TF_FV8066E0_1830008649_A.png",
+   "note": "kandydat k1 — packshot 3/4 na bialym tle (A) — czarno-turkusowa obudowa, nadruk Tefal Puregliss, MICRO CALC FILTER",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 295840,
+   "sha256": "837bc202d6152e3fd71f4666298e8324c57c0099315c0cc4a6520299e0e8a7ec"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://dam.groupeseb.com/m/4081f1b99d8d18db/Digital-TF_FV8066E0_1830008649_B.png",
+   "note": "kandydat k2 — stopa Durilium od dolu (B), zelazko pionowo",
+   "width": 2000,
+   "height": 2000,
+   "bytes": 319071,
+   "sha256": "4aa58b2547526db3f1392971473187f3237bbe76ec3aea7a435b4b3e63f20f50"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 3,
+   "sourceUrl": "https://dam.groupeseb.com/m/37b22392d62ed17b/Medium-TFL_FV8066E0_1830008649_PWC1_NL.png",
+   "note": "kandydat k4 — lifestyle: kleby pary spod stopy (PWC1); odciety gorny pasek z napisem NL „PERFECTE RESULTATEN” (ciecie od y=116)",
+   "width": 945,
+   "height": 829,
+   "bytes": 114793,
+   "sha256": "65610ab73de26bf1909b4ded5eeeb9cc98cf1cb31dba3214f0a52f2b69457a40"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 4,
+   "sourceUrl": "https://dam.groupeseb.com/m/1b2bbade6bb42fe5/Medium-TFL_FV8066E0_1830008649_PWC2_DE.png",
+   "note": "kandydat k6 — lifestyle: wyjety wklad Micro Calc obok zelazka (PWC2); odciety gorny pasek z napisem DE „OHNE FLECKENRISIKO” (ciecie od y=115)",
+   "width": 945,
+   "height": 830,
+   "bytes": 118003,
+   "sha256": "57fcb8551d1d0aff4ca58e4748c233b1840f9b58fbd941a3b35811fbe8709ac7"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 5,
+   "sourceUrl": "repo produkty-media/_logo/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "rejected": {
+  "Medium-FV8066-BT-JAN-2026.png": "plakietka nagrody Consumentenbond „Beste uit de test” (NL) — nie wchodzi",
+  "Medium-TFL_FV8066E0_1830008649_PWC1_DE.png": "ten sam kadr co PWC1_NL (inna wersja jezykowa napisu) — duplikat"
+ }
+}

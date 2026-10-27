@@ -1,0 +1,184 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:17:43.605928Z",
+ "sourcePage": "https://www.sharkninja.pl/ninja-crispi-4-w-1-przenosny-szklany-air-fryer-stone-fn101eust/FN101EUST.html (assety producenta FN101EUST) + https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-frytkownica-beztluszczowa-ninja-fn101eust-crispi-1700w (tylko zdjecia ME zweryfikowane jako wariant ST: srebrna listwa, biale logo)",
+ "slug": "air-fryer-ninja-crispi-fn101eust",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "produkt-14.jpg",
+  "logo-ninja.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/SharkNinja-EU/FN101EUST_01.jpg",
+   "width": 2070,
+   "height": 2070,
+   "bytes": 415798,
+   "sha256": "97394b31dc4a1c48f56041093c8eb563e809dfb42d5c8d5289c44b7b2aeccec9"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/80/8058631/Air-fryer-Frytkownica-beztluszczowa-NINJA-FN101EUST-Crispi-1700W-6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 117348,
+   "sha256": "c424a0ae9f26a5e0b42fbcb9c66e0f24b7a09372cc9121272735a7e53b8aa596"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/80/8058631/Air-fryer-Frytkownica-beztluszczowa-NINJA-FN101EUST-Crispi-1700W-7.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 82167,
+   "sha256": "c67f1b5b6a75178b1bd12305d4f7dc247a3e48f54aae033706dcf454f1a1032c"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/80/8058631/Air-fryer-Frytkownica-beztluszczowa-NINJA-FN101EUST-Crispi-1700W-9.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 66689,
+   "sha256": "437cd4b13b504ca174875e137cfc6c750ad9836f1bba02b8b85a20d12d773c31"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUST/FN101EUST_gallery_pl-PL_02.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 259442,
+   "sha256": "1045f330dd199de19b9a3dac1f310162845082c58bf157ae85132cbb39eede82"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUST/FN101EUST_gallery_pl-PL_04.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 342404,
+   "sha256": "d5825c881aae55a1f044d55476359094a846d5ae251ee2604b1967ef4efa4fea"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUST/FN101EUST_gallery_pl-PL_05.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 303459,
+   "sha256": "6d75350ef88a729de29e343711cdfc94d0be8ae51dcc17d35107eb30e4c60f29"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUST/FN101EUST_gallery_pl-PL_07.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 525932,
+   "sha256": "7cfbc157e8336d4178d88bc3eb0dffa9faafefc58195859c6e850c4e1e116f1c"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUST/FN101EUST_gallery_pl-PL_06.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 336637,
+   "sha256": "89cbe3af5713ad001dddd2f706994c528795554c495b0a12deb3733b55314c7a"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUST/FN101EUST_gallery_pl-PL_03.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 226182,
+   "sha256": "e50bc12a7b1d754fef9d1222b31368f01bfbcd619bbfd5e8ca406fe3a283cff7"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUST/FN101EUST_gallery_pl-PL_13.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 241635,
+   "sha256": "e6f7fcd396edc1b52c42041598e528a1bb8660f0eed8ee458d0e8a55f26ae2a3"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUST/FN101EUST_gallery_pl-PL_09.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 254692,
+   "sha256": "5b80c2c73008a0039e612b0500605f50b759142d22100cf632f0c740855dba88"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUST/FN101EUST_gallery_pl-PL_08.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 335595,
+   "sha256": "5fa9238a4b09ae8682478327b2f9bdda888817febb9cb23349f37a5276e106eb"
+  },
+  {
+   "file": "produkt-14.jpg",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUST/FN101EUST_gallery_pl-PL_11.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 229299,
+   "sha256": "f15cdaade56605dfaacddfa7afe7f549cb7a4c8d89a6ed2de48fec2be627b9c3"
+  },
+  {
+   "file": "logo-ninja.jpg",
+   "kind": "logo",
+   "order": 15,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/ninja-fn101eugy/logo-ninja.jpg",
+   "width": 1008,
+   "height": 470,
+   "bytes": 49308,
+   "sha256": "6582c0ad0f51c41f1fd3814dcece75134baf029470d8fa8eaab2b86dfecb729e"
+  }
+ ],
+ "rejected": {
+  "k01-ME": "ten sam packshot co k25-SN (producent FN101EUST_01) w nizszej rozdzielczosci — duplikat",
+  "k02-ME, k03-ME, k04-ME, k05-ME, k08-ME, k10-ME": "ZLY WARIANT KOLORU: zlota listwa i zlote logo NINJA/CRISPi = FN101EUSTGD Kamienne zloto (porownanie_st_stgd.jpg, zblizenie_me_02_10.jpg); FN101EUST Piaskowy ma srebrna listwe i biale logo",
+  "k11..k24-ME (k23 nie pobrane)": "banery opisowe Media Expert (panorama na bialym kwadracie), czesc z wariantem STGD — te same plansze sa u producenta w folderze FN101EUST (SNPL)",
+  "k42-SNPL, k47-SNPL": "plansze dobre tematycznie, pominiete dla dlugosci galerii (14 zdjec + logo); do uzycia w ETAPIE 2",
+  "k44-SNPL": "szklane naczynia bez PowerPoda — pominiete dla dlugosci galerii",
+  "k46-SNPL": "plansza „Zobacz wiecej kolorow” — trzy warianty kolorystyczne na jednym zdjeciu",
+  "k48-SNPL": "ogolna ikona zarowki (energia) bez produktu"
+ }
+}

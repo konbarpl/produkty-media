@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T06:11:31.202Z",
+  "sourcePage": "https://www.brodasystem.pl/brabantia-242106-deska-do-prasowania-podstawa-na-generator-pary-rozmiar-c-new-dawn.html",
+  "slug": "brabantia-deska-242106-rozm-c",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3368248e3931b2632d68c4fc09b9e6e2/images/brabantia-242106-deska-do-prasowania-rozmiar-c-new-dawn-glowne.jpg",
+      "width": 1000,
+      "bytes": 129890,
+      "sha256": "3b001b5b5775696f2ff2c195e3eb1297145b6f1645471f5053daff02ff2b6504",
+      "height": 1000
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3368248e3931b2632d68c4fc09b9e6e2/images/brabantia-242106-deska-do-prasowania-rozmiar-c-new-dawn-gora.jpg",
+      "width": 1000,
+      "bytes": 173225,
+      "sha256": "e7730ae65a00534a30d776ee31cddb8efd5e3dbffcec54c768acedd70041ea25",
+      "height": 1000
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3368248e3931b2632d68c4fc09b9e6e2/images/brabantia-242106-deska-do-prasowania-rozmiar-c-new-dawn-bok.jpg",
+      "width": 1000,
+      "bytes": 118982,
+      "sha256": "8a477e5a1c1209ab07166785ab7b1e63f12887d0623f871694be063f1cf628da",
+      "height": 1000
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3368248e3931b2632d68c4fc09b9e6e2/images/brabantia-242106-deska-do-prasowania-rozmiar-c-new-dawn-regulacja-wysokosci.jpg",
+      "width": 1000,
+      "bytes": 358737,
+      "sha256": "b8c558ed3fc02d9a3e4e990a56bfc057fcb66d5f6e2c2977b49c7d09a7d1e226",
+      "height": 1000
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3368248e3931b2632d68c4fc09b9e6e2/images/brabantia-242106-deska-do-prasowania-rozmiar-c-new-dawn-mocowanie-podstawy.jpg",
+      "width": 1000,
+      "bytes": 334499,
+      "sha256": "43a3ee3e5ef65ab5c9aa06702c9e822eace2ff5529c152e0a6eccec5e0f08b24",
+      "height": 1000
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3368248e3931b2632d68c4fc09b9e6e2/images/brabantia-242106-deska-do-prasowania-rozmiar-c-new-dawn-podstawa.jpg",
+      "width": 1000,
+      "bytes": 225795,
+      "sha256": "5a09bf28f8ce4201f5a9b8eaca992d548d458a4c6a4262e1d63134aeed397a5c",
+      "height": 926
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3368248e3931b2632d68c4fc09b9e6e2/images/brabantia-242106-deska-do-prasowania-rozmiar-c-new-dawn-podstawa-na-generator.jpg",
+      "width": 1000,
+      "bytes": 223757,
+      "sha256": "ce8d95ba429223b7cfab67469c0e026a7c9b66b593696cf9e1079de61ed4d2eb",
+      "height": 1000
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3368248e3931b2632d68c4fc09b9e6e2/images/brabantia-242106-deska-do-prasowania-rozmiar-c-new-dawn-wyglad.jpg",
+      "width": 2000,
+      "bytes": 456004,
+      "sha256": "34d22c0c2d0d22165916ccb20542321c77a5fa9698ded333ec721e33a4786b6c",
+      "height": 1323
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3368248e3931b2632d68c4fc09b9e6e2/images/brabantia-242106-deska-do-prasowania-rozmiar-c-new-dawn-w-trakcie-prasowania.jpg",
+      "width": 1000,
+      "bytes": 156566,
+      "sha256": "bc94ca092ae27203101a53e57ebf90ee31a608fc0db3ec28af643e6add677ec6",
+      "height": 645
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "repo mediów dropshipping/produkty listy/produkty-media/_logo/logo-brabantia.jpg (logo marki Brabantia)",
+      "width": 590,
+      "height": 96,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ],
+  "dropped": 2,
+  "note": "T54 GRUPA 70 P15 ETAP 1 (2026-10-08): 9 zdjęć z galerii brodasystem.pl (oryginały /images/, kolejność data-src big_*), zweryfikowane wzrokowo jako deska 242106 rozmiar C New Dawn z podstawą na generator pary (wszystkie pliki z kodem 242106 i wzorem new-dawn w nazwie; plakietka C na pokrowcu na produkt-06). Odrzucone 2: certyfikat (packshot z plakietką Fairtrade) i regulacja-fairtrade (aranżacja z plakietką Fairtrade). produkt-01 packshot z góry na białym tle, 02 sam pokrowiec, 03 packshot w perspektywie, 04 regulacja wysokości, 05 mocowanie podstawy, 06 podstawa, 07 podstawa z generatorem pary, 08 aranżacja, 09 w trakcie prasowania. Logo na końcu."
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T06:00:44.968Z",
+  "sourcePage": "https://www.brodasystem.pl/brabantia-deska-do-prasowania-podstawa-na-generator-pary-rozmiar-c-denim-blue.html",
+  "slug": "brabantia-deska-134623-rozm-c",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.png",
+    "produkt-03.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/ea42ba0c2b1e091e8e0669160b37a551/images/deska-do-prasowania-rozmiar-C-124x45cm-13-46-23-glowne.jpg",
+      "width": 1000,
+      "bytes": 91753,
+      "sha256": "8599edf8187dd908a33c96bad235f9665965c24e44f15e821717a22c36e759af",
+      "height": 1000
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/ea42ba0c2b1e091e8e0669160b37a551/images/deska-do-prasowania-rozmiar-C-124x45cm-13-46-23-od-boku.PNG",
+      "width": 1000,
+      "bytes": 319692,
+      "sha256": "a42338a4156f6a635d1ea01562f3f7675583c58f1017067fc2d91f7f5b22de71",
+      "height": 1000
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/ea42ba0c2b1e091e8e0669160b37a551/images/deska-do-prasowania-rozmiar-C-124x45cm-13-46-23-wymiary.jpg",
+      "width": 1000,
+      "bytes": 47093,
+      "sha256": "c1a067d758e7d8f45dd658f4ee63abc87f7396703acf3781b9fb954e971fa9b3",
+      "height": 1000
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "repo mediów dropshipping/produkty listy/produkty-media/_logo/logo-brabantia.jpg (logo marki Brabantia)",
+      "width": 590,
+      "height": 96,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ],
+  "dropped": 0,
+  "note": "T54 GRUPA 70 P09 ETAP 1 (2026-10-08): 3 zdjęcia z galerii brodasystem.pl (oryginały /images/, kolejność data-src big_*), zweryfikowane wzrokowo jako deska 134623 rozmiar C Denim Blue z podstawą na generator pary (nazwy plików 13-46-23, rozmiar C 124x45cm); produkt-01 packshot z góry na białym tle, produkt-02 packshot w perspektywie (PNG, RGB bez przezroczystości), produkt-03 rysunek wymiarów 124x45 cm i 75-98 cm zgodny z kartą. Logo na końcu."
+}

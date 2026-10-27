@@ -1,0 +1,199 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T15:16:50.954977Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/DST8040_30.assets (PRX API, CTN DST8040/30)",
+ "slug": "philips-dst8040-30",
+ "kod": "DST8040/30",
+ "ean": "",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_39acbab1_8b44_4889_b9ca84c91901c7e4?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k01 RTP DST8040_HE_RFT_RGB.tif — RTP packshot 3/4 na bialym tle, fioletowo-rozowozlota obudowa, napis Azur 8000 Series",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 112474,
+   "sha256": "b80af1cf1da39c2a808a2f4f68c888858a2439e2d55a6506c33bc71d8800e354"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_277eedfa_2b5d_4c33_9b597759b2d43494?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k02 A1P DST8040_HE_APS_RGB.tif — A1P widok z gory",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 66903,
+   "sha256": "6d64e30d8eeb9f979f2feb65c44193f78299d0e6838cb16ab2924f8225624056"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1d085778_6d73_4353_bebc2d9d994930be?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k03 D1P DST8040_HE_PDP_RGB.tif — D1P zelazko w pozycji pionowej, stopa SteamGlide Elite + zolta zatyczka Quick Calc Release",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 137267,
+   "sha256": "44c466fd811142be99c5465d476132e935ec94d7774014c68b43d30b75da5ec2"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d6f0c4f4_7837_4fd0_b9214d6ee9159bea?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k04 D2P DST8040_HE_TEC1_PDP_RGB.tif — D2P stopa w klebach pary, przekroj warstw stopy",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 127909,
+   "sha256": "ead34b536b4c8fa7dc7822d1a429322c858c05ab0fe13ec43eb8402bd2a701e7"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_92b0c5d0_c8f8_4175_894e45bf82e97aa0?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k05 U1P DST8040_HE_U1_RGB.tif — U1P zelazko w klebach pary",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 106039,
+   "sha256": "16f68263343f241c697b6ddf945a966eac27dba968e2d2d501b411e0fee7a14e"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_79c3bb05_820d_4f89_a0b206bb14c5d115?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k06 D3P DST8040_HE_TEC2_PDP_RGB.tif — D3P OptimalTemp: dzins i jedwabna koszula",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 185107,
+   "sha256": "02202bf0cc0c6727394112f82ec3116cb94695f70789a73152995a11bec8ac92"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d80144dd_ece0_46ca_b60f8930aca78621?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k07 D4P DST8040_HE_TEC3_PDP_RGB.tif — D4P strumien pary, strzalki ruchu (czujnik ruchu)",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 109537,
+   "sha256": "2bd6b65f69842a83ab1ea8c9f2c20124473489566ad3af595716da5037779843"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_76470dd6_2259_48be_b02a00554612e267?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k08 D5P DST8040_HE_TEC4_PDP_RGB.tif — D5P wnetrze z podswietlonym elementem, strumien pary",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 93559,
+   "sha256": "5b828d7747ae3ebc52bcb001922bf4bf2c294c50b7f5130c25fa65d2c560ae95"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_dac30133_a032_4532_aa244e82e707fbf7?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k11 FIL DST8040_HE_D1_RGB.tif — FIL D1 Quick Calc Release: wyjmowany pojemnik na kamien",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 130563,
+   "sha256": "2abb4fa0793e9b2685e9a8bed7960ad6769cf790938326fd5899cebfed07eae8"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6f9f4738_9818_43f1_aba8a36faebf72b4?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k15 FIL DTS8040_30_IntelligentAutomaticSteam_16x9 — FIL DTS8040_30 IntelligentAutomaticSteam: prasowanie na desce",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 156056,
+   "sha256": "a3b03f33d369dd0e2c09b83829bba9821c4f3a44fe3fc691b94388f1cd6a11d1"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "description",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_31cf88cf_46d4_4d9b_a287e3b7f7508525?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k16 FIL DTS8040_30_ContinuousSteamOutput_16x9 — FIL DTS8040_30 ContinuousSteamOutput",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 118499,
+   "sha256": "33a60aa8b5c4cd234c78f6a99777c0facd41d642bb97c3988c6d9d6e4d56bcde"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "description",
+   "order": 12,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_37354d76_9160_4cee_88a1e590302b6c87?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k17 FIL DST8040_30_SteamBoost_16x9 — FIL DST8040_30 SteamBoost",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 102804,
+   "sha256": "d374e593f40522334f63102e46d1ce59baaba330558e1b2cfff02ea838be8a69"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "description",
+   "order": 13,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_53011be7_99b9_46f5_8cc8857f30092586?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k18 FIL DTS8040_30_300 350mlWaterTank_16x9 — FIL DTS8040_30 350ml WaterTank: nalewanie wody",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 118940,
+   "sha256": "5d7c7adf44628b572610ddad3208a0928d0b1eb779f0187849192ddeed0e38c0"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "description",
+   "order": 14,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b45a0911_a8ba_4be4_87f84d3dbc2bd937?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k19 FIL DTS8040_30_AutoShutOff_16x9 — FIL DTS8040_30 AutoShutOff: zelazko na desce",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 103985,
+   "sha256": "09d51cb1f57a8bc4e09edafc869abf200d2f7f26d189ea3ae0ae2b4781a6e928"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 15,
+   "sourceUrl": "repo produkty-media/logo/philips.png",
+   "width": 525,
+   "height": 105,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "rejected": {
+  "9": "IMS = duplikat RTP (ten sam asset vrs_39acbab1)",
+  "10": "BRP logo PRX (logo z repo mediow zamiast)",
+  "12": "FIL DST8050/20 IntelligentAutomaticSteam — INNY MODEL (granatowe zelazko)",
+  "13": "FIL DST8040_HE_TEC2_PDP = ta sama grafika co D3P (k06), dubel wizualny",
+  "14": "FIL DST8040_HE_PDP = ta sama grafika co D1P (k03), dubel wizualny",
+  "20": "FIL DST8020_20 VerticalSteam — INNY MODEL (granatowe zelazko)"
+ }
+}

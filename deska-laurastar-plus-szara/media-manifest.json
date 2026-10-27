@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T10:00:00Z",
+  "sourcePage": "https://www.laurastar.pl/deski-do-prasowania/454-deska-do-prasowania-plus-szara-0790776004967.html",
+  "slug": "deska-laurastar-plus-szara",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-laurastar.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.laurastar.pl/1952/deska-do-prasowania-plus-szara.jpg",
+      "width": 1600,
+      "height": 1409,
+      "bytes": 52326,
+      "sha256": "cb3bc78b4312894df5f7a0a4386e7cb107bade9a659d2aa97407456166832a53",
+      "format": "JPEG",
+      "sourceFormat": "JPEG"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.laurastar.pl/1951/deska-do-prasowania-plus-szara.jpg",
+      "width": 1600,
+      "height": 974,
+      "bytes": 31765,
+      "sha256": "a29ac98989ab61bb203598309132d36aa390df4bd182149f45abbb45f6f33ad6",
+      "format": "JPEG",
+      "sourceFormat": "JPEG"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.laurastar.pl/1954/deska-do-prasowania-plus-szara.jpg",
+      "width": 998,
+      "height": 1600,
+      "bytes": 25489,
+      "sha256": "3b8e1fcddd06f4f38ab3cc75d1a8424099fa8f823b782450731e4692a08770bd",
+      "format": "JPEG",
+      "sourceFormat": "JPEG"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.laurastar.pl/7836/deska-do-prasowania-plus-szara.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 102379,
+      "sha256": "5c15a9f6b53568d17506eaa54319c6da43b8df3f84b3452f1bd5598497f65f10",
+      "format": "JPEG",
+      "sourceFormat": "PNG"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.laurastar.pl/8506/deska-do-prasowania-plus-szara.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 22587,
+      "sha256": "c75c2e756f2f87b25422eb5d86ad2cb8e608415add095a2b06f008e417d44db0",
+      "format": "JPEG",
+      "sourceFormat": "JPEG"
+    },
+    {
+      "file": "logo-laurastar.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-laurastar.jpg",
+      "sourceOrigin": "dropshipping/materiały/logo/laurastar_logo_og.jpg (folder logo Konrada, wiedza/reference_logo_marek.md)",
+      "width": 502,
+      "height": 73,
+      "bytes": 11784,
+      "sha256": "d7658a3389e13d1f90e10d24cf6d4b87df1b7e04e98f4717a316140ad93a3b36",
+      "format": "JPEG"
+    }
+  ],
+  "dropped": 0,
+  "galleryNote": "Wszystkie 5 zdjec z karty laurastar.pl 454 = Plus szara (szary pokrowiec, ciemny stelaz - kolor stelaza tylko ze zdjec, nie wpisywany). Nr 1 = packshot 3/4 na bialym tle (1952), potem 1951 (bok), 1954 (blat z gory), 7836 (widok z gory z podstawa, PNG z paleta -> biale tlo, JPEG q92), 8506 (rysunek wymiarow: ~45 cm, ~153 cm, 55-94 cm, 39x28 cm - zgodny z karta Plus: 153 cm z rozlozona podstawa, 45 cm szerokosc po zlozeniu, podstawa 28 x 39). Logo na koncu."
+}

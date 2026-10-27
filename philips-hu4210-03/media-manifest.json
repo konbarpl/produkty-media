@@ -1,0 +1,198 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-02T12:32:56.290746Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/HU4210_03.assets",
+ "slug": "philips-hu4210-03",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "opis-08.jpg",
+  "opis-09.jpg",
+  "opis-10.jpg",
+  "opis-11.jpg",
+  "logo-producenta.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_af1f0642_7daf_4ecf_9ca709db85cf306a?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "RTP_HU4210_03",
+   "width": 1200,
+   "bytes": 66788,
+   "sha256": "052bdfd7f6c1378a6892838c469851c633ca17a1a71e81347c50b126a040132d"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1fd66407_219d_43ad_a7dd915d1582f9f5?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "D2P_HU4210_03",
+   "width": 1200,
+   "bytes": 42058,
+   "sha256": "47fa9a116983bda87ec10b205868fc4915260fe46fce19b03d8a9a79d582c63a"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7cc432e9_6fff_4185_b85057bccfc72f4a?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "D3P_HU4210_03",
+   "width": 1200,
+   "bytes": 37144,
+   "sha256": "60922ef49ca14cf1c529322080389680ced2fa469bfbfccf92bcce6cfe9a612d"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_11adb855_eef6_41bd_83ed38bd3527ff54?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "D4P_HU4210_03",
+   "width": 1200,
+   "bytes": 49560,
+   "sha256": "f09a159997e00b2dcde09c257a1fedb71deb71836221a14ff6d7c89289468fe5"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0d265b2f_3763_439b_8862e0f51396a9e9?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "D1P_HU4210_03",
+   "width": 1200,
+   "bytes": 50402,
+   "sha256": "8eed28177b05e9a8705aa7f816e948dabf6fa1bb09092f9eb0fca029d6b0b1ec"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_017b16f2_08f8_4280_ad96d71629586ea4?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "A1P_HU4210_03",
+   "width": 1200,
+   "bytes": 92864,
+   "sha256": "b8838a4d2d16722efbce8e4124bd7b21e9ebd059048a2f4fc130598ecd19cc64"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_182d33b5_a5f5_401e_ac2ebad8d0c61e91?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "A2P_HU4210_03",
+   "width": 1200,
+   "bytes": 112734,
+   "sha256": "78b386c8c988627f6bb80cd11b49680608c643db304cd439a554c32acfa0c3d9"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2146804f_0676_4bc5_ae1b4f0a7c4bf4ea?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "D5P_HU4210_03",
+   "width": 1200,
+   "bytes": 84963,
+   "sha256": "8961c3585f69688eef16e685e94a477de31089f291399f297d4dce3b8e12ca05"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_9447aef2_4566_411a_9d680a4a94554210?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "FIL_VRS_DA_PF00167012",
+   "width": 1200,
+   "bytes": 104266,
+   "sha256": "2d8fcd63c71148e18ad7531059643d7b0e9e70fe1c61dc2a40b3b6c334968869"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_538ff6ca_c303_4600_a778453b6775e74e?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "FIL_VRS_DA_PF00167013",
+   "width": 1200,
+   "bytes": 111381,
+   "sha256": "72a07dac2f5f241e097a77e932621f464116283842bc7395f63d640816feb1b2"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e2092c3a_a7f6_4156_9f84a4afa8cd5e66?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "FIL_VRS_DA_PF00167014",
+   "width": 1200,
+   "bytes": 80012,
+   "sha256": "c3e1f832a7e523481bfdda41edbd061f4dca31bc6b7d6d8e636f452eda13e628"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f8b8efb9_ccff_4220_b008d2b6f19a9313?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "FIL_VRS_DA_PF00167016",
+   "width": 1200,
+   "bytes": 103424,
+   "sha256": "6c4023056387ab176c29c9a61de5485278c86454e1e3b5ba7d72059fbfd695ea"
+  },
+  {
+   "file": "opis-08.jpg",
+   "kind": "lifestyle",
+   "order": 13,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_465ed01d_8de8_4a21_9d7960672f352eac?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "FIL_VRS_DA_PF00167017",
+   "width": 1200,
+   "bytes": 79309,
+   "sha256": "aa0bb8b8392b584a3ce8a8822cb5e973c4988a4b85acfdecd014f4e242b805cc"
+  },
+  {
+   "file": "opis-09.jpg",
+   "kind": "lifestyle",
+   "order": 14,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_bcb22ecc_3b17_458d_9c7849e3ec8b70e2?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "FIL_VRS_DA_PF00167019",
+   "width": 1200,
+   "bytes": 70375,
+   "sha256": "2cf7a8095162b2a24a40d079801e13500779b50f43103f60234f7e0526eb8365"
+  },
+  {
+   "file": "opis-10.jpg",
+   "kind": "lifestyle",
+   "order": 15,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_577bbb41_f50e_4bdd_98f670b00020c98d?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "FIL_VRS_DA_PF00167021",
+   "width": 1200,
+   "bytes": 96357,
+   "sha256": "3844ab8e3de6ec6599cc298dd7e02047cb1723543f1cf34da6639f1180165e7e"
+  },
+  {
+   "file": "opis-11.jpg",
+   "kind": "lifestyle",
+   "order": 16,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_31d7a12a_b4c9_4620_ab899e95e52d96fb?wid=1200&hei=1200&fmt=jpg",
+   "prxAsset": "FIL_VRS_DA_PF00167023",
+   "width": 1200,
+   "bytes": 85225,
+   "sha256": "02d82b16f3b1c9a9e739b57b5cc4d697987b0fd39c3131205b91c0393cf499f8"
+  },
+  {
+   "file": "logo-producenta.png",
+   "kind": "logo",
+   "order": 99,
+   "sourceUrl": "repo mediow (dropshipping/produkty listy/produkty-media/oczyszczacz-powietrza-philips-ac0650-10/logo-producenta.png)",
+   "width": 525,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "dropped": 5,
+ "note": "Wszystkie zdjecia z PRX .assets CTN HU4210_03 (ciemny grafitowy egzemplarz, sprawdzone wzrokowo na kontaktowce). Odrzucone: IMS (= RTP, duplikat), FIL015 (A2P z ikona), FIL018 (A1P z ikona), FIL020 (D5P z angielskim napisem Alexa/Google Assistant), FIL022 (ogolna grafika energii — globus)."
+}

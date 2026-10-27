@@ -1,0 +1,239 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T06:49:22.195Z",
+  "sourcePage": "https://webber.com.pl/oczyszczacz-powietrza-webber-ap9700-black-wi-fi,id114.html",
+  "slug": "webber-ap9700-czarny",
+  "galleryOrder": [
+    "produkt-02.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-03.jpg",
+    "produkt-01.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-12.jpg",
+    "opis-16.jpg",
+    "opis-17.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/22_max.jpg",
+      "width": 1200,
+      "bytes": 93121,
+      "sha256": "32bea8dd6ad7f29f630793b9eebb86e513c3540b66584107d3414d9f9e4ad7c0"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/12_max.jpg",
+      "width": 1000,
+      "bytes": 39141,
+      "sha256": "7c8a7f20101f2101a7ba04ebc3cffc6649cb6a114a36dceff087ac79970915bd"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/7_max.jpg",
+      "width": 1000,
+      "bytes": 36747,
+      "sha256": "73b9d9e6dcac15ac2268f9e83569bb4fbbfb6c2de8285e63841668e2b3f09b4c"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/8_max.jpg",
+      "width": 1000,
+      "bytes": 45466,
+      "sha256": "9e6321ad668e2f1cc7cf9f06024f1f6b6aa2cfa436475f6ccb9e7c842888a709"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/10_max.jpg",
+      "width": 1000,
+      "bytes": 33013,
+      "sha256": "6ef76103fd83b46af27e7b5356769958836e36749e214fb02ffc13dd67ad98d3"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/6.jpg",
+      "width": 2003,
+      "bytes": 487174,
+      "sha256": "b6d7575f1e750e33eb164a584fa3e528cfdfdc25eeb46d1eef6ffcd80b11113d"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/7.jpg",
+      "width": 2003,
+      "bytes": 515881,
+      "sha256": "c2d94be2eadef094abeb6dad7d4bfb7fe091388ed96e07da6a489ce9d8971ab3"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/8.jpg",
+      "width": 2003,
+      "bytes": 256715,
+      "sha256": "29f28b576af3195f614f52830ed361ada2d8b1d76c155b358b13472f9a7acb36"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/9.jpg",
+      "width": 2003,
+      "bytes": 793584,
+      "sha256": "af0bf50b2db0a619054fba439e4dc80cced4c2a96369ecb29c185445caf0592d"
+    },
+    {
+      "file": "opis-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/12.jpg",
+      "width": 2003,
+      "bytes": 594994,
+      "sha256": "10487549573cce49c7b4dc4fc9f7ec52cb206935d550889aa996712fe2f49c45"
+    },
+    {
+      "file": "opis-16.jpg",
+      "kind": "lifestyle",
+      "order": 16,
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/16.jpg",
+      "width": 2003,
+      "bytes": 394626,
+      "sha256": "ff80798608e4690a9d22527f923720968f732de372cf062e19dea11b4bd69cde"
+    },
+    {
+      "file": "opis-17.jpg",
+      "kind": "lifestyle",
+      "order": 17,
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/17.jpg",
+      "width": 2003,
+      "bytes": 552856,
+      "sha256": "7b7160aeb8bb9fafbc67990bd43a366d3179a622acced4817d96a108e3b10505"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 1,
+      "sourceUrl": "produkty-media/webber-ap8550/logo-producenta.jpg (kopia; pierwotnie dropshipping/materiały/logo/WEBBER LOGO.jpg)",
+      "width": 396,
+      "height": 99,
+      "bytes": 13037,
+      "sha256": "be47468cb8f048a18e769a4ce68b1eee9adb2745ce8e50fdc577a4a542b2676c"
+    }
+  ],
+  "dropped": [
+    {
+      "file": "produkt-06.jpg",
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/13_max.jpg",
+      "reason": "panel Art of Webber (pokrywa sprzedawana osobno)"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/14_max.jpg",
+      "reason": "panel Art of Webber (pokrywa sprzedawana osobno), nie czarny front"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/15_max.jpg",
+      "reason": "panel Art of Webber (pokrywa sprzedawana osobno), nie czarny front"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/16_max.jpg",
+      "reason": "panel Art of Webber (pokrywa sprzedawana osobno), nie czarny front"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/17_max.jpg",
+      "reason": "panel Art of Webber (pokrywa sprzedawana osobno), nie czarny front"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/18_max.jpg",
+      "reason": "panel Art of Webber (pokrywa sprzedawana osobno), nie czarny front"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/19_max.jpg",
+      "reason": "panel Art of Webber (pokrywa sprzedawana osobno), nie czarny front"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/20_max.jpg",
+      "reason": "panel Art of Webber (pokrywa sprzedawana osobno), nie czarny front"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "sourceUrl": "https://webber.com.pl/img/products/11/4/21_max.jpg",
+      "reason": "panel Art of Webber (pokrywa sprzedawana osobno), nie czarny front"
+    },
+    {
+      "file": "opis-01.jpg",
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/1.jpg",
+      "reason": "plakat Art of Webber z panelem pop-art"
+    },
+    {
+      "file": "opis-02.jpg",
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/2.jpg",
+      "reason": "plakat Art of Webber z panelem pop-art"
+    },
+    {
+      "file": "opis-03.jpg",
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/3.jpg",
+      "reason": "grafika filtrów z plakietką SMOG STOP"
+    },
+    {
+      "file": "opis-04.jpg",
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/4.jpg",
+      "reason": "puste tło bez produktu"
+    },
+    {
+      "file": "opis-05.jpg",
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/5.jpg",
+      "reason": "infografika filtrów z napisem 7 punktów (karta: 8 progów)"
+    },
+    {
+      "file": "opis-10.jpg",
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/10.jpg",
+      "reason": "lifestyle bez urządzenia"
+    },
+    {
+      "file": "opis-11.jpg",
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/11.jpg",
+      "reason": "lifestyle bez urządzenia"
+    },
+    {
+      "file": "opis-13.jpg",
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/13.jpg",
+      "reason": "lifestyle bez urządzenia, napis poniżej 24 dB (karta czarnego wariantu nie podaje hałasu)"
+    },
+    {
+      "file": "opis-14.jpg",
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/14.jpg",
+      "reason": "lifestyle bez urządzenia"
+    },
+    {
+      "file": "opis-15.jpg",
+      "sourceUrl": "https://webber.com.pl/img/Produkty/Ekstra/AP9700-BLACK/nowe/15.jpg",
+      "reason": "plakietka atestu PZH"
+    }
+  ],
+  "curation": "2026-10-08 wykonawca T54 G74: zdjęcie nr 1 = czysty packshot czarnego frontu (produkt-02); odrzucone panele Art of Webber, plakietki i lifestyle bez urządzenia"
+}

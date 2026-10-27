@@ -1,0 +1,122 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:01:26.158746Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/NA341_00.assets (PRX API, CTN NA341/00)",
+ "slug": "air-fryer-philips-ovi-na341-00",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f6b0b5c7_83a3_4c8c_8f3c1dbbcf318530?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 110832,
+   "sha256": "dd2b8f24386756802d2dd8024528c560091a1279f6ecf1bbf2f582dc3a4d9556",
+   "type": "RTP",
+   "desc": "Standardowe zdjęcie produktu"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6dc37e51_4df0_46d2_abe8e01b6f0079b7?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 132668,
+   "sha256": "5dddda40fbee4e0b159f94662f8a39de28b734ad83528220ba5cd90fb85e94c6",
+   "type": "FIL",
+   "desc": ""
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5b956f3c_315b_469f_8fc06a2f0913a8c8?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 124716,
+   "sha256": "6c7d8e499c10f55662bc33e4186a509448e4f90c1f56e4f6b396428bf1b12eb3",
+   "type": "FIL",
+   "desc": ""
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f1e92620_4cf3_4f79_be8ab31a93b4dc9a?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 121879,
+   "sha256": "6e618684860883cb5a9cff073bdf26d065ff0cae5fa43e22303a794ceb8802cb",
+   "type": "FIL",
+   "desc": ""
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8320059d_2618_47b9_a7fb4d4a86033459?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 117507,
+   "sha256": "7a5acce7736c819381366745b5018b59149b9812453614ee9fc71e4b520bca7a",
+   "type": "FIL",
+   "desc": ""
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8252e94a_0bb6_4ccc_8ecb72f5b7a4223f?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 266589,
+   "sha256": "90639c2b78b3dc49f67cfe4c71ebad737e59b630f0e18f59fedf17061a6f3ac4",
+   "type": "FIL",
+   "desc": ""
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f63c9207_f94a_488e_a406297489529754?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 130843,
+   "sha256": "e184ec7d0a019b43a1af2ed3cce74ae40a092201e33b5e067383b3cf5d2d58ba",
+   "type": "FIL",
+   "desc": ""
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 8,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-na462-80/logo-philips.png",
+   "width": 525,
+   "height": 105,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "rejected": {
+  "4": "IMS = pikselowy duplikat RTP (k01)",
+  "2": "U1P - ten sam kadr co FIL k07 (okienko) bez ikony - duplikat wizualny",
+  "3": "U2P - ten sam kadr co FIL k12 (7.2L) bez ikony - duplikat wizualny",
+  "5": "BRP logo PRX (logo z repo mediow zamiast)",
+  "8": "FIL krojenie piersi kurczaka - zdjecie ogolne bez urzadzenia",
+  "13": "FIL plik KA_2024_NA321_00_F2_digital_UI - nazwa pliku wskazuje INNY model NA321/00 - odrzucone bramka tozsamosci",
+  "14": "FIL kula ziemska (oszczednosc energii) - zdjecie ogolne bez urzadzenia",
+  "15": "FIL zmywarka - zdjecie ogolne bez urzadzenia"
+ }
+}

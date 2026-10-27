@@ -1,0 +1,167 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:53:24.807717Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-xiaom-smart-6-5l-czarna (karta zastepcza za euro.com.pl; galeria ME id 6080844 gallery_1000_1000 + zdjecia opisu storage_app_opisy2_xiaomi_627892)",
+ "slug": "air-fryer-xiaomi-mi-smart-air-fryer-6-5-l",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "logo-xiaomi.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/60/6080844/Frytkownica-beztluszczowa-XIAOMI-Mi-Smart-MAF10-Air-Fryer-Czarny-front.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 65212,
+   "sha256": "158a13f95983720f0ec20a512338fc5fa5b4d29a39a32624a3c9bd757e1d75fd"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/60/6080844/Frytkownica-beztluszczowa-XIAOMI-Mi-Smart-MAF10-Air-Fryer-Czarny-front-wprost-smartfon.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 67404,
+   "sha256": "f298cf38f035b8fbaa12ce1c5574bb854bdbaf6d3c5744c16ce35cf697b61c78"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/60/6080844/Frytkownica-beztluszczowa-XIAOMI-Mi-Smart-MAF10-Air-Fryer-Czarny-lewy-skos.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 66224,
+   "sha256": "dc05ac7e8fd1586f3d8990f0520a5832e5698937a3c58ce7c6c90dcc41f8a184"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/60/6080844/Frytkownica-beztluszczowa-XIAOMI-Mi-Smart-MAF10-Air-Fryer-Czarny-otwarta-szuflada.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 76739,
+   "sha256": "6ccf2f9214e5c58734420c762365728d21f5d7f2a7d6728f559594f96c43c7ce"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/60/6080844/Frytkownica-beztluszczowa-XIAOMI-Mi-Smart-MAF10-Air-Fryer-Czarny-lewy-bok.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 52695,
+   "sha256": "4dd5c4c1a6b26715c50ac3d150b5530873b6aba1be323f3c9aca0662a3494407"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/60/6080844/Frytkownica-beztluszczowa-XIAOMI-Mi-Smart-MAF10-Air-Fryer-Czarny-prawy-bok.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 52990,
+   "sha256": "330185902dcfdbfb9be4f4cd1c606c9f4dba4f3a837d905dac23fc0c7f6d1e8c"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/60/6080844/Frytkownica-beztluszczowa-XIAOMI-Mi-Smart-MAF10-Air-Fryer-Czarny-tyl.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 64609,
+   "sha256": "731880a5ff4f2a6c4fbfedf7718567ebb158aea5a398a021c0a6192db7c65128"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/60/6080844/Frytkownica-beztluszczowa-XIAOMI-Mi-Smart-MAF10-Air-Fryer-Czarny-od-gory.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 35107,
+   "sha256": "8d6f2ab96d6e5376b33813612c6a7332e618b54ab08ca168c9b40b3f25179ee2"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/60/6080844/Frytkownica-beztluszczowa-XIAOMI-Mi-Smart-MAF10-Air-Fryer-Czarny-wnetrze.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 148839,
+   "sha256": "a78fe76347840a463f78346761cb160096c0cd735262bc3736545cfd78b7b842"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/60/6080844/Frytkownica-beztluszczowa-XIAOMI-Mi-Smart-MAF10-Air-Fryer-Czarny-lifestyle-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 126853,
+   "sha256": "54edc5c2cdcd89ed8a853fd0489623f09b494fe9c5bd15019be4c1ba79a8b426"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 11,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/60/6080844/Frytkownica-beztluszczowa-XIAOMI-Mi-Smart-MAF10-Air-Fryer-Czarny-lifestyle-4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 61874,
+   "sha256": "188eaa1ac0abdbb2f235549e24f1326c6d1e2855496a7b7a26885eb307feaa0b"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "description",
+   "order": 12,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/60/6080844/Frytkownica-beztluszczowa-XIAOMI-Mi-Smart-MAF10-Air-Fryer-Czarny-lifestyle-6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 92620,
+   "sha256": "18a605dbb21a2e6350df1072a33e11267836e8855c7910a155ee34d8c611ab13"
+  },
+  {
+   "file": "logo-xiaomi.png",
+   "kind": "logo",
+   "order": 13,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-xiaomi.png",
+   "width": 960,
+   "height": 256,
+   "bytes": 18651,
+   "sha256": "9cb8941a96b4520c9e5c36cbccd68d37f5dd64a1022147e1edf1a7bcb159c11b"
+  }
+ ],
+ "rejected": {
+  "8": "g-spod: widok spodu, bez wartosci",
+  "12": "g-lifestyle-2: bialy i czarny wariant obok siebie",
+  "13": "g-lifestyle-3: bialy wariant na pierwszym planie",
+  "15": "g-lifestyle-5: bialy i czarny obok siebie",
+  "17": "o0: bialy wariant + czarny",
+  "18": "o1: przekroj bialego wariantu",
+  "19": "o2: ta sama grafika obiegu powietrza co g-lifestyle-6",
+  "20": "o3: bialy wariant",
+  "21": "o4: bialy wariant",
+  "22": "o5: bialy wariant",
+  "23": "o6: bialy wariant w tle",
+  "24": "o7: bialy wariant + aplikacja"
+ }
+}

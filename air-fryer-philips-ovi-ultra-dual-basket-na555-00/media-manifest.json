@@ -1,0 +1,115 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:44:04.057930Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/NA555_00.assets (PRX API, CTN NA555/00)",
+ "slug": "air-fryer-philips-ovi-ultra-dual-basket-na555-00",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f301ba62_4c1a_4d86_8066fa8fe0a35e9f?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 102169,
+   "sha256": "d3eb1769860408b4006aabd5e79c6644b2cea934b11528fcabf2e973331ed845",
+   "type": "RTP",
+   "desc": "Kitchen Appliances_2025_NA555/00_Amazon A+ (AMZ-Ecommerce)_Polish (Poland)"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3cd937ed_07de_4769_847188ae2cf00a86?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 118834,
+   "sha256": "e5ce8bb17c24bd715f0500863c088b23bbae76741742a8ab3a0a935bcba06c7b",
+   "type": "_FP",
+   "desc": "Airfryer, air fryer, dual basket, steam, RapidAir Plus, 5000 Series, NA555, NA555_00, NA555/00, NA555_09, NA555/09, stainless steel​"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_42eee94e_458c_4901_8a2951a4df78add6?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 128971,
+   "sha256": "0427c6dcbd5168cfc5b7054ac8ccf9876b5cf08635229445ecff44d5c35c1578",
+   "type": "MI1",
+   "desc": "Airfryer, air fryer, dual basket, steam, RapidAir Plus, 5000 Series, NA555, NA555_00, NA555/00, NA555_09, NA555/09, stainless steel​"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8f20a337_ccc3_4e8c_a476094591a54b11?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 212165,
+   "sha256": "4466e370b195da73a6be51e031fe76a16c1744075add1c08f1fb6b257f4401d7",
+   "type": "A1P",
+   "desc": "Kitchen Appliances_2025_NA555/00_Amazon A+ (AMZ-Ecommerce)_Polish (Poland)"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7dd31874_fe01_496c_bb1235bc39e9ea73?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 248407,
+   "sha256": "7ab8f64a0dac50f62476596bc5c7c3491c2112d561b4a32869b907abf8b8e51f",
+   "type": "FIL",
+   "desc": ""
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ccf7a817_46cc_4bbd_94ba6f2aa9e0171e?wid=1200&hei=1200&fmt=jpg",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 130843,
+   "sha256": "e184ec7d0a019b43a1af2ed3cce74ae40a092201e33b5e067383b3cf5d2d58ba",
+   "type": "FIL",
+   "desc": "Single pot"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 7,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-na462-80/logo-philips.png",
+   "width": 525,
+   "height": 105,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "rejected": {
+  "4": "A2P Amazon A+ czyszczenie para - widoczny CZARNY korpus i uchwyt (inny wariant kolorystyczny)",
+  "6": "IMS = pikselowy duplikat RTP (k01)",
+  "7": "BRP logo PRX (logo z repo mediow zamiast)",
+  "8": "FIL z CZARNYM korpusem/uchwytem - inny wariant kolorystyczny serii (NA555/00 = srebrna stal szlachetna), odrzucone wg zasady kolor = karta",
+  "9": "FIL z CZARNYM korpusem/uchwytem - inny wariant kolorystyczny serii (NA555/00 = srebrna stal szlachetna), odrzucone wg zasady kolor = karta",
+  "10": "FIL z CZARNYM korpusem/uchwytem - inny wariant kolorystyczny serii (NA555/00 = srebrna stal szlachetna), odrzucone wg zasady kolor = karta",
+  "11": "FIL z CZARNYM korpusem/uchwytem - inny wariant kolorystyczny serii (NA555/00 = srebrna stal szlachetna), odrzucone wg zasady kolor = karta",
+  "12": "FIL z CZARNYM korpusem/uchwytem - inny wariant kolorystyczny serii (NA555/00 = srebrna stal szlachetna), odrzucone wg zasady kolor = karta",
+  "14": "FIL z CZARNYM korpusem/uchwytem - inny wariant kolorystyczny serii (NA555/00 = srebrna stal szlachetna), odrzucone wg zasady kolor = karta",
+  "15": "FIL z CZARNYM korpusem/uchwytem - inny wariant kolorystyczny serii (NA555/00 = srebrna stal szlachetna), odrzucone wg zasady kolor = karta",
+  "16": "FIL z CZARNYM korpusem/uchwytem - inny wariant kolorystyczny serii (NA555/00 = srebrna stal szlachetna), odrzucone wg zasady kolor = karta",
+  "17": "FIL z CZARNYM korpusem/uchwytem - inny wariant kolorystyczny serii (NA555/00 = srebrna stal szlachetna), odrzucone wg zasady kolor = karta",
+  "18": "FIL z CZARNYM korpusem/uchwytem - inny wariant kolorystyczny serii (NA555/00 = srebrna stal szlachetna), odrzucone wg zasady kolor = karta",
+  "20": "FIL zblizenie panelu na czarnym tle - nie da sie potwierdzic wariantu (seria z czarnym korpusem), odrzucone ostroznie"
+ }
+}

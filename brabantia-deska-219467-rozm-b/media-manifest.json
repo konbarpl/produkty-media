@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T06:05:18.571Z",
+  "sourcePage": "https://www.brodasystem.pl/brabantia-deska-do-prasowania-podstawa-na-generator-pary-rozmiar-b-fresh-breeze.html",
+  "slug": "brabantia-deska-219467-rozm-b",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.png",
+    "produkt-03.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3f2875a20c82853481d891b574db4a55/images/brabantia-deska-do-prasowania-rozmiar-b-21-94-67-glowne.jpg",
+      "width": 1000,
+      "bytes": 54206,
+      "sha256": "54c5b62d9ffa345f5c6bcbbed77904aea7ec14e003d8f588b306a72c0032204e",
+      "height": 1000
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3f2875a20c82853481d891b574db4a55/images/brabantia-deska-do-prasowania-rozmiar-b-21-94-67-wyglad.PNG",
+      "width": 1000,
+      "bytes": 190023,
+      "sha256": "e860474f7d03ee72a8c1f5f8d9a2e8c82c093caad7abec9af57a122cb74fae7e",
+      "height": 1000
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/3f2875a20c82853481d891b574db4a55/images/brabantia-deska-do-prasowania-rozmiar-b-21-94-67-wymiary.jpg",
+      "width": 1000,
+      "bytes": 38439,
+      "sha256": "c15fe44ec96fe43bb2701af73be5dc0d199c8763d96acb583882a0af81e3be9a",
+      "height": 1000
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "repo mediów dropshipping/produkty listy/produkty-media/_logo/logo-brabantia.jpg (logo marki Brabantia)",
+      "width": 590,
+      "height": 96,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ],
+  "dropped": 0,
+  "note": "T54 GRUPA 70 P11 ETAP 1 (2026-10-08): 3 zdjęcia z galerii brodasystem.pl (oryginały /images/, kolejność data-src big_*; nazwy plików z kodem 21-94-67), zweryfikowane wzrokowo jako deska 219467 Fresh Breeze z podstawą na generator pary; produkt-01 packshot z przodu na białym tle, 02 packshot w perspektywie (PNG, białe tło), 03 rysunek wymiarów 124x38 cm i 75-98 cm (zgodny z kartą). Logo na końcu."
+}

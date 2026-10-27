@@ -1,0 +1,112 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:25:30.103037Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-frytkownica-beztluszczowa-tefal-ey7528e0-easy-fry-stack-10l-z-podwojnym-koszem (galeria ME id 12464819, gallery_1000_1000)",
+ "slug": "air-fryer-tefal-easy-fry-crispy-stack-ey7528",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12464819/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-EY7528E0-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 76623,
+   "sha256": "1c1915466b4dce8e773448bce05f122bd54cef2b1596ae649e6fe307872fcbac"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12464819/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-EY7528E0-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 78599,
+   "sha256": "84c0d868198648a2b2bbd265dd256eeafe7032c5933fafbd3ccd56cd7e957859"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12464819/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-EY7528E0-Lifestyle-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 88882,
+   "sha256": "87f90bd6d95d299ecf999eebee2e47628d7e6b493038c6a238924d0a9f03df3b"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12464819/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-EY7528E0-Lifestyle-4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 160087,
+   "sha256": "6020ce4e9412f8b57faafdf91f2a6cb788492685e2eb445f0fade238ca863290"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12464819/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-EY7528E0-Lifestyle-3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 119665,
+   "sha256": "f6a18a9c015684f6293df7089e9f3b1c3d69e791838aa6b3da383d9f08052414"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12464819/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-EY7528E0-Lifestyle-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 126648,
+   "sha256": "6a9352f7073e44fece3bdb542b6550375342fd3dac5d937a8ff80ff1d9f7ee37"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12464819/TEFAL-EY7528-Front.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 117968,
+   "sha256": "39ffe9644c194e7d7cc32cd9d37030163c00577eab4ade00bcca3585e5f90efd"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/12/12464819/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-EY7528E0-Lifestyle-5.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 135095,
+   "sha256": "e3c23a5009f175a84e9384adee7b162afda743a545177a9134004b5907073282"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 9,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "rejected": {
+  "brak": "galeria ME ma 8 zdjec, wszystkie tego kodu (nazwy plikow TEFAL-EY7528 / TEFAL-EY7528E0) i tego koloru (czarny); k01-ME (front z grafika telefonu myTefal) przesuniety na pozycje 7, bo zdjecie 1 ma byc czystym packshotem"
+ }
+}

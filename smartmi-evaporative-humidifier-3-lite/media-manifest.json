@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T13:35:37.778196Z",
+  "sourcePage": "https://eu.smartmiglobal.com/pages/smartmi-evaporative-humidifier-3lite",
+  "slug": "smartmi-evaporative-humidifier-3-lite",
+  "note": "Zdjecia ze strony producenta (Smartmi EU). Wykluczone: miniatury menu innych produktow (oczyszczacze, wentylatory, filtry, Humidifier 3), obraz 01.png (niejednoznaczny schemat), duplikaty mobile/desktop.",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/1_a2fb9245-b428-4c3b-8f9f-41bceab799f5.png",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 93101,
+      "sha256": "4d960dfd024791fb497906ea8d0498b7bc23b96966bb66b3f875996cc8339829"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/19_6271f739-3dbe-4d21-9208-b46f20158202.png",
+      "width": 1439,
+      "height": 1202,
+      "bytes": 265350,
+      "sha256": "19b6d62e30840a6ed1ecc8c5dc1aa41ddff15adadc6f7570fe576487eb619645"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/2-7.jpg",
+      "width": 1019,
+      "height": 850,
+      "bytes": 72016,
+      "sha256": "4941bcfceb7cbb25b4b78e7c0263d8ce45294a9469a8c67a361a681f0d2cdb3c"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/2-2.jpg",
+      "width": 1019,
+      "height": 850,
+      "bytes": 80670,
+      "sha256": "fa2c2d100f4ce318755d539a0bc4991c95fc9d6ab5188dc041cff3755d282bb7"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/17_3115965e-2072-4f81-afef-e51b8ac94a59.png",
+      "width": 1439,
+      "height": 1202,
+      "bytes": 165310,
+      "sha256": "a171917159bc3352d2339101599b1f4c43cb2873e113497585f396ca3879c347"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/18_ac2e2db0-f360-4b4d-a742-ff9ebc952175.png",
+      "width": 1439,
+      "height": 1202,
+      "bytes": 199158,
+      "sha256": "4c489a419af8af28eaf667ccaefd6b67ed50b0612452d36311d6da4c63e2c298"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "order": 7,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/1_5fda290f-4826-40a0-8ffa-2b415ff43e71.png",
+      "width": 1600,
+      "height": 750,
+      "bytes": 94805,
+      "sha256": "7572955934767ed682d3f5547d4cdd7c46f68467f0aa785e57788e04b00c8c77"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "order": 8,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/10_087b096a-6723-4552-b800-8b13a9a32d19.png",
+      "width": 960,
+      "height": 921,
+      "bytes": 175608,
+      "sha256": "44f657a63e228a184c667f7db328d062ff5b20bb87d4418dcbb8557063ceef95"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "order": 9,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/10_219e047c-13f3-45ac-b367-5964563a2164.png",
+      "width": 1600,
+      "height": 946,
+      "bytes": 201396,
+      "sha256": "b5b5d1e5285e5e0dd53c8e6b52e5bab2dd6b454c9a9d6d409f14780804a181a9"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "description",
+      "order": 10,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/13_a8b60760-93f7-4bcb-a235-075a0df779a3.png",
+      "width": 1439,
+      "height": 1202,
+      "bytes": 151083,
+      "sha256": "716cc047c078380c3883c2adf6ae574617ab0a60333545d6909c4d5478ac8c73"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "description",
+      "order": 11,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/20241015-181238.png",
+      "width": 1600,
+      "height": 946,
+      "bytes": 213009,
+      "sha256": "546a89a6609f4435ff3c940a0e06a72fdb07d8474a816ba7a132ac52e262a3ad"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "description",
+      "order": 12,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/2-9.jpg",
+      "width": 1019,
+      "height": 850,
+      "bytes": 76623,
+      "sha256": "932ef5ddd3951e86286a145de30be49728e6278da648ecae396d3ceea885af41"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "description",
+      "order": 13,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/2-6.jpg",
+      "width": 1019,
+      "height": 850,
+      "bytes": 148551,
+      "sha256": "0bcc9a5d660e6eb1eacfecfc6ead524f624d85091c0928860a82239f74241cfa"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "description",
+      "order": 14,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/3_40f52dfc-e207-4f0b-8eb2-de649c6ec915.png",
+      "width": 1600,
+      "height": 839,
+      "bytes": 280022,
+      "sha256": "1bffdf940ed2d371b9cdf764aca6688ae22ac0002f5404bd296651bbd4c1bb4f"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "description",
+      "order": 15,
+      "sourceUrl": "https://eu.smartmiglobal.com/cdn/shop/files/20_81e20f8c-0d75-43b3-86cd-6ce94d42e5cf.png",
+      "width": 1399,
+      "height": 1351,
+      "bytes": 206848,
+      "sha256": "dccec1bb8ae1f83344db51c5adee4b1fef927618daca51020af4fb2deb865374"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 16,
+      "sourceUrl": "_logo/logo-smartmi.jpg (kopia logo z katalogu smartmi-evaporative-humidifier-3, wykonawca równoległy G67)",
+      "width": 800,
+      "height": 300,
+      "bytes": 15361,
+      "sha256": "7f4f45bd3ee8eac4c1d24fcbccea1ce53db8ef6b63432bb62b0c45df572b0930"
+    }
+  ]
+}

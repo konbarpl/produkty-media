@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T13:32:23.603Z",
+  "sourcePage": "https://levoit.pl/produkt/nawilzacz-powietrza-levoit-oasismist-1000s/",
+  "slug": "levoit-oasismist-1000s",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.png",
+    "produkt-03.png",
+    "produkt-04.png",
+    "produkt-05.png",
+    "produkt-06.png",
+    "produkt-07.png",
+    "opis-01.png",
+    "opis-02.png",
+    "opis-03.png",
+    "opis-04.png",
+    "opis-05.png",
+    "opis-06.png",
+    "opis-07.png",
+    "opis-08.png",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Nawilzacz-powietrza-Levoit-OasisMist-1000S-810123670260-galeria-1-002.jpg",
+      "width": 783,
+      "bytes": 56539,
+      "sha256": "fed2acc0e490929256be91c453b34a9b81647c99e1b65d60fe07df3893c5c192",
+      "height": 787
+    },
+    {
+      "file": "produkt-02.png",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Nawilzacz-powietrza-Levoit-OasisMist-1000S-810123670260-galeria-4-002.png",
+      "width": 992,
+      "bytes": 101419,
+      "sha256": "52efb9cff0f2cd4071b7a79a99e2d921d1840aebe7f22d8a6d731bc2e7804ead",
+      "height": 992
+    },
+    {
+      "file": "produkt-03.png",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Nawilzacz-powietrza-Levoit-OasisMist-1000S-810123670260-galeria-5.png",
+      "width": 992,
+      "bytes": 98441,
+      "sha256": "a3fcbbc66f40e850dcf2fff72912a4c288912d26188e2ece540a25ad34a5c35d",
+      "height": 992
+    },
+    {
+      "file": "produkt-04.png",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Nawilzacz-powietrza-Levoit-OasisMist-1000S-810123670260-galeria-3.png",
+      "width": 992,
+      "bytes": 254087,
+      "sha256": "b54704cf0862d66ce9f56e2a84d7ee057d98d88a1e473c3b5e58c233e0e77584",
+      "height": 992
+    },
+    {
+      "file": "produkt-05.png",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Nawilzacz-powietrza-Levoit-OasisMist-1000S-810123670260-galeria-7.png",
+      "width": 992,
+      "bytes": 235521,
+      "sha256": "c758fb63f23ed40f29be9ae47c6b82ad5ebe92af4097345455a7d04885d35447",
+      "height": 992
+    },
+    {
+      "file": "produkt-06.png",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Nawilzacz-powietrza-Levoit-OasisMist-1000S-810123670260-galeria-6.png",
+      "width": 992,
+      "bytes": 258380,
+      "sha256": "f48e43e8e421812c2cbd0e5c54d26b56216f8ab20167cc7958b8c81261342d88",
+      "height": 992
+    },
+    {
+      "file": "produkt-07.png",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Nawilzacz-powietrza-Levoit-OasisMist-1000S-810123670260-galeria-8.png",
+      "width": 992,
+      "bytes": 173850,
+      "sha256": "dde8e7eca0eb62cfd0ad5c8cccd101f58cd91b1d86adc8038277730f161d3bd7",
+      "height": 992
+    },
+    {
+      "file": "opis-01.png",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/7.png",
+      "width": 1774,
+      "bytes": 2230079,
+      "sha256": "c9a917988ce1e004f5701e356e0265f1e879d19ead8a97d8529d0b11548c0dd6",
+      "height": 887
+    },
+    {
+      "file": "opis-02.png",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/11.png",
+      "width": 1254,
+      "bytes": 2445213,
+      "sha256": "864232042c6d97aa6a350f2271c59b11204086d6ebbb092b96a4644bc9cc982f",
+      "height": 1254
+    },
+    {
+      "file": "opis-03.png",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/4.png",
+      "width": 1774,
+      "bytes": 2251553,
+      "sha256": "a1204a11282071e2ed371043032bc02e1ee7367849d1c259b69152a4b3b58269",
+      "height": 887
+    },
+    {
+      "file": "opis-04.png",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/10.png",
+      "width": 1774,
+      "bytes": 1744517,
+      "sha256": "a16d58feeae2de5555f2bf9268bc5526ba992488aa26ca80c057be1f186a0f77",
+      "height": 887
+    },
+    {
+      "file": "opis-05.png",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/12.png",
+      "width": 1774,
+      "bytes": 2168636,
+      "sha256": "5059883365c26efd5bd019bcd780e40565a1858babb54244e401598c143ad070",
+      "height": 887
+    },
+    {
+      "file": "opis-06.png",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/2.png",
+      "width": 1774,
+      "bytes": 2486280,
+      "sha256": "42da88409f59368b44c15b492943243e3735ebcc6130a47351627c53992eb629",
+      "height": 887
+    },
+    {
+      "file": "opis-07.png",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/6.png",
+      "width": 1774,
+      "bytes": 2136020,
+      "sha256": "b609464cc765e200ec135b29c9664c62beec92a51ba3e7cfc932dbe1949e8ba7",
+      "height": 887
+    },
+    {
+      "file": "opis-08.png",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/9.png",
+      "width": 1774,
+      "bytes": 2227401,
+      "sha256": "c45cdaa232d2700e02e07f9653d1f558f8aa7de914bca910f6a4081fbca7e9b4",
+      "height": 887
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 16,
+      "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/levoit-official-logo.svg (render -> _logo/logo-levoit.jpg)",
+      "width": 1100,
+      "height": 489,
+      "bytes": 31791,
+      "sha256": "d17323eb004618e8cc2983df199a2734715df9b11e84a771a07bd5e3da53373c"
+    }
+  ],
+  "dropped": 0
+}

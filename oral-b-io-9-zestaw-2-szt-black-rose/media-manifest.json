@@ -1,0 +1,87 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:42:13.508Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie/szczoteczki-elektryczne/szczoteczka-magnetyczna-oral-b-io-9-2-sztuki (galeria ME, id 3600241, gallery_1000_1000)",
+ "slug": "oral-b-io-9-zestaw-2-szt-black-rose",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "logo-oral-b.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/36/3600241/Szczoteczka-magnetyczna-ORAL-B-iO-9-2-sztuki-zestaw-maly.jpg",
+   "width": 1000,
+   "bytes": 52056,
+   "sha256": "cf69d25530fcc915b23dd065e7280068df475c8ca1cd03c6b8edff3d206ddbc9"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/36/3600241/Szczoteczka-magnetyczna-ORAL-B-iO-9-2-sztuki-zestaw-opakowanie.jpg",
+   "width": 1000,
+   "bytes": 89901,
+   "sha256": "f5b9b3273417546497aa78bc2d7700bfc183543276eb685f13601101477b4c2f"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/36/3600241/Szczoteczka-magnetyczna-ORAL-B-iO-9-2-sztuki-zestaw-smartfon-wersja-1.jpg",
+   "width": 1000,
+   "bytes": 119298,
+   "sha256": "d2f791f77f3c45b3f8934d961c3ce77eb92c110c9cf6b308321b717aa51db123"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/36/3600241/Szczoteczka-magnetyczna-ORAL-B-iO-9-2-sztuki-opakowanie-front.jpg",
+   "width": 1000,
+   "bytes": 109146,
+   "sha256": "d53cd947fb12cfa652012a970a61a8a748b3eb1de9c016aa8af9ad9a4f564311"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/36/3600241/Szczoteczka-magnetyczna-ORAL-B-iO-9-2-sztuki-opakowanie-front-gora.jpg",
+   "width": 1000,
+   "bytes": 109945,
+   "sha256": "24b2c6967ea902d10a24bb7e489d3d99cee982613d7c325637d8737d8b08b8f3"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/36/3600241/Szczoteczka-magnetyczna-ORAL-B-iO-9-2-sztuki-lifestyle-1.jpg",
+   "width": 1000,
+   "bytes": 137077,
+   "sha256": "61045084d5c4bb910c1d2c30214c82469765441dcfd3b7447552f347883b6588"
+  },
+  {
+   "file": "logo-oral-b.png",
+   "kind": "logo",
+   "order": 7,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-oral-b.png (z dropshipping/materialy/logo/640px-Oral-B_logo.svg.png, Wikimedia Commons, na bialym tle)",
+   "width": 720,
+   "height": 273,
+   "bytes": 17867,
+   "sha256": "ab88c17ab2f1bbd8cab46cae51c498ab8beb77c11b975da85d1eaddd77a6fcc3"
+  }
+ ],
+ "dropped": 0,
+ "rejected": {
+  "k07 lifestyle-2": "kolaz funkcji serii iO z porownaniem do innego modelu (2x cichsza niz Oral-B Pro) — regula: odrzucaj porownania modeli",
+  "k08 lifestyle-3": "porownanie modeli Oral-B Sonic vs Oral-B iO"
+ },
+ "kolejnosc": "produkt-01=k03 zestaw-maly (packshot kompletu na bialym tle: 2 raczki, stacja, etui, pojemnik), 02=k02 zestaw z pudelkiem iO Series 9 Duo, 03=k01 zestaw ze smartfonem (smartfon NIE w zestawie), 04=k04 opakowanie front (BLACK ONYX + EXTRA HANDLE, INSIDE), 05=k05 opakowanie 3D, 06=k06 czujnik nacisku (czarne raczki)"
+}

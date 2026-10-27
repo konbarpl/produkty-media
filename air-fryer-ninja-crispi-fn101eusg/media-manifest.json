@@ -1,0 +1,183 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:03:28.159921Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-frytkownica-beztluszczowa-ninja-fn101eusg-crispi-1700w (galeria ME FN101EUSG, kolor zgodny z packshotem producenta) + assety producenta FN101EUSG (sharkninja)",
+ "slug": "air-fryer-ninja-crispi-fn101eusg",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "produkt-14.jpg",
+  "logo-ninja.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/SharkNinja-EU/FN101EUSG_01.jpg",
+   "width": 2070,
+   "height": 2070,
+   "bytes": 414897,
+   "sha256": "5f215addfb73380ddd0a920e7c1e6e2721950eef2fa32ab0d185a80b1e93eb95"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/80/8058627/Air-fryer-Frytkownica-beztluszczowa-NINJA-Crispi-FN101EUSG-1700W-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 119922,
+   "sha256": "23760d8f5fd7c3f4b196067d0741a8d0c0c00f2a520e899c7eb8fed8f6e31f1b"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/80/8058627/Air-fryer-Frytkownica-beztluszczowa-NINJA-Crispi-FN101EUSG-1700W-4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 120766,
+   "sha256": "43ff4de412f28296320a07dea79b9f56f59301d693f6688da679f932aaa1f5d9"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/80/8058627/Air-fryer-Frytkownica-beztluszczowa-NINJA-Crispi-FN101EUSG-1700W-5.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 115771,
+   "sha256": "2794618236ae4da7a0e808fc773f43a111d1e5785c7bcace0568405232f4e1c6"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/80/8058627/Air-fryer-Frytkownica-beztluszczowa-NINJA-Crispi-FN101EUSG-1700W-6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 83364,
+   "sha256": "bd7a4b1f40f0565740fe32440a0ea315d993a78015ef8d8b55ddc799ba39f489"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/80/8058627/Air-fryer-Frytkownica-beztluszczowa-NINJA-Crispi-FN101EUSG-1700W-7.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 73085,
+   "sha256": "d4d9d4c9ab05b4bd7e8c1abf24d51fc405b2e2192d06e6dfddbcccedade8d24c"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/80/8058627/Air-fryer-Frytkownica-beztluszczowa-NINJA-Crispi-FN101EUSG-1700W-8.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 56053,
+   "sha256": "bc5223d3b30674037c0d8a1afbc577bc7734b46575949a90f1fb5fe40c8dd0f6"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUSG/FN101EUSG_gallery_pl-PL_02.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 259648,
+   "sha256": "fb4799b1d92614540c7d25df1f311647669dc21be19766cced341c5aa103e50a"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUSG/FN101EUSG_gallery_pl-PL_04.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 342404,
+   "sha256": "d5825c881aae55a1f044d55476359094a846d5ae251ee2604b1967ef4efa4fea"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUSG/FN101EUSG_gallery_pl-PL_05.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 303225,
+   "sha256": "d9ab16448bd7deb30e5bd996420bf32ab3bf0c660e0f5f669e9fbd68a3a0853b"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUSG/FN101EUSG_gallery_pl-PL_07.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 525932,
+   "sha256": "7cfbc157e8336d4178d88bc3eb0dffa9faafefc58195859c6e850c4e1e116f1c"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUSG/FN101EUSG_gallery_pl-PL_06.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 324058,
+   "sha256": "ce8eb7f86e58f4e8b396074752b4e171a97e1ab91d73feaea747ce9c19fb7d53"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUSG/FN101EUSG_gallery_pl-PL_03.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 217631,
+   "sha256": "0353809ae534248104cf0ea779ee00c09ccd1de0460528e8c0648fe971624327"
+  },
+  {
+   "file": "produkt-14.jpg",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/FN101EUSG/FN101EUSG_gallery_pl-PL_13.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 263632,
+   "sha256": "37dbb32705e51daebb95be812f749dc7a5835123cf4772c2a4a0e91ed0bdcc79"
+  },
+  {
+   "file": "logo-ninja.jpg",
+   "kind": "logo",
+   "order": 15,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/ninja-fn101eugy/logo-ninja.jpg",
+   "width": 1008,
+   "height": 470,
+   "bytes": 49308,
+   "sha256": "6582c0ad0f51c41f1fd3814dcece75134baf029470d8fa8eaab2b86dfecb729e"
+  }
+ ],
+ "rejected": {
+  "k02-ME, k03-ME": "ten sam packshot co k23-SN (producent FN101EUSG_01) w nizszej rozdzielczosci — duplikat",
+  "k09..k22-ME": "banery opisowe Media Expert (panorama na bialym kwadracie) — te same plansze sa u producenta w formacie kwadratowym (SNPL)",
+  "k38-SNPL, k39-SNPL, k40-SNPL, k42-SNPL, k45-SNPL": "plansze dobre tematycznie, pominiete dla dlugosci galerii (14 zdjec + logo); do uzycia w ETAPIE 2 przez skrypt opisow, jesli potrzebne",
+  "k41-SNPL": "PowerPod na planszy w ciemnym odcieniu — watpliwy kolor wariantu (bramka koloru)",
+  "k44-SNPL": "plansza „Zobacz wiecej kolorow” — trzy warianty kolorystyczne na jednym zdjeciu",
+  "k46-SNPL": "ogolna ikona zarowki (energia) bez produktu"
+ }
+}

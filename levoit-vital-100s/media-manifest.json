@@ -1,0 +1,177 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T11:10:10.015Z",
+ "sourcePage": "https://levoit.pl/produkt/oczyszczacz-powietrza-levoit-vital-100s/",
+ "slug": "levoit-vital-100s",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "logo-producenta.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/01.00_WA3_0223LAP-V102S-WUS_2023-03-09_07.png",
+   "width": 2560,
+   "bytes": 413237,
+   "sha256": "0f885ca5409b1b7aec8ca92826a3037100b07641a72fd2e0bb94df76ac474f1a",
+   "harvestUrl": "http://127.0.0.1:8765/p1.jpg",
+   "note": "PNG z przezroczystoscia splaszczony na biale tlo i skonwertowany do JPG (max 2560 px) przez wykonawce 21.10"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/01.00_WA3_0223LAP-V102S-WUS_2023-03-09_08.png",
+   "width": 2560,
+   "bytes": 387753,
+   "sha256": "85123eae185bf86304d5930fe7f78af8b14a5e5922c0531605d3a415a2f99d5e",
+   "harvestUrl": "http://127.0.0.1:8765/p2.jpg",
+   "note": "PNG z przezroczystoscia splaszczony na biale tlo i skonwertowany do JPG (max 2560 px) przez wykonawce 21.10"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Levoit-Vital-100S-0810043379922-GALERIA-1.png",
+   "width": 2560,
+   "bytes": 414720,
+   "sha256": "c353b013471d6cd8260d6690bf04d9f2b39447b9e06b2bfb539032cd02159ec7",
+   "harvestUrl": "http://127.0.0.1:8765/p3.jpg",
+   "note": "PNG z przezroczystoscia splaszczony na biale tlo i skonwertowany do JPG (max 2560 px) przez wykonawce 21.10"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/01.00_WA3_0223LAP-V102S-WUS_2023-03-09_04.png",
+   "width": 2560,
+   "bytes": 185944,
+   "sha256": "da30b6eec93544ddec489ca4c42adf65414555c19ed6278a0c2df43fc6075825",
+   "harvestUrl": "http://127.0.0.1:8765/p4.jpg",
+   "note": "PNG z przezroczystoscia splaszczony na biale tlo i skonwertowany do JPG (max 2560 px) przez wykonawce 21.10"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/01.00_WA3_0223LAP-V102S-WUS_2023-03-09_13.png",
+   "width": 2560,
+   "bytes": 497072,
+   "sha256": "25edcfc23d3930834956244d3d045779463e6c584fd3b5b9968b78ec25fa3ecb",
+   "harvestUrl": "http://127.0.0.1:8765/p5.jpg",
+   "note": "PNG z przezroczystoscia splaszczony na biale tlo i skonwertowany do JPG (max 2560 px) przez wykonawce 21.10"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/01.00_WA3_0223LAP-V102S-WUS_2023-03-09_16.png",
+   "width": 2560,
+   "bytes": 452884,
+   "sha256": "f5e4e9c8170fc968fbc0004de45b0a73dcbf9258bc4dd3e043cf5c7ba81987d6",
+   "harvestUrl": "http://127.0.0.1:8765/p6.jpg",
+   "note": "PNG z przezroczystoscia splaszczony na biale tlo i skonwertowany do JPG (max 2560 px) przez wykonawce 21.10"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Levoit-Vital-100S-0810043379922-GALERIA-2.png",
+   "width": 1000,
+   "bytes": 243087,
+   "sha256": "0917a9d7861dd53c60b59a89bd0af81782415905c19717c999130b3b7210a80a",
+   "harvestUrl": "http://127.0.0.1:8765/o1.jpg",
+   "note": "PNG z przezroczystoscia splaszczony na biale tlo i skonwertowany do JPG (max 2560 px) przez wykonawce 21.10"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Levoit-Vital-100S-0810043379922-GALERIA-3.jpg",
+   "width": 1600,
+   "bytes": 324319,
+   "sha256": "adc363c7df577c76f130eb45a29f7ec214ba2efe0f677604a6bab7b78847bac0",
+   "harvestUrl": "http://127.0.0.1:8765/o2.jpg",
+   "note": "PNG z przezroczystoscia splaszczony na biale tlo i skonwertowany do JPG (max 2560 px) przez wykonawce 21.10"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Levoit-Vital-100S-0810043379922-GALERIA-10.jpg",
+   "width": 1600,
+   "bytes": 327833,
+   "sha256": "76c6fe9dde12c9af01a7b8203a92bfcba959ec499eefefe935f17f53ea1bd341",
+   "harvestUrl": "http://127.0.0.1:8765/o3.jpg",
+   "note": "PNG z przezroczystoscia splaszczony na biale tlo i skonwertowany do JPG (max 2560 px) przez wykonawce 21.10"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Levoit-Vital-100S-0810043379922-GALERIA-9-scaled.jpg",
+   "width": 2560,
+   "bytes": 784082,
+   "sha256": "aaf88d051c2bfb4ecc2bd0e14422bd8b8934e1458293b4d2207fa713080cd05b",
+   "harvestUrl": "http://127.0.0.1:8765/o4.jpg",
+   "note": "PNG z przezroczystoscia splaszczony na biale tlo i skonwertowany do JPG (max 2560 px) przez wykonawce 21.10"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Levoit-Vital-100S-0810043379922-GALERIA-8.jpg",
+   "width": 2048,
+   "bytes": 258420,
+   "sha256": "ebd348c9c1a13a428370202519ed086a8a48d324b82c07f3988ebf930c296885",
+   "harvestUrl": "http://127.0.0.1:8765/o5.jpg",
+   "note": "PNG z przezroczystoscia splaszczony na biale tlo i skonwertowany do JPG (max 2560 px) przez wykonawce 21.10"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Levoit-Vital-100S-0810043379922-GALERIA-4.jpg",
+   "width": 1497,
+   "bytes": 298782,
+   "sha256": "0ca58e345384610c3f867b1d6e12456b3a8094921beb399e0c23684115a513fe",
+   "harvestUrl": "http://127.0.0.1:8765/o6.jpg",
+   "note": "PNG z przezroczystoscia splaszczony na biale tlo i skonwertowany do JPG (max 2560 px) przez wykonawce 21.10"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://levoit.pl/wp-content/uploads/2024/04/Levoit-Vital-100S-0810043379922-GALERIA-11.jpg",
+   "width": 1464,
+   "bytes": 155255,
+   "sha256": "d4cbdd8132f356436bb786050ee01a68a08576ba564e37d23b8418599245f3bb",
+   "harvestUrl": "http://127.0.0.1:8765/o7.jpg",
+   "note": "PNG z przezroczystoscia splaszczony na biale tlo i skonwertowany do JPG (max 2560 px) przez wykonawce 21.10"
+  },
+  {
+   "file": "logo-producenta.jpg",
+   "kind": "logo",
+   "order": 14,
+   "sourceUrl": "produkty-media/levoit-classic-300s-szary/logo-producenta.jpg",
+   "bytes": 31791,
+   "sha256": "d17323eb004618e8cc2983df199a2734715df9b11e84a771a07bd5e3da53373c",
+   "width": 1100
+  }
+ ],
+ "dropped": 0
+}

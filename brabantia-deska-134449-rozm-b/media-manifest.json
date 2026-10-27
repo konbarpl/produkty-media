@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-08T06:00:15.717Z",
+  "sourcePage": "https://www.brodasystem.pl/brabantia-deska-do-prasowania-podstawa-na-generator-pary-rozmiar-b-denim-black.html",
+  "slug": "brabantia-deska-134449-rozm-b",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "logo-brabantia.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/d06435ed0b29b91e0e2948cc2a4f14c1/images/brabantia-deska-do-prasowania-134449.jpg",
+      "width": 1000,
+      "bytes": 82550,
+      "sha256": "870979e670dd89bf943386d1e2a3832eda98ca9f27448a24be0886ecfd915d37",
+      "height": 1000
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/d06435ed0b29b91e0e2948cc2a4f14c1/images/brabantia-deska-do-prasowania-134449-denim.jpg",
+      "width": 1000,
+      "bytes": 83904,
+      "sha256": "0ea93c6727a2d468ea9387562715be27243db4e283cb080700cfbd11a9dea165",
+      "height": 1000
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.brodasystem.pl/media/products/d06435ed0b29b91e0e2948cc2a4f14c1/images/brabantia-deska-do-prasowania-b-moving-circles-346460-wymiary.jpg",
+      "width": 1000,
+      "bytes": 44940,
+      "sha256": "7082834073ea55fd244e1233e5aa119c2f6d24efb9c7d1d100d51b316086a69f",
+      "height": 1000
+    },
+    {
+      "file": "logo-brabantia.jpg",
+      "kind": "logo",
+      "order": 4,
+      "sourceUrl": "repo mediów dropshipping/produkty listy/produkty-media/_logo/logo-brabantia.jpg (logo marki Brabantia)",
+      "width": 590,
+      "height": 96,
+      "bytes": 18870,
+      "sha256": "ca16024189fa9fd92c2f3d2719c5ab4b3b6b80ade20c6f6ddafb3d48672e3915"
+    }
+  ],
+  "dropped": 0,
+  "note": "T54 GRUPA 70 P08 ETAP 1 (2026-10-08): 3 zdjęcia z galerii brodasystem.pl (oryginały /images/, kolejność data-src big_*), zweryfikowane wzrokowo jako deska 134449 Denim Black z podstawą na generator pary; produkt-03 = rysunek wymiarów z nazwą pliku innego wzoru (moving-circles-346460), zostawiony, bo wymiary 124x38 cm i 75-98 cm zgadzają się z kartą 134449. Logo na końcu."
+}

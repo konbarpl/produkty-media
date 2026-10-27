@@ -1,0 +1,168 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:41:10.103Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie/szczoteczki-elektryczne/szczoteczka-magnetyczna-oral-b-io-10-czarny (galeria ME, id 3987054, gallery_1000_1000)",
+ "slug": "oral-b-io-10-czarny-cosmic-black",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "produkt-14.jpg",
+  "logo-oral-b.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-zestaw.jpg",
+   "width": 1000,
+   "bytes": 77698,
+   "sha256": "d3b8a2d2db4b5a2c531192f7e4f0349cdb03ef6af27b2f3baca0db199049a460"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-front.jpg",
+   "width": 1000,
+   "bytes": 46294,
+   "sha256": "20300eb668785cd518006b0c24c836e328930d756ab47c42952e4f8d1f7e4dac"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-z-opakowaniem.jpg",
+   "width": 1000,
+   "bytes": 75172,
+   "sha256": "05f5664f5a38490aef76b26b760523ebc2a7b1bd238421f8f623e08d6fe21280"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-opakowanie.jpg",
+   "width": 1000,
+   "bytes": 73571,
+   "sha256": "fa2a19210fce595422267c635533a718c336354b9f639d492908a9c9def480bd"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-zestaw-smartfon.jpg",
+   "width": 1000,
+   "bytes": 72154,
+   "sha256": "cdaaa361a81f58464a12222a19770ac33e3463dd961ecc4d959fbdc6847fd6f4"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-lifestyle3.jpg",
+   "width": 1000,
+   "bytes": 134723,
+   "sha256": "6b3518a5563f0784c9da0f762de43d3047923c8b5892cd460b0fb796740e7101"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-obraz-1.jpg",
+   "width": 1000,
+   "bytes": 88803,
+   "sha256": "929d4815b5b555f3d885446d42ac66d08a3905feb6d1380069772f5ec87fa81e"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-obraz-2.jpg",
+   "width": 1000,
+   "bytes": 74423,
+   "sha256": "498b94d12719bec4a63c93ee0ae0cd0fee29435362788c125ba4782b35ee11e5"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-obraz-3.jpg",
+   "width": 1000,
+   "bytes": 59727,
+   "sha256": "ff30791ce0ea179c10d7d5f22855d0fa737a8c53cdbc0d1ed8e07aa8d0d13612"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-obraz-4.jpg",
+   "width": 1000,
+   "bytes": 108055,
+   "sha256": "36493c027401a1dc546ba514aeea9c3ec8299044ff5be394aedcc391a6f2da38"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-obraz-5.jpg",
+   "width": 1000,
+   "bytes": 93526,
+   "sha256": "81d12d1ee55569401655095ce01f708b4080c8844f0403c837402d6afc65f049"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-obraz-6.jpg",
+   "width": 1000,
+   "bytes": 188430,
+   "sha256": "447fcc28d1f23cfabb14a6fe3526e18b9822075e28ec5b014e41cab7cd4b23c9"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-obraz-7.jpg",
+   "width": 1000,
+   "bytes": 75438,
+   "sha256": "87a4248be33944271cae53967dfca9eb201f16eeccdfaba324647b947b5745d0"
+  },
+  {
+   "file": "produkt-14.jpg",
+   "kind": "product",
+   "order": 14,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/39/3987054/Szczoteczka-magnetyczna-ORAL-B-iO10-Czarny-obraz-8.jpg",
+   "width": 1000,
+   "bytes": 100735,
+   "sha256": "6f5a149d05cd6c5f801ad5aa49cc60046469627aa77783c972cd84a01802d416"
+  },
+  {
+   "file": "logo-oral-b.png",
+   "kind": "logo",
+   "order": 15,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-oral-b.png (z dropshipping/materialy/logo/640px-Oral-B_logo.svg.png, Wikimedia Commons, na bialym tle)",
+   "width": 720,
+   "height": 273,
+   "bytes": 17867,
+   "sha256": "ab88c17ab2f1bbd8cab46cae51c498ab8beb77c11b975da85d1eaddd77a6fcc3"
+  }
+ ],
+ "dropped": 0,
+ "rejected": {
+  "k06 opakowanie-1": "niemal identyczne z k05 (to samo pudelko frontem)",
+  "k07 lifestyle1": "infografika calej serii iO z porownaniem do Oral-B Pro (cichsza praca) — porownanie modeli",
+  "k08 lifestyle2": "porownanie z inna szczoteczka (Oral-B Sonic) — porownanie modeli"
+ },
+ "kolejnosc": "produkt-01=k02 zestaw z pudelkiem COSMIC BLACK (bez smartfona), 02=k03 front kompletu, 03=k04 z opakowaniem, 04=k05 opakowanie, 05=k01 zestaw ze smartfonem (smartfon NIE w zestawie), 06=k09 czujnik nacisku (czarne raczki), 07-14=k10-k17 lifestyle czarnej raczki Cosmic Black"
+}

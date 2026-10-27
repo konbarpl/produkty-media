@@ -1,0 +1,167 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T15:35:06.092030Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/DST6120_20.assets (PRX API, CTN DST6120/20)",
+ "slug": "philips-dst6120-20",
+ "kod": "DST6120/20",
+ "ean": "",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0000de2f_f844_462c_95083b39efd58b83?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k01 RTP Garment Care_2025_DST6120/20_Amazon A+ (AMZ-Ecommerce)_Poland — RTP packshot 3/4 na bialym tle, granatowo-niebieska obudowa, napis 6000 Series",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 78774,
+   "sha256": "10cae6524a8879b1024c1792d3513d2998bf4e7376c54f46bdcf2bff04dfcb6e"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_809baffb_558e_4066_b9299020cc816bed?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k02 APP Garment Care_2025_DST6120/20_Amazon A+ (AMZ-Ecommerce)_Poland — APP packshot z wymiarami 12,9 / 31,6 / 15,8 cm (zgodne ze spec)",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 85794,
+   "sha256": "f8c6d947b0d834a0fcc0e452e23f6ae9951bb022ba25da7de1a8ab0805d1a42f"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_86aff8c6_eb03_4241_8a9ffe8d0ecd1963?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k03 A1P Garment Care_2025_DST6120/20_Amazon A+ (AMZ-Ecommerce)_Poland — A1P uzupelnianie wody w dowolnym momencie, ikona 300 ml",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 197567,
+   "sha256": "235ae7081ebe134ab7429bdded877c68e8c52dad300084f4f908c56e30a0233b"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b0ee381c_5130_4dac_ba4c7de5dcdecaae?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k04 A2P Garment Care_2025_DST6120/20_Amazon A+ (AMZ-Ecommerce)_Poland — A2P automatyczne wylaczanie, ikona 2 min",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 195406,
+   "sha256": "b7b3658d26acfad2cc83a00c2d9c8bb7b3f30cf16ca424e459e4c35805c3681a"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3d3ca53a_c7e0_4146_96ca8d4f852fe175?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k05 D1P Garment Care_2025_DST6120/20_Amazon A+ (AMZ-Ecommerce)_Poland — D1P OptimalTemp: uniwersalna temperatura dla wszystkich tkanin",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 220410,
+   "sha256": "66627dcd5feebe820a207a7713b59dbb78ec73e75f9fad26a08be9bed46d0475"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b03158c6_bbbd_4ef2_8bf113f9d3bad683?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k08 D4P Garment Care_2025_DST6120/20_Amazon A+ (AMZ-Ecommerce)_Poland — D4P silny strumien pary 190 g",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 219767,
+   "sha256": "f93b8326dd27dfa23a8d219f922a5b7c47af87ff5acfa4936ac5f688e69c5cc2"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2a167c68_4e74_4ef7_b77978df95bae217?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k09 D5P Garment Care_2025_DST6120/20_Amazon A+ (AMZ-Ecommerce)_Poland — D5P stopa SteamGlide Plus",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 137788,
+   "sha256": "03c94f44a9cd961f4e363b4e121751ead10a3f119660c82bc45d3fa00578876a"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_04e7a8e8_39bc_4a18_9c340f0a8df4037a?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k15 FIL DST6120_20_Feature Image — FIL DST6120_20 zelazko w pozycji pionowej na desce",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 116919,
+   "sha256": "82c45bcf436072b4d24fc6a31bd310654c37ae83a2abe0b24d9d667ebe74096c"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f13862c0_7f73_4df2_83892c25ef3651b6?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k18 FIL DST6120_20_Feature Image — FIL DST6120_20 prasowanie (kobieta przy desce)",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 122484,
+   "sha256": "49910c45a0996fb7e67d389cf57c5519ace3ac804cc089fce1766bf3c0f38392"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "description",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5733e79e_c582_4eb6_be07f28f23705b14?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k19 FIL DST6120_20_Feature Image — FIL DST6120_20 napelnianie wodą z kranu",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 127616,
+   "sha256": "fad3b2e96504c2cf46580ed1164657587aa2abf22e29a7d963ca9024415c2534"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "description",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2cfca1d3_716f_4a93_a916afe36b6029e8?wid=1200&hei=1200&fmt=jpg",
+   "note": "kandydat k21 FIL DST6120_20_Feature Image — FIL DST6120_20 prasowanie z gory",
+   "width": 1200,
+   "height": 1200,
+   "bytes": 155293,
+   "sha256": "e6a23cb94ca39efcd6e8a51467464ed76aeec00e72f60052a57fac11e1314f9f"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 12,
+   "sourceUrl": "repo produkty-media/logo/philips.png",
+   "width": 525,
+   "height": 105,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "rejected": {
+  "6": "D2P plansza Gwarancja braku przypalen — plakietka gwarancji (korekta 7 + skan C), do ewentualnego uzycia w ETAPIE 2 po decyzji",
+  "7": "D3P plansza z napisem 2800 W — SPRZECZNA ze spec PRX Moc 2600 W (rozjazd do decyzji)",
+  "10": "IMS = bajtowy duplikat RTP (ten sam asset vrs_0000de2f)",
+  "11": "BRP logo PRX (logo z repo mediow zamiast)",
+  "12": "FIL DST6130_40 — INNY MODEL (czerwono-czarne zelazko)",
+  "13": "FIL DST6120_80 — INNY WARIANT (czarne zelazko)",
+  "14": "FIL DST6120_80 — INNY WARIANT (czarne zelazko)",
+  "16": "FIL DST6120_80 — INNY WARIANT (czarne zelazko)",
+  "17": "FIL DST6120_80 — INNY WARIANT (czarne zelazko)",
+  "20": "FIL DST6130_40 — INNY MODEL (czerwono-szare)"
+ }
+}

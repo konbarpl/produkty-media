@@ -1,0 +1,123 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:34:30.380089Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-frytkownica-beztluszczowa-tefal-fw402he0-easy-fry-xl-surface-czarny (galeria ME id 7766397, gallery_1000_1000)",
+ "slug": "air-fryer-tefal-easy-fry-xl-surface-fw402he0-czarny",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/77/7766397/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-FW402HE0-Easy-Fry-XL-Surface-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 93376,
+   "sha256": "2b0a3afb7ea07254f6d92339766e5d40eda295e8aa29be9e19a5cf45e215aafa"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/77/7766397/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-FW402HE0-Easy-Fry-XL-Surface-2.jpeg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 87547,
+   "sha256": "12b77e32415260ce010ad15ca9b729eb70a58e18b139d36a82eb26a7edf4e20e"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/77/7766397/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-FW402HE0-Easy-Fry-XL-Surface-3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 93692,
+   "sha256": "a0f86066c4f9101bdabb10b1f220e8f6cf1cf1a8b8a4c9a67b1dbe0e97cfd6b7"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/77/7766397/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-FW402HE0-Easy-Fry-XL-Surface-4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 218893,
+   "sha256": "f177a17593757d0898b305061185e292fb75de1ee5a5fa56c9c7ef93c840254a"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/77/7766397/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-FW402HE0-Easy-Fry-XL-Surface-8.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 91626,
+   "sha256": "ec7a3bb9fed374ec4731810a6cb5b5d7487bced3f14c10c863dc6936f3166faf"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/77/7766397/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-FW402HE0-Easy-Fry-XL-Surface-6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 143712,
+   "sha256": "d8caad05755e54a5d9f315f86ab33f5c45fd981cb7566925e62971a537fbdf13"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/77/7766397/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-FW402HE0-Easy-Fry-XL-Surface-7.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 105577,
+   "sha256": "37249976f0b99c1891a70dc88badc7db31fa3cdda014e5a8f8048e1c07a08eea"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/77/7766397/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-FW402HE0-Easy-Fry-XL-Surface-5.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 104871,
+   "sha256": "9547aad005eb71dab539d0584c09582bd205f029e8f0253dbd52651a83f4183a"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/77/7766397/Air-Fryer-Frytkownica-beztluszczowa-TEFAL-FW402HE0-Easy-Fry-XL-Surface-9.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 158465,
+   "sha256": "ae2c445b1f8830aede804b7242e92ec412513123398a788b65bf4b7208fc321c"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 10,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "rejected": {
+  "brak": "galeria ME ma 9 zdjec, wszystkie tego kodu (nazwy plikow ...TEFAL-FW402HE0-Easy-Fry-XL-Surface-N) i tego samego wykonania kolorystycznego; plakietek gwarancji i porownan brak"
+ }
+}

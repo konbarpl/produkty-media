@@ -1,0 +1,122 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T15:59:11.956806+00:00",
+ "sourcePage": "https://www.braunhousehold.com/pl-pl/p/freestyle-7-zelazko-parowe-freestyle-7-fi-7255--zielone/FI7255GR.html?pid=0127411001",
+ "slug": "braun-fi7255gr",
+ "kod": "FI7255GR",
+ "ean": "",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "logo-braun.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/363584",
+   "note": "packshot 3/4 na bialym tle, czarna obudowa z limonkowo-zielonymi akcentami, nadruk Braun FreeStyle 7 (= JSON-LD image karty)",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 49029,
+   "sha256": "7a985335d0dc9cfd97fcf6fe8a8d8ceb06592b17fcd9b5fde1a6a699e7b3d5c2"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/363585",
+   "note": "zelazko w pozycji pionowej, widok stopy i boku z nadrukiem Braun FreeStyle 7",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 58356,
+   "sha256": "11c2fba4434ba2e74557e2930b38159c737e89afa06e78cf984bf2fd111f314c"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/363586",
+   "note": "widok z tylu, zielona zaslepka z tylu obudowy, para pod stopa",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 73010,
+   "sha256": "41c92d203abfce4f00c27122b504bfb2383595e9cf13a2e901826c44ea414920"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/363587",
+   "note": "widok z tylu z wyjeta zielona zaslepka (Easy CalcClean wg karty - opis wizualny, do potwierdzenia w ETAPIE 2)",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 66353,
+   "sha256": "036db97eac25bdb49a9f8b76e263bfccdaa48c37dd4e5b791eba4b0ea50f858d"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/363588",
+   "note": "kobieta prasuje dzinsy na desce, kleby pary",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 191532,
+   "sha256": "35d0331a026aa787328dcd28fe7d3bfd297403ac2c92b4d5de2c86f842f06aa4"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/363589",
+   "note": "kobieta trzyma zelazko stopa do gory nad deska, widok stopy",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 147142,
+   "sha256": "90ed8105a07a062512fd11811d0e150a5d4d4ee6676259f58bfb4e1358114881"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/363590",
+   "note": "dlon na raczce, zblizenie przyciskow na raczce, prasowanie dzinsow",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 125859,
+   "sha256": "9b62bb7c1a67aa226f8728b30934fa3ad537af1c46d3d483da81ca7560706ddb"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://dam.delonghi.com/1500x1500/assets/363591",
+   "note": "zelazko stoi na desce obok zlozonych ubran",
+   "width": 1500,
+   "height": 1500,
+   "bytes": 149538,
+   "sha256": "dd013df0c96d1cff5208f055bc031d6b79b47a70a8cf70d2b414d2ad7a5777da"
+  },
+  {
+   "file": "logo-braun.jpg",
+   "kind": "logo",
+   "order": 9,
+   "sourceUrl": "repo produkty-media/braun-pl5431/logo-braun-male-v2.jpg (plaskie plotno 1200x300, regula 12.10)",
+   "width": 1200,
+   "height": 300,
+   "bytes": 15589,
+   "sha256": "3d601c32ca014e44583fe71c990644f4a289861be2a3f28c0bf810aa7de1b318"
+  }
+ ],
+ "dropped": 0,
+ "rejected": {},
+ "uwagi": "Karta ma 8 zdjec DAM (363584-363591), wszystkie pokazuja ten sam wariant czarno-limonkowy (karta: zielone) FreeStyle 7; brak plansz serii, plakietek i innych kolorow (karta ma 2 inne opcje kolorystyczne, ich zdjec w galerii tej karty nie ma). Logo z repo mediow zamiast 99-logo-braun.png (1200x504)."
+}

@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T12:34:45.371428Z",
+  "sourcePage": "https://mi-store.pl/product-pol-38632227-Ewaporacyjny-Nawilzacz-Powietrza-Xiaomi-Mijia-Smart-Evaporative-Humidifier-Pro.html",
+  "sourcePage2": "https://www.mi.com/pl/product/mijia-smart-evaporative-humidifier-pro/",
+  "slug": "xiaomi-smart-evaporative-humidifier-pro",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/d8bc0a01d83235a3db114c572b528804/pol_pl_Ewaporacyjny-Nawilzacz-Powietrza-Xiaomi-Mijia-Smart-Evaporative-Humidifier-Pro-38632227_1.webp",
+      "width": 600,
+      "bytes": 20126,
+      "sha256": "725ba07ade4a7c1062c40e1dde14b09eadf97da8089fe17cb6bc2a3cb3300c16",
+      "note": "packshot z karty mi-store.pl (600 px, jedyny packshot dostepny w zrodlach), konwersja webp->jpg"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-smart-evaporative-humidifier-pro/pc/02a0ec1c2efb96d21ba912ec96603c17.jpg",
+      "width": 1600,
+      "bytes": 332460,
+      "sha256": "46d018356f3e319ac359869994628d91c13637bc2e2b7a5351611f2c1985a79c",
+      "note": "karta producenta mi.com/pl (kadr #1 kontaktowki), 2560x1475 -> 1600 px"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-smart-evaporative-humidifier-pro/pc/8ac0ecafdfc253fb49a6a0e2b0dd3d3a.jpg",
+      "width": 1600,
+      "bytes": 144056,
+      "sha256": "2ced2fe678c1d84fd14c8274713cc575b88fb38a17518e411e4ae808592f2e17",
+      "note": "karta producenta mi.com/pl (kadr #26 kontaktowki), 2560x1708 -> 1600 px"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-smart-evaporative-humidifier-pro/pc/69ad553178831dec71cf997296cbbdb6.jpg",
+      "width": 1600,
+      "bytes": 110946,
+      "sha256": "98523556006fd84c3b51786a9fffa55e660ad3dc1a9c51010e84ed6ab7918caa",
+      "note": "karta producenta mi.com/pl (kadr #18 kontaktowki), 2560x1927 -> 1600 px"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-smart-evaporative-humidifier-pro/pc/c7d17508e261560902ca3af03a42817c.jpg",
+      "width": 1600,
+      "bytes": 72450,
+      "sha256": "a2a258009bab355f1bc3f9cb7782206a168b98379665adcd309a10e4d6a6fb0d",
+      "note": "karta producenta mi.com/pl (kadr #35 kontaktowki), 2560x1350 -> 1600 px"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-smart-evaporative-humidifier-pro/pc/5be7a5e48c0a73a2b6ab18b37985ccaa.jpg",
+      "width": 1600,
+      "bytes": 35005,
+      "sha256": "e067a091bbb265f1a206747ccf2b5cd8720805f2f59637e00b3a375c957878ab",
+      "note": "karta producenta mi.com/pl (kadr #15 kontaktowki), 2560x1285 -> 1600 px"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-smart-evaporative-humidifier-pro/pc/4ac96b867c0dd958a111e0bc3191a5e8.jpg",
+      "width": 1600,
+      "bytes": 56360,
+      "sha256": "5773e455cefeaac4aa19d7d1d45283642c2ad8e16d9bc84a72470db55a8c606a",
+      "note": "karta producenta mi.com/pl (kadr #10 kontaktowki), 2560x1672 -> 1600 px"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-smart-evaporative-humidifier-pro/pc/mijitp_pc1.jpg",
+      "width": 1600,
+      "bytes": 158483,
+      "sha256": "520f912e2571fca48442eb2d2edd989d6d8755b64c0af1ddd71a509757e25ea6",
+      "note": "karta producenta mi.com/pl (kadr #49 kontaktowki), 2560x1926 -> 1600 px"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-smart-evaporative-humidifier-pro/pc/d4dfe5ebdf99001de20d6d91648d293f.jpg",
+      "width": 1600,
+      "bytes": 49012,
+      "sha256": "3eda21ca86028dd3b9e62820a018f53837468bf02420e79bf86219a094ce1209",
+      "note": "karta producenta mi.com/pl (kadr #40 kontaktowki), 2560x1320 -> 1600 px"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-smart-evaporative-humidifier-pro/pc/c8edb632a6c21e5432215d1b72f70467.jpg",
+      "width": 1600,
+      "bytes": 65067,
+      "sha256": "a784f67fddbbe15435a1f38941005028fccdd137b882761531abd4e2bf2940ff",
+      "note": "karta producenta mi.com/pl (kadr #36 kontaktowki), 2560x2420 -> 1600 px"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/xiaomi-smart-air-purifier-4-lite/logo-producenta.png",
+      "width": 960,
+      "bytes": 18651,
+      "sha256": "9cb8941a96b4520c9e5c36cbccd68d37f5dd64a1022147e1edf1a7bcb159c11b",
+      "note": "kopia logo marki z katalogu xiaomi-smart-air-purifier-4-lite - publish_erli.js skleja imageBase+nazwa"
+    }
+  ],
+  "dropped": 4,
+  "droppedNote": "opis-01..04.webp z mi-store = nizsza rozdzielczosc tych samych kadrow co mi.com (#1,#36,#35,#15); przeniesione do _tmp/<slug>/odrzucone-mistore"
+}

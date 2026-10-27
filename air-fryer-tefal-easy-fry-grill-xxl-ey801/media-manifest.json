@@ -1,0 +1,150 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:27:21.068906Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/frytkownica-beztluszczowa-tefal-ey801d-easy-fry-grill-xxl-air-fryer (karta zastepcza; euro.com.pl blokuje po IP)",
+ "slug": "air-fryer-tefal-easy-fry-grill-xxl-ey801",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "logo-tefal.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/42/4215432/TEFAL-EY801D-Easy-Glowne.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 87380,
+   "sha256": "713655611a5f86448d5fd02adcb0c2af871ad30660bc285c93a84b83404e016e"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/42/4215432/Frytkownica-beztluszczowa-TEFAL-EY801D-Easy-Fry-Grill-XXL-Czarno-srebrny-Air-Fryer-front-wersja2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 95563,
+   "sha256": "497a31211eb1a59ee09b4768c402d2ccea2b9d778a7e8739c0d74f3c0d6c940f"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/42/4215432/Frytkownica-beztluszczowa-TEFAL-EY801D-Easy-Fry-Grill-XXL-Czarno-srebrny-Air-Fryer-bok-wersja2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 117730,
+   "sha256": "6027195b3b93dfe329a4b7a8ac4a342ece5e1167aee8a033a9c8ecf611b22be1"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/42/4215432/Frytkownica-beztluszczowa-TEFAL-EY801D-Easy-Fry-Grill-XXL-Czarno-srebrny-Air-Fryer-lifestyle3-wersja2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 287079,
+   "sha256": "94a2361363bfdc4b50017a917d38d8636b83bd3615ec1bab4b49ca524e27bfd4"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/42/4215432/Frytkownica-beztluszczowa-TEFAL-EY801D-Easy-Fry-Grill-XXL-Czarno-srebrny-Air-Fryer-lifestyle1-wersja2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 101718,
+   "sha256": "5ea8d5056d0c5db01a169854734dceeead61499a71eab30e987fad8b2eddb0ce"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/42/4215432/Frytkownica-beztluszczowa-TEFAL-EY801D-Easy-Fry-Grill-XXL-Czarno-srebrny-Air-Fryer-lifestyle5-wersja2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 315838,
+   "sha256": "01245bf19eea0a187c0ae7169ef106655874b6eb7bf6729e31294b274cbc4ebe"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/42/4215432/Frytkownica-beztluszczowa-TEFAL-EY801D-Easy-Fry-Grill-XXL-Czarno-srebrny-Air-Fryer-lifestyle6-wersja2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 264015,
+   "sha256": "f33a376fb24035ba9c75f3bb09f35d3e3bebdf733858cbd2bb7d14f7bdbcbb56"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/42/4215432/Frytkownica-beztluszczowa-TEFAL-EY801D-Easy-Fry-Grill-XXL-Czarno-srebrny-Air-Fryer-lifestyle4-wersja2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 93780,
+   "sha256": "c8b10c2f2121439830e75740aac86aedf12d06793959beed38c077d94454caea"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/42/4215432/Frytkownica-beztluszczowa-TEFAL-EY801D-Easy-Fry-Grill-XXL-Czarno-srebrny-Air-Fryer-lifestyle2-wersja2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 198818,
+   "sha256": "2ad6d59ca53bb14597148169ef41b2f1c8f458c2d37686299e53a70098ac4b1f"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/42/4215432/storage_app_materialy_do_opisow_490742_new_img/3045387248253_faq.png",
+   "width": 500,
+   "height": 500,
+   "bytes": 24815,
+   "sha256": "a7c849c5cc8b332a39b7ca5497a0f094b59af8146c6ddfb563c2ba5a3100c694"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/42/4215432/EY801-Front_Smartfon.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 131268,
+   "sha256": "47b143667cdffec303a221c67e004e13312cf8dad85e24ee88b4a130236970d8"
+  },
+  {
+   "file": "logo-tefal.png",
+   "kind": "logo",
+   "order": 12,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-tefal.png",
+   "width": 960,
+   "height": 206,
+   "bytes": 12693,
+   "sha256": "8abe127ee5933ba657d80fa81957cdc19b1959e70fe1806c22f267f8ec5d5df6"
+  }
+ ],
+ "rejected": {
+  "k11-MEOPIS, k13-MEOPIS": "grafiki opisu ME w niskiej rozdzielczosci (520x368); k13 = haslo marketingowe o oszczednosci energii",
+  "k14..k19-MEOPIS": "klatki animacji otwierania kosza (a06_open/close) — produkt maly w kadrze, kod modelu nieczytelny; bramka tozsamosci niezaliczona",
+  "k20..k22-MEOPIS": "miniatury 100x100",
+  "k23, k24-MEOPIS": "INNY MODEL: Dual Easy Fry (dwa kosze) z tabeli porownawczej ME",
+  "k25-MEOPIS": "miniatura 220x200 z tabeli porownawczej (ten model, za mala)",
+  "k26-MEOPIS": "INNY MODEL: Easy Fry & Grill (bez XXL, np. EY505) z tabeli porownawczej ME"
+ }
+}

@@ -1,0 +1,231 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-02T12:32:57.329Z",
+ "sourcePage": "https://www.philips.pl/c-p/HU1510_03/nawilzacz-powietrza-philips-serii-1000",
+ "slug": "philips-hu1510-03",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "produkt-06.webp",
+  "produkt-07.webp",
+  "produkt-08.webp",
+  "opis-01.webp",
+  "opis-02.webp",
+  "opis-03.webp",
+  "opis-04.webp",
+  "opis-05.webp",
+  "opis-06.webp",
+  "opis-07.webp",
+  "opis-08.webp",
+  "opis-09.webp",
+  "opis-10.webp",
+  "opis-11.webp",
+  "opis-12.webp",
+  "opis-13.webp",
+  "logo-producenta.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cb131032_ceb3_454f_b67bb3cf82822fc3?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 24496,
+   "sha256": "e096bf47de3c51f6a882ba277e6ff7e40613ddde40697454704e639e6255c47c"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_dc84e15a_ff93_4538_aed0202c50fb19aa?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 18154,
+   "sha256": "22dc0e95d0df8d915c7047b035ab8ebfb839ac891d8e1a50d7efa99bfd8c311f"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f186aede_7e1b_4f7e_a2bd5ec06b741afc?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 16902,
+   "sha256": "7da590705ecd58590ac76d42a42bc6d8a17036e615d8cc758ec95fbe16e8cab5"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_9a60c270_ab2f_4372_bc29295aee386d02?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 14520,
+   "sha256": "14f7b383c0f10de1852bebd922fa552413d73c7d2fedd13d8f827a096326ed0c"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_aa9884fe_9273_4c2a_b30412aaa098cff7?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 15950,
+   "sha256": "f2f55dfd88b4c4f6fdcd7b469dc41991c9af46c6d8d8f97fd7df18367e8b2778"
+  },
+  {
+   "file": "produkt-06.webp",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_95ca1720_fb6d_4d96_923193f5719df4be?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 28032,
+   "sha256": "65cef13e3398dc38ca60db03ab5eb4e912b289ebeebbd707c63e20d58f2f6dc9"
+  },
+  {
+   "file": "produkt-07.webp",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b09fb995_5d32_428e_b9d79a1244dd375f?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 37636,
+   "sha256": "987f4ea21b038e8f24a0c4b26debf4595a8b4bad4754218379ea54364a040717"
+  },
+  {
+   "file": "produkt-08.webp",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0570ce93_c330_4ba7_954541ec4174f7ef?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 66976,
+   "sha256": "51f66ed8cfcf4dbc43e84950b5b9d3c7b64b5d90a8f0f99437985a74e50f71d7"
+  },
+  {
+   "file": "opis-01.webp",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b6f0e7fc_045a_4d50_b436abcd853a8fe5?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 53126,
+   "sha256": "64cca5950e30c7da8193d264c24424349af4fda7965bb41f7d5781db691feb31"
+  },
+  {
+   "file": "opis-02.webp",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_9c8c5f78_4d3c_45ad_97b12eaad6c62268?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 43072,
+   "sha256": "489d8106711b93ecb54400a39d53e7db90cc77aecec6244104ad1c019040a8b7"
+  },
+  {
+   "file": "opis-03.webp",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0022d9af_7e81_41f4_8938d37114e5fb86?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 26568,
+   "sha256": "fa8b1e7c115b8cfb352713eed5c84c8d9473f3b16d98587eb0ce1c85781cebdd"
+  },
+  {
+   "file": "opis-04.webp",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_600b82ee_ec65_47a9_8c4cb4c13dd548b5?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 36464,
+   "sha256": "3ccd0eddfea4549c4b4cdb2e0f94e6962d10c0530f37d450696d26d77be9c204"
+  },
+  {
+   "file": "opis-05.webp",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_64d93fa5_8ad5_4660_b4dc92ea7a9d263e?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 45478,
+   "sha256": "4ddc4a6b4aebc0160232d74edb368d74ebca1deacd2f96743a11e6a6d1b70ffb"
+  },
+  {
+   "file": "opis-06.webp",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1733942d_7cfb_4e63_b2e6797f5bc934b9?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 34922,
+   "sha256": "3e18d565276282120220b10ac9267c27fcd06c63124322ee8de929622148d050"
+  },
+  {
+   "file": "opis-07.webp",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_87373fad_dfa1_4430_b2150a75231fdff8?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 35458,
+   "sha256": "d267e67a516ca56dc285d1f047cbe968ca15ecabcd7ed634f178e362c510043d"
+  },
+  {
+   "file": "opis-08.webp",
+   "kind": "lifestyle",
+   "order": 8,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_093cd7fe_2be0_4b81_b0c5074fcbbb8648?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 33350,
+   "sha256": "7dd76e7eee0708f4dd90aa565307c0c682fbb19c8082ed90d32fd13fa4a94725"
+  },
+  {
+   "file": "opis-09.webp",
+   "kind": "lifestyle",
+   "order": 9,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6a818fef_1bf7_4425_a4698c36afe22d4e?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 39142,
+   "sha256": "64155cc19adb9f355fbaa935a688e7978b297244ba2d5dc33f04789c78eab6a2"
+  },
+  {
+   "file": "opis-10.webp",
+   "kind": "lifestyle",
+   "order": 10,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_86cfb07d_4f51_450e_ace38989f1d25423?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 35342,
+   "sha256": "e8c7f5e713724391b00eadfa3897366b88ffc6d0142a8798acdfd9c4a9d8d462"
+  },
+  {
+   "file": "opis-11.webp",
+   "kind": "lifestyle",
+   "order": 11,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3bfbdb10_ff19_471c_8f8021e4db131f20?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 43654,
+   "sha256": "ddb5aa80b31adcbf75ec93f64ee3e49e37cee1338eee9e87ddf580f13ef21ee7"
+  },
+  {
+   "file": "opis-12.webp",
+   "kind": "lifestyle",
+   "order": 12,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_4a2bfd73_002b_4077_a718f8c635025fe4?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 13086,
+   "sha256": "051ef8e2f9106162424f7db65ae45772bfe99f785817834184ae0362449a544a"
+  },
+  {
+   "file": "opis-13.webp",
+   "kind": "lifestyle",
+   "order": 13,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_09c0ac9f_5060_41e7_9dcc3ab014090c92?wid=1200&hei=1200",
+   "width": 1200,
+   "bytes": 38456,
+   "sha256": "1e15fcb01ab5520c378378f685e8156ff6519bd3b629d040f3668f89614b86d6"
+  },
+  {
+   "file": "logo-producenta.png",
+   "kind": "logo",
+   "order": 22,
+   "sourceUrl": "produkty-media/oczyszczacz-powietrza-philips-ac0650-10/logo-producenta.png (logo marki Philips z repo)",
+   "width": 525,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "dropped": 0
+}

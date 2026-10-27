@@ -1,0 +1,136 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:27:30.890214Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-frytkownica-beztluszczowa-ninja-dz901eu-7-6l-z-podwojnym-koszem (galeria ME, id 9545946, gallery_1000_1000)",
+ "slug": "air-fryer-ninja-dz901eu-podwojny-kosz",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "logo-ninja.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545946/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Dual-Zone-XL-DZ901EU-7-6l-z-podwojnym-koszem-5-wer-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 81130,
+   "sha256": "c62ccb01114f81f77917a9738cedc090052da327e3bb669b1878bb856ea4125a"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545946/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Dual-Zone-XL-DZ901EU-7-6l-z-podwojnym-koszem-1-wer-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 99276,
+   "sha256": "c8aece7e46e28a20c52fe3be09bed45c75bc4247c5be8ef7d311c2601d3e89ae"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545946/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Dual-Zone-XL-DZ901EU-7-6l-z-podwojnym-koszem-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 70362,
+   "sha256": "909688a1826e3128bb88313cd1e57a4a4d9c1a33183d8b77bb6b8fbaa7e03662"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545946/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Dual-Zone-XL-DZ901EU-7-6l-z-podwojnym-koszem-4-wer-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 117532,
+   "sha256": "7548b11793fcb313c4874c45c185a0f25098c889c104784ac1b1d49ab99a43c2"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545946/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Dual-Zone-XL-DZ901EU-7-6l-z-podwojnym-koszem-6-wer-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 153022,
+   "sha256": "04ff998ce45fa90be9e684ba627eae7187490daa926ce999693504030d71991d"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545946/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Dual-Zone-XL-DZ901EU-7-6l-z-podwojnym-koszem-7-wer-2__1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 162053,
+   "sha256": "b67dad620374490019c15c35d0004f002b0c74a1a3d3a7e84a3924074382727e"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545946/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Dual-Zone-XL-DZ901EU-7-6l-z-podwojnym-koszem-9.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 101352,
+   "sha256": "93bdb6d25688547ecec9f20f92a5ec0ea32a3b621def1fae4999442ff9607638"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545946/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Dual-Zone-XL-DZ901EU-7-6l-z-podwojnym-koszem-12.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 129201,
+   "sha256": "2afd3be35fd4546da3abb80f06b4b1ab62a3bb114852abfc647c8835fda5511a"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545946/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Dual-Zone-XL-DZ901EU-7-6l-z-podwojnym-koszem-13.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 132508,
+   "sha256": "9e7ccafaa4aa22aedd662fa37f80dc089bbeacaf51bf9bfcb554dcac7137bcda"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545946/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Dual-Zone-XL-DZ901EU-7-6l-z-podwojnym-koszem-14.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 95958,
+   "sha256": "dfb9d27fbce2950c2b36b00bd9374985e9f4ba55c898d45dd215675146b1c18e"
+  },
+  {
+   "file": "logo-ninja.jpg",
+   "kind": "logo",
+   "order": 11,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/ninja-fn101eugy/logo-ninja.jpg",
+   "width": 1008,
+   "height": 470,
+   "bytes": 49308,
+   "sha256": "6582c0ad0f51c41f1fd3814dcece75134baf029470d8fa8eaab2b86dfecb729e"
+  }
+ ],
+ "rejected": {
+  "k03": "infografika 9.5L z szara sylwetka innego urzadzenia (porownanie rozmiaru) - odrzucona",
+  "k09": "infografika 7,6 L - sprzeczna z karta ME (2 x 4,75 = 9,5 l) i producentem (9,5 l)",
+  "k10": "infografika nawet o 10% mniej energii - sprzeczna z opisem ME i producentem (do 20%)"
+ }
+}

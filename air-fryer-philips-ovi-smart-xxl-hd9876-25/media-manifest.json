@@ -1,0 +1,139 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:15:24.327966Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-frytkownica-beztluszczowa-philips-ovi-smart-hd9876-25-air-fryer-wi-fi-8-automatycznych-programow-do-gotowania- (karta ME HD9876/25, id 7443506; PRX philips.pl 404 dla HD9876_25)",
+ "slug": "air-fryer-philips-ovi-smart-xxl-hd9876-25",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "logo-philips.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443506/Air-Fryer-Frytkownica-beztluszczowa-PHILIPS-Ovi-Smart-HD987625-3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 73213,
+   "sha256": "af9ae817a2e6944e493c5b35556a897fc1c294a575e3ef5bef213d0b443dfd02",
+   "tag": "g3",
+   "desc": "packshot na bialym tle: bialy korpus HD9876/25 + akcesorium 2w1 (komplet zestawu)"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443506/Air-Fryer-Frytkownica-beztluszczowa-PHILIPS-Ovi-Smart-HD987625-4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 80373,
+   "sha256": "5933e10ffafe03a704838eaf84f5b0a6cccfc5bd53cefe513cca0da31f5854d4",
+   "tag": "g4",
+   "desc": "packshot korpusu, front z panelem"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443506/Air-Fryer-Frytkownica-beztluszczowa-PHILIPS-Ovi-Smart-HD987625-5.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 93499,
+   "sha256": "bc5c211c16e22151c86ba0829a9b593658a1fb3d3b42fcdf53c98810a4977b6b",
+   "tag": "g5",
+   "desc": "akcesorium 2w1 do smazenia i gotowania na parze (w zestawie)"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443506/Air-Fryer-Frytkownica-beztluszczowa-PHILIPS-Ovi-Smart-HD987625-6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 108455,
+   "sha256": "832953b5aac59839de6a74fedb68d29af5459ddf9468cadbd0619bf58bbe6547",
+   "tag": "g6",
+   "desc": "lifestyle kuchnia, napis: akcesorium 2w1 w zestawie"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443506/Air-Fryer-Frytkownica-beztluszczowa-PHILIPS-Ovi-Smart-HD987625-7.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 116880,
+   "sha256": "6ad450a78d9230bcbe7e78861334d8afdd135321fff3a51c7d66a449e86a5ac2",
+   "tag": "g7",
+   "desc": "programy automatyczne (grafika ME/Philips)"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/74/7443506/Air-Fryer-Frytkownica-beztluszczowa-PHILIPS-Ovi-Smart-HD987625-8.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 76177,
+   "sha256": "2306a6e87f9fe29d00bc9ee139a26a91c7225f3c9be777a314c0f0d0b4639026",
+   "tag": "g8",
+   "desc": "aplikacja HomeID"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/74/7443506/storage_app_opisy2_philips_2061038_assets/kv_thor_1_feqb_desktop.png",
+   "width": 1500,
+   "height": 708,
+   "bytes": 255105,
+   "sha256": "112974ac510005a5431d68764bbd4a6f734e47cfb6821bbdce79bae593a00dce",
+   "tag": "o09",
+   "desc": "lifestyle: urzadzenie z potrawami (grafika opisu ME)"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/74/7443506/storage_app_opisy2_philips_2061038_assets/group_755_gqof_desktop.png",
+   "width": 914,
+   "height": 771,
+   "bytes": 117765,
+   "sha256": "84eb1156a7d102215fd9087f30b1b44ad53a010cf0dd817dd704c1d5cf046266",
+   "tag": "o16",
+   "desc": "tryby: chrupiaca skorka / delikatny smak (grafika opisu ME)"
+  },
+  {
+   "file": "logo-philips.png",
+   "kind": "logo",
+   "order": 9,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-na462-80/logo-philips.png",
+   "width": 525,
+   "height": 105,
+   "bytes": 6882,
+   "sha256": "ce7a6b83b3e2bf6792e5e2861058ff6e7b9f50de4dfa5871ba639bae644e396f"
+  }
+ ],
+ "rejected": {
+  "1": "g1 - packshot z telefonem (aplikacja); telefon nie jest w zestawie, kadr zbiezny z g3",
+  "2": "g2 - korpus z telefonem; kadr zbiezny z g4",
+  "9": "g9 - akcesorium do pizzy (HD9963/00) - wg karty ME akcesoria do kupienia oddzielnie, nie w zestawie",
+  "10": "g10 - misa do pieczenia z foremkami (HD9956/00) - do kupienia oddzielnie",
+  "11": "g11 - ruszt/separator z potrawami - akcesorium dokupowane, nie w zestawie",
+  "12": "o01 - wersja tej samej grafiki co g6",
+  "13": "o02 - wersja tej samej grafiki co g6",
+  "14": "o03-o08 - ikony",
+  "21": "o10/o11 - mniejsze wersje o09",
+  "23": "o12-o15 - potrawy bez urzadzenia",
+  "28": "o17/o18 - mniejsze wersje o16",
+  "30": "o19+ (23 pliki) - nie pobraly sie (format/SVG), nieuzyte"
+ }
+}

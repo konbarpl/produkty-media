@@ -1,0 +1,80 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T10:54:59.281096+00:00",
+ "sourcePage": "https://www.komputronik.pl/product/999018/braun-series-7-71-n1000s.html (karta zastepcza, ten sam GTIN 4210201433804 co morele 11738594; euro.com.pl zablokowane po IP 7.10)",
+ "slug": "braun-seria-7-71-n1000s-czarna",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "logo-braun.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://static.komputronik.pl/product-picture/11/AMGOL71N1000S-1.jpg",
+   "width": 1264,
+   "height": 1178,
+   "bytes": 157670,
+   "sha256": "4829129775f576aab5d30e44a96c856040c597d64df6755f3c33d52d7fb3cff0"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://static.komputronik.pl/product-picture/11/AMGOL71N1000S-2.jpg",
+   "width": 639,
+   "height": 639,
+   "bytes": 55456,
+   "sha256": "0df1484214bbaa690e1cc36a3fed16c02f11e2c41d0c0adc0c7acd8c4b03d752"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://static.komputronik.pl/product-picture/11/AMGOL71N1000S-3.jpg",
+   "width": 639,
+   "height": 639,
+   "bytes": 66606,
+   "sha256": "a987b4664122b80a979fd06cd80d3c82e9cd2990c7239998bf6dd4c33f254bb3"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://static.komputronik.pl/product-picture/11/AMGOL71N1000S-4.jpg",
+   "width": 1471,
+   "height": 1471,
+   "bytes": 164620,
+   "sha256": "36abc3a8db63fbbb714e53b2b6c94b150fb6d826c5d527d6a72add0e52cf2dda"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://static.komputronik.pl/product-picture/11/AMGOL71N1000S-5.jpg",
+   "width": 639,
+   "height": 639,
+   "bytes": 46230,
+   "sha256": "9009c0913dabe5dafb717b8ea349ff0a40c7c3e1e62e840086f3d56d2932d3cb"
+  },
+  {
+   "file": "logo-braun.png",
+   "kind": "logo",
+   "order": 6,
+   "sourceUrl": "repo produkty-media/braun-si9682db/99-logo-braun.png",
+   "width": 1200,
+   "height": 504,
+   "bytes": 19329,
+   "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a"
+  }
+ ],
+ "odrzucone": [
+  "morele 11738594_3 = ten sam packshot zestawu co komputronik -1, nizsza rozdzielczosc (duplikat)",
+  "morele 11738594_1 pudelko 157x329 px i 11738594_2 grafika 354x354 px - za male"
+ ]
+}

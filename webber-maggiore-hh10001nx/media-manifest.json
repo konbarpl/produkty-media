@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T12:58:54.731Z",
+  "sourcePage": "https://webber.com.pl/nawilzacz-powietrza-ewaporacyjny-webber-hh10001,id102.html",
+  "slug": "webber-maggiore-hh10001nx",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/1_max.jpg",
+      "width": 2000,
+      "bytes": 316116,
+      "sha256": "b6f5e71b76eb71e7163e9583e03fb7f2b1a4ae8444aa4a53c54064177ec84211"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/7_max.jpg",
+      "width": 2000,
+      "bytes": 205744,
+      "sha256": "60b5b2ca9ba5ac76b4fc8c7dccf4bb44bdac773d19bbce8b2470ff2a46c805fd"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/8_max.jpg",
+      "width": 2000,
+      "bytes": 176841,
+      "sha256": "f400e855f617a60f21dceeab3759bb04ed80a0c6a0785fdaaebc77a41d503b09"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/13_max.jpg",
+      "width": 2000,
+      "bytes": 176847,
+      "sha256": "f036340fc2c0ff1e7ec9917e20b794619a39aa2dec7b70e02ae3c307f7f12bab"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/11_max.jpg",
+      "width": 2000,
+      "bytes": 190010,
+      "sha256": "05b9d8ea78dd20ae04666e85305b97a5a18b31a8fdac748dd4e42a779bbb3132"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/14_max.jpg",
+      "width": 2000,
+      "bytes": 203864,
+      "sha256": "1b2d3411c05f8bf7197d4ec57c4220832d3631cafba7973492fa3c387e24be08"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/5_max.jpg",
+      "width": 2000,
+      "bytes": 127623,
+      "sha256": "d8ebafcaa819537e8f3bb2890a37631ff00e10bb869e119f4227c0e89d15aa98"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/12_max.jpg",
+      "width": 2000,
+      "bytes": 109347,
+      "sha256": "ada6abc3cd9b0e1db47ee4392196fd5bd4450630fb983729892a0b752d3793f5"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/3_max.jpg",
+      "width": 2000,
+      "bytes": 339541,
+      "sha256": "2dad7e3c64af4ef29f2a1d024a3de9d812e703cf3414eecff32703a533957906"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/4_max.jpg",
+      "width": 2000,
+      "bytes": 461781,
+      "sha256": "d231a4d0b4167380f775d1548997951730fd2a01b2cd9d9d6a1ae86d21ec4018"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/2_max.jpg",
+      "width": 2000,
+      "bytes": 318436,
+      "sha256": "c90538b288db49171119612e9adfa32892893ce6dc03fa16bea684160d4c3996"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/6_max.jpg",
+      "width": 2000,
+      "bytes": 364549,
+      "sha256": "e6a04e5fbed5a859b8f4a48a3a69143ffb7d117bfddaaf96ea5abdbe1282b5ff"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/9_max.jpg",
+      "width": 2000,
+      "bytes": 161573,
+      "sha256": "8eb869985b20a78cf0a2076907b71bae9dce672d30656e212a04bb1cb46f3979"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/10_max.jpg",
+      "width": 2000,
+      "bytes": 185210,
+      "sha256": "310ccc43abf29d6def50fdd76608a8b4979bb175519117eaa79451c1c8f246f0"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://webber.com.pl/img/products/10/2/16_max.jpg",
+      "width": 1024,
+      "bytes": 73604,
+      "sha256": "a7d00ac3b49f382614dd387865fdeb0290d0b627a8e8ad826706876756d005f5"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 1,
+      "sourceUrl": "produkty-media/webber-ap8550/logo-producenta.jpg (logo marki z repo)",
+      "width": 396,
+      "height": 99,
+      "bytes": 13037,
+      "sha256": "be47468cb8f048a18e769a4ce68b1eee9adb2745ce8e50fdc577a4a542b2676c"
+    }
+  ],
+  "dropped": 0
+}

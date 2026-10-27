@@ -1,0 +1,150 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:33:41.419Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie/szczoteczki-elektryczne/szczoteczka-magnetyczna-oral-b-io10-edycja-specjalna (galeria ME, id 13811340, gallery_1000_1000)",
+ "slug": "oral-b-io-10-edycja-specjalna-czarny",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "logo-oral-b.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/13/13811340/Szczoteczka-magnetyczna-ORAL-B-iO-10-Edycja-Specjalna-Czarny-2.jpg",
+   "width": 1000,
+   "bytes": 48118,
+   "sha256": "745b3093058f434e06b199af41a261423de2af6b6ab23105d7b2ed4cc6eaebdf"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/13/13811340/Szczoteczka-magnetyczna-ORAL-B-iO-10-Edycja-Specjalna-Czarny-1.jpg",
+   "width": 1000,
+   "bytes": 79015,
+   "sha256": "141c8d6bcbaef1b471596f3ab3e676f9d10c5b1749f36c319dc982aff5debeb5"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/13/13811340/Szczoteczka-magnetyczna-ORAL-B-iO-10-Edycja-Specjalna-Czarny-3.jpg",
+   "width": 1000,
+   "bytes": 84754,
+   "sha256": "a28d07d1b1c938c4d04792ed82602c252dcdc7bc9c2520d75a7f8d4ce8b4f9b0"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/13/13811340/Szczoteczka-magnetyczna-ORAL-B-iO-10-Edycja-Specjalna-Czarny-5.jpg",
+   "width": 1000,
+   "bytes": 72557,
+   "sha256": "d90805a3d31ad8e0102b7ef8b51cd68cffad686acaef4c54e6c22853e7eb3c85"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/13/13811340/Szczoteczka-magnetyczna-ORAL-B-iO-10-Edycja-Specjalna-Czarny-6.jpg",
+   "width": 1000,
+   "bytes": 77041,
+   "sha256": "2805f1226e12a4a8fbf18fcb98ab8762811d371608ca5c0c3ed02039dbbf64cf"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/13/13811340/Szczoteczka-magnetyczna-ORAL-B-iO-10-Edycja-Specjalna-Czarny-lifestyle-1.jpg",
+   "width": 1000,
+   "bytes": 115845,
+   "sha256": "6d873d24a6e699095792c9996646c9e43fe1e081ed4c7aac1f03ad9194d430d3"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/13/13811340/Szczoteczka-magnetyczna-ORAL-B-iO-10-Edycja-Specjalna-Czarny-lifestyle-5.jpg",
+   "width": 1000,
+   "bytes": 152364,
+   "sha256": "94ffd1c40914402cfdb6a8f9d39ad2ec609895786b4e9118c09e32ff66d8029d"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/13/13811340/Szczoteczka-magnetyczna-ORAL-B-iO-10-Edycja-Specjalna-Czarny-lifestyle-6.jpg",
+   "width": 1000,
+   "bytes": 143700,
+   "sha256": "f898515528108f61235660546f2d1105433481de33b4f7adb669a90f822a183b"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/13/13811340/Szczoteczka-magnetyczna-ORAL-B-iO-10-Edycja-Specjalna-Czarny-lifestyle-2.jpg",
+   "width": 1000,
+   "bytes": 150145,
+   "sha256": "b5982031331ae2e156ea25eb92e4043dd22170d4fbe648de60d2f90b6dee2ecb"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/13/13811340/Szczoteczka-magnetyczna-ORAL-B-iO-10-Edycja-Specjalna-Czarny-lifestyle-8.jpg",
+   "width": 1000,
+   "bytes": 127575,
+   "sha256": "29621c428b560d910f8b6d538b7cda19defd470f58883b97b467e4c406d5619e"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/13/13811340/Szczoteczka-magnetyczna-ORAL-B-iO-10-Edycja-Specjalna-Czarny-lifestyle-9.jpg",
+   "width": 1000,
+   "bytes": 135139,
+   "sha256": "54e57bf9a2a0a98b500464bba8a308b2d4b3c83e48077fa70b504cabc54b1cf1"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/13/13811340/Szczoteczka-magnetyczna-ORAL-B-iO-10-Edycja-Specjalna-Czarny-lifestyle-10.jpg",
+   "width": 1000,
+   "bytes": 125657,
+   "sha256": "d2024213cdc9c993f8fa941d284d2aec263734f7c5e369f8065d1848fa3f95be"
+  },
+  {
+   "file": "logo-oral-b.png",
+   "kind": "logo",
+   "order": 13,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/_logo/logo-oral-b.png (z dropshipping/materialy/logo/640px-Oral-B_logo.svg.png, Wikimedia Commons, na bialym tle)",
+   "width": 720,
+   "height": 273,
+   "bytes": 17867,
+   "sha256": "ab88c17ab2f1bbd8cab46cae51c498ab8beb77c11b975da85d1eaddd77a6fcc3"
+  }
+ ],
+ "dropped": 0,
+ "rejected": {
+  "k04 Czarny-4": "opakowanie innej edycji (pudelko iO 10 ULTIMATE bez napisu SPECIAL EDITION, plakietka #1) — nie potwierdza kompletacji tej edycji",
+  "k07 Czarny-7, k08 Czarny-8, k09 Czarny-9": "tyl/boki opakowania z drobnym wielojezycznym tekstem — nieczytelne, bez wartosci w galerii",
+  "k12 lifestyle-3": "infografika aplikacji Zdrowie bez produktu — ograniczenie galerii do 12 zdjec",
+  "k15 lifestyle-7": "w kadrze etui podrozne w BIALYM/srebrnym kolorze — inny kolor niz czarny zestaw tej edycji",
+  "k19 lifestyle-11": "plakietka \"#1 marka dentystow\" — reklama marki, nie produkt"
+ },
+ "kolejnosc": "produkt-01=k02 packshot zestawu na bialym tle (raczka na stacji, pojemnik na koncowki, etui), 02=k01 zestaw z pudelkiem SPECIAL EDITION i smartfonem (smartfon NIE w zestawie), 03=k03 zestaw z pudelkiem, 04=k05 pudelko front, 05=k06 pudelko skos, 06=k10 wyswietlacz, 07=k13 iO sense, 08=k14 funkcje ULTIMATE, 09=k11 aplikacja, 10=k16 koncowka, 11=k17 mycie, 12=k18 dopasowanie"
+}

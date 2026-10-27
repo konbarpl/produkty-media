@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-07T13:04:56.041Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/zdrowie-i-uroda/golarki/golarka-braun-seria-9-9667cc-pro-na-mokro-i-sucho (galeria ME, id 7996489, gallery_1000_1000)",
+  "slug": "braun-seria-9-pro-plus-9667cc",
+  "galleryOrder": [
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-01.jpg",
+    "produkt-04.jpg",
+    "produkt-07.jpg",
+    "produkt-09.jpg",
+    "logo-braun.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996489/Golarka-BRAUN-9667CC-1.jpg",
+      "width": 1000,
+      "bytes": 107170,
+      "sha256": "0c2ee92b7c676f76d455f253ae6eaef4bef0c081939760b006d851cb98c74765"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996489/Golarka-BRAUN-9667CC-2.jpg",
+      "width": 1000,
+      "bytes": 88664,
+      "sha256": "887d3e2cc36b95136295e6cc3d841aab68206701004fb0bca46b9ee2190c293b"
+    },
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996489/Golarka-BRAUN-9667CC-zestaw-wer-1.jpg",
+      "width": 1000,
+      "bytes": 149304,
+      "sha256": "a885f6d07feae59bd4263aa05fd737084ebf45eb170a6a4776fc4acd3722d00f"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996489/Golarka-BRAUN-9667CC-3.jpg",
+      "width": 1000,
+      "bytes": 111000,
+      "sha256": "eb9b37370c4c907bc57903f3c5a519a36efc5f437d79d65776985a23b45e284f"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996489/Golarka-BRAUN-9667CC-7.jpg",
+      "width": 1000,
+      "bytes": 122959,
+      "sha256": "cc31a7a57b6cc8c2e7c1ed74777ad3037f2bb1fa94126030b5453aff34fd4f2c"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996489/Golarka-BRAUN-9667CC-9.jpg",
+      "width": 1000,
+      "bytes": 142599,
+      "sha256": "35f231e247a39f5f4131dd44d80d4369d84c1db08ca624f3e7f3f3685a465b69"
+    },
+    {
+      "file": "logo-braun.png",
+      "kind": "logo",
+      "order": 7,
+      "desc": "Logo marki Braun (skopiowane z braun-si9682db/99-logo-braun.png)",
+      "bytes": 19329,
+      "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a",
+      "sourceUrl": "repo produkty-media/braun-si9682db/99-logo-braun.png",
+      "width": 1200,
+      "height": 504
+    }
+  ],
+  "dropped": [
+    {
+      "file": "produkt-05.jpg",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996489/Golarka-BRAUN-9667CC-4-nowe.jpg",
+      "reason": "bramka tozsamosci wykonawcy: lifestyle serii: mezczyzna z grafitowa golarka Series 9 Pro+ (inny wariant kolorystyczny niz srebrny 9667cc)"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996489/Golarka-BRAUN-9667CC-6.jpg",
+      "reason": "bramka tozsamosci wykonawcy: lifestyle serii: grafitowa golarka na trzech zdjeciach twarzy (nie srebrny 9667cc)"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7996489/Golarka-BRAUN-9667CC-8.jpg",
+      "reason": "bramka tozsamosci wykonawcy: infografika trymera ProTrimmer na grafitowym korpusie (nie srebrny 9667cc)"
+    }
+  ]
+}

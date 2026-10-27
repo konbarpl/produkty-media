@@ -1,0 +1,193 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:01:47.745841Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-frytkownica-beztluszczowa-bosch-serie-6-maf671b1-7-2l-z-7-automatycznymi-programami (galeria ME id 7911851 gallery_1000_1000 + zdjecia opisu storage_app_opisy2_bosch_2085660)",
+ "slug": "air-fryer-bosch-serie-6-maf671b1",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "logo-producenta.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7911851/2085660.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 120113,
+   "sha256": "a018738e40bec353107a2e6fe616382066d3c35ee9599713d8edc3e22298dc8c"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7911851/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-6-MAF671B1-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 69405,
+   "sha256": "7bacf0764c558aa15e5392b4a22b431b206545b5bfc85155c9a9781c6d97039c"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7911851/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-6-MAF671B1-9.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 122823,
+   "sha256": "608597f1c8156a80197b5620c159877dc595aeefdeac9015091daebb44acee4a"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7911851/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-6-MAF671B1-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 138404,
+   "sha256": "cda8623a9f71d8d28166c04cce4112090e09e3f1e3084dee7006a73140910671"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7911851/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-6-MAF671B1-8.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 98842,
+   "sha256": "e39603d9aed8e9d7c65eca407844964640bd3d0a2f24dcbd8f2ab3346d56d1a9"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7911851/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-6-MAF671B1-4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 164620,
+   "sha256": "ecbacf9ba3ee2d2b34c850a319804e32c5ee0fe94f7f29ec166bf56416261894"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7911851/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-6-MAF671B1-10.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 163945,
+   "sha256": "f19e439b9c1c32b1809b567baf690aec4d5252609bb455957102e7094a5e5fde"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7911851/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-6-MAF671B1-3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 71712,
+   "sha256": "62f22ecf31eb45dfed7fc11bc9cf303ace15313feedcc030bf9dd7967a9c0074"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/79/7911851/Air-Fryer-Frytkownica-beztluszczowa-BOSCH-Serie-6-MAF671B1-6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 162528,
+   "sha256": "33d73cb553716267e79c4fbfa1f1d0fc64e2f2fb910f0ba1995a7449a7645947"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "description",
+   "order": 10,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/79/7911851/storage_app_opisy2_bosch_2085660/1.jpg",
+   "width": 1100,
+   "height": 521,
+   "bytes": 125849,
+   "sha256": "bba9ee3abc29f92adf5523fd26b0726e844e54aa294e2cdcf22d99a8e3a3ce7e"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "description",
+   "order": 11,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/79/7911851/storage_app_opisy2_bosch_2085660/3.jpg",
+   "width": 1100,
+   "height": 620,
+   "bytes": 162503,
+   "sha256": "36556a717d6629cbd690ebee8241e424bcc9bd9f9e5e9fbd9c0fa0320f8f44a3"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "description",
+   "order": 12,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/79/7911851/storage_app_opisy2_bosch_2085660/4.jpg",
+   "width": 1100,
+   "height": 619,
+   "bytes": 146276,
+   "sha256": "56844e026d3f6aebbe5ff125cf0a6cc7e90d15e7fd533dd359f2c9b238bd8edb"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "description",
+   "order": 13,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/79/7911851/storage_app_opisy2_bosch_2085660/8.jpg",
+   "width": 1100,
+   "height": 620,
+   "bytes": 165105,
+   "sha256": "f87e081c81bd4797b6344a548189579ba7c4ddd78764d8e6fd40a21e655d2566"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "description",
+   "order": 14,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/79/7911851/storage_app_opisy2_bosch_2085660/9.jpg",
+   "width": 1100,
+   "height": 620,
+   "bytes": 188859,
+   "sha256": "082f44c0ae8828064df60b5a807b9e8fe61256aee70c148053f69e776e289542"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "description",
+   "order": 15,
+   "sourceUrl": "https://www.mediaexpert.pl/media/cache/resolve/filemanager_original/images/descriptions/images/79/7911851/storage_app_opisy2_bosch_2085660/6.jpg",
+   "width": 1100,
+   "height": 624,
+   "bytes": 167164,
+   "sha256": "9c84ae2690bc902721f52f39594c187ab52e25f0529abac3ae60e7b03be55c43"
+  },
+  {
+   "file": "logo-producenta.png",
+   "kind": "logo",
+   "order": 16,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/bosch-air-1000/logo-producenta.png",
+   "width": 446,
+   "height": 105,
+   "bytes": 22473,
+   "sha256": "6760ac2ee997737fb61be9b017dc12ff7ec58c7a2ef060e2d719efa5f8324739"
+  }
+ ],
+ "rejected": {
+  "6": "g5 = lifestyle z dziecmi, frytkownica w tle nieczytelna",
+  "8": "g7 = lifestyle z boku, nie widac frontu modelu",
+  "13": "o2 = kadr g2",
+  "16": "o5 = kadr g10",
+  "18": "o7 = kadr g3 (panel)"
+ }
+}

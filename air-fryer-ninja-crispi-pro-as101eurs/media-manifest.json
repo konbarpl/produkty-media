@@ -1,0 +1,170 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:16:17.559199Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-frytkownica-beztluszczowa-ninja-crispi-pro-as101eurs-2-szklane-pojemniki (galeria ME id 9545938; kolor zgodny z packshotem producenta AS101EURS_01)",
+ "slug": "air-fryer-ninja-crispi-pro-as101eurs",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "produkt-12.jpg",
+  "produkt-13.jpg",
+  "logo-ninja.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545938/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EURS-2-szklane-pojemniki-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 149321,
+   "sha256": "fff813659f449770388805492a5ee4e29dcd843802facb47c6b0317c13621633"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545938/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EURS-2-szklane-pojemniki-4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 156481,
+   "sha256": "ef3142a1d464a048d346049ec2632465682870fd3be725ff4dc45b6955d71b46"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545938/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EURS-2-szklane-pojemniki-5.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 147747,
+   "sha256": "df43b43e053bbd225b0a415ef0512576de1b1862382d7d405b5f6c72d0667c52"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545938/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EURS-2-szklane-pojemniki-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 121781,
+   "sha256": "0f13471a5f5becc9e04e89c1fb8ea49f50dc55a48505f3dd9351f0bf1f7b5710"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545938/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EURS-2-szklane-pojemniki-3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 89592,
+   "sha256": "f50c7049ea5b9444ecb947077bd6676a1e6ae6cf823cace0cea8c4a1a16bafe6"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545938/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EURS-2-szklane-pojemniki-lifestyle6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 356039,
+   "sha256": "4b5487ba527cadfbb9ca260761988d5dde9e994047cdc7af6e1a2ce8e6234e9c"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545938/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EURS-2-szklane-pojemniki-lifestyle1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 208696,
+   "sha256": "bd196041e430b5cef5c0d69b21dbeb7604c33560de8dfbd5c4ee30b3ff1427c1"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545938/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EURS-2-szklane-pojemniki-lifestyle2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 205315,
+   "sha256": "a67bca087bf0f6aed6a0c7d9fc750a2a4961f0a638c8656e8687200c8dc337aa"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EURS/AS101EURS_gallery_pl-PL_06.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 206918,
+   "sha256": "4c0f520a51f8941203f0d5edb199e0a35e7b203604f382875cedcc45aa86a953"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545938/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EURS-2-szklane-pojemniki-lifestyle7.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 184175,
+   "sha256": "bc9960b7fc36eedae1a571539554dc5f38a7f21c157b467bd67b563a63558c23"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EURS/AS101EURS_gallery_pl-PL_12.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 577151,
+   "sha256": "1f6d7fa7bfbc71f72f6c5c399c8266ff0f5b931526956dd28c1dcbe5852c6a0b"
+  },
+  {
+   "file": "produkt-12.jpg",
+   "kind": "product",
+   "order": 12,
+   "sourceUrl": "https://assets.sharkninja.com/image/upload/storefront/products-PL/AS101EURS/AS101EURS_gallery_pl-PL_13.jpg",
+   "width": 1400,
+   "height": 1400,
+   "bytes": 531959,
+   "sha256": "9c839bb6beaae957daed917eca555b3589dbe61dde69ef8f96c4b74d0a739607"
+  },
+  {
+   "file": "produkt-13.jpg",
+   "kind": "product",
+   "order": 13,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545938/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EURS-2-szklane-pojemniki-lifestyle4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 88546,
+   "sha256": "29966524c50c217a557ed451e3fbc63ed4cb21b5f02c58b9e506c4c95b553561"
+  },
+  {
+   "file": "logo-ninja.jpg",
+   "kind": "logo",
+   "order": 14,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/ninja-fn101eugy/logo-ninja.jpg",
+   "width": 1008,
+   "height": 470,
+   "bytes": 49308,
+   "sha256": "6582c0ad0f51c41f1fd3814dcece75134baf029470d8fa8eaab2b86dfecb729e"
+  }
+ ],
+ "rejected": {
+  "k08-ME": "w prawym gornym rogu wstawki z urzadzeniami w innych kolorach (LG/GY) — galeria miesza warianty",
+  "k10-ME": "trzy naczynia 2,3/3,8/5,7 l — naczynie 3,8 l sprzedawane osobno, mylaca kompletacja",
+  "k13-ME": "kolaz przygotuj/ugotuj/podaj — kafel \"Ugotuj\" pokazuje urzadzenie w kolorze szaro-zielonym (wariant GY), nie rozowym",
+  "k14-SN, k23-k26, k28-k32, k35-SNPL": "assety producenta AS101EURS — dubluja tresc ME (packshot, wymiary, 7 funkcji, szok termiczny, zmywarka) albo pokazuja naczynie 3,8 l sprzedawane osobno (k25, k26, k31)"
+ }
+}

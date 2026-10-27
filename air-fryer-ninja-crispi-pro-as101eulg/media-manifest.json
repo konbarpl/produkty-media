@@ -1,0 +1,147 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-08T06:02:44.014618Z",
+ "sourcePage": "https://www.mediaexpert.pl/agd-male/do-kuchni/frytownice/air-fryer-frytkownica-beztluszczowa-ninja-crispi-pro-as101eulg-2-szklane-pojemniki (galeria ME id 9545926; kolor zgodny z packshotem producenta AS101EULG_01)",
+ "slug": "air-fryer-ninja-crispi-pro-as101eulg",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "produkt-06.jpg",
+  "produkt-07.jpg",
+  "produkt-08.jpg",
+  "produkt-09.jpg",
+  "produkt-10.jpg",
+  "produkt-11.jpg",
+  "logo-ninja.jpg"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545926/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EULG-2-szklane-pojemniki-1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 164507,
+   "sha256": "3c81a073f081dd47ece93ee5843209dfb99022df1515a6752f979e29f1a18b25"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545926/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EULG-2-szklane-pojemniki-4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 156529,
+   "sha256": "886c74f0298d98ec544e831ddba1d05005ff0738a2ddf91d2baea06ff511c00c"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545926/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EULG-2-szklane-pojemniki-5.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 158163,
+   "sha256": "57bb9510d10f58383f90ded651b44176bf5afd20df262dd0b1c8438874bda15f"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545926/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EULG-2-szklane-pojemniki-2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 119568,
+   "sha256": "c5f869389235dca35e5301f09f278bb2d358887fbb466132ee24882efb27c5d4"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545926/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EULG-2-szklane-pojemniki-3.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 90744,
+   "sha256": "5e6384144a55af17e085586976b5926275c3e48b2181efb062b290739cb2b57c"
+  },
+  {
+   "file": "produkt-06.jpg",
+   "kind": "product",
+   "order": 6,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545926/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EULG-2-szklane-pojemniki-lifestyle6.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 356039,
+   "sha256": "4b5487ba527cadfbb9ca260761988d5dde9e994047cdc7af6e1a2ce8e6234e9c"
+  },
+  {
+   "file": "produkt-07.jpg",
+   "kind": "product",
+   "order": 7,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545926/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EULG-2-szklane-pojemniki-lifestyle1.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 177914,
+   "sha256": "b62e9028fb7060d4c394674f881b1c065ef6128d501a7048bd82621f15cddd21"
+  },
+  {
+   "file": "produkt-08.jpg",
+   "kind": "product",
+   "order": 8,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545926/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EULG-2-szklane-pojemniki-lifestyle2.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 217309,
+   "sha256": "8c6b4e23ca942fc0958ca264224c11b74d995f7b9743fbb7f0f5cd5ff95aa3d4"
+  },
+  {
+   "file": "produkt-09.jpg",
+   "kind": "product",
+   "order": 9,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545926/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EULG-2-szklane-pojemniki-lifestyle8.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 255311,
+   "sha256": "b5bd12ae1ea63233db3ca9c674c522d7f4dcb8b6a6f34c823c86b3a2263a35ac"
+  },
+  {
+   "file": "produkt-10.jpg",
+   "kind": "product",
+   "order": 10,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545926/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EULG-2-szklane-pojemniki-lifestyle7.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 184175,
+   "sha256": "bc9960b7fc36eedae1a571539554dc5f38a7f21c157b467bd67b563a63558c23"
+  },
+  {
+   "file": "produkt-11.jpg",
+   "kind": "product",
+   "order": 11,
+   "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/95/9545926/Air-Fryer-Frytkownica-beztluszczowa-NINJA-Crispi-Pro-AS101EULG-2-szklane-pojemniki-lifestyle4.jpg",
+   "width": 1000,
+   "height": 1000,
+   "bytes": 88546,
+   "sha256": "29966524c50c217a557ed451e3fbc63ed4cb21b5f02c58b9e506c4c95b553561"
+  },
+  {
+   "file": "logo-ninja.jpg",
+   "kind": "logo",
+   "order": 12,
+   "sourceUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/ninja-fn101eugy/logo-ninja.jpg",
+   "width": 1008,
+   "height": 470,
+   "bytes": 49308,
+   "sha256": "6582c0ad0f51c41f1fd3814dcece75134baf029470d8fa8eaab2b86dfecb729e"
+  }
+ ],
+ "rejected": {
+  "k08-ME": "ten sam kadr co k06 (reka wkladajaca naczynie 2,3 l), inny crop — dubel tresci",
+  "k10-ME": "trzy naczynia 2,3/3,8/5,7 l — naczynie 3,8 l sprzedawane osobno, mylaca kompletacja",
+  "k14-SN, k23..k32-SNPL": "assety producenta AS101EULG — kolor zgodny z ME (porownanie_kolor.jpg), galeria ME kompletna; nieuzyte (dublują tresc ME; k30 z naczyniem 3,8 l)"
+ }
+}

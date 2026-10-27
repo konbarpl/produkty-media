@@ -1,0 +1,54 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-07T13:15:55.935Z",
+ "sourcePage": "https://www.braun.pl/pl-pl/male-grooming/shavers-for-men/series-9/series-9-pro-plus-9615s (karta producenta; wylacznie pliki z kodem 9615s w nazwie: hero-image, witb, packaging); odrzucone: psp-...-shelf-9615s (ta sama kompozycja co hero, nizsza rozdzielczosc 1080x810), mega-* (porownania serii), zdjecia serii bez kodu modelu (noble-metal, ikony, akcesoria witb), plansza z gwarancja (trimmer-germany-warrenty)",
+ "slug": "braun-seria-9-pro-plus-9615s",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "logo-braun.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/7HSXs3rDHtOUfVDUqEpNvm/837203fd8a2bd408d4af00976eda01a3/pdp-mpg-series-9-pro-plus-9615s-hero-image.jpg?fm=jpg&w=1200",
+   "width": 1200,
+   "bytes": 193639,
+   "sha256": "e26fa1fe07fb2a945cf413c102e076161b327e4e72379e392785bd14b3c8f455"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/5bdMU7hoJnN3K26oNhuIHU/48186d4210e6d3090723327ea59ae473/pdp-mpg-series-9-pro-plus-9615s-witb.jpg?fm=jpg&w=1200",
+   "width": 1200,
+   "bytes": 162883,
+   "sha256": "3c2b883298d757512f2f62ac8908a30b0a446ba1cedf975b09b32bf40050600a"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.ctfassets.net/58lxv11v4e56/4KNcdlPzFgl7CawGY8unYK/f33314b841a2e065b7ba9017cabc7402/pdp-mpg-series-9-pro-plus-9615s-packaging.jpg?fm=jpg&w=1200",
+   "width": 1200,
+   "bytes": 131758,
+   "sha256": "2a6c176b68f178fde7a38e82dceabd83efd688dbd0119e781fb1e4c694471e3d"
+  },
+  {
+   "file": "logo-braun.png",
+   "kind": "logo",
+   "order": 4,
+   "desc": "Logo marki Braun (skopiowane z braun-si9682db/99-logo-braun.png)",
+   "sourceUrl": "repo produkty-media/braun-si9682db/99-logo-braun.png",
+   "bytes": 19329,
+   "sha256": "dc665b98a44c9812367eaabf4e35dcd05335b07dd7eeee6da1fe502cc51c8e1a",
+   "width": 1200,
+   "height": 504
+  }
+ ],
+ "dropped": 0,
+ "note": "Galeria wylacznie zdjec modelu Braun Seria 9 PRO+ 9615s z karty producenta braun.pl (pliki z kodem 9615s: hero-image, witb, packaging). Odrzucone: shelf-9615s (duplikat kompozycji hero), mega-* (porownania serii), zdjecia serii bez kodu modelu. Logo na koncu."
+}
