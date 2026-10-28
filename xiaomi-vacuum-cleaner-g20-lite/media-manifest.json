@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T10:17:28.012608Z",
+  "sourcePage": "https://www.mi.com/pl/product/xiaomi-vacuum-cleaner-g20-lite/",
+  "sourcePageAlt": "https://mi-store.pl/product-pol-2711-Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Vacuum-Cleaner-G20-Lite.html (packshoty produkt-02..04, 600x600)",
+  "slug": "xiaomi-vacuum-cleaner-g20-lite",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "logo-xiaomi.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://i05.appmifile.com/297_item_pl/08/08/2024/afc466a4019bee362c05b45308539265.png",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 49694,
+      "sha256": "6193b016f18c9f86751a5bfb4bc1288b3d0ca97629a4a04c787359cda1339337"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/0e4befe3c5c582ff294b31ed7977c755/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Vacuum-Cleaner-G20-Lite-2711_1.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 11114,
+      "sha256": "e550d9e28179694afb05061ceac31a9fb36c097182a6d84c80200dd580337b0f"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/3850692bd16d5179c3f446fc2f2457a1/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Vacuum-Cleaner-G20-Lite-2711_4.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 11333,
+      "sha256": "0c8d0b78c524181913ed323869b6f8fd51834a804b2941fcf2c99dda5bceb215"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/f05d9279558e273de0a15c0ad722335e/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Vacuum-Cleaner-G20-Lite-2711_2.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 8337,
+      "sha256": "02e697932ab4c631d75917b9998826ab3f0ab5df5e9e4e1bf4ebfdf8b664a328"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/pc1_kv_name.jpg",
+      "width": 2560,
+      "height": 1120,
+      "bytes": 267650,
+      "sha256": "d0ba9831c16ae280e1b5a11d0d91bb26243ecbd931ee3de084033bee70396593"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/4aec87a13ac2a4a7413a67b3c6b9c5c4.png",
+      "width": 1441,
+      "height": 819,
+      "bytes": 91986,
+      "sha256": "7eba872a9a9de7055c28b8ffc027a0a564eeddbb20465dd947e18b1ea6401590"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/pc9_instant.png",
+      "width": 1441,
+      "height": 819,
+      "bytes": 228115,
+      "sha256": "5cdaf5f62d0bea5d0caced37660c7b3692ab5be9eb4c58b3d1c1a12d3ef3c6e2"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/pc-g20-light.jpg",
+      "width": 2560,
+      "height": 1382,
+      "bytes": 222594,
+      "sha256": "3010d657953b5d6e1e4622a10036e75f6ac37ef3451cc7b2eb50db00df8aac73"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/pc8_surface.jpg",
+      "width": 2560,
+      "height": 1398,
+      "bytes": 613521,
+      "sha256": "0d73df492e6ce6c6206bc136bee40b1753d659a3124b02fe2300b5e90eb66f4e"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/pc-g20-battery01.jpg",
+      "width": 2560,
+      "height": 1472,
+      "bytes": 142028,
+      "sha256": "1e78c595a304de8d52f5cac8abd5a06642187c2f980fe7357c6add7c5b815365"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/ksp_five_stage.png",
+      "width": 471,
+      "height": 535,
+      "bytes": 24985,
+      "sha256": "06911a6d9724405226af4fa312204ff0c6269c5a71beb33945e5f1658b912b8e"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/69df795c16f6ccc87eb9dac5c9875022.png",
+      "width": 471,
+      "height": 535,
+      "bytes": 31812,
+      "sha256": "1812b5a5f208a0fdf34bf166b067d38a51cea4a4face263c20f90b29430fc7fb"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/pc5_secondary.jpg",
+      "width": 2560,
+      "height": 1196,
+      "bytes": 91401,
+      "sha256": "38b4edb10db8b56eedcf7ff74c26cdc482100dd3ef5945940e2913dcac08f128"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/cd88de6617cc1d84480fd1e0cee25143.png",
+      "width": 701,
+      "height": 959,
+      "bytes": 73005,
+      "sha256": "c84208dce1ce9acafe12d6e00f73ce899f089b6ac93743970d181e8bc69c7333"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/pc9_desktop.png",
+      "width": 701,
+      "height": 959,
+      "bytes": 90692,
+      "sha256": "df6014520b9bdf7284454392d578347d9b0d43ddb52b92aae4ec4a7dae10291a"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/a445f738ce5826b941eed6bff7da710e.png",
+      "width": 471,
+      "height": 535,
+      "bytes": 21304,
+      "sha256": "38a37ea398122b070b8ea9a938decfda535b5ed80c227d5386b38e7bcc299de7"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/pc10_mounted.png",
+      "width": 1440,
+      "height": 663,
+      "bytes": 39294,
+      "sha256": "fd40e41e727d82791afd72cbe13f353c23e0b38b0abd0c7d413491dbd6ddbe39"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/pc10_indicator.png",
+      "width": 1440,
+      "height": 663,
+      "bytes": 40008,
+      "sha256": "3f951f50490557f5d1687dce73c847a714216f48a84b0dedce77ab6a59ece34a"
+    },
+    {
+      "file": "logo-xiaomi.jpg",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "kopia płótna 1200x300 z produkty-media/xiaomi-mijia-vacuum-cleaner-4c/logo-xiaomi.jpg (G81, 28.10)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 13797,
+      "sha256": "840d50909822e380d236f4ea4037a662fab4f107eed8b970a6389541c916bea4",
+      "inkRatio": 0.297
+    }
+  ],
+  "dropped": 16,
+  "droppedList": [
+    {
+      "sourceUrl": "https://mi-store.pl/hpeciai/e4f1b415fdc1b1054a6b9aa4f0c65b97/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Vacuum-Cleaner-G20-Lite-2711_3.webp",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://mi-store.pl/hpeciai/eefc749df6362c4fc4d544d306db5814/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Vacuum-Cleaner-G20-Lite-2711_5.webp",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/13415a917c0067baa97d0a974ece883b.jpg",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/1c1fdef596d0041a96872b6d15ac6713.png",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/2-in-1-brush.png",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/461efe4c41e9cb96241d4c0b044d904c.jpg",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/566ac47a63af6676f9664e241d038707.jpg",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/6baabff40b43f61875cc635e301e73bf.png",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/7b0078ec234fe4acd9be3b6277999197.jpg",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/8304b3511523a27eb3880c23310f3a33.jpg",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/eb581dabce26f1c03d2676ac15b79431.jpg",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/f64d5123d0bd78690c4d2b11ff87ea81.png",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/pc-g20-1.png",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/pc-g20-3.png",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/pc-g20-name.png",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g20-lite/PC/pc-g20-table2.webp",
+      "reason": "tekst/tło/ikona/pusty kadr albo wąski kadr-duplikat innego zdjęcia"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "slug": "electrolux-ultimate-hygienic-800-ep82u25ult",
+  "model": "Electrolux Ultimate Hygienic 800 EP82U25ULT",
+  "source": "https://www.electrolux.pl/vacuums-home-comfort/vacuum-cleaners/stick-vacuum-cleaners/cordless-sticks/ep82u25ult/",
+  "collectedAt": "2026-10-28",
+  "note": "Zdjecia wylacznie z karty producenta electrolux.pl (JSON-LD Product.image, sku EP82U25ULT, PNC 910008060; endpoint WS_ZO2000 = 1200 px). Tozsamosc wzrokowo na kontaktowce: korpus braz mahon + rura w kolorze miedzi, stacja z akcesoriami, torba. Odrzucone: plansza Power Mop+ (mop nie wchodzi w zestaw wg specyfikacji karty), 3 duplikaty, 2 zblizenia z 2024 o niepewnym kolorze. Logo = plotno 1200x300 z katalogu EP83HB25WU (G81).",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "logo-electrolux.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/ac43a453-de37-41ee-8c5a-e6a5d040b9f9/250916L1GS-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 110298,
+      "sha256": "bd14794e1d7e2ba286a1d416d30cb2b5232b9201b4a4d7d91a53afa1f37ae8b2"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/89401895-f912-4c43-9743-2cd753071818/2509168PPP-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 29280,
+      "sha256": "b414c81e2b17837dd72f09e1d6f423c1b8f713f4fb9cbb4c2fb35f8859d11012"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/ec5fc877-1f35-4687-ac48-cdd3a5e2647d/250916EZNK-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 59193,
+      "sha256": "d61c7cf884f8458dfa2640ddebfb6f91930ca2862f633583ac5817a0675176aa"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/c7d4516d-ff9a-4749-9fbd-b428780606c0/250916JBY0-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 38202,
+      "sha256": "c328b0d06d51ccd7d566ac4f95e6715fe7cb7ae4d7b386bcce4ba8722a1c0f6b"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/3587aba8-52d9-4438-9049-d1cf358c130c/250916KBAK-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 39124,
+      "sha256": "3d46beaf102584d91b6b7fe8f1f0c232416f7aef900a0735d6a58a4deab3427d"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/b96825ef-857b-4c2e-8fe4-71e481715eb1/250916PVAE-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 38327,
+      "sha256": "ff7005bdac82092af1049aaf3b933b4c588b8a4d7ec61352f43f3b227dcb9447"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/3119bae9-e5e7-4bf8-8fdf-1cde2a35c25c/250915QGAK-pdf",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 121464,
+      "sha256": "ea20ed40b8ec77ec2c7a23ee7e4c6e2d91f4b040d500e832c6564b93d47ca692"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/63b83444-cdcc-4d79-af31-77a8819179b4/2509157GCK-pdf",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 144313,
+      "sha256": "2aebdc05a483d02303043148422f4fb617a8ecef0d5bdedbc94342bc10d8790d"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/cfec6115-b036-485d-ab4e-7553ab4f365f/250915FO26-jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 175522,
+      "sha256": "56c4a7a4d655bbe5f4f3aea7ac6be9f9d1349e0e9424af38e3aef3a1d4291d8b"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/cc9f529b-bb8a-40d9-a054-e66c668fcbc8/250915FWOU-pdf",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 220108,
+      "sha256": "5537d868c583eeab2fc85f8d6cd09c8de7250d1067009db53b34668c984685dd"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/ac491c1b-8503-49d9-a23c-11841cf36919/250915WYFF-pdf",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 215077,
+      "sha256": "05b4aa68356773d962353a702b10a67d171300bf0c756419102490d2e87008f5"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/76cff093-1f97-43d7-8e26-86b5e590a6eb/250915UH3P-pdf",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 220823,
+      "sha256": "923c8393c16a30dfe6fe00d719b69fc4b9029b24522e05f1deebdc05baef445d"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/7f9313fc-e46e-4792-b595-7c23eaf3fcef/250915SXTB-pdf",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 217329,
+      "sha256": "799c9e7d248dc05b1db85547de496c8cda2c36a43ba11dce9b032a3784dbbb9a"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/d3d7fb36-6947-45d3-8388-0cacb279192b/250905W2WI-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 140143,
+      "sha256": "c912ffa92e5435987e7813716fdcd2c63fc07fb335f5872c32f9eb500a28fa82"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/87bd9b51-85bc-40c1-86d3-4fc0995f2fc7/250905IRXM-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 158493,
+      "sha256": "7390faf7991aff70ff943b703469aed9a7a0202e8274c835249b00d04028c2b8"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/d604663b-c9d1-4ee6-b984-dbd60dbc5582/240618G32M-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 93715,
+      "sha256": "f97e1173d7861ce68fa52cdd64412e23c4e6eea69f290369032fe9025c690a2c"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/95722287-a785-42ff-9949-163ebb8a708b/240618M83J-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 111974,
+      "sha256": "7546b70974571f6b6bd3890cbb28cee6056545affa120a26e17604de4b866f3a"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "sourceUrl": "https://www.electrolux.pl/services/eml/transform/WS_ZO2000/fdfa2a27-2fbd-472a-9d97-08d82c30aa10/240618SBGC-tif",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 136360,
+      "sha256": "6ac9c34770ab08a232be272ac6c12cd7e7918758e74aa66393677d95d73d938e"
+    },
+    {
+      "file": "logo-electrolux.jpg",
+      "sourceUrl": "repo produkty-media: electrolux-absolute-hygienic-800-ep83hb25wu/logo-electrolux.jpg (plotno 1200x300, znak 30%, G81 28.10)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 14922,
+      "sha256": "3e45986dbf265e266d1b59c226fb964889da0092c64a614dfd7d663e30048c34",
+      "inkRatio": 0.3
+    }
+  ]
+}
