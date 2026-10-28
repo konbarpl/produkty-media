@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T13:59:38.719Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/FC9333_09.assets",
+  "slug": "philips-powerpro-compact-fc9333-09",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "opis-07.webp",
+    "opis-08.webp",
+    "opis-09.webp",
+    "opis-10.webp",
+    "opis-11.webp",
+    "opis-12.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_782f3de5_b0e0_4985_91e175e69f3282a2?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 46354,
+      "sha256": "636879e518ecdb1da6f5e4d3344ca7bd20cbbad43e82b0b7881ed580d8d7b3c9"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0b443dad_1966_4576_8b28fb20932b6788?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 38516,
+      "sha256": "4a30137dd7fc7cc98dac387cc94c0bfbe3e1d2ed67fd3c5092084d272d9dcfe5"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_202ad17a_b295_4cc5_b122347d8afa30b2?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 41608,
+      "sha256": "41220d2da31140ebee4ca448fb7ea0bf7c547310a0ccdceb4bbad76b72cdc1ea"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_507f270f_329c_415c_bc6825f87a937abd?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 56018,
+      "sha256": "248f745a2150f5a978e00b18431c916139e141d07a7459da5c1398c5cffe14de"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5e3ec0a8_f098_4a97_a882688d5f6e8d9f?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 38046,
+      "sha256": "d4baeb582c9112a84f4790c36b4fb77b60bed4d429c2b927db6e5b3862ee2a5e"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_94185a76_169a_48d2_b8bcc90c16dc0fd2?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 35008,
+      "sha256": "68f051cd4f6cff1c4e0bab5ac114f9038e736005c12bf9555b514ef3fb77dc4b"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b2723283_60e8_48e3_90546a941a7218f0?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 50358,
+      "sha256": "1ebb230ea7179d72cf20bdde458c41aab582a93c02b5928ffc519337385d48c5"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_55feead8_1fcc_4d11_940ad38f164cd8cd?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 23908,
+      "sha256": "d4da121afea4d7bd2bfd160e62517bf836cc7bc4322c6c5571fd2966202b5f15"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_960cfb09_297f_4cb5_99803278a1f2faba?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 69354,
+      "sha256": "9ad34fe8e0bcb1647b916fe60f1254992f3f8a84a91f0e1a6bf3af56c5f8a9e7"
+    },
+    {
+      "file": "opis-07.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_671aab84_829b_4ac4_a68d240a1144f194?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 42760,
+      "sha256": "0f93996236bc8c0039e1685fba5148ae7dc0288aaf6357b981ed45800589cc6b"
+    },
+    {
+      "file": "opis-08.webp",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b7fc76bb_c70f_4539_a732ab226664f258?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 39656,
+      "sha256": "89f8559e76a18f6317c963b3771e536b5df4e75c8015ee55dce221514486ef05"
+    },
+    {
+      "file": "opis-09.webp",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_23489308_e023_4402_a5c9c0770020964c?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 20032,
+      "sha256": "3ee1a5315053059625e7538a1b0c976ae118165ee1a7d9b45e6adfbf53f0cac0"
+    },
+    {
+      "file": "opis-10.webp",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8c059784_8df9_4131_894764d7ee9d5221?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 40114,
+      "sha256": "f1e676fd269a71d646deff67961933b8347780411b36880eefac99ec56a5fb26"
+    },
+    {
+      "file": "opis-11.webp",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_557b4915_8866_481a_bcfb59717d4b0f95?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 25004,
+      "sha256": "7858375ce744d853f23ccdcbd2f6de4a67e221a9312ef24f86b586f79eba8578"
+    },
+    {
+      "file": "opis-12.webp",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_419b9acd_4224_4544_a7059861691a7253?wid=1200&hei=1200&fmt=jpg",
+      "width": 1200,
+      "bytes": 43670,
+      "sha256": "3e0cec15db25d0bd8281a30e535857fc908530fd23da40638be440e67a9fe8b7"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 16,
+      "sourceUrl": "dropshipping/materiały/logo/Philips_logo małe1.png (logo_plotno.py --napraw)",
+      "width": 1200,
+      "bytes": 9114,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+      "height": 300,
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 0
+}
