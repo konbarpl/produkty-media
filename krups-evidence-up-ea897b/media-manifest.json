@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T16:59:15.749272Z",
+  "sourcePage": "https://www.krups.com.pl/%C5%9Awiat-kawy/Ekspresy-automatyczne/Ekspres-automatyczny-KRUPS-EVIDENCE-ECO-DESIGN-EA897B/p/8010001021",
+  "slug": "krups-evidence-up-ea897b",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-krups-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wzOTcyM3xpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnME1TOW9Nemd2TWprM01UWXlOVGMzTXpRMk9EWXw1NzdhMTkzNWYyNWY1M2FmZGZmMWExMTg5OTZlM2ZhZDk5NTRhMDA5NGQzNTE5Y2RjNTIyYjM2OTUwNDQ0OWE2",
+      "width": 700,
+      "height": 700,
+      "bytes": 55820,
+      "sha256": "e7e5773eb2460689d23be9b31f6ba9aad141152b807f51c4ff52e090a83cce7d"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wxMzQyNjN8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZzJZUzlvTW1Rdk1qYzJOREUwTWpZMU5ESTJNakl8MjE1NjNlZDY3NzEyYTk2YzBhOWZhOTYzNzc1YjA0ZjgzZDY5MTk5MGQ0MDgwN2I4ZDRjZWY3YWZhODdhYjg5OA",
+      "width": 700,
+      "height": 700,
+      "bytes": 58403,
+      "sha256": "c9e5ca989dc5fcbff394ed87c194b8ebf8ef70a34bb9cc096044fedd30a54cc0"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w3Njc3OHxpbWFnZS9wbmd8YVcxaFoyVnpMMmhtTmk5b05URXZNamsxTkRNd05qSTVOakl5TURZfGQ3MTU4Y2NmMGY2NGQ3Nzg5MWZlYjY4ODIwZWUxMDY0YmVlZDIyODJmZDY0MWMyYjViNzg3OTRiZjFlMTYwZGI",
+      "width": 700,
+      "height": 700,
+      "bytes": 53288,
+      "sha256": "c4382c1ae8d3d3b5f739ea7da40bc4e5578aff308c79d84c8dfd92ecc887d07f"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0MTc3NTd8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZzFOQzlvT1dZdk1qYzNNVFl6TURBeE56YzBNemd8ZTdhNjI3OTkwMzJiNWYzYTI5NmE2NWFlNjNiNTc5MTI3N2ViNDZlMWM3N2JmNjM2NDI5ZTMxZTJmY2VmNWE2Mg",
+      "width": 700,
+      "height": 700,
+      "bytes": 97861,
+      "sha256": "271a900e60d2828bdaddfd487ba9d198da89e70ad816a2e08a4494350dab3b5d"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0NDk4MXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnM01DOW9PVFV2TWprME5UZ3dORFU1T1RJNU9UQXwwMmYwNzQ5MzQ5NjVlYzBlYjQ2M2FiMjg0NGQzYTZjNDkxMDgwN2I4Y2RlMmE0MzlmNzZkODI2ODYxYWM2NjNl",
+      "width": 700,
+      "height": 700,
+      "bytes": 65037,
+      "sha256": "c712bd5fb8753b9d1a927745aa5b03398f6c5a4ad6e3de78872d2a4e18faa839"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0MTUzMTN8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZzNOaTlvT0Rjdk1qYzNNVFl6TVRBME1ERXdOVFF8OTRmNmVmZTdlODIxZjRjYTk3NzM5NmI0NTlmYWQ3YjU3OGQ5NTRlMGRlNjk0MjFjZTZhYTFlNGEzMTg4YjgxYw",
+      "width": 700,
+      "height": 700,
+      "bytes": 87648,
+      "sha256": "fcbdfa87e76286198421a2682be1e6985f76cf6d9401ba3a085049747cd2a933"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wzOTgzNzh8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaG1PQzlvTjJZdk1qYzNNVFl6TVRBMk5qTXhPVGd8ZTBlODQwNTAwZWQ4MDFlNjQ5YzNjYjY4MWJhNWNmM2M3YmZlZWY5ODIyZDhkMzE3YzU4MTczMmU5ZjBmNDg5OQ",
+      "width": 700,
+      "height": 700,
+      "bytes": 85363,
+      "sha256": "9d878d5d1201192163b90bf97c18f42452b4d954e7a38cecc9bd9133b58755f6"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wxMTI0NTF8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaGxNUzlvWkRndk1qa3hPVGN6TkRFd016STBOemd8NjliNjg1NmY0NDEzMmI2ZmNiMmFjNGFkOWE4NDJiOGJkM2E2YTI3YzU5YzZkZWZiNGIxM2M0NzU0ODNhZDI5Mg",
+      "width": 700,
+      "height": 700,
+      "bytes": 39945,
+      "sha256": "fa0d8b6f7f35977e649391a185a7d5a2a27f2227f123732bfde2e3a106ce06de"
+    },
+    {
+      "file": "logo-krups-plotno.png",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "repo produkty-media/krups-coffee-crush-sa403be0/logo-krups-plotno.png (plotno 1200x300 z krups-ea879e/logo-01.png)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 1793,
+      "sha256": "5d10f509a3ba478002ee0ebff47195329ef9362d7f93f74614959e790c76a640",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": [
+    {
+      "file": "src-21",
+      "reason": "infografika z tekstem po angielsku (Reduced impact) - pominieta"
+    },
+    {
+      "file": "src-22, src-23, src-26",
+      "reason": "miniatury 350 px sekcji Kluczowe zalety, duplikaty kadrow produkt-05/06/04"
+    },
+    {
+      "file": "src-24, src-25",
+      "reason": "unikalne kadry (panel, tabletka czyszczaca), ale tylko 350 px - zostaja w staging dla ETAPU 2"
+    }
+  ]
+}
