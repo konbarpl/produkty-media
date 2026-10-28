@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T10:22:10.561491Z",
+  "sourcePage": "https://www.hoover-home.com/it_IT/products/39401085-hfg10h-011",
+  "sourceNote": "Galeria producenta Hoover (Shopify it_IT, produkt 39401085 HFG10H 011; kod w nazwie kazdego pliku). Najwieksza dostepna rozdzielczosc 640x640 (te same pliki na CDN tr_TR). Galeria euro.com.pl niedostepna maszynowo (CDN 403).",
+  "slug": "hoover-hfg10h-011",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-hoover.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0637/7281/9561/files/640-3_39401085_1081_01_l_hfg10h_20011-M.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 10332,
+      "sha256": "b75b976849096d810de1d699a898d15cdc560ebb1eb44adb0adc7bfcd845db79"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0637/7281/9561/files/640-3_39401085_1081_02_l_hfg10h_20011-M.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 18599,
+      "sha256": "ebb24c3beb85423bbbf8a392d6f3a207dcb43e1de6792999ecacb68ad62db945"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0637/7281/9561/files/640-3_39401085_1081_04_p_hfg10h_20011-M.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 52007,
+      "sha256": "fbf998793557dbbcf7813669ac2d09aba3bd6177e96c4bfef84feeef312ff55d"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0637/7281/9561/files/640-3_39401085_1081_05_p_hfg10h_20011-M.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 55054,
+      "sha256": "4fd268a5ad8709100a5f689ffe0a6305f001b29314376601ddec94d7c8605de1"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0637/7281/9561/files/640-3_39401085_1081_06_p_hfg10h_20011-M.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 48824,
+      "sha256": "899e106402f92db680bb77e0631844b238e245588dbc45b23f0a978a2345f967"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0637/7281/9561/files/640-3_39401085_1081_07_p_hfg10h_20011-M.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 42865,
+      "sha256": "50b0a461e4c8da478f98a1e9d00cf4d2b9f5a761735652672a6c0867a4a6ff1f"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0637/7281/9561/files/640-3_39401085_1081_08_p_hfg10h_20011-M.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 47183,
+      "sha256": "c62a403b390d4cfc2eca988e2b9ed54a7b5f0358291aa9e825f4903f927b857c"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0637/7281/9561/files/640-3_39401085_1081_09_p_hfg10h_20011-M.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 55005,
+      "sha256": "5b74f92c3ed6cf561d8f3a869d58a22c12216b31e70bc69efe20eb9ac241c30b"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0637/7281/9561/files/640-3_39401085_1081_23_l_hfg10h_20011-M.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 20156,
+      "sha256": "295226dd39755272d8b453d519d776626cfa84d813eab9802fe2946b6298befc"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0637/7281/9561/files/640-3_39401085_1081_30_m_hfg10h_20011-M.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 30301,
+      "sha256": "c01500c27b309b4339e72cd86388422d08954baca84ec2b5765481ef545186db"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0637/7281/9561/files/640-3_39401085_1081_46_m_hfg10h_20011-M.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 48093,
+      "sha256": "5991c2c97ba108b87584ab1903621a5a6711f7acc09c887c282f253094097675"
+    },
+    {
+      "file": "logo-hoover.jpg",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "dropshipping/materiały/logo/hoover logo.png (spłaszczone na biel, płótno logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 14183,
+      "sha256": "2767a57ea6bdfec3682216bf9e920ff4a0267720f09f57046121a5f466eea492",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 0,
+  "droppedList": []
+}
