@@ -1,0 +1,265 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T15:09:34.979813+00:00",
+  "sourcePage": "https://pl.roborock.com/products/roborock-f25-gt-gen-2",
+  "variant": "F25 GT Gen 2 Set (SKU RRPL-F25GTGen2-M1-N)",
+  "slug": "roborock-f25-gt-gen-2",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "produkt-19.jpg",
+    "produkt-20.jpg",
+    "produkt-21.jpg",
+    "produkt-22.jpg",
+    "logo-roborock-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/1_3bf5ab15-4ee8-4b19-a122-2a0afd297b47.png",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 164090,
+      "sha256": "c78b12f4f211955fd14ee1bb0857f118fac5724451b8872c50d691ce5dc9a1cf"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "feature",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/4_36d69c31-2e78-4a34-a781-1b1f19dfb2ab.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 431147,
+      "sha256": "cc2c4b1f5ef946eb55fe552ae1389192c083e7d8c570cf758f575babd4284db4"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "feature",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/5_cdb9203f-462d-4dc0-bcc7-1de31ce0ce51.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 273050,
+      "sha256": "84caa39672ea35a14b4fc776175efec3f0dfb62603d85077cbc1ff29376de7ad"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "feature",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/6_59519255-a314-4a86-95ae-1036678c1b30.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 253315,
+      "sha256": "0df4a54a426d028939595f1c789506064ffb6f81bf30986473f9fa1e9aeaa899"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "feature",
+      "order": 5,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/7_4a7180a3-c36c-40dd-8aaa-e06dac90f019.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 296908,
+      "sha256": "12ab9f820550ce403e51246c8cef9d356326ca5473e9752dd4533e35beef04ab"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "feature",
+      "order": 6,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/8_734d9027-b346-4aba-9dc6-923a252f9b5b.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 261412,
+      "sha256": "38ee18fd82dd6c93ce1e6e8d4c53348de05aa709ed2eeb52bc96ecc779c2d8f6"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "feature",
+      "order": 7,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/9_cc00771f-c825-4aa3-b7da-e4a9b678a4a9.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 459089,
+      "sha256": "85e4f3d88daa908fbc567726fb7e98797a9a565297e53949151a4f3aaf4548cb"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "feature",
+      "order": 8,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/3_dcd408bd-ef57-4991-b143-08db6fa80db1.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 298320,
+      "sha256": "e816b4fd149627e0387608de65498644297c1946ef9f9f798ed94ce671889264"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_1-PC.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 109846,
+      "sha256": "810680e473b273442bc35ff05e2a5e591ee62018b71e0958441d3edc58affeda"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "feature",
+      "order": 10,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_4-PC.jpg",
+      "width": 650,
+      "height": 580,
+      "bytes": 53505,
+      "sha256": "c58a7183a7cd811f0bf766bc24cb6082f14a8214de1cdcfe7fc1a271d295c70d"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "feature",
+      "order": 11,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_5-PC.jpg",
+      "width": 650,
+      "height": 580,
+      "bytes": 55902,
+      "sha256": "d66fcbc191e6b77341dde63447afad5c10983e57aee4168f0bfe65d91473c32f"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "feature",
+      "order": 12,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_6-PC.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 118915,
+      "sha256": "19072a55c76ef0814712e505a6f9de4978e237199156e2ee83454db9fe6bb78f"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "feature",
+      "order": 13,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_7-PC.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 201816,
+      "sha256": "5f6f73818a7a2389d1688e437b247d70bbd66c30e21668fe0b42cbd0677ad354"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "feature",
+      "order": 14,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_8-PC.jpg",
+      "width": 650,
+      "height": 580,
+      "bytes": 81706,
+      "sha256": "e76aa27c68dafe6d30dabf51aff5552db4d81549d5c523e677ef139111c09707"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "feature",
+      "order": 15,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_9-PC.jpg",
+      "width": 650,
+      "height": 580,
+      "bytes": 78117,
+      "sha256": "4c92f8cdbd7d842a547bb08de14ca5e34e5281296a74b4b6627eae113e41d7d8"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "feature",
+      "order": 16,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_10-PC.jpg",
+      "width": 650,
+      "height": 580,
+      "bytes": 74326,
+      "sha256": "b499df170bd2070d8ee155165d4d9b3a885d3ba594a27c0a6357cd4eabd9a688"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "feature",
+      "order": 17,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_12-PC.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 117175,
+      "sha256": "28b2a28768aafc475fee708017e1be04310a5fc7fe83608529e8b8b8e5635d8a"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "feature",
+      "order": 18,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_13-PC.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 102178,
+      "sha256": "424ecf7b06fe1067d48930605c7c96924b05354225ae489a72b9dda4e64aec50"
+    },
+    {
+      "file": "produkt-19.jpg",
+      "kind": "feature",
+      "order": 19,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_14-PC_7caa3ca6-3ece-455d-9355-6aa467878dab.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 92618,
+      "sha256": "771081d38889c171988403415c2fa1bb999d424b9a9d06c66b99dcbc90805c7b"
+    },
+    {
+      "file": "produkt-20.jpg",
+      "kind": "lifestyle",
+      "order": 20,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_15-PC.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 145293,
+      "sha256": "c4e534ff568cc7506d9561ebf7933d308f607e223e44d21619f129ea8978c027"
+    },
+    {
+      "file": "produkt-21.jpg",
+      "kind": "feature",
+      "order": 21,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_16-PC.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 134579,
+      "sha256": "53716c30ed33da7dc95aad52329c63d69a4a0a67c4e8e1b13faa547b4d54bef0"
+    },
+    {
+      "file": "produkt-22.jpg",
+      "kind": "feature",
+      "order": 22,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_17-PC.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 66441,
+      "sha256": "04adf462d721cd60498fd9448bf639fb7c1bb6c7afc8f0379bd6b375d82ba02b"
+    },
+    {
+      "file": "logo-roborock-plotno.png",
+      "kind": "logo",
+      "order": 23,
+      "sourceUrl": "kopia z repo: roborock-f25-ultra/logo-roborock-plotno.png (G82)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 18986,
+      "sha256": "7949fb1b6c93523d52c15e4d11657f1965311828d8a2abbe90da1cc35ed3bdc0",
+      "inkRatio": 0.3
+    }
+  ]
+}

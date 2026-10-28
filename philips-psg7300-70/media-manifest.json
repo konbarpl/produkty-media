@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T16:03:43.957Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/PSG7300_70.assets (PRX API, CTN PSG7300/70, Dark Forest)",
+  "slug": "philips-psg7300-70",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7d279062_7692_4f0d_ba37397f404d012f?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 74174,
+      "sha256": "99ffc4f5230f6198b554e12d598ad698c7ca0db8ad315d045cf62005fe060f4b"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6327c7e1_bfe8_44b3_a2461831a973f346?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 77866,
+      "sha256": "edf7ee6d8a9fb66f7114eb8b6779c8ff83f9bf3c20f76e3825a5c2d2ee5c1066"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_196a41de_3897_4513_8f5b2a1cc4a0503b?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 77390,
+      "sha256": "e9d455210bb9cb5e06fbc27a08fc3c4f6388b16926482dc293aeeb6d66f9e468"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8b810365_47fb_49c7_a500eb9ec39bf0b2?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 71282,
+      "sha256": "51074dbb31cf1ed093ca685ce9d74ccf4690c602ed11af8a67d32a3d73e178bf"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3da1effa_e89d_4fc6_b9bdca22566e6d8e?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 69782,
+      "sha256": "4d45a46d6dc7c935dc1eeff9545f903ba16a49b9b48015e409fd14094c65ed40"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_53af5b55_2258_4c31_98ee3d7ab0a06b7c?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 86262,
+      "sha256": "0799a98e9175f01b1018a32cf39f967069c5cefa958398630758d89244baeac5"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a5121daf_9fb4_4b9b_ba7b7ae05bef91f7?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 40902,
+      "sha256": "f56fe232afeecbeecf4b403f6907e7c997ade136477099f239f401526e723144"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia z produkty-media/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png (plotno G83)",
+      "width": 1200,
+      "height": 300,
+      "inkRatio": 0.3,
+      "bytes": 9114,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c"
+    }
+  ],
+  "dropped": 0,
+  "ctn": "PSG7300/70",
+  "excludedFromGallery": {
+    "note": "z PRX PSG7300_70.assets odrzucone: warianty /20 /80, PSG7200/20 i /60, plik TurboPower GC_2024_PSG7300_80; 3 duplikaty pikselowe (FIL 937c67dc=A1P, ffbd115d=D3P, fe979757=D5P); FIL 9fc0fb82 = mniejsze ujecie zblizone do D1P"
+  }
+}

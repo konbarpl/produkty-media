@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T15:07:45.340775Z",
+  "sourcePage": "https://pl.roborock.com/products/roborock-f25-bx",
+  "slug": "roborock-f25-bx",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "logo-roborock-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/F25_Set.png",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 162582,
+      "sha256": "dbae48f1ec6d36dc5c84746f31eb0147b94ff2b5ac36f1a9f86fcef5631dc2dc"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "feature",
+      "order": 2,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Roborock_F25_F25_LT_odkurzajacy_na_mokro_i_sucho_1.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 556928,
+      "sha256": "81a3319d929a5bfc497473c668ccf40a7bd9786923bf033af77b12a351f79992"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "feature",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/RoborockF25_F25LTodkurzajacynamokroisucho_5_2ed838aa-6bce-455f-8331-f4f469a95052.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 364082,
+      "sha256": "0771d110334109d052112fc4cb814f22cba8a78d09175287c021dcf2740b4575"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "feature",
+      "order": 4,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Roborock_F25_F25_LT_odkurzajacy_na_mokro_i_sucho_2.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 363592,
+      "sha256": "b6b46dcb31071627b27f132b2f7db0f47bb5aef1863840bc7ef9b81b85f299da"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "feature",
+      "order": 5,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/RoborockF25_F25LTodkurzajacynamokroisucho_6_0455951d-cd76-4205-bdc4-ab279852363b.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 693625,
+      "sha256": "b2a670a2b5ce32c8471265f56c4676da67b752e636302232814c785160839845"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Roborock_F25_F25_LT_odkurzajacy_na_mokro_i_sucho_8.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 591801,
+      "sha256": "b8598c125565ecae5c9e352379cc4f0518c60ce82c71ea9adefa61287589623f"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "feature",
+      "order": 7,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/RoborockF25_F25LTodkurzajacynamokroisucho_7_de9fc57d-cf4d-4f55-a7d3-20bc5741d1f3.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 587719,
+      "sha256": "386d5931429b1a5c330e2472f3c25fecd520d555653846c282db78c9f7e4ebbf"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "feature",
+      "order": 8,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/4_c7a6a718-c8e7-484a-8574-19821d3273fd.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 474645,
+      "sha256": "d6ef349c27a7c2f88348470fd96c3c4983a07765c014bde5fd4ba5274e2bdc0b"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "feature",
+      "order": 9,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/10_b6552ec3-df02-433e-8c8e-3b215686e852.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 451159,
+      "sha256": "bed874f20bbec44472041824027bc7310f7a91cfd6ad201e8bc4f06cb86ceb4c"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "feature",
+      "order": 10,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Roborock_F25_F25_LT_odkurzajacy_na_mokro_i_sucho_4.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 560304,
+      "sha256": "d781196de2451da4c1ff2f35c08910f0e4fe2140eb73f72d78b47b14dbded048"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Roborock_F25_F25_LT_odkurzajacy_na_mokro_i_sucho_5.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 470870,
+      "sha256": "705694a5300ad120726f7f3410bcd73e5df81bead1f703a29a61826340d9e1d4"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "feature",
+      "order": 12,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Roborock_F25_F25_LT_odkurzajacy_na_mokro_i_sucho_10.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 221021,
+      "sha256": "368b3ac8e0dfe3c354a450dfffe2b0e8695dad93c998ed2748b0411fc9ae0ded"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Roborock_F25_F25_LT_odkurzajacy_na_mokro_i_sucho_11.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 655003,
+      "sha256": "36981cab7de2d458333a19c08a6fc83fa61e8fb17381603c076adbeb8711aa87"
+    },
+    {
+      "file": "logo-roborock-plotno.png",
+      "kind": "logo",
+      "order": 14,
+      "sourceUrl": "kopia z repo: roborock-f25-ultra/logo-roborock-plotno.png (G82)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 18986,
+      "sha256": "7949fb1b6c93523d52c15e4d11657f1965311828d8a2abbe90da1cc35ed3bdc0",
+      "inkRatio": 0.3
+    }
+  ]
+}

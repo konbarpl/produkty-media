@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T15:06:49.815Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/PSG7300_20.assets (PRX API, CTN PSG7300/20, Louros blue)",
+  "slug": "philips-psg7300-20",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_de8b1827_fcb9_4ac1_b49a76b5fb7861ef?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 75282,
+      "sha256": "8d31f21395da80061363583a49199da92cf60376d44fbb46e225077a58444572"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d2c45404_4e0f_46dc_a0a2ad35dc4f8e53?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 76704,
+      "sha256": "1c9ac41bf4245f5777840d573d391f2076c2d4185e0ef5bf45ddc41b919f1597"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_61560bbb_b2ae_443c_80c21086dcfaca49?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 74674,
+      "sha256": "6c66aaf2b0eda62755b0b52e843b6593297d01b7dfdb185ac761ebcc95eb9d55"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d7ee21aa_ac9e_4272_888686d5966367f4?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 69270,
+      "sha256": "e48a9c1ff075c4d280aef22876929d7f0abc128f584d43d0c8ee31d4ac0eb7f4"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_24ecd5de_4932_4b99_9cadd00bb4f5ec3f?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 70068,
+      "sha256": "272a44aa0636b2dbe1fa685650469d70b0a183d39fdf8992de5a8383df199aee"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_dfb56aed_2f01_40a6_91d5579de4768489?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 75382,
+      "sha256": "6d8fe40e1e187b6700a9d7667dd81723830e9d9ab8aa4d313d15c93172f6fc11"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_9ef1ae80_dc99_432d_94b7d34cd0c23fd6?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 98754,
+      "sha256": "062507a540e861d5cca97efb6f59c756f9a61c3624a8669543b3be76de71a4f5"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia z produkty-media/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png (plotno G83, logo_plotno.py OK 1200x300 znak 30%)",
+      "width": 1200,
+      "height": 300,
+      "inkRatio": 0.3,
+      "bytes": 9114,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c"
+    }
+  ],
+  "dropped": 0,
+  "ctn": "PSG7300/20",
+  "excludedFromGallery": {
+    "note": "warianty /70 /80 oraz PSG7200 z PRX PSG7300_20.assets odrzucone (inny kolor/model); 2 duplikaty pikselowe"
+  }
+}
