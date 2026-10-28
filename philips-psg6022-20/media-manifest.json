@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T16:03:45.969Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/PSG6022_20.assets (PRX API, CTN PSG6022/20, bialy z blekitem)",
+  "slug": "philips-psg6022-20",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0318938c_514c_4507_bad363bb3c3b0317?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 63284,
+      "sha256": "b4b276f1897bfb2aa7d4aa4914852ec713e28d9ab585cb5cc8a02753181b705b"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_78962dcc_74fb_42af_be2c3b69d1009d8a?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 58786,
+      "sha256": "95978dc0faa09d223a084f83092cbaa340517fda56fd32104d682406b2bda778"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5d8c6556_dad4_479b_a958b39d7e4a3f70?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 63598,
+      "sha256": "dd16e6df71b48968e7fef0001cd57d97c00b158d208269e43f7b662ea027b1ba"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0086bc2b_dd63_4061_afdf70e9e47e4348?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 55730,
+      "sha256": "7ba01470da4282c3d76a31fb030c9420f87e3ee6640fac9a9d7c7ff79a390b66"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c2c7158c_f64c_42c2_818a187ebd4ea7f7?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 26950,
+      "sha256": "2cd075094bf190dfee470147ccf5f1493af0f2dcb7e4b0d0c31c5fdb0eef65e1"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d20357c0_9e8b_4050_ace90207b485ebab?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 98892,
+      "sha256": "3d495fe16219ecb4015c0b3bc1c563fb8211b7d38d3d0dfe16d1784486a716d7"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_1705c6e7_41d2_45b4_9f4edaac286af84b?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 51118,
+      "sha256": "0772f338cb422ec11d8176610b7cfebf54b5129c6a3491bead21cb4baec6501c"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0f368782_2271_4296_8fe38e40d577998a?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 38792,
+      "sha256": "6ef6dd17dbc296f545443f8c283e7551a00f441023436867338fb6ea2d47462b"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_9690087c_7911_479c_a833db5af106f783?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 128580,
+      "sha256": "ca8b7e7931921cb04f4e337210c1bc206d1df8ec2a0f96148022f981dc031eb5"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_09c68d46_e633_4a4f_bec23907a43c5788?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 88418,
+      "sha256": "6077fddf15ed8890e6bf9f257e67e95d982fc4f4a65c2f25ddef9373b68afb4f"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d1b1c69a_1458_4731_8c5c68eb10791bf9?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 60182,
+      "sha256": "bc376ef3f55228439b3fce89a2ade406c5f21b2fd252810f83ffc9eb49d80005"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "kopia z produkty-media/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png (plotno G83, logo_plotno.py OK 1200x300 znak 30%)",
+      "width": 1200,
+      "height": 300,
+      "inkRatio": 0.3,
+      "bytes": 9114,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c"
+    }
+  ],
+  "dropped": 0,
+  "ctn": "PSG6022/20",
+  "excludedFromGallery": {
+    "IMS": "duplikat RTP",
+    "BRP": "logo PRX (uzyte plotno G83)",
+    "AWP x3": "grafiki nagrod iF/Red Dot 2022"
+  }
+}
