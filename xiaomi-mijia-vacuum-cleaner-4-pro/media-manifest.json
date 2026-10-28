@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T11:35:08.719602Z",
+  "sourcePage": "https://www.mi.com/pl/product/mijia-vacuum-cleaner-4-pro/",
+  "sourcePage2": "https://mi-store.pl/product-pol-38632822-Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Mijia-Vacuum-Cleaner-4-Pro.html",
+  "slug": "xiaomi-mijia-vacuum-cleaner-4-pro",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "produkt-19.jpg",
+    "produkt-20.jpg",
+    "logo-xiaomi-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://i02.appmifile.com/921_operatorx_operatorx_xm/02/07/2026/d9938dc0312951f805da1cebca0e0ea7.png",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 57620,
+      "sha256": "254d52a4f784ec404b35b82d6599c76bfd3709a8464825cb989d5c345a391d27"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/253d4756ad132baa2dda3282046b64fd/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Mijia-Vacuum-Cleaner-4-Pro-38632822_1.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 11389,
+      "sha256": "102c9a860f3f208f8dadfa1153cc98c45d3d6d768dd3f70533775e216ab6fa33"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/db59041ec68f836cabecf0a65a31e551/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Mijia-Vacuum-Cleaner-4-Pro-38632822_3.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 8133,
+      "sha256": "a004d27841f2029623e8b05e9bab3582f632f8ff88dc7a86dadf6abe2c614168"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "feature",
+      "order": 4,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/bg-screen04.png",
+      "width": 1792,
+      "height": 1009,
+      "bytes": 233156,
+      "sha256": "ebe9048d09938ef6f59e25b4545c850fc7609f12ce7fb12a9799bf7f76d8d601"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "feature",
+      "order": 5,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/pc5_technology_bg.jpg",
+      "width": 2000,
+      "height": 1359,
+      "bytes": 217831,
+      "sha256": "6b1d9dcfae13618b09b2881bf6e2d64a20d146326b6f3ee73d99db26d8c49926"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "feature",
+      "order": 6,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/bg-screen07.png",
+      "width": 1792,
+      "height": 850,
+      "bytes": 195552,
+      "sha256": "12fd7ab74d45074b07b8c6c9431face8e1c7d7c0e30f524378332a02abd82f8f"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/bg-screen06.png",
+      "width": 1792,
+      "height": 1088,
+      "bytes": 340000,
+      "sha256": "ba22a4a7299626e95fb340708ad4b5f78cf5ad4973f81603a13c6225ed5fe0b5"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/bg-screen09.png",
+      "width": 1792,
+      "height": 850,
+      "bytes": 247738,
+      "sha256": "ae059ada784965d217f4db013db92491699c17ec3eb2453765d420a857676008"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "feature",
+      "order": 9,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/bg-screen10.png",
+      "width": 1057,
+      "height": 1296,
+      "bytes": 124714,
+      "sha256": "6d4a78925c23f4370160586df0eb95c1eb25513ab185ed7308f1c1742d6c42c0"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "feature",
+      "order": 10,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/pc12_design_pic.png",
+      "width": 1791,
+      "height": 779,
+      "bytes": 271847,
+      "sha256": "d8342c379947841afc90818883e1d032e77326ab102eb276166fc7d94e4110c1"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "feature",
+      "order": 11,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/pc14_dirt_bg.jpg",
+      "width": 1436,
+      "height": 1088,
+      "bytes": 247543,
+      "sha256": "cd8155344acf7de328fda119c0b2776ce7c89fcc505603f86e4f533015b5301a"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/bg-screen01.png",
+      "width": 2000,
+      "height": 1053,
+      "bytes": 151899,
+      "sha256": "44505a8c924a0a120ba10a245cdc9443d57f3aa3c4318c60308c5a3a496ec327"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/pc19_content_pic.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 92916,
+      "sha256": "8220ae3028678f05424344f01c62d43d9af0afc4c6b2db0f6ed07745f1fb1ca4"
+    },
+    {
+      "file": "produkt-19.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/pc15_flooring_pic_0630.png",
+      "width": 887,
+      "height": 573,
+      "bytes": 44791,
+      "sha256": "b0149b837689257477510e496df21a7d7ec0a8dbdfaa2976e774151434f13a76"
+    },
+    {
+      "file": "produkt-20.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/pc15_float_pic_0630.png",
+      "width": 586,
+      "height": 573,
+      "bytes": 31969,
+      "sha256": "adfa4668348f3f9a98839c4845fefb566b3e263a1b914a911ec54124ad63f42b"
+    },
+    {
+      "file": "logo-xiaomi-plotno.png",
+      "kind": "logo",
+      "order": 16,
+      "sourceUrl": "repo: xiaomi-mijia-vacuum-cleaner-4/logo-xiaomi-plotno.png (plotno 1200x300 z logo_plotno.py --napraw, G81)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 13156,
+      "sha256": "fb3b09a29d22ab6b2f55a3a86b323aee611c71aecd428cb8d6f7ef5784823b53",
+      "inkRatio": 0.3
+    }
+  ],
+  "note": "Packshoty akcesoriow (produkt-04..08: walek, miniszczotka, szczotka do sofy, szczotka do siersci, szczelinowa) usuniete z galerii 28.10 - komponenty zestawu ida tekstem W ZESTAWIE (gotchas)."
+}

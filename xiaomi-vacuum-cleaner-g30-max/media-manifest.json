@@ -1,0 +1,541 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T11:35:43.113935Z",
+  "sourcePage": "https://www.mi.com/pl/product/xiaomi-vacuum-cleaner-g30-max/",
+  "sourcePageAlt": "https://mi-store.pl/product-pol-38632246-Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Vacuum-Cleaner-G30-Max.html (packshot produkt-01, 600x600)",
+  "slug": "xiaomi-vacuum-cleaner-g30-max",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "produkt-19.jpg",
+    "logo-xiaomi.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/8f2352ed7feea446174f21cce5eab169/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Vacuum-Cleaner-G30-Max-38632246_1.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 12906,
+      "sha256": "4c59013fb46f2d0cabbd0782d485141aa52e5d287c69c22587ca8d7a75e93234",
+      "crop": null
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/cgaiuguyylguzgcvuygwyusguydxa.jpg",
+      "width": 1936,
+      "height": 2000,
+      "bytes": 321431,
+      "sha256": "b8da5ec744632fec5d072827590939e0673b2d4f03caf187ec62d57b17bde5ae",
+      "crop": null
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/xiaomijqr_pc1.jpg",
+      "width": 1939,
+      "height": 2000,
+      "bytes": 185194,
+      "sha256": "3eb0acff5cf2bfdcbf210469f812e91d5f47657c69e84401d83d364e8383aaed",
+      "crop": null
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/b8adf69aec9952dbb8050aaf1f4807fa.jpg",
+      "width": 2000,
+      "height": 1497,
+      "bytes": 328097,
+      "sha256": "8db3ad7690115537c458018e0fce268b9249270aa3d957037ca6001fd8468a6d",
+      "crop": null
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/3e509962c1c3b0493cacd4f9aa694f10.jpg",
+      "width": 1722,
+      "height": 2000,
+      "bytes": 295096,
+      "sha256": "bc8a42f5a3954b166c90f472c9a20ef8ff6952ee2ac694f919380321e153f79e",
+      "crop": null
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/dertfyguhjkftgyuhjirdtfyguhj.jpg",
+      "width": 2000,
+      "height": 1513,
+      "bytes": 123573,
+      "sha256": "6062213e499af25448a6376b4079d332ff8f683ac43cb9964ac7a2b29810553a",
+      "crop": null
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/zufcuyfuyauigiugfaiu.jpg",
+      "width": 1800,
+      "height": 756,
+      "bytes": 126270,
+      "sha256": "8610dc3dd3843acb3162000e195073a49da1f4762e1180aae8f0606dabaf899b",
+      "crop": [
+        380,
+        642,
+        2180,
+        1398
+      ]
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/4ae6f7f2d95e3e827f5387462277b574.jpg",
+      "width": 1800,
+      "height": 817,
+      "bytes": 245608,
+      "sha256": "2377f40f2efe9b8d8af7664427f89849c753a1de9a522f607cfd14fbd0b8fe64",
+      "crop": [
+        380,
+        639,
+        2180,
+        1456
+      ]
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/9d80c7e6b0a4fa9fc3604cc19b0ea71a.png",
+      "width": 887,
+      "height": 691,
+      "bytes": 96927,
+      "sha256": "37a715a38ce610249b50fc11c0b1d2f77958a4b328102885e4a10697c13d38cf",
+      "crop": [
+        0,
+        0,
+        887,
+        691
+      ]
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/posterimagePC.jpg",
+      "width": 1800,
+      "height": 697,
+      "bytes": 266293,
+      "sha256": "b47b0e55c9ca71525217ed5570a5bb4fec1f6568ac68a7736e8ed2443a5c6940",
+      "crop": null
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/b025dcc68be8a64270abafbc6cf80c47.png",
+      "width": 887,
+      "height": 691,
+      "bytes": 71997,
+      "sha256": "4f0842ba103ab93b3b1fdc2065f014c92b0df431854ed0baca2b8ba7d9eb22ba",
+      "crop": [
+        0,
+        0,
+        887,
+        691
+      ]
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/a1980b84c9e156effe80a951f09587b1.png",
+      "width": 887,
+      "height": 691,
+      "bytes": 80658,
+      "sha256": "7c0a75e7d5cf313b75fb077c7e04869ebe2d211002cacdee93603b88605d1d6f",
+      "crop": [
+        0,
+        0,
+        887,
+        691
+      ]
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/e7f615b137e12713dd36b4685513fddf.png",
+      "width": 887,
+      "height": 691,
+      "bytes": 90505,
+      "sha256": "737d1f8fde4d5d454b4dc1bbf74f9e6e20d86df266f28d8e817a9da7df4b00d3",
+      "crop": [
+        0,
+        0,
+        887,
+        691
+      ]
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/1bfe3ef4eddaf483e3652961610223f8.png",
+      "width": 887,
+      "height": 691,
+      "bytes": 202533,
+      "sha256": "84ec3a0d08ecd8d9fd86d61c896772a50f6e4889c9a27baf7a02bc6ab3bb0478",
+      "crop": [
+        0,
+        0,
+        887,
+        691
+      ]
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/241706db4fc1a3f63d8f17e90aee4cd9.png",
+      "width": 900,
+      "height": 800,
+      "bytes": 73484,
+      "sha256": "964299c0f69480c310dc76043b386bff37bf76f46cb8a0887e64ea0bb8172b41",
+      "crop": [
+        0,
+        0,
+        900,
+        800
+      ]
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/7539feff1eff126f2a0fe066247d75cb.png",
+      "width": 900,
+      "height": 800,
+      "bytes": 100670,
+      "sha256": "f12da12dfc78f3fe73039438fb12eaaf7acadbdcf79418ac104fdbb79809d989",
+      "crop": [
+        900,
+        0,
+        1800,
+        800
+      ]
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "product",
+      "order": 17,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/52c4babcf81d20cd39addf68a6d20c07.png",
+      "width": 900,
+      "height": 800,
+      "bytes": 100400,
+      "sha256": "0ff7c1f8d8d71d86fa1cac983ba4c5a0a121da5154f0d76c8cf79363d85eb1e4",
+      "crop": [
+        0,
+        0,
+        900,
+        800
+      ]
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "product",
+      "order": 18,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/drefctvgybhunjxtcfvyghb.jpg",
+      "width": 2000,
+      "height": 1125,
+      "bytes": 207864,
+      "sha256": "f59b6167dee092c78fd1c65b843ae83a9cef9edc82ec47b21ed6152b633f395b",
+      "crop": null
+    },
+    {
+      "file": "produkt-19.jpg",
+      "kind": "product",
+      "order": 19,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/b1247631181bf79ece3e54602cb3ef64.png",
+      "width": 582,
+      "height": 561,
+      "bytes": 40427,
+      "sha256": "6ca5c17150e12026ef1e7140531a734c84d2a5e3b7614fe3c822f61ae4205d05",
+      "crop": [
+        0,
+        0,
+        582,
+        561
+      ]
+    },
+    {
+      "file": "logo-xiaomi.jpg",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "kopia płótna 1200x300 z produkty-media/xiaomi-vacuum-cleaner-g20-lite/logo-xiaomi.jpg (G82, 28.10)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 13797,
+      "sha256": "840d50909822e380d236f4ea4037a662fab4f107eed8b970a6389541c916bea4",
+      "inkRatio": 0.297
+    }
+  ],
+  "dropped": 58,
+  "droppedList": [
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/0420d1a7973571fba2579a9878ddfa27.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/0ada1296b51d5f2d8c9c1115a8465380.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/0b150108bd9f53608ce6784fd709bec2.jpg",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/143ed6553a36da29f968b34ee066d30c.jpg",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/16e9467401c6d84d5fae9ae7f0f150c7.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/1c9339f3089a9c780568ae1827a708e7.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/1d7adeaa0f72ba8e213918ac35e17bda.jpg",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/2027d95601800c3a0b6e844cc8d3c549.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/249a838d9b10bf3e151f16227cf22b34.jpg",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/2e7df85c3721499e695ebef9dca1cc19.jpg",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/39a9894706777c822ac69b4e3679fb41.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/43a28a2d39f1949d2fe259e9f8a0eb6b.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/44bf054ac2f591bd6b3b1d6feb32cc5d.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/46be77e85a88773c76e9e231a1fbc398.jpg",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/47aea2e1358af50cbbf47fc9cdad4695.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/492e4893e0567d603419a2c3f3dbea5c.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/49691fa213a78159cd24818b2ce9317f.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/4d99af1569af23ee3cc77f20e036a56c.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/546fd89d20b83e336157c05cf67f0dd9.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/550406c09003d269a3a24a3a393c9982.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/584980c1067d1f7d09a05cee644fa96d.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/590196e6bec55462727b19185bfcafbf.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/5ffac3c15f6962e83ef99df565f166d1.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/728ea3b88548bc5030d4c0e464ba5628.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/75871157ab2caff91c8d2fd766dab159.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/77feb8f448b18e15001a4f3c0bcf507a.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/7c7be127296630d67cca0c089fb25fe9.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/7fcbfc38f9e40b82c90a1f5515964aff.jpg",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/8012ed41dc0118edb8bc1dc4a23b2b84.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/90c8c26b4492c0cbe4a6101f3a8e13de.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/94943bb6cc3a531f50e11531025f89f6.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/966a7797e492b4554297a9654646239e.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/96eb241b3215c4b217d61d9f20351601.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/9a31244c2c9bae0ca6c8155b87bf1d7b.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/9a9067d14d5fbe04a5640b55116ad848.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/9b498d6e7ad3dbef92623211e9a3de92.jpg",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/a86d64b50dc66d254997c8a685687762.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/ad46bef273ebe45145c15177ee5dfa3c.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/af0b81cec875e92966439bf1825ffff2.jpg",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/b8469b0f4908fb134bbd3e4acbf42747.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/bb4f15e89f37665a6c2f2b349faf04df.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/bbdc55ffbd2ef1f85fe999ff9d706db8.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/bea931209d376d3a5bca46db98733bae.jpg",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/bead17ab21ad22f4cffea4734757ee20.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/bedf34b981a4c6b0c17b76a617010121.jpg",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/c6fc74f8bfdbd4139710be28070f6db9.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/d09d389814e32881bec9c6121ce88aa0.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/d272cdcca4458cd1bf836758d7b82ed5.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/d6108c718ef4322bc4af24b927031e9a.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/e01c6c07116423885229ddac6f4f7d13.jpg",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/e07b194cc2a4f72698942b6f20c15ea4.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/e7025a028d0cb789b8584ea9f365760e.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/eb93f03c709e400fccca241b9adede4c.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/ef764f53b0650df16b5a9139a666b4d8.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/f03b45c8cc229ac9e488cffbfda50b00.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/f397057dacffa8c4fdd5a57c9a41b7e8.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/f611d3d269cc82119e6667fb40945ecd.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    },
+    {
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-vacuum-cleaner-g30-max/pc/xiaomijqr_tp1.png",
+      "reason": "ikona/tekst/tło/wykres albo powtórzenie kadru innego zdjęcia"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T12:19:02.577944Z",
+  "sourcePage": "https://pl.roborock.com/products/roborock-f25-pro-turbo",
+  "slug": "roborock-f25-pro-turbo",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "produkt-19.jpg",
+    "produkt-20.jpg",
+    "logo-roborock-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/1_bf63b18f-e363-4d0f-8419-61d6df002e90.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 118371,
+      "sha256": "0500d2b9cdc4dfc20e77ddcb7da3b631455b7a7b51403be398c06d49683b3a54"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "feature",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-01_deb49e40-4a15-43cc-bb00-5c565c4720c3.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 296821,
+      "sha256": "482e5411c2cfe5fce818c919138d810a5da92cab8485f61f164e1e449d6651dc"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "feature",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-02_5fc8ab65-929b-4d9a-81d6-93ff9e33c2ed.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 304733,
+      "sha256": "81124aaa1425c79ae8c6fdb1626e4cc78fd20f6fe8333fda4aa29af363475a16"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "feature",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-03_fa4095bd-8a5a-4e9b-b67c-04c4ceaa2521.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 395008,
+      "sha256": "75f775503b3e64a9885184ff6c768a7891644d72703c0cb52901b43e4d5f1fd3"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "feature",
+      "order": 5,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-04_8b197c9b-d19b-4aa9-87df-59c8ea9ceedd.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 443101,
+      "sha256": "a1a6ebfc978cb58732f1b7a397e2288b0f5265df691878abca64d478739e3a5b"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "feature",
+      "order": 6,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-05_437dfe72-56be-4ed5-93da-5c7caa46bce5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 403490,
+      "sha256": "bcdb7ec35c5e26335bc155c200f3955043d37bce8e61ed613d352115550e6c05"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "feature",
+      "order": 7,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-06_16165947-d0c5-49c5-8886-2e608d9fe2c9.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 326723,
+      "sha256": "3498753faafd83bebe9fe917d975736afde8409c60e66cb791f76c42b2b27269"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "feature",
+      "order": 8,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-07_60646028-ef1d-4893-aa20-0dc1e6628a95.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 404630,
+      "sha256": "c3010976c9dbbedae6c0de57141b6b63b05b3322e8db4999e4c7fa058c88e913"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "feature",
+      "order": 9,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-08_bef31d4d-3338-48d7-98c2-3df8cfddfc5f.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 337077,
+      "sha256": "1d298de8c4679791fda01902af976e0109096cea31336642ce9dc8c24dbebfd9"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "feature",
+      "order": 10,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PP-09_ae62b56f-2daf-4084-b01d-de563b3bde4f.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 360291,
+      "sha256": "4ae14b837b184ac82afced5e1ca2ca980422dbb744911138a8cfca4669d5e820"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_01-PC.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 68850,
+      "sha256": "74950e4b070b54755e6e0467ecf7ddc12d255479223619661c655bf2792e46f7"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "feature",
+      "order": 12,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_03-PC.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 185945,
+      "sha256": "cd27c20fde11efc60309a0d5c8dff2793310706bdb40830d3d74f9110c2413f1"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "feature",
+      "order": 13,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_04-PC.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 158105,
+      "sha256": "164cf64d465d758bfb62bc1ee00475f93a7ff62c6ed6768ddadb6eabc6ca1c6d"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "feature",
+      "order": 14,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_10-PC_81f48927-cb33-475b-8bad-caf1dbe34c59.jpg",
+      "width": 650,
+      "height": 580,
+      "bytes": 46638,
+      "sha256": "7f56fb88762f3a1e8ae45b61e56e3cdf356cd74f0f3988ce3d9505e693510f94"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "feature",
+      "order": 15,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_12-PC_601eee98-2a9e-4355-a54b-78e83270b779.jpg",
+      "width": 650,
+      "height": 580,
+      "bytes": 72182,
+      "sha256": "ca3a101b8993dad5bf3d9320977b0a774ea52d2fcc8df7cf1193c748497e8b6d"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "feature",
+      "order": 16,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_14-PC_fa720aa2-c011-45bb-889a-6d5b41c4a110.jpg",
+      "width": 650,
+      "height": 580,
+      "bytes": 65269,
+      "sha256": "992a37ab665c54bcc28b5a10cd069f2deacec9759e41dfd08f8dbb84f12023e6"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "feature",
+      "order": 17,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_16-PC_cbe31017-3af5-4d56-bdbd-c242cf9fb1e8.jpg",
+      "width": 650,
+      "height": 580,
+      "bytes": 79571,
+      "sha256": "c83fe11f52d95297d8d42cef27ab3212d81755f021144115517d7a2bc37178fd"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "feature",
+      "order": 18,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_17-PC_65dbf786-f44a-4b51-8d5d-ac10cd387d90.jpg",
+      "width": 650,
+      "height": 580,
+      "bytes": 49104,
+      "sha256": "e936be17029a74b2de81ecebec821e656a29f79c60420122d26be2a166f9207f"
+    },
+    {
+      "file": "produkt-19.jpg",
+      "kind": "feature",
+      "order": 19,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_19-PC.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 119814,
+      "sha256": "85106dca5d0599d11d52bd7404a78ce411a4a10011807c59175ed242d2b9636b"
+    },
+    {
+      "file": "produkt-20.jpg",
+      "kind": "lifestyle",
+      "order": 20,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/A_21-PC_9e76b6d4-5ec9-451a-8901-bfdd7da60331.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 111846,
+      "sha256": "31e267121df039dbcf96a616dd13c34cee81e06c4f43704409155ebd77f8e77f"
+    },
+    {
+      "file": "logo-roborock-plotno.png",
+      "kind": "logo",
+      "order": 21,
+      "sourceUrl": "repo: roborock-f25-ultra/logo-roborock-plotno.png",
+      "width": 1200,
+      "height": 300,
+      "bytes": 18986,
+      "sha256": "7949fb1b6c93523d52c15e4d11657f1965311828d8a2abbe90da1cc35ed3bdc0",
+      "inkRatio": 0.3
+    }
+  ]
+}

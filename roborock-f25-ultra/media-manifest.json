@@ -1,0 +1,253 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T12:18:37.235677Z",
+  "sourcePage": "https://pl.roborock.com/products/roborock-f25-ultra",
+  "slug": "roborock-f25-ultra",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "produkt-19.jpg",
+    "produkt-20.jpg",
+    "produkt-21.jpg",
+    "logo-roborock-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/Frame102_6208ae70-8384-47aa-8205-4cd8fd6672a9.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 166296,
+      "sha256": "80755c420a774589404d0cbe09745763ccdb26a69a139cd6c66b40f628ebc665"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "feature",
+      "order": 2,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/pl_f3d8b8f3-2347-4f4c-9867-56c30b988aae.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 484976,
+      "sha256": "39378a215bb67e3fcc59178e1c8a80e3ad9e0930fa72120faeeb77d679227372"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "feature",
+      "order": 3,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/Frame105.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 612557,
+      "sha256": "3532b89563caf8891ac0d6b3b8c1848fdd7834e8b00438b27d04908e556fe60d"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "feature",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/Frame106.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 485749,
+      "sha256": "89f7a13bf77443e13a992127cb5df0b1ddb340da07f6d51cc0b1dda4e6969e67"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "feature",
+      "order": 5,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/Frame109.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 499960,
+      "sha256": "18a38c793ea29c857250be1f7dd1bd3f63b515fc2c4c02ca106baf60ab512ec3"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "feature",
+      "order": 6,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/Frame110.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 702539,
+      "sha256": "ae107c040023dcc3916f4b50ba1888ca01a1e594e5c8c69132cca3b7e27bee98"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "feature",
+      "order": 7,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/Frame111_286c3ab4-e949-4cff-8148-dbc26fb127de.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 391830,
+      "sha256": "d0f9d4b740948e1006721537f595d69060d5d74fab77e8bc9aadf1f7d1a36339"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "feature",
+      "order": 8,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/Frame103_a486f208-bf52-45bc-94bf-7a8c105b7c6d.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 588066,
+      "sha256": "cf72de71b6581594f69add801464d407757fb449cc6d98f1d129a8b9bf06853e"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "feature",
+      "order": 9,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/Frame107_a5b66eea-959b-44dd-8d2b-e1ffed46d041.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 548836,
+      "sha256": "8b0534a3f9b65a13305054d1894eead0498d9ab2181f101d596ccb70c915b5f1"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "feature",
+      "order": 10,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/Frame108_676dd74f-2f79-4c4b-96f0-97fc1af4e390.jpg",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 654155,
+      "sha256": "f3a2dedf410d89c64f8a7a54697585efc2d9524091cc9aad31d6fa2510221c26"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/1920_810-2.jpg",
+      "width": 1920,
+      "height": 810,
+      "bytes": 117513,
+      "sha256": "dcaebad0d336d93227aea62f5c4bcdd5c2ee83dcabc122ea24fa7be9f651d6ca"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "feature",
+      "order": 12,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PC_1400_690-4_d55ac94c-00cc-4a27-99c0-d77eb267d925.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 129133,
+      "sha256": "13879847b495a6c9b34f8aa3abe90ca264c7fd5a1c69ca3767311a8080009fab"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PC_1400_690-9_652a41a5-435c-4e89-a781-5ca3f3d5eda6.jpg",
+      "width": 1411,
+      "height": 695,
+      "bytes": 127478,
+      "sha256": "1c9fd6fb1aa53a8695652ca4dd7ba4050f97cb3405794c5eed5bcee0967ed4fd"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "feature",
+      "order": 14,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PC_1400_690-10.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 128980,
+      "sha256": "80e6107b0aeb1d871ad60f986552160fd435519b4cc6b33ebe8b668424ea702b"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PC_1400_690-11.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 139828,
+      "sha256": "086948cf131e7b0c326adab166f0eb4d8233e67d8eedb1a753ccfa2238dece1f"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "lifestyle",
+      "order": 16,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PC_1400_690-12_bd4deda7-8e13-4e26-94b6-84a4a9c6a27d.jpg",
+      "width": 2000,
+      "height": 986,
+      "bytes": 278179,
+      "sha256": "c4ea56855924f86eef4b38e7400bddcfc3f2489e36953683c7c02e47e965ca38"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "feature",
+      "order": 17,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PC_650_580-17_a959ccf5-616f-41a2-9b8a-afde5e9e7dcd.jpg",
+      "width": 650,
+      "height": 580,
+      "bytes": 43059,
+      "sha256": "f2c8e109c34a4894704797bbb411dd6e6bbb47acf82c78e30dab1387ca5424b4"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "feature",
+      "order": 18,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PC_1400_690-18.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 85342,
+      "sha256": "3f28cb5943dfc705114af8eb9144f2404ee6171079ce630830bc358490440858"
+    },
+    {
+      "file": "produkt-19.jpg",
+      "kind": "feature",
+      "order": 19,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PC_1400_690-25.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 114068,
+      "sha256": "ec22dd17a81cf9c27194a693096c5f94d917a120e44f7cddd9f242c4fd94146b"
+    },
+    {
+      "file": "produkt-20.jpg",
+      "kind": "feature",
+      "order": 20,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PC_1400_690-26.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 169177,
+      "sha256": "523606ac27680aa014f5076ca6669334ff79495dd14bf805d81d2fc3a7a0ccc4"
+    },
+    {
+      "file": "produkt-21.jpg",
+      "kind": "product",
+      "order": 21,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0866/3783/8610/files/PC_1400_690-28_17f413d5-309b-4be9-9946-75225b3b184d.jpg",
+      "width": 1400,
+      "height": 690,
+      "bytes": 75243,
+      "sha256": "c5826a69bd18c8d05ff79bc54498b95e8a5e4e80443f578d7725cd136aeed425"
+    },
+    {
+      "file": "logo-roborock-plotno.png",
+      "kind": "logo",
+      "order": 22,
+      "sourceUrl": "logo_plotno.py --napraw z repo: roborock-f25-ace-combo/logo-roborock-01.jpg",
+      "width": 1200,
+      "height": 300,
+      "bytes": 18986,
+      "sha256": "7949fb1b6c93523d52c15e4d11657f1965311828d8a2abbe90da1cc35ed3bdc0",
+      "inkRatio": 0.3
+    }
+  ]
+}

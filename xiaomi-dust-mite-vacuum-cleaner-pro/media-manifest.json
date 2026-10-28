@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T12:03:04.856121Z",
+  "sourcePage": "https://www.mi.com/pl/product/xiaomi-dust-mite-vacuum-cleaner-pro/",
+  "sourcePage2": "https://mi-store.pl/product-pol-2915-Odkurzacz-reczny-Xiaomi-Dust-Mite-Vacuum-Cleaner-Pro.html",
+  "slug": "xiaomi-dust-mite-vacuum-cleaner-pro",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "logo-xiaomi-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/7d690a7ff2e9bcbc1c7e1d0ef6c15c21/pol_pl_Odkurzacz-reczny-Xiaomi-Dust-Mite-Vacuum-Cleaner-Pro-2915_2.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 11365,
+      "sha256": "89a584cf98ec0bfd8da4814b82eee66b73f8388600303a234b09a1b3495e4b80"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/4663c7793aac874fa00cc82750ecc16a/pol_pl_Odkurzacz-reczny-Xiaomi-Dust-Mite-Vacuum-Cleaner-Pro-2915_4.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 11886,
+      "sha256": "0c61e7def54eb2c0f6359fe4f1c2c59e4210731760a9ddc51e676e1582b03681"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/ba42d363209ab07d21e93022c08b56a4/pol_pl_Odkurzacz-reczny-Xiaomi-Dust-Mite-Vacuum-Cleaner-Pro-2915_1.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 13072,
+      "sha256": "40318ea8d6cdc396a1897c93616f26b91e056adc985e4b8732e0e0e5fcc34826"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/cc845a474cee0ca80b08bb27c91f13f9/pol_pl_Odkurzacz-reczny-Xiaomi-Dust-Mite-Vacuum-Cleaner-Pro-2915_5.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 20517,
+      "sha256": "1cd9c240dac32d7d32014586e3adad7cd10b57abb1a3db402501842123779ecc"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/hpeciai/0f168fcbfedaff1cd225a2a6df57323c/pol_pl_Odkurzacz-reczny-Xiaomi-Dust-Mite-Vacuum-Cleaner-Pro-2915_3.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 9872,
+      "sha256": "1ae9a48d980a0734034ded8538409b0786bdfe2f47fe2f8a0e6741855b9f28df"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner-pro/pc/baf8323c0e3b63b2fb23b49d7c255a7a.jpg",
+      "width": 2000,
+      "height": 1055,
+      "bytes": 239999,
+      "sha256": "56d08a789f585a167bf2432c0345d16601cab9f523db7d12735ae9d540cb9778"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner-pro/pc/870704ed3c64102ab8a3bfa4d77eb449.jpg",
+      "width": 2000,
+      "height": 1055,
+      "bytes": 241240,
+      "sha256": "376211a3e42ba0692eb390bd9636f5e69286fe1a1d8ded61cf3165e31495ed27"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner-pro/pc/3a4747af4cb2474caf6a003ba134535d.jpg",
+      "width": 2000,
+      "height": 1055,
+      "bytes": 184531,
+      "sha256": "4d668ddd87910c11cb5ea5fe5953f61d538363ffc621dda5c42ac723dfbfc216"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner-pro/pc/xiaomiqmy_pc6.jpg",
+      "width": 2000,
+      "height": 1055,
+      "bytes": 151463,
+      "sha256": "214ea57c6f6634d6fa1c9d7d79844c7bf49856f4e896c88bf2fc1495b653fc8a"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "feature",
+      "order": 10,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner-pro/pc/xiaomiqmy_pc5.jpg",
+      "width": 2000,
+      "height": 1055,
+      "bytes": 215326,
+      "sha256": "fde14b3c5a3089fab043db0e5772a01db199cebc08f876d68ed9fb311225c8f4"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "feature",
+      "order": 11,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner-pro/pc/xiaomiqmy_pc7.jpg",
+      "width": 2000,
+      "height": 1055,
+      "bytes": 118801,
+      "sha256": "f592c10663f64fcda38a482c3f0b94b2b9bebf0f5efbbc36a026d51b84c2a3e2"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "feature",
+      "order": 12,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner-pro/pc/4f1e5a7b66b248b3c852de9aea28c9c2.jpg",
+      "width": 2000,
+      "height": 1055,
+      "bytes": 146843,
+      "sha256": "3b3ff15a1d288fc6ab5fe1da167d08c21b574522dfbdcd5aff810222e39ceaa8"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "feature",
+      "order": 13,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner-pro/pc/9f1b248cde7d36c02908766ecfb8ddb9.jpg",
+      "width": 2000,
+      "height": 1159,
+      "bytes": 71386,
+      "sha256": "8d599b6fe5778259e3a9f00dc271cdf299dc43f6bca350f749eb67e639284c47"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "feature",
+      "order": 14,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner-pro/pc/img/img03-5.png",
+      "width": 588,
+      "height": 406,
+      "bytes": 33834,
+      "sha256": "8cc9ffb10d5b2284645b0f79e3197d660797fc71c4ee84ddbef1630ff461a95b"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "feature",
+      "order": 15,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner-pro/pc/img/img04-1.png",
+      "width": 890,
+      "height": 503,
+      "bytes": 25355,
+      "sha256": "57f6a1c916a243df6b80ca8ab217654f93935f9fc600cdaecf80289419846880"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "feature",
+      "order": 16,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner-pro/pc/xiaomiqmy_pc12.jpg",
+      "width": 588,
+      "height": 504,
+      "bytes": 42560,
+      "sha256": "19c0b7882b8dff651c270a2f6e5255c6ab3f0995e878a408da2a5f6d14519a76"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "feature",
+      "order": 17,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner-pro/pc/img/img02-1.png",
+      "width": 587,
+      "height": 504,
+      "bytes": 68107,
+      "sha256": "709c52621c8f5d3a23aa530866b1aa3d7b799b3712502e4659595f60c090f083"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "lifestyle",
+      "order": 18,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner-pro/pc/xiaomiqmy_pc10.jpg",
+      "width": 2000,
+      "height": 1055,
+      "bytes": 217250,
+      "sha256": "9e7920bb4b6ed628133a8c57cbe07a9a47f075b9467c2c73fe75f3b09f413863"
+    },
+    {
+      "file": "logo-xiaomi-plotno.png",
+      "kind": "logo",
+      "order": 19,
+      "sourceUrl": "repo: xiaomi-mijia-vacuum-cleaner-4/logo-xiaomi-plotno.png",
+      "width": 1200,
+      "height": 300,
+      "bytes": 13156,
+      "sha256": "fb3b09a29d22ab6b2f55a3a86b323aee611c71aecd428cb8d6f7ef5784823b53",
+      "inkRatio": 0.3
+    }
+  ]
+}

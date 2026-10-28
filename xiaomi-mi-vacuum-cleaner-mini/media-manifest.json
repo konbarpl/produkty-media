@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T12:02:29.506987Z",
+  "sourcePage": "https://www.mi.com/pl/product/mi-vacuum-cleaner-mini/",
+  "sourcePage2": "https://mi-store.pl/product-pol-1746-Odkurzacz-bezprzewodowy-Xiaomi-Mi-Vacuum-Cleaner-Mini-EU-40W.html",
+  "slug": "xiaomi-mi-vacuum-cleaner-mini",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "produkt-19.jpg",
+    "logo-xiaomi-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1673245214.46536627.png",
+      "width": 580,
+      "height": 580,
+      "bytes": 10458,
+      "sha256": "2ae499a9894c823bd3af7ef4eaa60b0f02c175605bb7d4199aa89f4fc4ff714d"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://i02.appmifile.com/755_operator_sg/25/10/2021/61fdc249e36b45fa321739b67d0aa2d5.png",
+      "width": 880,
+      "height": 738,
+      "bytes": 37149,
+      "sha256": "6c621a93870b238a0a3aa7b2b9bc4e12b0f7882070df7daa47ab0408c8f6a4bf"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://i02.appmifile.com/121_operator_sg/09/07/2021/90683ec23dfa085b17f1b6b88aac4f37.png",
+      "width": 880,
+      "height": 738,
+      "bytes": 31241,
+      "sha256": "ea253b0d03fde2d7f876826928c7047fa84b3c9e2c3d7f77ddc05872b200a8ab"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "feature",
+      "order": 4,
+      "sourceUrl": "https://i02.appmifile.com/994_operator_sg/25/10/2021/9f86bf972a221050078da616c13acf90.png",
+      "width": 879,
+      "height": 738,
+      "bytes": 32924,
+      "sha256": "dda9d9521dc7cf315cb9bdb6b7292c98ac37dacccacb919ea60835161e4e31e5"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "feature",
+      "order": 5,
+      "sourceUrl": "https://i02.appmifile.com/676_operator_sg/09/07/2021/88d3691c3bccb8ef8554db49d20e84a2.png",
+      "width": 879,
+      "height": 738,
+      "bytes": 52801,
+      "sha256": "a0e809978ce8c1d49f5910596f8335b005c5ce14e30205dcda3402d092cdc577"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "feature",
+      "order": 6,
+      "sourceUrl": "https://i02.appmifile.com/796_operator_sg/20/10/2021/cc9792029728a6dab6f45dafc612584a.png",
+      "width": 2000,
+      "height": 768,
+      "bytes": 62237,
+      "sha256": "d3f254cc3c0dba3ff806597c6866c66c9e853b5aeea48c7000b388a6ed67871a"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "feature",
+      "order": 7,
+      "sourceUrl": "https://i02.appmifile.com/409_operator_sg/09/07/2021/41f51444e39aeecf4748c672f9e943e3.jpg",
+      "width": 2000,
+      "height": 914,
+      "bytes": 53569,
+      "sha256": "ae76703a118f666541faa73155bc840aab08415c7096df66398128f772b6ca61"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "feature",
+      "order": 8,
+      "sourceUrl": "https://i02.appmifile.com/229_operator_sg/09/07/2021/c2c9abd183261eb2b7d888fec8f0cddd.jpg",
+      "width": 1588,
+      "height": 1548,
+      "bytes": 68954,
+      "sha256": "766a8abc4fa0efef3da15f0cdccf55b8af1205aae9a3c4060727e7a174a54715"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://i02.appmifile.com/988_operator_sg/20/10/2021/c2d1ab39715cfac7dcc5e5e0022cd651.png",
+      "width": 2000,
+      "height": 1359,
+      "bytes": 523499,
+      "sha256": "cec43e1ce826c7695d7ca7875883ecfaf5ae777dfacee33f18ed24e5f7466268"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://i02.appmifile.com/279_operator_sg/20/10/2021/b81bbb5ee449d49473972eb9022a3fca.png",
+      "width": 2000,
+      "height": 1171,
+      "bytes": 289566,
+      "sha256": "0033176473b484fb1f4a1fab4687255df405c69eda98a82a04d67eecc74ab169"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://i02.appmifile.com/315_operator_sg/20/10/2021/13bbe923b4b25db15c8eb97eb739d3af.png",
+      "width": 2000,
+      "height": 1143,
+      "bytes": 295928,
+      "sha256": "b12e5e3931a11c227a3ceff4c930abad6ac460685d952479f49fa30f075b7fc3"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://i02.appmifile.com/591_operator_sg/20/10/2021/c00c35859a060db249d43a30f7a5fa9e.png",
+      "width": 2000,
+      "height": 1181,
+      "bytes": 242682,
+      "sha256": "2b5684688e85964f205e2b3a2b3695d01c962fa5a23f785fd8ab9193c1288d7d"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://i02.appmifile.com/354_operator_sg/09/07/2021/ad1e0f8889a1c40d01c97b5bc69c785a.jpg",
+      "width": 2000,
+      "height": 744,
+      "bytes": 114602,
+      "sha256": "229592692076fac6db7f2d3ce838369d69feb128bc0f657dba228adc7e7faaa7"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://i02.appmifile.com/26_operator_sg/25/10/2021/97fccf4f5f84fe3d564eb1f4e53dfd0a.png",
+      "width": 1239,
+      "height": 1249,
+      "bytes": 351692,
+      "sha256": "dee3660643b21eb96d02aa85083b30745d3374ecbf21d96cb18baa22bd4a788d"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://i02.appmifile.com/176_operator_sg/25/10/2021/ba213cd91dbc7baca3cba1666cfb59db.png",
+      "width": 1239,
+      "height": 1252,
+      "bytes": 247419,
+      "sha256": "f2e37ca4c5b7e543e1a78ebf12b5cdc3c2ccff5263fc746d516bcaa0901885bf"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "lifestyle",
+      "order": 16,
+      "sourceUrl": "https://i02.appmifile.com/379_operator_sg/08/07/2021/029f6f718113b93895392b8998ba5287.jpg",
+      "width": 2000,
+      "height": 874,
+      "bytes": 135573,
+      "sha256": "dbca34b2569679752dec02efa618f3a82eef548694a229e923eac2e951ec513d"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "lifestyle",
+      "order": 17,
+      "sourceUrl": "https://i02.appmifile.com/232_operator_sg/09/07/2021/b7f19c7b8506ad77befaf6fa0c0ac5ae.jpg",
+      "width": 2000,
+      "height": 744,
+      "bytes": 216593,
+      "sha256": "b7c8514ddc8957b338a3196728fa6168d04e0d4bd2a0ee03f4f675d9ee2fff4b"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "feature",
+      "order": 18,
+      "sourceUrl": "https://i02.appmifile.com/229_operator_sg/09/07/2021/cb75d768dd610bb6cd4267fc0910c2ca.jpg",
+      "width": 2000,
+      "height": 1031,
+      "bytes": 170618,
+      "sha256": "57f13d72b2265f6728e5620befa9de692ff518ca44d4b9ffbee9996a99316a8d"
+    },
+    {
+      "file": "produkt-19.jpg",
+      "kind": "lifestyle",
+      "order": 19,
+      "sourceUrl": "https://mi-store.pl/hpeciai/c060a8bedfbe06f5874d781bdf5c9e28/pol_pl_Odkurzacz-bezprzewodowy-Xiaomi-Mi-Vacuum-Cleaner-Mini-EU-40W-1746_4.webp",
+      "width": 750,
+      "height": 397,
+      "bytes": 69624,
+      "sha256": "a6c3a012b1bbd364cb73613fb153a44d6b53db9e356dee297b502e976d587b0c"
+    },
+    {
+      "file": "logo-xiaomi-plotno.png",
+      "kind": "logo",
+      "order": 20,
+      "sourceUrl": "repo: xiaomi-mijia-vacuum-cleaner-4/logo-xiaomi-plotno.png",
+      "width": 1200,
+      "height": 300,
+      "bytes": 13156,
+      "sha256": "fb3b09a29d22ab6b2f55a3a86b323aee611c71aecd428cb8d6f7ef5784823b53",
+      "inkRatio": 0.3
+    }
+  ]
+}
