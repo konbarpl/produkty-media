@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T17:26:09.175342Z",
+  "sourcePage": "https://www.krups.com.pl/%C5%9Awiat-kawy/Ekspresy-automatyczne/Ekspres-automatyczny-KRUPS-EVIDENCE-ONE-EA895E/p/8010000804",
+  "slug": "krups-evidence-one-ea895e",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-krups-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wzNTM1NnxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJneE15OW9OMkV2TWprMU5ETXdNelk0TVRNek5ESXwxODllYTUzY2IwNWI4MGM1ZjhjYTE2MDgxNzhjODIzZjg4ZTE4OTYwYmQ1ZGM4OTI1NTQ0MDUyMWEyNmUzYzc4",
+      "width": 700,
+      "height": 700,
+      "bytes": 48709,
+      "sha256": "ea19c4878072396390c2d54bfeb26476d6f4a25859ff16dad50b774fc4ac8db3"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wxNDU2OTd8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaG1OeTlvTnpZdk1qYzJPVFU0TURrMk1qWXhOREl8ZjJhYmE2MmZhYmE4OWI3NTIzOGYzNjk4MWE5NWI1MDQzZDNmZGRjZmI2NTkwN2I2ZDY4Y2YwZDExNmFmYzAxOQ",
+      "width": 700,
+      "height": 700,
+      "bytes": 60214,
+      "sha256": "c648823683c550130ff1132478ecb1c4bcfc64f7f69e490276262163187e98a2"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wxNTI1Mjh8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaGhZeTlvWkRndk1qYzNNVFl5T0RjeE1ETXdNRFl8ZTFiMWI1NDgxOGI4MGQzYzE1ZTkwMjk0ODBiZmZhMjU1MGRlMzhkNDFjZGI0MjFhYTIwMzViMTA2NmFkMmJiMg",
+      "width": 700,
+      "height": 700,
+      "bytes": 50892,
+      "sha256": "96c943760078c70f0a023cb114fe949de36b1cb3b3a61de78f5f251d0ec5ef2c"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0MTQyNjd8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZ3haUzlvWVRBdk1qWTRPRFUyTkRJek1qRTVOVEF8MzI0MjhiYmJlZmI1MGQ5NWM3Njk2ZjM2YWQxMWU2NTI2MGJkZTMwYTcyYjliODBjODljODExMmM5YzQyNGE1MQ",
+      "width": 700,
+      "height": 700,
+      "bytes": 95828,
+      "sha256": "0fb2ae62b13ccefe1c612c355458fd01c92d311ee28c5a0dffd00f6b2b003411"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0OTAyMDV8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZzVZeTlvTTJNdk1qZzNOamt6T0RreE1UYzBOekF8MmU2ZDU2MzBkYzgwMTIwNjk1ZTQyZWRlMmYwZjg4OGEyNmU1ZDU5ODdiY2FhOWZlNmQ1ZDRiNjFmZDk0NmFhNQ",
+      "width": 700,
+      "height": 700,
+      "bytes": 114070,
+      "sha256": "a0c0e4092b512c0554f3bec233373c66e591b4060afd3ac92a2c5553989160a2"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0Njk3NjR8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZ3hOaTlvTmpndk1qYzNNVFl5T1RRd05EazRNakl8YTdhMTY0ZjcyYjI0YzllMWE5ZWIxZTQyYjc4OGQ0ZDYyN2JhMjBkMjBkYmU1MjAyOGI5NjMxYWIxODQyM2E3ZA",
+      "width": 700,
+      "height": 700,
+      "bytes": 112540,
+      "sha256": "fdc3bb19740aba32e736b4f11d5e41a5413f01511198b82815d974db7ae23aee"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wzOTI5NTh8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZzBaUzlvWkdZdk1qYzNNVFl5T1RVME1qWXdOemd8OTkzNTQ2ZmFkMWU5OGE2NjQ0NTE2M2M4NmIzMDJjZDczNjBmYmEyNTUxZDdiY2QzMjVhNjg0NzAwMDBkNThmYg",
+      "width": 700,
+      "height": 700,
+      "bytes": 85912,
+      "sha256": "7f7076c6ace2383df558bcd74be701be27879eb3986b0cb4ea557d361926d7e4"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0Nzg2NDZ8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZzFaUzlvTnpndk1qYzNNVFl6TURJM09UZzROemd8M2UwY2Q2NGQxMzQ0YjEwZGFjY2RhMDZmNTQyMWJhZjk0MzFiMDhmZWFlNDMwMGE2YWEyNTA1YmZkNmU1YzA4ZA",
+      "width": 700,
+      "height": 700,
+      "bytes": 110758,
+      "sha256": "684c29d313ccdf14e8c249dfd60054311028704330ff9d61af9022134c30dc09"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wxMDM5Nzh8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZ3lOeTlvWXpVdk1qYzJOREV6T1RjMk1EZzBOemd8ZjI0YzVlOWZiNzA3NWNmYmMwMzZjYjFhM2Y2NWUxMDc1MjczYmYwYzYwMDFjN2Q5N2E4NWU4OGQzMzZkNDY3ZA",
+      "width": 700,
+      "height": 700,
+      "bytes": 38666,
+      "sha256": "00ee71149919943182a46185b60a3be36ca4d150f2f88eb8644726526df632a8"
+    },
+    {
+      "file": "logo-krups-plotno.png",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "repo produkty-media/krups-coffee-crush-sa403be0/logo-krups-plotno.png (plotno 1200x300)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 1793,
+      "sha256": "5d10f509a3ba478002ee0ebff47195329ef9362d7f93f74614959e790c76a640",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": [
+    {
+      "file": "src-21..src-29",
+      "reason": "miniatury 350 px sekcji Kluczowe zalety (czesc to duplikaty kadrow galerii, src-29 ciemniejsze ujecie - tozsamosci wariantu nie potwierdzam) - zostaja w staging dla ETAPU 2"
+    }
+  ]
+}
