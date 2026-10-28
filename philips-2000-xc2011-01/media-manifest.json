@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T14:23:50.050Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/XC2011_01.assets (PRX API, CTN XC2011/01)",
+  "slug": "philips-2000-xc2011-01",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.jpg",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-10.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d877ca62_f29a_41bc_ad86aef7287b0650?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 28884,
+      "sha256": "cccd391246bb977f13183fc9ed4fc5fb3028de45ea6ecd543f73622531654513"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_12ae50fd_d2c8_4459_af4074ee9440a8d8?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 38980,
+      "sha256": "d406c3a504a9c9471a90f30159073781b0244995d12077a5f417c61c8a5a7e9d"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ae2b31d9_c46e_42a2_bf100e622dde9c32?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 30016,
+      "sha256": "82df2e7ec0c3634993e019076d408e31a73d8aaf5eabe14773e8f96f604ebbed"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8f085dcc_e20b_4daa_839d6f61240f4da2?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 26116,
+      "sha256": "0b9607150dca50c7dde6aae715e4384e17cbe08dde51618a0855c53fc01f5ba3"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_041c7452_aaf2_4d8e_9d34927581ed4e84?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 59942,
+      "sha256": "bf5ea1b691bf2064b026a5aad0f5499d5ac329b0d06f6ea6d08514732d5ff3fe"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_11141f46_76d0_45c9_b1032fce2fe03ef5?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 97442,
+      "sha256": "cb056df64c62fe9908c9d53db06904b0de6e2c8b43b5954bb8fca6da3e5f1e5f"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_79423aa5_7bc5_4bcd_8f0bbf937461bedf?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 88300,
+      "sha256": "76979dbf85dd5fecc4f7a1ff5d9aa9041da54920c087822ef2b814314b274823"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c788d21f_07e4_4b10_aabb5c630d10a8ed?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 53224,
+      "sha256": "950eefce3f539376e229ea1252085913f5fa7a8d6acbe454a6e2367471d5146c"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2ccbdbb6_0d90_4410_9fec148249e1897d?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 53444,
+      "sha256": "9124b5ab8ef7904222e69758770cd46377adfd30a8fef67c63be9dd3a4c01c13"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "sourceUrl": "kopia z produkty-media/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png (G83)",
+      "height": 300,
+      "inkRatio": 0.3,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+      "width": 1200,
+      "bytes": 9114,
+      "order": 10
+    }
+  ],
+  "dropped": [
+    {
+      "file": "produkt-09.webp",
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8b8a60b3_de96_4f16_955697872fedc5e7?wid=1600&hei=1600&fmt=jpg",
+      "reason": "PRX FIL 'FIM XC2000_Power_Cyclone_03_16x9' — render ciemnego korpusu innego modelu serii, kolor niezgodny z XC2011/01 (bramka tozsamosci)"
+    }
+  ],
+  "ctn": "XC2011/01"
+}
