@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T11:36:36.418952Z",
+  "generatedAt": "2026-10-28T11:43:20.055676Z",
   "sourcePage": "https://www.mi.com/pl/product/mijia-vacuum-cleaner-4-max/",
   "sourcePage2": "https://mi-store.pl/product-pol-38632823-Odkurzacz-Pionowy-Bezprzewodowy-Xiaomi-Mijia-Vacuum-Cleaner-4-Max.html",
   "slug": "xiaomi-mijia-vacuum-cleaner-4-max",
@@ -68,33 +68,33 @@
     },
     {
       "file": "produkt-05.jpg",
-      "kind": "product",
+      "kind": "lifestyle",
       "order": 5,
-      "sourceUrl": "https://mi-store.pl/hpeciai/85f9d437934c6b41a18b86ca9f9a41c7/pol_pl_Odkurzacz-Pionowy-Bezprzewodowy-Xiaomi-Mijia-Vacuum-Cleaner-4-Max-38632823_6.webp",
-      "width": 600,
-      "height": 600,
-      "bytes": 16098,
-      "sha256": "72a7bb5f9a0bda82388f134694d2671178247ee70d157e5534d923366b71af6d"
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-max/pc/icon-screen19-1-v2.png",
+      "width": 888,
+      "height": 958,
+      "bytes": 63660,
+      "sha256": "23ac04e62bc07d90176b26ea589fa041730f814ac2e8665062f84766fa506c92"
     },
     {
       "file": "produkt-06.jpg",
-      "kind": "product",
+      "kind": "lifestyle",
       "order": 6,
-      "sourceUrl": "https://mi-store.pl/hpeciai/65c67acc8dc44c6bd56daf13eecc2b73/pol_pl_Odkurzacz-Pionowy-Bezprzewodowy-Xiaomi-Mijia-Vacuum-Cleaner-4-Max-38632823_7.webp",
-      "width": 600,
-      "height": 600,
-      "bytes": 13996,
-      "sha256": "707103fcbb51b52836281e6fa6b8953114fdd6fad0c256d0be45f3c83977aeee"
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-max/pc/icon-screen19-2-v2.png",
+      "width": 888,
+      "height": 957,
+      "bytes": 75444,
+      "sha256": "f6abc3fe66b38baad4c45c8a4d3f64ebf50b2823720e96adfc74b0aa20377bad"
     },
     {
       "file": "produkt-07.jpg",
-      "kind": "product",
+      "kind": "lifestyle",
       "order": 7,
-      "sourceUrl": "https://mi-store.pl/hpeciai/a987be2080b0fe37d3b6193678b8c73d/pol_pl_Odkurzacz-Pionowy-Bezprzewodowy-Xiaomi-Mijia-Vacuum-Cleaner-4-Max-38632823_4.webp",
-      "width": 600,
-      "height": 600,
-      "bytes": 9489,
-      "sha256": "77837e23faf02d78b7b9efa138a93e177c060e1c47181f883a0afd08ea2ff910"
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-max/pc/icon-screen19-3-v2.png",
+      "width": 888,
+      "height": 958,
+      "bytes": 80702,
+      "sha256": "ced1d94d2cb67506e271c2016883f5f1eed3db9e8e57682349cd81e5dfe32260"
     },
     {
       "file": "produkt-08.jpg",
