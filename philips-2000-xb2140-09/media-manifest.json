@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T14:24:45.631Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/XB2140_09.assets + .features (PRX API, CTN XB2140/09)",
+  "slug": "philips-2000-xb2140-09",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2e1de28e_ca39_411e_ba54a6f465c2542e?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 63598,
+      "sha256": "a3826388bbb4045cf0cbde4f33287834352ebcde29d46ed9bb06bc73b91ca34e"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_847e2d9a_b688_462d_a322b117eab1b1df?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 55230,
+      "sha256": "374d8b57d4ffaa11ba73a2d0840da21486d684f51dcce8e826369b823b5b36b1"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_04dd2581_1e87_41f2_be1584c82f36f9a0?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 59734,
+      "sha256": "abff135f96f365e4fe1e45a391c38cf3be5ed426f03afec5b971dd023310c2a3"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6b5d2b5e_e810_4c94_add3d773d4c0f7c0?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 68750,
+      "sha256": "efdfd44a251b39dd944e14ba21e7190572934890d82580e889625696539d6cb0"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3d268d36_f9c8_46cd_ba705f18302a6170?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 59696,
+      "sha256": "ff623e86a2ade5b5f8655914b010108648f6c180ec86084da010dfe940123d03"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8e3f77fc_ffce_4bfc_9b878a8f728391a6?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 45470,
+      "sha256": "4e94cc166b65b43e1c148a02c2d7915ffbdea5006ad4d55f63c15f4f298bc8d0"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_eb826068_3394_478a_9b7e2ccf7c92089f?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 81752,
+      "sha256": "02980d5451d776686bd95f79429501f7c6708ce8fcc2e6804a9c5c52f6750f50"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_8203943e_253b_4d1c_b76c1fb14e1b9b77?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 68270,
+      "sha256": "1c542c3123f65037bb47758df14686540dbe06270a20390de3287d7fbf469bcb"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_03ac9c4b_9ee1_47f4_bed65b52c5813eb3?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 50768,
+      "sha256": "7d60cee6117baa19a574a7ca4d624c9697ef3e64aa56cbaec0a08bf144f2febf"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_0c746b88_31d3_4256_a5bcc7d18d49ca95?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 49722,
+      "sha256": "e48236f4f871725b8b6374e053f13f654dd8511323562afe684459fbce710caf"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_fd6d520b_e4a1_4233_96195c54380b7b5f?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 30274,
+      "sha256": "07afa475a5d53b37522f7c6d5d28464c9158694279e219d27a5749cb601f1a65"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_20afd0ad_294a_4e11_8cc6d556d06cd734?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 57064,
+      "sha256": "85b6e548d8850381dfef2fd0844fc5ed89630d38327b3c925fc385b324ae34d5"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "sourceUrl": "kopia gotowego plotna G83: produkty-media/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png (logo_plotno.py OK 1200x300, znak 30%)",
+      "height": 300,
+      "inkRatio": 0.3,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+      "width": 1200,
+      "bytes": 9114,
+      "order": 13
+    }
+  ],
+  "dropped": 0,
+  "ctn": "XB2140/09",
+  "excludedFromGallery": [
+    {
+      "sourceUrl": "PRX .features",
+      "reason": "render serii w wariancie niebieskim/rozowym (PowerCyclone 4, oproznianie pojemnika, silnik 850W) - nie kolor XB2140/09 (Arktyczna biel i zolty)"
+    },
+    {
+      "reason": "duplikaty i prawie-duplikaty zdjec D2P/D6P/U1P/U2P z .features"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T13:58:52.637Z",
+  "sourcePage": "https://www.tefal.pl/odkurzacz-pioracy-tefal-clean-it-hot-cold",
+  "slug": "tefal-clean-it-hot-cold-iz7021",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-tefal-plotno.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/d/i/digital-tfl_iz7021f0__clean-it-hot-and-cold_h1_1_.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+      "width": 1200,
+      "bytes": 110007,
+      "sha256": "6fe772ba27bc2996727606b06709a12e3a549ef71eafc3fab56297e3c9974705"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_iz7021f0__clean-it-hot-and-cold_h2.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 138293,
+      "sha256": "f6d88873b58a57eca382d4c40c048ff3cf6feeb1d55f495f092f906426516255"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_iz7021_clean-it-hot-and-cold_hygienic-activ-brush_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 175578,
+      "sha256": "0551eaf52fd4682eba6f023bf1d77f0fc0d41f3ca9bf004b23d5d5d4b66971b2"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_iz7021_clean-it_various_cleaning_heads_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 347861,
+      "sha256": "880a30f56b1e37fc8562577214f9f8928f1add8b9eba7776484bb35d9969e06b"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_iz7021_clean-it_extra-cleaning-efficiency_b1_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 249558,
+      "sha256": "defa24cc25ab9f1dbd2614eeae3d71d9e746917365206154d9230539f4fd2e96"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_iz7021__clean-it_hygienic-petmess-trap_mud.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "width": 1200,
+      "bytes": 195408,
+      "sha256": "fd6f0d9269f31ffd492a3b87232b4f04589fb81df15640c73babe8256d123965"
+    },
+    {
+      "file": "logo-tefal-plotno.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "dropshipping/materiały/logo/tefal-logo-male-1200x300.jpg (płótno z _logo/logo-tefal.png, logo_plotno.py --napraw 28.10.2026)",
+      "bytes": 14886,
+      "sha256": "dff97262e6ec73b44eb88cef7226ee759a5185e7a1a87ea13e853754e6e2b4df",
+      "width": 1200,
+      "height": 300,
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 0
+}

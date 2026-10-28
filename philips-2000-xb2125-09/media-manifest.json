@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T14:24:10.977Z",
+  "sourcePage": "https://www.philips.pl/c-p/XB2125_09/2000-series-odkurzacz-bezworkowy",
+  "slug": "philips-2000-xb2125-09",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c1721bbb_3d85_4c49_aac921867844d598?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 93096,
+      "sha256": "a3c70079568c637918a5d312e60a998eca7b16595f18b5615181fd73081d7eff"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d9ddea44_e6ce_4299_8ed3a43011c6cda4?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 69422,
+      "sha256": "067c5ce1e71a5b64a36e9a866487067ef0840d243c6600e56d3c091cc50e3221"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_acf7ed89_e7bc_4e02_97ddd967e8b7d796?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 62550,
+      "sha256": "0e2bc1ab4479904b96fd68208609401b4a6b24cdceadafcb6753b8a0fc8b2257"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ff0ca692_2ee5_4f39_bc33afef5fb2381f?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 89866,
+      "sha256": "9d6fa3df01bc41d58bc1f3bf74bcf188fc46cab44c5a262c612e8a0fb7703844"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_20879c99_92bd_4139_a7cfcfa3685825d0?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 57456,
+      "sha256": "8eb1b0611151738da306bfdf0e208404e3869103e9f99522d1769eadcb081e81"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_92f76d58_089e_4d88_96ccdd69c7fa301c?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 62064,
+      "sha256": "d4738704060f25f73fd976c824815054feed821de5be5583cf3c15ec1f1d1acc"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a2faf1d0_eb75_4672_8ec2c999f6abf899?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 55538,
+      "sha256": "592dae61eb2a605a08f6165cb439bb1b767101c7e5d334c4973652d2ae240bd7"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_84b83217_debb_484d_a4ab0664403a36cf?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 59348,
+      "sha256": "c83cc1a17fe58c0a2d3fac9b15f5d4319de557604d9dc72b081864c53decc1f3"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_eb826068_3394_478a_9b7e2ccf7c92089f?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 86312,
+      "sha256": "5ef449dd53bb48b86b915977ab15f9b04bef6e1055f088c7bda168f53867b5a4"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6a76b560_483a_48d3_94930a8617a39df3?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 72908,
+      "sha256": "de0eaae2a86109814049235e7dac68f835f3d5ba82c92c6cd75887a58b293e88"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f7457cf3_6d49_4411_8ad93c10c80bee56?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 95600,
+      "sha256": "cb062cb0790ec674526ef35b29cd211f5c352972638288496392a8d90216aff8"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_fd6d520b_e4a1_4233_96195c54380b7b5f?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 42164,
+      "sha256": "af9d129aec764a8120de1d551d3a915f8524f7dbc60f4aca5feeb01c7d40f351"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f1618d76_624a_448f_ad2beac66e5e0c36?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 91616,
+      "sha256": "6553de87312834891cb716f6c46aa14be8085cfc13796fa39ab1e3225b7a2c52"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 14,
+      "sourceUrl": "kopia z produkty-media/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png (G83, płótno 1200x300)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 9114,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 0,
+  "identityNote": "PRX XB2125_09 (philips.pl). Do galerii tylko zdjęcia z ciemnoniebieskim korpusem i żółtym cyklonem (CTN XB2125/09) oraz neutralne grafiki funkcji (850W, 99,9%, nasadka). Odrzucone FIL: PowerCyclone 4 render z różowym cyklonem, opróżnianie pojemnika z różowym cyklonem, ujęcie w szafce z różowym cyklonem (inne CTN serii), filtr Allergy (inny filtr niż SuperClean ze specyfikacji), duplikat pikselowy U1P."
+}
