@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T13:59:49.297Z",
+  "sourcePage": "https://www.philips.pl/c-p/XB1142_10/bagless-vc-1000-series",
+  "slug": "philips-1000-powercyclone-3-xb1142-10",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.webp",
+    "produkt-04.jpg",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "opis-07.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_98bcc19e_8129_48c9_8bc9ac2d57a6e213?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 97465,
+      "sha256": "bc11a695446106c2883cc9d70880862d0e564e24446c30a781775463ae884349"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_80e01b99_b92c_4a13_83b755d8ed825dbb?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 74987,
+      "sha256": "c1dfacca81bc4094696ead08547a519466102d176471fbc47654e63bf848db62"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e106a40f_d8e9_437e_b60e361a71946591?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 62644,
+      "sha256": "d602d722099c03825aba8f03754d7218265208d012f3bb833b8abcb91e122bb2"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_c4913bc3_1a79_4a5c_84db12cbc0da5cab?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 89868,
+      "sha256": "156307cc5f7bc58a4d453e18493eda0f595088c8fdc40716017d3f1f4f128372"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_656a16db_b977_416f_a3773e48c5a88d63?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 37830,
+      "sha256": "d086de36281478a3ec935b46a057b58ad76db66f21b2965c0e881dc4064b0b51"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_421c5879_0a2b_4e97_8ba7111f471dea6f?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 153270,
+      "sha256": "9fec1778b70d61d03a1748d683244b0119a33cae788f7886d108efe638ab2983"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3dd81e3e_75a8_4f99_8526077bcbf10a93?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 74940,
+      "sha256": "db5a2ce2c4a5dcaa40016b5f2f4289ff30da0fed9b793af0eb067fea44c9521c"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ca580533_57c3_4e8c_b35c98b7be02a598?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 51730,
+      "sha256": "489c5622fe48f95058f08959e9fa4d99b50eb566bc65e38837905bc6b32efa8b"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2750e04e_9ee9_4780_81301643f4b6c561?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 79850,
+      "sha256": "fd62f5653b86ebf7f4debd2e101a41b0f6b5469f8630237ca533a93d5a71c721"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_fce50acc_32fa_4165_b823960f0100ddd8?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 74864,
+      "sha256": "08774cc9cdec8f14e9dcc454e9d09b2c0fb7923a7cf796c787fc602bedc89f62"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_996ae95c_ec0e_4b43_8af575f73642206c?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 62954,
+      "sha256": "f6b6b593bc5b762a00f42f26bc997dcf43c78a498577dd6a548346f60c66bde7"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e49244bf_3b1d_4af8_852a8771d55be2c4?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 62734,
+      "sha256": "b94a62e41243bf5ee30c7c0c629669e606a98218fa415c4f0025458fb294ba3f"
+    },
+    {
+      "file": "opis-07.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_41ace5b9_231a_4925_80132ac8686c321b?wid=1200&hei=1200&fmt=jpg&qlt=92",
+      "width": 1200,
+      "bytes": 66698,
+      "sha256": "0b945cc84a5fa28352db3f4ec964404f1498644a665e40b28c1c33e9f19d3ba2"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 14,
+      "sourceUrl": "dropshipping/materiały/logo/Philips_logo małe1.png (logo_plotno.py --napraw; kopia z philips-powerpro-compact-fc9333-09)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 9114,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 0,
+  "identityNote": "Zdjecia z PRX assets karty philips.pl XB1142_10; metadane czesci assetow opisuja XB1042/10 Deep Black Coral (Philips uzywa tych samych renderow), wizualnie zgodne ze spec XB1142/10: korpus czarno-koralowy, rura metalowa teleskopowa, nasadka uniwersalna."
+}
