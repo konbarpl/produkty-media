@@ -1,0 +1,75 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-28T16:04:05.196Z",
+ "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/XC7053_01.assets (PRX API, CTN XC7053/01)",
+ "slug": "philips-aqua-7000-xc7053-01",
+ "galleryOrder": [
+  "produkt-01.webp",
+  "produkt-02.webp",
+  "produkt-03.webp",
+  "produkt-04.webp",
+  "produkt-05.webp",
+  "logo-philips-plotno.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.webp",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3cad466e_1082_4fe7_aa6eecd80a204a3d?wid=1600&hei=1600&fmt=jpg",
+   "width": 1600,
+   "bytes": 47660,
+   "sha256": "7a748b5f3cdd265408d14bb3ac65d8d8a8a5633be6abe2f3bccaa2244b81d6d6"
+  },
+  {
+   "file": "produkt-02.webp",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cc7c8709_e66f_4643_be9f2765dbe52865?wid=1600&hei=1600&fmt=jpg",
+   "width": 1600,
+   "bytes": 29880,
+   "sha256": "2d598eab3f3b5de8b4822e47d5c28164abfa9413766435fa13106e25c246701a"
+  },
+  {
+   "file": "produkt-03.webp",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_52953fe2_9e88_4be9_89e864b69c994e48?wid=1600&hei=1600&fmt=jpg",
+   "width": 1600,
+   "bytes": 27020,
+   "sha256": "0e098c2d83534ce2f248de4941853d45ef530531f380db025fa05aca1387cf13"
+  },
+  {
+   "file": "produkt-04.webp",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2f04f7fc_a5b1_4d48_ae35590660b9dea2?wid=1600&hei=1600&fmt=jpg",
+   "width": 1600,
+   "bytes": 73810,
+   "sha256": "4a7215992f43829b72f65fd30cbccebc22ef44efd7496a723e4ac7b6974db608"
+  },
+  {
+   "file": "produkt-05.webp",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_882a9aa0_72a0_4bb6_ba19e3ab53e7769c?wid=1600&hei=1600&fmt=jpg",
+   "width": 1600,
+   "bytes": 59286,
+   "sha256": "94a4a95e6ef06979950cd8c7974f46d3e45ce101527e3121698d01b73bb8dfd2"
+  },
+  {
+   "file": "logo-philips-plotno.png",
+   "kind": "logo",
+   "sourceUrl": "kopia z produkty-media/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png (G83)",
+   "height": 300,
+   "inkRatio": 0.3,
+   "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+   "width": 1200,
+   "bytes": 9114,
+   "order": 6
+  }
+ ],
+ "dropped": 0,
+ "ctn": "XC7053/01",
+ "identityNote": "Tylko assety PRX potwierdzajace XC7053/01 (RTP PAP XC7053_01, D1P RFT1 XC7053, D2P APS XC7053, D4P U7 XC7053, FIL XC70XX z lista XC7053). Odrzucone XC8057/XC7057/6000/XC7000: claude/erli-research/_tmp/krups-philips-tefal-2026-10-28/philips-aqua-7000-xc7053-01/dobor_zdjec.json"
+}
