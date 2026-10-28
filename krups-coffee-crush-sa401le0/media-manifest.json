@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T16:49:55.172281+00:00",
+  "sourcePage": "https://www.tefal.pl/ekspres-do-kawy-cisnieniowy-krups-coffee-crush-kolbowy-z-mlynkiem-pistacjowy",
+  "slug": "krups-coffee-crush-sa401le0",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-03.jpg",
+    "produkt-02.jpg",
+    "produkt-06.jpg",
+    "produkt-11.jpg",
+    "produkt-10.jpg",
+    "produkt-09.jpg",
+    "produkt-05.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-13.jpg",
+    "produkt-12.jpg",
+    "logo-krups-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/k/p/kps_sa401le0_coffee-crush_png.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 66171,
+      "sha256": "7e07cb1ba05fe1d5afc9d33fc45d435f6bd96fb28f27d2a81ec61b0252fb3944"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa401le0_coffee-crush_h1.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 84881,
+      "sha256": "5212312dd10ea7ac67e46edfb7cd142f7b15a9156da48b655e6fdb2706a5e106"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa401le0_coffee-crush_h1bis.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 73749,
+      "sha256": "1e83c13ce8932e4febc354b71ba3a86025746dfff4f4b142f0305f8a98cc13dd"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa401le0_8010001479_pwc13_es.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 172290,
+      "sha256": "92da71859c0789323404cf00cb6f0b41d6cb98dc24148ae5cf5f93d23faa29a0"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa401le0_8010001479_pwc20_es.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 116950,
+      "sha256": "7af7af6f12c40655754e758535b795af604b972d8bc3c1007a55354ac776dcb0"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa401le0_8010001479_pwc19_es.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 163461,
+      "sha256": "65db910089ed24c49758018a18dcd219e455b3027b8369d02dbf74b804c54580"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa401le0_8010001479_pwc16_es.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 266996,
+      "sha256": "0fcc0025c34aa1e67b286eece3157f8d1f496228b7832ed545160c03c449051e"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa401le0_8010001479_pwc12_es.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 215722,
+      "sha256": "917d50f4bbb9a91eb63c7a71f4c727416e1910b3e32c621159ca9919c304cde5"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa401le0_8010001479_pwc14_es.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 190695,
+      "sha256": "ff985fc8131a27f2a147d019efecc982be57f91b86ea0339abd24a84e90c1769"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa401le0_8010001479_pwc15_es.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 128302,
+      "sha256": "0c2ef03dc316d293622cf77f7aeac70f0951110b72c568979e5438392ed50597"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa401le0_lichen_coffee-crush_compacity_1_1.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 183516,
+      "sha256": "67a915da364fe9bc9a8092a1e753ef3ef60d15f50181abb095b3e8b91ff4e8fc"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa401le0_coffee-crush_versatility_3_.jpg",
+      "width": 1575,
+      "height": 646,
+      "bytes": 112144,
+      "sha256": "e8bf028771bc66e5718cf08085f7348949a44901f9d90583d15e5d586b80878b"
+    },
+    {
+      "file": "logo-krups-plotno.png",
+      "kind": "logo",
+      "order": 13,
+      "sourceUrl": "produkty-media/krups-coffee-crush-sa403be0/logo-krups-plotno.png",
+      "width": 1200,
+      "height": 300,
+      "bytes": 1793,
+      "sha256": "5d10f509a3ba478002ee0ebff47195329ef9362d7f93f74614959e790c76a640",
+      "inkRatio": 0.3
+    }
+  ],
+  "note": "produkt-04 (infografika po węgiersku) odrzucony z galerii — obcy język; plik w _tmp/krups-coffee-crush-sa401le0/odrzucone/"
+}

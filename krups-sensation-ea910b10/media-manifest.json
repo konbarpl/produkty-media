@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T17:05:29.025875Z",
+  "sourcePage": "https://www.krups.be/fr/Caf%C3%A9/Expresso-avec-broyeur-%C3%A0-grain/Sensation-EA910B10-Machine-%C3%A0-espresso-full-automatique/p/8010001202",
+  "slug": "krups-sensation-ea910b10",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-krups-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.krups.be/medias/?context=bWFzdGVyfGltYWdlc3wxODYzNTR8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaGhNaTlvTXprdk1qa3dOamc1TkRFMU9UQTFOVGd8ZTU4N2E4OTY4ZDdkZTYyMTQ0NjNjZTU2YzMwY2FhZWYwZmJmOWUyYjI2MDc0NWRlYmFhY2M0MDYwYmEzY2QzNw",
+      "mediaId": "30DD3BB9-DA4C-416D-82E0BD4188B6334C_xlarge_PACKSHOT?mediaFormat=extra",
+      "width": 700,
+      "height": 700,
+      "bytes": 186354,
+      "sha256": "474018e5daacd47138ad7f42b0bbebc7c1ecf9a0eef6cf27e63cfbb496ae58a8"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.krups.be/medias/?context=bWFzdGVyfGltYWdlc3wxMzg0NzN8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaGhPQzlvWlRVdk1qWTRPRE15T0RZMU5qUTRPVFF8ZGIzODM0ZmY3ZTE4OTBkMGIyYTI3NzhmY2VmY2YwNmYzZWU1ZDAzOTBlM2VhMDQ4NjJmMDU5N2ExZDgxY2VkYQ",
+      "mediaId": "0CCA15C1-8A3D-42DF-9ED8F2897E084E0F_xlarge_OTHER_PRODUCT_PICTURES?mediaFormat=extra",
+      "width": 700,
+      "height": 700,
+      "bytes": 138473,
+      "sha256": "705f6d4bfb04837153adea89bfb2c9c3bcdff1412ba847cd3bffec27dc9cf075"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.krups.be/medias/?context=bWFzdGVyfGltYWdlc3w0ODI3MXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJneU5DOW9aR1F2TWprNE1EUTFOVE00TmpNeE9UZ3wwYmU2YWM0MWQxOTg5NWE4YWJiZmU3NTE4NGJiNTc5NDg2MzMwYjFhMDJmZjNjYTZkMzk1ZmNmNGQ5NjQxNjhj",
+      "mediaId": "F427A61C-2051-4F1B-817A2D0DC2C5B955_xlarge_PRODUCT_LIFE_STYLES_LOCAL?mediaFormat=extra",
+      "width": 700,
+      "height": 700,
+      "bytes": 48271,
+      "sha256": "e980c0bbd07636305f3e92d30a083be4da1951411ceb1493668888603b6f6e9b"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.krups.be/medias/?context=bWFzdGVyfGltYWdlc3w0MDQ4NnxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJneE1pOW9PR1l2TWprNE1EUTFOVFF3TWpjd016Z3wyZTM1MmYxMWUzMzAwOWFhYmZhNjA5OTFjMGZlNTAxY2Y4NzQ2OGU4YmZmN2FiNGI5ZjgxNjk0MDIyMzFiZWM4",
+      "mediaId": "A0C8A012-EED8-4471-98B4B14C666617C8_xlarge_PRODUCT_LIFE_STYLES_LOCAL?mediaFormat=extra",
+      "width": 700,
+      "height": 700,
+      "bytes": 40486,
+      "sha256": "aefe2d01595f8961e1df8bea3e2173fb2aa44a3f8409f8bb6bdff9d5144ff3bf"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.krups.be/medias/?context=bWFzdGVyfGltYWdlc3wzOTU2NHxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnMU15OW9PR0l2TWprNE1EUTFOVFF4TlRneE1UQXw0MDA0MTczZjQyMmIzNjY4ODgxYTEwN2M0MmIzM2FjZDQ1OTRmNjY3OGY5ZThhMGUxMTEwMDBhMGQyMWIxOTUw",
+      "mediaId": "8CD04603-61FD-400C-8628E1E3A993DEEB_xlarge_PRODUCT_LIFE_STYLES_LOCAL?mediaFormat=extra",
+      "width": 700,
+      "height": 700,
+      "bytes": 39564,
+      "sha256": "b92df92727a9cd882413ff35a403472ebf77994711cbe38e5667208bca60ebf6"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.krups.be/medias/?context=bWFzdGVyfGltYWdlc3w0ODk3OXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnNU5DOW9PRGN2TWprNE1EUTFOVFF5T0RreE9ESXw1NDJjMTc0ODA0ZDUwY2FkNDE5MzYyMWQ2ODU2YjJlOTI3YmJlYjY5YTg3NjQwNTI0ZDhiNzkwYTdjOTc1MWZm",
+      "mediaId": "ECD3DD7B-97C0-4649-9BCDC91810137D91_xlarge_PRODUCT_LIFE_STYLES_LOCAL?mediaFormat=extra",
+      "width": 700,
+      "height": 700,
+      "bytes": 48979,
+      "sha256": "b0c5fe2cb53cc9d406494c6c00e1bc7db55bff78ada2f68b02b237767fb9040f"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.krups.be/medias/?context=bWFzdGVyfGltYWdlc3w0MTY5NjV8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaGpNQzlvTkdJdk1qZzROakV3TlRJMk9ESXlOekF8YjQyZGFmN2QxM2MzZDk4NDkwYzk0N2U0MmFlMTZkOWIxODAzM2RkYWEwZjkyZDMxNjk4ODFkZGI3N2UxMGE3Zg",
+      "mediaId": "DD75D4C7-406F-4BA3-93683C5C48F04032_xlarge_PRODUCT_LIFE_STYLES_LOCAL?mediaFormat=extra",
+      "width": 700,
+      "height": 700,
+      "bytes": 416965,
+      "sha256": "814a51789e4edb6261b87245d723dbe725ef253ce67658e5573997fd6777f11d"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.krups.be/medias/?context=bWFzdGVyfGltYWdlc3w0OTQwNHxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoaU5DOW9aVGN2TWprNE1EUTFOVE0xTXpVMU1UZ3xjYjhiNzE0ZGU3MTc3NTI0NzBhMjkyY2IxZDQxMmE5ODE0MWQ0MjFkYTZlMmY3MWE4MWRjYWQ1Y2QzZjg4MjVh",
+      "mediaId": "757FA588-B17C-4C1C-BA0C757C3F11FFFD_xlarge_PRODUCT_DIMENSIONS?mediaFormat=extra",
+      "width": 700,
+      "height": 700,
+      "bytes": 49404,
+      "sha256": "e06ad89944d8a915a1929154d5f3ebe770ee0c18cc195cf4064ef22551fa1660"
+    },
+    {
+      "file": "logo-krups-plotno.png",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "repo produkty-media/krups-coffee-crush-sa403be0/logo-krups-plotno.png (plotno 1200x300)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 1793,
+      "sha256": "5d10f509a3ba478002ee0ebff47195329ef9362d7f93f74614959e790c76a640",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": [
+    {
+      "file": "2 x OTHER_PRODUCT_VIDEO_LOCAL",
+      "reason": "pozycje galerii karty to filmy, nie zdjecia"
+    }
+  ]
+}

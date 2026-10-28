@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T16:43:29.717620Z",
+  "sourcePage": "https://www.krups.com.pl/%C5%9Awiat-kawy/Ekspresy-automatyczne/Ekspres-ci%C5%9Bnieniowy-do-kawy-KRUPS-Sensation-Milk-EA9129-%28ciemny-br%C4%85z-czarny%29/p/8010001287",
+  "slug": "krups-sensation-milk-m50-ea9129",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-krups-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w5MTcyMnxpbWFnZS9wbmd8YVcxaFoyVnpMMmczTXk5b1pXWXZNamt5TmprNU5URTFOemd4TkRJfDQ0OTMwMjAyYmM3ZDgzZjM1YTgxNWY2NWIzYjk4ZmRhMWY2MTBiNGIxOTE1N2Q5ODc1Yjc2MTM5MWFiYmU0ZTg",
+      "width": 700,
+      "height": 700,
+      "bytes": 64186,
+      "sha256": "6cd71de7bb62bde06eb55693fea80dd1522911118fe997aa0156ec27e039f7c4"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wxNDYzOTd8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaGlZaTlvWkRjdk1qYzRNek0zTXpZeU16STVPVEF8MTVkZjcxZDE0M2NlMmFlMmJiNjM2NTA1OWU4ZGI3NTczMDFiYmM1YzhmYzA4N2ZiODhhY2ZmYzU3ZjIzZDI0Ng",
+      "width": 700,
+      "height": 700,
+      "bytes": 62286,
+      "sha256": "f41bcbffeb5b4f0af90bdad28b6fe57cd1cf38e1a0220eece7f6788551542e9a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wxMDI4MDF8aW1hZ2UvcG5nfGFXMWhaMlZ6TDJobE1pOW9Nell2TWprek1qQTJNakkwTnpNeU5EWXw1YWZkMWE5ZmE2Y2M0ZjMzYTkyMTM2ZWY1ZTBkYWQwZDJmNWExN2E3NDdkZDU0Y2Q4NzA1Zjg5NTk3ZGIwYmM4",
+      "width": 700,
+      "height": 700,
+      "bytes": 60658,
+      "sha256": "4135e8c97e8317c58d021dcb7d2eb5640d92cc38fa4d6c98f760662eb64db160"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0ODgyMnxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoaVpTOW9PR1F2TWprMU5ETXhNREkxTVRNeE9ESXxmOWFlYmM2MTlkMTgwNTU1OTBjMDcwODUzNDQwNGEyNjg1Y2Q3OGIyMmY4M2IxMjM1NmFkODRkN2RkNmYwMWY0",
+      "width": 700,
+      "height": 700,
+      "bytes": 70761,
+      "sha256": "60cc80b16348aa6ce11d2ee5e7e10566bb7d816f918e2f6c9b68b439fc61e70e"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w1NTUxOHxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnME55OW9ZV1l2TWprMU5ETXhNRFF3TlRNeU56Z3xkNGRkOWQ5MTA3MzBmNzc5NGY4YWJjMmNiNjUwZmI0ZmFkYTc3ODJlY2RkYjAyMThmNTRjOTJlMjBiNzc0ZjBi",
+      "width": 700,
+      "height": 700,
+      "bytes": 79310,
+      "sha256": "7825c16615cc4528e4b4a74441cf169caabad07e94f3c04103da81562cece6ee"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0MTAxM3xpbWFnZS9qcGVnfGFXMWhaMlZ6TDJobVlTOW9Nek12TWprMU5ETXhNRFUxT1RNek56UXwxMzAzMDZmNTFlODdlMThlMjQyNGIzYzdiNGIwZGUxOTk2ODA1OWZlN2Q1MzUwNmM1MjZkMjM4MzA0ODZmMTNl",
+      "width": 700,
+      "height": 700,
+      "bytes": 59915,
+      "sha256": "3610779dd5dd83f8003d59a5684f506230076bb6e0437a89837b1e7cef2c4735"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w3ODQ3OHxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJneE15OW9NMll2TWprMU5ETXhNRFk0TURVM09UQXw2MTdiNjc1ZWMxYzk0MWViZGYxMmQ1OGQ3Y2JhOGY0MWJkYmQyNzU3MzQxZTc0OGQyNDAwNWE4Y2E0ZmZjNWVk",
+      "width": 700,
+      "height": 700,
+      "bytes": 115717,
+      "sha256": "21d619254e394fa6360a19833dbe4f0359c1e94f8f5948ef49b90bffdf3b800d"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0MjQ3MDd8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaG1ZeTlvTm1Ndk1qYzNPRFF4TWpNM056Y3dOVFF8Zjk4YzA5ZjA4NTVkM2M5ZjJkMTM2NDI4M2QzOTk5ZjJkZTI0YTI1ZjQ0OWE3YWZmNjc4NTA1Y2JjYzJiMTIzNg",
+      "width": 700,
+      "height": 700,
+      "bytes": 117523,
+      "sha256": "5c8b6b7261ba560145621f13d4dc0adcc06351e2aa0ec855f2c1d40a5edd8f01"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wzNTQ5NTN8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZ3hZaTlvWXpVdk1qa3hNVGMxT1RNeU5UVTVOall8OTdhYjExZmI3MmJkMDkxMzA1ODAxYTA4MTk0ZDNkYmIxYjVjY2M1OGRmNjJhYWExNTNmMzZhMjNhYmI4ZTNjNw",
+      "width": 700,
+      "height": 700,
+      "bytes": 89313,
+      "sha256": "da79794e808bf3cd34df20b360a84a31220b996c180d0208d1104f2c3fd38295"
+    },
+    {
+      "file": "logo-krups-plotno.png",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "repo produkty-media/krups-coffee-crush-sa403be0/logo-krups-plotno.png (plotno 1200x300 z krups-ea879e/logo-01.png)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 1793,
+      "sha256": "5d10f509a3ba478002ee0ebff47195329ef9362d7f93f74614959e790c76a640",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": [
+    {
+      "file": "src-01.png",
+      "reason": "mniejszy (345 px) duplikat zdjecia produkt-01"
+    },
+    {
+      "file": "src-20..27",
+      "reason": "miniatury 350 px sekcji Kluczowe zalety, duplikaty zdjec galerii"
+    }
+  ]
+}

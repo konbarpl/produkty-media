@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T16:58:10.629Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/AIS8540_60.assets (PRX API, CTN AIS8540/60, Gold / Szary braz-Zloty)",
+  "slug": "philips-ais8540-60",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_6ca80905_8f9d_4f39_8739d260e0acbebd?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 25142,
+      "sha256": "29656fbaad4a649fd7674f21d1af79bca4ae2b6ed9d3dc61b62f4863486193d1"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_3c699035_bcf8_4a1d_b70fced2ec440c62?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 48830,
+      "sha256": "12c36798d45ee1280e4a6dac782e3dd068bfc60b225d54fe7be479ad01203db8"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_33ef5fb5_689f_4a89_9aacecde884296bc?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 42382,
+      "sha256": "12cb7ca2bd43a9c5be9835e91f3e087aa0acd85b922dac21ed92419c11faa462"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_dd7bb50f_61f3_4f80_be8fe1b0c5a4f981?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 48048,
+      "sha256": "fc3fa7185d159845b13cf66651fa990f28f8a1665aaad7514e0cfcd9725b5e52"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_be594cc9_d293_4def_b1321608bffccf90?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 65352,
+      "sha256": "7a736fef0cac1484d25752a8f80b1afbe01cae7c229f74f74639a7db6f4fb0a3"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_e58432ab_a7d9_4559_a2cc72b8d62854b1?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 50870,
+      "sha256": "c06594fbe0e31bd927ab6c562f7891f5cd24fdf1acc6596e82174fa676e806a4"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_665ac7c2_4220_467a_a1172232a54b2ac4?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 68332,
+      "sha256": "1cede7b0ccdbeacfe264087feb70c7de46ef7f17841608781515d77d4632a06d"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b564741a_c751_42a6_8ab44ec2ce4fccfb?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 123556,
+      "sha256": "70ce44ef9bdd536239fa5dbe5053601bb7d43fe33e7ffee579923bb31ffb1e67"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_aca32976_c80e_4b0c_bbbd5825af558c7d?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 75910,
+      "sha256": "d4a9409b62d890f6dcf66dd686f96d43ea85a6bf523dad907563c266a78e7f7b"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_4cb1b55c_c22e_46d1_87522624c1c8095e?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 98316,
+      "sha256": "b4f404b02956437cef5584e6cdb5c212639839fa53880844310fffd73b4d2692"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_a7b112b4_2588_4f4a_859e8f5349c8a3c1?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 80756,
+      "sha256": "93fd0babfbc776437770dbc2bbbf25bd5585c1791507a464349d93a297055a1a"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_d3a02bdd_7279_4a1d_a0a32e466f31a33e?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 53948,
+      "sha256": "94dacca3bf52719437d567948b0d6bdc6f2e8c276fc55c138f3bc4ab711cf12e"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 13,
+      "sourceUrl": "kopia z produkty-media/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png (plotno G83)",
+      "width": 1200,
+      "bytes": 9114,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+      "height": 300,
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 0,
+  "ctn": "AIS8540/60",
+  "excludedFromGallery": {
+    "IMS 114": "duplikat RTP",
+    "BRP 116": "logo PRX - uzyte plotno G83"
+  }
+}

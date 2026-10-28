@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T16:42:32.292454+00:00",
+  "sourcePage": "https://www.tefal.pl/ekspres-do-kawy-cisnieniowy-krups-coffee-crush-automatyczny-kolbowy",
+  "slug": "krups-coffee-crush-sa403be0",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "logo-krups-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa403be0_coffee-crush-experience_h2bis_1_.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 72123,
+      "sha256": "5850319ec54000828e779bd108be9d5e37018e08ed51c1ba04c0acaae347c4cb"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa403be0_coffee-crush-experience_h1bis_1_.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 54510,
+      "sha256": "fc2e257e549625851eadd692a3ec9ea2823d855bd202e6ec8d74a0c9c2e8755c"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa403be0_8010001480_pwc1_es_1_.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 42901,
+      "sha256": "6e1d4a1fc64ed605bc4eaa541467e7a812fd29c455dcaed6f8b423730b5858f1"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa403be0_coffee-crush_verstatile_1_.jpg",
+      "width": 1575,
+      "height": 1181,
+      "bytes": 118769,
+      "sha256": "cb270f909d198b3f1c70aa97275e78ef4548167c5ea89e11335ecadab38894d1"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa403be0_8010001480_mar_a-pombo2_es_1_.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 109521,
+      "sha256": "631bf5664e3e9b1e75c3e9a2cc69112a9a1c5635fec8b94b78631cf3b3c856a7"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa403be0_8010001480_pwc10_es_2_1_.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 142912,
+      "sha256": "75d0347137875639b8ee40c4e3bd53144d2ae8edc83b3a3e3d994375cebec496"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa403be0_8010001480_pwc16_es_1_.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 77529,
+      "sha256": "d25877cc1b79eeb94ce40d01722d7c8bbf4198da580e6ed9ca13fde3a3a4c219"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa403be0_8010001480_pwc15_es_1_.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 112082,
+      "sha256": "702d4b328f83717e7bebbca2e2f3b59571c4c1c3b28e3e9d0db242b86d769346"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa403be0_8010001480_pwc14_es_1_.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 163106,
+      "sha256": "4c65871dd8d19a868e0f51d513b260440378818c209e9bc938ab20343960fcc7"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-kps_sa40_pwc17_es_1_.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 68486,
+      "sha256": "aecd9df35ff623113510ca695f3f7e71a3c9d97c499529ccbd5fc14021ef598a"
+    },
+    {
+      "file": "logo-krups-plotno.png",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "repo produkty-media/krups-ea879e/logo-01.png (logo marki KRUPS) -> logo_plotno.py --napraw 1200x300",
+      "width": 1200,
+      "height": 300,
+      "bytes": 1793,
+      "sha256": "5d10f509a3ba478002ee0ebff47195329ef9362d7f93f74614959e790c76a640",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 3,
+  "usunieteZGalerii": [
+    {
+      "file": "large-kps_coffee-crush_simplicity_4_5_4_1_.jpg",
+      "powod": "plik ogolny serii Coffee Crush (nazwa bez kodu SA403BE0), panel sterowania na zdjeciu nie musi odpowiadac SA403BE0 - bramka tozsamosci wariantu"
+    },
+    {
+      "file": "large-kps_coffee-crush_packshot_cappuccino_3_1_.jpg",
+      "powod": "plik ogolny serii Coffee Crush (nazwa bez kodu SA403BE0), panel sterowania na zdjeciu nie musi odpowiadac SA403BE0 - bramka tozsamosci wariantu"
+    },
+    {
+      "file": "large-kps_coffee-crush_cappuccino_6_1_.jpg",
+      "powod": "plik ogolny serii Coffee Crush (nazwa bez kodu SA403BE0), panel sterowania na zdjeciu nie musi odpowiadac SA403BE0 - bramka tozsamosci wariantu"
+    }
+  ]
+}
