@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T16:04:00.838Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/PSG8300_30.assets (PRX API, CTN PSG8300/30, Ciemny fiolet)",
+  "slug": "philips-psg8300-30",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_85155845_ede7_4890_b3e98292545d166a?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 46100,
+      "sha256": "d01221e983e91ef90ddc6aeb3fd9b8ad083c86a53875acce831c3195bd41f827"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_aa596e21_7682_439f_bddf7b7943821443?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 48442,
+      "sha256": "be22f100c63d4c765ece744d5b16065a9716c0ac66e554a099f9d3da98a721fe"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2c4f41be_514e_49f3_a6ccedb3c147b073?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 68384,
+      "sha256": "2d9dac85bb1f5804095be6f069f5b3ccf07b1e0ebe9a4dff4b8ff0b644d68171"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_88a4871c_e827_48ba_956d2813696dd296?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 76174,
+      "sha256": "a413a4e2eaa638a74c87a8eb6bd1c4d3ac44776a5ca8ef510187d7b7ec317190"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7d150fb0_c798_4c34_ae33b70187564785?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 67794,
+      "sha256": "52bfa116faa26ebfcf66402333097224f47848f785807969d2f919149fa66c42"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_aa2fb5d0_2d3e_4ff1_8ddcbb3f2a434416?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 64932,
+      "sha256": "38feb407fb20dc7afbc728fbbee9a54f4ea52a22d0e9e096372b22d0942be790"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f74d0c3c_fca3_43c2_aa30787e9584ac75?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 70454,
+      "sha256": "a3940ba490a3bee4952643582999aec36309e817ad418319d6d10d0ae212cd66"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_66791bc3_ebab_4504_9f7e2f6f7c0e30a1?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 57774,
+      "sha256": "b0de481046a7b91a21f0f6c8fd99eab441bee03024c41b28fbc4e84f0421c9e7"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "kopia z produkty-media/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png (plotno G83, logo_plotno.py OK 1200x300 znak 30%)",
+      "width": 1200,
+      "height": 300,
+      "inkRatio": 0.3,
+      "bytes": 9114,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c"
+    }
+  ],
+  "dropped": 0,
+  "ctn": "PSG8300/30",
+  "excludedFromGallery": {
+    "D1P (vrs_1aac598c)": "infografika 210 g/min sprzeczna ze spec PRX (do 215 g/min)",
+    "FIL 122 (vrs_6d4e0dfb)": "duplikat ujecia RTP",
+    "FIL PSG8200_70/_80, PSG8300_20/_80": "inne warianty"
+  }
+}
