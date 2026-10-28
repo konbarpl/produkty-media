@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T11:36:13.366451Z",
+  "sourcePage": "https://www.mi.com/pl/product/mijia-wireless-wet-dry-vacuum-5-pro/",
+  "sourcePage2": "https://mi-store.pl/product-pol-38632830-Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Mijia-Truclean-5-Pro.html",
+  "slug": "xiaomi-mijia-truclean-5-pro",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "logo-xiaomi-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://i05.appmifile.com/165_item_pl/15/09/2026/7a322ad69a8ed85a12f7e4fcabeea7bf.png",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 50622,
+      "sha256": "104a3fff2fdda7b4c6c93f42d9bc4d5b3aa40085a4c36687a5c2e9cf902c1392"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/2403de122ccb28eae2e39c8fc120c7ca/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Mijia-Truclean-5-Pro-38632830_5.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 15678,
+      "sha256": "411e3887d253a0384a5110b158baaf3805a3084c7d48db583600da2f91e6a617"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/349036d0ff7cd2b4e3cf01b11623e292/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Mijia-Truclean-5-Pro-38632830_1.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 10083,
+      "sha256": "defce5c9697f77b8981f51847120a99c14a876a4790df52c49292130c55133d7"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/52f011c7f8ae286516b11a8aabcf9bba/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Mijia-Truclean-5-Pro-38632830_4.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 11418,
+      "sha256": "8776ee343096104824bc008e3b33474dded9f4667938064b0dfbe2dd5d9b23d5"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/hpeciai/6e314dd47877a0214fc9e2baf186f994/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Mijia-Truclean-5-Pro-38632830_2.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 8619,
+      "sha256": "8089cdb9054f949179081dbac7f043843b8500d474fff28a2c447f83e1720a1b"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-wireless-wet-dry-vacuum-5-pro/pc/bg-screen01.png",
+      "width": 2000,
+      "height": 1055,
+      "bytes": 210273,
+      "sha256": "c36c74872feca0612da8a37003fa5f21336f683ec846f196b6286d7047f63d73"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-wireless-wet-dry-vacuum-5-pro/pc/pc-poster.png",
+      "width": 2000,
+      "height": 1125,
+      "bytes": 244330,
+      "sha256": "5e365e982d3253206d7e6df02d51334e083f65294c6807eb38dd86fed4d0f931"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "feature",
+      "order": 8,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-wireless-wet-dry-vacuum-5-pro/pc/bg-screen05.png",
+      "width": 2000,
+      "height": 1907,
+      "bytes": 180463,
+      "sha256": "2d03b9ad2cb492c542f832a511d75ad7b0496447613dc3c8352f63d4aca0a99e"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "feature",
+      "order": 9,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-wireless-wet-dry-vacuum-5-pro/pc/bg-screen04.png",
+      "width": 1335,
+      "height": 1190,
+      "bytes": 144876,
+      "sha256": "873f2a904705778d1c7d2d2cf09fb4ff31e231f711833dcb7d5b8ac6753b3b17"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "feature",
+      "order": 10,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-wireless-wet-dry-vacuum-5-pro/pc/bg-screen07.png",
+      "width": 1479,
+      "height": 1116,
+      "bytes": 134701,
+      "sha256": "6ffd819382a352705e2483661bbf4be5b1f4ef30da3a17d527aae19880c878a4"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "feature",
+      "order": 11,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-wireless-wet-dry-vacuum-5-pro/pc/bg-screen09.png",
+      "width": 2000,
+      "height": 1141,
+      "bytes": 100926,
+      "sha256": "9a4535239ef78b551878c20245218a3c5a4b85004e7de237c9fb72ff74415772"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "feature",
+      "order": 12,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-wireless-wet-dry-vacuum-5-pro/pc/bg-screen11.png",
+      "width": 2000,
+      "height": 1598,
+      "bytes": 171940,
+      "sha256": "9e9541bb97a3c16267ce19693e1d24cdbc74a497e45cdf588b3ddd1d315f45f8"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "feature",
+      "order": 13,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-wireless-wet-dry-vacuum-5-pro/pc/bg-screen12.png",
+      "width": 1341,
+      "height": 1463,
+      "bytes": 159835,
+      "sha256": "c5591fec45b6bdcd5528a0eb6fb9855696c6b9e8a520e7ae960b6336b34c9b3a"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "feature",
+      "order": 14,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-wireless-wet-dry-vacuum-5-pro/pc/bg-screen16.png",
+      "width": 941,
+      "height": 970,
+      "bytes": 143909,
+      "sha256": "9564365883baa72d590a3c9ba3c33c9d536b7af3fcbd3c724fce044ec1409c2d"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "feature",
+      "order": 15,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-wireless-wet-dry-vacuum-5-pro/pc/bg-screen15.png",
+      "width": 1288,
+      "height": 1359,
+      "bytes": 200800,
+      "sha256": "b8a79b8e6b098e23186996a1a9383249c5a15840d9efb24e4500bd592de1f31f"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "lifestyle",
+      "order": 16,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-wireless-wet-dry-vacuum-5-pro/pc/bg-screen10.png",
+      "width": 1861,
+      "height": 908,
+      "bytes": 273631,
+      "sha256": "e4a01fc3f6a06f9d581a06f26aac6e0dbf7b7c06df1493005fbcac0775b31f0f"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "lifestyle",
+      "order": 17,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-wireless-wet-dry-vacuum-5-pro/pc/bg-screen13.png",
+      "width": 1861,
+      "height": 908,
+      "bytes": 301956,
+      "sha256": "aa163f2bae27fc88b524fb329e34cc86bf0440a0324b22c439d96e6247be359f"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "lifestyle",
+      "order": 18,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-wireless-wet-dry-vacuum-5-pro/pc/bg-screen17.png",
+      "width": 1861,
+      "height": 909,
+      "bytes": 252051,
+      "sha256": "7a7806195d634f79a8b884b9eabb18b938b2d963a87fd56ea500fab074ead743"
+    },
+    {
+      "file": "logo-xiaomi-plotno.png",
+      "kind": "logo",
+      "order": 19,
+      "sourceUrl": "repo: xiaomi-mijia-vacuum-cleaner-4/logo-xiaomi-plotno.png",
+      "width": 1200,
+      "height": 300,
+      "bytes": 13156,
+      "sha256": "fb3b09a29d22ab6b2f55a3a86b323aee611c71aecd428cb8d6f7ef5784823b53",
+      "inkRatio": 0.3
+    }
+  ]
+}
