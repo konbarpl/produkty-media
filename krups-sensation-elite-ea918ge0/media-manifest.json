@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T16:43:02.884966Z",
+  "sourcePage": "https://www.krups.com.pl/%C5%9Awiat-kawy/Ekspresy-automatyczne/Sensation-Elite--automatyczny-ekspres-do-kawy--30-przepis%C3%B3w-na-ciep%C5%82e-i-zimne-napoje/p/8010001490",
+  "slug": "krups-sensation-elite-ea918ge0",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-krups-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w5NjQ3OXxpbWFnZS9wbmd8YVcxaFoyVnpMMmcxTmk5b1l6a3ZNams0TVRVd05qTTNOREEwTkRZfDg0NjQ3NzVkYzIzOWU4ODc2ZTcxMzU2MjE4YTI2MGJlNzEyNmRlZDU1MjU1OWFlY2EwYTZiMGE1NzEzMzFmNDM",
+      "width": 700,
+      "bytes": 73330,
+      "sha256": "d45fa9fee932c2cd6d6db38777f1240b53c8cc25cf3e38893eec383315507b1b",
+      "kandydat": "c03"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wxMjI1Njd8aW1hZ2UvcG5nfGFXMWhaMlZ6TDJnNE5pOW9NR0V2TWprNE1UVXdOalV4TVRZM01ESXwyNzcyODFkNmFmNmY3ZjYzNDdmMjUzZmIxMjQwYmE4MjcxZDJhNjYxMTQ5YzZiNDBkOWU0ZmM2NDY4MjYzYWIy",
+      "width": 700,
+      "bytes": 81373,
+      "sha256": "d9e68598658e8ccee401accec81b29889fee676e4373ce6f721089db9cc0158c",
+      "kandydat": "c04"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w2MzA4OHxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnNU9DOW9NR0V2TWprNE1UVXdOalUzTnpJd05qSXwxMjk5NGM2MjcyMTI2NjVmZGViZGFhNjhkOGQ0NmQyNGIwN2NjYzA4MmI5NzFmZGY4YjM3ZmRlNGU5OTA5YjUw",
+      "width": 700,
+      "bytes": 91204,
+      "sha256": "81c88696182390918e78080e3a6ab3530b6ef1df91d9d403106514df6f9709ff",
+      "kandydat": "c05"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w2MDc2N3xpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoak1DOW9OV012TWprNE1UVXdOall3T1RrM05ESXxlZTM5YWI5ZjM3ZmMyMDQ3MzNkZmQ5ZGQyNWMxYTU5ZTBkN2U0ZjI3MTdhM2IwOTdjYjcxNjA1NTNlNmU1NWEx",
+      "width": 700,
+      "bytes": 86920,
+      "sha256": "7a87407a0a112af19a9936363a10eb6265169eacd6bd4bf369ac643e776aca88",
+      "kandydat": "c06"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w2MjU3MXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnMk1DOW9ObUV2TWprNE1UVXdOalkwT1RJNU5UZ3w3NjY5ODc2NGE2MTRiZjM0MDU2MzViMmY4MGU1YjVlMDk1MDAwYzJkNTE0YTgwNWZiYjg0MjI4NWI5ODI5NTVl",
+      "width": 700,
+      "bytes": 90762,
+      "sha256": "2ac37fe7bd1948adc238cc651cb51bced9b2a7f3206302e48ade5a68b8822338",
+      "kandydat": "c07"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w4ODY4OHxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnMk9TOW9Zell2TWprNE1UVXdOamN3T0RJM09ESXwzNjQ4OGMzYmM0Zjg3ODQzMGUwOWZiODE0NGFkNTUxNmEwMjhmYmI5MzNhYzEwMDQ4YTdkOWFlODUzMjcyZmNk",
+      "width": 700,
+      "bytes": 130780,
+      "sha256": "eef5aceeba3596aebdd184d9250be382c8d0b72bf0f6108c26a0d9ba48eec1c9",
+      "kandydat": "c08"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w3NTUzN3xpbWFnZS9qcGVnfGFXMWhaMlZ6TDJobU55OW9aRE12TWprNE1UVXdOamMwTnpVNU9UZ3wwOWJmMGE5NGE4ZWIwZGYyZDMzZTk2Njg0ODFjMzViZmI5ZmJhNDU5NjU2MjA2OGQ4Yzg4YWEwNTFmZjA2ZWJm",
+      "width": 700,
+      "bytes": 108850,
+      "sha256": "53f8e184a3f0ce8871de42b34189226acdee18e54cb89429617de1e52593d0dc",
+      "kandydat": "c09"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w1MTU4MHxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnMVpTOW9OekF2TWprNE1UVXdOalF5TmpRM016UXw0YzA2ZmZiNGM0Mzg3M2E3NTkxODliNjRhODMxNDU2MmFiZDgyYjFhNWYwMTliODQ2MmQwNmI3ODFmMWNjODkw",
+      "width": 700,
+      "bytes": 73626,
+      "sha256": "f391723163934152b8a18c5c37ad5904f6bafd71b0630055d9c907f678edd709",
+      "kandydat": "c11"
+    },
+    {
+      "file": "logo-krups-plotno.png",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "repo produkty-media/krups-ea898gf0/logo-01.png (logo marki KRUPS) -> logo_plotno.py --napraw",
+      "width": 1200,
+      "bytes": 1793,
+      "sha256": "5d10f509a3ba478002ee0ebff47195329ef9362d7f93f74614959e790c76a640",
+      "height": 300,
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 38,
+  "odrzucone": {
+    "c00": "miniatura 345 px duplikat ujecia c03",
+    "c10": "kadr wideo 800x450 niska jakosc",
+    "c21-c29": "350 px - za male na galerie",
+    "c38": "ikona @",
+    "c44": "lifestyle z odkurzaczem - inny produkt (karuzela)",
+    "pozostale": "ikony/miniatury <300 px lub nie-obrazy"
+  }
+}
