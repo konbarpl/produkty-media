@@ -147,7 +147,8 @@
       "width": 1200,
       "height": 300,
       "bytes": 1793,
-      "sha256": "5d10f509a3ba478002ee0ebff47195329ef9362d7f93f74614959e790c76a640"
+      "sha256": "5d10f509a3ba478002ee0ebff47195329ef9362d7f93f74614959e790c76a640",
+      "inkRatio": 0.3
     }
   ],
   "dropped": 1,
