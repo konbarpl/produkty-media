@@ -102,7 +102,11 @@
    "kind": "logo",
    "sourceUrl": "logo_plotno.py --napraw z produkty-media/philips-bri984-00/logo-philips.png",
    "height": 300,
-   "inkRatio": 0.3
+   "inkRatio": 0.3,
+   "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+   "width": 1200,
+   "bytes": 9114,
+   "order": 10
   }
  ],
  "dropped": 0,
