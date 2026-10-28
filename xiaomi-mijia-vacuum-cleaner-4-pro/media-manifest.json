@@ -8,11 +8,6 @@
     "produkt-01.jpg",
     "produkt-02.jpg",
     "produkt-03.jpg",
-    "produkt-04.jpg",
-    "produkt-05.jpg",
-    "produkt-06.jpg",
-    "produkt-07.jpg",
-    "produkt-08.jpg",
     "produkt-09.jpg",
     "produkt-10.jpg",
     "produkt-11.jpg",
@@ -59,59 +54,9 @@
       "sha256": "a004d27841f2029623e8b05e9bab3582f632f8ff88dc7a86dadf6abe2c614168"
     },
     {
-      "file": "produkt-04.jpg",
-      "kind": "product",
-      "order": 4,
-      "sourceUrl": "https://mi-store.pl/hpeciai/929a011ff41a820e05e6f6a27effb0d2/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Mijia-Vacuum-Cleaner-4-Pro-38632822_7.webp",
-      "width": 600,
-      "height": 600,
-      "bytes": 14743,
-      "sha256": "0296d81a10f8b2627556905b3860bd1a96dc10a9951afae8781c618113fa1f2e"
-    },
-    {
-      "file": "produkt-05.jpg",
-      "kind": "product",
-      "order": 5,
-      "sourceUrl": "https://mi-store.pl/hpeciai/5b4a877b92d0387efd8bc35db22d54de/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Mijia-Vacuum-Cleaner-4-Pro-38632822_8.webp",
-      "width": 600,
-      "height": 600,
-      "bytes": 12741,
-      "sha256": "7f74fe4f468c8267ba42c421f32700466186fb009c6b51dd0128e18de6f70efd"
-    },
-    {
-      "file": "produkt-06.jpg",
-      "kind": "product",
-      "order": 6,
-      "sourceUrl": "https://mi-store.pl/hpeciai/d394cf3edbe9b52cae6948240c13068d/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Mijia-Vacuum-Cleaner-4-Pro-38632822_4.webp",
-      "width": 600,
-      "height": 600,
-      "bytes": 10264,
-      "sha256": "c2673b96f6794041a8f02158c885f16074f26f480342cf68572dd1170e65a154"
-    },
-    {
-      "file": "produkt-07.jpg",
-      "kind": "product",
-      "order": 7,
-      "sourceUrl": "https://mi-store.pl/hpeciai/dd6d896770c82eed089804cee0991f8e/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Mijia-Vacuum-Cleaner-4-Pro-38632822_5.webp",
-      "width": 600,
-      "height": 600,
-      "bytes": 12684,
-      "sha256": "0e97ae05b280cb85b3a9f7f1eeab4a82639df5a6a11b05d21e2dcc385bfdc013"
-    },
-    {
-      "file": "produkt-08.jpg",
-      "kind": "product",
-      "order": 8,
-      "sourceUrl": "https://mi-store.pl/hpeciai/68b5ed4e623965ab4bec6fae66a76b4a/pol_pl_Odkurzacz-Bezprzewodowy-Pionowy-Xiaomi-Mijia-Vacuum-Cleaner-4-Pro-38632822_6.webp",
-      "width": 600,
-      "height": 600,
-      "bytes": 8267,
-      "sha256": "6bc3483da5250b68592392b62ea57ad5f76e1cfa37abc6fc868e99b72be4b54f"
-    },
-    {
       "file": "produkt-09.jpg",
       "kind": "feature",
-      "order": 9,
+      "order": 4,
       "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/bg-screen04.png",
       "width": 1792,
       "height": 1009,
@@ -121,7 +66,7 @@
     {
       "file": "produkt-10.jpg",
       "kind": "feature",
-      "order": 10,
+      "order": 5,
       "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/pc5_technology_bg.jpg",
       "width": 2000,
       "height": 1359,
@@ -131,7 +76,7 @@
     {
       "file": "produkt-11.jpg",
       "kind": "feature",
-      "order": 11,
+      "order": 6,
       "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/bg-screen07.png",
       "width": 1792,
       "height": 850,
@@ -141,7 +86,7 @@
     {
       "file": "produkt-12.jpg",
       "kind": "lifestyle",
-      "order": 12,
+      "order": 7,
       "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/bg-screen06.png",
       "width": 1792,
       "height": 1088,
@@ -151,7 +96,7 @@
     {
       "file": "produkt-13.jpg",
       "kind": "lifestyle",
-      "order": 13,
+      "order": 8,
       "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/bg-screen09.png",
       "width": 1792,
       "height": 850,
@@ -161,7 +106,7 @@
     {
       "file": "produkt-14.jpg",
       "kind": "feature",
-      "order": 14,
+      "order": 9,
       "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/bg-screen10.png",
       "width": 1057,
       "height": 1296,
@@ -171,7 +116,7 @@
     {
       "file": "produkt-15.jpg",
       "kind": "feature",
-      "order": 15,
+      "order": 10,
       "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/pc12_design_pic.png",
       "width": 1791,
       "height": 779,
@@ -181,7 +126,7 @@
     {
       "file": "produkt-16.jpg",
       "kind": "feature",
-      "order": 16,
+      "order": 11,
       "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/pc14_dirt_bg.jpg",
       "width": 1436,
       "height": 1088,
@@ -191,7 +136,7 @@
     {
       "file": "produkt-17.jpg",
       "kind": "lifestyle",
-      "order": 17,
+      "order": 12,
       "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/bg-screen01.png",
       "width": 2000,
       "height": 1053,
@@ -201,7 +146,7 @@
     {
       "file": "produkt-18.jpg",
       "kind": "lifestyle",
-      "order": 18,
+      "order": 13,
       "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/pc19_content_pic.jpg",
       "width": 1920,
       "height": 1080,
@@ -211,7 +156,7 @@
     {
       "file": "produkt-19.jpg",
       "kind": "lifestyle",
-      "order": 19,
+      "order": 14,
       "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/pc15_flooring_pic_0630.png",
       "width": 887,
       "height": 573,
@@ -221,7 +166,7 @@
     {
       "file": "produkt-20.jpg",
       "kind": "lifestyle",
-      "order": 20,
+      "order": 15,
       "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/mijia-vacuum-cleaner-4-pro/pc/pc15_float_pic_0630.png",
       "width": 586,
       "height": 573,
@@ -231,7 +176,7 @@
     {
       "file": "logo-xiaomi-plotno.png",
       "kind": "logo",
-      "order": 21,
+      "order": 16,
       "sourceUrl": "repo: xiaomi-mijia-vacuum-cleaner-4/logo-xiaomi-plotno.png (plotno 1200x300 z logo_plotno.py --napraw, G81)",
       "width": 1200,
       "height": 300,
@@ -239,5 +184,6 @@
       "sha256": "fb3b09a29d22ab6b2f55a3a86b323aee611c71aecd428cb8d6f7ef5784823b53",
       "inkRatio": 0.3
     }
-  ]
+  ],
+  "note": "Packshoty akcesoriow (produkt-04..08: walek, miniszczotka, szczotka do sofy, szczotka do siersci, szczelinowa) usuniete z galerii 28.10 - komponenty zestawu ida tekstem W ZESTAWIE (gotchas)."
 }
