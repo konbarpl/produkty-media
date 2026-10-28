@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T12:19:29.865244Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/sprzatanie/odkurzacze-pionowe/odkurzacz-roborock-f25-ace-morph-pro",
+  "slug": "roborock-f25-ace",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "logo-roborock-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-1.jpg",
+      "width": 736,
+      "height": 2000,
+      "bytes": 95607,
+      "sha256": "45ac4a5b6dc0ebbdc2793e4da8fdef0cc2d797d72377567dad2a02946bb811e6"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-2.jpg",
+      "width": 917,
+      "height": 2000,
+      "bytes": 116225,
+      "sha256": "99f10380fdb1bc7b09bcc088d7c8eec81351cc38501e9701b260692542c5f17f"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-3.jpg",
+      "width": 1154,
+      "height": 2000,
+      "bytes": 123794,
+      "sha256": "06a4f589d8058cefb3b8bdfdeaa5979ab90bbe8ecec006ccb819765dc80d1231"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-4.jpg",
+      "width": 601,
+      "height": 2000,
+      "bytes": 66901,
+      "sha256": "179b400ef68c30c108e37b56fa79bfb96fc0d290acfbb45bb914d40e7ed709d9"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-5.jpg",
+      "width": 484,
+      "height": 2000,
+      "bytes": 68137,
+      "sha256": "b26ed8700a1c6aac71b5801ae75821675fe14a78aae7b7b8f4abe05f6d1b1ac3"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-6.jpg",
+      "width": 931,
+      "height": 2000,
+      "bytes": 116770,
+      "sha256": "214db2c1860dba73efd907a268e6e69d50775cd6372a0f2a6c90186d67254bdc"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-7.jpg",
+      "width": 1109,
+      "height": 2000,
+      "bytes": 127594,
+      "sha256": "c87a98490ff5b96d1610f54f524512754d2c6155346518298e121a4dd9ea78ba"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-9.jpg",
+      "width": 1434,
+      "height": 2000,
+      "bytes": 295176,
+      "sha256": "240ff8dbb32a9a502e0fbfb6bfae0bbe6d8a40363db66f319f702d0c4291a416"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-10.jpg",
+      "width": 2000,
+      "height": 1826,
+      "bytes": 561989,
+      "sha256": "8b4872c21cb20c9111c824dbd6a88b0fa0ceb685cdf47dc427d44592e78408a3"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-11.jpg",
+      "width": 925,
+      "height": 2000,
+      "bytes": 104159,
+      "sha256": "19533ff62c64a55d5e6f82d6eed7210c5580fe8e1d300d72495f8ebc26367242"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-lifestyle-2.jpg",
+      "width": 1000,
+      "height": 637,
+      "bytes": 144538,
+      "sha256": "cd6a8d9627d27768aee9b5643bc702c8aef5a67b6974698ccf21ce68af957210"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-lifestyle-4.jpg",
+      "width": 1000,
+      "height": 637,
+      "bytes": 136754,
+      "sha256": "e16a74aef7322aa9c41de51453272651719439aa58cbda6fa0696f6fe2c44dcc"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-lifestyle-5.jpg",
+      "width": 1000,
+      "height": 637,
+      "bytes": 137997,
+      "sha256": "91b104dbb2889a0e4ef39224b1181c7d82c184cd5d1fa7a090dd138cd3342991"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-lifestyle-6.jpg",
+      "width": 1000,
+      "height": 637,
+      "bytes": 71087,
+      "sha256": "4081dac81e576bc06f585f615d5b07b2ac5b9069214d8007d1127815266b03a0"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-lifestyle-8.jpg",
+      "width": 1000,
+      "height": 637,
+      "bytes": 63761,
+      "sha256": "eea03b70e025ae4c2a80b28a606a7460a22f7367a17e6bbabbb4c639a0f76750"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "lifestyle",
+      "order": 16,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-lifestyle-10.jpg",
+      "width": 1000,
+      "height": 637,
+      "bytes": 57040,
+      "sha256": "fff50beb6e397a6f7e9f477a65369021318c0eb6551e6b29f151981c171a019f"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "lifestyle",
+      "order": 17,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-lifestyle-11.jpg",
+      "width": 1000,
+      "height": 637,
+      "bytes": 158748,
+      "sha256": "2f6a021255670ed4d079bcb8a5c9fe0116b599cc5620466c91a48856a85408be"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "lifestyle",
+      "order": 18,
+      "sourceUrl": "https://www.mediaexpert.pl/media/cache/gallery/images/75/7505050/Odkurzacz-ROBOROCK-F25-Ace-lifestyle-13.jpg",
+      "width": 1000,
+      "height": 637,
+      "bytes": 89989,
+      "sha256": "ceeab9dd89d008e7a6c2f055644dbb98985d7899b50bd0b536f3404d3fba8a47"
+    },
+    {
+      "file": "logo-roborock-plotno.png",
+      "kind": "logo",
+      "order": 19,
+      "sourceUrl": "repo: roborock-f25-ultra/logo-roborock-plotno.png (bramka logo_plotno.py OK 1200x300, znak 30%)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 18986,
+      "sha256": "7949fb1b6c93523d52c15e4d11657f1965311828d8a2abbe90da1cc35ed3bdc0",
+      "inkRatio": 0.3
+    }
+  ]
+}
