@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T17:29:41.001627+00:00",
+  "sourcePage": "https://www.krups.com.pl/%C5%9Awiat-kawy/Ekspresy-automatyczne/My-Coffee--w-pe%C5%82ni-automatyczny-ekspres-do-kawy--%C5%9Bwie%C5%BCo-mielona-kawa/p/8010001465",
+  "slug": "krups-my-coffee-ea2004e0",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "logo-krups-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w1NDg3NHxpbWFnZS9wbmd8YVcxaFoyVnpMMmcyTUM5b00ySXZNamszTWpjNE1qYzBOakF4TWpZfGU1ZTdkNjg3ZTk3NjNkODAyNDkyNTBiNjQ1OWQ2YWZhMjhhN2U2MDM3ZDhhNzJmMzM3YmI0YWNmNWE0NGExODk",
+      "width": 700,
+      "height": 700,
+      "bytes": 41821,
+      "sha256": "93f8f536e7224eb13231db95b67aae6f445344e5de66f040387975c90eaf27fc"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w1OTE1MHxpbWFnZS9wbmd8YVcxaFoyVnpMMmhsWmk5b05EVXZNamszTWpjNE16QTNOamsyT1RRfGU3YzliZTRjYTgwODhkMTQ3OGU1MDg3ZDA4MGIzYzRkYzZjYTRkYzk3YWQ5ODcwNDdmODA1MmQ5ZDkyYzExYTk",
+      "width": 700,
+      "height": 700,
+      "bytes": 43519,
+      "sha256": "fb202a36df15bebc61a17046153cb38ff8850741a5a88f2a374fa3b4f419d14a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w3MzU1NHxpbWFnZS9wbmd8YVcxaFoyVnpMMmhtTlM5b056VXZNamszTWpjNE16SXdPREEwTVRRfDczNzRmNzU2YzA0YmRkZjhkOGMwYjQ3ZjAxNDVlMjc3OThmZjhkNTA0MmU2NWIyNmEzZGM3NDAwMTYyOTg5MWQ",
+      "width": 700,
+      "height": 700,
+      "bytes": 56218,
+      "sha256": "28d429bb0f660ef2ca44f0e07e61d9bb853ee184b5a06ecdf750d73da1e02b1d"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wzNTIzNXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnM09TOW9abVV2TWprM01qYzRNek01T0RBNU5UZ3xkYmYxZmRiNDNlYmVkOTZiYjUyM2RjMmJhYzQ1YjA4ZDA3OTRmOGMzOTJhMmJhNmU1YzhhMjk1ZWE3MzBiMDdk",
+      "width": 700,
+      "height": 700,
+      "bytes": 47419,
+      "sha256": "40a8587f743c00598e1ad76a49585e1efa7a15f62a81ffb7490898c861b2c90a"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wzOTYyMXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnM05TOW9ORFl2TWprM01qYzRNelV5TWpZeE5ESXxlYjg4OTY3Y2NjMzE4N2MzYjVjYjJjMGVhMGY0ZTJiOTVlMGIzOTE4MzBlYTU1Yjg3NmFlYTJhNzMzYWY1NTdk",
+      "width": 700,
+      "height": 700,
+      "bytes": 55880,
+      "sha256": "0cde591ba1cd83ce54fe28e9e7f17311a02667f9d2a8edcc10c90e7c53684b47"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w0MzUxNnxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJobU15OW9Nall2TWprM01qYzRNell6TkRBeU5UUXw4Y2Y3ZTZhZTJjZTliZDRmNDM3YjA2MGZlMDRiOGU1OWU3YjI2MjU2N2ZhYTMyN2MwMzlmMzU1MmI1YjYwYjc4",
+      "width": 700,
+      "height": 700,
+      "bytes": 61953,
+      "sha256": "bb7f019ef7642c56dc9bcedd6bf00ae675cf1ce5bc35223c2fde69e22813f9aa"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wxNDU2ODB8aW1hZ2UvcG5nfGFXMWhaMlZ6TDJnME9TOW9PVFF2TWprM01qYzRNemMwTlRRek5qWXxmYTlkNzkyY2NlMWI0MGRjMDZhNWYxZTU2ODY4ZDYzMzZkMjgyMzZiMjhmNzQxYzViYjNiOGFmOWQ3OWEzOGI0",
+      "width": 700,
+      "height": 700,
+      "bytes": 99500,
+      "sha256": "88ea9108cf1b9a6073950a1ac9036bcaafade36e363f69341639db8f81c09efe"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3w2MTEzMHxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnNFppOW9aamN2TWprM01qYzRNemczTmpVd09EWXxiZjEyZmI4M2VmNTMzZTU1OWM2NDkzMTY5ZjA5MTIyZGRkYmIyNzlkYzYzOTY0OTMxYjM2NDQzZTI4MDlmZjEx",
+      "width": 700,
+      "height": 700,
+      "bytes": 87060,
+      "sha256": "4511f7a8dd89c73d730e0c293a3ee04c89b7e914f363125403d08b5dfc839622"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wxMDkxMHxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJneU1DOW9ZVGt2TWprM01qYzRNall6TVRNeU5EWXxhMzA2MzRlNWZmOTg5NmQxMWQ3Yjk3MTUwYTU2NTM1NjhiZGM4ZTU3MGU5NDVkMmIzNzEzOGRiYWM2NDgxMDA4",
+      "width": 350,
+      "height": 350,
+      "bytes": 15536,
+      "sha256": "7f01a098228d894b0f397be4eecd897e2bea8da13b993ee0db42803a3392c6ea"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://www.krups.com.pl/medias/?context=bWFzdGVyfGltYWdlc3wxMzY2NnxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnd1lTOW9ZVFV2TWprM01qYzRNalkwTnpjd09EWXw0ZjI2ODNhMjk5YmIwZGViN2M0OGJkMGUzODAyY2I1ODc0YjNjZTUwZWE1ZWY5MGVhNDQ5YzhlMDMzZDMyYzdh",
+      "width": 350,
+      "height": 350,
+      "bytes": 19384,
+      "sha256": "ce0ffad8adc2335c765a373cb534817205fb97e2a458f81a3e65764463c92e16"
+    },
+    {
+      "file": "logo-krups-plotno.png",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "repo produkty-media/krups-coffee-crush-sa403be0/logo-krups-plotno.png (plotno 1200x300, bramka logo_plotno.py OK)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 1793,
+      "sha256": "5d10f509a3ba478002ee0ebff47195329ef9362d7f93f74614959e790c76a640",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": [
+    {
+      "file": "src-09",
+      "reason": "infografika wymiarow z tekstem po angielsku (Ultra compact, Water tank, Bean container) - pominieta"
+    },
+    {
+      "file": "src-41/src-50",
+      "reason": "kopia ujecia src-05 w mniejszej rozdzielczosci (600 px)"
+    },
+    {
+      "file": "src-42..51",
+      "reason": "miniatury 68 px galerii"
+    },
+    {
+      "file": "src-23/src-24",
+      "reason": "te same ujecia co produkt-06 i produkt-07, bez napisow, 350 px"
+    },
+    {
+      "file": "src-25",
+      "reason": "ogolna grafika programu naprawy 15 lat (nie produkt)"
+    }
+  ]
+}
