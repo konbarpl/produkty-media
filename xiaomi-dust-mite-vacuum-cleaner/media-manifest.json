@@ -1,0 +1,276 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T12:02:51.907982Z",
+  "sourcePage": "https://www.mi.com/pl/product/xiaomi-dust-mite-vacuum-cleaner/",
+  "sourcePage2": "https://mi-store.pl/product-pol-2914-Odkurzacz-reczny-Xiaomi-Dust-Mite-Vacuum-Cleaner.html",
+  "slug": "xiaomi-dust-mite-vacuum-cleaner",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "produkt-16.jpg",
+    "produkt-17.jpg",
+    "produkt-18.jpg",
+    "produkt-19.jpg",
+    "produkt-20.jpg",
+    "produkt-21.jpg",
+    "produkt-22.jpg",
+    "produkt-23.jpg",
+    "logo-xiaomi-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://mi-store.pl/hpeciai/d65077693f5a3b5de881bc43ec9a26df/pol_pl_Odkurzacz-reczny-Xiaomi-Dust-Mite-Vacuum-Cleaner-2914_5.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 14305,
+      "sha256": "b51c04c349803c74b2ae26afc04a882a0f9ec5f990c27ed75ff40b5d7afbd97a"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://mi-store.pl/hpeciai/b0a126fce371de88de053164e52cd757/pol_pl_Odkurzacz-reczny-Xiaomi-Dust-Mite-Vacuum-Cleaner-2914_6.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 13008,
+      "sha256": "ca37630d6d2af5d8cd371c16bbf0887a1506be07952a7ef4d29e1d410764450a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://mi-store.pl/hpeciai/6c7b6389e821e5a28b7d97f591da494c/pol_pl_Odkurzacz-reczny-Xiaomi-Dust-Mite-Vacuum-Cleaner-2914_1.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 13837,
+      "sha256": "41e5a935ea91f9e88b54374f608565cb015bb57fe1819ba38bb419fe22b0e7a4"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://mi-store.pl/hpeciai/5b5ce17a8101922c1a375c8592d18afb/pol_pl_Odkurzacz-reczny-Xiaomi-Dust-Mite-Vacuum-Cleaner-2914_2.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 21820,
+      "sha256": "843857882d57303bfe212051c3a849893e72ffdb879ad3e46144e552d1e8030f"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://mi-store.pl/hpeciai/48580dc296b0b29783e8e096fd6173d2/pol_pl_Odkurzacz-reczny-Xiaomi-Dust-Mite-Vacuum-Cleaner-2914_3.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 10331,
+      "sha256": "c8f77037b5eaafd7184fb57fdc19679dddd03d36a330fbd3ba8c0a2bc9450092"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://mi-store.pl/hpeciai/7f880c6f775f2a9b9b1f75560f0b3034/pol_pl_Odkurzacz-reczny-Xiaomi-Dust-Mite-Vacuum-Cleaner-2914_4.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 10736,
+      "sha256": "debdee92f57ce8c824ad25a1cde54a2db79c154a4fab0d012ba524d3511a60f4"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7rt1.png",
+      "width": 2000,
+      "height": 831,
+      "bytes": 171459,
+      "sha256": "a0b8fccef52ea0dd666918b06b2b40c4ab37c8b50432981e9a1c5f88cf8cb4b3"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/6eba12a272347ee8ff6d1f47bc7c9a7a.jpg",
+      "width": 2000,
+      "height": 1055,
+      "bytes": 243965,
+      "sha256": "4ecdf3cb0d88fa550a5f57dfb43c9d24f9eacd5899091db4d6e9846ea647a768"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "feature",
+      "order": 9,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7rt2.png",
+      "width": 709,
+      "height": 743,
+      "bytes": 58081,
+      "sha256": "f1c0e01ef03c99f7484222df28e905f832a4fd27ca5d4057f8b8396400100303"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "feature",
+      "order": 10,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7rt10.png",
+      "width": 2000,
+      "height": 1110,
+      "bytes": 217449,
+      "sha256": "007398b8172adf1696727cb268113d8c9d35c606568a8ed18279b6121e984242"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "feature",
+      "order": 11,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7rt12.png",
+      "width": 710,
+      "height": 604,
+      "bytes": 53124,
+      "sha256": "0793fc196ce5c018e8aa467599a1c2574eba77e5b645ef8ae489448ce82addfb"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "feature",
+      "order": 12,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7rt13.png",
+      "width": 710,
+      "height": 604,
+      "bytes": 50070,
+      "sha256": "639f972868190193694d32c95d134e3c4c94b54f819d7a2fd43663a1205068e2"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "feature",
+      "order": 13,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7rt4.png",
+      "width": 709,
+      "height": 743,
+      "bytes": 56910,
+      "sha256": "ff1306a19f2355276f6306b8b0925eaac7cdc844da440ed37f8e1080f9feaf51"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "feature",
+      "order": 14,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7rt15.png",
+      "width": 2000,
+      "height": 873,
+      "bytes": 72570,
+      "sha256": "89e24d69e828113cd64f3d9b34f483e2a4ba9ba884c95135d92a3f1ea07cfcab"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "feature",
+      "order": 15,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7rt6.png",
+      "width": 467,
+      "height": 719,
+      "bytes": 35084,
+      "sha256": "1af7c636a38c49b033185c58f377909c69509590331546a7b8d702d72fbf4e73"
+    },
+    {
+      "file": "produkt-16.jpg",
+      "kind": "feature",
+      "order": 16,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7r7.png",
+      "width": 468,
+      "height": 719,
+      "bytes": 27718,
+      "sha256": "1f7f976bdd89299038cfd1bf9a7ea9f5249bf279ac9e4d638747233e4eeaa131"
+    },
+    {
+      "file": "produkt-17.jpg",
+      "kind": "feature",
+      "order": 17,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7r16.png",
+      "width": 2000,
+      "height": 1055,
+      "bytes": 118341,
+      "sha256": "b6e9627042dbcb71aff23279b57f1f7d58a886b5e981d6d846c3007f9cc365cc"
+    },
+    {
+      "file": "produkt-18.jpg",
+      "kind": "feature",
+      "order": 18,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7rt19.png",
+      "width": 1439,
+      "height": 446,
+      "bytes": 49820,
+      "sha256": "395940bbdfd3f2ad000597097e3bac264da5c0c3195e4d63f13d88dd2e416efa"
+    },
+    {
+      "file": "produkt-19.jpg",
+      "kind": "lifestyle",
+      "order": 19,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7rt8.png",
+      "width": 467,
+      "height": 719,
+      "bytes": 36807,
+      "sha256": "b828e0d92605d35c626db8433cc6fe400c9a406adb2b74726f6df248e584048e"
+    },
+    {
+      "file": "produkt-20.jpg",
+      "kind": "lifestyle",
+      "order": 20,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7rt17.png",
+      "width": 2000,
+      "height": 873,
+      "bytes": 500962,
+      "sha256": "e13f6d52af4aecfe6caa45bb1da19841f9e3e537b408a95812dd9bc6abc0cd40"
+    },
+    {
+      "file": "produkt-21.jpg",
+      "kind": "lifestyle",
+      "order": 21,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7rt18.png",
+      "width": 2000,
+      "height": 873,
+      "bytes": 352430,
+      "sha256": "ef1239092078e40b48a3f144cfc350ec0ba0039224300297bf0d2bfb381a1d24"
+    },
+    {
+      "file": "produkt-22.jpg",
+      "kind": "feature",
+      "order": 22,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/aigcuyagygyaydgaw78rt687216f773652rt7rt20.png",
+      "width": 706,
+      "height": 521,
+      "bytes": 16188,
+      "sha256": "69ebcd0b69f15da3b92fecb42853b62ec13dd35c8102c7db3e356efb5000e52f"
+    },
+    {
+      "file": "produkt-23.jpg",
+      "kind": "feature",
+      "order": 23,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-dust-mite-vacuum-cleaner/PC/9749a72518b6a348a118ac1b649b82b0.png",
+      "width": 706,
+      "height": 521,
+      "bytes": 20004,
+      "sha256": "a3cf5523cfbaa5ed7298d4830669e2aa680c1380e3c68785ac8ff7b67070bd6c"
+    },
+    {
+      "file": "logo-xiaomi-plotno.png",
+      "kind": "logo",
+      "order": 24,
+      "sourceUrl": "repo: xiaomi-mijia-vacuum-cleaner-4/logo-xiaomi-plotno.png",
+      "width": 1200,
+      "height": 300,
+      "bytes": 13156,
+      "sha256": "fb3b09a29d22ab6b2f55a3a86b323aee611c71aecd428cb8d6f7ef5784823b53",
+      "inkRatio": 0.3
+    }
+  ]
+}
