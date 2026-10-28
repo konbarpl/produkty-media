@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-28T15:07:23.690Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/XC8055_01.assets (PRX API, CTN XC8055/01)",
+  "slug": "philips-8000-aqua-plus-xc8055-01",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ca836909_44f7_4e96_817543c2b612446d?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 50792,
+      "sha256": "fb142dc71799a51f596d2bcfc2ddc5b505c42ee7e254c4fed0fd4d18b6d676be"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_2dab1a98_aa58_498e_89cf604c97755085?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 28788,
+      "sha256": "eaf7986f2f49c865f602f08fafcba360de0adb0033488ac16908124c5c10f22d"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_5f8b422c_ea6f_43ef_bd916f229b694785?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 22582,
+      "sha256": "579dea92bdf2b27c6950775d4eff7f0a11b159c4a55ea7c357acb7e1d314f487"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_69603857_8847_43cc_826fc93631e2df2e?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 50270,
+      "sha256": "e18a6da3b93ba8ba383696984b702cf7afbb88c094ccc3d668a462e275161c86"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_9f1f622e_40bf_45cd_898b733d956825c2?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 55836,
+      "sha256": "836d8b42da17cf86e9737bd12d0a6e31f24a75f556bed16f9639d9ce257f79ec"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_357dd499_a80b_4251_9452bb2b4797a32e?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 122466,
+      "sha256": "ed7a9909a9ec43f81acc16f861406848bbf4aaefa731746a8d123a1ff67caa3b"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_390c2e84_b0d1_4bd0_bbad289827b44257?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 93178,
+      "sha256": "93f6be377ee922e3cf8232b95b5a6694c35515581e07b0f0437fbda71871aeb8"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b4bf7921_23ef_4bc6_9dfdd67c3c43dbca?wid=1600&hei=1600&fmt=jpg",
+      "width": 1600,
+      "bytes": 67286,
+      "sha256": "04e9d2c8cc24ec8eb77b4ce6f7c1ac44ab1ddae23aa91ebad9f09b5f6bccca15"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "sourceUrl": "kopia z produkty-media/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png (G83)",
+      "height": 300,
+      "inkRatio": 0.3,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+      "width": 1200,
+      "bytes": 9114,
+      "order": 9
+    }
+  ],
+  "dropped": 0,
+  "ctn": "XC8055/01",
+  "identityNote": "Zdjecia wylacznie z PRX assets CTN XC8055_01; odrzucone: XC7057, 6000 Series, XC70XX, gwarancja, rendery z miedzianymi akcentami (szczegoly dobor_zdjec.json w _tmp G83)"
+}
