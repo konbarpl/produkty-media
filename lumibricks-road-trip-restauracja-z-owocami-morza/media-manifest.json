@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T20:05:26.079919Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0H24XY6BV",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0H24XY6BV), strona nie pobierana",
+  "slug": "lumibricks-road-trip-restauracja-z-owocami-morza",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [
+    {
+      "file": "galeria-06.jpg",
+      "reason": "ekspozycja kilku zestawów serii obok siebie (latarnia morska i inne budynki na plaży, napis „Chasing Sunsets One Stop at a Time”) — bramka tożsamości: zero innych produktów"
+    }
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71VTKgS0lwL._AC_SL1200_.jpg",
+      "sourceLocal": "zrodla/B0H24XY6BV/obrazy/galeria-01.jpg",
+      "width": 1163,
+      "height": 1140,
+      "bytes": 130014,
+      "sha256": "15ecec0105fe65d204973c0fa62e131beebd8cc0c86aaa8e5f08a159fd269667"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71EclDQ5ZdL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H24XY6BV/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 206415,
+      "sha256": "0b909c6915a281dc82efb3d8e3d349472c60f5854d00db21faf8c415e6cb4ae0"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81egQhfBwiL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H24XY6BV/obrazy/galeria-03.jpg",
+      "width": 1495,
+      "height": 1500,
+      "bytes": 275348,
+      "sha256": "38a9e66d03c25a1d3bc14edc994cb5975c53af6b264a7f4ff2894ee98fa40de0"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81cFyxPPghL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H24XY6BV/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 279803,
+      "sha256": "63454775a9e3167a9219912c1e5ab46d61c9125c46a480b9f719bc3c7918383d"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71JGqzkem5L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H24XY6BV/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 211919,
+      "sha256": "1d4da2329f32cbb8d9a7b142c91089c9e5803dda6d0353d2f9ce850aa1a475d9"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "kopia płótna z pilota: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}
