@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T19:42:50.687941Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0H3PYYCHP",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0H3PYYCHP), strona nie pobierana",
+  "slug": "lumibricks-factory-house-of-music",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [
+    {
+      "file": "galeria-03.jpg",
+      "reason": "infografika wymiarów pokazuje pudełko innej marki („F.O”, numer F9068) zamiast pudełka LUMIBRICKS 19005 — kupujący dostaje inne opakowanie niż na zdjęciu; do decyzji dyrygenta"
+    }
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81B79YDxUuL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3PYYCHP/obrazy/galeria-01.jpg",
+      "width": 1500,
+      "height": 1471,
+      "bytes": 320634,
+      "sha256": "56baf077a4f5fe062a880d19ac9afb8d03457dbee2162ef4f08894cee9838568"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81jcs4WOAsL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3PYYCHP/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 340525,
+      "sha256": "329e1988b45c3b9db4b8ceeea0f12ff634316732990ad041db2d47c3b5a7c974"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/817P4p2btxL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3PYYCHP/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 368267,
+      "sha256": "8faf4cd4c63cdfe75f7650423097c1ac61f5c34837d0d82e8ed332b33a8f7941"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81aVJ-s2btL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3PYYCHP/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 257134,
+      "sha256": "2a72677618a44afaab15698d98f327a56824098a6f6c162a57c4218b5bd7a9ac"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81WXY+rXjFL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3PYYCHP/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 369574,
+      "sha256": "a1d757d6c439cd722b4a44ac2cef1efb41cb35c2643f8d64b5f9f3eb649ecbe9"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81V5c2MTvpL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3PYYCHP/obrazy/galeria-07.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 282773,
+      "sha256": "c75b2be2e3afcda9b9ca2f0f51cdbff9bc5a404fc8e90ba4790fd07fe860d3c5"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "kopia gotowego płótna z pilota: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka, logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}
