@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T20:20:10.657Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0H69RXQDG",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0H69RXQDG), strona nie pobierana",
+  "slug": "lumibricks-wiktorianska-stacja-kolejowa",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81yrEP6HT8L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69RXQDG/obrazy/galeria-01.jpg",
+      "width": 1500,
+      "height": 1479,
+      "bytes": 317008,
+      "sha256": "02116cfd0652ce8149d2d8f48619c7f44fe8a888f37e0053dc9a924553de86e1"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/818lvXp9+FL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69RXQDG/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 289100,
+      "sha256": "c21354168df443cfaa30e7a7b400948711036338888252b78a56aba1bac1211b"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71StuO0MTSL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69RXQDG/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 239109,
+      "sha256": "3e6c825d9f44914cb5880096b40173220b0d0f3d089813bf3200502857d87a5c"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81BKpc6aqFL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69RXQDG/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 276383,
+      "sha256": "585f5407e660dd55a593b930374da309efaf4e532a11b8eee68b1899f9068af9"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81BF02s7+7L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69RXQDG/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 268453,
+      "sha256": "b7018d5a4a8f89841ce839cfa03b262a6c88e68086a35aa4832137c5faf3647c"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/813azKoZypL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69RXQDG/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 277214,
+      "sha256": "31333f84382464e88c8d2767d1428c7bfd60ec8736b5f7133ad2c212e42e0d1e"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81hTAFtPlEL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69RXQDG/obrazy/galeria-07.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 253579,
+      "sha256": "51d09e62205c1a9bf8bb170aa2af538c2f406ea6fb9fae588a6bc623e05037c7"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia płótna z pilota G84: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka; logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}
