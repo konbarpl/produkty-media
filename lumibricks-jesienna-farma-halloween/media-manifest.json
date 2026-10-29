@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T20:40:07.003574Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0H69TDTKB",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0H69TDTKB), strona nie pobierana",
+  "slug": "lumibricks-jesienna-farma-halloween",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81OPVvwKLZL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69TDTKB/obrazy/galeria-01.jpg",
+      "width": 1500,
+      "height": 1451,
+      "bytes": 289965,
+      "sha256": "bd6b668dc60c2d8f67b4d87ae358e4d1b0113f8b3dff2dec9887b89852d3ec7e"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71IbOQvTP4L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69TDTKB/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 242151,
+      "sha256": "05c7fbb105a36124305db37e71c2db21dd82b1fe1bc2ac21552615f4c2e6b9df"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71iDno-i73L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69TDTKB/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1449,
+      "bytes": 210465,
+      "sha256": "b58851839b6933667ba28f0273d80d3f865aa4ad1e669c144cd49142bceebf0d"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/811TFl3QeiL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69TDTKB/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 248551,
+      "sha256": "a5f6056b36199283f3004ddea57a5c4b67a5de38f4f5411664b3fb1df068c6fd"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81+CrFtK+7L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69TDTKB/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 337918,
+      "sha256": "ae727853673b87331cdd66f82125c43cfa3166217a3069f8f20a088960aef5ad"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71e+9QDgCdL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69TDTKB/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 233046,
+      "sha256": "d74e394f4aaef2d7c6ccf88ee70e09b04c269a4b32f05b97c439ccda023c0ed6"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81eYU3UdsiL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H69TDTKB/obrazy/galeria-07.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 273938,
+      "sha256": "87c00631c99ba632c93082f7bda9f1dc5abe6a570c1f65342b465d42f31bec65"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia gotowego płótna z pilota: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka; logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}
