@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T19:42:37.916Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0FGPYT3XT",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0FGPYT3XT), strona nie pobierana",
+  "slug": "lumibricks-cyberpunk-dworzec-kolejowy",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/815xWTDZWVL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FGPYT3XT/obrazy/galeria-01.jpg",
+      "width": 1478,
+      "height": 1500,
+      "bytes": 271890,
+      "sha256": "284870d15b556566f97bcc7fa7e48c16698ba66e437f0436350be4dd79763beb"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71hTqOTdGGL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FGPYT3XT/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 224147,
+      "sha256": "88e5e1b0abb3e766a5d03991ff66dae8c045d388178d986ebd6586649a4e441c"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81xv5Ws5wOL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FGPYT3XT/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 271762,
+      "sha256": "72eab062ea14a10d0967aae771ce8218bd39c784052b6bff5eb45aacc3bdb4f8"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81BaYbLyzIL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FGPYT3XT/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 301737,
+      "sha256": "1abc2f48765dad3b8e0ad9d4d107fd7bb3622f809dc3ed0c83e4eb2330cc8998"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71gzeLzGq2L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FGPYT3XT/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 220572,
+      "sha256": "fe1f1d2887cc67de2827b71d594ba9cce3b2d94f04bd38992cdfd0d87b243f09"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71tL1Ql9MwL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FGPYT3XT/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 240093,
+      "sha256": "37e11547fe5d262aaca7490e389a83c52bffc545ae38f1589b31eba4ea70eb55"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81UJh1g6JYL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FGPYT3XT/obrazy/galeria-07.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 293727,
+      "sha256": "049f39734adb86af05e1b86587f77bbf5548f779e635e5df3b64e4afeb8fe171"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia płótna z pilota G84: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka; logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}
