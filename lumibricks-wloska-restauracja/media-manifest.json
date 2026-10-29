@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T20:20:10.249792Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0FVXZB9CX",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0FVXZB9CX), strona nie pobierana",
+  "slug": "lumibricks-wloska-restauracja",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [
+    {
+      "file": "galeria-02.jpg",
+      "reason": "ekspozycja kilku różnych zestawów obok siebie (inne budynki i tramwaj) — bramka tożsamości: zero innych produktów"
+    },
+    {
+      "file": "galeria-04.jpg",
+      "reason": "grafika z hasłem gwarancyjnym „2-YEAR COVERAGE” (oraz angielskie hasła reklamowe „Popular in over 50 countries”) — reguła zlecenia G84: wyrzucamy"
+    }
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81tPiIbqRDL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FVXZB9CX/obrazy/galeria-01.jpg",
+      "width": 1457,
+      "height": 1500,
+      "bytes": 242906,
+      "sha256": "e429b0bc4176cf41cada71d0aacf8c25525b28aac166e048d115c1bdca78c00f"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71DnxvOfJZL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FVXZB9CX/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 248410,
+      "sha256": "33dc5abc30897fe393a04e4bfaaf091d54f5d7c560f6fc808541e58a80be6525"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71A1ZyE5igL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FVXZB9CX/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 245807,
+      "sha256": "beb15cb88f533f8c747a2431a530574997fc453860a2c141cbc42612fb4ef369"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71Zal83ZO+L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FVXZB9CX/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 226141,
+      "sha256": "ed8664b121111e6823ab72b93155f826258e7d07dbeccab94434cf509dad5b66"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 5,
+      "sourceUrl": "kopia płótna z pilota G84: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka, logo_plotno.py)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}

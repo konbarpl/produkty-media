@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T20:39:42.189Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0H2XQ6TFT",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0H2XQ6TFT), strona nie pobierana",
+  "slug": "lumibricks-wieza-filmowa",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [
+    {
+      "file": "galeria-06.jpg",
+      "reason": "wieża w ekspozycji z innymi budynkami marki (pralnia, klub bokserski, sklep z płytami) — bramka tożsamości: zero innych produktów"
+    }
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/819w+XRl8IL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H2XQ6TFT/obrazy/galeria-01.jpg",
+      "width": 1428,
+      "height": 1500,
+      "bytes": 275889,
+      "sha256": "fdb9238fe80c7a4eb009a13f12362232680e186195e75e179fc8a3d4fc5b883e"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71swFBUTYjL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H2XQ6TFT/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1493,
+      "bytes": 194548,
+      "sha256": "f2c72df592d344a2875f4db4a9ddd5081abffc0b3ef007157f6356838fd3cfa4"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81HhftAkMnL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H2XQ6TFT/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 334628,
+      "sha256": "ef6b720b29f485057a8946c91957608f15fa778953c8fefdd6047b3dbf23033e"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81UojOX4zyL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H2XQ6TFT/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 316237,
+      "sha256": "8c3eb46caaacdfd65ceb2dda01609ab724979bfce4e0f6497a2f90b86795f1a8"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71d3YeTRzpL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H2XQ6TFT/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 182403,
+      "sha256": "08ac022ec8985bf9b294b1527ed892447672d2029661579ea0db51e6b25677a6"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81lISBlJViL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H2XQ6TFT/obrazy/galeria-07.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 270205,
+      "sha256": "b40d0609204e586006136708c2c3e1f59300d6c7964cf834c9f3710c33c6d9a9"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "kopia płótna z produkty-media/lumibricks-book-cafe (etykieta z frontu pudełka; płótno logo_plotno.py --napraw, pilot G84)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}

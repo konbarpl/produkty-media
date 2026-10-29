@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T20:51:20Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0FJ26MF4G",
+  "sourceNote": "wyciąg MHTML zrodla/B0FJ26MF4G (G84 poz. 24); 7 galerii + 8 A+ (2 moduły A+ nieosadzone w MHTML pominięte); logo z pilota",
+  "slug": "pantasy-gbc-zmotoryzowany-model-mechaniczny",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "logo-pantasy-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/galeria-01.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71w8HUFQwLL._AC_SL1500_.jpg",
+      "width": 1450,
+      "height": 1484,
+      "bytes": 230889,
+      "sha256": "8d969b761ae462c05a423cd1e91ae7e283d86b97714781600db3bcd375a696d9"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/galeria-02.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/810QMYuSf0L._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 301537,
+      "sha256": "6d89b32b2f6de1b531909107b11fe9d5dfdb6b655483adc87b2e0c192eadcded"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/galeria-03.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/811jux2FPkL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 302663,
+      "sha256": "23c4c0b415966e89d3f6918790dac87885fee487819bb1317e444a4475697ae9"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/galeria-04.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81HJPGT6ZCL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 362409,
+      "sha256": "1c9e87fd776fcdeafa85c92a889133276e0a5450cc5072995ff7e6a6301e95f0"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/galeria-05.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81JIz56h3PL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 331343,
+      "sha256": "e80327cb59930976ee5e6e5c92336b7d2664cf8878ba9c2549d5f9318843c07a"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/galeria-06.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81Dtm-t4QIL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 294607,
+      "sha256": "6610c74cc935d9defbbd120d171a1d8a1efb9044a0fec9d05aabcb391a41b830"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/galeria-07.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81P587rqy7L._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 304283,
+      "sha256": "5b6be1433d9fb76fdfa67a23cd24da9f58ed56e7072b77e34661407c49361795"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/aplus-01.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/647e0b90-78c0-4d2d-9878-c91cee95e52e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 849077,
+      "sha256": "f940c1d55421919e96c180d18a44dd870492256ba0107e6f5e28d0ed5db5a54a"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/aplus-02.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e1253b5f-f3b0-47d6-9a95-50e17d75380a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 765726,
+      "sha256": "d83eeb64930d6bca44cce436475d1b74976f42704370fad9b64f38e759e7ceb0"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/aplus-03.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1dfb57d7-5f67-4f73-aa02-a850efb0edcf.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 853565,
+      "sha256": "442e69bf1ea3318e5a65cfb2ba9f5084a822a8478a073ddac78696daab1b906c"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/aplus-04.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f3ad9874-64ed-47a0-aa9c-f86c05c5e399.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 703913,
+      "sha256": "ab58598ca22e4390fba0c86dc9d0f31ff6bf0d73cbf45d830c9e098d6fb01474"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/aplus-05.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8afe3ed9-1f17-4c82-94e8-61e5c2765cb7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 724630,
+      "sha256": "1ae88bfc653c96e1675b7d15871cf1ede5b659434d719358a4c6450f41c2bf88"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/aplus-06.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/867a7877-044f-41be-9d12-5864fcb4d8b6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 599384,
+      "sha256": "3f138bfce9bf14705ef76d9df6afc2310ddbc9de0c693dbbdacee15ed9921112"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/aplus-07.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8709e656-3e0e-4b48-a601-d445f808b98a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 726496,
+      "sha256": "e2933fba800bf939f34ad3b4d8d119f67afae3b270c53c6e46db82479745216d"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceFile": "zrodla/B0FJ26MF4G/obrazy/aplus-08.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/566a1d74-4d56-4075-aced-d18eb59996fa.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 741091,
+      "sha256": "941b337e8a7359d75d5b6f84ea1110edd9eda8b4519845e4591c7680f508f8b9"
+    },
+    {
+      "file": "logo-pantasy-plotno.png",
+      "kind": "logo",
+      "order": 16,
+      "sourceUrl": "kopia płótna z pilota G84: produkty-media/pantasy-bawarska-tawerna/logo-pantasy-plotno.png (bramka OK, 1200x300)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 74741,
+      "sha256": "adc71cc48aca7cbf494e7d925b4eebf8f7cfdef999c01e10269e406f105633dd",
+      "inkRatio": 0.217
+    }
+  ]
+}

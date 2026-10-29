@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T19:43:18.622808Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0H2Y14SDG",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0H2Y14SDG), strona nie pobierana",
+  "slug": "lumibricks-dutch-windmill-millhouse",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81UsmW7SDDL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H2Y14SDG/obrazy/galeria-01.jpg",
+      "width": 1491,
+      "height": 1500,
+      "bytes": 256506,
+      "sha256": "85e353c98aa258f444c8cf2fecd82d751d06053ad60c302956d5c8aff6da0877"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81S4TuVmMZL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H2Y14SDG/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 373594,
+      "sha256": "0da5a79936ad6a9f110109c7a8ccaf02330b32a52c46bf9e9ce1bb4490631b87"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/815TxbrTEJL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H2Y14SDG/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 297247,
+      "sha256": "a6d544262061d97cd09968d4440e3225bf087100da66427ef9359de99a836353"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71ZZ2r3p-UL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H2Y14SDG/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 226113,
+      "sha256": "51d04db625f04fd6b61a59b0389267e904e64bb66fbe9ae97653a1f28fbe19e8"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/814v4FBorSL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H2Y14SDG/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 257130,
+      "sha256": "cd1cd34e44b6e7d694fe587405b36de8dc7e9b71f24aa1cb4070e9b6dd4cb603"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81ZMZlmdiKL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H2Y14SDG/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 254305,
+      "sha256": "5468b6e0007b2c6f775429bba06d4e8bc2404ab06b6d995f31b547dac198e7fa"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71UI0Qxf1AL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H2Y14SDG/obrazy/galeria-07.jpg",
+      "width": 1500,
+      "height": 1463,
+      "bytes": 176863,
+      "sha256": "1040a0ccae7f184a7c14a5da50e7c8c766a0d371817becb71575623afff4ea29"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia płótna z pilota: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka; logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}

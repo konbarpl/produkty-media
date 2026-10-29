@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T19:53:30.779628Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0GTMDMK36",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0GTMDMK36), strona nie pobierana",
+  "slug": "lumibricks-greenway-clinic",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81rLJ2BgneL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0GTMDMK36/obrazy/galeria-01.jpg",
+      "width": 1433,
+      "height": 1500,
+      "bytes": 275472,
+      "sha256": "4eb8d26f1b57ad4972eeba1d9aa82919ba0f9ccee0ec4e73821cdd2745856c57"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71TV2vwIAfL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0GTMDMK36/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 205864,
+      "sha256": "7d5b897209725572fbc02568b773b3c2ec423b2d98a35517784c50b06df26bad"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81y2zz+sbpL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0GTMDMK36/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 285780,
+      "sha256": "51454f398d8b67365237bb9af980b37a342cb2e23572479d0c9dce180101d4cd"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81U0bezyRrL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0GTMDMK36/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 278835,
+      "sha256": "c60eb86f967754d068923f5cee99284bf3ff0d62992fbdd5b1c4320510c306c2"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81Ik3lAIirL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0GTMDMK36/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 305020,
+      "sha256": "60f6939d5de64b050b0edf68d78672cace9dfd9c00c5d930e022e86ffbbbac0e"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/8100AZAtdCL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0GTMDMK36/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 309117,
+      "sha256": "948e70998826a43d91750b56dd623ace144e5d49998b177e914b7c6f5e39ad4d"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81nc-0dEqYL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0GTMDMK36/obrazy/galeria-07.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 253509,
+      "sha256": "04ca9d9e158992e6c2535d65ff1ad4bacdaca74d7e007befd6d3209d78d60767"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia gotowego płótna z pilota: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka; logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}

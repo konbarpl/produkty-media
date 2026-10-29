@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T19:42:42.224327Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0H3QBSXP1",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0H3QBSXP1), strona nie pobierana",
+  "slug": "lumibricks-gelateria",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [
+    {
+      "file": "galeria-07.jpg",
+      "reason": "grafika „Połącz z kawiarnią książkową” — pokazuje inny zestaw marki (Book Café) obok lodziarni; bramka tożsamości: zero innych produktów"
+    }
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81wVMEecKuL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3QBSXP1/obrazy/galeria-01.jpg",
+      "width": 1500,
+      "height": 1457,
+      "bytes": 244490,
+      "sha256": "2ae0ba00a2a97a6b8f7011e1048c0f9fb3e8b17468209ef88ce457e6a318fa8a"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71-widRZB3L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3QBSXP1/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 237823,
+      "sha256": "384eec3a03ddd925da96a8ec3139689601af24a7f14d6c1468f7588af1841a09"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71Ze0ENUSbL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3QBSXP1/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 216865,
+      "sha256": "721cb23bca51523a78b9afc3e309ab80d9ee05260d30bcfc66cd79ba3239befd"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71mQ1OECQ9L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3QBSXP1/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 220130,
+      "sha256": "132b4409ff676a52a332bed5b77b67ec134cd3be03c964e565219bbc136f01b6"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71twgi95NWL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3QBSXP1/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 245908,
+      "sha256": "89ed86aa495854e3b7c1d4f7bcc87d087ba82fe0911c86e57b60340773235d4f"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81I-SiddajL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3QBSXP1/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 287591,
+      "sha256": "be261facf541029775b68a69c73a5636a062d13982f00eb0615dacdb0cce1bd3"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "kopia gotowego płótna z pilota: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka; logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}

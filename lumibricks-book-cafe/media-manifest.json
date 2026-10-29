@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T19:33:45.035336Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0H24VL6NH",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0H24VL6NH), strona nie pobierana",
+  "slug": "lumibricks-book-cafe",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [
+    {
+      "file": "galeria-07.jpg",
+      "reason": "ekspozycja kilku różnych zestawów obok siebie (inne budynki i tramwaj) — bramka tożsamości: zero innych produktów"
+    }
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81oHN-hk4bL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H24VL6NH/obrazy/galeria-01.jpg",
+      "width": 1444,
+      "height": 1500,
+      "bytes": 266966,
+      "sha256": "4fe4e0cfda6d31c7cd322c3c0e65c39c994f1a50d0193d43ac12d0d266ac20e3"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71LPxfsW7bL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H24VL6NH/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 219082,
+      "sha256": "2a51ba7857812ba749193e47a28b0cdaa14374a4a63db58611f48e97e0046658"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71KsXLXGfNL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H24VL6NH/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 178188,
+      "sha256": "28cebfc12524a2c0623a85f8445282eca51adbbfeaac1e2eff4e1f79c8c87861"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71K1+jO2FFL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H24VL6NH/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 242834,
+      "sha256": "775c4a638fa1cec17b8bee4aee32a7eebf8a44a52fecfd12246fd6e613cb591b"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81-JFikiasL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H24VL6NH/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 257824,
+      "sha256": "5751e9fa10b5271b25550cc2d8cf55e242a188b6ce012699516a9aff7f5ce681"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71Y3HSmM1IL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H24VL6NH/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 202839,
+      "sha256": "9f0522d20463778dd241cddc88f6c6b702627aac13a438365c64337464ecd015"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "dropshipping/materiały/logo/lumibricks-logo-z-pudelka-galeria01.png (etykieta z frontu pudełka na packshocie galeria-01; płótno logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}

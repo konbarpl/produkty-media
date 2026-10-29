@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T20:20:32.204625Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0H3PVHWZG",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0H3PVHWZG), strona nie pobierana",
+  "slug": "lumibricks-western-saloon",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [
+    {
+      "file": "galeria-07.jpg",
+      "reason": "ekspozycja kilku różnych zestawów marki obok siebie (saloon i inne budynki westernowe) — bramka tożsamości: zero innych produktów"
+    }
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81kAVS8ojJL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3PVHWZG/obrazy/galeria-01.jpg",
+      "width": 1500,
+      "height": 1484,
+      "bytes": 317041,
+      "sha256": "f6d320006aebc30824548996f7d41f01189c33d9d8f973a7a194a36a9665d222"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71qUwTKdFgL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3PVHWZG/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1460,
+      "bytes": 186452,
+      "sha256": "c09955c4fb3089c1bbdd1033f7637aad0937a671d7404c8f61662445484deec6"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71kaoM2ZjbL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3PVHWZG/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 222106,
+      "sha256": "3db8fde7d6bbd62ddf244a894fb46b0d6bac999959877e2dbfb3e7e386d12442"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81pMgzlEFkL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3PVHWZG/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 269038,
+      "sha256": "43242fb8faff0f67fc8abad076739d5fe56f2b37fe3b7d609171586687f19d76"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71z4g1V951L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3PVHWZG/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 220127,
+      "sha256": "da4ccfda3f16985515968df223a871daa581817c7e37c7545acd4e16a7ffb9a9"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71T7BCQiSSL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3PVHWZG/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 158003,
+      "sha256": "fdf6c583777271926b4f8b44ea2d5e7473162c0e1d39b6eeef5df34138f517d7"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "kopia gotowego płótna z pilota: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka; logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T19:54:05.071349Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0HB4F871W",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0HB4F871W), strona nie pobierana",
+  "slug": "lumibricks-manga-shop",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71x-U+aYdiL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HB4F871W/obrazy/galeria-01.jpg",
+      "width": 1500,
+      "height": 1482,
+      "bytes": 208846,
+      "sha256": "fd6ac315cc75104bbf342b2726b633603a05070f06a7fae4bcdd186e6994a232"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/710iYzhE-yL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HB4F871W/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 193936,
+      "sha256": "c2e2a53d35c9dc6cd8dc288734fb83dfb0e0f464483136a9488473b550e0ae42"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71S89dO9slL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HB4F871W/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 235825,
+      "sha256": "eba147ddf8a0b78faff4dede18d8f04db18d6458ee6dcb625fa171bf6c75e777"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71lW5Qq2pML._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HB4F871W/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 214920,
+      "sha256": "615059d6dec34fea26f3123ebb7d8fa75967b8e43353f56ee3067990b508fced"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81oiuDlyIWL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HB4F871W/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 285139,
+      "sha256": "deba703c29ee5e3471097a392d4105bd256105f3235bd0f1d9c112f08523d620"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81NDTc5LK8L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HB4F871W/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 256389,
+      "sha256": "c60ecd995ac53d057d6e8d03d118700045215bd45902ff83b688d4e0c6955791"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71eCeC0s8qL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HB4F871W/obrazy/galeria-07.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 218212,
+      "sha256": "0528aaff8740fd6316523df5d7074e9644551bc047e14e685eb633babc1376ac"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia gotowego płótna z pilota: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka; logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}

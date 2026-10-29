@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T21:00:00Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0HF7H65J7",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0HF7H65J7), strona nie pobierana",
+  "slug": "lumibricks-retro-house-explorer-domek-na-drzewie",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81TlahnMhxL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HF7H65J7/obrazy/galeria-01.jpg",
+      "width": 1500,
+      "height": 1489,
+      "bytes": 386974,
+      "sha256": "74c759173bfd424327501b76172e97364723b64ce50448921402e787d19140ac"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/818nFHS0wiL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HF7H65J7/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 333757,
+      "sha256": "ba7342746d8b95226b7d4c40a5c2e109d4dad88a6d58dbd4fe4681b4af5010c6"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/817Z6PbCz2L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HF7H65J7/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 268464,
+      "sha256": "da33ae7e54d06950ba5bc72db67c59ed8ab645799c0b94745216d41cfd1df98e"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81c2vwAGQ3L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HF7H65J7/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 377310,
+      "sha256": "462a53b22181a2a7013b91f9f14b80d16fd31f43f177e64672e0e216ff03f6d3"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81RX6qjgJsL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HF7H65J7/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 294872,
+      "sha256": "43ec5624784629926cd214675224d0f567f77cb19d9663936b0c9c0a39d96770"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81PyqOMJ7PL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HF7H65J7/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 318240,
+      "sha256": "946553f036353a0ec7164d34eba81f272942c112cadb732100872edf8e0b45e2"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81m6psdvDDL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0HF7H65J7/obrazy/galeria-07.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 329284,
+      "sha256": "caebafde064ead919a24b8b87d1d0cf5afb58c176336c623c78937d73a1abaf4"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia gotowego płótna z pilota G84 (produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png; etykieta z frontu pudełka)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}

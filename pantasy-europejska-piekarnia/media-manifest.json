@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T20:49:59Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0DL5MRT1W",
+  "sourceNote": "wyciąg MHTML zrodla/B0DL5MRT1W (G84); A+ brak; galeria SL1000 (galeria-01 887x930), bez skalowania w górę",
+  "slug": "pantasy-europejska-piekarnia",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-pantasy-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceFile": "zrodla/B0DL5MRT1W/obrazy/galeria-01.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61eKjEIuW6L._AC_SL1000_.jpg",
+      "width": 887,
+      "height": 930,
+      "bytes": 110549,
+      "sha256": "8a8c8a6c9fca242000d6b3baa72f2b06626f79e773c486515f4baf1c8e3c0376"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceFile": "zrodla/B0DL5MRT1W/obrazy/galeria-02.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61mAeiFHJKL._AC_SL1000_.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 86299,
+      "sha256": "3375e07adb2414bd8df9fd1d55edb9721945714808bfca6e68a692d9caa67650"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceFile": "zrodla/B0DL5MRT1W/obrazy/galeria-03.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71Y9aK+WYAL._AC_SL1000_.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 131779,
+      "sha256": "b1b5ca2cd3f610583b90ec338db9333aebf10e93cc4ebc7993ecc69a6dae2784"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceFile": "zrodla/B0DL5MRT1W/obrazy/galeria-04.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61PRG5hEvQL._AC_SL1000_.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 122993,
+      "sha256": "b158a90dff92ff75b2df74be097a3e7408fe6ddb267e9bff1e03eb054fad4144"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceFile": "zrodla/B0DL5MRT1W/obrazy/galeria-05.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61X+i0qnoaL._AC_SL1000_.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 122532,
+      "sha256": "c04475e0e5f211965f4a2058fdcb17781cfce6b7eb51e4da07bcac87b0540463"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceFile": "zrodla/B0DL5MRT1W/obrazy/galeria-06.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71vcdZFIBfL._AC_SL1000_.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 132976,
+      "sha256": "26721414dd30f6d3bab54f0ebf460560ef67f415517af4e9a3410f0181fd538b"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceFile": "zrodla/B0DL5MRT1W/obrazy/galeria-07.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61x1hzsN5mL._AC_SL1000_.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 109083,
+      "sha256": "28e3f869776c3655c1b98ba662f248c18de08384f8ddb768d14e3801674fb24b"
+    },
+    {
+      "file": "logo-pantasy-plotno.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia płótna z pilota produkty-media/pantasy-bawarska-tawerna/logo-pantasy-plotno.png (znak PANTASY z wycinka pudełka, 1200x300)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 74741,
+      "sha256": "adc71cc48aca7cbf494e7d925b4eebf8f7cfdef999c01e10269e406f105633dd",
+      "inkRatio": 0.217
+    }
+  ]
+}

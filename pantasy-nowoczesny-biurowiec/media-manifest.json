@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T20:51:27.107280Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0FWC34NRM",
+  "sourceNote": "wyciąg MHTML zrodla/B0FWC34NRM (G84 poz. 25); 6 zdjęć galerii, A+ brak; napisy na grafikach 02-06 po angielsku",
+  "slug": "pantasy-nowoczesny-biurowiec",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-pantasy-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceFile": "zrodla/B0FWC34NRM/obrazy/galeria-01.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71mRpiz6R5L._AC_SL1500_.jpg",
+      "width": 1479,
+      "height": 1396,
+      "bytes": 173937,
+      "sha256": "52d9a6d6807fe225d29ea7486c939a554980b46f91f7181bcf25e4ededc4fef1"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceFile": "zrodla/B0FWC34NRM/obrazy/galeria-02.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61Xtmj-4sqL._AC_SL1000_.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 102749,
+      "sha256": "fb00649010a6fb908b57d8de10074a9cfa4633becc2652a3a172110fbcbaf3d8"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceFile": "zrodla/B0FWC34NRM/obrazy/galeria-03.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61KFas0lcmL._AC_SL1000_.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 124952,
+      "sha256": "5c9c1a5ca71416d70853c26dd0487ecc538e9203f72f5076de70cb99510b4c68"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceFile": "zrodla/B0FWC34NRM/obrazy/galeria-04.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61zxhSDJ+PL._AC_SL1000_.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 107115,
+      "sha256": "65c486529c02e408e2b100385ba153db0ce8bc875956e64c7710c3f6e657eb6b"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceFile": "zrodla/B0FWC34NRM/obrazy/galeria-05.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61Lz+HAk2hL._AC_SL1000_.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 111132,
+      "sha256": "83f6891860a92cc5a4edc064f1473e023c0827c40b3d05bdc9fc2019d5179cbf"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceFile": "zrodla/B0FWC34NRM/obrazy/galeria-06.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71T67PM1TeL._AC_SL1254_.jpg",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 224170,
+      "sha256": "333a78550fa7945e8c329b015a38baf8458fdc7584d896d9a46d347a0fb6c222"
+    },
+    {
+      "file": "logo-pantasy-plotno.png",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "płótno PANTASY skopiowane z pilota pantasy-bawarska-tawerna (znak wycięty z pudełka, wyciąg MHTML B0H2HRQ58T), 1200x300 na bieli",
+      "width": 1200,
+      "height": 300,
+      "bytes": 74741,
+      "sha256": "adc71cc48aca7cbf494e7d925b4eebf8f7cfdef999c01e10269e406f105633dd",
+      "inkRatio": 0.217
+    }
+  ]
+}
