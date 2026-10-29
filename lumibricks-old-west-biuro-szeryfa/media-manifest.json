@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T20:05:34.808532Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0H3Q3CMCZ",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0H3Q3CMCZ), strona nie pobierana",
+  "slug": "lumibricks-old-west-biuro-szeryfa",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81VzPolvoHL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3Q3CMCZ/obrazy/galeria-01.jpg",
+      "width": 1500,
+      "height": 1498,
+      "bytes": 273757,
+      "sha256": "5008f747e9cd2c733cd97feab1eec6de4163a6da0d81a26e8697c693170457c2"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71L+fdTrh9L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3Q3CMCZ/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 222123,
+      "sha256": "c58bd881e49e6b35c3f066c2a2bc8956a5e7aa0ac57849dcda567380e03f2920"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/7195bU9F2IL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3Q3CMCZ/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 232875,
+      "sha256": "944d0029d21068d0753ae23d35a74e9005e5b0b15a1d63cf9ab5e432ad2c9f78"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71-u4bU200L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3Q3CMCZ/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 192482,
+      "sha256": "efe2a1871f4e5a0b5348d7588ad2b081ea03329ddf9f5e76721d1410a4525d4b"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71D-qa3LnZL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3Q3CMCZ/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 190491,
+      "sha256": "052ada042d7cdcf14c9e2fed695f6093619f995e596bcd935ec2fde785d24f8a"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71y8rIsVV8L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3Q3CMCZ/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 240015,
+      "sha256": "ed3a59d23eb6b88ad65eadcd44bacb3987c0b2154bbcc2334dc0b155d383bd5d"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71KaI-0XsoL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0H3Q3CMCZ/obrazy/galeria-07.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 192345,
+      "sha256": "fc4a6f6ac7a2dcc39ec5e4f95c400d5f4bb164eb0c63affdc8b0b6dea85325d1"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia gotowego płótna z pilota: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka; logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}
