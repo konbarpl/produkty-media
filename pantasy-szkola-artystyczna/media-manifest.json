@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T21:00:32Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0GKL7Z87J",
+  "sourceNote": "wyciąg MHTML zrodla/B0GKL7Z87J (G84); A+ brak; Amazon sygnalizuje więcej zdjęć galerii niż 7 w zapisie; galeria SL1500 (galeria-01 1467x1410)",
+  "slug": "pantasy-szkola-artystyczna",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-pantasy-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceFile": "zrodla/B0GKL7Z87J/obrazy/galeria-01.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71nojkwPHqL._AC_SL1500_.jpg",
+      "width": 1467,
+      "height": 1410,
+      "bytes": 205534,
+      "sha256": "e39b70b0b3218da599811a7f8c75aff4625ec289759cda42c0be76c1930679c2"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceFile": "zrodla/B0GKL7Z87J/obrazy/galeria-02.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81qSkkKU63L._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 274414,
+      "sha256": "0b9eec08db072c8db5fa2972ae52ce482dfa896e00ba1a79a873df736fc01b25"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceFile": "zrodla/B0GKL7Z87J/obrazy/galeria-03.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71eC-HfAMuL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 237323,
+      "sha256": "f3bc9b5570652dbba981c497bbb0021b15d309ef114f6bc1a1001b617e08165b"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceFile": "zrodla/B0GKL7Z87J/obrazy/galeria-04.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/810l-RN54hL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 283327,
+      "sha256": "521744b02b505b77d3c18f3de7522ef0302bf19be67236d410db06762544ee63"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceFile": "zrodla/B0GKL7Z87J/obrazy/galeria-05.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81mGGwa9JBL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 268227,
+      "sha256": "09089d19bf697ca312c2c2d6d1057922bebedfead7d55be323889020aae3a823"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceFile": "zrodla/B0GKL7Z87J/obrazy/galeria-06.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81G8xaqy8gL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 281296,
+      "sha256": "6dc15eb66a4c13c8a036723450ab2df0c29741fc4cc0adea4f7bc13185156de6"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceFile": "zrodla/B0GKL7Z87J/obrazy/galeria-07.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/812jPem+XEL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 283461,
+      "sha256": "f9b54a1341d6d5875ef44029b1b681932a417bda7980fa23854e79589743c2e4"
+    },
+    {
+      "file": "logo-pantasy-plotno.png",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia płótna z pilota produkty-media/pantasy-bawarska-tawerna/logo-pantasy-plotno.png (znak PANTASY z wycinka pudełka, 1200x300)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 74741,
+      "sha256": "adc71cc48aca7cbf494e7d925b4eebf8f7cfdef999c01e10269e406f105633dd",
+      "inkRatio": 0.217
+    }
+  ]
+}
