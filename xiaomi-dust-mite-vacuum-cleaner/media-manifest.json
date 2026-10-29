@@ -28,7 +28,7 @@
     "produkt-21.jpg",
     "produkt-22.jpg",
     "produkt-23.jpg",
-    "logo-xiaomi-plotno.png"
+    "logo-xiaomi-plotno-v2.jpg"
   ],
   "files": [
     {
@@ -262,14 +262,14 @@
       "sha256": "a3cf5523cfbaa5ed7298d4830669e2aa680c1380e3c68785ac8ff7b67070bd6c"
     },
     {
-      "file": "logo-xiaomi-plotno.png",
+      "file": "logo-xiaomi-plotno-v2.jpg",
       "kind": "logo",
       "order": 24,
-      "sourceUrl": "repo: xiaomi-mijia-vacuum-cleaner-4/logo-xiaomi-plotno.png",
+      "sourceUrl": "_logo/logo-xiaomi.png przez logo_plotno.py --napraw (biel zamiast przezroczystości, 29.10)",
       "width": 1200,
       "height": 300,
-      "bytes": 13156,
-      "sha256": "fb3b09a29d22ab6b2f55a3a86b323aee611c71aecd428cb8d6f7ef5784823b53",
+      "bytes": 13464,
+      "sha256": "11cc949d0808bcc05bd8ae1ea55e1d638cdb2c761462fbc41c56501942da0be0",
       "inkRatio": 0.3
     }
   ]
