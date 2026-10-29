@@ -20,7 +20,7 @@
     "produkt-13.jpg",
     "produkt-14.jpg",
     "produkt-15.jpg",
-    "logo-xiaomi-plotno.png"
+    "logo-xiaomi-plotno-v2.jpg"
   ],
   "files": [
     {
@@ -174,14 +174,14 @@
       "sha256": "94598183fb913e38f77dc76b2291f7db64a4e6e3b1c5e049e22311f0a1bd9c0d"
     },
     {
-      "file": "logo-xiaomi-plotno.png",
+      "file": "logo-xiaomi-plotno-v2.jpg",
       "kind": "logo",
       "order": 16,
-      "sourceUrl": "repo: xiaomi-vacuum-cleaner-g20-max/logo-xiaomi.png -> logo_plotno.py --napraw",
+      "sourceUrl": "_logo/logo-xiaomi.png przez logo_plotno.py --napraw (biel zamiast przezroczystości, 29.10)",
       "width": 1200,
       "height": 300,
-      "bytes": 13156,
-      "sha256": "fb3b09a29d22ab6b2f55a3a86b323aee611c71aecd428cb8d6f7ef5784823b53",
+      "bytes": 13464,
+      "sha256": "11cc949d0808bcc05bd8ae1ea55e1d638cdb2c761462fbc41c56501942da0be0",
       "inkRatio": 0.3
     }
   ]
