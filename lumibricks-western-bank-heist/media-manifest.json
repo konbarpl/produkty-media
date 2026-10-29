@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T20:40:16.330904Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0FNN1JYYV",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0FNN1JYYV), strona nie pobierana",
+  "slug": "lumibricks-western-bank-heist",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [
+    {
+      "file": "galeria-02.jpg",
+      "reason": "obok banku stoi dyliżans z koniem (Rock Ridge Express) — nie ma go w kompletacji (galeria-06) ani w tekście; inny zestaw marki — bramka tożsamości"
+    },
+    {
+      "file": "galeria-05.jpg",
+      "reason": "półka z kilkoma różnymi zestawami marki (pociąg, saloon, cyrk obok banku) — bramka tożsamości: zero innych produktów"
+    }
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/818t1ZHox4L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FNN1JYYV/obrazy/galeria-01.jpg",
+      "width": 1489,
+      "height": 1500,
+      "bytes": 283446,
+      "sha256": "aa757864e1e669466893f2dd8bc0aac7a58146547d150e9085e0eee376c4bac6"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81ayWMhgWkL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FNN1JYYV/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 257714,
+      "sha256": "34e9cf13b8d8a9856bd2af112ddce3eaeb78004c5b767b7b362c86afcc676e3e"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/811xvq2CqcL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FNN1JYYV/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 282511,
+      "sha256": "638b4781bfe1de237e3b984307b14c0a36e3d9e37fbd5d6f919f1948bf0cd4d0"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81HpvXpTL8L._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0FNN1JYYV/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 438450,
+      "sha256": "9766aab64060f810f68f1c7535c0c580407783ca1f62ae2b0d2da4c4806dccc9"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 5,
+      "sourceUrl": "kopia gotowego płótna z pilota: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka; logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}
