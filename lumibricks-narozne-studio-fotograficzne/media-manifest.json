@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T19:53:07.192931Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0GXBNVM9B",
+  "sourceNote": "wyciąg MHTML zapisanej strony Amazonu (zrodla/B0GXBNVM9B), strona nie pobierana",
+  "slug": "lumibricks-narozne-studio-fotograficzne",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-lumibricks-plotno.png"
+  ],
+  "excluded": [
+    {
+      "file": "galeria-07.jpg",
+      "reason": "grafika „Idealne dopasowanie do każdego zakątka miasta” — pokazuje ulicę z kilkoma innymi budynkami marki i hasło o kompatybilności z innymi markami; bramka tożsamości: zero innych produktów"
+    }
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71KYMSjZyfL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0GXBNVM9B/obrazy/galeria-01.jpg",
+      "width": 1494,
+      "height": 1500,
+      "bytes": 232409,
+      "sha256": "634853895b6310a6bbb886a247aefd2b8aa56b801a4e016b658d0cf8dfa929dd"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/712e2SMiwXL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0GXBNVM9B/obrazy/galeria-02.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 169789,
+      "sha256": "1852af3fc0a050bd34e9e054d0803a406b7b05bc03e0139b0bebaed599fa98ff"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81byvRDLaiL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0GXBNVM9B/obrazy/galeria-03.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 262601,
+      "sha256": "252c348e126db8f3e9109cdb31eb2e85b90441696bb256d4a024a45edd1aab4b"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81Zuv32iRbL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0GXBNVM9B/obrazy/galeria-04.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 255768,
+      "sha256": "e62b971b4392e712117e63131ed381f605ddf0926b9a7b78ca2132f37e2fffee"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/711rA-zS+JL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0GXBNVM9B/obrazy/galeria-05.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 239882,
+      "sha256": "6679b8bbd4e7406e2710f920caaa618bfb6cd0a9952750c1504c7ceda67d0d60"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81Ck0IrJgzL._AC_SL1500_.jpg",
+      "sourceLocal": "zrodla/B0GXBNVM9B/obrazy/galeria-06.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 294383,
+      "sha256": "3afb2f54184b523aaabfa85134adac193df01905f1e18e980a2d2e8bc8ff6c61"
+    },
+    {
+      "file": "logo-lumibricks-plotno.png",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "kopia gotowego płótna z pilota: produkty-media/lumibricks-book-cafe/logo-lumibricks-plotno.png (etykieta z frontu pudełka; logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 48950,
+      "sha256": "3370a78197f38b61cc3bdda217a43db106459e6c68dcfc0a6af61f3feb3b5117",
+      "inkRatio": 0.3
+    }
+  ]
+}
