@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-31T13:06:20.246Z",
+  "sourcePage": "https://www.mediaexpert.pl/dom-i-ogrod/maszyny-ogrodowe/odsniezarki-i-zamiatarki/zamiatarka-karcher-s-4-twin-go-further-1-766-363-0",
+  "slug": "karcher-s4-twin-go-further-1-766-363-0",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-karcher.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/90/9086340/KARCHER-S-4-Twin-Go-Further-1.766-363.0-nowa-glowna-akces.jpg",
+      "width": 1500,
+      "bytes": 127985,
+      "sha256": "430d77dbdaa8fa32dcd8fb1cba8f82dedb8604d965dfbcb0828b7b999d720e85"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://s1.kaercher-media.com/mam/17663630/mainproduct/e8dc99f8-8318-4567-9b1d-d6045fa89d4d/d0.jpg",
+      "width": 1600,
+      "bytes": 268169,
+      "sha256": "1f4cb134b1ebf061580f3c955d82167a53a833bb67b63a1a56bbf16db9befea2"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/90/9086340/KARCHER-S-4-Twin-Go-Further-1.766-363.0-nowe.jpg",
+      "width": 1500,
+      "bytes": 92500,
+      "sha256": "5a6f300da1108a6c274a8ee8d4b523c3d94aca48c2b8c911551a67dd389cdcf8"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/90/9086340/KARCHER-S-4-Twin-Go-Further-1.766-363.0-2.jpeg",
+      "width": 1500,
+      "bytes": 50581,
+      "sha256": "1045a642fdb1e667285678a79fd9a5dc3f1994c06221b924630ab6ad9df1fb88"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/90/9086340/KARCHER-S-4-Twin-Go-Further-1.766-363.0-3.jpg",
+      "width": 1500,
+      "bytes": 67337,
+      "sha256": "49c7e7ce6bb750437371e9d2c508592d46830f95dd13c0d082002b8af60e9c4e"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/90/9086340/KARCHER-S-4-Twin-Go-Further-1.766-363.0-4.jpeg",
+      "width": 1500,
+      "bytes": 114169,
+      "sha256": "7f99893d5199d95bb50cfe1a23f637fda131ad40a354ca492f2e235b4762da2a"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/90/9086340/KARCHER-S-4-Twin-Go-Further-1.766-363.0-5.jpg",
+      "width": 1500,
+      "bytes": 91400,
+      "sha256": "09af2d9b2b4faef2f74bc821d6c0c34c353a8838d3fa29091e829b172e6ef962"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/90/9086340/KARCHER-S-4-Twin-Go-Further-1.766-363.0-6.jpg",
+      "width": 1500,
+      "bytes": 187339,
+      "sha256": "871635069ecf71ef7d4d7fd5ed56eda98cf47d7faf4a8280da872adf17a3017b"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/90/9086340/KARCHER-S-4-Twin-Go-Further-1.766-363.0-7.jpg",
+      "width": 1500,
+      "bytes": 477322,
+      "sha256": "43d47c853c6e1b22d231dd9de1f90d317f8f2e84a6048c611182b0c66778dfb5"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/90/9086340/KARCHER-S-4-Twin-Go-Further-1.766-363.0-nowelive1.jpg",
+      "width": 1500,
+      "bytes": 412393,
+      "sha256": "31c5d65b2e8774bb1e8c82bb005fff2be307afef37dfdecdba2348e6b2df87a4"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1500_1500/thumbnails/images/90/9086340/KARCHER-S-4-Twin-Go-Further-1.766-363.0-nowelive2.jpg",
+      "width": 1500,
+      "bytes": 317577,
+      "sha256": "16de1f53599cabb6ba86ff15fc9f24632c91a589421e515aa30d6d6f3e8295b7"
+    },
+    {
+      "file": "logo-karcher.jpg",
+      "kind": "logo",
+      "order": 12,
+      "sourceUrl": "dropshipping/produkty listy/produkty-media/karcher-wd-5/logo-karcher.jpg (logo_plotno --napraw)",
+      "width": 1200,
+      "bytes": 15957,
+      "sha256": "4dc9394a5063e3fe417cd8870318771ee32e24bfd01601be8df40c5fd46c8327",
+      "height": 300,
+      "inkRatio": 0.299
+    }
+  ],
+  "dropped": 0
+}
