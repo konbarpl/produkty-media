@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-31T13:05:58.127376Z",
+  "sourcePage": "https://www.bosch-home.pl/pl/product/drobny-sprzet-kuchenny/air-fryer/airfryer-z-jednym-koszem/MAF671C0 (JSON-LD Product.image, mpn MAF671C0, kolor Dark cream)",
+  "slug": "air-fryer-bosch-serie-6-maf671c0",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/27442366_MAF671C0_STP_def.webp",
+      "width": 1909,
+      "height": 2000,
+      "bytes": 279426,
+      "sha256": "26ca1cf48237cf6276495c8de6a7891f37cbb419a05e5c74aff105b08f09bb9b"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/27614717_BO-AirFryer_Serie6_MAF671C0_Img2_Website_3200x1800px.webp",
+      "width": 2000,
+      "height": 1125,
+      "bytes": 353310,
+      "sha256": "47aee075f1818621a719c3825616b11af1de2cf5184e45925ba2f9a72ef2ea1c"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/27614715_BO-AirFryer_Serie6_MAF671C0_Img3_Website_3200x1800px.webp",
+      "width": 2000,
+      "height": 1125,
+      "bytes": 323855,
+      "sha256": "eb4e682fbb7f0cf280d4f547d58996b1b52ec7405e17c7cf1a221ad30908eab1"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/27614719_BO-AirFryer_Serie6_MAF671C0_PiU_Faster-01_Website_1920x1080px.webp",
+      "width": 2000,
+      "height": 1125,
+      "bytes": 314396,
+      "sha256": "c193d8b88664b00961c130449ccf9f0370b13d98733ece0ea2abc5ea12e7e06e"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/27614724_BSH-EN_BO_FP_U20_MAF671B0_EnhancedC_Topic01_Img-02_plain_1920x1080px.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 377820,
+      "sha256": "ee0735e71cf01a09ded706b7ff19719e3f87978408b86198e8cd0f81592aed32"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/27614730_BSH-EN_BO_FP_U20_MAF671B0_EnhancedC_Topic01_Img-04_plain_1920x1080px.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 318327,
+      "sha256": "f2f1481b93ad6d13d4c80c2767f2862babc6094f8e199a85ce66354f45fc8296"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/27614737_BSH-EN_BO_FP_U20_MAF671B0_EnhancedC_Topic03_Img-02_plain_1920x1080px.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 198050,
+      "sha256": "bdcd911d41d59d597155dafbf21da725abb2cdf146aa61a0dad0783af739311b"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/27614740_BSH-EN_BO_FP_U20_MAF671B0_EnhancedC_Topic03_Img-03_plain_1920x1080px.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 400928,
+      "sha256": "9b05e59e93f513bdfbc51e4f701ce7521effa53e0bd90bb6bdd7fb28cce9f202"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "repo: air-fryer-bosch-serie-6-maf671b1/logo-producenta.png -> logo_plotno.py --napraw (1200x300)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 23061,
+      "sha256": "4989ef93f793d75bf8ad1efe151180dce74f20a2bb69916df86f77150a88a166",
+      "inkRatio": 0.3
+    }
+  ],
+  "rejected": [
+    {
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/27614742_BSH-EN_BO_FP_U20_MAF671B0_EnhancedC_Topic03_Img-04_plain_1920x1080px.webp",
+      "reason": "w tle urzadzenie o nierozpoznawalnym kolorze (bramka tozsamosci wariantu C0)"
+    }
+  ]
+}
