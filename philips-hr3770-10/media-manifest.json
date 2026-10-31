@@ -1,0 +1,143 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-31T13:05:38.174Z",
+ "sourcePage": "https://www.philips.pl/c-p/HR3770_10/flip-juicetm-blender-high-speed-blender-with-juicer-module",
+ "slug": "philips-hr3770-10",
+ "galleryOrder": [
+  "produkt-01.jpg",
+  "produkt-02.jpg",
+  "produkt-03.jpg",
+  "produkt-04.jpg",
+  "produkt-05.jpg",
+  "opis-01.jpg",
+  "opis-02.jpg",
+  "opis-03.jpg",
+  "opis-04.jpg",
+  "opis-05.jpg",
+  "opis-06.jpg",
+  "opis-07.jpg",
+  "logo-philips-plotno.png"
+ ],
+ "files": [
+  {
+   "file": "produkt-01.jpg",
+   "kind": "product",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_f6a2eb25_481a_49fe_84022566bc9d7808?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 71834,
+   "sha256": "00293fccd019829c554e1b87eaf35652d9cff85a8d5a54adacb5bc5a6a64b2cb"
+  },
+  {
+   "file": "produkt-02.jpg",
+   "kind": "product",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_af43329c_3528_4fac_88d608284dc02ae8?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 89010,
+   "sha256": "087adf0486ab6b85b9835369ad6a28438232bfe9f9ef5b762568e03be18b7923"
+  },
+  {
+   "file": "produkt-03.jpg",
+   "kind": "product",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_08e2836a_47ff_4d4f_9b2299004f20543d?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 231613,
+   "sha256": "7353fa5ec8c2177f41e4c6e87af01889ba506543456adbb5e32f49b9a104ac01"
+  },
+  {
+   "file": "produkt-04.jpg",
+   "kind": "product",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_7bd91b78_1568_49b2_b6fe9990f026c17e?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 105814,
+   "sha256": "05173622fd3b2ef7404091e797705b53af509c1d47a8816fa0510e266fb2d751"
+  },
+  {
+   "file": "produkt-05.jpg",
+   "kind": "product",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_41516174_864b_4630_b3c8e1b4f5c4d8b9?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 87785,
+   "sha256": "7b98ba1ccbc17bf9443e805392786711044f414ad8759622faaf8aa0dfa27439"
+  },
+  {
+   "file": "opis-01.jpg",
+   "kind": "lifestyle",
+   "order": 1,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cfdddc41_d0ad_4d7c_9dd1d931fdcba8fc?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 106529,
+   "sha256": "a432dc9c23b7d3d336f47d0565f7a41904030137497d4bbc428bdb5c50a2aec3"
+  },
+  {
+   "file": "opis-02.jpg",
+   "kind": "lifestyle",
+   "order": 2,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_29865631_0b72_4db8_88df30b1baa1b871?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 93089,
+   "sha256": "55a4b01a548d0db8d095d7f130d831f2e0e7a82d15a2e24d67ba95f461baf78f"
+  },
+  {
+   "file": "opis-03.jpg",
+   "kind": "lifestyle",
+   "order": 3,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_cc12558c_9118_44fd_97dfcd7421dda5c5?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 73896,
+   "sha256": "368bb88b693fc4163a61c6414a4bc36955ff3c1ac1f1e47c60765c0c416dcba6"
+  },
+  {
+   "file": "opis-04.jpg",
+   "kind": "lifestyle",
+   "order": 4,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_83e20953_4ba1_4176_8a1706873a331527?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 88526,
+   "sha256": "c00dd51b1fef72457a443a28a38e28ee61249dffb304f28d4800ff0bb1ab9b80"
+  },
+  {
+   "file": "opis-05.jpg",
+   "kind": "lifestyle",
+   "order": 5,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_591db91a_ebc6_40bc_b961f92d731ecdb3?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 110629,
+   "sha256": "87e95a19e940297e65ae4eaf3eb19eaf33a8a9aa22230da22625abb3f648553b"
+  },
+  {
+   "file": "opis-06.jpg",
+   "kind": "lifestyle",
+   "order": 6,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_259d25cb_9966_46d9_a70b6b82c17889dd?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 134160,
+   "sha256": "5efd45ad6471322c9e8e39379a6dbd724adbbe3dfd06c8f3dbe997c52255e255"
+  },
+  {
+   "file": "opis-07.jpg",
+   "kind": "lifestyle",
+   "order": 7,
+   "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_70c8e688_594f_44bb_a23e4864682ae0f2?wid=1200&hei=1200&fmt=jpg&qlt=90",
+   "width": 1200,
+   "bytes": 109978,
+   "sha256": "33cb0ec63ea7ec5d918ee870cb9b12d15d53d7fa8b41ea1b14a426ddf2b7131c"
+  },
+  {
+   "file": "logo-philips-plotno.png",
+   "kind": "logo",
+   "sourceUrl": "kopia produkty-media/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png (twarde-dane: gotowy plik płótna)",
+   "width": 1200,
+   "height": 300,
+   "inkRatio": 0.3,
+   "bytes": 9114,
+   "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+   "order": 13
+  }
+ ],
+ "dropped": 0
+}
