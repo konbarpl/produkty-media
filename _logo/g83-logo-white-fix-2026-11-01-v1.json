@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-01",
+  "scope": "G83 logo8: poprawne logo na białymtle1200x300; oryginały bez zmian",
+  "assets": [
+    {
+      "id": "tefal-clean-it-hot-cold-iz7021",
+      "brand": "Tefal",
+      "filename": "logo-tefal-g83-biale-v2.png",
+      "local": "C:\\Users\\konra\\Documents\\claude code\\claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\logo-tefal-g83-biale-v2.png",
+      "remote": "tefal-clean-it-hot-cold-iz7021/logo-tefal-g83-biale-v2.png",
+      "raw": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/tefal-clean-it-hot-cold-iz7021/logo-tefal-g83-biale-v2.png",
+      "bytes": 7014,
+      "sha256": "758cc6c2671d0668c21c274a479296b23c98ebf249bc7c4da43fbe5dbfc7fd66"
+    },
+    {
+      "id": "philips-7000-powercyclone-8-fc9747-09",
+      "brand": "Philips",
+      "filename": "logo-philips-g83-biale-v2.png",
+      "local": "C:\\Users\\konra\\Documents\\claude code\\claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\logo-philips-g83-biale-v2.png",
+      "remote": "philips-7000-powercyclone-8-fc9747-09/logo-philips-g83-biale-v2.png",
+      "raw": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-7000-powercyclone-8-fc9747-09/logo-philips-g83-biale-v2.png",
+      "bytes": 8204,
+      "sha256": "472984ce9256f4eb0cab8124cf26e91c4335290695df151783487bfe98daefcc"
+    },
+    {
+      "id": "philips-2000-xc2011-01",
+      "brand": "Philips",
+      "filename": "logo-philips-g83-biale-v2.png",
+      "local": "C:\\Users\\konra\\Documents\\claude code\\claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\logo-philips-g83-biale-v2.png",
+      "remote": "philips-2000-xc2011-01/logo-philips-g83-biale-v2.png",
+      "raw": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-2000-xc2011-01/logo-philips-g83-biale-v2.png",
+      "bytes": 8204,
+      "sha256": "472984ce9256f4eb0cab8124cf26e91c4335290695df151783487bfe98daefcc"
+    },
+    {
+      "id": "philips-powerpro-expert-fc9744-09",
+      "brand": "Philips",
+      "filename": "logo-philips-g83-biale-v2.png",
+      "local": "C:\\Users\\konra\\Documents\\claude code\\claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\logo-philips-g83-biale-v2.png",
+      "remote": "philips-powerpro-expert-fc9744-09/logo-philips-g83-biale-v2.png",
+      "raw": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-powerpro-expert-fc9744-09/logo-philips-g83-biale-v2.png",
+      "bytes": 8204,
+      "sha256": "472984ce9256f4eb0cab8124cf26e91c4335290695df151783487bfe98daefcc"
+    },
+    {
+      "id": "philips-2000-xb2125-09",
+      "brand": "Philips",
+      "filename": "logo-philips-g83-biale-v2.png",
+      "local": "C:\\Users\\konra\\Documents\\claude code\\claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\logo-philips-g83-biale-v2.png",
+      "remote": "philips-2000-xb2125-09/logo-philips-g83-biale-v2.png",
+      "raw": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-2000-xb2125-09/logo-philips-g83-biale-v2.png",
+      "bytes": 8204,
+      "sha256": "472984ce9256f4eb0cab8124cf26e91c4335290695df151783487bfe98daefcc"
+    },
+    {
+      "id": "philips-2000-xb2140-09",
+      "brand": "Philips",
+      "filename": "logo-philips-g83-biale-v2.png",
+      "local": "C:\\Users\\konra\\Documents\\claude code\\claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\logo-philips-g83-biale-v2.png",
+      "remote": "philips-2000-xb2140-09/logo-philips-g83-biale-v2.png",
+      "raw": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-2000-xb2140-09/logo-philips-g83-biale-v2.png",
+      "bytes": 8204,
+      "sha256": "472984ce9256f4eb0cab8124cf26e91c4335290695df151783487bfe98daefcc"
+    },
+    {
+      "id": "philips-8000-aqua-plus-xc8055-01",
+      "brand": "Philips",
+      "filename": "logo-philips-g83-biale-v2.png",
+      "local": "C:\\Users\\konra\\Documents\\claude code\\claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\logo-philips-g83-biale-v2.png",
+      "remote": "philips-8000-aqua-plus-xc8055-01/logo-philips-g83-biale-v2.png",
+      "raw": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-8000-aqua-plus-xc8055-01/logo-philips-g83-biale-v2.png",
+      "bytes": 8204,
+      "sha256": "472984ce9256f4eb0cab8124cf26e91c4335290695df151783487bfe98daefcc"
+    },
+    {
+      "id": "philips-aqua-7000-xc7053-01",
+      "brand": "Philips",
+      "filename": "logo-philips-g83-biale-v2.png",
+      "local": "C:\\Users\\konra\\Documents\\claude code\\claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\logo-philips-g83-biale-v2.png",
+      "remote": "philips-aqua-7000-xc7053-01/logo-philips-g83-biale-v2.png",
+      "raw": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-aqua-7000-xc7053-01/logo-philips-g83-biale-v2.png",
+      "bytes": 8204,
+      "sha256": "472984ce9256f4eb0cab8124cf26e91c4335290695df151783487bfe98daefcc"
+    }
+  ],
+  "offers": [
+    {
+      "id": "tefal-clean-it-hot-cold-iz7021",
+      "brand": "Tefal",
+      "oldLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/tefal-clean-it-hot-cold-iz7021/logo-tefal-plotno.jpg",
+      "newLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/tefal-clean-it-hot-cold-iz7021/logo-tefal-g83-biale-v2.png",
+      "replacements": 2
+    },
+    {
+      "id": "philips-7000-powercyclone-8-fc9747-09",
+      "brand": "Philips",
+      "oldLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png",
+      "newLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-7000-powercyclone-8-fc9747-09/logo-philips-g83-biale-v2.png",
+      "replacements": 2
+    },
+    {
+      "id": "philips-2000-xc2011-01",
+      "brand": "Philips",
+      "oldLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-2000-xc2011-01/logo-philips-plotno.png",
+      "newLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-2000-xc2011-01/logo-philips-g83-biale-v2.png",
+      "replacements": 2
+    },
+    {
+      "id": "philips-powerpro-expert-fc9744-09",
+      "brand": "Philips",
+      "oldLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-powerpro-expert-fc9744-09/logo-philips-plotno.png",
+      "newLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-powerpro-expert-fc9744-09/logo-philips-g83-biale-v2.png",
+      "replacements": 2
+    },
+    {
+      "id": "philips-2000-xb2125-09",
+      "brand": "Philips",
+      "oldLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-2000-xb2125-09/logo-philips-plotno.png",
+      "newLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-2000-xb2125-09/logo-philips-g83-biale-v2.png",
+      "replacements": 2
+    },
+    {
+      "id": "philips-2000-xb2140-09",
+      "brand": "Philips",
+      "oldLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-2000-xb2140-09/logo-philips-plotno.png",
+      "newLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-2000-xb2140-09/logo-philips-g83-biale-v2.png",
+      "replacements": 2
+    },
+    {
+      "id": "philips-8000-aqua-plus-xc8055-01",
+      "brand": "Philips",
+      "oldLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-8000-aqua-plus-xc8055-01/logo-philips-plotno.png",
+      "newLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-8000-aqua-plus-xc8055-01/logo-philips-g83-biale-v2.png",
+      "replacements": 2
+    },
+    {
+      "id": "philips-aqua-7000-xc7053-01",
+      "brand": "Philips",
+      "oldLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-aqua-7000-xc7053-01/logo-philips-plotno.png",
+      "newLogo": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-aqua-7000-xc7053-01/logo-philips-g83-biale-v2.png",
+      "replacements": 2
+    }
+  ],
+  "uniqueBitmaps": 2,
+  "modelCopies": 8
+}
