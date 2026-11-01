@@ -10,7 +10,7 @@
     "produkt-04.jpg",
     "produkt-05.jpg",
     "produkt-06.jpg",
-    "logo-tefal-plotno.jpg"
+    "logo-tefal-g83-biale-v2.png"
   ],
   "files": [
     {
@@ -77,7 +77,28 @@
       "width": 1200,
       "height": 300,
       "inkRatio": 0.3
+    },
+    {
+      "file": "logo-tefal-g83-biale-v2.png",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "C:\\Users\\konra\\Documents\\claude code\\claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\logo-tefal-g83-biale-v2.png",
+      "bytes": 7014,
+      "sha256": "758cc6c2671d0668c21c274a479296b23c98ebf249bc7c4da43fbe5dbfc7fd66",
+      "width": 1200,
+      "height": 300,
+      "background": "white",
+      "publicUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/tefal-clean-it-hot-cold-iz7021/logo-tefal-g83-biale-v2.png"
     }
   ],
-  "dropped": 0
+  "dropped": 0,
+  "logoReplacements": [
+    {
+      "date": "2026-11-01",
+      "old": "logo-tefal-plotno.jpg",
+      "new": "logo-tefal-g83-biale-v2.png",
+      "oldFilePreserved": true,
+      "sourceReceipt": "claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\mediafix_receipt_v1.json"
+    }
+  ]
 }
