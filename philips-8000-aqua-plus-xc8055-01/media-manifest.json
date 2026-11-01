@@ -12,7 +12,7 @@
     "produkt-06.webp",
     "produkt-07.webp",
     "produkt-08.webp",
-    "logo-philips-plotno.png"
+    "logo-philips-g83-biale-v2.png"
   ],
   "files": [
     {
@@ -97,9 +97,30 @@
       "width": 1200,
       "bytes": 9114,
       "order": 9
+    },
+    {
+      "file": "logo-philips-g83-biale-v2.png",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "C:\\Users\\konra\\Documents\\claude code\\claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\logo-philips-g83-biale-v2.png",
+      "bytes": 8204,
+      "sha256": "472984ce9256f4eb0cab8124cf26e91c4335290695df151783487bfe98daefcc",
+      "width": 1200,
+      "height": 300,
+      "background": "white",
+      "publicUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-8000-aqua-plus-xc8055-01/logo-philips-g83-biale-v2.png"
     }
   ],
   "dropped": 0,
   "ctn": "XC8055/01",
-  "identityNote": "Zdjecia wylacznie z PRX assets CTN XC8055_01; odrzucone: XC7057, 6000 Series, XC70XX, gwarancja, rendery z miedzianymi akcentami (szczegoly dobor_zdjec.json w _tmp G83)"
+  "identityNote": "Zdjecia wylacznie z PRX assets CTN XC8055_01; odrzucone: XC7057, 6000 Series, XC70XX, gwarancja, rendery z miedzianymi akcentami (szczegoly dobor_zdjec.json w _tmp G83)",
+  "logoReplacements": [
+    {
+      "date": "2026-11-01",
+      "old": "logo-philips-plotno.png",
+      "new": "logo-philips-g83-biale-v2.png",
+      "oldFilePreserved": true,
+      "sourceReceipt": "claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\mediafix_receipt_v1.json"
+    }
+  ]
 }
