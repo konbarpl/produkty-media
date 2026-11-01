@@ -17,7 +17,7 @@
     "opis-03.webp",
     "opis-04.webp",
     "opis-05.webp",
-    "logo-philips-plotno.png"
+    "logo-philips-g83-biale-v2.png"
   ],
   "files": [
     {
@@ -147,8 +147,29 @@
       "bytes": 9114,
       "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
       "inkRatio": 0.3
+    },
+    {
+      "file": "logo-philips-g83-biale-v2.png",
+      "kind": "logo",
+      "order": 14,
+      "sourceUrl": "C:\\Users\\konra\\Documents\\claude code\\claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\logo-philips-g83-biale-v2.png",
+      "bytes": 8204,
+      "sha256": "472984ce9256f4eb0cab8124cf26e91c4335290695df151783487bfe98daefcc",
+      "width": 1200,
+      "height": 300,
+      "background": "white",
+      "publicUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-2000-xb2125-09/logo-philips-g83-biale-v2.png"
     }
   ],
   "dropped": 0,
-  "identityNote": "PRX XB2125_09 (philips.pl). Do galerii tylko zdjęcia z ciemnoniebieskim korpusem i żółtym cyklonem (CTN XB2125/09) oraz neutralne grafiki funkcji (850W, 99,9%, nasadka). Odrzucone FIL: PowerCyclone 4 render z różowym cyklonem, opróżnianie pojemnika z różowym cyklonem, ujęcie w szafce z różowym cyklonem (inne CTN serii), filtr Allergy (inny filtr niż SuperClean ze specyfikacji), duplikat pikselowy U1P."
+  "identityNote": "PRX XB2125_09 (philips.pl). Do galerii tylko zdjęcia z ciemnoniebieskim korpusem i żółtym cyklonem (CTN XB2125/09) oraz neutralne grafiki funkcji (850W, 99,9%, nasadka). Odrzucone FIL: PowerCyclone 4 render z różowym cyklonem, opróżnianie pojemnika z różowym cyklonem, ujęcie w szafce z różowym cyklonem (inne CTN serii), filtr Allergy (inny filtr niż SuperClean ze specyfikacji), duplikat pikselowy U1P.",
+  "logoReplacements": [
+    {
+      "date": "2026-11-01",
+      "old": "logo-philips-plotno.png",
+      "new": "logo-philips-g83-biale-v2.png",
+      "oldFilePreserved": true,
+      "sourceReceipt": "claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\mediafix_receipt_v1.json"
+    }
+  ]
 }
