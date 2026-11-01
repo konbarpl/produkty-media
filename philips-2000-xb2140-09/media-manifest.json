@@ -16,7 +16,7 @@
     "produkt-10.webp",
     "produkt-11.webp",
     "produkt-12.webp",
-    "logo-philips-plotno.png"
+    "logo-philips-g83-biale-v2.png"
   ],
   "files": [
     {
@@ -137,6 +137,18 @@
       "width": 1200,
       "bytes": 9114,
       "order": 13
+    },
+    {
+      "file": "logo-philips-g83-biale-v2.png",
+      "kind": "logo",
+      "order": 13,
+      "sourceUrl": "C:\\Users\\konra\\Documents\\claude code\\claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\logo-philips-g83-biale-v2.png",
+      "bytes": 8204,
+      "sha256": "472984ce9256f4eb0cab8124cf26e91c4335290695df151783487bfe98daefcc",
+      "width": 1200,
+      "height": 300,
+      "background": "white",
+      "publicUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-2000-xb2140-09/logo-philips-g83-biale-v2.png"
     }
   ],
   "dropped": 0,
@@ -148,6 +160,15 @@
     },
     {
       "reason": "duplikaty i prawie-duplikaty zdjec D2P/D6P/U1P/U2P z .features"
+    }
+  ],
+  "logoReplacements": [
+    {
+      "date": "2026-11-01",
+      "old": "logo-philips-plotno.png",
+      "new": "logo-philips-g83-biale-v2.png",
+      "oldFilePreserved": true,
+      "sourceReceipt": "claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\mediafix_receipt_v1.json"
     }
   ]
 }
