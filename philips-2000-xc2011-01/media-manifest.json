@@ -13,7 +13,7 @@
     "produkt-07.webp",
     "produkt-08.webp",
     "produkt-10.webp",
-    "logo-philips-plotno.png"
+    "logo-philips-g83-biale-v2.png"
   ],
   "files": [
     {
@@ -107,6 +107,18 @@
       "width": 1200,
       "bytes": 9114,
       "order": 10
+    },
+    {
+      "file": "logo-philips-g83-biale-v2.png",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "C:\\Users\\konra\\Documents\\claude code\\claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\logo-philips-g83-biale-v2.png",
+      "bytes": 8204,
+      "sha256": "472984ce9256f4eb0cab8124cf26e91c4335290695df151783487bfe98daefcc",
+      "width": 1200,
+      "height": 300,
+      "background": "white",
+      "publicUrl": "https://raw.githubusercontent.com/konbarpl/produkty-media/main/philips-2000-xc2011-01/logo-philips-g83-biale-v2.png"
     }
   ],
   "dropped": [
@@ -116,5 +128,14 @@
       "reason": "PRX FIL 'FIM XC2000_Power_Cyclone_03_16x9' — render ciemnego korpusu innego modelu serii, kolor niezgodny z XC2011/01 (bramka tozsamosci)"
     }
   ],
-  "ctn": "XC2011/01"
+  "ctn": "XC2011/01",
+  "logoReplacements": [
+    {
+      "date": "2026-11-01",
+      "old": "logo-philips-plotno.png",
+      "new": "logo-philips-g83-biale-v2.png",
+      "oldFilePreserved": true,
+      "sourceReceipt": "claude\\erli-research\\_tmp\\g83-logo-fix-2026-11-01\\mediafix_receipt_v1.json"
+    }
+  ]
 }
