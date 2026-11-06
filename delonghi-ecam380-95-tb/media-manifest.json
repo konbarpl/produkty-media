@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-06T18:48:14.758Z",
+  "sourcePage": "https://www.delonghi.com/pl-pl/p/x/ECAM380.95.TB.html (__PRELOADED_STATE__, dam.delonghi.com 902x902)",
+  "slug": "delonghi-ecam380-95-tb",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-delonghi-male.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/267447",
+      "opis": "packshot na bialym tle, kolor tytanowo-czarny",
+      "width": 902,
+      "height": 902,
+      "bytes": 29349,
+      "sha256": "ecdc11d2ff164d05ba8df9a6e13510748bffba7cb2f8232e1aaf8455ebc2f02a"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/274277",
+      "opis": "ekspres w kuchni, drugie duze zdjecie karty",
+      "width": 902,
+      "height": 902,
+      "bytes": 45751,
+      "sha256": "20896af483a29e6a046988913ae48ad5b23cb85be760de3afb457e2c03a2a007"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/267450",
+      "opis": "ekran dotykowy, profil",
+      "width": 902,
+      "height": 902,
+      "bytes": 68286,
+      "sha256": "f606a530c09eb8a28d5f2c1653b44bb1f3557e914775ecf95097fac341aea89a"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/274279",
+      "opis": "LatteCrema Hot, karafka nad szklanka",
+      "width": 902,
+      "height": 902,
+      "bytes": 51832,
+      "sha256": "95207c917b7743b6731fdee33d038efa7e0799b972a7506db02b4a72b89567a1"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/274278",
+      "opis": "dozownik i pianka w szklance, zblizenie",
+      "width": 902,
+      "height": 902,
+      "bytes": 39376,
+      "sha256": "770e8d1a77c94f40a3fea5ac108d26b2ce151045675ab63e6e1a144feae046bb"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/267454",
+      "opis": "pojemnik na ziarna i pokretlo mielenia",
+      "width": 902,
+      "height": 902,
+      "bytes": 45635,
+      "sha256": "33556865b1b1f830d66f3a03e73ab2ac759e35df56047aa13cf4a052cc73487b"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://dam.delonghi.com/902x902/assets/274275",
+      "opis": "napoje na stole, bez urzadzenia",
+      "width": 902,
+      "height": 902,
+      "bytes": 56018,
+      "sha256": "c99e1c463eead492b9ef7620dc7effa2bbbfcfd72233308363d911a9358459f2"
+    },
+    {
+      "file": "logo-delonghi-male.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "dropshipping/materiały/logo/de longhi logo.jpg (płótno logo_plotno.py 23.10.2026, kopia z delonghi-ecam22-112-b)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 23588,
+      "sha256": "f5d924f6f24b10e4b40d2d3948566dff7d98f56219efa477c7f20c16d620311a",
+      "inkRatio": 0.301
+    }
+  ]
+}
