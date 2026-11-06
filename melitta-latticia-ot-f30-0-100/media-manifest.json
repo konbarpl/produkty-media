@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-06T12:53:31.345Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/ekspresy-i-kawa/ekspresy-cisnieniowe/ekspres-melitta-latticia-ot-f30-0-100-czarny (galeria ME, id 3598489, gallery_1000_1000)",
+  "slug": "melitta-latticia-ot-f30-0-100",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "logo-melitta-plotno.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/35/3598489/Ekspres-MELITTA-Latticia-OT-F30-0-100-Czarny-front2.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 66358,
+      "sha256": "0d46d39881c7946bbc78472ca3a221a955b5033bc19ee24d29584168ba9a2334"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/35/3598489/Ekspres-MELITTA-Latticia-OT-F30-0-100-Czarny-front.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 82364,
+      "sha256": "0ca34db8da3441e72805863d4217cabd236ee7a48f51cacba95bd26491e684ba"
+    },
+    {
+      "file": "logo-melitta-plotno.jpg",
+      "kind": "logo",
+      "order": 3,
+      "sourceUrl": "dropshipping/materiały/logo/MELITTA LOGO.jpg (plotno logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 19608,
+      "sha256": "14cf41c9e768fd927d2f9bbf296caada65a6bbc0c41331456a65054ba0cdb3e2",
+      "inkRatio": 0.301
+    }
+  ],
+  "rejected": [
+    {
+      "file": "Ekspres-MELITTA-Latticia-OT-F30-0-100-Czarny-1-nowy.jpg",
+      "reason": "plakietka sklepu 'TYLKO 20CM SZEROKOŚCI' na zdjeciu; ten sam kadr co produkt-02"
+    }
+  ]
+}
