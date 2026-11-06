@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-06T12:52:44.711354+00:00",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/ekspresy-i-kawa/ekspresy-cisnieniowe/ekspres-melitta-caffeo-solo-czarno-srebrny",
+  "slug": "melitta-solo-e950-203",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-melitta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/76/762036/Ekspres-MELITTA-Solo-E950-103-EU-front-wer2.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 77226,
+      "sha256": "163b40063493f52edd282af9caf5d29ffa41b0ed442a4911c01312191e86c622",
+      "desc": "front-wer2"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/76/762036/Ekspres-MELITTA-Solo-E950-103-EU-front.jpg",
+      "width": 939,
+      "height": 1506,
+      "bytes": 154423,
+      "sha256": "b11b23ba2ffdbfa7b066d2e95a78ef56ee71c01bf13ea4adc93e19408ccd2533",
+      "desc": "front"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/76/762036/Ekspres-MELITTA-Solo-E950-103-EU-wsypywanie-kawy.jpg",
+      "width": 1279,
+      "height": 1480,
+      "bytes": 125593,
+      "sha256": "b2e613cb1182d83abd7aad1cb4cfc2824fc87f6dafae68680c702c80a56fa54e",
+      "desc": "wsypywanie-kawy"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/76/762036/Ekspres-MELITTA-Solo-E950-103-EU-regulacja-wysokosci-wylewki.jpg",
+      "width": 1494,
+      "height": 1453,
+      "bytes": 261505,
+      "sha256": "044e6dc89d76635fdeb8a1e3a89c1cef20ac084150d76fbdb67a25baf007a937",
+      "desc": "regulacja-wysokosci-wylewki"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/76/762036/Ekspres-MELITTA-Solo-E950-103-EU-wyjmowany-filtr-wody.jpg",
+      "width": 1475,
+      "height": 1425,
+      "bytes": 127124,
+      "sha256": "424786eff5d66014197eff531bd92aec83c7cd60b2446468d0212efb92475c8f",
+      "desc": "wyjmowany-filtr-wody"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/76/762036/Ekspres-MELITTA-Solo-E950-103-EU-wysunieta-taca-ociekowa.jpg",
+      "width": 1500,
+      "height": 1429,
+      "bytes": 143469,
+      "sha256": "15d774ffff388cff40d91366f79efa8f477cf67b14588e184e0c04589b1da99a",
+      "desc": "wysunieta-taca-ociekowa"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/76/762036/Ekspres-MELITTA-Solo-E950-103-EU-wyjmowany-blok-zaparzajacy.jpg",
+      "width": 1500,
+      "height": 1400,
+      "bytes": 170840,
+      "sha256": "84ac2c0c3c78fe48ef3e83b6c672965d3c1ab8aee26ccd87e5c37a4f93fbdfc2",
+      "desc": "wyjmowany-blok-zaparzajacy"
+    },
+    {
+      "file": "logo-melitta.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "dropshipping/materiały/logo/MELITTA LOGO.jpg (logo od Konrada: lewy znak-napis, plotno logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 22134,
+      "sha256": "10e023863627f16fbe29b7e4d5202a44d59ad0fbc7b73fc5a39c3fe0bd5f28c8",
+      "desc": "logo marki",
+      "inkRatio": 0.299
+    }
+  ],
+  "odrzucone": {
+    "front-nowy-1": "plakietka sklepu \"TYLKO 20CM SZEROKOSCI\" na zdjeciu"
+  }
+}
