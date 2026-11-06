@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-06T12:53:21.590Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/ekspresy-i-kawa/ekspresy-cisnieniowe/ekspres-melitta-latticia-ot-f300-101-srebrny (galeria ME, id 4175588, gallery_1000_1000)",
+  "slug": "melitta-latticia-ot-f300-101",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "logo-melitta-plotno.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/41/4175588/Ekspres-MELITTA-Latticia-OT-F300-101-Srebrny-front.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 62317,
+      "sha256": "8d04c10c87fcee3a7b10e4215df988056b019571c3ef110c8ac19453f575163c"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/41/4175588/Ekspres-MELITTA-Latticia-OT-F300-101-Srebrny-front-kawa.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 77121,
+      "sha256": "4c9b60c0b2e96746743dd4d7f62378871c9b051bfcafdf429d5410808cc07dd5"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/41/4175588/Ekspres-MELITTA-Latticia-OT-F300-101-Srebrny-skos-prawy-2.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 72220,
+      "sha256": "bcfec608f4c6705a9de983163a2e359186cd7bc5d5f70f3a4772c13d84a08906"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/41/4175588/Ekspres-MELITTA-Latticia-OT-F300-101-Srebrny-skos-lewy.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 71571,
+      "sha256": "3c88320b77ec23db33ea985c202100dc204174a6a8f622d64dadb361204fb4e3"
+    },
+    {
+      "file": "logo-melitta-plotno.jpg",
+      "kind": "logo",
+      "order": 5,
+      "sourceUrl": "dropshipping/materiały/logo/MELITTA LOGO.jpg (plotno logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 19608,
+      "sha256": "14cf41c9e768fd927d2f9bbf296caada65a6bbc0c41331456a65054ba0cdb3e2",
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": 0,
+  "rejected": {
+    "k01 front-nowy": "zolta plakietka sklepu 'TYLKO 20CM SZEROKOŚCI'; ten sam kadr co k02"
+  },
+  "kolejnosc": "produkt-01=k03 front bez napojow, 02=k02 front z dwoma szklankami, 03=k04 skos prawy, 04=k05 skos lewy, 05=logo"
+}
