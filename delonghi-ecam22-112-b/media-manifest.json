@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-06T12:50:24.631Z",
+  "sourcePage": "https://www.mediaexpert.pl/agd-male/ekspresy-i-kawa/ekspresy-cisnieniowe/ekspres-de-longhi-ecam-22-112-b (galeria ME, id 3132216, gallery_1000_1000)",
+  "slug": "delonghi-ecam22-112-b",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "logo-delonghi-male.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/31/3132216/Ekspres-DELONGHI-Magnifica-S-ECAM-22.112.B-front-wersja-2.jpg",
+      "width": 1000,
+      "bytes": 83943,
+      "sha256": "f9a33106582f62dc798b12b39d0ce9e4888b6b7c7d3bb8c58f4b6ee18368916d"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/31/3132216/Ekspres-DELONGHI-Magnifica-S-ECAM-22.112.B-skos-wersja-2.jpg",
+      "width": 1000,
+      "bytes": 90119,
+      "sha256": "0d158165b6bf0c0fd145783371cff200e7a6228a55d906170c9bd42d67a5ed99"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/31/3132216/Ekspres-DELONGHI-Magnifica-S-ECAM-22.112.B-skos-2-wersja-2.jpg",
+      "width": 1000,
+      "bytes": 69420,
+      "sha256": "b212adcce4eca3b45110d6625a3f785e4826c04740f451b01f7560297a7fffa6"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/31/3132216/Ekspres-DELONGHI-Magnifica-S-ECAM-22.112.B-sterowanie.jpg",
+      "width": 1000,
+      "bytes": 86995,
+      "sha256": "84538e570117ac42e24bd0401f68ac643e05c8761ba0eb3bc4e3a413b6efd616"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/31/3132216/Ekspres-DELONGHI-Magnifica-S-ECAM-22.112.B-dwa-dozowniki-wersja-2.jpg",
+      "width": 1000,
+      "bytes": 118176,
+      "sha256": "1c2fc3c853a89df7ee5725dabbccf4112864004e8954f247c31a94fa56d522cd"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/31/3132216/Ekspres-DELONGHI-Magnifica-S-ECAM-22.112.B-spieniacz-wersja-2.jpg",
+      "width": 1000,
+      "bytes": 86590,
+      "sha256": "4840f07e1ce71ce3cc9c7a8b041933c262e69ce9140319e4b03c214cee09b28a"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/31/3132216/Ekspres-DELONGHI-Magnifica-S-ECAM-22.112.B-pojemnik-na-kawe-wersja-2.jpg",
+      "width": 1000,
+      "bytes": 119290,
+      "sha256": "a90f56d197852d61202c604f9c0eb4f4fe9db72ef09b654b6667033a7f611938"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/31/3132216/Ekspres-DELONGHI-Magnifica-S-ECAM-22.112.B-jednostka-zaparzajaca-wersja-2.jpg",
+      "width": 1000,
+      "bytes": 104778,
+      "sha256": "cf944186099520aea78e73a54ffe43a7628d10ca33edbeefa6ac7051df6dde90"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/31/3132216/Ekspres-DELONGHI-Magnifica-S-ECAM-22.112.B-lifestyle-1-wersja-2.jpg",
+      "width": 1000,
+      "bytes": 95409,
+      "sha256": "5ba161b70a0bc44782c217d240a05f8ec88258a574865ad406c90210da1da2d2"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://prod-api.mediaexpert.pl/api/images/gallery_1000_1000/thumbnails/images/31/3132216/Ekspres-DELONGHI-Magnifica-S-ECAM-22.112.B-lifestyle-wersja-2.jpg",
+      "width": 1000,
+      "bytes": 87057,
+      "sha256": "c503bf1f8a856d36a437b3e7e3d110d3b6d94fda4b35090ced54292633ad7a21"
+    },
+    {
+      "file": "logo-delonghi-male.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "dropshipping/materiały/logo/de longhi logo.jpg (płótno logo_plotno.py 23.10.2026, kopia z delonghi-exam440-55b)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 23588,
+      "sha256": "f5d924f6f24b10e4b40d2d3948566dff7d98f56219efa477c7f20c16d620311a",
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": 0
+}
