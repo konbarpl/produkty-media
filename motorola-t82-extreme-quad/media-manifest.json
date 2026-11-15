@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-15T10:19:44.753712Z",
+  "sourcePage": "https://www.morele.net/krotkofalowka-motorola-tlkr-t82-extreme-quad-979655/ (wariant 4-pack, id 979655)",
+  "slug": "motorola-t82-extreme-quad",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "logo-motorola.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.morele.net/full/979655_12_f.jpg",
+      "width": 809,
+      "height": 578,
+      "bytes": 103431,
+      "sha256": "fb3172f600a9378ce5250775931eef81339ef42729f02b31ba31f351dd52276b",
+      "identity": "4 radiotelefony T82 Extreme (czarno-żółte)"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.morele.net/full/979655_7_f.jpg",
+      "width": 642,
+      "height": 624,
+      "bytes": 104029,
+      "sha256": "73b3149b03312f422e6e769a10879f5059dfa165b297c2b37f2d0fb0523858f9",
+      "identity": "pudełko T82 EXTREME QUAD"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.morele.net/full/979655_11_f.jpg",
+      "width": 625,
+      "height": 473,
+      "bytes": 50789,
+      "sha256": "03c4bef9da1a3c94567bfa621e41eb0fed1425fb5ce4410ecaae29b73a127e83",
+      "identity": "4 radiotelefony + torba"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.morele.net/full/979655_6_f.jpg",
+      "width": 1090,
+      "height": 624,
+      "bytes": 134558,
+      "sha256": "f7340b11d39c674e2ca0334de66ad21464bdb30436e68f898de62448cab76805",
+      "identity": "futerał z 4 radiotelefonami"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.morele.net/description/99/99a3541955a6b06e1c0243f4c8bedeef.jpeg",
+      "width": 496,
+      "height": 360,
+      "bytes": 37271,
+      "sha256": "e45d66c4aa2c7dd7f5c0bec90e81cd3c5aeb9746b9d2a3b238510015d995b63c",
+      "identity": "zawartość zestawu: 4 radia, futerał, akumulatory, słuchawki, ładowarki"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://images.morele.net/description/38/38462ad1c146c11242c07ed2f9f29d32.jpeg",
+      "width": 1800,
+      "height": 1285,
+      "bytes": 264455,
+      "sha256": "7b36d57ba1ac9774fc7f97b40dbc21a0582b26878167dc88c64b9b93eba9e7c7",
+      "identity": "lifestyle: rowerzystka z żółtym radiotelefonem T82 Extreme"
+    },
+    {
+      "file": "logo-motorola.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "dropshipping/materiały/logo/motorola logo.jpg (logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 15297,
+      "sha256": "a87aac92c453991c7ec02ff407cda7df5ba958023bffcd6ef9255f2c32874926",
+      "inkRatio": 0.3
+    }
+  ],
+  "rejected": {
+    "m2,m4": "lifestyle bez produktu",
+    "m5,m9,m10": "za małe (≤258 px)",
+    "d522db2,de7e646,d56a2cd": "pomarańczowe T82 / inny wariant — tożsamość niepewna",
+    "dc19c4a": "zestawienie innych modeli Talkabout"
+  }
+}
