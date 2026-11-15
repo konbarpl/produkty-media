@@ -1,0 +1,223 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-15T10:22:12.552Z",
+  "sourcePage": "https://www.panasonic.com/pl/consumer/male-agd/air-fryers/nf-cc600.html",
+  "slug": "panasonic-nf-cc600axe",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.jpg",
+    "produkt-03.webp",
+    "produkt-04.jpg",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "opis-01.webp",
+    "opis-02.webp",
+    "opis-03.webp",
+    "opis-04.webp",
+    "opis-05.webp",
+    "opis-06.webp",
+    "opis-07.webp",
+    "opis-08.webp",
+    "opis-09.webp",
+    "opis-10.webp",
+    "logo-panasonic-plotno.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/01_NF-CC600_Front%20with%20top%20EU-2?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 56100,
+      "sha256": "fec6725e2ece84668bcd4e833b6947d1235a8560c754d242d7a50ed2d7466f9e"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/02_NF-CC600_Front%20with%20top%20EU-2?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 82264,
+      "sha256": "ccd30224ecbb2d05ae58166abeb357314d3125a856b1fa9d23aa0f61accaafe5"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/03_NF-CC600_Open_Top_EU-2?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 63338,
+      "sha256": "1178b1160bf033a4961f062c6daa7dbcc59caa9fe55f0443036ea6682ee0a259"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/04_NF-CC600_Open%20EU-2?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 137641,
+      "sha256": "b8854a78ada15348be0c19eaf976a96c87cb77bda2944188e2aed602587238dc"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/05_NF-CC600_Detail_Display_EU-2?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 89480,
+      "sha256": "568e08ecef0b4408b49057034c00c6e97a443d54faed40e806fb3f2cf0f3bd0e"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/06_NF-CC600_Slant%20EU-2?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 64700,
+      "sha256": "b9a998c999fa751e131a0cdb03e25a88d76f96530f37c6d995147ba47a46ef9f"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/07_NF-CC600_side%20view-2?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 64815,
+      "sha256": "43b9cc02d0383f5bbc56dcafc61ab3775fd10ae423793684d181fe337c1dd884"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/08_NF-CC600_Basket-2?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 157828,
+      "sha256": "41dd054c762016048520b6b3a6a894d3b901205f0190d8d2a123b3ad7e585f0f"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/09_NF-CC600_ceramic-coated%20plate-2?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 433704,
+      "sha256": "9de7f75415139990266506d06fe726a34490e4ba11cf6783142ef2a74d050fab"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/10_NF-CC600_water%20tank-2?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 81560,
+      "sha256": "f1807b681c99303ca43c707d1187e930f79d50ac6395e1d96d49418f4ccdada7"
+    },
+    {
+      "file": "opis-01.webp",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/ast-2272979-15?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 27302,
+      "sha256": "de8372f9b9107be73fb07086591acd4f0d2574df3db29f22aa8050f23665abdd"
+    },
+    {
+      "file": "opis-02.webp",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/ast-2325562-15?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 162716,
+      "sha256": "157375fa8b512be45b468c0d0134c6110b06183f6b1c1396c72c031bd9b1455c"
+    },
+    {
+      "file": "opis-03.webp",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/ast-2325563-15?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 453662,
+      "sha256": "41d33f40720c6d98325b46762752a14fba93353c321d1f05be585a56214ea591"
+    },
+    {
+      "file": "opis-04.webp",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/ast-2325564-15?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 185252,
+      "sha256": "3622d4b464eaefac44e30603b604624da6980f95b222b06ee7621aca55474ebc"
+    },
+    {
+      "file": "opis-05.webp",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/ast-2325565-15?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 57072,
+      "sha256": "519d9326727b9d48e8c9bcfe5fdd45c4d0875d1233357cc2fa8b5dda33723e09"
+    },
+    {
+      "file": "opis-06.webp",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/ast-2325566-15?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 270356,
+      "sha256": "69b4cb0e0026f87533a572e514b15c7ef837dd37a4954ff51ca8b90289e86130"
+    },
+    {
+      "file": "opis-07.webp",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/ast-2325568-15?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 187750,
+      "sha256": "c7936db5bb0b2e68a287766f7bc42e5d25cefcf5af1728ac114ec556cf19d32b"
+    },
+    {
+      "file": "opis-08.webp",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/ast-2325570-15?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 217294,
+      "sha256": "f3aa7db621be4bcd9419cab94c3515c5f72c7b6b06476644965d61de0ea1a4d4"
+    },
+    {
+      "file": "opis-09.webp",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/ast-2325571-15?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 191656,
+      "sha256": "cb9d1b249fe711056864fb4c493261a4db4a5dc4677f7bee5dbd863df6be5216"
+    },
+    {
+      "file": "opis-10.webp",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://panasonic.scene7.com/is/image/Panasonic/ast-2325605-15?wid=1600&fmt=jpg&qlt=90",
+      "width": 1600,
+      "bytes": 103268,
+      "sha256": "dcce78794f47af6d6775dde045e2bf135c590bdc28b47f1c561a73a7a4637c8c"
+    },
+    {
+      "file": "logo-panasonic-plotno.jpg",
+      "kind": "logo",
+      "order": 21,
+      "sourceUrl": "dropshipping/materiały/logo/Panasonic_logo.png (logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 15205,
+      "sha256": "4bbbeea0b237c77c4163d30b10fbc58a8b501d89741fef59395edabb6bdf71ed",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 0
+}
