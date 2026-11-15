@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-15T10:21:43.126Z",
+  "sourcePage": "https://www.philips.pl/prx/product/B2C/pl_PL/CONSUMER/products/SM6580_20.assets (PRX, zapas wg zlecenia; karta euro.com.pl blokuje CDN dla curl)",
+  "slug": "saeco-granaroma-sm6580-20",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-saeco.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_902acd04_81ef_4078_9a4e3a0bc62786c4?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 135738,
+      "sha256": "eda47c5e21bc8842fca47734b40bbb1d4894389d30529f078037d95764ef173f"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_ec39cf9b_9ebc_45a0_bed8bbc713e66886?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 130097,
+      "sha256": "ea65d297e4305d53adf8fb554bad2d24edba208f99592f505dfed7235366c92b"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_b4c940e0_2c87_4b61_a6d082af279a67c8?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 138486,
+      "sha256": "548af89f9907ee92041a15863b3c9c9b84364dae913ba2e36b28be71f4e287e0"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_94cbd160_c9f1_497e_baa44973474cd673?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 99628,
+      "sha256": "c7f693460de15df8d0157f8494d60b37ba375872f21753650e906b398057bba5"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/vrs_132a2bde_c993_4173_99a150b7ad42bab3?wid=1200&hei=1200",
+      "width": 1200,
+      "bytes": 108504,
+      "sha256": "27292bc9885ea884e37cb45ee340eb6c7f859e52a79f3fa0f668c04fd3824202"
+    },
+    {
+      "file": "logo-saeco.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "https://images.philips.com/is/image/philipsconsumer/bbbac2e3bb3642d9b647ad0f00de1cf3 (PRX BRP SAE) -> logo_plotno.py --napraw",
+      "note": "logo marki Saeco, płótno 1200x300",
+      "bytes": 15316,
+      "sha256": "5cc9febf535a055c91cc4671d2031e3451cc087cd4a4b96cead86bc6d650b899",
+      "width": 1200,
+      "height": 300,
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": 0,
+  "rejected": [
+    {
+      "file": "produkt-06.jpg",
+      "sourceUrl": "(PRX SM6580_20)",
+      "reason": "inny wariant kolorystyczny (ciemny korpus) — nie kremowo-biały SM6580/20"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "sourceUrl": "(PRX SM6580_20)",
+      "reason": "inny wariant (czarny korpus) — nie SM6580/20"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "sourceUrl": "(PRX SM6580_20)",
+      "reason": "inny wariant (stalowy/srebrny) — nie SM6580/20"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "sourceUrl": "(PRX SM6580_20)",
+      "reason": "lifestyle bez urządzenia — tożsamości nie da się zweryfikować"
+    }
+  ],
+  "kod": "SM6580/20",
+  "ean": ""
+}
