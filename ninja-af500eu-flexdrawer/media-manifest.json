@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-15T10:23:55.460Z",
+  "sourcePage": "https://www.sharkninja.pl/ninja-flexdrawer-air-fryer-104%C2%A0l-czarny-af500eu/AF500EU.html",
+  "slug": "ninja-af500eu-flexdrawer",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "logo-ninja.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://assets.sharkninja.com/image/upload/b_rgb:FFFFFF,f_jpg,q_90/SharkNinja-EU/AF500EU_01",
+      "width": 2070,
+      "bytes": 206363,
+      "sha256": "6ce87432064f2e6424c6cd687b6c59babd20a5325c5b5812f7e6c6939faf94e9"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sharkninja-sfcc-prod-res.cloudinary.com/image/upload/storefront/products-PL/AF500EU/AF500EU_gallery_pl-PL_02.jpg",
+      "width": 1400,
+      "bytes": 224699,
+      "sha256": "ba451e112a84ef7d01f909c74780bb395a08740b644f35c65aa1c231f7c55d4b"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sharkninja-sfcc-prod-res.cloudinary.com/image/upload/storefront/products-PL/AF500EU/AF500EU_gallery_pl-PL_03.jpg",
+      "width": 1400,
+      "bytes": 208682,
+      "sha256": "42e2a602b8d5aa87ca7c2f3ff1b0b4b17972bc6e245f3be9591877ae76619265"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sharkninja-sfcc-prod-res.cloudinary.com/image/upload/storefront/products-PL/AF500EU/AF500EU_gallery_pl-PL_04.jpg",
+      "width": 1400,
+      "bytes": 244455,
+      "sha256": "49ed0b8db149e556ca9d057d85a5f6cb4b2ffe85894f6743aeba353c07af2cc8"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sharkninja-sfcc-prod-res.cloudinary.com/image/upload/storefront/products-PL/AF500EU/AF500EU_gallery_pl-PL_05.jpg",
+      "width": 1400,
+      "bytes": 192976,
+      "sha256": "f9ab27714e5f02a80ca1d0a1f73e23c3d7f9abe5d0e82232ac8e74d2ad5362ad"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sharkninja-sfcc-prod-res.cloudinary.com/image/upload/storefront/products-PL/AF500EU/AF500EU_gallery_pl-PL_06.jpg",
+      "width": 1400,
+      "bytes": 172949,
+      "sha256": "d43fa64075ad01b3b34ecdf3ae122500a47c2598ae4e570b542bc923754529b3"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://sharkninja-sfcc-prod-res.cloudinary.com/image/upload/storefront/products-PL/AF500EU/AF500EU_gallery_pl-PL_07.jpg",
+      "width": 1400,
+      "bytes": 338813,
+      "sha256": "d6a74c04729aeae65880d8e6a035cf82214851a420d20edbb9928a0bff3c53f9"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://sharkninja-sfcc-prod-res.cloudinary.com/image/upload/storefront/products-PL/AF500EU/AF500EU_gallery_pl-PL_08.jpg",
+      "width": 1400,
+      "bytes": 260754,
+      "sha256": "53bc54a07396cc2de8b9a61bf5fc441f22485e2d617d27ffef6b8dc0ae608bcf"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://sharkninja-sfcc-prod-res.cloudinary.com/image/upload/storefront/products-PL/AF500EU/AF500EU_gallery_pl-PL_09.jpg",
+      "width": 1400,
+      "bytes": 206296,
+      "sha256": "087674da9d3f7406265f90e89192e5c7ff95d0447f71c72958bc0eed88459239"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://sharkninja-sfcc-prod-res.cloudinary.com/image/upload/storefront/products-PL/AF500EU/AF500EU_gallery_pl-PL_10.jpg",
+      "width": 1400,
+      "bytes": 150135,
+      "sha256": "2c4d2941cddf66503d5dec73a951240dc4d315aee051e03f1ab4485a03de548c"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://sharkninja-sfcc-prod-res.cloudinary.com/image/upload/storefront/products-PL/AF500EU/AF500EU_gallery_pl-PL_11.jpg",
+      "width": 1400,
+      "bytes": 106283,
+      "sha256": "07751a853a37fca52d24f326bb4afb5e11d0726d51fb7bce9375fa99208b9837"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://sharkninja-sfcc-prod-res.cloudinary.com/image/upload/storefront/products-PL/AF500EU/AF500EU_gallery_pl-PL_12.jpg",
+      "width": 1400,
+      "bytes": 185347,
+      "sha256": "0cd4d1f54873b6763739d92dc8ebe33493ae437c6cd55dde2fb3670964281961"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://sharkninja-sfcc-prod-res.cloudinary.com/image/upload/storefront/products-PL/AF500EU/AF500EU_gallery_pl-PL_13.jpg",
+      "width": 1400,
+      "bytes": 81600,
+      "sha256": "f431e8d88212fceefeb23386cd54d51dce9ab6b2ba938f99be38eb44f5bcacfa"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://sharkninja-sfcc-prod-res.cloudinary.com/image/upload/storefront/products-PL/AF500EU/AF500EU_gallery_pl-PL_14.jpg",
+      "width": 1400,
+      "bytes": 97823,
+      "sha256": "67913d9d1b1d211536f74791beda37af5696fa9d1f59efc65e63e47c9f5251bd"
+    },
+    {
+      "file": "logo-ninja.jpg",
+      "kind": "logo",
+      "order": 15,
+      "sourceUrl": "dropshipping/materiały/logo/ninja logo.jpg (logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 17982,
+      "sha256": "444e7099c96e1efb0d66fda0e680a4bff8af0e6026dddb61da070bc07f19709b",
+      "inkRatio": 0.298
+    }
+  ],
+  "dropped": 0
+}
