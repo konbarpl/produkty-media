@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-25T15:40:00+01:00",
+  "sourcePage": "https://www.kenwoodworld.com/pl-pl/p/roboty-planetarne-kmix-kmix-kmx750ard-czerwony/KMX750ARD.html?pid=0W20011423",
+  "slug": "kenwood-kmix-kmx750rd",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "logo-kenwood-plotno.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.delonghi.com/1200x1200/assets/186009",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 191998,
+      "sha256": "6ea2ef328ed8e47eb27f5ed5de54a38626f06c068f2a1c9f991c8309a39362bc",
+      "note": "przyciecie marginesu, biale plotno 1200x1200"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dam.delonghi.com/1200x1200/assets/186011",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 190265,
+      "sha256": "111c7ae30826068f205478bb70fbd34a84e239267fce088a1108f3285dee7982",
+      "note": "przyciecie marginesu, biale plotno 1200x1200"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://dam.delonghi.com/1200x1200/assets/186016",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 219298,
+      "sha256": "24503aa7bc133cd2721a2411a226f6566074bfe955642c4c4e2b3c4b9c5e7b28",
+      "note": "przyciecie marginesu, biale plotno 1200x1200"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://dam.delonghi.com/1200x1200/assets/186013",
+      "width": 974,
+      "height": 968,
+      "bytes": 218132,
+      "sha256": "5261dfb391ce8649da6d881740a96ba4959ae7e6410d174326ead0177b3fc767",
+      "note": "przyciecie bialej ramki"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/617qbqhRTDL._AC_SL1500_.jpg",
+      "width": 1378,
+      "height": 1378,
+      "bytes": 135361,
+      "sha256": "cf694635cf4733f01ed205f9d8647857e8c9b8e2bb439798a1f8517961e5b161",
+      "note": "Amazon B06W5VH4V9; wymazane biela: niemiecka plakietka gwarancji silnika, ikony 44/1000W i logo"
+    },
+    {
+      "file": "logo-kenwood-plotno.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kenwood_Ltd_Logo.svg",
+      "width": 1200,
+      "height": 300,
+      "bytes": 15406,
+      "sha256": "d19952f226cd7537e2a75cdcb32ff028e7d13052007750597a0cb5b823673d49",
+      "note": "logo_plotno.py --napraw",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": [
+    "Amazon galeria-01/02/04/05: duplikaty karty producenta w nizszej rozdzielczosci",
+    "Amazon A+: inne modele, tresc reklamowa"
+  ]
+}
