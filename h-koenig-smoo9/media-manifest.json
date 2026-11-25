@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-25T17:02:04.045011+00:00",
+  "sourcePage": "https://www.hkoenig.com/s/24408_300752_mini-blender",
+  "slug": "h-koenig-smoo9",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "logo-h-koenig.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61rbxWROlLL._AC_SL1500_.jpg (= ujecie hkoenig.com nr 3)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 170793,
+      "sha256": "554457ab0a71bacac092ac6c88487faa31cdc9c8816abb8b5ef19faa3b5fbbc1"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61QLd0VYcqL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 184340,
+      "sha256": "278350ab43b628c1c7f979f38d63ac9cca0403459ca1b1f6f1dd44f944e5ca17"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "http://dl.hkoenig.com/SiteHkoenig/FICHEPRODUIT_SMOO9_FR.pdf (grafika f04, = ujecie hkoenig.com nr 6)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 234567,
+      "sha256": "8ce45c98d0a5fda295c1d5ff75e81b14c9acd1bd88ee06529d1ffb40cd39a6b5"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "http://dl.hkoenig.com/SiteHkoenig/FICHEPRODUIT_SMOO9_FR.pdf (grafika f02)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 132668,
+      "sha256": "5cd21b5ec08f027c80f3d361784c9a577926340e1ccbcc854f284b25f0010249"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "http://dl.hkoenig.com/SiteHkoenig/FICHEPRODUIT_SMOO9_FR.pdf (grafika f03, = ujecie hkoenig.com nr 4)",
+      "width": 1500,
+      "height": 1410,
+      "bytes": 203713,
+      "sha256": "17b174a588d2ce55f0e40f254e9258f4c88b8bb3f35433af6bbe78e5f798dfd5"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81ey8oiPa3L._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 192434,
+      "sha256": "88c4ed8936c1d3023562ac048af1321801596183fe1bef6dc9cab8a604adf0b1"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://www.hkoenig.com/img/211/300752/11/max/p/mini-blender.jpg (650x650, skala do 1000x1000)",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 133829,
+      "sha256": "f027361db53ae16ab56ce6cc3f62bb6a218b9bae11fa9da36bb3310ae0980ab3"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://www.hkoenig.com/img/211/300752/5/max/p/mini-blender.jpg (650x650, skala do 1000x1000)",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 183509,
+      "sha256": "8f2bb5a89d84e6d30db4c285b56b734d2558322a1fd9c2787b96c1b3060bda74"
+    },
+    {
+      "file": "logo-h-koenig.jpg",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "https://www.hkoenig.com/imgfck/211/Image/logo-RVB_HD_BASELINE_V2.png -> dropshipping/materiały/logo/h-koenig-logo-male-1200x300.jpg (logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 17404,
+      "sha256": "e4d346eb8808d72d13c178b7bbbec6c93dd28634136fe18c33dd496ff6e46cd6",
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": 9
+}
