@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-25T14:29:43.954Z",
+  "sourcePage": "https://www.it-shop24.pl/pl/p/Robot-Kuchenny-KitchenAid-Artisan-5KSM175PSECA-Czerwony-Karmelek/4726",
+  "slug": "kitchenaid-artisan-5ksm175pseca",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "logo-producenta.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/gfx/57956/KitchenAid-5KSM175PSECA-robot-kuchenny.jpg",
+      "width": 1000,
+      "bytes": 215655,
+      "sha256": "abb650bcb80b6b8a9a8121980b28947eba262602a2972ed395c4995ae18b54a4"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/assets/12300/859701501230-7.jpg",
+      "width": 1000,
+      "bytes": 147399,
+      "sha256": "905ae89539505a421605edbb95dc5227ef9740dbaa06733c9236c58b01864ba1"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/assets/12300/859701501230-1.jpg",
+      "width": 1000,
+      "bytes": 157155,
+      "sha256": "84f73c3619c103e3d51fe53166ba640b3fb417e24fa68c2e34f97a382df860d0"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.it-shop24.pl/userdata/public/assets/12300/859701501230-5.jpg",
+      "width": 1000,
+      "bytes": 115026,
+      "sha256": "98789c2f83910f915d347f45071a73298c0f4d94d6c1e945a4f12e046202e756"
+    },
+    {
+      "file": "logo-producenta.jpg",
+      "kind": "logo",
+      "order": 5,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Kitchenaid_logo.svg?width=1200",
+      "width": 1200,
+      "height": 300,
+      "bytes": 13222,
+      "sha256": "e97cee455bb0a788d7abb8597e7b7385f42f2da35b182708db9a5823d5bbd268",
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": 0,
+  "note": "Galeria tylko 5KSM175PSECA w kolorze czerwony karmelek, pliki karty it-shop24 tego kodu (859701501230 = kod katalogowy karty kitchenaid.pl). Odrzucone: it 26585 (duplikat produkt-03), 859701501230-13 (dzieża ceramiczna spoza zestawu), moduły kitchenaid.pl wspólne dla 17 kolorów (inne kolory albo odcień czerwieni bez potwierdzenia). Host whirlpool.com oddał HTTP 403 - nieużyty."
+}
