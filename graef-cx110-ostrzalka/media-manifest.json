@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-25T16:56:07.433317Z",
+  "sourcePage": "https://www.graef.de/de/p/diamant-messerschaerfer-cx110/",
+  "slug": "graef-cx110-ostrzalka",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "opis-01.jpg",
+    "logo-graef.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.graef.de/media/managed/0e/9c/0e9c617b7999786ad90e7eca8987a6e0/GRAEF_1.JPG",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 107998,
+      "sha256": "87731b1ba609a43107b8c0048181436607ef55677588afb9f621933e3abdb814"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.graef.de/media/managed/07/5d/075d85ddf9fee15ade38ddf7e5646e39/GRAEF_3.JPG",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 185881,
+      "sha256": "3cf7274425b28df2e3069b3e2b42a4852255da46ab7c647d150eb7ba4ac9cd79"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.graef.de/media/managed/0a/f0/0af01187cb6616cfadde4aae992ac189/GRAEF_4.JPG",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 185092,
+      "sha256": "0699fd2622d80eb5f558af4f2765b0dd8b14065e25ac598259b8e3dcea3bd9e5"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.graef.de/media/managed/05/e6/05e6040422266937c8bf7f701cbb32dd/CX110_Detail3.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 364730,
+      "sha256": "d97a3639fb379bc001dbe3bfe399cf4a583708234f6e98ec65122d5ac81d33bf"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.graef.de/media/managed/e6/66/e6665ce7b13edc1bf51373859eff1843/GRAEF_2.JPG",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 315836,
+      "sha256": "8ed0b575c789b67d5f63fe1d61babe4a4b746a5a91f8e024c296193ea115958a"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://www.graef.de/media/managed/a5/68/a56830e1e60858f3661a68bda1b834bd/CX110_Mood.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 324838,
+      "sha256": "1bd71485e1d53cadac034297dcc6cbd9ac95aba1b77482f4c8ec7502e3ff93e1"
+    },
+    {
+      "file": "logo-graef.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "https://www.graef.de/static/gfx/logo_de.svg -> dropshipping/materiały/logo/graef-logo-male-1200x300.jpg (logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 17316,
+      "sha256": "d4d11c29d6a046a939ac9e0f7497aaf9cacf40a23d5b2b1a5a54c79e44a86d6f",
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": 15
+}
