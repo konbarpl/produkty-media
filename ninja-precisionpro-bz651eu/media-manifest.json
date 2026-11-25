@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-25T14:27:52.149013Z",
+  "sourcePage": "https://www.amazon.pl/dp/B0GLQZJWQG",
+  "slug": "ninja-precisionpro-bz651eu",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "logo-ninja.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71eJX8ZtimL._AC_SL1500_.jpg",
+      "width": 1250,
+      "height": 1500,
+      "bytes": 107849,
+      "sha256": "0085a07d38ff8bf79625b7b41c2b4b4a3a95a9203bda58cbb01a38881daf120d"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81hf1A+WKuL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1447,
+      "bytes": 180509,
+      "sha256": "9edc3a80ddf5af6bda9adafa508c0312a65e17eaf476d91e0fb6199cbbb497f4"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/91BpQTN+l3L._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1495,
+      "bytes": 521748,
+      "sha256": "8dafab4a1f3f34c2ae5f1df0193e0b28a542292936099bdcc80307a4681bd5a8",
+      "note": "przyciete 5 px dolu (kreska na krawedzi)"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81tuOT0t3kL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1447,
+      "bytes": 202974,
+      "sha256": "1b450d028783c4da27976b82f158438ca8c61944751902d2ddda61f52de0940e"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81S5Rz810iL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1447,
+      "bytes": 203737,
+      "sha256": "3a423a6cd6b0c76671b523bc112c6e6b0e53c6c4171268a4f0d0064cd604e544"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81eCiWxCSpL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1447,
+      "bytes": 166322,
+      "sha256": "38bb8402fbccc8386baed5a84901e5babfcab448568b84d475f6c86f44c83b3b"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81d5CI7IsgL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1448,
+      "bytes": 183065,
+      "sha256": "df0c4e85bcbdd10800ef09ca619116878b657adcb81c706f06e22b3d6bae84e5"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81clLYAoTkL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1447,
+      "bytes": 153262,
+      "sha256": "e3cea661e746aba679c7c80a54338234dfba8cf039da80e0f883f013dd58566b"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71XVNvbgzxL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1450,
+      "bytes": 113745,
+      "sha256": "7cebdad11c4285e474bed9d212932113787f48b78ce26d29bbb7c7b0240fabf4"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81HBktOxCSL._AC_SL1500_.jpg",
+      "width": 1498,
+      "height": 1500,
+      "bytes": 162723,
+      "sha256": "a05b4c8e922b2c478556df3c2099189c9f170442ce70142afa76b26a6ecb891d"
+    },
+    {
+      "file": "logo-ninja.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "produkty-media/ninja-af500eu-flexdrawer/logo-ninja.jpg (plotno 1200x300)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 17982,
+      "sha256": "444e7099c96e1efb0d66fda0e680a4bff8af0e6026dddb61da070bc07f19709b",
+      "inkRatio": 0.298
+    }
+  ],
+  "dropped": 0
+}
