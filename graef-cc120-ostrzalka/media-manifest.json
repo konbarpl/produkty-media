@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-25T14:33:39.511087Z",
+  "sourcePage": "https://www.graef.de/de/p/diamant-messerschaerfer-cc120/",
+  "slug": "graef-cc120-ostrzalka",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "opis-01.jpg",
+    "logo-graef.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.graef.de/media/managed/36/87/3687ba46c118b0b405dfc99898982609/GRAEF_Messerschaerfer_CC120_Hauptabbildung.jpg",
+      "width": 992,
+      "height": 992,
+      "bytes": 97603,
+      "sha256": "caea96d79e37e2a397056499f103e1a6619a578d0ad8cce2f0cb09bfabaabfba"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.graef.de/media/managed/be/c5/bec5a20ae5d6a3368b92aa44ef05bd54/GRAEF_Messerschaerfer_CC120_Stufe-2.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 172099,
+      "sha256": "3953ae7272a1c83cab26ca76f593c67f29dd20c57208f25f148bc23201245b45"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.graef.de/media/managed/3a/10/3a1053012c596a228fed3a417ba7bb37/GRAEF_Messerschaerfer_CC120_Stufe-1_Vorschaerfen.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 173873,
+      "sha256": "a77251dd28a945812ef7a5fca3feb617ef9ca30cc427ad2b54a470b0128a0540"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.graef.de/media/managed/9f/fc/9ffc911e54d4a89e87adbb253d7da497/GRAEF_Messerschaerfer_CC120_Schalter.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 239720,
+      "sha256": "719eb0eec53a8d3faedd4dc8923b28ca9dca6fd7b3ea58c985cee4880c1a9e97"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://www.graef.de/media/managed/f5/b7/f5b7a296a54be61afd91235267aa08ee/CC120_hs85kp5.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 448214,
+      "sha256": "e17a38d2ecc324b974ee6b200f38a3f6693e3451f70a26dbacd34226bb95429b"
+    },
+    {
+      "file": "logo-graef.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "https://www.graef.de/static/gfx/logo_de.svg -> dropshipping/materiały/logo/graef-logo-male-1200x300.jpg (logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 17316,
+      "sha256": "d4d11c29d6a046a939ac9e0f7497aaf9cacf40a23d5b2b1a5a54c79e44a86d6f",
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": 8
+}
