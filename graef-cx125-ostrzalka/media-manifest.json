@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-25T15:59:46.345870Z",
+  "sourcePage": "https://www.graef.de/de/p/diamant-messerschaerfer-cx125/",
+  "slug": "graef-cx125-ostrzalka",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "opis-01.jpg",
+    "logo-graef.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.graef.de/media/managed/f9/6f/f96f7b223285b7853d9c19127a5133be/GRAEF_Messerschaerfer_CX125_Hauptabbildung.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 116115,
+      "sha256": "5c55cfd34705d805adcdb6ae8ed81b710f552b8faf587b6efc6f0712539f411e"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.graef.de/media/managed/25/9e/259ec17a1ccecd7c1ef3721eff0c1df0/CX125_Detail3.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 340707,
+      "sha256": "79154f5656c2127a3eae9994c320ef3b1768ff0c853ac095d8e57b8b5e6a9109"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.graef.de/media/managed/82/bf/82bfb78038167fe8ddbec162a948c594/GRAEF_Messerschaerfer_CX125_Stufe-1.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 201314,
+      "sha256": "634e6eb01fbbe2bce6e1d986546d4ee6f9f93ad5537fb679a8345ef9ea202952"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.graef.de/media/managed/43/70/43706bd33830c80744fba701b43e9630/GRAEF_Messerschaerfer_CX125_Stufe-2.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 202074,
+      "sha256": "a489139358d7e5f5cd726beb4213f0d02f3ec80cdb0c9747a244d0cf2a9a9f1f"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.graef.de/media/managed/b3/56/b356b459b1b30a116225eb56275f1a3b/GRAEF_Messerschaerfer_CX125_Schalter.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 303857,
+      "sha256": "046a31da09146557dba2767b0315756d501874a3090e0fbf0e2420d52ad683bc"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://www.graef.de/media/managed/5e/00/5e00db12a7e9c2ee51ca3b55c89da59b/graef-cx125-mood.jpg",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 604087,
+      "sha256": "eab0eb2a051c1f9039e8562691fc186ef999da03f88a63f63a6c96c0a95caed9"
+    },
+    {
+      "file": "logo-graef.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "https://www.graef.de/static/gfx/logo_de.svg -> dropshipping/materiały/logo/graef-logo-male-1200x300.jpg (logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 17316,
+      "sha256": "d4d11c29d6a046a939ac9e0f7497aaf9cacf40a23d5b2b1a5a54c79e44a86d6f",
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": 9
+}
