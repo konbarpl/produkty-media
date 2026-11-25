@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-25T16:31:47.382736+00:00",
+  "sourcePage": "https://www.amazon.pl/dp/B0CLLGJQTR",
+  "slug": "sharpeak-198h-spk",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "logo-sharpeak.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51sTrPCtwGL._AC_SL1500_.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 116306,
+      "sha256": "0bc67a30ec32881ddb04a652b15ebe47b87acf4900a6e4f2df356d0eeef89b6c",
+      "edit": "plotno biale 1600x1600"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6ad70e91-d998-4254-a1b8-41ab48f406a0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 154222,
+      "sha256": "45565ec79c37a2c354a4c8aded61b7c87c4390c4d78f42bb38ba760cf744929d"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71MewIQbi8L._AC_SL1500_.jpg",
+      "width": 1383,
+      "height": 1073,
+      "bytes": 190227,
+      "sha256": "ed75256aa6a1ba9a4676ab8b22f41b609c3b917a3bbe73e7eb4ca15d27e9ab1b",
+      "edit": "kadr bez gornego pasa (plakietka 1200 sprzeczna z 1000 z karty)"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71FaGtt-ZiL._AC_SL1500_.jpg",
+      "width": 1352,
+      "height": 1014,
+      "bytes": 226654,
+      "sha256": "0c2bdedd8a6d2d3264cb27afcf98f2bbd31d80c3ad4a027201c0e998821161fb",
+      "edit": "kadr bez gornego pasa (znak ETL rynku USA)"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d55d3d7c-c069-4e6b-8ff4-5d729c425e1c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "width": 1084,
+      "height": 460,
+      "bytes": 55298,
+      "sha256": "ca5a7a27cad362fb54f0e25cf63d3bf2513dba28c942c6d496c4a4739b219b35",
+      "edit": "kadr bez angielskiego hasla"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/611QCQCQXsL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 194463,
+      "sha256": "ebbf9326a3d75873fceca50ae4650d553d298b258b6446649dbeccd5fb366199"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea615c85-177f-43ea-9fe2-0adc47e3fbca.__CR0,606,3562,1460_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 69613,
+      "sha256": "e8d6e4151543dc883f784709fab88b5a8817765cce009613f6ba3e019a64eb5d"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3cf71c9b-ee21-4ced-bd6a-5c04af948dec.__CR0,614,3612,1480_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 72068,
+      "sha256": "23b44c2ecdaf5f9a916bcf4caa2be202be8b8161a95ef22ca6c4cbb4c3bae52e"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/70093223-375b-4516-b57d-6b5f262c3ac1.__CR0,632,3717,1523_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 67965,
+      "sha256": "4a317c2d329218ebd52ab080348addd7799cb58755df96b754a0b48519e3ed95"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71+j1l59dvL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1437,
+      "bytes": 234831,
+      "sha256": "32d079d90787edafedf02a68ff53006e9ef43bd61c698f10bee9c0e778db72ca"
+    },
+    {
+      "file": "logo-sharpeak.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d55d3d7c-c069-4e6b-8ff4-5d729c425e1c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg -> dropshipping/materiały/logo/sharpeak-logo-male-1200x300.jpg (wyciete logo, logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 16828,
+      "sha256": "20ee171b047618e661030fb11c089cc4db8fe5cb9924c38db0dacaa3816a473b",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 5
+}
