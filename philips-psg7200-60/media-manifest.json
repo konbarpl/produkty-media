@@ -1,20 +1,42 @@
 {
   "version": 1,
   "generatedAt": "2026-07-15T12:00:00.000Z",
-  "updatedAt": "2026-07-15T00:00:00.000Z",
+  "updatedAt": "2026-11-25T14:27:02.440303",
   "sourcePage": "https://www.philips.de/c-p/PSG7200_60/perfectcare-steam-generator-7000-series",
   "slug": "philips-psg7200-60",
   "note": "Zdjecia wybrane z 6 plikow pobranych lokalnie przez Konrada (dropshipping/erli/7000 Series PerfectCare Dampfbügelstation PSG7200_60 _ Philips/). Bramka tozsamosci wizualnej 15.07: 4 z 6 plikow odrzucone (przedstawialy warianty PSG7300/80 Deep black, PSG7300/70 Dark Forest i zelazko w kolorze sliwkowym - niezgodne z kolorystyka Beige/Himmelblau modelu PSG7200/60). Dwa zaakceptowane assety pobrane z CDN images.philips.com w 1200 px (te same ID vrs_ co pliki lokalne Konrada, ktore mialy tylko 400 px). AKTUALIZACJA 15.07 (polecenie Konrada): dodane 2 wlasne miniaturki Konrada jako PIERWSZE zdjecia ofert testu A/B (miniaturka-a -> oferta philips-psg7200-60-a, miniaturka-b -> oferta philips-psg7200-60-b; miniaturka drugiej oferty NIE wchodzi do galerii pierwszej). Bramka tozsamosci wizualnej miniaturek zaliczona 15.07 (obie pokazuja PSG7200/60 Beige/Himmelblau; zero kwot, zero slowa gwarancja). Poniewaz oferty A i B maja ROZNE galerie, wspolne pole galleryOrder usunieto (walidator erli_common.js wymaga identycznosci galleryOrder z gallery configu) - kolejnosc per oferta trzyma galleryOrderPerOffer. sourceUrl miniaturek = URL hostingu raw.githubusercontent.com, bo zrodlem sa pliki lokalne Konrada (sciezka w polu origin).",
   "galleryOrderPerOffer": {
     "philips-psg7200-60-a": [
       "psg7200-60-miniaturka-a.png",
+      "galeria-amazon-01.jpg",
+      "galeria-amazon-03.jpg",
+      "galeria-amazon-04.jpg",
+      "galeria-amazon-05.jpg",
+      "galeria-amazon-06.jpg",
+      "galeria-amazon-07.jpg",
+      "galeria-amazon-08.jpg",
+      "galeria-amazon-09.jpg",
+      "galeria-amazon-02.jpg",
+      "galeria-amazon-10.jpg",
       "produkt-01.jpg",
-      "produkt-02.jpg"
+      "produkt-02.jpg",
+      "logo-philips-plotno-v2.png"
     ],
     "philips-psg7200-60-b": [
       "psg7200-60-miniaturka-b.png",
+      "galeria-amazon-01.jpg",
+      "galeria-amazon-03.jpg",
+      "galeria-amazon-04.jpg",
+      "galeria-amazon-05.jpg",
+      "galeria-amazon-06.jpg",
+      "galeria-amazon-07.jpg",
+      "galeria-amazon-08.jpg",
+      "galeria-amazon-09.jpg",
+      "galeria-amazon-02.jpg",
+      "galeria-amazon-10.jpg",
       "produkt-01.jpg",
-      "produkt-02.jpg"
+      "produkt-02.jpg",
+      "logo-philips-plotno-v2.png"
     ]
   },
   "files": [
@@ -57,6 +79,126 @@
       "width": 1200,
       "bytes": 85833,
       "sha256": "6ca5d6c36c6c284ab2e4a6ba15d2213c3a953a2643f0bc6dd2de64bdf9665433"
+    },
+    {
+      "file": "galeria-amazon-01.jpg",
+      "kind": "product",
+      "width": 912,
+      "height": 749,
+      "bytes": 50542,
+      "sha256": "5354ac54eff5558f15f979006ad385b0d6d37094eff83444e011cfa02c362fce",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51K4sf9uRhL._AC_SL1080_.jpg",
+      "origin": "amazon.pl B0F5WP74RQ, 25.11.2026"
+    },
+    {
+      "file": "galeria-amazon-02.jpg",
+      "kind": "product",
+      "width": 1500,
+      "height": 1046,
+      "bytes": 86086,
+      "sha256": "ff61d022cf7a15ac7a7cc1bc72b85e7ee2bc45f48a50de95441fbd6cf7ca5bd9",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71G3XM0WyxL._AC_SL1500_.jpg",
+      "origin": "amazon.pl B0F5WP74RQ, 25.11.2026"
+    },
+    {
+      "file": "galeria-amazon-03.jpg",
+      "kind": "product",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 86429,
+      "sha256": "9c0274dbaf8365698693bfe202bf0a80ae97ff191465459fd5498ed5cf136c71",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61P+CMgOqUL._AC_SL1080_.jpg",
+      "origin": "amazon.pl B0F5WP74RQ, 25.11.2026"
+    },
+    {
+      "file": "galeria-amazon-04.jpg",
+      "kind": "product",
+      "width": 806,
+      "height": 870,
+      "bytes": 75231,
+      "sha256": "8606115c88771e922f83f2541a78edb80d2adde64e666768884d09f1002dd8b2",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61YAVb+cdHL._AC_SL1080_.jpg",
+      "origin": "amazon.pl B0F5WP74RQ, 25.11.2026"
+    },
+    {
+      "file": "galeria-amazon-05.jpg",
+      "kind": "product",
+      "width": 964,
+      "height": 939,
+      "bytes": 62266,
+      "sha256": "88f5eca225c61e7e9aeeebc96e3be94668bb58e0804e995bd1c09b8182e8b272",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61EXd97Xu0L._AC_SL1080_.jpg",
+      "origin": "amazon.pl B0F5WP74RQ, 25.11.2026"
+    },
+    {
+      "file": "galeria-amazon-06.jpg",
+      "kind": "product",
+      "width": 1080,
+      "height": 1000,
+      "bytes": 77603,
+      "sha256": "a3b21096333759a2a92d13eb5763b78b027f14734f14dcb57ecec04717ef8b54",
+      "order": 8,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61R3GckiGML._AC_SL1080_.jpg",
+      "origin": "amazon.pl B0F5WP74RQ, 25.11.2026"
+    },
+    {
+      "file": "galeria-amazon-07.jpg",
+      "kind": "product",
+      "width": 1080,
+      "height": 997,
+      "bytes": 72864,
+      "sha256": "8774c233b60aec247ba4f0cf04b7370f59fdc8a87d999629f27e7ffba6aa86ed",
+      "order": 9,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61jEZxzaJ8L._AC_SL1080_.jpg",
+      "origin": "amazon.pl B0F5WP74RQ, 25.11.2026"
+    },
+    {
+      "file": "galeria-amazon-08.jpg",
+      "kind": "product",
+      "width": 983,
+      "height": 970,
+      "bytes": 67060,
+      "sha256": "4f56d40b08ad673660936c7e7d4565b28bd5a3475fa4a00e2280c8ca7366e8fd",
+      "order": 10,
+      "sourceUrl": "https://m.media-amazon.com/images/I/618mCVm0BPL._AC_SL1080_.jpg",
+      "origin": "amazon.pl B0F5WP74RQ, 25.11.2026"
+    },
+    {
+      "file": "galeria-amazon-09.jpg",
+      "kind": "product",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 75841,
+      "sha256": "06032755daf699806bbf9b78cb5f78d5879596942a326f829b66f77a9fae94f1",
+      "order": 11,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61OELfdDogL._AC_SL1080_.jpg",
+      "origin": "amazon.pl B0F5WP74RQ, 25.11.2026"
+    },
+    {
+      "file": "galeria-amazon-10.jpg",
+      "kind": "product",
+      "width": 1030,
+      "height": 795,
+      "bytes": 49941,
+      "sha256": "2a24e475569cfc28a8c68b121d9d2d7f4b6149b9b487dc988fe4b2b67951dc03",
+      "order": 12,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51sM-luBKbL._AC_SL1080_.jpg",
+      "origin": "amazon.pl B0F5WP74RQ, 25.11.2026"
+    },
+    {
+      "file": "logo-philips-plotno-v2.png",
+      "kind": "logo",
+      "width": 1200,
+      "height": 300,
+      "bytes": 10355,
+      "sha256": "6611f16b86a28928b7701f1d3854d855e88a6dd234cb54dfe3791f8b7fb9dcec",
+      "order": 99,
+      "sourceUrl": "dropshipping/materiały/logo (płótno v2)"
     }
   ],
   "dropped": 4,
