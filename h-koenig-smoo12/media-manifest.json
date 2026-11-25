@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-25T16:49:02.855113+00:00",
+  "sourcePage": "https://www.hkoenig.com/s/43995_327877_mini-blender",
+  "slug": "h-koenig-smoo12",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "opis-01.jpg",
+    "logo-h-koenig.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61LlZ7ez2lL._AC_SL1500_.jpg (= ujecie hkoenig.com nr 12)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 183987,
+      "sha256": "57a874eb7f4e202fa9b88d5e273609f29d6316e4fd1f52b0756f0a092a0c99c3"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61QRPTSHMgL._AC_SL1500_.jpg (= ujecie hkoenig.com nr 5; przyciety dolny pasek tla)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 188495,
+      "sha256": "111c3c3dcfb5c9fff18a2cda701f85b704d70efaba7c00dff8bc67d1bff48fc8"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.hkoenig.com/img/211/327877/4/max/p/mini-blender.jpg (650x650, skala do 1000x1000)",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 93326,
+      "sha256": "0b4882a32f04f0e335e57f85f3119ae8c397a1d0891cc2e3f581605b757e681d"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.hkoenig.com/img/211/327877/6/max/p/mini-blender.jpg (650x650, skala do 1000x1000)",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 79766,
+      "sha256": "52215e191f8551875cc15793a398fde25d83c2114263394d676e5b0ece7d325b"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/613LQqkUmoL._AC_SL1500_.jpg (= ujecie hkoenig.com nr 11)",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 145308,
+      "sha256": "d6778d4b77be57b7d5a284831826c4a9b7603f1b4d9dd1d7dc340d4330a587a6"
+    },
+    {
+      "file": "logo-h-koenig.jpg",
+      "kind": "logo",
+      "order": 6,
+      "sourceUrl": "https://www.hkoenig.com/imgfck/211/Image/logo-RVB_HD_BASELINE_V2.png -> dropshipping/materiały/logo/h-koenig-logo-male-1200x300.jpg (logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 17404,
+      "sha256": "e4d346eb8808d72d13c178b7bbbec6c93dd28634136fe18c33dd496ff6e46cd6",
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": 10
+}
