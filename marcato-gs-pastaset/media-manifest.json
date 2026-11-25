@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-25T16:15:07.591404Z",
+  "sourcePage": "https://www.amazon.pl/dp/B00A3BPC4K",
+  "slug": "marcato-gs-pastaset",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "logo-marcato.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/617V6IhvqCL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 168104,
+      "sha256": "c36a46675fd5ae99091f00a8f7836f4d9461368ada34f041bd3878c64aef014a"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/717D+QXau2L._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 417435,
+      "sha256": "7d1baac9849802b4cd4775e58516dec83d6d6c1931811d1bb5b1428e9164a504"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71LaN7oIEdL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1151,
+      "bytes": 159778,
+      "sha256": "3eeb6c886096c4b99c38e9dda2ae6c9c305708a3b1aab84675ea173caa542a95"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media/vc/27ed331f-c94f-41da-88bc-de590e3a7436.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 191567,
+      "sha256": "7974a3d842351e2097d9f43b17691907d1d871f713295427fa4a202a34d1e44d"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media/vc/72f51ce3-8d3a-47be-84e5-a6106da8ca46.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 222609,
+      "sha256": "a12bd2f63d62a90dd6aec704fda33f91374df3831dc908a8b7947197a8a08b36"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/812K9eMTq8L._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1063,
+      "bytes": 532261,
+      "sha256": "744a9a6333b639de6fe51fba00901309bd958f3edea67741f93e122ba38cf8a6"
+    },
+    {
+      "file": "logo-marcato.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media/vc/c73a9190-ac64-45c1-80ed-c8885e4c10a7.jpg -> dropshipping/materiały/logo/marcato-logo-male-1200x300.jpg (logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 24918,
+      "sha256": "81c18aff60e45d57ab4654f631bd653830acfa2e131030ea05801f5f654721fd",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 22
+}
