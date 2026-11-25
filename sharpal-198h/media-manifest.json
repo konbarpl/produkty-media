@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-25T16:01:59.815523+00:00",
+  "sourcePage": "https://sharpal.com/products/electric-knife-sharpener-with-diamond-wheel",
+  "slug": "sharpal-198h",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "logo-sharpal.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0574/6973/0894/files/198H_Primary_Image.jpg?v=1779696195",
+      "width": 1735,
+      "height": 1735,
+      "bytes": 137262,
+      "sha256": "51c8e5938ab05bf28465a2d148a5a53c3027e5b271e1fe083d7f01859b61718c"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9349ab36-d529-4373-af83-51564ff9c2ec.__CR0,0,1465,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 114750,
+      "sha256": "accb75401972d27e525ef24a66e6cdd3c8ed1146019343520617d70e0f8c5c27"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cc0f2f50-9db7-4893-88c4-a33cf057aa00.__CR0,0,1465,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 147419,
+      "sha256": "84c1b0687730de9e7fe5ec76bf89e6b90a1d96ebc1ed292622bab9b326688095"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0574/6973/0894/files/198H_In_Use_4.jpg?v=1747378762",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 311024,
+      "sha256": "4cc665c06b81911993734e66c54d51fdd092cd46a44607cd70e870d433de72f1"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71EsGfup8XL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 318230,
+      "sha256": "b880d053a870894e2724db3f2b69b95e9a33f24575adb4af6a112fc87786b322"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8f66e26f-1044-413d-b76a-26f1ede2a1a7.__CR0,0,1465,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 234951,
+      "sha256": "b397ba6464fa6fcdfb85010daf2b97000b22b2712794f14efc0eaf51b4e5c69e"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ab57a69c-8d67-4481-8cde-02fca0813435.__CR0,0,1465,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 103743,
+      "sha256": "516d230d90ba12f94315d17d6aea10405ea2dcf3646a69753722a45c9f8a7b39"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/10d6e9aa-1e96-4635-83d8-389412c6f7f5.__CR0,0,1465,600_PT0_SX1464_V1___.jpg",
+      "width": 1464,
+      "height": 600,
+      "bytes": 93371,
+      "sha256": "022163aef8002b3d85879e8d2b010e8553a48e63cf9dee4cb36bf8ec925d4462"
+    },
+    {
+      "file": "logo-sharpal.jpg",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "https://sharpal.com/cdn/shop/files/SHARPAL_LOGO_1d19c7ee-15f2-4a09-92ff-2fc48651426a.png -> dropshipping/materiały/logo/sharpal-logo-male-1200x300.jpg (logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 15929,
+      "sha256": "af0d9c0efab35121ed52758a7a1243dff0a3feb403036cda12f6e5a17f7a37b6",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 23
+}
