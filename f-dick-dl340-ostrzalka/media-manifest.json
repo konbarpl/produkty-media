@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-26T10:54:45.729205+00:00",
+  "sourcePage": "https://www.dick.de/messer/schneiden/detail/rapid-steel/messerschaerfer-rapid-steel-action-set",
+  "slug": "f-dick-dl340-ostrzalka",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "opis-01.jpg",
+    "logo-dick.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://m.media-amazon.com/images/I/714g6KydSzL._AC_SL1500_.jpg",
+      "width": 1138,
+      "height": 1500,
+      "bytes": 261075,
+      "sha256": "ed21596d70f81aa8705c63b66d7723a471abd8b3a04ab76830e2b8ba66ce20f0"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71lxPn87hWL._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1476,
+      "bytes": 267019,
+      "sha256": "23c34846bcdcc04a48a595d57d866aa5ad4e59f379fd21dda38a8dedd12715c5"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.dick.de/fileadmin/user_upload/imports/products/90092000_gallery_9009200_pt03.jpeg.jpeg",
+      "width": 1065,
+      "height": 1600,
+      "bytes": 289284,
+      "sha256": "fd854e170dcb53bec7f37ef81a5c6fd0098a471428ca3dba73d2861d6c1cff81"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://m.media-amazon.com/images/I/81KRbZrET4L._AC_SL1500_.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 329900,
+      "sha256": "a96543766e1ea6fa8a28da41da247ebb191be3c052d205c3717c495b75335d7f"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.dick.de/fileadmin/user_upload/imports/products/90092000_slider_9009200_pt01.jpeg.jpeg",
+      "width": 1600,
+      "height": 1008,
+      "bytes": 266975,
+      "sha256": "2549de025c53eb444e9d56e8788277b8f32d2e0124677e6abca607998152dcb5"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://m.media-amazon.com/images/I/91B9pIzf3DL._AC_SL1500_.jpg",
+      "width": 994,
+      "height": 1500,
+      "bytes": 315225,
+      "sha256": "2f74c532f5bb91d7fb582587caff2afe5ac3244fa1aa058f04bc3d4107921f3d"
+    },
+    {
+      "file": "logo-dick.jpg",
+      "kind": "logo",
+      "order": 7,
+      "sourceUrl": "https://www.dick.de/fileadmin/user_upload/dicklogo.svg -> dropshipping/materiały/logo/dick-logo-male-1200x300.jpg (logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 24171,
+      "sha256": "371284f7789d4a04fe7e456002f6c36672a8b61591b6237d621e2095fef0536b",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": [
+    {
+      "src": "https://m.media-amazon.com/images/I/81XzMluEY+L._AC_SL1500_.jpg",
+      "reason": "grafika z logotypami partnerstw (niepotwierdzone w plikach) i wymiarami; pominieta"
+    },
+    {
+      "src": "https://m.media-amazon.com/images/I/A1R9gsEJA9L._AC_SL1500_.jpg",
+      "reason": "to samo ujecie co dick.de pt03, z niemieckim napisem; wzieto wersje producenta bez napisu"
+    },
+    {
+      "src": "https://m.media-amazon.com/images/I/7167SNGTPgL._AC_SL1500_.jpg",
+      "reason": "wymiary 19,05 x 19,05 x 7,62 cm sprzeczne z karta producenta 22 x 19 x 17,5 cm"
+    },
+    {
+      "src": "https://www.dick.de/fileadmin/user_upload/imports/products/90092000_slider_9009200_pt05.jpeg.jpeg",
+      "reason": "lifestyle z wetzstahlem i nozem spoza zestawu (myli kompletacje)"
+    }
+  ]
+}
