@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T13:46:01.005Z",
+  "sourcePage": "https://www.home-appliances.philips/pl/pl/p/XC2233_10 (OCC API versuni-b2c-pl, galeria karty XC2233/10 + grafiki XC2233 z productFeatures)",
+  "slug": "philips-powerup-xc2233-10",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/4e353ea0-2f59-4798-b154-e0c601d8d7cc/FC_2026_PAP_-XC2233-Essential-_1x1.webp",
+      "width": 2048,
+      "bytes": 70460,
+      "sha256": "c289fbbb731198a26ef7f88b49653b4ccba2c2a35248f9965bc18d763cfcaf0b"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/74778444-72b1-4599-88ad-ec953a74523e/FC_2026_XC2233_3XAccessories_16x9.webp",
+      "width": 2048,
+      "bytes": 82166,
+      "sha256": "1463cf9f7d4817452f2ef5d7b2a1338009799c84ab977f440f535ed2d4998c7c"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/efb6d660-7c81-4874-bec9-a3c3817e4a92/FC_2026_C2XXXXC_3XXX_XC5XXXDirt-Pickup_1x1.webp",
+      "width": 2048,
+      "bytes": 509806,
+      "sha256": "f0eb381a4728c99500df24b660fd57ed7ad414bf7c0b5aa1d9d0f997a743a2d9"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/60a21d18-7ef7-4df7-ae14-37c228a1b953/FC_2026_XC2XXX_XC3XXX_Powerfull-Motor_1x1.webp",
+      "width": 2048,
+      "bytes": 107342,
+      "sha256": "a8e54d080e22481f024bffe0d704558f78891f0c1677747628fef0b5efe14157"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/b0f2d1ce-08ca-4d46-bfeb-c700482d30fd/FC_2026_XC2XXX_XC3XXX_XC5XXX_XC6XXXPatented-Nozzle-Technology_1x1.webp",
+      "width": 2048,
+      "bytes": 247446,
+      "sha256": "19412bc12ee055dd7b181a34eb04d3eaf51afa5f208ee40448b6918c0cd3ca18"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/102c864e-7f36-4e6a-bedd-cde840a14d35/FC_2026_XC2233_Filter-Tech_1x1.webp",
+      "width": 2048,
+      "bytes": 67728,
+      "sha256": "fba3c13db8752fdfcce2f6a8a7a8f2b68c75ef8392361f0a2431d71ed8fb04b6"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/3ff6ad85-8983-427b-b71a-026f96ee65c8/FC_2026_XC2XXX_XC3XXX_XC5XXX_XC6XXXAnti-Tangle-Tech_1x1.webp",
+      "width": 2048,
+      "bytes": 298802,
+      "sha256": "c10c42b085d36f418726734b28469d924cfd53c72b32480dc7073c95a4f18798"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/91e9a15c-105e-4a65-9736-39bb13166456/FC_2026_XC2XXX_LED-nozzle_1x1.webp",
+      "width": 2048,
+      "bytes": 127326,
+      "sha256": "88a413966c653ea4cbb2f8319256f9cf60e2f4b6ecd0ce24ca110a73566065eb"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/e9d1f3a9-1a71-4225-b727-49b46527b83f/FC_2026_XC2233_Easy-Empty-Bucket_16x9_ICON.webp",
+      "width": 2048,
+      "bytes": 100292,
+      "sha256": "c1b88e05fc07fcc481592951ef2f184801d7f90736b2e28830cc67658da907db"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/aab839b6-0fb8-45af-9cbb-5e4b9511bbb2/FC_2026_XC2233_Wall-mount_16x9.webp",
+      "width": 2048,
+      "bytes": 54950,
+      "sha256": "4a0db4f6de05c52f9b6e599efad362a9c7839d27913280d98ce64da218311132"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo produkty-media/philips-powerup-xc3373-10/logo-philips-plotno.png (kopia; pierwotnie philips-7000-powercyclone-8-fc9747-09, G83)",
+      "bytes": 9114,
+      "height": 300,
+      "inkRatio": 0.3,
+      "width": 1200
+    }
+  ],
+  "dropped": [
+    {
+      "file": "produkt-06.webp",
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/a6b681f0-0035-4dc9-a83d-f598285a6c4d/FC_2026_XC2XXX_XC3XXX_XC5XXX_XC6XXX_Long-lasting-battery_1x1.webp",
+      "reason": "grafika wspólna XC2XXX-XC6XXX: elektroszczotka z laserową siatką, a XC2233 ma reflektory LED (spec OCC) — nie ten model"
+    }
+  ],
+  "note": "G104 ETAP 1 (28.11.2026): produkt-06 usunięte (laserowa siatka, inny model); logo marki na końcu."
+}
