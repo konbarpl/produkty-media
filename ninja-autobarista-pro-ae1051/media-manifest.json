@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:01:03.047604Z",
+  "sourcePage": "https://www.euro.com.pl/ekspresy-cisnieniowe/ninja-autobarista-pro-ae1051.bhtml (galeria JSON-LD karty Euro, pobrana przez dyrygenta 28.11 do _tmp/ninja-autobarista-pro-ae1051/euro/img, 3000->1600 px)",
+  "slug": "ninja-autobarista-pro-ae1051",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-ninja.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196503974897/c04fe55e765ad85040c615e0966ef163/ninja-autobarista-pro-ae1051,196503974897_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 225702,
+      "sha256": "3463b9fdd1703e53bd4a04b8d82a831b2485f876c76f4b8a98424c13dd618c13"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196503974897/2cfc3282699dc26bb17f5be982369b27/ninja-autobarista-pro-ae1051,196503974897_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 290071,
+      "sha256": "5cbae518f51acad314f0d5f99cc3d0b45c927eb10c2080c9af687ef0c12b8405"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196503974897/3c01f7448c1cd5d8e48551486ba41e2f/ninja-autobarista-pro-ae1051,196503974897_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 111010,
+      "sha256": "21bcbcc723780e7aa46d352d81bf5e0aafcc677e76836086998b5dcdd831a404"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196503974897/52dbdc2728f53b81cd6887ceda9dd1cd/ninja-autobarista-pro-ae1051,196503974897_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 264668,
+      "sha256": "43c5ef65b47a9331af5d9a362019e416ab5f70e91630444ab3003f32dd6e3945"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196503974897/370d36be13d1e112f13f56a419fff577/ninja-autobarista-pro-ae1051,196503974897_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 115912,
+      "sha256": "8a43fbc1589e8797e78f798a7550be62c24b55a88b3af7a80fff919abfc4fd62"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196503974897/27ffad8bf9a8ede988cf6c9a2d34ca35/ninja-autobarista-pro-ae1051,196503974897_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 164047,
+      "sha256": "e762e120a00dfca28e084ebd730598c2de9c46154ddbbecadb18c15919a95c81"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196503974897/cf5676954c87dba9aaa09c2164a9f984/ninja-autobarista-pro-ae1051,196503974897_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 100662,
+      "sha256": "c2380ddfa60b0ca0cc6460694aad8e7f0cf4dd21a7f88d63ed7ce72a9ca5d8bd"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196503974897/d015ed24315855bf3fa09be949c5f353/ninja-autobarista-pro-ae1051,196503974897_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 422295,
+      "sha256": "92fa273126ecedef8854faabb4954839087aa1d16b27034ac6ddc479b5b11e27"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196503974897/4114f3764deaa4491774beed9467c22f/ninja-autobarista-pro-ae1051,196503974897_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 465103,
+      "sha256": "2da6b5910306d0575c292ba6799651d5109b8afd54bfa3c70fb75594d34a65da"
+    },
+    {
+      "file": "logo-ninja.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "repo produkty-media/ninja-precisionpro-bz651eu/logo-ninja.jpg (plotno 1200x300)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 17982,
+      "sha256": "444e7099c96e1efb0d66fda0e680a4bff8af0e6026dddb61da070bc07f19709b",
+      "inkRatio": 0.298
+    }
+  ]
+}
