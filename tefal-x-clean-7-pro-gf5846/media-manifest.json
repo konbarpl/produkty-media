@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T13:12:55.972116+00:00",
+  "sourcePage": "https://www.tefal.pl/bezprzewodowy-odkurzacz-myjacy-tefal-x-clean-7-pro",
+  "slug": "tefal-x-clean-7-pro-gf5846",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-tefal-plotno.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gf5846_x-clean_h1.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 44850,
+      "sha256": "92413c1fea802a017443307ed8ec197370612b6d2e3636b2a84c847b7f289f3b"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gf5856_x-clean-7-pro_pw1_pl-pl.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 167886,
+      "sha256": "943e7e3c27226e25a458003171ae8b5f500fdbf11374b622e93281dcc1173a7b"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gf5856_x-clean-7-pro_pw3_pl-pl.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 135535,
+      "sha256": "d8461e9abc8a8a1ed8acc68fa6ce2f6aa4d1d0d2c9960aeb3ab0c773d0210598"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gf5856_x-clean-7-pro_pw4_pl-pl.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 129060,
+      "sha256": "18286a41938763d5812277b1bf5f9740cead4c87cecb1c6e76c4cdef07c2af4e"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gf5856_x-clean-7-pro_pw5_pl-pl.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 190647,
+      "sha256": "98976697e52a1e795fe3e26fe00b801b3fa56157efa20c1135e999b4db3f3906"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gf5856_x-clean-7-pro_video-carousel_pl-pl.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 184019,
+      "sha256": "9c94d1337a3529f0722d0f88b01c4c915b2983c3bbf6578e495b6de00cfa425e"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.tefal.pl/media/.renditions/wysiwyg/Large-TFL_GF5856_X-CLEAN-7-PRO_PWD_pl-PL.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 110765,
+      "sha256": "b8cd1975246df9df1fbf11095e718874ce3d1174c85268c00445335708c15520"
+    },
+    {
+      "file": "logo-tefal-plotno.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "kopia z repo mediow: produkty-media/tefal-clean-it-hot-cold-iz7021/logo-tefal-plotno.jpg",
+      "bytes": 14886,
+      "sha256": "dff97262e6ec73b44eb88cef7226ee759a5185e7a1a87ea13e853754e6e2b4df",
+      "width": 1200,
+      "height": 300,
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 1,
+  "sourceNote": "Zdjecia z oficjalnej karty tefal.pl X-Clean 7 Pro (Nr ref. GF5846, SKU 7211421002, kolor Czarny). produkt-01 = packshot GF5846 na bialym tle z kompletem (baza, zapasowa szczotka, filtr, szczoteczka). produkt-02..07: grafiki z galerii/opisu TEJ karty, w nazwie pliku kod GF5856 (X-CLEAN-7-PRO) — wizualnie ten sam czarny model z LED; zgloszone w raporcie do decyzji. ODRZUCONE: TFL_X-CLEAN-7-PRO_GF5856_HOTSPOT-COMPLETE (baner 1464x600, nieczytelny drobny tekst) oraz grafiki RWT_GZ5856 (Rowenta, inna marka). Logo marki na koncu galerii."
+}
