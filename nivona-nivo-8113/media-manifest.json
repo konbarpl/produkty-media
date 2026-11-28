@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:17:44.393530Z",
+  "sourcePage": "https://www.euro.com.pl/ekspresy-cisnieniowe/nivona-nivo-8113-szerokosc-24cm.bhtml",
+  "slug": "nivona-nivo-8113",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196100581425/f65708c2c030089193fa06c8ffc0d36b/nivona-nivo-8113-szerokosc-24cm,196100581425_5.jpg",
+      "width": 1112,
+      "height": 1600,
+      "bytes": 366316,
+      "sha256": "d7585652d37961830eef72d8925c4b7ed739dabbde5c208fcfb0769096e21071"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196100581425/64d2951c53cd2229d7ac044f4a419fbc/nivona-nivo-8113-szerokosc-24cm,196100581425_5.jpg",
+      "width": 1134,
+      "height": 1600,
+      "bytes": 363181,
+      "sha256": "1326be24e6e0076dcc0011408c9c4e013f8d36a9fa8f7a4d55164413550a1ccb"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196100581425/39a8f47489fc374f123a166d37a78167/nivona-nivo-8113-szerokosc-24cm,196100581425_5.jpg",
+      "width": 1312,
+      "height": 1600,
+      "bytes": 368847,
+      "sha256": "489f86976a6512a673a6723c8be8009bedf8057e6703f603b19500b8405cdf69"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196100581425/59f3d7f41ecc99bbcf3cb19811004690/nivona-nivo-8113-szerokosc-24cm,196100581425_5.jpg",
+      "width": 1600,
+      "height": 1198,
+      "bytes": 383987,
+      "sha256": "d31cc7bf19961f2e43ca7c3d5e42cc608bd5e19453dd39f483eebbd30fb0a29b"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196100581425/d6a952d880d7b6f41916cceb17d4c06d/nivona-nivo-8113-szerokosc-24cm,196100581425_5.jpg",
+      "width": 1600,
+      "height": 1180,
+      "bytes": 245000,
+      "sha256": "45e7fe55f5b988ed10cd899b18eda0304b55d0564445cbcae585db7eca0da8fe"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196100581425/5712749c8888c77d9f7446c157aa1e99/nivona-nivo-8113-szerokosc-24cm,196100581425_5.jpg",
+      "width": 800,
+      "height": 533,
+      "bytes": 89764,
+      "sha256": "8e64fa866b747e974a6b09e9f61e9fd9f703def5e2c28e494bdc1b40eb23327d"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196100581425/f59707a915f64a0f651a41fe5a4cc345/nivona-nivo-8113-szerokosc-24cm,196100581425_5.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 273787,
+      "sha256": "579686f8f056171df3b173c808382f1ebc5987e05079b5a5dfe48d43b9f2ad5b"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196100581425/c62b3839f02ea98119c7a391ee796fc3/nivona-nivo-8113-szerokosc-24cm,196100581425_5.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 254302,
+      "sha256": "cd29c45bbbe4b25a8fc59074ba36ece4755f23cf3fe65ea41a60b5994b5a9678"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196100581425/a35b15b4e785b9cc25b955d87234de1d/nivona-nivo-8113-szerokosc-24cm,196100581425_5.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 236453,
+      "sha256": "8e4871903fdecc50fccc51115ffbc196b058f9a28b2445fa8c60dedca40f5d0d"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "repo mediów nivona-nivo-8111/logo-01.jpg (= nivona-nicr-797; wordmark NIVONA z nivona.com/pl, płótno 1200x300)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 14234,
+      "sha256": "1da5bd749b7bd106cd56015814f88f8f44af599b851b48ba79ab5e83e3d6b043",
+      "inkRatio": 0.302
+    }
+  ],
+  "note": "Zdjęcia z karty Euro NIVO 8113 (pobrał dyrygent 28.11 do _tmp/nivona-nivo-8113/euro/img, maks. 1600 px; nazwy plików źródłowych nivona-nivo-8113-szerokosc-24cm). Karta nivona.com/pl/product/nivo8113 = „Nie znaleziono produktu” (28.11). Kontaktówka: _tmp/nivona-nivo-8113/kontaktowka.jpg — 01–05 packshoty tytanowego korpusu, 06–09 lifestyle. Logo NIVONA na końcu."
+}
