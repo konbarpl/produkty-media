@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T13:47:29.878915+00:00",
+  "sourcePage": "https://www.tefal.pl/odkurzacz-bezprzewodowy-tefal-x-force-flex-20-80",
+  "slug": "tefal-x-force-flex-20-80-silence-ty9ed4",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-tefal-plotno.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/d/i/digital-tfl_ty9ed4_x-force-silence-20.80_h1_1_.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 151555,
+      "sha256": "fc37de61016a23a6efc02ba85dfec03c3983b3ddcb1fe021d2bd40c722f5619a"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/m/e/medium-tfl_x-force-silence-20.80_ty9ed4e0_pwcd_pl-pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+      "width": 945,
+      "height": 945,
+      "bytes": 116662,
+      "sha256": "f980bd805aa322cf616fcbc1b43a88a36719fbcd62112739b4760a776c7a7fd7"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/m/e/medium-tfl_x-force-silence-20.80_ty9ed4e0_vacuuming-power_pwc1_pl-pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+      "width": 945,
+      "height": 945,
+      "bytes": 178300,
+      "sha256": "545d1f1eb26149b07ad4e4b4c4a6b818f4ad99f5d423a532ce8f28da2ad8cc00"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/m/e/medium-tfl_x-force-silence-20.80_ty9ed4e0_silence-force-technology_pwc2_pl-pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+      "width": 945,
+      "height": 945,
+      "bytes": 190320,
+      "sha256": "33d4960fe4f55c02f4f9ff3e89de3309644f89dc7c2e2fdde5fb2739602b936d"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/m/e/medium-tfl_x-force-silence-20.80_ty9ed4e0_ultra-long-cleaning_pwc3_pl-pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+      "width": 945,
+      "height": 945,
+      "bytes": 95580,
+      "sha256": "b94f72310b4490c57b85f47f77903256a9fd5670a1851acb7f0e6fba75aef306"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/m/e/medium-tfl_x-force-silence-20.80_ty9ed4e0_smart-guidance_pwc4_pl-pl.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200&format=jpeg",
+      "width": 945,
+      "height": 945,
+      "bytes": 144708,
+      "sha256": "c0372a5dc29654cb8627be9ca1fadf2c5097dfd033903b92c88b6dd8a77660c7"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://www.tefal.pl/media/wysiwyg/Medium-TFL_X-FORCE-SILENCE-20.80_TY9ED4E0_FULL_CLEANING-PACKAGE_1__1.jpg",
+      "width": 945,
+      "height": 945,
+      "bytes": 131099,
+      "sha256": "0cb167398b1e796bc9a25ff1736c17fa5ba3465d2357d043248f6551d6452500"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://www.tefal.pl/media/wysiwyg/Medium-X-FORCE_SILENCE_20.80_Lifestyle_pictures_1.jpg",
+      "width": 945,
+      "height": 945,
+      "bytes": 163318,
+      "sha256": "b1d9986b4ab83abf37928f78646069768b63a4f719e80d749fa408406218c129"
+    },
+    {
+      "file": "logo-tefal-plotno.jpg",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "kopia z repo mediow: produkty-media/tefal-clean-it-hot-cold-iz7021/logo-tefal-plotno.jpg",
+      "bytes": 14886,
+      "sha256": "dff97262e6ec73b44eb88cef7226ee759a5185e7a1a87ea13e853754e6e2b4df",
+      "width": 1200,
+      "height": 300,
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 1,
+  "sourceNote": "Zdjecia z oficjalnej karty tefal.pl X-Force Flex 20.80 Silence (Nr ref. TY9ED4, SKU 2211401520, EAN karty 3221616198050). produkt-01 = packshot TY9ED4 na bialym tle z kompletem (stacja, glowica Aerospin Aqua z padami, mini elektroszczotka, ssawki, Mini Flex, filtr). produkt-02..07: grafiki z galerii/opisu tej karty z kodem TY9ED4E0 w nazwie pliku; produkt-08: lifestyle X-FORCE_SILENCE_20.80 (bez kodu w nazwie, wizualnie ten sam model). ODRZUCONE: HOTSPOT-DESKTOP (baner 1575x645, drobny tekst) oraz grafiki RWT_RH9E74 (Rowenta, inna marka). Logo marki na koncu galerii."
+}
