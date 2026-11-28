@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:27:08Z",
+  "sourcePage": "https://www.euro.com.pl/ekspresy-cisnieniowe/krups-minimaestro-xp350d.bhtml",
+  "slug": "krups-minimaestro-xp350d",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/5228277b5340d8d17b4a038417407c0d/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 216155,
+      "sha256": "0a69816c2ef6b96bbafb75df35bab92513240cf882d5bb88040ff99d2e1ac23f"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/d7793c2209e52809bf13cef0affcab01/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 297597,
+      "sha256": "2fed109ccc13437d24936249a162e2353aa7badcd87962de051dddea479ff5bf"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/1f27987282f4d0ec8d88c5f9c600a04c/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1575,
+      "height": 1575,
+      "bytes": 298140,
+      "sha256": "b47c7a420ac8ef3761aebea2f24254a240d23ebf3feacf4c776c771f8b8206bf"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/644b5ca8f6598d568e882bacbdcbd7e/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1115,
+      "height": 1575,
+      "bytes": 257022,
+      "sha256": "a952548509422c2537422667a435e54b8f84bc26e8757d63ff8a3a141570efa0"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/fdcfd67c15ca9f8e98fa0aef9584a513/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1050,
+      "height": 1575,
+      "bytes": 206601,
+      "sha256": "a0fe9c33b75c257eada91285b3747cc49d5a6a1c7bf31197b7fcf09880fce663"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/2ecfafa17a7654e748a93990164a73ae/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1575,
+      "height": 1181,
+      "bytes": 213664,
+      "sha256": "a835cf20e3eba4a8ce073f60a57c2460a4b99978a8d8cfadd8fea32c9b94a4e1"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/9576c56a83f5c76789e9ddbf2b2ef57/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1575,
+      "height": 973,
+      "bytes": 173755,
+      "sha256": "3d271ca1a558b27ea869f52d84c79831f9c986aa99f854c60747b5c7c638da76"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/524efa6e2af55e59d3cfb0e5538c87fc/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1575,
+      "height": 1132,
+      "bytes": 240316,
+      "sha256": "b86c96f35f37d3592706be22a0c297c3c461cc34708627656ca0d9dca293ecb7"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/c7396d8130e960a62ff5311e0943156/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1575,
+      "height": 1050,
+      "bytes": 166371,
+      "sha256": "0a14f6e0190c07a38b9d53e46b18877630831e0c961aa626ca34a6aa136f6ba0"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/223fcf665f6cec703eec0edde6cd3ef2/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1050,
+      "height": 1575,
+      "bytes": 173713,
+      "sha256": "29e9bac4c782133ef9396fa0b95f282dab00ee08149cc2bbd3c1296b01ac182f"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/dee4b6add3bd17b9e40b92662ca47a77/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1050,
+      "height": 1575,
+      "bytes": 212331,
+      "sha256": "82663e344692289164be102bfc338b2d3133fa13d2a5e80fa62473e77d67ebaf"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/b0b9b3e344fe1e8675b80db7d4d5f092/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1575,
+      "height": 1050,
+      "bytes": 196119,
+      "sha256": "4b844a7cc2ef6865dfc04a1a2711722561e6c5f88f7c8790c749e8e34e6f41f2"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/e16e83723309cb4c8c24c01e29c5bd1f/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1575,
+      "height": 1575,
+      "bytes": 210535,
+      "sha256": "9e0ea9156e5c58eef4571e420230f6ab419a8ebb4519baeaaae7ad1c08b029d1"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/7c133799a639954aed7295f978127490/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1575,
+      "height": 1575,
+      "bytes": 328931,
+      "sha256": "351e0d46e949c551966768a379a2eb623bbf13dc7dffc1735f185b9d68c3b75f"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/197247697001/dd63eb12a9eba7ee2d0c43f4afa91d79/krups-minimaestro-xp350d,197247697001_5.jpg",
+      "width": 1600,
+      "height": 800,
+      "bytes": 196982,
+      "sha256": "cc071b29b99158e0c4093d0d8724392b981a02f36383e29301f9025874934a74"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 16,
+      "sourceUrl": "repo mediów krups-ea898gf0/logo-01.png (logo KRUPS) → płótno 1200x300, znak 30% (logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 14935,
+      "sha256": "a8a04dd94092b239ebc4c8765d53dda8e436243db6a1570f4b2a8a94c5feba2e",
+      "inkRatio": 0.3
+    }
+  ],
+  "note": "Zdjęcia z karty Euro Krups MiniMaestro XP350D (pobrał dyrygent 28.11 do _tmp/krups-minimaestro-xp350d/euro/img; nazwy plików źródłowych krups-minimaestro-xp350d,197247697001). Kontaktówka: _tmp/krups-minimaestro-xp350d/kontaktowka.jpg — wszystkie 15 zdjęć pokazują MINI MAESTRO. Karta producenta: krups.pl 404, krups.com.pl wyszukiwarka bez karty XP350D (28.11). Logo KRUPS na końcu."
+}
