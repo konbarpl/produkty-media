@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:04:46.837668Z",
+  "sourcePage": "https://www.euro.com.pl/ekspresy-cisnieniowe/philips-baristina-bar400-60.bhtml (galeria karty Euro BAR400/60, pobrana przez dyrygenta 28.11 do _tmp/philips-baristina-latte-bar400-60/euro/img, 1600 px)",
+  "slug": "philips-baristina-latte-bar400-60",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196354338001/58c03fceb15c56c70b189a158d374a82/philips-baristina-bar400-60,196354338001_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 172485,
+      "sha256": "d899053142a450ae52f4482a6916dff0664b1d0ec25e746274f85e632d91ccd6"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196354338001/2aef25f184faa54a7134a58436a30d21/philips-baristina-bar400-60,196354338001_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 267687,
+      "sha256": "9c49e99b85fd9602bc7fedcb3b49796366703191ad5a194fdcf4f22e137227a3"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196354338001/f4387561219d5cb1e873c9d99deca51c/philips-baristina-bar400-60,196354338001_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 258218,
+      "sha256": "265829666243932a425982dcebc2c4ea5207244f2bc8c90128319cad7465558d"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196354338001/9ca82cbd93105942a961f6f1cce36acc/philips-baristina-bar400-60,196354338001_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 158579,
+      "sha256": "fb763a295ed17f0c3fad67b27526e69e8ed5ec9228773c3cf6bf720e005c02c0"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196354338001/ae475a52d6df9c8f2cb98c7178d3182b/philips-baristina-bar400-60,196354338001_5.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 93827,
+      "sha256": "f1c34398b555a31e9725bcade7e8f5c209c3d61a351c8d546369d09153965b1a"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196354338001/9d3de46074a86bd21ca669506fc56656/philips-baristina-bar400-60,196354338001_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 222562,
+      "sha256": "f90ad51e746196ee0df2054d6866ac6918eb306acd978f060f8f58a5b876aa26"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196354338001/33bb666c0143d93201e384f572e7d8b7/philips-baristina-bar400-60,196354338001_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 245822,
+      "sha256": "d709da7f7aa8814b43b976f038f2112afa69c4e90b1a467540c5b72936226d3b"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196354338001/15b9f0580f5e261cb526d6c67c27ab7a/philips-baristina-bar400-60,196354338001_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 261197,
+      "sha256": "18fb1d9310a900e0057d7b44bd7ad347a190e6d7b2235fb6b7a326694741c0e7"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196354338001/7b8548d4432d9223820c8c640ac4bbaa/philips-baristina-bar400-60,196354338001_5.jpg",
+      "width": 809,
+      "height": 809,
+      "bytes": 78887,
+      "sha256": "77d3291138cf434288ace952995d2875bb7fafc0c20fb9b95778b05424dfd295"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196354338001/f83c7cb4ca8f446ac6b19038ef62dcdf/philips-baristina-bar400-60,196354338001_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 288223,
+      "sha256": "cbe7d9ac55f6a1974359712531d533ccce30c59a52bdbb0a2adc811aec49e81f"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://f00.esfr.pl/foto/4/196354338001/732b39fe6aec3ba5cb29ba7dbc9bbbd9/philips-baristina-bar400-60,196354338001_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 240196,
+      "sha256": "8ce6d626caa4f1fe35c7cebafd9406f905426c35d40b6333c289a5ed54c7d28d"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo produkty-media/philips-6000-lattego-pro-ep6551-11/logo-philips-plotno.png (kopia)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 9114,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+      "inkRatio": 0.3
+    }
+  ],
+  "note": "Galeria = 11 zdjec karty Euro BAR400/60 w kolejnosci JSON-LD (kontaktowka sprawdzona: czarny korpus, dzbanek stalowy, wymiary 345/378/259 mm zgodne z karta Philips) + logo Philips na koncu."
+}
