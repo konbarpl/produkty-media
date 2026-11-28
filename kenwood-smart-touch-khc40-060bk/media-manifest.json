@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T15:30:00+01:00",
+  "sourcePage": "https://www.kenwoodworld.com/pl-pl/p/kenwood-smart-touch-robot-planetarny-smart-touch-khc40.060bk/KHC40.060BK.html?pid=0W20010132",
+  "slug": "kenwood-smart-touch-khc40-060bk",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "logo-kenwood-plotno.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.delonghi.com/1200x1200/assets/379751",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 80567,
+      "sha256": "5bd4dd77bd60f9370fce898383b7b2c97251a718838e89f5ade08d35d8b024e9",
+      "note": "packshot z kompletem zestawu na bialym tle; galeria karty KHC40.060BK (swatch-content-KHC40.060BK)"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dam.delonghi.com/1200x1200/assets/379752",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 67372,
+      "sha256": "8ad2cc938f5e53d2c90c89a6f12813c11978a994dbdae5ecf9b7dde00b2e7c71",
+      "note": "packshot 3/4; galeria karty KHC40.060BK (swatch-content-KHC40.060BK)"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://dam.delonghi.com/1200x1200/assets/379763",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 121650,
+      "sha256": "3a917f9b0f6e6d588857112782089ed4d746ea0afbe3ff06451ceedc1b09ab26",
+      "note": "aranzacja w kuchni; galeria karty KHC40.060BK (swatch-content-KHC40.060BK)"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://dam.delonghi.com/1200x1200/assets/379754",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 100031,
+      "sha256": "e6f037322c9b7b8d5b894842797e823aadff324ad0f1cb1087ffc9c0a7d5c51f",
+      "note": "praca z blenderem; galeria karty KHC40.060BK (swatch-content-KHC40.060BK)"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://dam.delonghi.com/1200x1200/assets/379753",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 94596,
+      "sha256": "7ee4bce9be6a517669bb9d34cea031ec992bc4188f263baff8a087b8c191cc36",
+      "note": "panel dotykowy z programami; galeria karty KHC40.060BK (swatch-content-KHC40.060BK)"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://dam.delonghi.com/1200x1200/assets/379755",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 98368,
+      "sha256": "9e601ae163af04e02b5f8fc851d0a6c4451bb116fbcb9b83a3c16e59a006945b",
+      "note": "zakladanie mieszadla; galeria karty KHC40.060BK (swatch-content-KHC40.060BK)"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://dam.delonghi.com/1200x1200/assets/379756",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 115125,
+      "sha256": "208d301d793089f8fd65a31e4493ae7e56f8dd9648f13553cc7100a2daebb2f9",
+      "note": "zastosowania akcesoriow; galeria karty KHC40.060BK (swatch-content-KHC40.060BK)"
+    },
+    {
+      "file": "logo-kenwood-plotno.jpg",
+      "kind": "logo",
+      "order": 8,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kenwood_Ltd_Logo.svg",
+      "width": 1200,
+      "height": 300,
+      "bytes": 15406,
+      "sha256": "d19952f226cd7537e2a75cdcb32ff028e7d13052007750597a0cb5b823673d49",
+      "note": "kopia z kenwood-kmix-kmx750rd (logo_plotno.py --napraw)",
+      "inkRatio": 0.3
+    }
+  ]
+}
