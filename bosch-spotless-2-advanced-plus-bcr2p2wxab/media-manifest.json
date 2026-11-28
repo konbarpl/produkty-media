@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T13:55:12.590607Z",
+  "sourcePage": "https://www.bosch-home.pl/pl/product/odkurzanie/robot-sprzatajacy/BCR2P2WXAB",
+  "slug": "bosch-spotless-2-advanced-plus-bcr2p2wxab",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-06.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "logo-bosch-1200x300.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/29004657_BCR2P2WXAB_STP_def.webp",
+      "width": 4000,
+      "height": 3186,
+      "bytes": 91416,
+      "sha256": "ee3fa5cee73d5c9ed16f2a6466722433c8505ef913e7e9e3b06c76d107aaee1c"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/29004659_BCR2P2WXAB_PGA1_def.webp",
+      "width": 4000,
+      "height": 3294,
+      "bytes": 114686,
+      "sha256": "45eb6cd464fcadaacc773786411254e34112cbf735d414dd7c0618ae800535fb"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/29004653_BCR2P2WXAB_PGA3_def.webp",
+      "width": 4000,
+      "height": 3294,
+      "bytes": 98550,
+      "sha256": "e077744fdf239016fb7cdbe3a23e168e29c6968266d7abc7eedb8b56f6e451b1"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/29004651_BCR2P2WXAB_PGA2_def.webp",
+      "width": 3637,
+      "height": 3671,
+      "bytes": 87056,
+      "sha256": "e3057ced2237f6046ba7065bee03dd38fe22f91648557bafe33431f41cdf7a4e"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/29004655_BCR2P2WXAB_PGA4_def.webp",
+      "width": 3669,
+      "height": 3658,
+      "bytes": 530262,
+      "sha256": "ad76b7f8c541657546786807da2b7200b0a481b01fcb3272d41e058813a0c222"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28933880_BO_Robotics2_Information_Organic_Secondary_no_Text_1920%C3%971080_Suction_Power_BCR2P2WXAB_white_antibacterial.webp",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 439678,
+      "sha256": "bd3fce15c3cfe76a4d682d6f533cc601e6c70fb68707a4a39b12100080bd3ebd"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28933872_BO_Robotics2_Infor_Web_Org_Secondary_no_Text_1920%C3%971080__Smart_Stain_Removal_BCR2P2WXAB_white_antibacterial.webp",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 148578,
+      "sha256": "ad229258ccb065c6a1b53b58ca75f473087c72cbc590b964384ba5789b29e068"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28933867_BO_Robotics2_Information_Web_Organic_Secondary_no_Text_1920%C3%971080__Main_Brush_BCR2P2WXAB_white_antibacterial.webp",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 172638,
+      "sha256": "4d8baa5e7005f060b7656826b2425003467aacf551b2a82aa0be2f03a4ffbe79"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28933871_BO_Robotics2_Infor_Web_Org_Secondary_n_Tex_1920%C3%971080_Roller_Mop_Lifting_BCR2P2WXAB_white_antibacterial.webp",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 147326,
+      "sha256": "31178f06536d310c2a46f436d8458eea4cbb011fd3d45c4d51cfcf1f8911efc4"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://media3.bsh-group.com/Product_Shots/28933878_BO_Robotics2_Inform_Secondary_no_Text_1920%C3%971080_Threshold_Navigation_BCR2P2WXAB_white_antibacterial.webp",
+      "width": 3200,
+      "height": 1800,
+      "bytes": 171612,
+      "sha256": "f833a6e7fbc05e830616f7ff749fadce8ae01c0af5ab1ab14fdee48b70aa6c35"
+    },
+    {
+      "file": "logo-bosch-1200x300.jpg",
+      "kind": "logo",
+      "order": 11,
+      "sourceUrl": "repo mediów: bosch-spotless-advanced-plus-bcrd2w/logo-bosch.jpg (płótno 1200x300 logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 17583,
+      "sha256": "5af452c25761b62df8d12f3ac402beee89b18646201fec7b5ad89f755063aa5f",
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": 0,
+  "note": "Zdjęcia wyłącznie z plików z kodem BCR2P2WXAB w nazwie (karta producenta); pominięte pliki z kodem BCR2S2WX/BCR2S2WXAB (siostrzany model Spotless 2 Advanced). Folder Euro od dyrygenta bez img/ w chwili budowy."
+}
