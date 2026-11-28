@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T13:12:11.504Z",
+  "sourcePage": "https://www.home-appliances.philips/pl/pl/p/XC7383_10 (OCC API versuni-b2c-pl, galeria karty XC7383/10)",
+  "slug": "philips-powerup-xc7383-10",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/85438bed-72bf-4c78-bb8f-f9dcfe47d859/FC_2026_PAP_-XC7383-Complete_1x1.webp",
+      "width": 2048,
+      "bytes": 90932,
+      "sha256": "5942f50c78d789c441a00e7b05101990a5f228c6d3cd6c16fbd95e533a780360"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/c3196f17-e74b-4441-803b-562764bce445/FC_2026_XC7XXX_XC8XXX-_Dirt-Pickup_1x1.webp",
+      "width": 2048,
+      "bytes": 509158,
+      "sha256": "bdbf024ab69beafa163f9f9a4d0ce1c9fc0c4e9f7fbf8d9903bf7202c2da3ad2"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/8997bfb9-a134-4259-9cb3-dc7b10fa6e01/FC_2026_XC7XXX_XC8XXX_Powerful-Motor_1x1.webp",
+      "width": 2048,
+      "bytes": 104482,
+      "sha256": "3bee709a390758ec69c38f8dacb81dcf8875b61343a758e4906bcbd3f05f7ada"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/99fbb529-2c96-4ffa-b0d8-ac22e90ec17b/FC_2026_XC7XXX_XC8XXX_Patented-Nozzle-Technology_fullframe.webp",
+      "width": 2048,
+      "bytes": 186832,
+      "sha256": "7338d62933c30ec2bdb6e6c57e46ad00a33d3b39a57b4390264b06a4c305096c"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/b014a22b-408b-4f50-a5dd-a41649a576d5/FC_2026_XC7363_XC7383_Deep-scan-technology_1x1.webp",
+      "width": 2048,
+      "bytes": 65348,
+      "sha256": "6f08bbaf83d4b3c298adcd0ed15c56116c8babaa34f2b625bb6ae83056de500b"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/ae51f8ae-341f-41bb-b0cb-9d823a3e16a8/FC_2026_XC7363_XC7383_Filter-Tech_1x1.webp",
+      "width": 2048,
+      "bytes": 58012,
+      "sha256": "a231fa0e146f5ad2061e702e6736a884fcd34c1a9bf85369dff3fed95c044d68"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/fa2c54ba-402c-473b-be02-9e5f4210b3c5/FC_2026_XC7XX_XC8XX_Anti-Tangle-Tech_1x1.webp",
+      "width": 2048,
+      "bytes": 287844,
+      "sha256": "5a11f3bc1eea970a08426d239f5cfd5ccb811624cf6c6eca709fc506f685f848"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/8983c7ad-d910-41b4-a3f0-990bab74e334/FC_2026_XC7XXX_Flexible-stick_1x1.webp",
+      "width": 2048,
+      "bytes": 211732,
+      "sha256": "4571d0fbc2587cfd21a9e23f980daebe3b57461f0915b8e7761b389d7e57d4da"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo produkty-media/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png (twarde-dane G83)",
+      "bytes": 9114,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+      "height": 300,
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 0,
+  "note": "produkt-06 (FC_2026_XC7XXX_XC8XXX_T6) usuniete: ssawka z bocznymi walkami i siatka laserowa nie odpowiada ssawce z packshotu XC7383 ani opisowi karty."
+}
