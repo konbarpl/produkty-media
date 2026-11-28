@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T13:38:13.716Z",
+  "sourcePage": "https://www.home-appliances.philips/pl/pl/p/EP6551_11 (OCC API versuni-b2c-pl: galeria karty EP6551/11 + grafiki productFeatures z kodem EP6551_11)",
+  "slug": "philips-6000-lattego-pro-ep6551-11",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "produkt-12.webp",
+    "produkt-13.webp",
+    "produkt-14.webp",
+    "produkt-15.webp",
+    "produkt-16.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/5f7a6f7f-e703-43e5-992b-25ccc07984f1/CO_2026_EP6551_11_F.webp",
+      "width": 2048,
+      "bytes": 89794,
+      "sha256": "442cb2abc79c4e66bc8213a60920e67dfc2e5041b7aa646d097801bf640d5c2d",
+      "flattened": "alfa -> biale tlo"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/09c5011f-4a31-4629-937b-f85fefbaf519/CO_2026_EP6551_11_RFT_dimensions-1.webp",
+      "width": 2048,
+      "bytes": 124280,
+      "sha256": "18aee39e1a9b4404755d1853b244eed3002f57fb13bf035fb0f956e9f751ca96",
+      "flattened": "alfa -> biale tlo"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/f8b5acbe-902d-4972-a5f7-04e879c0793a/CO_2026_EP6551_11_MIP2-1x1.webp",
+      "width": 2048,
+      "bytes": 92396,
+      "sha256": "aaf2ad12d078a9d548f1d21e62147219ea1a158ca818335569c97bed8136e04e"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/46e66aa0-1b47-47df-8002-ba564265a799/CO_2026_EP6551_11_F2_Bean-adjust_1x1.webp",
+      "width": 2048,
+      "bytes": 94502,
+      "sha256": "9a079ee066204bfc009a53a47fadc9c41f55521fa5e265e7e5170eb742eaeb21"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/e9bed8b9-d464-4772-a3cc-55595a636fa3/CO_2026_EP6551_11_F3-1x1.webp",
+      "width": 2048,
+      "bytes": 77192,
+      "sha256": "c4694efe5982a2970f6a568188b509b400ef22a596e2896a6ec93c7479879f4d"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/4bf3861d-f072-47ae-9354-0f9160c8c30f/CO_2026_EP6551_11_F17-1x1.webp",
+      "width": 2048,
+      "bytes": 181392,
+      "sha256": "0a931809ff90f795ea8a3e75218bbf1bf5cd7b7e8cca9ee763083527bcc89dea"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/ef4315ca-8c9f-4b95-b0f0-0fa9737fbdad/CO_2026_EP6551_11_F2-16x9.webp",
+      "width": 2048,
+      "bytes": 80200,
+      "sha256": "d8dca394e65573415a799bec2ae87f877a8cd3417015099e0bddb18f7c5cdd2b",
+      "flattened": "alfa -> biale tlo"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/925387ab-8adf-450a-a8a5-5f1c8e90002e/CO_2026_EP6551_11_Standard_16x9-1.webp",
+      "width": 2048,
+      "bytes": 89880,
+      "sha256": "67693eff8460402619bfdcf7b80d7c778a997bce2d3eb07215b13ea603353b3c",
+      "flattened": "alfa -> biale tlo"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/50f4b2e0-5a60-4484-a538-792878bcecc8/CO_2026_EP6551_11_F15-16x9.webp",
+      "width": 2048,
+      "bytes": 75794,
+      "sha256": "b075e7cff0ff0eed5f2fb2760931a7a5dbc7558832ec14464622861347b93825",
+      "flattened": "alfa -> biale tlo"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/f1b547e9-25ee-4390-ab3c-f50b6430b5b5/CO_26_EP6551_11_PLS_REPLACE-01_16x9.webp",
+      "width": 2048,
+      "bytes": 115544,
+      "sha256": "2226442c05431b54d2de3575398b57ae0e5ba36428c0859a825f5e6128aee427",
+      "flattened": "alfa -> biale tlo"
+    },
+    {
+      "file": "produkt-12.webp",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/081b5d8b-f28f-4be5-bb57-6bd770ae6c4e/CO_2026_EP6551_11_F1-16x9.webp",
+      "width": 2048,
+      "bytes": 101794,
+      "sha256": "65875c249a86edccc98e220242d705be6e0e3a2a7df1f90057660e1f1219f061",
+      "flattened": "alfa -> biale tlo"
+    },
+    {
+      "file": "produkt-13.webp",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/ac904504-f3e3-416e-bb1b-6221a53258d8/CO_2026_EP6551_11_F13.webp",
+      "width": 2048,
+      "bytes": 95546,
+      "sha256": "f091c2e31663a4fddd3c48202db386b8cd2dec79a8b80072e610b1d09d8eeb5f",
+      "flattened": "alfa -> biale tlo"
+    },
+    {
+      "file": "produkt-14.webp",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/f817d4e2-6f56-4dd8-a07a-c24710d3dac5/CO_2026_EP6551_11_F11-16x9.webp",
+      "width": 2048,
+      "bytes": 111224,
+      "sha256": "f04b4e8095a03b157c5d6878910d7fdc99438759d5257681cc4624a66293d57a",
+      "flattened": "alfa -> biale tlo"
+    },
+    {
+      "file": "produkt-15.webp",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/2beaa7d0-9b88-4085-951a-cdaaecd6de04/CO_2026_EP6551_11_F16-16x9.webp",
+      "width": 2048,
+      "bytes": 98594,
+      "sha256": "4d39900f9914c8983cc34d16f569bc538cc6a31c9f773fcdd8388e1cbe37e533",
+      "flattened": "alfa -> biale tlo"
+    },
+    {
+      "file": "produkt-16.webp",
+      "kind": "product",
+      "order": 16,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/b7281e6f-1141-4350-98fa-127867301616/CO_2026_EP6551_11_F14-16x9.webp",
+      "width": 2048,
+      "bytes": 71638,
+      "sha256": "87d6a0878e22c47a0177c5c1b556e3dbfb1c2604619a5f1aafe9bb6157852774",
+      "flattened": "alfa -> biale tlo"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo produkty-media/philips-7000-powercyclone-8-fc9747-09/logo-philips-plotno.png (kopia, G83)",
+      "bytes": 9114,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+      "width": 1200,
+      "height": 300,
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": [
+    0,
+    {
+      "file": "produkt-06.webp",
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/6fc56850-5c08-4398-b098-2a38f8607760/CO_2026_EP6551_11_F18.webp",
+      "reason": "F18: maly kadr na pustym plotnie, ta sama scena co produkt-09 (BrewExtract)"
+    }
+  ],
+  "note": "Galeria: tylko pliki z kodem EP6551_11 (karta Versuni OCC). Odrzucone: EP8757_92 EasyClean (inny kod), EP6551_91 SilentBrew (inny wariant), EP8757_20 Grinder, MIP2/F3/F17 16x9 (te same kadry co w galerii 1x1), produkt-06."
+}
