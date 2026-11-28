@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:39:15.813282+00:00",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-64476-Robot-sprzatajacy-DREAME-Aqua-20-Pro-Ultra-Roller-S-Complete-czarny.html + https://www.euro.com.pl/odkurzacze-automatyczne/dreame-aqua-20-pro-ultra-roller-s-complete-czarny.bhtml",
+  "slug": "dreame-aqua-20-pro-ultra-roller-s-complete",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-10.jpg",
+    "opis-11.jpg",
+    "opis-12.jpg",
+    "opis-13.jpg",
+    "logo-dreame.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/197124377993/716794f7685a63f4bf371c066b1317b4/dreame-aqua-20-pro-ultra-roller-s-complete-czarny,197124377993_5.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 65698,
+      "sha256": "7b80d7ae7179ccc91ab9d7a4cd89929dfe59cf18d9439656361f43d333396f0a"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/197124377993/e033ff8aa85a136ffe9b45d609f2b0a0/dreame-aqua-20-pro-ultra-roller-s-complete-czarny,197124377993_5.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 45854,
+      "sha256": "7d03814a2042db39bf83428e2d072e57427064ff704e9bcb0259ddb576565299"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/197124377993/81dfbe3689e5c62f2ca595deb1df1d6/dreame-aqua-20-pro-ultra-roller-s-complete-czarny,197124377993_5.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 103075,
+      "sha256": "c69fc18e51eac292a131c8361f0346a98e9c14bb85b8954f29c97a52bd8b8604"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/197124377993/425c95113ca3733ba6ff94a555ac8f72/dreame-aqua-20-pro-ultra-roller-s-complete-czarny,197124377993_5.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 56002,
+      "sha256": "7b237ce561fad77849b074ffec92c1b2cab1554e6ffbc0d08897b7826ed32613"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/197124377993/d0d1778c47527ddb9f71ee1c120e1911/dreame-aqua-20-pro-ultra-roller-s-complete-czarny,197124377993_5.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 52930,
+      "sha256": "c13d3f47f54bf648c531bdcaad4736b20d601f9c48bf9cb11162e0e42ccc9fe3"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/197124377993/9c0b44542c286b83f9a64c3fd6d7d22/dreame-aqua-20-pro-ultra-roller-s-complete-czarny,197124377993_5.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 57806,
+      "sha256": "1ae6de293aabee577b9bf98807b05968559a0f991e72457589af662702a5e4a3"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/197124377993/989adea777cd677d53d6163261f9c53a/dreame-aqua-20-pro-ultra-roller-s-complete-czarny,197124377993_5.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 60019,
+      "sha256": "c2693b012d4bf9785382690a18a12b4252b93644f0dc4a42c81d9bef2200909b"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/197124377993/dd2d8f3d5145858ae10f266ababb002d/dreame-aqua-20-pro-ultra-roller-s-complete-czarny,197124377993_5.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 86058,
+      "sha256": "92dd36694962c825179cafdc7c3ed08bcb41dfa7921c3ec29af324bc49b88d1b"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/197124377993/7ea4802288b8a81d0cf17fc57f1945bf/dreame-aqua-20-pro-ultra-roller-s-complete-czarny,197124377993_5.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 39009,
+      "sha256": "ba437418a1511d99a4723853af78ba6e8ac66b5eb1e85e4926c8ba24785112f0"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "order": 10,
+      "sourceUrl": "https://assets.innpro.pl/24141/31756/1171x578-23a203d2-1003-4455-80ef-e2b08074860b.jpg",
+      "width": 1171,
+      "height": 578,
+      "bytes": 33559,
+      "sha256": "e0a4006652ec397deb4af000c55db3142344b2a9939838a5e0da35d87875556e"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "order": 11,
+      "sourceUrl": "https://assets.innpro.pl/24141/31756/554x750-401c8630-6e90-43fc-ba46-5c0f5704201b.jpg",
+      "width": 554,
+      "height": 750,
+      "bytes": 47453,
+      "sha256": "944b77fcad29dab4fdde6f2703eb8cb7240999fb03ad89fce93f34b5e2ff9ad3"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "order": 12,
+      "sourceUrl": "https://assets.innpro.pl/24141/31756/1171x578-kopia-2c6074ff-ebff-4d59-ab6a-2ac22f72939f.jpg",
+      "width": 1171,
+      "height": 578,
+      "bytes": 44509,
+      "sha256": "0c18461af29e896926be1e8ab6f09c5a5cc3e39638adf582ded839a6109348c8"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "description",
+      "order": 13,
+      "sourceUrl": "https://assets.innpro.pl/24141/31756/1171x578-kopia-2-24e986ba-fb00-4682-ab01-ac3a7efbc10d.jpg",
+      "width": 1171,
+      "height": 578,
+      "bytes": 94600,
+      "sha256": "b88c689b07a728af70afc3c006b503428dcee5cdf97c6773d589fbc7de2049c7"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "description",
+      "order": 14,
+      "sourceUrl": "https://assets.innpro.pl/24141/31756/1171x578-kopia-3-5e7964ec-088e-4efc-a65b-edd9d3a53704.jpg",
+      "width": 1171,
+      "height": 578,
+      "bytes": 85256,
+      "sha256": "e65dce94eb32c616a52010d869f2e7b169dedda24c6a7a99c90ec0f271f35430"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "description",
+      "order": 15,
+      "sourceUrl": "https://assets.innpro.pl/24141/31756/1171x578-kopia-4-4f098959-02bb-433e-bbc0-52d76a9775ce.jpg",
+      "width": 1171,
+      "height": 578,
+      "bytes": 89986,
+      "sha256": "3277061452926406b869f1bc404819e3f6f191db57fa7c736383d22e9a267812"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "description",
+      "order": 16,
+      "sourceUrl": "https://assets.innpro.pl/24141/31756/1171x578-kopia-5-f88b1bcd-2517-4623-8cde-e92834f9a1c7.jpg",
+      "width": 1171,
+      "height": 578,
+      "bytes": 108669,
+      "sha256": "96659618ed6526ae88efbceff1d6979b04c6e3955a27e997bb5ce51b97b25131"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "description",
+      "order": 17,
+      "sourceUrl": "https://assets.innpro.pl/24141/31756/554x508-kopia-1-b6179ee8-d7e4-4c4e-8f8e-88fdc32ab706.jpg",
+      "width": 554,
+      "height": 508,
+      "bytes": 44454,
+      "sha256": "ba318ae5afc166ca927cb8ced87e66ff58f7e2c88e39866152655a0f1c51de63"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "description",
+      "order": 18,
+      "sourceUrl": "https://assets.innpro.pl/24141/31756/554x508-bbe4ec5f-eb2d-4935-aff6-03ecbe3285f5.jpg",
+      "width": 554,
+      "height": 508,
+      "bytes": 48956,
+      "sha256": "3a447d8458ea73a24f173ba737e5a1f324f7f2e0ffbbab94b2f553d1d160eeca"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "description",
+      "order": 19,
+      "sourceUrl": "https://assets.innpro.pl/24141/31756/554x750-kopia-2-4fc86934-0ffb-489d-811a-ac07175740f6.jpg",
+      "width": 554,
+      "height": 750,
+      "bytes": 88102,
+      "sha256": "b592181ec4672baf1784e4d7c6da10a87cb26a8c401168561dd41517655cdd03"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "description",
+      "order": 20,
+      "sourceUrl": "https://assets.innpro.pl/24141/31756/554x750-kopia-cb5470f2-54d7-4e30-ab67-a81a88543f56.jpg",
+      "width": 554,
+      "height": 750,
+      "bytes": 68905,
+      "sha256": "6bd6d011a2341e734b62e47ef8f7e7f6ccbb81e3eaaefc924fc73b433d57847f"
+    },
+    {
+      "file": "opis-12.jpg",
+      "kind": "description",
+      "order": 21,
+      "sourceUrl": "https://assets.innpro.pl/24141/31756/554x750-kopia-1-452f7e2e-aac6-4269-85cb-9fb30e90e85a.jpg",
+      "width": 554,
+      "height": 750,
+      "bytes": 81817,
+      "sha256": "7b3929a76b2af0f2d350744c5d119a8837a2a918c4629de5458912acda98b96f"
+    },
+    {
+      "file": "opis-13.jpg",
+      "kind": "description",
+      "order": 22,
+      "sourceUrl": "https://assets.innpro.pl/24141/31756/554x508-kopia-9ce41ae1-48f9-4014-a5ea-6b479af5ac80.jpg",
+      "width": 554,
+      "height": 508,
+      "bytes": 61495,
+      "sha256": "0c4428745c0482eb9c966819294e7175e9713ef6238f56c5d8cc1aed3a60958f"
+    },
+    {
+      "file": "logo-dreame.jpg",
+      "kind": "logo",
+      "order": 23,
+      "sourceUrl": "kopia z repo mediow: dreame-t15-pro-heat/logo-dreame.jpg",
+      "note": "logo marki na koniec galerii",
+      "width": 1200,
+      "height": 300,
+      "bytes": 13078,
+      "sha256": "8eec6b8c4f4b3e5d5ca588afb5a9d67e6487b7f8c0cc35d641e0b6ad4d80cf08",
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": [
+    {
+      "source": "sklep.dreame-polska.pl galeria prod_1.webp",
+      "reason": "ten sam packshot co w galerii Euro (kontaktówka) — pominięty"
+    },
+    {
+      "source": "sklep.dreame-polska.pl galeria prod_2.webp",
+      "reason": "ten sam packshot co w galerii Euro (kontaktówka) — pominięty"
+    },
+    {
+      "source": "sklep.dreame-polska.pl galeria prod_3.webp",
+      "reason": "ten sam packshot co w galerii Euro (kontaktówka) — pominięty"
+    },
+    {
+      "source": "sklep.dreame-polska.pl galeria prod_4.webp",
+      "reason": "ten sam packshot co w galerii Euro (kontaktówka) — pominięty"
+    },
+    {
+      "source": "sklep.dreame-polska.pl galeria prod_5.webp",
+      "reason": "ten sam packshot co w galerii Euro (kontaktówka) — pominięty"
+    },
+    {
+      "source": "sklep.dreame-polska.pl galeria prod_6.webp",
+      "reason": "ten sam packshot co w galerii Euro (kontaktówka) — pominięty"
+    },
+    {
+      "source": "sklep.dreame-polska.pl galeria prod_7.webp",
+      "reason": "ten sam packshot co w galerii Euro (kontaktówka) — pominięty"
+    },
+    {
+      "source": "sklep.dreame-polska.pl galeria prod_8.webp",
+      "reason": "ten sam packshot co w galerii Euro (kontaktówka) — pominięty"
+    }
+  ]
+}
