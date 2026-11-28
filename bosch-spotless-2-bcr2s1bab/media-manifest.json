@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:36:54.281602Z",
+  "sourcePage": "https://www.euro.com.pl/odkurzacze-automatyczne/bosch-spotless-2-bcr2s1bab.bhtml",
+  "slug": "bosch-spotless-2-bcr2s1bab",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "logo-bosch-1200x300.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/88219a0b5a37f4a866ab9f0ea2679389/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1242,
+      "height": 1600,
+      "bytes": 213422,
+      "sha256": "809e9bbc325c4a7a51fa853114eb9c032cfb9d1c6c53d06745da1d5ea368e2a1"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/6ad126468774d76978c57b7cc83f3a95/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 1598,
+      "bytes": 334393,
+      "sha256": "01ebd9790ff5ad86bdd384930e3341f0a7dc08563bc3be8202a8926acfe3d19d"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/f235783fd75d3e12e7c9e26489c90aac/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 1474,
+      "bytes": 375863,
+      "sha256": "69029645dbb386fb8f164044cafa625a1cfdab382fca341cbf0afd44ac916f9e"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/af15cb9d3cf92c94134af034a1a1638b/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 1202,
+      "bytes": 204837,
+      "sha256": "a06bfd55f8efc83cfc8d60ca8c1fd4003503779c400c12432db1d1e7d12d1f23"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/f770f35c0dc9aa2337cdc81302b8ee28/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 1142,
+      "bytes": 154530,
+      "sha256": "9f25a556a5ead5c35154aac9797ae71c6e3d5c6039d727340c5d5e471a95f7f8"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/f1ec068585b0f8214c4c2b4db23faaaf/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 168755,
+      "sha256": "20f80f4eda74a811ed1eb2196a4d34ac83f8c250e80df9461e7205b2130a9dfe"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/4683a85b16471ad4c36cbe5c0badfec6/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 443763,
+      "sha256": "53f6dcb82ce9b8ad0276e18ad6d4a459687fe99b192e2b57a248dc1d013a9918"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/7b295056299ac7c8024a13559c6e7951/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 232088,
+      "sha256": "c4c675651f9f3e4716c95c2cd13e08046c058fdc4069ee151381687ed54bf946"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/335882bae6f9fe0fc352a9ac935be32f/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 270943,
+      "sha256": "130145122f6dadea49c06ed86a36a772b6fb379b757057c5f7c6471ae7c74239"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/4eab295b8b64bbb2885eb807469118ad/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 291340,
+      "sha256": "63f9b03a985ce5b64249f2060c94e8835ddfa9d05f1289ebc7aa3dd559d58433"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/4e17e23c72cd03e6e10ec9e1c983ac3a/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 238097,
+      "sha256": "be26b4df4e338795929f46943d767c1e9d299c379a67963e51abde6f18974f56"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "product",
+      "order": 12,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/c1877dd23401336bb4974a9e550c7b61/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 204587,
+      "sha256": "aa0a5d15c5282f46d911eab886a645ea06c1e4eebb6f6ed78feb8f80da47dbd7"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "product",
+      "order": 13,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/ac0a607ce1439373efd3319eebe2014e/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 208715,
+      "sha256": "c6a0a3c31c3a2bbded8951550aa1e2dc0a45998b227bc6c20c8e0953fc8768fe"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "product",
+      "order": 14,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/29290f281763ee5e76afce7f2e8a4741/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 267933,
+      "sha256": "6431f26dd12b77781b3154830c8a0b1b9d1ed2e8df8e6306f5208ff65cfff6dd"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "product",
+      "order": 15,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196633790217/5cdc41bde8a6d0e98b5041925eaee0dd/bosch-spotless-2-bcr2s1bab,196633790217_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 418086,
+      "sha256": "7f7606b0873c0735496a2858236ad0ba2800e8ea2ad231a1578286c83b49f8af"
+    },
+    {
+      "file": "logo-bosch-1200x300.jpg",
+      "kind": "logo",
+      "order": 16,
+      "sourceUrl": "repo mediów: bosch-spotless-2-advanced-plus-bcr2p2wxab/logo-bosch-1200x300.jpg",
+      "width": 1200,
+      "height": 300,
+      "bytes": 17583,
+      "sha256": "5af452c25761b62df8d12f3ac402beee89b18646201fec7b5ad89f755063aa5f",
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": 0,
+  "note": "Zdjęcia: 15 z karty Euro BCR2S1BAB pobrane przez dyrygenta 28.11.2026 (euro/img, 1600 px), kolejność galerii Euro; bramka tożsamości wzrokowo (kontaktówka): czarny Spotless 2, stacja Dry-Wet, obrotowe nakładki mopujące. Logo Bosch z folderu siostrzanego modelu."
+}
