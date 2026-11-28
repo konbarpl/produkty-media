@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T13:13:27.811474Z",
+  "sourcePage": "https://www.euro.com.pl/odkurzacze-pionowe/roborock-f25-steam.bhtml",
+  "slug": "roborock-f25-steam",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "logo-roborock-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/1b808dc55cd838942d32bc13e2b27ae5/roborock-f25-steam,197675066385_5.webp",
+      "width": 1333,
+      "height": 2000,
+      "bytes": 78775,
+      "sha256": "b363d596b146bc9552cdd20cbc94f7fc04d03b595a5969eb435d61357c415467"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/e436b1d27769a7eb135ded4950cd3ccb/roborock-f25-steam,197675066385_5.webp",
+      "width": 1333,
+      "height": 2000,
+      "bytes": 81135,
+      "sha256": "50009950a3e3d844d99cc7789709f8aba00c6a328d99989cd8dedb78da9aa945"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/291262e8ce38c8626d792ae5aba330ac/roborock-f25-steam,197675066385_5.webp",
+      "width": 1333,
+      "height": 2000,
+      "bytes": 104356,
+      "sha256": "c35b18c3a5888a82f51112fd7a3c97883d3bf83e24a0dafd32730ba6141e52b4"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/37936e203f582e5d480d01290119e75e/roborock-f25-steam,197675066385_5.webp",
+      "width": 1333,
+      "height": 2000,
+      "bytes": 109926,
+      "sha256": "57df4a74123bc9c0bf766f3d4e5746f247026499393c1b785f1d2ea4716e1ed1"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/7f0fa4cd5eff9555a3e7268e35eaf81d/roborock-f25-steam,197675066385_5.webp",
+      "width": 1333,
+      "height": 2000,
+      "bytes": 102500,
+      "sha256": "26132c21ae101db881d2a0a24eb0539a22d5cfa7f64f87cd2b0e72fbc62191dd"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/55682f1b35ff2f11131c56f58afbfc2c/roborock-f25-steam,197675066385_5.webp",
+      "width": 2000,
+      "height": 1333,
+      "bytes": 69709,
+      "sha256": "deec0e7a67983d530875448c06334f5b4a97aff3b734ad6356520231369f6244"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/ed4dabee5d6db94bdbe16be275335b17/roborock-f25-steam,197675066385_5.webp",
+      "width": 1333,
+      "height": 2000,
+      "bytes": 160711,
+      "sha256": "2e10a50cbadcfa95aa8d681155dfa7b76b92bd8923e7fc2264326ddd346819ec"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/94a7a9378d222ab12bd5e4746350df0a/roborock-f25-steam,197675066385_5.webp",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 326838,
+      "sha256": "ce2c274782e0fcbaab43ce2410db7db8814ff4b0356b92075152dc7b387f0c59"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/1f6172d6e60365791a3fa2b1a5b825e3/roborock-f25-steam,197675066385_5.webp",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 333835,
+      "sha256": "97b3c756c3300c7155aa063c7d3eeda2286d79759344bf8cfd5ed4b01cbc7c50"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/25f6339cd1769f3e66012aa5bfb8953e/roborock-f25-steam,197675066385_5.webp",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 516030,
+      "sha256": "6b2254744776963063e510a0caff5e733ac84db94cd93e9003833a0470a131a8"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/b8d64f35a2cb43ad8ce7b95a618bed5/roborock-f25-steam,197675066385_5.webp",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 479773,
+      "sha256": "748c298106cdc4a6b9ecc61997f2461963dc5da23df7a8fb27858fff18b82824"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/159118a67c49b79c2913f6b4ac4dd365/roborock-f25-steam,197675066385_5.webp",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 364117,
+      "sha256": "5651d92a27c7a41ccf757655173f961f2bd5f58a40b361bca6fae388b793a79a"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/768d85678a290d10afe71f39dfef7d78/roborock-f25-steam,197675066385_5.webp",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 481044,
+      "sha256": "a07855126012b2588067aa5937252726b0e6a2e192823e1feadcf9bc85a24356"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/46c0e7bf649e0ce8bb8102e9341d648d/roborock-f25-steam,197675066385_5.webp",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 453055,
+      "sha256": "d50a67709c90ddec19b4bbf112c8530f894fb20d1d52bd74eeb14208d45f38e7"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://f00.esfr.pl/foto/5/197675066385/c2cc01edc65077f9e24a663c965c0cbd/roborock-f25-steam,197675066385_5.webp",
+      "width": 2000,
+      "height": 1500,
+      "bytes": 370507,
+      "sha256": "c57fb140da60d6acf658998cce9094cbb0b5feb1d9963b4abb7e3de80a7c5616"
+    },
+    {
+      "file": "logo-roborock-plotno.png",
+      "kind": "logo",
+      "order": 16,
+      "sourceUrl": "repo: roborock-f25-ultra/logo-roborock-plotno.png",
+      "width": 1200,
+      "height": 300,
+      "bytes": 18986,
+      "sha256": "7949fb1b6c93523d52c15e4d11657f1965311828d8a2abbe90da1cc35ed3bdc0",
+      "inkRatio": 0.3
+    }
+  ]
+}
