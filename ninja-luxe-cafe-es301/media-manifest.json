@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:27:53.736038Z",
+  "sourcePage": "https://www.euro.com.pl/ekspresy-cisnieniowe/ninja-luxe-cafe-es301.bhtml",
+  "slug": "ninja-luxe-cafe-es301",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "logo-ninja.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503970625/eefda3ae9797ccfa4e39fed7856613f/ninja-luxe-cafe-es301,196503970625_5.jpg",
+      "width": 1600,
+      "height": 1240,
+      "bytes": 217811,
+      "sha256": "b5131af66954901cc9da8c45dc8d7048ef755076f1e54f9548c092b769f7a361"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503970625/98e9015487eb9b89267b6d40169b56e8/ninja-luxe-cafe-es301,196503970625_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 211667,
+      "sha256": "2d76442ae57502bcd2749e609ae5b5b6e18ef20a17290081ca9514fc64592aea"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503970625/7e8b9f4621a7b3e26786227177e493/ninja-luxe-cafe-es301,196503970625_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 234683,
+      "sha256": "7443cec07443436d21b71f887ed377da4b87ec450cdd6ee1b9198cae97286bac"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503970625/db49af62452313a7a7283af797166c68/ninja-luxe-cafe-es301,196503970625_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 236428,
+      "sha256": "55b8a1705fe1b09f716d5cb0dfd4146cfbcfd69ac7ccd05babd5450e38e05460"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503970625/93d772e6d220565ee90179c7b15aad02/ninja-luxe-cafe-es301,196503970625_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 344687,
+      "sha256": "85033819dc96be5ecba5e6a08e89f5e9e4ead10f3ee767e9134aab3ebaded834"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503970625/dc92968a4d1a580d494a4f686d2f6a36/ninja-luxe-cafe-es301,196503970625_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 330936,
+      "sha256": "185909a32bec9c739d3583a830ce59b9c2b94a74525b7ab33931a9fdbbec9a72"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503970625/eca06784dc868d41747b85b0c8240e17/ninja-luxe-cafe-es301,196503970625_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 368151,
+      "sha256": "85e8534900da8d8c6ff39ad344780857ffe5f49d3df429ff5d3068b523a0f1a4"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503970625/308e4aa3c606f18d22f15269300c0a7f/ninja-luxe-cafe-es301,196503970625_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 217716,
+      "sha256": "b7d294c209079455be4b1d989db7c5b57388358371608dc47c950f25db2cbc97"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "lifestyle",
+      "order": 9,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503970625/1e558a947f5923e1d2ced786a93de85c/ninja-luxe-cafe-es301,196503970625_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 251748,
+      "sha256": "7008e8435b4f6b99011738ab34fbbfe992a97261774ac5df82baf37824208517"
+    },
+    {
+      "file": "logo-ninja.jpg",
+      "kind": "logo",
+      "order": 10,
+      "sourceUrl": "repo produkty-media/ninja-autobarista-pro-ae1051/logo-ninja.jpg (płótno 1200x300, pierwotnie ninja-precisionpro-bz651eu)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 17982,
+      "sha256": "444e7099c96e1efb0d66fda0e680a4bff8af0e6026dddb61da070bc07f19709b",
+      "inkRatio": 0.298
+    }
+  ],
+  "note": "Zdjęcia z karty Euro Ninja Luxe Cafe ES301 (pobrał dyrygent 28.11 do _tmp/ninja-luxe-cafe-es301/euro/img, 1600 px; nazwy plików źródłowych ninja-luxe-cafe-es301). Kontaktówka: _tmp/ninja-luxe-cafe-es301/kontaktowka_euro.jpg — wszystkie 9 to ten sam ekspres (kompaktowy kolbowy, panel grind/start brew/pre-heat). 01 packshot z kolbą i dzbankiem, 02–04 packshoty, 05 lifestyle, 06–08 infografiki, 09 akcesoria. Logo Ninja na końcu."
+}
