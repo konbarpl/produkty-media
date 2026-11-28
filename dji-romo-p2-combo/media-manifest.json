@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:42:15.773835+00:00",
+  "sourcePage": "https://www.euro.com.pl/odkurzacze-automatyczne/dji-romo-p2-combo.bhtml",
+  "slug": "dji-romo-p2-combo",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-10.jpg",
+    "logo-dji-plotno.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195280873161/c96db1294295060d33550db55c7dcc2e/dji-romo-p2-combo,195280873161_5.jpg",
+      "width": 872,
+      "height": 905,
+      "bytes": 99758,
+      "sha256": "829909f5b8c15c325ba8345d03190eccde65e7cfbb981812e3015c8762db9e7c"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195280873161/j0grobbbxlgx/dji-romo-p2-combo,195280873161_5.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 76093,
+      "sha256": "6caf75a982142d42d628ad6fea0c02b3187631bc4b241f418835756f1a9d1c34"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195280873161/1b2k5v12acww6/dji-romo-p2-combo,195280873161_5.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 74667,
+      "sha256": "13a3d82b21f4a99293174cf73d3cfb2baf1bb035dde0f4bb85d7c3ae42db0750"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195280873161/9b3837a8e07b9e145c31286ce2bbc303/dji-romo-p2-combo,195280873161_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 422949,
+      "sha256": "95c39364975454d4503231e8122ba9727e0f3272ad14356bff39634d0b9b115a"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195280873161/fd503e20c22a05e4c62d5dfef69b6385/dji-romo-p2-combo,195280873161_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 355933,
+      "sha256": "0e105dfac5f177a669e4dec123d47f71563ab45116d9d5617c12175d444f5a5a"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195280873161/b05f9e591da8ebe00b79683a7b6a7def/dji-romo-p2-combo,195280873161_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 395848,
+      "sha256": "c5af2247d109e53c92fb9d859878a4f3121357bdf2738b1e956e22f335bd45db"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "description",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195280873161/6ec4ed358c4a89ad8eceb3a441b51078/dji-romo-p2-combo,195280873161_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 377173,
+      "sha256": "1d1c7e18ec4ad5fa16e621d7e154a87ad71127d671240e297dbbaccd02f1dd69"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "description",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195280873161/307ea2a24430d60ed5501dd065ecf0b7/dji-romo-p2-combo,195280873161_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 344535,
+      "sha256": "0d1649071e29bee4df69688e0d94bf6186e5ef129376282164f81492a42700c2"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "description",
+      "order": 9,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195280873161/938db34e91b660b1739ca41c283cea2d/dji-romo-p2-combo,195280873161_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 314738,
+      "sha256": "86c351e501868a1f7defc8d054475ba2385ea4d97be83ed283e06546b5e4a210"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "description",
+      "order": 10,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195280873161/fb0d5db6d588bdfc1000de56ad9a7029/dji-romo-p2-combo,195280873161_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 295279,
+      "sha256": "18295f29ebd2c33bf43bfbaed45ace0da5de70cdd674b41bc5fb8daf0c02ed2c"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "description",
+      "order": 11,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195280873161/c70e099c4639e3fa0211dbd0b577794d/dji-romo-p2-combo,195280873161_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 330869,
+      "sha256": "2973e6325af39f4e4066b4b4f81b99a3831103addc08867a2e2da51f2d49e8f6"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "description",
+      "order": 12,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195280873161/cfdf170c83afc348479d8841e8a66359/dji-romo-p2-combo,195280873161_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 400783,
+      "sha256": "5a99353a8acc968cb9131aec179116e405347f1d849323068baa23e6dc9602bf"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "description",
+      "order": 13,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195280873161/817bd8c26ac24146cd97eeb868514d7f/dji-romo-p2-combo,195280873161_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 332339,
+      "sha256": "cfca8ff226217216a2ad7f09cfaddecd0813ed7408a24c2ce96de10c2270fca9"
+    },
+    {
+      "file": "logo-dji-plotno.jpg",
+      "kind": "logo",
+      "order": 14,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/DJI_Innovations_logo.svg?width=1200",
+      "note": "logo marki na koniec galerii; plotno 1200x300, znak 363x210",
+      "width": 1200,
+      "height": 300,
+      "bytes": 17375,
+      "sha256": "9af8039e816517a8c53e5db9274ecaa04f79dad5adb70eab69d0c4463274defd",
+      "inkRatio": 0.304
+    }
+  ],
+  "dropped": []
+}
