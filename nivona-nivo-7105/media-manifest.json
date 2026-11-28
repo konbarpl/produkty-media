@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:22:38.202624Z",
+  "sourcePage": "https://www.euro.com.pl/ekspresy-cisnieniowe/nivona-nivo-7105-szerokosc-24cm.bhtml",
+  "slug": "nivona-nivo-7105",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/9/196100577625/deb22bad368e921f89664ed0c9f3d52c/nivona-nivo-7105-szerokosc-24cm,196100577625_5.jpg",
+      "width": 1144,
+      "height": 1600,
+      "bytes": 230162,
+      "sha256": "9ca1ab1a1b48b88106b15fae74025c6d3299a0cf7ff5e44f4a8b4473c0446bc9"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/9/196100577625/ce9f3ffe47d51c9a2ce398f5a2b2eca4/nivona-nivo-7105-szerokosc-24cm,196100577625_5.jpg",
+      "width": 1135,
+      "height": 1600,
+      "bytes": 235210,
+      "sha256": "47d2ba3fbc21026f2bf40e170e0bbddea101cf2b9a1275770f671ff058e8cd9f"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/9/196100577625/dc9fe643590fccd2fb705edb570cc8ab/nivona-nivo-7105-szerokosc-24cm,196100577625_5.jpg",
+      "width": 1356,
+      "height": 1600,
+      "bytes": 259023,
+      "sha256": "f0951c8412f157c23ce27cc78dd336dcb0c899fe3b86e9fa5ba48945f6befb0f"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/9/196100577625/6c9466a7ecaef65267e6d2f6ba4b94c3/nivona-nivo-7105-szerokosc-24cm,196100577625_5.jpg",
+      "width": 1600,
+      "height": 1158,
+      "bytes": 336604,
+      "sha256": "d3e61916d35e7f060cb8ceb36726d992101058e30c1ad238459958b2adacba7e"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/9/196100577625/8d5879a40c7474e4120dfb1bb0a99059/nivona-nivo-7105-szerokosc-24cm,196100577625_5.jpg",
+      "width": 1600,
+      "height": 1173,
+      "bytes": 219702,
+      "sha256": "b17372169988431a144c0cdcc3065b865ce33679f7acf51d073a1fedde71c05c"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/9/196100577625/3117d1ab3bfea4cdb022ffd8d79101c1/nivona-nivo-7105-szerokosc-24cm,196100577625_5.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 166964,
+      "sha256": "f2ad9f118acdfca2e5601564cd7faf535b6df44562cdbced3c4b596b04b6ad12"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/9/196100577625/271bc3ac5b56e5cd76ff9184d6a0f647/nivona-nivo-7105-szerokosc-24cm,196100577625_5.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 263113,
+      "sha256": "9437e46aaad2e3c77653cb2ec6e2e954560bf5c3a1d99a40f722803eae5cd126"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "lifestyle",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/9/196100577625/ff17b6c0d749472003ccb86eb9333d1c/nivona-nivo-7105-szerokosc-24cm,196100577625_5.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 239327,
+      "sha256": "9fd0cbd719794cce20517ed0258c2c03dc6c1009839fbbffe4b954cb4059db59"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 9,
+      "sourceUrl": "repo mediów nivona-nivo-8111/logo-01.jpg (= nivona-nicr-797/logo-01.jpg, wordmark NIVONA z nivona.com/pl, płótno 1200x300)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 14234,
+      "sha256": "1da5bd749b7bd106cd56015814f88f8f44af599b851b48ba79ab5e83e3d6b043",
+      "inkRatio": 0.302
+    }
+  ],
+  "note": "Zdjęcia z karty Euro NIVO 7105 (pobrał dyrygent 28.11 do _tmp/nivona-nivo-7105/euro/img, 1600 px; nazwy plików źródłowych nivona-nivo-7105-szerokosc-24cm). Karta nivona.com/pl/product/nivo7105 = „Nie znaleziono produktu” (28.11). Kontaktówka: _tmp/nivona-nivo-7105/kontaktowka.jpg. 01–05 packshoty (szary), 06–08 lifestyle. Logo NIVONA na końcu."
+}
