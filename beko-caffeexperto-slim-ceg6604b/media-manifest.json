@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:01:32.981079Z",
+  "sourcePage": "https://www.euro.com.pl/ekspresy-cisnieniowe/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm.bhtml",
+  "slug": "beko-caffeexperto-slim-ceg6604b",
+  "model": "CEG6604B",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-01.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/74e1e31c7b33757d0ad8374b374a55ce/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 137724,
+      "sha256": "559f12c0de2c1c2ab8467755ba1b126bc6f912da9aa04b249618e8a3e677970e"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/9a43e5b2503de141c0513736f7ce9820/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 108499,
+      "sha256": "76586b598bd223bf053d02fccdbd3a99ad4704c7249ece7b74f17b9724ea28b5"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/cb2a8f0d00502673cd065c13b82713d2/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 122613,
+      "sha256": "43de624d5fd925d08cf61196c74f2c1e68c6a3b2001ecc01c93f43aeb898bcff"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/e1f392f242ac0b3d77dca3a2f84731a9/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 114593,
+      "sha256": "9c3a36b48e0e360e0bf8f95247ee08d9c8b88579671b89a496854b10c06a4e89"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/c8c7595861944986843eb53323d4a337/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 142187,
+      "sha256": "422437dcf3dbfb4939058f2a4a2d1a9aa74c5106ea3307d60bb95f35fc594420"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/4aaa36fa3a3dcbd3c172dc1b8ebf3a74/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1600,
+      "height": 1120,
+      "bytes": 287107,
+      "sha256": "a869f66576f6fa7004ab4da5ae8ea7742f65f102d8b056c8153b4370f9a1a4f6"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/70b43e10c84b4ab2ca12a30cc3998e28/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 367230,
+      "sha256": "98611b6bb6c40f6ab0fbc076217b253b7ba7c9798a4d02b6f6f502dbd0d762e0"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/645d3b6131c0cca9b49871c6fe4d759b/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1600,
+      "height": 1120,
+      "bytes": 230417,
+      "sha256": "aa16336052ad082409de3e3e996175b8bcfa5ae9ca3cea26e858de9a0ff31df0"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/82437cc3ba3eac3483c6dcea9e3a7981/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 300710,
+      "sha256": "859314288829b363e22d06a83c1e5882da995c13398b2a96792b7e62c3fa47a8"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/c9111a4fc4a18a50ce0281d4000100a2/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1280,
+      "height": 1439,
+      "bytes": 56748,
+      "sha256": "e1b86e1ac4e96adab19f81dafe21fb8e19e3f50ee4d102202a79bdcb4e61f1eb"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/c062c2f226752b7727a2635397c1431e/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1280,
+      "height": 1439,
+      "bytes": 99767,
+      "sha256": "df255f06dd9607d8e8d4efc5ba31831922e1beb282d04b5658dd33dc5a321605"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "order": 12,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/5082384fdc904e565c05178de34d2a5c/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 245961,
+      "sha256": "8c899f5f408aa669fd76a72c6398a40e3f80ec05fc0f374316fba668e2466927"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "order": 13,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/63729653349af2b9c4c535767e2031cc/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1600,
+      "height": 1120,
+      "bytes": 246660,
+      "sha256": "0446655cf8e564c060fc6fe0e689abda8ba9f1b027c0f027c241539a09455035"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "order": 14,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/195845101673/eee35b6533126ab78be060ec8819e4c9/beko-caffeexperto-slim-ceg6604b-szerokosc-18cm,195845101673_5.jpg",
+      "width": 1600,
+      "height": 1120,
+      "bytes": 268918,
+      "sha256": "5246a655701710b8e6accae91c7110b79a3e16d440365a3b6349cea7d1a3056d"
+    },
+    {
+      "file": "logo-01.jpg",
+      "kind": "logo",
+      "order": 15,
+      "sourceUrl": "logo marki BEKO z repo produkty-media/beko-ceg7304x/logo-01.png, plotno 4:1 (logo_plotno.py --napraw)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 15724,
+      "sha256": "dd789643ea7ab3b8ebddf4110a0a64f71915d6b1ed129eb361a4b1861022a2c3",
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": 0,
+  "visualIdentityCheck": "PASS (kontaktowka 14 zdjec karty Euro, czarny ekspres slim z dzbankiem na mleko, logo beko; euro_12-14 bez urzadzenia = opis)"
+}
