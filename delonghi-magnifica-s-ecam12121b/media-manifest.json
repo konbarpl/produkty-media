@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:50:00Z",
+  "sourcePage": "https://www.delonghi.com/pl-pl/p/magnifica-s-magnifica-s-automatic-coffee-maker-ecam12.121.b/ECAM12.121.B.html (strona 404; packshot z osadzonych danych katalogowych wariantu ECAM12.121.B, alt: Magnifica S Automatic coffee maker ECAM12.121.B)",
+  "slug": "delonghi-magnifica-s-ecam12121b",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "logo-delonghi-male.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.delonghi.com/1200x1200/assets/272916",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 71761,
+      "sha256": "0880afedc145f91fd04daf107786b74070eb710ec731aefeb227858716782ffd"
+    },
+    {
+      "file": "logo-delonghi-male.jpg",
+      "kind": "logo",
+      "order": 2,
+      "sourceUrl": "repo mediow: delonghi-ecam22-112-b/logo-delonghi-male.jpg",
+      "width": 1200,
+      "height": 300,
+      "bytes": 23588,
+      "sha256": "f5d924f6f24b10e4b40d2d3948566dff7d98f56219efa477c7f20c16d620311a",
+      "inkRatio": 0.301
+    }
+  ]
+}
