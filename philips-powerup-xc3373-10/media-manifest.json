@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T13:31:12.869Z",
+  "sourcePage": "https://www.home-appliances.philips/pl/pl/p/XC3373_10 (OCC API versuni-b2c-pl, galeria karty XC3373/10 + grafika akcesoriow XC3373 z productFeatures)",
+  "slug": "philips-powerup-xc3373-10",
+  "galleryOrder": [
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "produkt-07.webp",
+    "produkt-08.webp",
+    "produkt-09.webp",
+    "produkt-10.webp",
+    "produkt-11.webp",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/9ecc7670-81b3-4746-a479-4270d0ea34e9/FC_2026_PAP_-XC3373-Aqua-Pro-_1x1.webp",
+      "width": 2048,
+      "bytes": 95796,
+      "sha256": "a5e9c15c3bf0f0cc826a5d6eec5f8fb8464222209f1c745c19273d5c31bd6311"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/d7664d9e-70bf-494e-9bc3-fee99a4a4979/FC_2026_XC3373_4XAccessories_16x9.webp",
+      "width": 2048,
+      "bytes": 96964,
+      "sha256": "b5b073aa218115f8fe57e7ada22e0277b39ab3fd16ce57ac5f7149863a38fb17"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/efb6d660-7c81-4874-bec9-a3c3817e4a92/FC_2026_C2XXXXC_3XXX_XC5XXXDirt-Pickup_1x1.webp",
+      "width": 2048,
+      "bytes": 509806,
+      "sha256": "f0eb381a4728c99500df24b660fd57ed7ad414bf7c0b5aa1d9d0f997a743a2d9"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/60a21d18-7ef7-4df7-ae14-37c228a1b953/FC_2026_XC2XXX_XC3XXX_Powerfull-Motor_1x1.webp",
+      "width": 2048,
+      "bytes": 107342,
+      "sha256": "a8e54d080e22481f024bffe0d704558f78891f0c1677747628fef0b5efe14157"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/b0f2d1ce-08ca-4d46-bfeb-c700482d30fd/FC_2026_XC2XXX_XC3XXX_XC5XXX_XC6XXXPatented-Nozzle-Technology_1x1.webp",
+      "width": 2048,
+      "bytes": 247446,
+      "sha256": "19412bc12ee055dd7b181a34eb04d3eaf51afa5f208ee40448b6918c0cd3ca18"
+    },
+    {
+      "file": "produkt-07.webp",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/d1d84479-a160-4a39-af06-a5c158c6a25e/FC_2026_XC3363_XC3373_Filter-Tech_1x1.webp",
+      "width": 2048,
+      "bytes": 63022,
+      "sha256": "92df5fcebaf3ecd4974fc1211db93d90292c37a06e7e3ae4a0339175ed0eda92"
+    },
+    {
+      "file": "produkt-08.webp",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/3ff6ad85-8983-427b-b71a-026f96ee65c8/FC_2026_XC2XXX_XC3XXX_XC5XXX_XC6XXXAnti-Tangle-Tech_1x1.webp",
+      "width": 2048,
+      "bytes": 298802,
+      "sha256": "c10c42b085d36f418726734b28469d924cfd53c72b32480dc7073c95a4f18798"
+    },
+    {
+      "file": "produkt-09.webp",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/d4e3b812-5d53-4057-8b38-405b1a22856e/FC_2026_XC3XXX_XC5XXX_Flexible-stick_1x1.webp",
+      "width": 2048,
+      "bytes": 196226,
+      "sha256": "f06e6ac084239a4b73373279d54c7a737516469d9072464ab1161bd95f8ef0a9"
+    },
+    {
+      "file": "produkt-10.webp",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/b41a53cb-92ea-4a90-8065-aba9bdf27d92/FC_2026_XC3XXX_XC5XXX_LED_1x1.webp",
+      "width": 2048,
+      "bytes": 108586,
+      "sha256": "b7f9a8108f617fcdf57cf4ce6bd3616751a0515a0d0dab097454a01ecf8206f5"
+    },
+    {
+      "file": "produkt-11.webp",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://dam.versuni.com/transform/webp2048x2048/88e8129a-b196-4dc1-807a-75bee82bf036/FC_2026_XC3XXX_XC5XXX_Aqua-Module_fullframe_16x9_ICON.webp",
+      "width": 2048,
+      "bytes": 89790,
+      "sha256": "dc275ec50b5991cd4536e9404e08671d6d85f5d330854e86511c7f4b62ebc177"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo produkty-media/philips-powerup-xc7383-10/logo-philips-plotno.png (kopia; pierwotnie philips-7000-powercyclone-8-fc9747-09, G83)",
+      "bytes": 9114,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+      "height": 300,
+      "inkRatio": 0.3,
+      "width": 1200
+    }
+  ],
+  "dropped": 0,
+  "note": "produkt-06 (FC_2026_XC2XXX_XC3XXX_XC5XXX_XC6XXX_Long-lasting-battery) usuniete: ssawka z bocznymi kolkami i siatka laserowa nie odpowiada ssawce z LED z packshotu XC3373 ani opisowi karty (brak lasera w XC3373). produkt-02 = grafika akcesoriow XC3373 (productFeatures, 16x9 na bialym plotnie 2048)."
+}
