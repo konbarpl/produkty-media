@@ -95,7 +95,8 @@
       "bytes": 9114,
       "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
       "height": 300,
-      "inkRatio": 0.3
+      "inkRatio": 0.3,
+      "width": 1200
     }
   ],
   "dropped": 0,
