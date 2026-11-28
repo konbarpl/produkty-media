@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:17:58.035715Z",
+  "sourcePage": "https://www.euro.com.pl/ekspresy-cisnieniowe/delonghi-baristina-bar400-00.bhtml (galeria karty Euro BAR400/00, tozsamosc Philips Baristina Latte BAR400/00, pobrana przez dyrygenta 28.11 do _tmp/philips-baristina-latte-bar400-00/euro/img, 1600 px)",
+  "slug": "philips-baristina-latte-bar400-00",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "logo-philips-plotno.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196354330817/1o1qopkznc4m1/delonghi-baristina-bar400-00,196354330817_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 149592,
+      "sha256": "b6a0060f6168f25cb1374036b5737b62d1676a376211c29aef321e7295d4b073"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196354330817/19cw9in0uixm/delonghi-baristina-bar400-00,196354330817_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 224523,
+      "sha256": "b1f2f81127b0f8287836a165993e33511604fe787ebcf5ad28396e447713f352"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196354330817/14qbtqfb9t2w6/delonghi-baristina-bar400-00,196354330817_5.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 137398,
+      "sha256": "cea2286579e18e50fdc0dd3123e84d0545efbc3301a63721093d3c7531e9a3d4"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196354330817/byg05foa1sdh/delonghi-baristina-bar400-00,196354330817_5.jpg",
+      "width": 1500,
+      "height": 1500,
+      "bytes": 87657,
+      "sha256": "6cdfa302bbce9e30a0fdf63d10abc383111e0df3e6417fe3da15b7a2913e2463"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196354330817/ebcdd4df0a46b82379aef6958b91dead/delonghi-baristina-bar400-00,196354330817_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 222104,
+      "sha256": "c9498fa6a83f0c98274ab5fc750fae205241dc5fed86211561edc83d6895886a"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196354330817/6b6me7wofy6/delonghi-baristina-bar400-00,196354330817_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 228560,
+      "sha256": "b59aed52f30169fec21cc868a53888282968d73fd47078cac7601bc5795e3f41"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196354330817/j4ersfxciri1/delonghi-baristina-bar400-00,196354330817_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 260122,
+      "sha256": "e75df1f7e592c3851dce999892bbd3a80ab00b85d3e946aaac250777a088a044"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196354330817/y0nwrwpzkvf8/delonghi-baristina-bar400-00,196354330817_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 244983,
+      "sha256": "2b36df0d541d6011122ad46c3e9526dd5bb5a8df3b4a1af1d60ebacd8a29b245"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196354330817/1e9oilomukvf4/delonghi-baristina-bar400-00,196354330817_5.jpg",
+      "width": 809,
+      "height": 809,
+      "bytes": 78891,
+      "sha256": "a556a51a8705462943b3c1e3c59138fece6944cca62e5e163d763f242ed48f1e"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196354330817/1sn7lhohr35o5/delonghi-baristina-bar400-00,196354330817_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 298039,
+      "sha256": "c329f16b015e151fd02f81c354f4e4de666869a6a6aca3d7d689a3229c25bd09"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://f00.esfr.pl/foto/2/196354330817/87t5tl4zvh2n/delonghi-baristina-bar400-00,196354330817_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 263414,
+      "sha256": "89331b43610d0fadcd8609093ce356a1cba6c9dd481c0a9b2e99e4b4926b0e57"
+    },
+    {
+      "file": "logo-philips-plotno.png",
+      "kind": "logo",
+      "order": 99,
+      "sourceUrl": "repo produkty-media/philips-baristina-latte-bar400-60/logo-philips-plotno.png (kopia)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 9114,
+      "sha256": "a614664abee641f86cede263e2b1acdaa9d1ff899fb9a183c56207fff62de02c",
+      "inkRatio": 0.3
+    }
+  ],
+  "note": "Galeria = 11 zdjec karty Euro BAR400/00 w kolejnosci JSON-LD (kontaktowka sprawdzona: bialy korpus - mleczna biel, dzbanek stalowy, wymiary 345/378/259 mm zgodne z karta Philips OCC BAR400_00) + logo Philips na koncu."
+}
