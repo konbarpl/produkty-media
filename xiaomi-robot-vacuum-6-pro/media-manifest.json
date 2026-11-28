@@ -1,0 +1,222 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:13:51.535700+00:00",
+  "sourcePage": "https://www.mi.com/pl/product/xiaomi-robot-vacuum-6-pro/ + https://www.euro.com.pl/odkurzacze-automatyczne/xiaomi-robot-vacuum-6-pro.bhtml",
+  "slug": "xiaomi-robot-vacuum-6-pro",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-10.jpg",
+    "opis-11.jpg",
+    "opis-12.jpg",
+    "logo-xiaomi-plotno-v2.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/195420822785/7e5024b2deb46a929c21454d6cba0e26/xiaomi-robot-vacuum-6-pro,195420822785_5.jpg",
+      "width": 1297,
+      "height": 1600,
+      "bytes": 116904,
+      "sha256": "2d8028b9df854c61a1e2e6c71587989a87837d31f8b4403c7cd47602004fbd85"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/195420822785/fa04183ec27e489d802ba75c8d7d0641/xiaomi-robot-vacuum-6-pro,195420822785_5.jpg",
+      "width": 1600,
+      "height": 908,
+      "bytes": 105640,
+      "sha256": "da8bd80574b3d52342cb05db287c9f9cd6f7c9256e7f3b7e1ed4a2801fa73b1a"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/195420822785/fff1e980b27b4d676bfeeb21ce422224/xiaomi-robot-vacuum-6-pro,195420822785_5.jpg",
+      "width": 1600,
+      "height": 1467,
+      "bytes": 151232,
+      "sha256": "4a5a8f298753f7874a6126a1b28cc0c7782f2779ae271ecf1827c5b6c3c60594"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/195420822785/1dd049398eb4d7e263bc12c4f471c5b2/xiaomi-robot-vacuum-6-pro,195420822785_5.jpg",
+      "width": 1426,
+      "height": 1600,
+      "bytes": 105654,
+      "sha256": "d1ce2bfdfb5dffefd1ed0fc517ae381cbc4b1fbab9e27d8a549195e7acdd762d"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/195420822785/7057c4e98a4394a16ae3682a65c03f23/xiaomi-robot-vacuum-6-pro,195420822785_5.jpg",
+      "width": 1103,
+      "height": 1600,
+      "bytes": 101610,
+      "sha256": "f7e1212ec3030929fd5c5b2a9bd04a5dd7a479fc545e339e3b82a962113872de"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/3/195420822785/9c9cf704a0d5cd0934ef71fbfc58a0f2/xiaomi-robot-vacuum-6-pro,195420822785_5.jpg",
+      "width": 1494,
+      "height": 1600,
+      "bytes": 112757,
+      "sha256": "e62fc8e54629125b204cca41bd132c63cc531e3f3fe51da28304e872a2f7345a"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "order": 7,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-pro/pc/0805-screen01-slogan_1.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 121887,
+      "sha256": "555323e3f08b018a5a79e87ceb229837b9e518c73c2cb934894a019108ff9177"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "order": 8,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-pro/pc/0806-screen02-icon2.png",
+      "width": 890,
+      "height": 1365,
+      "bytes": 178105,
+      "sha256": "f4f6508b65c3666732371d6a22476a6f2a6b6117d80e4d212bb8b4ff7b3bb049"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "order": 9,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-pro/pc/icon-screen02-xmimage-1.png",
+      "width": 890,
+      "height": 658,
+      "bytes": 44279,
+      "sha256": "fd40c92efaff162e3776584ac92674f99d9f28396f28c7c01335c3507a520576"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "description",
+      "order": 10,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-pro/pc/icon-screen02-xmimage-2.png",
+      "width": 890,
+      "height": 658,
+      "bytes": 57204,
+      "sha256": "61b26adcece1d2e72629365c8cfd064e21e8f74625e7406ebe32259453aed904"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "description",
+      "order": 11,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-pro/pc/icon-screen02-xmimage-3.png",
+      "width": 890,
+      "height": 695,
+      "bytes": 36018,
+      "sha256": "953e73c9d86c4733afd1eccf2a74606790b00b3bff22ca87614a882ebc5b9086"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "description",
+      "order": 12,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-pro/pc/icon-screen02-xmimage-5.png",
+      "width": 891,
+      "height": 650,
+      "bytes": 44017,
+      "sha256": "2559b01f9d9c093f33a12b476d37e4994707be3be0e3e9a29e3357d4d5100134"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "description",
+      "order": 13,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-pro/pc/icon-screen10-xmimage.png",
+      "width": 1600,
+      "height": 685,
+      "bytes": 69104,
+      "sha256": "58bd6feec52386ee8a97f1c767bed486ed67b751ca0f0b48af8a120200ad87cc"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "description",
+      "order": 14,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-pro/pc/bg-screen13.png",
+      "width": 1600,
+      "height": 782,
+      "bytes": 85178,
+      "sha256": "188fde601e3b2d16a19c92b58776f1120e214eb17d1cfc7e80834a461c52db21"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "description",
+      "order": 15,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-pro/pc/bg-screen17.png",
+      "width": 1600,
+      "height": 836,
+      "bytes": 115089,
+      "sha256": "4dc9e747d383c3e5258f023c3dcb9c15f645b89b374ceda12a69a6fe11abdc93"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "description",
+      "order": 16,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-pro/pc/bg-screen08.png",
+      "width": 1600,
+      "height": 896,
+      "bytes": 139512,
+      "sha256": "1f12dfe1800895e2f149e0fd55735e9c49f08ceb689eb36574335d1ba4a64385"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "description",
+      "order": 17,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-pro/pc/icon-screen15-xmimage-1.png",
+      "width": 1173,
+      "height": 599,
+      "bytes": 27926,
+      "sha256": "0dca1cdef8efa59590f155befb444c057070612f6be488f73c42e80a3147d28d"
+    },
+    {
+      "file": "opis-12.jpg",
+      "kind": "description",
+      "order": 18,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-pro/pc/icon-screen15-xmimage-6.png",
+      "width": 1600,
+      "height": 685,
+      "bytes": 93829,
+      "sha256": "e50ae5e5a148b08a61350a3fa42d2c38d791fc4d722b34cb25197f7812caa638"
+    },
+    {
+      "file": "logo-xiaomi-plotno-v2.jpg",
+      "kind": "logo",
+      "order": 19,
+      "sourceUrl": "kopia z repo mediow: xiaomi-robot-vacuum-6-max/logo-xiaomi-plotno-v2.jpg",
+      "note": "logo marki na koniec galerii",
+      "width": 1200,
+      "height": 300,
+      "bytes": 13464,
+      "sha256": "11cc949d0808bcc05bd8ae1ea55e1d638cdb2c761462fbc41c56501942da0be0",
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": []
+}
