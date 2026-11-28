@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T13:31:07.622Z",
+  "sourcePage": "https://sklep.dreame-polska.pl/product-pol-63823-Odkurzacz-pionowy-DREAME-T15-Pro-Heat-mopujacy.html",
+  "slug": "dreame-t15-pro-heat",
+  "galleryOrder": [
+    "produkt-06.webp",
+    "produkt-01.webp",
+    "produkt-02.webp",
+    "produkt-03.webp",
+    "produkt-04.webp",
+    "produkt-05.webp",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "logo-dreame.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.webp",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/9fc2f20f853a51dab6ab8c3467f3eaf0/pol_pl_Odkurzacz-pionowy-DREAME-T15-Pro-Heat-mopujacy-63823_1.webp",
+      "width": 800,
+      "bytes": 13180,
+      "sha256": "cae441b80805f114f575c8b49c63cd32323a42024613a73d0acadf96abc02bc1"
+    },
+    {
+      "file": "produkt-02.webp",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/175fa88eedd4860480263af22fc1e493/pol_pl_Odkurzacz-pionowy-DREAME-T15-Pro-Heat-mopujacy-63823_2.webp",
+      "width": 800,
+      "bytes": 6754,
+      "sha256": "369be1b68bbc56bdf0372fd08a9dd7e36c423d3887a60a7ea13d5935cdad21f2"
+    },
+    {
+      "file": "produkt-03.webp",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/b81ff59510f4f53905951891e29f81b5/pol_pl_Odkurzacz-pionowy-DREAME-T15-Pro-Heat-mopujacy-63823_3.webp",
+      "width": 800,
+      "bytes": 23550,
+      "sha256": "e6e25e83b7a530ebfa90fa5bdd22910239b5b7c6582ee7925b867384fa62ce16"
+    },
+    {
+      "file": "produkt-04.webp",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/a440a1cb2224ca06c553ac31218fc898/pol_pl_Odkurzacz-pionowy-DREAME-T15-Pro-Heat-mopujacy-63823_4.webp",
+      "width": 800,
+      "bytes": 7142,
+      "sha256": "143113aa6a6a6ced879e5f8b47765ca0f4b850899f16ab5171564e7574973540"
+    },
+    {
+      "file": "produkt-05.webp",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/7fcbe21d27022b1986dda34ba82ba42d/pol_pl_Odkurzacz-pionowy-DREAME-T15-Pro-Heat-mopujacy-63823_5.webp",
+      "width": 800,
+      "bytes": 18484,
+      "sha256": "52eac34de6b47c8d6d1101453f82f3b1763f392e37940a76973dc9b40e673ecf"
+    },
+    {
+      "file": "produkt-06.webp",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://sklep.dreame-polska.pl/hpeciai/1b2b75d74dace6465fc88d48520a338a/pol_pl_Odkurzacz-pionowy-DREAME-T15-Pro-Heat-mopujacy-63823_6.webp",
+      "width": 800,
+      "bytes": 8696,
+      "sha256": "b93f69d7b20a7e7e24f706ba6597263acbdd5e256206bc5a780b0793f4170441"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "lifestyle",
+      "order": 1,
+      "sourceUrl": "https://assets.innpro.pl/24131/31855/odkurzacz-pionowy-dreame-t15-pro-heat-podniesiony-ze-stacji-ladujacej-po-umyciu-szczotki-goraca-woda-cee1a12f-527a-4ca6-a03d-478c67f634f8.jpg",
+      "width": 1171,
+      "bytes": 41572,
+      "sha256": "cf3ea61921f1870df7e6d0bba0ce350089fd2e186da1409f3637e7439a4167e0"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "lifestyle",
+      "order": 2,
+      "sourceUrl": "https://assets.innpro.pl/24131/31855/dwa-odkurzacze-pionowe-dreame-t15-pro-heat-odkurzaja-jedzenie-z-podlogi-w-kuchni-ab0f097c-a132-4049-918a-2f6b34d02e51.jpg",
+      "width": 1171,
+      "bytes": 66935,
+      "sha256": "c76a3c8afc53fdb0096e0ca9ebcef617ef45e1410384696ec853e393bed3fd35"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://assets.innpro.pl/24131/31855/kobieta-odkurza-pod-kanapa-odkurzaczem-pionowym-dreame-t15-pro-heat-a-na-kanapie-leza-dziewczynka-i-0c8ee549-1294-404c-842d-15af0ea9a7f5.jpg",
+      "width": 1171,
+      "bytes": 72521,
+      "sha256": "8e5d1464d5cc1bf8c0b9f337795571b0d03df7cc344b74a8221ea7dc64e40b46"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://assets.innpro.pl/24131/31855/odkurzacz-pionowy-dreame-t15-pro-heat-miesci-sie-pomiedzy-meblami-984a430b-6a24-483d-af4d-036755ab165c.jpg",
+      "width": 1171,
+      "bytes": 87712,
+      "sha256": "8129a7065d9991af8910cab7b8ca6cd26bcd8152ae6e9aeb36b8b57c3d890923"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://assets.innpro.pl/24131/31855/odkurzacz-pionowy-dreame-t15-pro-heat-odkurza-wlosy-49cd6c83-3d32-419b-b8ab-f9201a56bb8b.jpg",
+      "width": 1171,
+      "bytes": 78842,
+      "sha256": "d997b7477aaf46d8066d886becb0eb3569038e53e4ca6aeb8cc2bfc5cfb8a43b"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://assets.innpro.pl/24131/31855/pies-siedzi-obok-czyszczacego-sie-na-stacji-ladujacej-odkurzacza-pionowego-dreame-t15-pro-heat-a-w-t-d01249a3-78ec-48e7-b980-f25dbbaf1f46.jpg",
+      "width": 1171,
+      "bytes": 70110,
+      "sha256": "abd4b5810a2e230c3c1d2ff261d631d01545fd3d0551fc9f27de5a7836083702"
+    },
+    {
+      "file": "logo-dreame.jpg",
+      "kind": "logo",
+      "order": 13,
+      "sourceUrl": "local: dropshipping/materiały/logo/1280px-Dreame_Logo.jpg (logo_plotno.py --napraw 1200x300)",
+      "width": 1200,
+      "bytes": 13078,
+      "sha256": "8eec6b8c4f4b3e5d5ca588afb5a9d67e6487b7f8c0cc35d641e0b6ad4d80cf08",
+      "height": 300,
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 8,
+  "curation": {
+    "note": "nr 1 = produkt-06 (packshot na bialym tle: odkurzacz w stacji z zapasowym walkiem i szczotka do czyszczenia - najpelniejszy komplet na karcie); logo na koncu",
+    "at": "2026-11-28"
+  }
+}
