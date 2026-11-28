@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:36:23.991143Z",
+  "sourcePage": "https://www.euro.com.pl/roboty-wieloczynnosciowe/webber-sm15beg.bhtml",
+  "slug": "webber-sm15beg",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "logo-webber-plotno.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/198001992217/473fbd33b75863f68ec37e633e0ab5e4/webber-sm15beg,198001992217_5.jpg",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 148999,
+      "sha256": "c5846e9fa27f1345ce01cb56c1950e2fa1d28ccf1be163d870055893812b9e33"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/198001992217/fcd46ca8254bdf24544e0b6bb355dab8/webber-sm15beg,198001992217_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 140516,
+      "sha256": "c184fa3eebf08e750ab971fba0411250363d915ce45d652aa749166db885961c"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/198001992217/b27908eab3b5738b680f89e4a93a4353/webber-sm15beg,198001992217_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 173092,
+      "sha256": "ff98252be0256e93a44f662353aa5fe874c81d64583ab7f0a54fee9971a11e01"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/198001992217/c586715613c563e13e0fb8faa320437f/webber-sm15beg,198001992217_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 187307,
+      "sha256": "6dea8a1efd9135c000fc59a2560e1e0885fbbb8ad9029c8225f061399f58020b"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/198001992217/9be135765835952f1fffbbc34007bfeb/webber-sm15beg,198001992217_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 487683,
+      "sha256": "be57506bd69fa4bd95fe00d131a35069fd649bf33942856427bb3809865d3171"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/198001992217/5677ab6a462882b29e9a5d3a3a5db82/webber-sm15beg,198001992217_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 349090,
+      "sha256": "ef9d5192dbd6efe46118d0af110078fa3d2b67fd12f876d6a79ac05fb0f1a82b"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "lifestyle",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/198001992217/ae1b9ba2988601eacffc081bd3d80e09/webber-sm15beg,198001992217_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 409548,
+      "sha256": "f1355c368c0510a4c345f8c8338fb75dad962a3a67f543ce00d129de2e32fbce"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "detail",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/198001992217/6e443817fbce92551c62af775b4fe39c/webber-sm15beg,198001992217_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 308278,
+      "sha256": "67e8b095eb93962cf19e3b23932ec8c1ae65e0c28e89d974ec24ffc24affce05"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "detail",
+      "order": 9,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/198001992217/b174c25ecbdf151b50b521e0df31fb0c/webber-sm15beg,198001992217_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 112306,
+      "sha256": "2b16a36f1803c9c6a026d50bac025c3fc7b5fb8115b6464d506950bbce3319e4"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "lifestyle",
+      "order": 10,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/198001992217/420aba4193b12a2f63b7c6d610d77395/webber-sm15beg,198001992217_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 251834,
+      "sha256": "07e77e43d2e20995b34897dbfb4cafd20e404f883b441ee65a92d9c0d474ab9b"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "detail",
+      "order": 11,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/198001992217/feaf4e5a56f4da02eb7d580e3579492d/webber-sm15beg,198001992217_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 260773,
+      "sha256": "fa6fa650a26a97ceb121094066873feae3145b7b8498170e071334a754c44c66"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "packaging",
+      "order": 12,
+      "sourceUrl": "https://f00.esfr.pl/foto/6/198001992217/f67fd4ce66497298de79b985e15e17af/webber-sm15beg,198001992217_5.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 298132,
+      "sha256": "1d5e2d985c6a5b31b3d2f1e2682fefa3e85e4f325a34dc3d86e1846f05b32b84"
+    },
+    {
+      "file": "logo-webber-plotno.jpg",
+      "kind": "logo",
+      "order": 13,
+      "sourceUrl": "repo mediów webber-ap9650/logo-producenta.jpg → logo_plotno.py --napraw (1200x300, znak 30%)",
+      "width": 1200,
+      "height": 300,
+      "bytes": 16383,
+      "sha256": "65413a68ba09abb3119a61ce10fc796c2ebcb5a4944d992d6ab19619b340116b",
+      "inkRatio": 0.297
+    }
+  ],
+  "note": "Zdjęcia z karty Euro SM15BEG (pobrał dyrygent 28.11 do _tmp/webber-sm15beg/euro/img, maks. 1600 px; nazwy źródłowe webber-sm15beg,198001992217). Karta producenta webber.pl = 403 (28.11). Kontaktówka: _tmp/webber-sm15beg/kontaktowka.jpg — na wszystkich zdjęciach ten sam robot VELA, opakowanie z kodem SM15BEG. Logo Webber na końcu."
+}
