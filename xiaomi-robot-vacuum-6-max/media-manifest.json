@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T13:51:45.759414+00:00",
+  "sourcePage": "https://www.mi.com/pl/product/xiaomi-robot-vacuum-6-max/",
+  "slug": "xiaomi-robot-vacuum-6-max",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "opis-01.jpg",
+    "opis-02.jpg",
+    "opis-03.jpg",
+    "opis-04.jpg",
+    "opis-05.jpg",
+    "opis-06.jpg",
+    "opis-07.jpg",
+    "opis-08.jpg",
+    "opis-09.jpg",
+    "opis-10.jpg",
+    "opis-11.jpg",
+    "opis-12.jpg",
+    "opis-13.jpg",
+    "opis-14.jpg",
+    "opis-15.jpg",
+    "opis-16.jpg",
+    "opis-17.jpg",
+    "opis-18.jpg",
+    "opis-19.jpg",
+    "opis-20.jpg",
+    "logo-xiaomi-plotno-v2.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://i05.appmifile.com/978_item_pl/21/08/2026/f39f8a4dad6ec71f624cf556f039d16a.png",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 91824,
+      "sha256": "498f3566d8172cf1243dc5a09ddc378b9d5682228ac32269ea4553b3fc238b7f"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen02_ksp1.png",
+      "width": 891,
+      "height": 650,
+      "bytes": 47207,
+      "sha256": "db121dc1eaf5e22a4d739c9804a9c87ebeacde38f8cf6e407296561cdc68dad1"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/icon-screen08-987.png",
+      "width": 971,
+      "height": 704,
+      "bytes": 48010,
+      "sha256": "1a245a5822192b1952ae4307ffab96f1d6e4fe74dd6540cd038f2ef296cb1608"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen06_bg.png",
+      "width": 1600,
+      "height": 892,
+      "bytes": 108995,
+      "sha256": "248730ee1beccb9faa003133797cbfa0822c1a89f2e4fdd989fff3a0d45f8248"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen02_ksp4.png",
+      "width": 890,
+      "height": 620,
+      "bytes": 31012,
+      "sha256": "3717a9453afa0f1b8e8dd2d6003aa22a133192e8826588d0146ecf28e918ea4b"
+    },
+    {
+      "file": "opis-01.jpg",
+      "kind": "description",
+      "order": 6,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen02_ksp5.png",
+      "width": 890,
+      "height": 658,
+      "bytes": 49930,
+      "sha256": "31c41cc6768423c10cdbd3143f039cf5ca57741a2c5117e32957230eb84eee77"
+    },
+    {
+      "file": "opis-02.jpg",
+      "kind": "description",
+      "order": 7,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen02_ksp3.png",
+      "width": 891,
+      "height": 650,
+      "bytes": 76605,
+      "sha256": "b4362eb282a0add4a06d2038e8fc73b92e58ccaa65132348420332d9c4d7372b"
+    },
+    {
+      "file": "opis-03.jpg",
+      "kind": "description",
+      "order": 8,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen05_card1.png",
+      "width": 588,
+      "height": 771,
+      "bytes": 44804,
+      "sha256": "c411de66b19f74407ca2f0ebdbd2e03ff911f6103b3743b5a82c1c47434baaa3"
+    },
+    {
+      "file": "opis-04.jpg",
+      "kind": "description",
+      "order": 9,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen05_card2.png",
+      "width": 589,
+      "height": 771,
+      "bytes": 29020,
+      "sha256": "c58a2b11dc9002d3b75c239a3e35b4b8b22a898732da9b81f5804a3bf9bffce1"
+    },
+    {
+      "file": "opis-05.jpg",
+      "kind": "description",
+      "order": 10,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen05_card3.png",
+      "width": 588,
+      "height": 771,
+      "bytes": 38121,
+      "sha256": "1e6b490202b1e681bbe5892b656433a46a8573e5f1434b70c287231aa7cfe9e7"
+    },
+    {
+      "file": "opis-06.jpg",
+      "kind": "description",
+      "order": 11,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/icon-screen27-1.png",
+      "width": 886,
+      "height": 512,
+      "bytes": 51861,
+      "sha256": "0f7532c007aad13809370df6b9046cd1da299f87d8a9d03c18357ac360f0e3a9"
+    },
+    {
+      "file": "opis-07.jpg",
+      "kind": "description",
+      "order": 12,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/icon-screen27-2.png",
+      "width": 886,
+      "height": 511,
+      "bytes": 42725,
+      "sha256": "e854592741125bf361f327743ff917d0665ad8e4e1e01e4a11200985704b44c5"
+    },
+    {
+      "file": "opis-08.jpg",
+      "kind": "description",
+      "order": 13,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen06_card3.png",
+      "width": 588,
+      "height": 444,
+      "bytes": 36151,
+      "sha256": "d8361bc8bd24c68bd8db7207d5cfe4a48e473e5e8dbb32e7747dcbb80c4ada24"
+    },
+    {
+      "file": "opis-09.jpg",
+      "kind": "description",
+      "order": 14,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen02_ksp2.png",
+      "width": 890,
+      "height": 1320,
+      "bytes": 94356,
+      "sha256": "47280e7e09f161e993487228e315d5127dfaecb7a596f2c24f4fe05f6fd4a397"
+    },
+    {
+      "file": "opis-10.jpg",
+      "kind": "description",
+      "order": 15,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen06_card2.png",
+      "width": 589,
+      "height": 445,
+      "bytes": 69796,
+      "sha256": "8c0b5f6486b4225a6f775ce289bf2116bf0271b94a68c1c79d3ca683183f388b"
+    },
+    {
+      "file": "opis-11.jpg",
+      "kind": "description",
+      "order": 16,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen05_bg.png",
+      "width": 1600,
+      "height": 742,
+      "bytes": 93896,
+      "sha256": "32f219db74a70599d0aec6741eecbb5a915b33cc187a9bb7398a4106b580f1fd"
+    },
+    {
+      "file": "opis-12.jpg",
+      "kind": "description",
+      "order": 17,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen13_bg.png",
+      "width": 1600,
+      "height": 516,
+      "bytes": 92169,
+      "sha256": "da416792583dc219b7fc5d015a1f8659f1945461656781d11c3a4c8cb1e2d1ce"
+    },
+    {
+      "file": "opis-13.jpg",
+      "kind": "description",
+      "order": 18,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen19_bg.png",
+      "width": 1600,
+      "height": 836,
+      "bytes": 128576,
+      "sha256": "f434ee061479f8f8d8d3bf00848eb050218d5f33edfa00a13d770ffed5618828"
+    },
+    {
+      "file": "opis-14.jpg",
+      "kind": "description",
+      "order": 19,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen20_bg.png",
+      "width": 980,
+      "height": 1012,
+      "bytes": 123189,
+      "sha256": "e8f9c164c715902b12aba2cd324212640aa3548ef55c27af9678cb8cbabcee81"
+    },
+    {
+      "file": "opis-15.jpg",
+      "kind": "description",
+      "order": 20,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen16_bg.png",
+      "width": 979,
+      "height": 1012,
+      "bytes": 163146,
+      "sha256": "8d060052df1579533cc7a8b75f51d9d28baaf53e82b26fb304d9670fd82efafa"
+    },
+    {
+      "file": "opis-16.jpg",
+      "kind": "description",
+      "order": 21,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/bg-screen29.png",
+      "width": 1600,
+      "height": 771,
+      "bytes": 211073,
+      "sha256": "606fd639a1181ca462be84371c2a9d5209488df0dd59637f0e4059cbb172e0f2"
+    },
+    {
+      "file": "opis-17.jpg",
+      "kind": "description",
+      "order": 22,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen15_bg.png",
+      "width": 1600,
+      "height": 898,
+      "bytes": 136530,
+      "sha256": "97633c8eacbbf88884c2e626344f5528e9166457564197b72ba061b9dd846c21"
+    },
+    {
+      "file": "opis-18.jpg",
+      "kind": "description",
+      "order": 23,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen22_bg.png",
+      "width": 1600,
+      "height": 1053,
+      "bytes": 258991,
+      "sha256": "5554bb2f80d9e02fbd50394f64a602c7662a68e47826bf86722f89e49711ace6"
+    },
+    {
+      "file": "opis-19.jpg",
+      "kind": "description",
+      "order": 24,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/bg-screen28.png",
+      "width": 1600,
+      "height": 695,
+      "bytes": 207259,
+      "sha256": "501d4c494d792e08b933c2d2dd3d2b4a0d584a1e09613acc74dd6ad409952557"
+    },
+    {
+      "file": "opis-20.jpg",
+      "kind": "description",
+      "order": 25,
+      "sourceUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-robot-vacuum-6-max/pc/screen03_poster.jpg",
+      "width": 1600,
+      "height": 811,
+      "bytes": 150437,
+      "sha256": "25bd5798a1966ba7775551e2c42a106596b29b5c06a28a5630d465720adc046f"
+    },
+    {
+      "file": "logo-xiaomi-plotno-v2.jpg",
+      "kind": "logo",
+      "order": 26,
+      "sourceUrl": "kopia z repo mediow: xiaomi-dust-mite-vacuum-cleaner-2-pro/logo-xiaomi-plotno-v2.jpg",
+      "note": "logo marki na koniec galerii",
+      "width": 1200,
+      "height": 300,
+      "bytes": 13464,
+      "sha256": "11cc949d0808bcc05bd8ae1ea55e1d638cdb2c761462fbc41c56501942da0be0",
+      "inkRatio": 0.301
+    }
+  ],
+  "dropped": 0
+}
