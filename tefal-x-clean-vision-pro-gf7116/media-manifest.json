@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T13:32:49.123408+00:00",
+  "sourcePage": "https://www.tefal.pl/bezprzewodowy-odkurzacz-myjacy-tefal-x-clean-vision-pro",
+  "slug": "tefal-x-clean-vision-pro-gf7116",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "logo-tefal-plotno.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gf7116f4_x-clean-vision-pro_h1.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 60773,
+      "sha256": "8355500cebbc6355bfee0e0ac5362d2d9da493df928cd38b910206a445e71537"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gf7116f4_x-clean-vision-pro_deep-maintenance_pwc5_pl-pl.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 205870,
+      "sha256": "489eb826c6d49d9630632280958e8f692c865066eb3727dc260104d39c3385f7"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gf7116f4_x-clean-vision-pro_easy-cleaning_pwc4_pl-pl.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 173707,
+      "sha256": "49630bcc98fd5908bdbc07b0b8a4f0831b4a96cbbe9a3ebe4de725b3271bf573"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://www.tefal.pl/media/catalog/product/l/a/large-tfl_gf7116f4_x-clean-vision-pro_guidance_pwc3_pl-pl.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 128768,
+      "sha256": "5994d8e6bc25fc13f3fa3ecc85d288ac99944340567f63e5156549cd53289d3a"
+    },
+    {
+      "file": "logo-tefal-plotno.jpg",
+      "kind": "logo",
+      "order": 5,
+      "sourceUrl": "kopia z repo mediow: produkty-media/tefal-clean-it-hot-cold-iz7021/logo-tefal-plotno.jpg",
+      "bytes": 14886,
+      "sha256": "dff97262e6ec73b44eb88cef7226ee759a5185e7a1a87ea13e853754e6e2b4df",
+      "width": 1200,
+      "height": 300,
+      "inkRatio": 0.3
+    }
+  ],
+  "dropped": 4,
+  "sourceNote": "Zdjecia z oficjalnej karty tefal.pl X-Clean Vision Pro (Nr ref. GF7116, SKU 7211005616, kolor wg karty Czarny). produkt-01 = packshot GF7116F4 na bialym tle z kompletem (odkurzacz, baza, zapasowy walek, filtr, szczoteczka). 02 konserwacja 85°C/8 min, 03 LED pod meblami 14 cm, 04 ekran LCD z animacjami (tekst ekranu po angielsku). ODRZUCONE: PWC1 i PWC2 (na glowicy napis ROWENTA — inna marka), bezmarkowy_odkurzacz_myj_cy_w_akcji.png (bez marki, nie do weryfikacji), Large PWCD (placeholder „brak obrazka”), Medium PWCD (lifestyle z wymiarami, ale pokazuje plyn do mycia spoza zestawu — do decyzji), grafiki NO-BRAND GZ71-GF71 i HOTSPOT (wspolne z Rowenta / baner). Logo marki na koncu galerii."
+}
