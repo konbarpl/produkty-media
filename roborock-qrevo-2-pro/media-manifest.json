@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T13:40:43.594647Z",
+  "sourcePage": "https://pl.roborock.com/pages/roborock-qrevo-2-pro",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "logo-producenta.png"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Qrevo-2-Pro_section3_pic5.jpg",
+      "width": 1680,
+      "height": 1080,
+      "bytes": 45083,
+      "sha256": "289c49f429a477382bfc03a4bb94db87c5471f671a8b6e7a2671c569430619a7"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Qrevo-2-Pro_section3_pic3.jpg",
+      "width": 928,
+      "height": 720,
+      "bytes": 30363,
+      "sha256": "b3624fd3f24536ecb48f5921a8716becedae669f13ed4be177ca0ba30287c0ab"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "lifestyle",
+      "order": 3,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Qrevo-2-Pro_section1_pic_pc.jpg",
+      "width": 2000,
+      "height": 1042,
+      "bytes": 82200,
+      "sha256": "38701fa1bb24b14dff82bbecde71efa31a8b76c5db000bcddd0183bfb917c3ab"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "lifestyle",
+      "order": 4,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Qrevo-2-Pro_section23_pic1.jpg",
+      "width": 1296,
+      "height": 786,
+      "bytes": 148057,
+      "sha256": "743befdb86db781ac0855a62d3dea9148104b646215b30f7446a8a425b3f44c3"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "lifestyle",
+      "order": 5,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Qrevo-2-Pro_section23_pic10.jpg",
+      "width": 1296,
+      "height": 786,
+      "bytes": 141237,
+      "sha256": "619c225b654ff65843e102fee11eba465d328c1f4f2dced02bd85f6f34665180"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "lifestyle",
+      "order": 6,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Qrevo-2-Pro_section23_pic4.jpg",
+      "width": 1296,
+      "height": 786,
+      "bytes": 127439,
+      "sha256": "881157e7172df28591f90fa9acefb5d1e00823d753254e465b0a982a6fc50055"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Qrevo-2-Pro_section17_pic5.jpg",
+      "width": 2000,
+      "height": 1000,
+      "bytes": 66723,
+      "sha256": "075d0bb5bac9df00afa3483386bebb09aabb9170c294b35f4ed6a2e35a6f9a12"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Qrevo-2-Pro_section16_pic.jpg",
+      "width": 2000,
+      "height": 1021,
+      "bytes": 247029,
+      "sha256": "04219e4fb2491c2de321c936764c76490b58876044df6b348454d657da50f17a"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Qrevo-2-Pro_section3_pic2.jpg",
+      "width": 928,
+      "height": 720,
+      "bytes": 45860,
+      "sha256": "f130080696bce320af0d3f1d7bc1d40109218a312e8c1ea5ff809c5a40c38027"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Qrevo-2-Pro_section3_pic4.jpg",
+      "width": 1312,
+      "height": 720,
+      "bytes": 117548,
+      "sha256": "af61339d03af087d70b29e1951f4a2320121388bd7828c365899c08339179bef"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "product",
+      "order": 11,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Qrevo-2-Pro_section13_pic1.jpg",
+      "width": 2000,
+      "height": 1250,
+      "bytes": 300626,
+      "sha256": "dc85d19c201d9f0c3010ece25394c9397a60fe19cb7caf774a6f297c37808ff0"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Qrevo-2-Pro_section20_pic.jpg",
+      "width": 2000,
+      "height": 1021,
+      "bytes": 149712,
+      "sha256": "5a9384b0903c4affeb163a2f1036a339cda3a3399e46cf7b909fc034f9f92023"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://pl.roborock.com/cdn/shop/files/Qrevo-2-Pro_section23_pic12.jpg",
+      "width": 1296,
+      "height": 786,
+      "bytes": 187040,
+      "sha256": "164aa02b21fa29fe71b483653857e6b12e338c8978a1a08e8caa525cf81f7b1e"
+    },
+    {
+      "file": "logo-producenta.png",
+      "kind": "logo",
+      "order": 14,
+      "sourceUrl": "kopia logo roborock-f25-ultra/logo-roborock-plotno.png",
+      "width": 1200,
+      "height": 300,
+      "bytes": 18986,
+      "sha256": "7949fb1b6c93523d52c15e4d11657f1965311828d8a2abbe90da1cc35ed3bdc0",
+      "inkRatio": 0.3
+    }
+  ]
+}
