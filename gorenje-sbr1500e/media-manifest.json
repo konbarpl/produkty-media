@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T14:27:36.569662Z",
+  "sourcePage": "https://www.euro.com.pl/roboty-wieloczynnosciowe/gorenje-sbr1500e-1500w.bhtml",
+  "slug": "gorenje-sbr1500e",
+  "galleryOrder": [
+    "produkt-01.jpg",
+    "produkt-02.jpg",
+    "produkt-03.jpg",
+    "produkt-04.jpg",
+    "produkt-05.jpg",
+    "produkt-06.jpg",
+    "produkt-07.jpg",
+    "produkt-08.jpg",
+    "produkt-09.jpg",
+    "produkt-10.jpg",
+    "produkt-11.jpg",
+    "produkt-12.jpg",
+    "produkt-13.jpg",
+    "produkt-14.jpg",
+    "produkt-15.jpg",
+    "logo-gorenje-plotno.jpg"
+  ],
+  "files": [
+    {
+      "file": "produkt-01.jpg",
+      "kind": "product",
+      "order": 1,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/fa512c11d74b88d61c6ced58183900ea/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 1600,
+      "height": 918,
+      "bytes": 138677,
+      "sha256": "e74c22b63eb79ddfe39aa911b18e825a8ee82f6e9b59856a0e1796fee32c3ca8"
+    },
+    {
+      "file": "produkt-02.jpg",
+      "kind": "product",
+      "order": 2,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/3bd978c76ae04ff34557ab954bc9f118/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 665,
+      "height": 1200,
+      "bytes": 89666,
+      "sha256": "f408be031b787f4a77bde06603f0d1157db0cff1e00807ce4e15f2527fabb88e"
+    },
+    {
+      "file": "produkt-03.jpg",
+      "kind": "product",
+      "order": 3,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/9372248d3750ceac69c8678f0c4d7f7a/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 703,
+      "height": 1200,
+      "bytes": 82088,
+      "sha256": "d3e60ca6e87dcfd10665085c204669efc40ac0bd868c71e3e37ed4cae2531fa6"
+    },
+    {
+      "file": "produkt-04.jpg",
+      "kind": "product",
+      "order": 4,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/4e1ea7ff08ecc75cdd1a99888c8084d1/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 1063,
+      "height": 1200,
+      "bytes": 116961,
+      "sha256": "815b8d06b77da097a40242022948081c37147eb91ea222c3def929092f77406b"
+    },
+    {
+      "file": "produkt-05.jpg",
+      "kind": "product",
+      "order": 5,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/b4d1210ae849ab8a9b9e8d4ed42ddbb5/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 1268,
+      "height": 1200,
+      "bytes": 81195,
+      "sha256": "c028c1e7859aa0a2933db4a3fe64d6126d0b6625476d6b5dbe7437940471ce0c"
+    },
+    {
+      "file": "produkt-06.jpg",
+      "kind": "product",
+      "order": 6,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/d8054ca2ccd156f6d469ed285ef8d092/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 1263,
+      "height": 1200,
+      "bytes": 108236,
+      "sha256": "56b4083d388a0cc5504c4c53370d6c57d87666754cf39d077f1f6e3e7dded87c"
+    },
+    {
+      "file": "produkt-07.jpg",
+      "kind": "product",
+      "order": 7,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/d2c91602584b890db6d87cf37e9beaa5/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 1179,
+      "height": 1200,
+      "bytes": 96485,
+      "sha256": "48108d5ad305bf44b50717bee16f5fc981e6aa9546c3a7d3ab809a4a5291bdd1"
+    },
+    {
+      "file": "produkt-08.jpg",
+      "kind": "product",
+      "order": 8,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/5dcd75446ec0bd61fe84e2775f795e7b/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 1131,
+      "height": 1200,
+      "bytes": 71400,
+      "sha256": "9203de454573f53f5541cb2d978d4456e701be5b6684133c78fe62880e7b8b21"
+    },
+    {
+      "file": "produkt-09.jpg",
+      "kind": "product",
+      "order": 9,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/541ea82fe4423bc150b6727eae0cbb07/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 671,
+      "height": 1200,
+      "bytes": 38863,
+      "sha256": "07038734eedb2817750373a6db844fc549538b7f13ed28be933c8821f9c84577"
+    },
+    {
+      "file": "produkt-10.jpg",
+      "kind": "product",
+      "order": 10,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/99fdb9b25fcab5ccc7800cb155abe86d/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 706,
+      "height": 1200,
+      "bytes": 68986,
+      "sha256": "4ee59fdb5628e1c9e21def1a1f70541600f2efc1fd6d06230df2272624c83026"
+    },
+    {
+      "file": "produkt-11.jpg",
+      "kind": "lifestyle",
+      "order": 11,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/12b2c15d9a5682c714f50c89e41173cb/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 150204,
+      "sha256": "7bae948476ec2dbda3338a4cd6ef1a17dc930b2e108bf3dfc4e5b1026c6a2eb8"
+    },
+    {
+      "file": "produkt-12.jpg",
+      "kind": "lifestyle",
+      "order": 12,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/d80c801ba96d756392b49fdb3803943d/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 1600,
+      "height": 1018,
+      "bytes": 258200,
+      "sha256": "af18843e4d2d0d05054253f7e21d19569d3dd784f4ba6e3c40f5d1842caf76db"
+    },
+    {
+      "file": "produkt-13.jpg",
+      "kind": "lifestyle",
+      "order": 13,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/1627c446f8e9f0d0b7713bdaa43ccec6/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 149091,
+      "sha256": "6fee33402affe7a80dfb8d0c63d1a2b72f547c5cf0e57d71e9e2a8e2e4dd6376"
+    },
+    {
+      "file": "produkt-14.jpg",
+      "kind": "lifestyle",
+      "order": 14,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/cf8979521cd45f42530568e89e53c6ac/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 210090,
+      "sha256": "bcef48509de60ab8bc46edd088db26779e5feafc12ca4650525eef525eb2ea8f"
+    },
+    {
+      "file": "produkt-15.jpg",
+      "kind": "lifestyle",
+      "order": 15,
+      "sourceUrl": "https://f00.esfr.pl/foto/1/196503948169/df06da91709ea90196454d4cf024487c/gorenje-sbr1500e-1500w,196503948169_5.jpg",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 206357,
+      "sha256": "81e44e77f912b2f007706fba96f4050307eb5eace19d0124b5e6751acaa981ec"
+    },
+    {
+      "file": "logo-gorenje-plotno.jpg",
+      "kind": "logo",
+      "order": 16,
+      "sourceUrl": "repo mediów gorenje-svc296449nmbl/logo-gorenje.jpg (wordmark gorenje) → płótno 1200x300 logo_plotno.py --napraw",
+      "width": 1200,
+      "height": 300,
+      "bytes": 14309,
+      "sha256": "bfdb80bff47b8243b7f216c1d01772771fa2a0935d0e7bdb27a2086d43688547",
+      "inkRatio": 0.301
+    }
+  ],
+  "note": "Zdjęcia z karty Euro Gorenje SBR1500E (pobrał dyrygent 28.11 do _tmp/gorenje-sbr1500e/euro/img, max 1600 px; nazwy plików źródłowych gorenje-sbr1500e-1500w). gorenje.com/pl = HTTP 403 (28.11). Kontaktówka: _tmp/gorenje-sbr1500e/kontaktowka.jpg (logo gorenje na korpusie). 01 = komplet zestawu na białym tle; 02–10 packshoty i akcesoria; 11–15 lifestyle; logo na końcu."
+}
